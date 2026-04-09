@@ -313,3 +313,49 @@
 - [ ] https://job-boards.greenhouse.io/airtable/jobs/8434307002 | Airtable | AI Analytics Engineer (Marketing Analytics)
 
 ## Procesadas
+
+### Scout Quick-Check 2026-04-09 (Greenhouse APIs only)
+
+#### Hume AI (re-scan — new role discovered)
+- [ ] https://job-boards.greenhouse.io/humeai/jobs/4003488008 | Hume AI | Senior/Staff AI Research Engineer | NYC/San Jose/Remote
+
+#### RunPod (new role)
+- [ ] https://job-boards.greenhouse.io/runpod/jobs/4785681008 | RunPod | Software Engineer (Full-Stack) | Remote USA
+
+#### Vercel (new role)
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5661583004 | Vercel | Software Engineer, Lua | Remote USA
+
+#### Glean (new role)
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4436194005 | Glean | Software Engineer, Security | San Francisco
+
+#### Arize AI (new roles)
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5396396004 | Arize AI | Senior AI Product Engineer, Backend | Remote USA
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5396420004 | Arize AI | Senior AI Product Engineer, Fullstack | Remote USA
+
+#### Black Forest Labs (new — first scan, hot AI company) ⭐
+- [ ] https://job-boards.greenhouse.io/blackforestlabs/jobs/4925659008 | Black Forest Labs | Member of Technical Staff - Infrastructure Engineer | Freiburg/SF
+- [ ] https://job-boards.greenhouse.io/blackforestlabs/jobs/5019171008 | Black Forest Labs | Member of Technical Staff - Large Scale Data Infrastructure | Freiburg/SF
+
+#### Fivetran (new — first scan, Denver + Oakland) ⭐ TOP PICKS
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7581688003 | Fivetran | Senior Site Reliability Engineer | Denver, CO | ⭐ LOCAL
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7483663003 | Fivetran | Senior Staff Software Engineer - Binary Log Data Replication | Denver, CO | ⭐ LOCAL
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7581685003 | Fivetran | Senior Site Reliability Engineer | Oakland, CA
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7486167003 | Fivetran | Senior Staff Site Reliability Engineer | Oakland, CA
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7537470003 | Fivetran | Senior Staff Software Engineer - Performance Engineering | Oakland, CA
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7393532003 | Fivetran | Senior Staff Software Engineer - Binary Log Data Replication | Oakland, CA
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7663240003 | Fivetran | Senior Software Engineer - Databases | Oakland, CA
+- [ ] https://www.fivetran.com/careers/job?gh_jid=6664139003 | Fivetran | Principal Software Engineer - AI Tooling & Adoption | Oakland, CA
+
+#### PolyAI (new)
+- [ ] https://job-boards.eu.greenhouse.io/polyai/jobs/4796935101 | PolyAI | Forward Deployed AI Engineer (PST timezone) | US West Coast Remote
+
+#### Stability AI (new — first scan)
+- [ ] http://stability.ai/careers?gh_jid=4712821101 | Stability AI | Senior Backend Engineer | United States
+- [ ] http://stability.ai/careers?gh_jid=4712826101 | Stability AI | Generative AI Inference Engineer | United States
+
+#### Amplemarket (new)
+- [ ] https://job-boards.eu.greenhouse.io/amplemarket/jobs/4066899101 | Amplemarket | Senior Backend Software Engineer | Remote (North America eligible)
+
+#### Wayve (new — AV company, Sunnyvale)
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8483723002 | Wayve | Cloud Infrastructure Engineer | Sunnyvale, CA
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8435254002 | Wayve | Machine Learning Engineer, App SW | Sunnyvale, CA
