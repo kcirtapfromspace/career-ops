@@ -175,6 +175,50 @@ search_queries:
     query: 'site:remotefront.com "AI Engineer" OR "Solutions Engineer" OR "Automation" OR "LLM" OR "Agent" remote'
     enabled: true
 
+  # -- Startups: Y Combinator --
+  - name: YC — Staff/Senior Data & Platform
+    query: 'site:workatastartup.com "Staff" OR "Senior" "Data Engineer" OR "Platform Engineer" OR "Infrastructure" remote'
+    enabled: true
+
+  - name: YC — Engineering Manager
+    query: 'site:workatastartup.com "Engineering Manager" OR "Head of Engineering" OR "VP Engineering" "data" OR "platform" OR "infrastructure" remote'
+    enabled: true
+
+  - name: YC — ML Infrastructure
+    query: 'site:workatastartup.com "ML Engineer" OR "ML Platform" OR "ML Infrastructure" OR "AI Infrastructure" remote'
+    enabled: true
+
+  # -- Startups: Wellfound (AngelList) --
+  - name: Wellfound — Staff Data/Platform Engineer
+    query: 'site:wellfound.com/jobs "Staff" OR "Senior" "Data Engineer" OR "Platform Engineer" OR "Backend Engineer" remote'
+    enabled: true
+
+  - name: Wellfound — Founding Engineer
+    query: 'site:wellfound.com/jobs "Founding Engineer" OR "Head of Engineering" OR "First Engineer" remote'
+    enabled: true
+
+  - name: Wellfound — ML/AI Infrastructure
+    query: 'site:wellfound.com/jobs "ML Engineer" OR "AI Engineer" OR "ML Infrastructure" remote'
+    enabled: true
+
+  # -- Startups: Broad discovery --
+  - name: Startups — Founding/Head of Eng
+    query: '"Founding Engineer" OR "Head of Engineering" OR "VP Engineering" "data" OR "platform" OR "Kubernetes" OR "distributed" remote 2026'
+    enabled: true
+
+  - name: Startups — AI Infra Series A-C
+    query: '"Staff" OR "Senior" "Data Engineer" OR "Platform Engineer" OR "Infrastructure Engineer" site:jobs.ashbyhq.com OR site:job-boards.greenhouse.io OR site:jobs.lever.co "Series A" OR "Series B" OR "Series C" remote'
+    enabled: true
+
+  - name: Startups — Hacker News Who's Hiring
+    query: 'site:news.ycombinator.com "Who is hiring" "Staff" OR "Senior" "Data" OR "Platform" OR "Infrastructure" OR "ML" remote 2026'
+    enabled: true
+
+  # -- Startups: Tech Crunch / recent funding --
+  - name: Recently Funded — AI/Data Startups
+    query: '"raised" "Series" "AI" OR "data infrastructure" OR "ML platform" OR "vector" "hiring" OR "jobs" "Staff Engineer" OR "Senior Engineer" remote 2026'
+    enabled: true
+
 # -- Tracked companies --
 # Companies whose career pages are checked directly.
 # scan_method: playwright (default), websearch, greenhouse_api
@@ -732,4 +776,111 @@ tracked_companies:
     careers_url: https://job-boards.greenhouse.io/amplemarket
     api: https://boards-api.greenhouse.io/v1/boards/amplemarket/jobs
     notes: "Lisbon PT / Remote. AI-native sales platform."
+    enabled: true
+
+  # -- High-growth AI/Infra Startups (US, trailblazer picks) --
+
+  - name: Modal
+    careers_url: https://jobs.ashbyhq.com/modal
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/modal'
+    notes: "SF. Serverless cloud for AI/ML. Infra engineers run compute at scale. Series B."
+    enabled: true
+
+  - name: Weaviate
+    careers_url: https://jobs.ashbyhq.com/weaviate
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/weaviate'
+    notes: "Remote. Open-source vector DB. Go-based. Pinecone competitor."
+    enabled: true
+
+  - name: Prefect
+    careers_url: https://job-boards.greenhouse.io/prefect
+    api: https://boards-api.greenhouse.io/v1/boards/prefect/jobs
+    notes: "Remote. Workflow orchestration (Airflow competitor). Python. Directly relevant."
+    enabled: true
+
+  - name: Dagster
+    careers_url: https://jobs.ashbyhq.com/dagster
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/dagster'
+    notes: "Remote/NYC. Data orchestration. Software-defined assets. Directly relevant."
+    enabled: true
+
+  - name: dbt Labs
+    careers_url: https://job-boards.greenhouse.io/daboratorieslabs
+    scan_method: websearch
+    scan_query: '"dbt Labs" careers "Engineer" site:boards.greenhouse.io OR site:job-boards.greenhouse.io'
+    notes: "Remote. dbt is already in Patrick's stack. Data transformation leader."
+    enabled: true
+
+  - name: Fivetran
+    careers_url: https://job-boards.greenhouse.io/fivetran
+    api: https://boards-api.greenhouse.io/v1/boards/fivetran/jobs
+    notes: "Denver/Remote. Data integration. Local company. Directly relevant stack."
+    enabled: true
+
+  - name: Hex
+    careers_url: https://jobs.ashbyhq.com/hex
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/hex'
+    notes: "Remote. Collaborative data workspace. Analytics + AI."
+    enabled: true
+
+  - name: Anyscale
+    careers_url: https://jobs.lever.co/anyscale
+    notes: "SF. Ray framework for distributed AI. Core distributed systems."
+    enabled: true
+
+  - name: Replicate
+    careers_url: https://jobs.ashbyhq.com/replicate
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/replicate'
+    notes: "SF/Remote. ML model deployment platform. Infra for running models."
+    enabled: true
+
+  - name: Fly.io
+    careers_url: https://jobs.ashbyhq.com/fly.io
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/fly.io'
+    notes: "Remote. Edge compute platform. Rust + Go. Distributed systems."
+    enabled: true
+
+  - name: Turso
+    careers_url: https://jobs.ashbyhq.com/turso
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/turso'
+    notes: "Remote. Edge database (libSQL/SQLite). Rust-based. Distributed DB."
+    enabled: true
+
+  - name: Neon
+    careers_url: https://job-boards.greenhouse.io/neondatabase
+    api: https://boards-api.greenhouse.io/v1/boards/neondatabase/jobs
+    notes: "Remote. Serverless Postgres. Rust storage engine. Distributed systems."
+    enabled: true
+
+  - name: MotherDuck
+    careers_url: https://jobs.ashbyhq.com/motherduck
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/motherduck'
+    notes: "Remote/Seattle. Cloud DuckDB. Patrick already uses DuckDB. Direct fit."
+    enabled: true
+
+  - name: Ramp
+    careers_url: https://jobs.ashbyhq.com/ramp
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/ramp "Data" OR "Platform" OR "Infrastructure" OR "ML"'
+    notes: "NYC (remote ok). High-growth fintech. Strong data platform team."
+    enabled: true
+
+  - name: Samsara
+    careers_url: https://job-boards.greenhouse.io/samsara
+    api: https://boards-api.greenhouse.io/v1/boards/samsara/jobs
+    notes: "SF/Remote. IoT + AI platform. Large-scale data infrastructure."
+    enabled: true
+
+  - name: Chainguard
+    careers_url: https://job-boards.greenhouse.io/chainguard
+    api: https://boards-api.greenhouse.io/v1/boards/chainguard/jobs
+    notes: "Remote. Cloud-native supply chain security. K8s, containers, Argo/Tekton."
     enabled: true
