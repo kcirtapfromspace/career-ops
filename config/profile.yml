@@ -1,0 +1,111 @@
+# Career-Ops Profile Configuration
+# This is the single source of truth for your personal data across all modes.
+
+candidate:
+  full_name: "Patrick Deutsch"
+  email: "patrickdeutsch@gmail.com"
+  phone: "+1-570-778-7336"
+  location: "Denver, CO"
+  linkedin: "linkedin.com/in/patrickdeutsch"
+  portfolio_url: "https://kcirtap.io"
+  github: "github.com/kcirtapfromspace"
+  # twitter: ""
+
+target_roles:
+  # Your North Star roles — what you're optimizing for
+  primary:
+    - "Staff Software Engineer"
+    - "Staff Data Engineer"
+    - "Software Engineering Manager"
+    - "Senior Data Engineering Manager"
+  # Archetypes help the evaluation system score fit
+  archetypes:
+    # IC roles
+    - name: "Staff Software Engineer"
+      level: "Staff"
+      fit: "primary"
+    - name: "Staff Data Engineer"
+      level: "Staff"
+      fit: "primary"
+    - name: "ML Engineer"
+      level: "Senior/Staff"
+      fit: "primary"
+    - name: "Data Platform Engineer"
+      level: "Senior/Staff"
+      fit: "primary"
+    - name: "ML Platform Engineer"
+      level: "Senior/Staff"
+      fit: "primary"
+    # Manager roles
+    - name: "Software Engineering Manager"
+      level: "Manager"
+      fit: "primary"
+    - name: "Data Engineering Manager"
+      level: "Senior Manager"
+      fit: "primary"
+    - name: "ML Engineering Manager"
+      level: "Manager"
+      fit: "secondary"
+    # Adjacent
+    - name: "Staff Platform Engineer"
+      level: "Staff"
+      fit: "secondary"
+    - name: "Data Architect"
+      level: "Senior/Staff"
+      fit: "secondary"
+    - name: "Senior Software Engineer"
+      level: "Senior"
+      fit: "secondary"
+
+narrative:
+  # Your professional headline (1 line)
+  headline: "Staff engineer building reliable backend and data platform systems in high-accountability environments"
+  # Your exit story — what makes you unique
+  exit_story: "10+ years shipping mission-critical systems — from Amazon fulfillment to federal platforms serving 100M+ users. Now building in Rust and Go with a focus on operational clarity."
+  # Your top 3-5 superpowers
+  superpowers:
+    - "Production data platforms at federal/enterprise scale (100M+ users)"
+    - "Kubernetes-native workflow orchestration (Argo, Helm, multi-cluster)"
+    - "Making legacy systems modern — mainframe-to-cloud migrations with zero downtime"
+    - "Observability culture — DORA metrics, Four Golden Signals, incident workflows"
+    - "Rust + Go for backend systems (Axum, SQLx, CDC pipelines)"
+  # Proof points — projects, articles, case studies with measurable impact
+  proof_points:
+    - name: "VA.gov Watchtower"
+      url: ""
+      hero_metric: "Unified observability across 40+ teams for 18M+ veterans"
+    - name: "Colorado Payroll Modernization"
+      url: ""
+      hero_metric: "100K+ employee records, mainframe to AWS, 30% cost reduction"
+    - name: "HHS Head Start NLP"
+      url: ""
+      hero_metric: "Sub-200ms BERT dedup in 2GB memory ceiling for $15.8B program"
+    - name: "Argo Workflows Platform (Workiva)"
+      url: ""
+      hero_metric: "Pipeline deployment from days to hours, multi-cluster K8s"
+    - name: "offleash"
+      url: "https://github.com/kcirtapfromspace"
+      hero_metric: "Rust/Axum multi-tenant booking platform with advisory locking"
+    - name: "Modern Data Stack Demo"
+      url: "https://github.com/kcirtapfromspace/database_thing"
+      hero_metric: "Full CDC lakehouse: Postgres → Debezium → Kafka → dbt/DuckDB"
+
+compensation:
+  target_range: "$200K-230K"
+  currency: "USD"
+  minimum: "$185K"
+  location_flexibility: "Remote preferred"
+
+location:
+  country: "United States"
+  city: "Denver"
+  timezone: "MST"
+  visa_status: "No sponsorship needed"
+  relocate_ok:
+    - "Los Gatos, CA"
+    - "San Francisco, CA"
+    - "Seattle, WA"
+    - "Bend, OR"
+  remote_only:
+    - "New York, NY"
+    - "Chicago, IL"
