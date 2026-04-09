@@ -239,4 +239,77 @@
 - [ ] https://jobs.lever.co/caremessage/32aafb1e-7ff6-4908-ba5f-88ecae4fb54a | CareMessage | Engineering Manager, Data and Infrastructure (Remote)
 - [ ] https://jobs.lever.co/peerspace/2de65134-2a6d-4b3e-bfa5-b4c485747841 | Peerspace | Head of Data Engineering/Senior Manager Data Engineering
 
+### Scout Scan 2026-04-09
+
+#### Zapier (new — remote-first, multiple openings)
+- [ ] https://jobs.ashbyhq.com/zapier/1f858242-acf4-4358-9197-2c79921c9d91 | Zapier | Sr. Manager, AI & Machine Learning | Remote Americas | $280K-$420K | ⭐ TOP PICK
+- [ ] https://jobs.ashbyhq.com/zapier/2b57e91a-725f-4e57-aa49-716e0f26eead | Zapier | Staff Engineer, Applied AI | Remote Americas
+- [ ] https://jobs.ashbyhq.com/zapier/9c09aca7-3abb-49ae-acd7-d12d35188a1d | Zapier | Engineering Manager, Agents | Remote Americas
+- [ ] https://jobs.ashbyhq.com/zapier/6353d815-7a15-4fdd-b6bc-e7b9a2830029 | Zapier | Engineering Manager, AI Tasks | Remote Americas
+- [ ] https://jobs.ashbyhq.com/zapier/29d767c8-8dcd-4fec-a93b-36a03831c607 | Zapier | Engineering Manager, AI Capabilities | Remote
+- [ ] https://jobs.ashbyhq.com/zapier/d0f40ed2-323f-4816-bcb0-e087a0a0ab38 | Zapier | Engineering Manager, Cloud | Remote
+- [ ] https://jobs.ashbyhq.com/zapier/0bff923f-073c-4f60-ac39-54742da1b2d7 | Zapier | Engineering Manager, Developer Impact | Remote
+- [ ] https://jobs.ashbyhq.com/zapier/3d1d56cd-7e37-4bac-9494-5a571febdaf4 | Zapier | Sr. Data Engineer | Remote Americas
+- [ ] https://jobs.ashbyhq.com/zapier/dc72be30-b337-4f06-b8c7-f55d6ad94923 | Zapier | Engineering Manager, Runner | Remote
+- [ ] https://jobs.ashbyhq.com/zapier/959927c5-1125-4905-9c79-edb1f030ebb0 | Zapier | Engineering Manager, Release Engineering | Remote
+- [ ] https://jobs.ashbyhq.com/zapier/3d3c6013-0f3a-4ba3-9aaa-61301bfb6d8c | Zapier | Engineering Manager, Growth | Remote
+- [ ] https://jobs.ashbyhq.com/zapier/94bdf618-a7a4-4304-a04a-75f95a7e4934 | Zapier | Engineering Manager, Integrations | Remote
+- [ ] https://jobs.ashbyhq.com/zapier/de99b0f0-bdb9-4969-a9c5-a5d0bc2722b2 | Zapier | Sr. Director, Engineering - Applied AI | Remote
+- [ ] https://jobs.ashbyhq.com/zapier/fa3ccba9-dacd-4f78-b615-99f85dc02acd | Zapier | Data Engineer | Remote Americas
+- [ ] https://jobs.ashbyhq.com/zapier/3fb08eef-ef4e-4a52-abd3-2321936d1022 | Zapier | Sr. Engineer, Backend (MCP) | Remote
+- [ ] https://jobs.ashbyhq.com/zapier/ca495a70-c81b-4954-9fe7-0135a2405e28 | Zapier | Engineer, Backend | Remote
+
+#### Anthropic (re-scan 2026-04-09 — new FDE opening)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4985877008 | Anthropic | Forward Deployed Engineer, Applied AI | Seattle/SF/NYC/DC | $200K-$300K | ⭐ TOP PICK
+
+#### Airbnb (re-scan 2026-04-09 — new EM + senior roles)
+- [ ] https://careers.airbnb.com/positions/7737230/ | Airbnb | Engineering Manager, Data Movement & Transformation | US Remote | $204K-$255K | ⭐ TOP PICK
+- [ ] https://careers.airbnb.com/positions/7665266/ | Airbnb | Manager, ML Engineering - Relevance & Personalization | US Remote
+- [ ] https://careers.airbnb.com/positions/7707242/ | Airbnb | Engineering Manager, Supply & Insights DnA | US Remote
+- [ ] https://careers.airbnb.com/positions/7740341/ | Airbnb | Engineering Manager, User Foundation | US Remote
+- [ ] https://careers.airbnb.com/positions/7778757/ | Airbnb | Engineering Manager, UI Tooling | US Remote
+- [ ] https://careers.airbnb.com/positions/7343909/ | Airbnb | Engineering Manager, Network Infrastructure (Cloud) | US Remote
+- [ ] https://careers.airbnb.com/positions/7743899/ | Airbnb | Engineering Manager, Investigations and Incident Response | US Remote
+- [ ] https://careers.airbnb.com/positions/7569268/ | Airbnb | Engineering Manager, Ambassador Routing | US Remote
+- [ ] https://careers.airbnb.com/positions/7481629/ | Airbnb | Engineering Manager, Tax Platform | US Remote
+- [ ] https://careers.airbnb.com/positions/7525334/ | Airbnb | Engineering Manager, Control Plane - Distributed Transactional Database | US Remote
+- [ ] https://careers.airbnb.com/positions/6757302/ | Airbnb | Senior Staff ML Engineer, Data & Eval | US Remote
+- [ ] https://careers.airbnb.com/positions/7028263/ | Airbnb | Senior Staff ML Engineer – GenAI | US Remote
+- [ ] https://careers.airbnb.com/positions/7381973/ | Airbnb | Senior Staff ML Engineer, Relevance & Personalization | US Remote
+- [ ] https://careers.airbnb.com/positions/6817373/ | Airbnb | Senior Staff ML Engineer - Guest & Host | US Remote
+- [ ] https://careers.airbnb.com/positions/7525479/ | Airbnb | Senior Staff Software Engineer, Payments | US Remote
+
+#### Netflix (re-scan 2026-04-09 — new US remote roles)
+- [ ] https://explore.jobs.netflix.net/careers/job/790300766176 | Netflix | Software Engineer – AI for Member Systems | US Remote
+- [ ] https://explore.jobs.netflix.net/careers/job/790300759601 | Netflix | Software Engineer L5, ML Platform (Model Dev & Mgmt) | Los Gatos, CA
+- [ ] https://jobs.netflix.com/jobs/258966500 | Netflix | Data Engineer (L5) - Growth | US Remote
+
+#### Google (re-scan 2026-04-09 — new Staff roles)
+- [ ] https://www.google.com/about/careers/applications/jobs/results/110144747107951302-staff-software-engineer/ | Google | Staff Software Engineer, Generative AI, Core ML
+- [ ] https://www.google.com/about/careers/applications/jobs/results/87400895297266374-staff-software-engineer/ | Google | Staff Software Engineer, Core, Infrastructure
+- [ ] https://www.google.com/about/careers/applications/jobs/results/91807104796369606-senior-staff-software-engineer/ | Google | Senior Staff Software Engineer, ML Data Quality Infrastructure
+- [ ] https://www.google.com/about/careers/applications/jobs/results/121362248605016774-staff-software-engineer/ | Google | Staff Software Engineer, Core ML Frameworks
+- [ ] https://www.google.com/about/careers/applications/jobs/results/83118298446602950-staff-ml-software-engineer/ | Google | Staff ML Software Engineer, Generative AI, Search Ads
+- [ ] https://www.google.com/about/careers/applications/jobs/results/133395046698230470-staff-software-engineer/ | Google | Staff Software Engineer, AI/ML, YouTube
+- [ ] https://www.google.com/about/careers/applications/jobs/results/92613267607691974-staff-software-engineer/ | Google | Staff Software Engineer, Infrastructure, Platforms Infrastructure Engineering
+- [ ] https://www.google.com/about/careers/applications/jobs/results/119966091236516550-staff-software-engineer/ | Google | Staff Software Engineer, AI/ML, Google Distributed Cloud
+
+#### Hume AI (new)
+- [ ] https://job-boards.greenhouse.io/humeai/jobs/5064248008 | Hume AI | Senior Platform Engineer | NYC/Remote | $180K-$230K
+- [ ] https://job-boards.greenhouse.io/humeai/jobs/4003536008 | Hume AI | Senior Core Services Engineer | NYC/Remote
+
+#### RunPod (new)
+- [ ] https://job-boards.greenhouse.io/runpod/jobs/5020164008 | RunPod | Engineering Manager, Product & Platform Delivery | Remote USA | $175K-$250K
+- [ ] https://job-boards.greenhouse.io/runpod/jobs/5020167008 | RunPod | Sr. Director of Software Engineering | Remote USA
+- [ ] https://job-boards.greenhouse.io/runpod/jobs/4142227008 | RunPod | Senior Software Engineer (Cloud) | Remote USA
+
+#### Vercel (re-scan 2026-04-09 — new FDE roles)
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5778418004 | Vercel | Forward-Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5752684004 | Vercel | Forward-Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5872425004 | Vercel | Forward Deployed Engineer, v0
+
+#### Airtable (re-scan 2026-04-09 — new AI analyst roles)
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8434287002 | Airtable | AI Analytics Engineer (AI & Analytics Platform)
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8434307002 | Airtable | AI Analytics Engineer (Marketing Analytics)
+
 ## Procesadas
