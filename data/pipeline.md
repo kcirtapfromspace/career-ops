@@ -359,3 +359,343 @@
 #### Wayve (new — AV company, Sunnyvale)
 - [ ] https://wayve.firststage.co/jobs?gh_jid=8483723002 | Wayve | Cloud Infrastructure Engineer | Sunnyvale, CA
 - [ ] https://wayve.firststage.co/jobs?gh_jid=8435254002 | Wayve | Machine Learning Engineer, App SW | Sunnyvale, CA
+
+### Quick-check scan (2026-04-09)
+
+#### Airtable (scanned 2026-04-09)
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8397137002 | Airtable | Software Engineer, Product Frontend (2-8 YOE)
+
+#### Amplemarket (scanned 2026-04-09)
+- [ ] https://job-boards.eu.greenhouse.io/amplemarket/jobs/4108094101 | Amplemarket | Spontaneous Application - Data Engineer
+
+#### Anduril (scanned 2026-04-09)
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5102282007 | Anduril | AI Chief Engineering Lead
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5102993007 | Anduril | Lead Software Engineer
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5002761007 | Anduril | Manager, Software Engineering
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5100655007 | Anduril | Mission Software Engineer
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5092737007 | Anduril | Mission Software Engineer
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/4673932007 | Anduril | Mission Software Engineer, Air Vehicle Autonomy, C++
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/4674088007 | Anduril | Mission Software Engineer, Air Vehicle Autonomy, Frontend
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5087992007 | Anduril | Principal Software Engineer, Platform Security
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/4674090007 | Anduril | Robotics Software Engineer, Air Vehicle Autonomy
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5086958007 | Anduril | Security Software Engineer - Endpoint Security
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5090921007 | Anduril | Senior AI Engineer
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5102222007 | Anduril | Senior Flight Software Engineer
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5090922007 | Anduril | Senior LLM Software Engineer
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/4927589007 | Anduril | Senior Machine Learning Engineer, Sentry Tower
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5027007007 | Anduril | Senior Manager, Software Engineering (Game Development)
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5102987007 | Anduril | Senior Mission Software Engineer
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5055678007 | Anduril | Senior Site Reliability Engineer
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5057941007 | Anduril | Senior Site Reliability Engineer, Production Engineering 
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5037473007 | Anduril | Senior Software Engineer
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/4754841007 | Anduril | Senior Software Engineer, API/SDK
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5092819007 | Anduril | Senior Software Engineer, Data Distribution
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/4980627007 | Anduril | Senior Software Engineer, Discovery
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5027526007 | Anduril | Senior Software Engineer, Extensibility (Sand Table)
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5085931007 | Anduril | Senior Software Engineer - Forge Factory Automation 
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5057948007 | Anduril | Senior Software Engineer, Fullstack UI (SIE)
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5087976007 | Anduril | Senior Software Engineering Manager, Security Applications & Tools
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/4790857007 | Anduril | Senior Software Engineer, Lattice SDK 
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/4780617007 | Anduril | Senior Software Engineer, Maritime App 
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/4871675007 | Anduril | Senior Software Engineer, Mission Simulation
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/4903334007 | Anduril | Senior Software Engineer, Nix 
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/4533371007 | Anduril | Senior Software Engineer, Platform
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5088007007 | Anduril | Senior Software Engineer, Platform Security
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/4778177007 | Anduril | Senior Software Engineer, RAIL
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5088015007 | Anduril | Senior Software Engineer, Security Applications & Tools
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5032407007 | Anduril | Senior Software Engineer, Simulation
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/4937265007 | Anduril | Senior Software Engineer, Tasking 
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5102674007 | Anduril | Site Reliability Engineer, Discovery
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5068784007 | Anduril | Software Engineer
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5036384007 | Anduril | Software Engineer
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/4541903007 | Anduril | Software Engineer, Connected Warfare
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/4263030007 | Anduril | Software Engineer, Connected Warfare (Active Clearance)
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5102689007 | Anduril | Software Engineer, DevOps, Discovery
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/4980592007 | Anduril | Software Engineer, Discovery
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5050933007 | Anduril | Software Engineer, Front End
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5050721007 | Anduril | Software Engineer, Full Stack
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5027348007 | Anduril | Software Engineer, Lattice C2 UI
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5050735007 | Anduril | Software Engineer, Mission Autonomy 
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/4986111007 | Anduril | Software Engineer, Mission Simulation 
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5102681007 | Anduril | Software Engineer, Modeling and Simulation, Discovery
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/4981877007 | Anduril | Software Engineer, Modelling & Simulation, Advanced Capabilities
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5029994007 | Anduril | Software Engineer, UI/UX (Sand Table)
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/4981881007 | Anduril | Software Engineer  Visual Simulation, Advanced Capabilities
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/4644068007 | Anduril | Staff Software Engineer, Connected Warfare
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/4954894007 | Anduril | Staff Software Engineer, Developer Platform 
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5038216007 | Anduril | Staff Software Engineer, Distributed Simulation
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5090238007 | Anduril | Staff Software Engineer, Identity
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/4925157007 | Anduril | Staff Software Engineer, Security
+
+#### Anthropic (scanned 2026-04-09)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4980335008 | Anthropic | GRC Automation Engineering Lead 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4973067008 | Anthropic | Infrastructure Engineer, Pre-training
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5030680008 | Anthropic | Infrastructure Engineer, Sandboxing
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4778843008 | Anthropic | ML Infrastructure Engineer, Safeguards
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5098025008 | Anthropic | Model Quality Software Engineer, Claude Code
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4595463008 | Anthropic | Security Software Engineer, Detection & Response Platform
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5098565008 | Anthropic | Senior Full Stack Engineer, Education
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5151066008 | Anthropic | Senior Software Engineer, Databases
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4641822008 | Anthropic | Senior Software Engineer, Inference
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4981828008 | Anthropic | Senior+ Software Engineer, Research Tools
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4915842008 | Anthropic | Senior Software Engineer, Systems
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5134895008 | Anthropic | Senior Staff Software Engineer, API
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5172245008 | Anthropic | Senior / Staff+ Software Engineer, Voice Platform
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5123039008 | Anthropic | Software Engineer, Account Abuse
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5174757008 | Anthropic | Software Engineer, Backend
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5146261008 | Anthropic | Software Engineer, Billing Platform
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4982198008 | Anthropic | Software Engineer, Business Technology 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5168829008 | Anthropic | Software Engineer, Cloud Inference Safeguards
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5108982008 | Anthropic | Software Engineer, Compute Efficiency
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5063007008 | Anthropic | Software Engineer, Cybersecurity Products
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4980420008 | Anthropic | Software Engineer, Desktop
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5174743008 | Anthropic | Software Engineer, Full-stack
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5109273008 | Anthropic | Software Engineer, Human Data Interface
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5111745008 | Anthropic | Software Engineer, Inference Deployment
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4926242008 | Anthropic | Software Engineer, ML Networking
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5157844008 | Anthropic | Software Engineer, Platform
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4951844008 | Anthropic | Software Engineer, Safeguards
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5074908008 | Anthropic | Software Engineer, Safeguards Infrastructure 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5083039008 | Anthropic | Software Engineer, Sandboxing
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5025591008 | Anthropic | Software Engineer, Sandboxing (Systems)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4673416008 | Anthropic | Software Engineer, UI Platform
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5152348008 | Anthropic | Sr. Software Engineer, Inference
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5113224008 | Anthropic | Staff / Senior Software Engineer, AI Reliability
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5107466008 | Anthropic | Staff / Senior Software Engineer, Cloud Inference
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5126702008 | Anthropic | Staff / Senior Software Engineer, Compute Capacity
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4951696008 | Anthropic | Staff / Senior Software Engineer, Inference
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5101169008 | Anthropic | Staff Software Engineer, AI Reliability Engineering
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5101173008 | Anthropic | Staff Software Engineer, AI Reliability Engineering
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5174755008 | Anthropic | Staff+ Software Engineer, Backend
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5146298008 | Anthropic | Staff Software Engineer, Billing Platform
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5065894008 | Anthropic | Staff+ Software Engineer, Claude App Infrastructure
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5151069008 | Anthropic | Staff+ Software Engineer, Databases
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5114768008 | Anthropic | Staff+ Software Engineer, Data Infrastructure
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5110511008 | Anthropic | Staff+ Software Engineer, Developer Productivity
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5174747008 | Anthropic | Staff+ Software Engineer, Full-stack
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5097742008 | Anthropic | Staff Software Engineer, Inference
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5150472008 | Anthropic | Staff Software Engineer, Inference
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5102440008 | Anthropic | Staff+ Software Engineer, Observability
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5157847008 | Anthropic | Staff+ Software Engineer, Platform
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5111783008 | Anthropic | Technical Program Manager, Infrastructure
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5157003008 | Anthropic | Technical Program Manager, Platform
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5026097008 | Anthropic | UI Software Engineer, Claude.ai Consumer Product 
+
+#### Celonis (scanned 2026-04-09)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7662738003 | Celonis | Associate Applied AI Engineer (APAC) - Orbit Program
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7662718003 | Celonis | Associate Applied AI Engineer (Japan) - Orbit Program
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7676432003 | Celonis | Engineering Manager - Orchestration and Automation
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7479634003 | Celonis | Senior Applied AI Engineer 
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7680930003 | Celonis | Senior Applied AI Engineer - Energy Industry
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7695046003 | Celonis | Senior Applied AI Engineer - Manufacturing/Supply Chain
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/6559242003 | Celonis | Senior Applied AI Engineer (Pre-Sales) - Public Sector Transformation 
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7681606003 | Celonis | Senior Applied AI Engineer - Public Sector
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7614040003 | Celonis | Senior Applied AI Engineer - Public Sector 
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7688214003 | Celonis | Senior Applied AI Engineer (Public Sector) - Sacramento, CA
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7678804003 | Celonis | Senior Software Engineer - Orchestration and Automation
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7544126003 | Celonis | Value Engineering Manager - Public Sector
+
+#### Chainguard (scanned 2026-04-09)
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4649097006 | Chainguard | Manager, Software Engineering (Libraries) 
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4670626006 | Chainguard |  Senior Software Engineer (Experience)
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4671015006 | Chainguard | Staff Software Engineer (AI CICD)
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4671007006 | Chainguard | Staff Software Engineer (AI CICD)
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4647676006 | Chainguard | Staff Software Engineer (Customer Platform)
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4627499006 | Chainguard | Staff Software Engineer (Customer Platform)
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4639034006 | Chainguard | Staff Software Engineer (Integrations)
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4660100006 | Chainguard | Staff Software Engineer (Libraries Platform)
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4660098006 | Chainguard | Staff Software Engineer (Libraries Platform)
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4639065006 | Chainguard | Staff Software Engineer (Libraries Platform) 
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4663465006 | Chainguard | Staff Software Engineer (Platform)
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4661970006 | Chainguard | Staff Software Engineer (Platform) 
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4661458006 | Chainguard | Staff Software Engineer (Sustaining Automation)
+
+#### Contentful (scanned 2026-04-09)
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7725939 | Contentful | Backend Software Engineer (f/m/d)
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7686060 | Contentful | Backend Software Engineer (f/m/d)
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7554934 | Contentful | Backend Software Engineer (f/m/d)
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7721455 | Contentful | Engineering Manager - Workflows (f/m/d)
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7721454 | Contentful | Engineering Manager - Workflows (f/m/d)
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7553930 | Contentful | Fullstack Software Engineer (f/m/d)
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7557586 | Contentful | Fullstack Software Engineer (f/m/d)
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7557597 | Contentful | Fullstack Software Engineer (f/m/d)
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7776562 | Contentful | Senior Backend Engineer - AI Platform (f/m/d)
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7565088 | Contentful | Senior Data Engineer (f/m/d)
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7487850 | Contentful | Senior Machine Learning Engineer (f/m/d)
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7557680 | Contentful | Senior Machine Learning Engineer (f/m/d)
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7760962 | Contentful | Senior Software Engineer - Backend & Infrastructure (f/m/d)
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7757968 | Contentful | Senior Software Engineer - Backend & Infrastructure (f/m/d)
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7760966 | Contentful | Senior Software Engineer - Backend & Infrastructure (f/m/d)
+
+#### GetYourGuide (scanned 2026-04-09)
+- [ ] https://getyourguide.careers/jobs/7734874 | GetYourGuide | Associate Software Engineer
+- [ ] https://getyourguide.careers/jobs/7738914 | GetYourGuide | Associate Software Engineer
+- [ ] https://getyourguide.careers/jobs/7694621 | GetYourGuide | Data Engineer, Growth Data Engineering
+- [ ] https://getyourguide.careers/jobs/7602318 | GetYourGuide | Data Engineering Manager, Supply
+- [ ] https://getyourguide.careers/jobs/7694619 | GetYourGuide | Data Engineer, Traveler Data Engineering
+- [ ] https://getyourguide.careers/jobs/7422312 | GetYourGuide | Engineering Manager, AI Platform
+- [ ] https://getyourguide.careers/jobs/7588385 | GetYourGuide | Engineering Manager, User Profiles 
+- [ ] https://getyourguide.careers/jobs/6687709 | GetYourGuide | Legal Trainee (Rechtsreferendar)
+- [ ] https://getyourguide.careers/jobs/7602240 | GetYourGuide | Senior Data Engineer, Supply Data Engineering
+- [ ] https://getyourguide.careers/jobs/7526177 | GetYourGuide | Senior Software Engineer (Backend focused)
+- [ ] https://getyourguide.careers/jobs/7518806 | GetYourGuide | Senior Software Engineer (Backend focused) - Supply 
+- [ ] https://getyourguide.careers/jobs/7641281 | GetYourGuide | Senior Software Engineer, Revenue Platform (Backend Focused) 
+- [ ] https://getyourguide.careers/jobs/7581804 | GetYourGuide | Senior Software Engineer, Search Platform
+- [ ] https://getyourguide.careers/jobs/7607497 | GetYourGuide | Senior Software Engineer, User Profiles (Backend Focused) 
+
+#### Glean (scanned 2026-04-09)
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4628714005 | Glean | Senior Technical Program Manager, Infrastructure
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4006733005 | Glean | Software Engineer, Frontend
+
+#### Helsing (scanned 2026-04-09)
+- [ ] https://helsing.ai/jobs/4778869101 | Helsing | AI Research Engineer - ML Engineering
+- [ ] https://helsing.ai/jobs/4516967101 | Helsing | Deployed AI Engineer
+- [ ] https://helsing.ai/jobs/4347030101 | Helsing | Site Reliability Engineer
+- [ ] https://helsing.ai/jobs/4755026101 | Helsing | Site Reliability Engineer - Nix/NixOS
+- [ ] https://helsing.ai/jobs/4737931101 | Helsing | Software Engineer
+- [ ] https://helsing.ai/jobs/4741565101 | Helsing | Software Engineer - Airborne Mission Systems
+- [ ] https://helsing.ai/jobs/4741571101 | Helsing | Software Engineer - Autonomous Air Systems
+- [ ] https://helsing.ai/jobs/4741219101 | Helsing | Software Engineer - Autonomous Air System V&V
+- [ ] https://helsing.ai/jobs/4125061101 | Helsing | Software Engineer - Backend
+- [ ] https://helsing.ai/jobs/4126378101 | Helsing | Software Engineer - Frontend
+- [ ] https://helsing.ai/jobs/4741224101 | Helsing | Software Engineer - Frontend Autonomous Air System V&V
+- [ ] https://helsing.ai/jobs/4741242101 | Helsing | Software Engineer - Ground to Air HMI
+
+#### Intercom (scanned 2026-04-09)
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7556413 | Intercom | Forward Deployed Software Engineer
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7699745 | Intercom | Senior Engineering Manager - Developer Experience Platform
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7610485 | Intercom | Senior Engineering Manager - Team Billing
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7610471 | Intercom | Senior Engineering Manager - Team Billing
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7274831 | Intercom | Senior Full Stack Engineer - Team Web
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7276257 | Intercom | Senior Full Stack Engineer - Team Web
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7601731 | Intercom | Senior Security Engineering Manager
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7601740 | Intercom | Senior Security Engineering Manager
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/5082494 | Intercom | Senior Software Engineer
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7371989 | Intercom | Software Engineer
+
+#### Isomorphic Labs (scanned 2026-04-09)
+- [ ] https://job-boards.greenhouse.io/isomorphiclabs/jobs/5584160004 | Isomorphic Labs | Cloud Platform Engineer 
+- [ ] https://job-boards.greenhouse.io/isomorphiclabs/jobs/5704870004 | Isomorphic Labs | Research Scientist (Applied LLMs), London
+- [ ] https://job-boards.greenhouse.io/isomorphiclabs/jobs/5539669004 | Isomorphic Labs | Senior Platform Engineer 
+- [ ] https://job-boards.greenhouse.io/isomorphiclabs/jobs/5837899004 | Isomorphic Labs | Senior Software Engineer, ML Platform (Stability & Infrastructure)
+- [ ] https://job-boards.greenhouse.io/isomorphiclabs/jobs/5561630004 | Isomorphic Labs | Software Engineer (Compute Infra), London
+- [ ] https://job-boards.greenhouse.io/isomorphiclabs/jobs/5749782004 | Isomorphic Labs | Software Engineer, Full Stack
+- [ ] https://job-boards.greenhouse.io/isomorphiclabs/jobs/5837883004 | Isomorphic Labs | Software Engineer (Scientific Data)
+
+#### N26 (scanned 2026-04-09)
+- [ ] https://n26.com/en-eu/careers/positions/7656921 | N26 | Backend Engineer - Customer Risk Lifecycle
+- [ ] https://n26.com/en-eu/careers/positions/7731929 | N26 | Engineering Manager - Customer Risk Lifecycle
+- [ ] https://n26.com/en-eu/careers/positions/7686804 | N26 | Lead Backend Engineer - Assistance 
+- [ ] https://n26.com/en-eu/careers/positions/7656918 | N26 | Senior Backend Engineer - Customer Risk Lifecycle
+- [ ] https://n26.com/en-eu/careers/positions/7529780 | N26 | Senior Backend Engineer - Engagement 
+- [ ] https://n26.com/en-eu/careers/positions/7768035 | N26 | Senior Site Reliability Engineer - Access Team
+- [ ] https://n26.com/en-eu/careers/positions/7774526 | N26 | Senior Site Reliability Engineer - Access Team
+- [ ] https://n26.com/en-eu/careers/positions/7797431 | N26 | Senior Site Reliability Engineer - Infrastructure
+- [ ] https://n26.com/en-eu/careers/positions/7796233 | N26 | Senior Site Reliability Engineer - Infrastructure
+- [ ] https://n26.com/en-eu/careers/positions/7735448 | N26 | Site Reliability Engineer - Access Team
+- [ ] https://n26.com/en-eu/careers/positions/7736314 | N26 | Site Reliability Engineer - Access Team
+- [ ] https://n26.com/en-eu/careers/positions/7405138 | N26 | Site Reliability Engineer - Observability
+
+#### Parloa (scanned 2026-04-09)
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4694431101 | Parloa | Forward Deployed Engineer, DevOps
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4824273101 | Parloa | Staff/Principal Software Engineer
+
+#### PhysicsX (scanned 2026-04-09)
+- [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/4789344101 | PhysicsX | Forward Deployed Applications - Senior Software Engineer
+- [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/4789348101 | PhysicsX | Forward Deployed Applications - Software Engineer
+- [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/4644847101 | PhysicsX | Forward Deployed Software Engineer
+- [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/4815591101 | PhysicsX | Frontend Software Engineer - Simulation Workbench
+- [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/4804769101 | PhysicsX | Principal AI Engineer
+- [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/4791010101 | PhysicsX | Principal Software Engineer - Engineering Applications
+- [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/4804807101 | PhysicsX | Senior AI Engineer - Applied
+- [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/4804805101 | PhysicsX | Senior AI Engineer - Platform
+- [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/4824923101 | PhysicsX | Senior Frontend Software Engineer - Core Services
+- [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/4648881101 | PhysicsX | Senior Machine Learning Engineer
+- [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/4789290101 | PhysicsX | Senior Software Engineer - AI Workbench 
+- [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/4820418101 | PhysicsX | Senior Software Engineer - Core Services 
+- [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/4804144101 | PhysicsX | Senior Software Engineer - Platform Operations
+- [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/4804155101 | PhysicsX | Senior Software Engineer - Platform Runtime
+- [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/4804130101 | PhysicsX | Senior Software Engineer - SRE Core Infrastructure
+- [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/4788997101 | PhysicsX | Software Engineer - AI Workbench 
+- [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/4778556101 | PhysicsX | Software Engineer - Simulation Workbench
+- [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/4788987101 | PhysicsX | Staff Software Engineer - Data Integration Services
+
+#### PolyAI (scanned 2026-04-09)
+- [ ] https://job-boards.eu.greenhouse.io/polyai/jobs/4658649101 | PolyAI | Senior Full Stack Engineer  (Must be based in UK)
+
+#### Samsara (scanned 2026-04-09)
+- [ ] https://www.samsara.com/company/careers/roles/7491153 | Samsara | AI Engineer
+- [ ] https://www.samsara.com/company/careers/roles/7589442 | Samsara | AI Engineer
+- [ ] https://www.samsara.com/company/careers/roles/7650290 | Samsara | Data Engineer II
+- [ ] https://www.samsara.com/company/careers/roles/7630034 | Samsara | Manager, Software Engineering - Mobile Platform
+- [ ] https://www.samsara.com/company/careers/roles/7266435 | Samsara | Manager, Software Engineering - Mobile Platform
+- [ ] https://www.samsara.com/company/careers/roles/7345839 | Samsara | Manager, Software Engineering (Platform Reports)
+- [ ] https://www.samsara.com/company/careers/roles/7266585 | Samsara | Manager, Software Engineering (Platform Reports)
+- [ ] https://www.samsara.com/company/careers/roles/7266657 | Samsara | Senior Data Platform Engineer
+- [ ] https://www.samsara.com/company/careers/roles/7266961 | Samsara | Senior Data Platform Engineer
+- [ ] https://www.samsara.com/company/careers/roles/7327168 | Samsara | Senior Machine Learning Engineer - Edge AI
+- [ ] https://www.samsara.com/company/careers/roles/7315656 | Samsara | Senior Machine Learning Engineer - Platform
+- [ ] https://www.samsara.com/company/careers/roles/7266471 | Samsara | Senior Machine Learning Engineer - Platform
+- [ ] https://www.samsara.com/company/careers/roles/7510710 | Samsara | Senior Marketing AI Data Engineer
+- [ ] https://www.samsara.com/company/careers/roles/7532262 | Samsara | Senior Marketing AI Data Engineer
+- [ ] https://www.samsara.com/company/careers/roles/7392436 | Samsara | Senior Mobile Software Engineer - BLE / Connectivity
+- [ ] https://www.samsara.com/company/careers/roles/7266447 | Samsara | Senior Mobile Software Engineer - BLE / Connectivity
+- [ ] https://www.samsara.com/company/careers/roles/7266719 | Samsara | Senior Software Engineer, AI Platform
+- [ ] https://www.samsara.com/company/careers/roles/7773090 | Samsara | Senior Software Engineer, Growth
+- [ ] https://www.samsara.com/company/careers/roles/7745837 | Samsara | Senior Software Engineer, Growth
+- [ ] https://www.samsara.com/company/careers/roles/7717540 | Samsara | Senior Software Engineer II, Developer Experience / Operational Excellence
+- [ ] https://www.samsara.com/company/careers/roles/7266469 | Samsara | Senior Software Engineer I/II - Mobile Platform
+- [ ] https://www.samsara.com/company/careers/roles/7573118 | Samsara | Senior Software Engineer - Route Execution
+- [ ] https://www.samsara.com/company/careers/roles/7569229 | Samsara | Senior Software Engineer - Route Execution
+- [ ] https://www.samsara.com/company/careers/roles/7619925 | Samsara | Software Engineer II, AI Platform
+- [ ] https://www.samsara.com/company/careers/roles/7266407 | Samsara | Sr. AI/Machine Learning Engineer - Supply Chain
+- [ ] https://www.samsara.com/company/careers/roles/7266357 | Samsara | Staff Machine Learning Engineer - Edge AI
+- [ ] https://www.samsara.com/company/careers/roles/7431070 | Samsara | Staff Machine Learning Engineer - Edge AI
+- [ ] https://www.samsara.com/company/careers/roles/7721193 | Samsara | Staff ML Engineer - ML Infrastructure
+- [ ] https://www.samsara.com/company/careers/roles/7746586 | Samsara | Staff ML Engineer - ML Infrastructure
+- [ ] https://www.samsara.com/company/careers/roles/7597673 | Samsara | Staff Software Engineer
+- [ ] https://www.samsara.com/company/careers/roles/7588828 | Samsara | Staff Software Engineer - CAM
+- [ ] https://www.samsara.com/company/careers/roles/7589637 | Samsara | Staff Software Engineer - Cloud Governance Platform
+- [ ] https://www.samsara.com/company/careers/roles/7559244 | Samsara | Staff Software Engineer – Cloud Governance Platform
+- [ ] https://www.samsara.com/company/careers/roles/7547234 | Samsara | Staff Software Engineer - Developer Ecosystem
+- [ ] https://www.samsara.com/company/careers/roles/7291223 | Samsara | Staff Software Engineer - Developer Ecosystem
+- [ ] https://www.samsara.com/company/careers/roles/7547233 | Samsara | Staff Software Engineer - Developer Ecosystem
+- [ ] https://www.samsara.com/company/careers/roles/7266385 | Samsara | Staff Software Engineer - Platform
+- [ ] https://www.samsara.com/company/careers/roles/7266699 | Samsara | Staff Software Engineer - Safety AI
+- [ ] https://www.samsara.com/company/careers/roles/7325671 | Samsara | Staff Software Engineer - Safety AI
+- [ ] https://www.samsara.com/company/careers/roles/7548384 | Samsara | Staff Software Engineer - Sustainability
+- [ ] https://www.samsara.com/company/careers/roles/7398072 | Samsara | Staff Software Engineer - Sustainability
+
+#### Scandit (scanned 2026-04-09)
+- [ ] https://www.scandit.com/careers/job-description/ | Scandit | Engineering Manager, Platform 
+
+#### Speechmatics (scanned 2026-04-09)
+- [ ] https://job-boards.eu.greenhouse.io/speechmatics/jobs/4660432101 | Speechmatics | Machine Learning Engineer
+- [ ] https://job-boards.eu.greenhouse.io/speechmatics/jobs/4660424101 | Speechmatics | Machine Learning Engineer
+- [ ] https://job-boards.eu.greenhouse.io/speechmatics/jobs/4596712101 | Speechmatics | Principal Machine Learning Engineer
+- [ ] https://job-boards.eu.greenhouse.io/speechmatics/jobs/4596807101 | Speechmatics | Principal Machine Learning Engineer
+- [ ] https://job-boards.eu.greenhouse.io/speechmatics/jobs/4596872101 | Speechmatics | Senior Machine Learning Engineer
+- [ ] https://job-boards.eu.greenhouse.io/speechmatics/jobs/4596873101 | Speechmatics | Senior Machine Learning Engineer
+- [ ] https://job-boards.eu.greenhouse.io/speechmatics/jobs/4750401101 | Speechmatics | Software Engineer
+- [ ] https://job-boards.eu.greenhouse.io/speechmatics/jobs/4750378101 | Speechmatics | Software Engineer
+- [ ] https://job-boards.eu.greenhouse.io/speechmatics/jobs/4834548101 | Speechmatics | Software Engineer - FutureVoices
+- [ ] https://job-boards.eu.greenhouse.io/speechmatics/jobs/4834542101 | Speechmatics | Software Engineer - FutureVoices
+
+#### SumUp (scanned 2026-04-09)
+- [ ] https://sumup.com/careers/positions/8427119002 | SumUp | Backend Engineer - Sales & Orders
+- [ ] https://sumup.com/careers/positions/8418444002 | SumUp | Engineering Manager
+- [ ] https://sumup.com/careers/positions/8213032002 | SumUp | Engineering Manager
+- [ ] https://sumup.com/careers/positions/8249153002 | SumUp | Engineering Manager 
+- [ ] https://sumup.com/careers/positions/8468006002 | SumUp | Senior AI Backend Engineer
+- [ ] https://sumup.com/careers/positions/8249610002 | SumUp | Senior AI/ML Engineer
+- [ ] https://sumup.com/careers/positions/8418083002 | SumUp | Senior Backend Engineer - Accounts 
+- [ ] https://sumup.com/careers/positions/8321240002 | SumUp | Senior Backend Engineer - Fiscalization
+- [ ] https://sumup.com/careers/positions/8429621002 | SumUp | Senior Backend Engineer - Golang
+- [ ] https://sumup.com/careers/positions/8396347002 | SumUp | Senior Backend Engineer - Golang
+- [ ] https://sumup.com/careers/positions/8454657002 | SumUp | Senior Backend Engineer (Golang) - Bank 
+- [ ] https://sumup.com/careers/positions/8364210002 | SumUp | (Senior) Data Engineer
+- [ ] https://sumup.com/careers/positions/8364207002 | SumUp | Senior Data Engineer
+- [ ] https://sumup.com/careers/positions/8374318002 | SumUp | Senior Data Engineer
+
+#### Trade Republic (scanned 2026-04-09)
+- [ ] https://traderepublic.com/en-de/about | Trade Republic | Backend Engineer (Berlin)
