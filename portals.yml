@@ -175,6 +175,28 @@ search_queries:
     query: 'site:remotefront.com "AI Engineer" OR "Solutions Engineer" OR "Automation" OR "LLM" OR "Agent" remote'
     enabled: true
 
+  # -- Aerospace & Defense --
+  - name: A&D — Staff/Senior Platform & Data
+    query: '"Staff" OR "Senior" "Software Engineer" OR "Data Engineer" OR "Platform Engineer" "SpaceX" OR "Shield AI" OR "Anduril" OR "Skydio" OR "Hadrian" OR "Aurora" remote 2026'
+    enabled: true
+
+  - name: A&D — ML Infrastructure
+    query: '"ML Engineer" OR "ML Infrastructure" OR "AI Engineer" "defense" OR "aerospace" OR "autonomous" OR "robotics" remote 2026'
+    enabled: true
+
+  - name: A&D — Engineering Manager
+    query: '"Engineering Manager" "defense" OR "aerospace" OR "autonomous vehicles" OR "drones" "data" OR "platform" OR "infrastructure" remote 2026'
+    enabled: true
+
+  # -- Hardware Moat — Software Roles --
+  - name: Hardware Moat — Data/Platform
+    query: '"Data Engineer" OR "Data Platform" OR "Platform Engineer" "Tesla" OR "Rivian" OR "Waymo" OR "Aurora" OR "Nuro" OR "Zipline" OR "Figure" remote 2026'
+    enabled: true
+
+  - name: Hardware Moat — ML Infra
+    query: '"ML Infrastructure" OR "ML Platform" OR "ML Engineer" "autonomous" OR "robotics" OR "self-driving" OR "EV" remote 2026'
+    enabled: true
+
   # -- Startups: Y Combinator --
   - name: YC — Staff/Senior Data & Platform
     query: 'site:workatastartup.com "Staff" OR "Senior" "Data Engineer" OR "Platform Engineer" OR "Infrastructure" remote'
@@ -883,4 +905,160 @@ tracked_companies:
     careers_url: https://job-boards.greenhouse.io/chainguard
     api: https://boards-api.greenhouse.io/v1/boards/chainguard/jobs
     notes: "Remote. Cloud-native supply chain security. K8s, containers, Argo/Tekton."
+    enabled: true
+
+  # -- Aerospace & Defense --
+
+  - name: SpaceX
+    careers_url: https://www.spacex.com/careers
+    scan_method: websearch
+    scan_query: 'site:spacex.com/careers OR site:boards.greenhouse.io/spacex "Software Engineer" OR "Data Engineer" OR "ML Engineer" OR "Platform"'
+    notes: "Hawthorne/Starbase/Seattle. Rockets + Starlink. Hardware moat."
+    enabled: true
+
+  - name: Shield AI
+    careers_url: https://job-boards.greenhouse.io/shieldai
+    api: https://boards-api.greenhouse.io/v1/boards/shieldai/jobs
+    notes: "San Diego/Remote. Autonomous drones for defense. AI + hardware moat."
+    enabled: true
+
+  - name: Skydio
+    careers_url: https://job-boards.greenhouse.io/skydio
+    api: https://boards-api.greenhouse.io/v1/boards/skydio/jobs
+    notes: "San Mateo. Autonomous drones. Computer vision + AI."
+    enabled: true
+
+  - name: Hadrian
+    careers_url: https://job-boards.greenhouse.io/hadrian
+    api: https://boards-api.greenhouse.io/v1/boards/hadrian/jobs
+    notes: "LA/Remote. AI-powered precision manufacturing for defense. $200M+ raised."
+    enabled: true
+
+  - name: Hermeus
+    careers_url: https://job-boards.greenhouse.io/hermeus
+    api: https://boards-api.greenhouse.io/v1/boards/hermeus/jobs
+    notes: "Atlanta. Hypersonic aircraft. Hardware moat. Defense contracts."
+    enabled: true
+
+  - name: Relativity Space
+    careers_url: https://job-boards.greenhouse.io/relataboratoryspace
+    scan_method: websearch
+    scan_query: '"Relativity Space" careers "Software Engineer" OR "Data Engineer" OR "Platform" OR "ML"'
+    notes: "Long Beach CA. 3D-printed rockets. Hardware moat."
+    enabled: true
+
+  - name: Rocket Lab
+    careers_url: https://job-boards.greenhouse.io/rocketlab
+    api: https://boards-api.greenhouse.io/v1/boards/rocketlab/jobs
+    notes: "Long Beach/Denver. Launch vehicles + space systems. Has Denver office!"
+    enabled: true
+
+  - name: Joby Aviation
+    careers_url: https://job-boards.greenhouse.io/jobyaviation
+    api: https://boards-api.greenhouse.io/v1/boards/jobyaviation/jobs
+    notes: "Santa Cruz CA. eVTOL air taxis. FAA certification path. Hardware moat."
+    enabled: true
+
+  - name: Archer Aviation
+    careers_url: https://job-boards.greenhouse.io/archeraviation
+    api: https://boards-api.greenhouse.io/v1/boards/archeraviation/jobs
+    notes: "San Jose CA. eVTOL. Competing with Joby. Hardware moat."
+    enabled: true
+
+  - name: Vast
+    careers_url: https://job-boards.greenhouse.io/vast
+    api: https://boards-api.greenhouse.io/v1/boards/vast/jobs
+    notes: "Long Beach CA. Commercial space stations. Hardware moat."
+    enabled: true
+
+  # -- Hardware Moat Companies (software roles) --
+
+  - name: Aurora Innovation
+    careers_url: https://job-boards.greenhouse.io/aurorainnovation
+    api: https://boards-api.greenhouse.io/v1/boards/aurorainnovation/jobs
+    notes: "Pittsburgh/SF/Denver. Self-driving trucks (Torc competitor). Has Denver office!"
+    enabled: true
+
+  - name: Nuro
+    careers_url: https://job-boards.greenhouse.io/nuro
+    api: https://boards-api.greenhouse.io/v1/boards/nuro/jobs
+    notes: "Mountain View. Autonomous delivery vehicles. Hardware moat."
+    enabled: true
+
+  - name: Zipline
+    careers_url: https://job-boards.greenhouse.io/ziplineofficial
+    api: https://boards-api.greenhouse.io/v1/boards/ziplineofficial/jobs
+    notes: "SF/Remote. Drone delivery (medical supplies, retail). Hardware moat."
+    enabled: true
+
+  - name: Figure AI
+    careers_url: https://job-boards.greenhouse.io/figureai
+    api: https://boards-api.greenhouse.io/v1/boards/figureai/jobs
+    notes: "Sunnyvale. Humanoid robots. $2.6B valuation. Hardware moat."
+    enabled: true
+
+  - name: Planet Labs
+    careers_url: https://job-boards.greenhouse.io/planetlabs
+    api: https://boards-api.greenhouse.io/v1/boards/planetlabs/jobs
+    notes: "SF. Satellite imaging. Data platform for Earth observation."
+    enabled: true
+
+  - name: Rivian
+    careers_url: https://careers.rivian.com
+    scan_method: websearch
+    scan_query: 'site:careers.rivian.com "Software Engineer" OR "Data Engineer" OR "Platform Engineer" OR "ML Engineer"'
+    notes: "Irvine/Palo Alto. Electric trucks + SUVs. Public company. Hardware moat."
+    enabled: true
+
+  - name: Tesla
+    careers_url: https://www.tesla.com/careers
+    scan_method: websearch
+    scan_query: 'site:tesla.com/careers "Data Engineer" OR "Software Engineer" OR "ML Engineer" OR "Platform Engineer" "infrastructure" OR "data platform"'
+    notes: "Austin/Palo Alto/Fremont. EVs + energy + AI. Hardware moat."
+    enabled: true
+
+  - name: Waymo
+    careers_url: https://waymo.com/careers
+    scan_method: websearch
+    scan_query: 'site:waymo.com/careers OR site:careers.google.com/waymo "Software Engineer" OR "Data Engineer" OR "ML Engineer" OR "Infrastructure"'
+    notes: "Mountain View/SF. Autonomous vehicles (Alphabet). Hardware moat."
+    enabled: true
+
+  # -- More Startups (data/infra/AI) --
+
+  - name: Scale AI
+    careers_url: https://job-boards.greenhouse.io/scaleai
+    api: https://boards-api.greenhouse.io/v1/boards/scaleai/jobs
+    notes: "SF/Remote. AI data infrastructure. $7.3B valuation. Defense + enterprise."
+    enabled: true
+
+  - name: Databricks
+    careers_url: https://job-boards.greenhouse.io/databricks
+    api: https://boards-api.greenhouse.io/v1/boards/databricks/jobs
+    notes: "SF/Remote. Unified data + AI platform. $43B valuation."
+    enabled: true
+
+  - name: Confluent
+    careers_url: https://job-boards.greenhouse.io/confluent
+    api: https://boards-api.greenhouse.io/v1/boards/confluent/jobs
+    notes: "Remote. The Kafka company. Patrick uses Kafka daily. Direct fit."
+    enabled: true
+
+  - name: Snowflake
+    careers_url: https://job-boards.greenhouse.io/snowflake
+    api: https://boards-api.greenhouse.io/v1/boards/snowflake/jobs
+    notes: "SF/Remote. Cloud data warehouse. Public company."
+    enabled: true
+
+  - name: Clickhouse
+    careers_url: https://job-boards.greenhouse.io/clickhouse
+    api: https://boards-api.greenhouse.io/v1/boards/clickhouse/jobs
+    notes: "Remote. Open-source OLAP database. Fast-growing."
+    enabled: true
+
+  - name: Tecton
+    careers_url: https://job-boards.greenhouse.io/tecloton
+    scan_method: websearch
+    scan_query: '"Tecton" careers "Engineer" site:jobs.ashbyhq.com OR site:job-boards.greenhouse.io'
+    notes: "Remote. ML feature platform. Founded by Uber Michelangelo team."
     enabled: true
