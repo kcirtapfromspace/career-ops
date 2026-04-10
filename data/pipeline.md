@@ -699,3 +699,42 @@
 
 #### Trade Republic (scanned 2026-04-09)
 - [ ] https://traderepublic.com/en-de/about | Trade Republic | Backend Engineer (Berlin)
+
+### Scout Scan 2026-04-10
+
+#### Intercom (new — Greenhouse, all US remote) ⭐ TOP PICKS
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7776426 | Intercom | Engineering Manager, AI Models Infrastructure | ⭐ Score 4.2
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7574783 | Intercom | Senior Data Engineering Manager | ⭐ Score 4.1
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7765466 | Intercom | Engineering Manager, Forward Deployed Engineering
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7699745 | Intercom | Senior Engineering Manager - Developer Experience Platform
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7731665 | Intercom | Senior Engineer, Infrastructure Platform
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7725837 | Intercom | Principal Engineer, Fin AI Agent
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7763257 | Intercom | Senior Manager, Forward Deployed Engineering
+
+#### Decagon (new — Ashby, SF on-site) ⭐ TOP PICKS
+- [ ] https://jobs.ashbyhq.com/decagon/2dee25a0-a0c1-425e-b67a-9d49fc821369 | Decagon | Engineering Manager, Agent Orchestration | SF on-site | ⭐ Score 4.1
+- [ ] https://jobs.ashbyhq.com/decagon/63cd7634-f67f-4051-be45-515ed4f6a074 | Decagon | Senior Software Engineer, ML Infrastructure | SF on-site | $200K-$400K | ⭐ Score 4.1
+- [ ] https://jobs.ashbyhq.com/decagon/491d67c4-b877-4ddc-895a-496eed6777ed | Decagon | Senior Software Engineer, Developer Platform | SF on-site
+
+#### Anthropic (rescan 2026-04-10 — new roles)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5125881008 | Anthropic | Data Science Engineer, Capacity & Efficiency
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5068226008 | Anthropic | Applied AI Engineer, Beneficial Deployments
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5057647008 | Anthropic | Applied AI Engineer (Digital Natives Business)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5111942008 | Anthropic | Applied AI Engineer, Life Sciences
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5073277008 | Anthropic | Applied AI Engineer (Startups)
+
+#### dbt Labs (new — Greenhouse, US remote) ⭐
+- [ ] https://job-boards.greenhouse.io/dbtlabsinc/jobs/4577510005 | dbt Labs | Staff Software Engineer | US Remote | ⭐ Score 4.0
+
+#### Omada Health (new — Greenhouse, US remote)
+- [ ] https://job-boards.greenhouse.io/omadahealth/jobs/7753330 | Omada Health | Staff Software Engineer, Data Engineering | US Remote
+
+#### Temporal Technologies (new — Greenhouse, fully remote)
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/4853421007 | Temporal Technologies | Staff Software Engineer - AI SDK | Fully Remote
+
+#### Lindy (new — Ashby, SF on-site)
+- [ ] https://jobs.ashbyhq.com/lindy/de321403-4e9e-4d91-aa5d-1f84d770a4a6 | Lindy | Staff Software Engineer | SF on-site
+- [ ] https://jobs.ashbyhq.com/lindy/e56a424d-5a40-450b-8978-cd5e7c86deed | Lindy | Data Engineer | SF on-site
+
+#### Rula (rescan — new role)
+- [ ] https://jobs.ashbyhq.com/rula/04f6ee33-0db6-470f-80ba-e1a9108bc6ec | Rula | Staff Data Engineer | US Remote
