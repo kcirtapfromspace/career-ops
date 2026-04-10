@@ -5208,3 +5208,75 @@ https://job-boards.greenhouse.io/dbtlabsinc/jobs/4577510005	2026-04-10	websearch
 https://job-boards.greenhouse.io/omadahealth/jobs/7753330	2026-04-10	websearch	Staff Software Engineer, Data Engineering	Omada Health	added
 https://jobs.ashbyhq.com/rula/04f6ee33-0db6-470f-80ba-e1a9108bc6ec	2026-04-10	websearch	Staff Data Engineer	Rula	added
 https://jobs.ashbyhq.com/nerdwallet/f83dfa4c-198a-400d-b91d-21271b02415e	2026-04-10	websearch	Staff Data Engineer	NerdWallet	skipped_dup
+https://job-boards.greenhouse.io/clickhouse/jobs/5802320004	2026-04-10	greenhouse-api	Cloud Platform Engineer - Control Plane	ClickHouse	matched
+https://job-boards.greenhouse.io/clickhouse/jobs/5809710004	2026-04-10	greenhouse-api	Engineering Manager - Language clients	ClickHouse	matched
+https://job-boards.greenhouse.io/clickhouse/jobs/5838217004	2026-04-10	greenhouse-api	Senior Backend Engineer - HyperDX	ClickHouse	matched
+https://job-boards.greenhouse.io/clickhouse/jobs/5776991004	2026-04-10	greenhouse-api	Senior Backend Engineer - Infrastructure (ClickPipes)	ClickHouse	matched
+https://job-boards.greenhouse.io/clickhouse/jobs/5706417004	2026-04-10	greenhouse-api	Senior Infrastructure Engineer - Postgres	ClickHouse	matched
+https://job-boards.greenhouse.io/clickhouse/jobs/5819754004	2026-04-10	greenhouse-api	Senior Site Reliability Engineer	ClickHouse	matched
+https://job-boards.greenhouse.io/clickhouse/jobs/5727344004	2026-04-10	greenhouse-api	Senior Software Engineer (Infrastructure) - HyperDX	ClickHouse	matched
+https://job-boards.greenhouse.io/clickhouse/jobs/5727343004	2026-04-10	greenhouse-api	Senior Software Engineer (Infrastructure) - HyperDX	ClickHouse	seen
+https://job-boards.greenhouse.io/clickhouse/jobs/5819674004	2026-04-10	greenhouse-api	Senior Software Engineer - Cloud Infrastructure	ClickHouse	matched
+https://job-boards.greenhouse.io/clickhouse/jobs/5722210004	2026-04-10	greenhouse-api	Senior Software Engineer - Data Integration & JVM Ecosystem	ClickHouse	matched
+https://job-boards.greenhouse.io/clickhouse/jobs/5843425004	2026-04-10	greenhouse-api	Database Reliability Engineer - Core Team	ClickHouse	seen
+https://job-boards.greenhouse.io/fivetran/jobs/7581685003	2026-04-10	greenhouse-api	Senior Site Reliability Engineer	Fivetran	matched
+https://job-boards.greenhouse.io/fivetran/jobs/7581688003	2026-04-10	greenhouse-api	Senior Site Reliability Engineer	Fivetran	matched
+https://job-boards.greenhouse.io/fivetran/jobs/7581692003	2026-04-10	greenhouse-api	Senior Site Reliability Engineer	Fivetran	seen
+https://job-boards.greenhouse.io/fivetran/jobs/7486167003	2026-04-10	greenhouse-api	Senior Staff Site Reliability Engineer	Fivetran	matched
+https://job-boards.greenhouse.io/fivetran/jobs/7393532003	2026-04-10	greenhouse-api	Senior Staff Software Engineer - Binary Log Data Replication	Fivetran	matched
+https://job-boards.greenhouse.io/fivetran/jobs/7483663003	2026-04-10	greenhouse-api	Senior Staff Software Engineer - Binary Log Data Replication	Fivetran	matched
+https://job-boards.greenhouse.io/fivetran/jobs/7537470003	2026-04-10	greenhouse-api	Senior Staff Software Engineer - Performance Engineering	Fivetran	matched
+https://job-boards.greenhouse.io/fivetran/jobs/6664139003	2026-04-10	greenhouse-api	Principal Software Engineer - AI Tooling & Adoption	Fivetran	matched
+https://job-boards.greenhouse.io/fivetran/jobs/7663240003	2026-04-10	greenhouse-api	Senior Software Engineer - Databases	Fivetran	matched
+https://job-boards.greenhouse.io/fivetran/jobs/7695717003	2026-04-10	greenhouse-api	Senior Software Engineer - Databases	Fivetran	seen
+https://job-boards.greenhouse.io/databricks/jobs/8335860002	2026-04-10	greenhouse-api	AI Engineer - FDE (Forward Deployed Engineer)	Databricks	matched
+https://job-boards.greenhouse.io/databricks/jobs/6736119002	2026-04-10	greenhouse-api	Engineering Manager - Compute Infra	Databricks	matched
+https://job-boards.greenhouse.io/databricks/jobs/8472398002	2026-04-10	greenhouse-api	Engineering Manager - Databricks SQL Control Plane	Databricks	matched
+https://job-boards.greenhouse.io/databricks/jobs/8298018002	2026-04-10	greenhouse-api	Engineering Manager - Identity and Access Management (IAM)	Databricks	matched
+https://job-boards.greenhouse.io/databricks/jobs/8190108002	2026-04-10	greenhouse-api	Engineering Manager - Notebook Dataplane	Databricks	matched
+https://job-boards.greenhouse.io/scaleai/jobs/4665557005	2026-04-10	greenhouse-api	Infrastructure Software Engineer, Enterprise GenAI	Scale AI	matched
+https://job-boards.greenhouse.io/scaleai/jobs/4520320005	2026-04-10	greenhouse-api	Senior AI Infrastructure Engineer, Model Serving Platform	Scale AI	matched
+https://job-boards.greenhouse.io/scaleai/jobs/4625271005	2026-04-10	greenhouse-api	Engineering Manager, AgentOps	Scale AI	matched
+https://job-boards.greenhouse.io/scaleai/jobs/4657267005	2026-04-10	greenhouse-api	Engineering Manager, Security	Scale AI	matched
+https://job-boards.greenhouse.io/scaleai/jobs/4602177005	2026-04-10	greenhouse-api	Forward Deployed AI Engineering Manager, Enterprise	Scale AI	matched
+https://job-boards.greenhouse.io/scaleai/jobs/4676936005	2026-04-10	greenhouse-api	Software Engineer, AI Developer Tooling	Scale AI	matched
+https://job-boards.greenhouse.io/scaleai/jobs/4363623005	2026-04-10	greenhouse-api	Software Engineer, Frontier AI Infrastructure	Scale AI	matched
+https://job-boards.greenhouse.io/scaleai/jobs/4594879005	2026-04-10	greenhouse-api	Software Engineer, Platform	Scale AI	matched
+https://job-boards.greenhouse.io/scaleai/jobs/4591298005	2026-04-10	greenhouse-api	Senior Software Engineer, GenAI	Scale AI	matched
+https://job-boards.greenhouse.io/scaleai/jobs/4653827005	2026-04-10	greenhouse-api	Senior Software Engineer, Agentic Data Products	Scale AI	matched
+https://job-boards.greenhouse.io/scaleai/jobs/4648525005	2026-04-10	greenhouse-api	Senior Software Engineer, Backend - Frontier Data	Scale AI	matched
+https://job-boards.greenhouse.io/scaleai/jobs/4625345005	2026-04-10	greenhouse-api	ML Research Engineer, Agent Data Foundation	Scale AI	seen
+https://job-boards.greenhouse.io/scaleai/jobs/4625344005	2026-04-10	greenhouse-api	ML Research Engineer, Agents	Scale AI	seen
+https://job-boards.greenhouse.io/scaleai/jobs/4631811005	2026-04-10	greenhouse-api	Manager, ML Research Scientist, GenAI	Scale AI	seen
+https://job-boards.greenhouse.io/scaleai/jobs/4636227005	2026-04-10	greenhouse-api	Senior Forward Deployed Data Scientist/Engineer	Scale AI	seen
+https://job-boards.greenhouse.io/aurorainnovation/jobs/8360046002	2026-04-10	greenhouse-api	Machine Learning Engineering TL, Behavior Planning	Aurora Innovation	matched
+https://job-boards.greenhouse.io/aurorainnovation/jobs/8349385002	2026-04-10	greenhouse-api	Manager, HIL Platform Engineering	Aurora Innovation	matched
+https://job-boards.greenhouse.io/aurorainnovation/jobs/8390484002	2026-04-10	greenhouse-api	Senior Software Engineering Manager - Dispatching & Partner Integrations	Aurora Innovation	matched
+https://job-boards.greenhouse.io/aurorainnovation/jobs/8450213002	2026-04-10	greenhouse-api	Software Engineer I, FinOps	Aurora Innovation	matched
+https://job-boards.greenhouse.io/aurorainnovation/jobs/8301849002	2026-04-10	greenhouse-api	Machine Learning Engineering TL, Behavior Planning	Aurora Innovation	seen
+https://job-boards.greenhouse.io/aurorainnovation/jobs/8336063002	2026-04-10	greenhouse-api	Software Engineer II, Behavior Planning ML Platform	Aurora Innovation	seen
+https://job-boards.greenhouse.io/aurorainnovation/jobs/8377795002	2026-04-10	greenhouse-api	Software Engineer I - Data Platform	Aurora Innovation	seen
+https://job-boards.greenhouse.io/nuro/jobs/5550736	2026-04-10	greenhouse-api	Senior/Staff Software Engineer, Data Platform	Nuro	matched
+https://job-boards.greenhouse.io/nuro/jobs/5366973	2026-04-10	greenhouse-api	Senior/Staff Software Engineer, ML Data Infrastructure	Nuro	matched
+https://job-boards.greenhouse.io/nuro/jobs/7786731	2026-04-10	greenhouse-api	Senior Software Engineer, ML Platform Infrastructure	Nuro	matched
+https://job-boards.greenhouse.io/nuro/jobs/7472664	2026-04-10	greenhouse-api	Senior Software Engineer, Cloud Infrastructure	Nuro	matched
+https://job-boards.greenhouse.io/nuro/jobs/7786771	2026-04-10	greenhouse-api	Software Engineer, ML Platform Infrastructure	Nuro	matched
+https://job-boards.greenhouse.io/nuro/jobs/7459612	2026-04-10	greenhouse-api	Senior/Staff Software Engineer, Labeling Platform	Nuro	matched
+https://job-boards.greenhouse.io/nuro/jobs/7701325	2026-04-10	greenhouse-api	Senior Software Engineer, Autonomy Visualization	Nuro	matched
+https://job-boards.greenhouse.io/nuro/jobs/7580658	2026-04-10	greenhouse-api	Senior Software Engineer, Distributed Compute System	Nuro	matched
+https://job-boards.greenhouse.io/planetlabs/jobs/7603801	2026-04-10	greenhouse-api	Senior Engineering Manager - AI Geospatial Assistant Team	Planet Labs	matched
+https://job-boards.greenhouse.io/planetlabs/jobs/7689257	2026-04-10	greenhouse-api	Senior Software Engineer	Planet Labs	matched
+https://job-boards.greenhouse.io/planetlabs/jobs/7603823	2026-04-10	greenhouse-api	Senior Software Engineer	Planet Labs	matched
+https://job-boards.greenhouse.io/planetlabs/jobs/7603834	2026-04-10	greenhouse-api	Senior Software Engineering Manager	Planet Labs	matched
+https://job-boards.greenhouse.io/planetlabs/jobs/7644580	2026-04-10	greenhouse-api	Site Reliability Engineer	Planet Labs	matched
+https://job-boards.greenhouse.io/planetlabs/jobs/7603817	2026-04-10	greenhouse-api	Software Engineer, AI Systems & Infrastructure	Planet Labs	matched
+https://job-boards.greenhouse.io/planetlabs/jobs/7590726	2026-04-10	greenhouse-api	Software Engineer, Missions Software	Planet Labs	matched
+https://job-boards.greenhouse.io/planetlabs/jobs/7555019	2026-04-10	greenhouse-api	Software Engineer, Platform Operations	Planet Labs	matched
+https://job-boards.greenhouse.io/planetlabs/jobs/7603803	2026-04-10	greenhouse-api	Software Engineer, Applied GenAI Apps	Planet Labs	matched
+https://job-boards.greenhouse.io/planetlabs/jobs/7729083	2026-04-10	greenhouse-api	Site Reliability Engineer	Planet Labs	seen
+https://job-boards.greenhouse.io/samsara/jobs/7491153	2026-04-10	greenhouse-api	AI Engineer	Samsara	matched
+https://job-boards.greenhouse.io/samsara/jobs/7650290	2026-04-10	greenhouse-api	Data Engineer II	Samsara	matched
+https://job-boards.greenhouse.io/samsara/jobs/7589442	2026-04-10	greenhouse-api	AI Engineer	Samsara	seen
+https://job-boards.greenhouse.io/stabilityai/jobs/4712826101	2026-04-10	greenhouse-api	Generative AI Inference Engineer	Stability AI	matched
+https://job-boards.greenhouse.io/stabilityai/jobs/4712821101	2026-04-10	greenhouse-api	Senior Backend Engineer	Stability AI	matched
+https://job-boards.greenhouse.io/rocketlab/jobs/7627102003	2026-04-10	greenhouse-api	Principal Network Software Engineer - TS/SCI	Rocket Lab	matched

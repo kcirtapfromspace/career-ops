@@ -738,3 +738,86 @@
 
 #### Rula (rescan — new role)
 - [ ] https://jobs.ashbyhq.com/rula/04f6ee33-0db6-470f-80ba-e1a9108bc6ec | Rula | Staff Data Engineer | US Remote
+
+---
+
+## Quick-Check Scout — 2026-04-10
+
+### ClickHouse (scanned 2026-04-10 — Greenhouse API)
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5802320004 | ClickHouse | Cloud Platform Engineer - Control Plane | US remote
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5809710004 | ClickHouse | Engineering Manager - Language clients | US remote
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5838217004 | ClickHouse | Senior Backend Engineer - HyperDX | US remote
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5776991004 | ClickHouse | Senior Backend Engineer - Infrastructure (ClickPipes) | US
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5706417004 | ClickHouse | Senior Infrastructure Engineer - Postgres | US remote
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5819754004 | ClickHouse | Senior Site Reliability Engineer | US remote
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5727344004 | ClickHouse | Senior Software Engineer (Infrastructure) - HyperDX | US remote
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5819674004 | ClickHouse | Senior Software Engineer - Cloud Infrastructure | US remote
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5722210004 | ClickHouse | Senior Software Engineer - Data Integration & JVM Ecosystem | US remote
+
+### Fivetran (scanned 2026-04-10 — Greenhouse API)
+- [ ] https://job-boards.greenhouse.io/fivetran/jobs/7581685003 | Fivetran | Senior Site Reliability Engineer | Oakland, CA
+- [ ] https://job-boards.greenhouse.io/fivetran/jobs/7581688003 | Fivetran | Senior Site Reliability Engineer | Denver, CO ⭐
+- [ ] https://job-boards.greenhouse.io/fivetran/jobs/7486167003 | Fivetran | Senior Staff Site Reliability Engineer | Oakland, CA
+- [ ] https://job-boards.greenhouse.io/fivetran/jobs/7393532003 | Fivetran | Senior Staff Software Engineer - Binary Log Data Replication | Oakland, CA
+- [ ] https://job-boards.greenhouse.io/fivetran/jobs/7483663003 | Fivetran | Senior Staff Software Engineer - Binary Log Data Replication | Denver, CO ⭐
+- [ ] https://job-boards.greenhouse.io/fivetran/jobs/7537470003 | Fivetran | Senior Staff Software Engineer - Performance Engineering | Oakland, CA
+- [ ] https://job-boards.greenhouse.io/fivetran/jobs/6664139003 | Fivetran | Principal Software Engineer - AI Tooling & Adoption | Oakland, CA
+- [ ] https://job-boards.greenhouse.io/fivetran/jobs/7663240003 | Fivetran | Senior Software Engineer - Databases | Oakland, CA
+
+### Databricks (scanned 2026-04-10 — Greenhouse API)
+- [ ] https://job-boards.greenhouse.io/databricks/jobs/8335860002 | Databricks | AI Engineer - FDE (Forward Deployed Engineer) | United States
+- [ ] https://job-boards.greenhouse.io/databricks/jobs/6736119002 | Databricks | Engineering Manager - Compute Infra | Mountain View/SF
+- [ ] https://job-boards.greenhouse.io/databricks/jobs/8472398002 | Databricks | Engineering Manager - Databricks SQL Control Plane | Mountain View
+- [ ] https://job-boards.greenhouse.io/databricks/jobs/8298018002 | Databricks | Engineering Manager - IAM | Mountain View
+- [ ] https://job-boards.greenhouse.io/databricks/jobs/8190108002 | Databricks | Engineering Manager - Notebook Dataplane | San Francisco
+
+### Scale AI (scanned 2026-04-10 — Greenhouse API)
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4665557005 | Scale AI | Infrastructure Software Engineer, Enterprise GenAI | SF/NYC
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4520320005 | Scale AI | Senior AI Infrastructure Engineer, Model Serving Platform | SF/NYC
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4625271005 | Scale AI | Engineering Manager, AgentOps | SF/NYC
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4657267005 | Scale AI | Engineering Manager, Security | SF/Seattle/NYC
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4602177005 | Scale AI | Forward Deployed AI Engineering Manager, Enterprise | SF/NYC
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4676936005 | Scale AI | Software Engineer, AI Developer Tooling | SF/Seattle/NYC
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4363623005 | Scale AI | Software Engineer, Frontier AI Infrastructure | SF
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4594879005 | Scale AI | Software Engineer, Platform | SF/NYC
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4591298005 | Scale AI | Senior Software Engineer, GenAI | SF/NYC
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4653827005 | Scale AI | Senior Software Engineer, Agentic Data Products | SF
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4648525005 | Scale AI | Senior Software Engineer, Backend — Frontier Data | SF/NYC
+
+### Aurora Innovation (scanned 2026-04-10 — Greenhouse API)
+- [ ] https://job-boards.greenhouse.io/aurorainnovation/jobs/8360046002 | Aurora Innovation | Machine Learning Engineering TL, Behavior Planning | Mountain View (Bay Area)
+- [ ] https://job-boards.greenhouse.io/aurorainnovation/jobs/8349385002 | Aurora Innovation | Manager, HIL Platform Engineering | Mountain View (Bay Area)
+- [ ] https://job-boards.greenhouse.io/aurorainnovation/jobs/8390484002 | Aurora Innovation | Senior Software Engineering Manager - Dispatching & Partner Integrations | Mountain View (Bay Area)
+- [ ] https://job-boards.greenhouse.io/aurorainnovation/jobs/8450213002 | Aurora Innovation | Software Engineer I, FinOps | Mountain View (Bay Area)
+
+### Nuro (scanned 2026-04-10 — Greenhouse API)
+- [ ] https://job-boards.greenhouse.io/nuro/jobs/5550736 | Nuro | Senior/Staff Software Engineer, Data Platform | Mountain View (Bay Area)
+- [ ] https://job-boards.greenhouse.io/nuro/jobs/5366973 | Nuro | Senior/Staff Software Engineer, ML Data Infrastructure | Mountain View (Bay Area)
+- [ ] https://job-boards.greenhouse.io/nuro/jobs/7786731 | Nuro | Senior Software Engineer, ML Platform Infrastructure | Mountain View (Bay Area)
+- [ ] https://job-boards.greenhouse.io/nuro/jobs/7472664 | Nuro | Senior Software Engineer, Cloud Infrastructure | Mountain View (Bay Area)
+- [ ] https://job-boards.greenhouse.io/nuro/jobs/7786771 | Nuro | Software Engineer, ML Platform Infrastructure | Mountain View (Bay Area)
+- [ ] https://job-boards.greenhouse.io/nuro/jobs/7459612 | Nuro | Senior/Staff Software Engineer, Labeling Platform | Mountain View (Bay Area)
+- [ ] https://job-boards.greenhouse.io/nuro/jobs/7701325 | Nuro | Senior Software Engineer, Autonomy Visualization | Mountain View (Bay Area)
+- [ ] https://job-boards.greenhouse.io/nuro/jobs/7580658 | Nuro | Senior Software Engineer, Distributed Compute System | Mountain View (Bay Area)
+
+### Planet Labs (scanned 2026-04-10 — Greenhouse API)
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/7603801 | Planet Labs | Senior Engineering Manager - AI Geospatial Assistant Team | San Francisco
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/7689257 | Planet Labs | Senior Software Engineer | US Remote
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/7603823 | Planet Labs | Senior Software Engineer | US Remote
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/7603834 | Planet Labs | Senior Software Engineering Manager | US Remote
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/7644580 | Planet Labs | Site Reliability Engineer | US Remote
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/7603817 | Planet Labs | Software Engineer, AI Systems & Infrastructure | San Francisco
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/7590726 | Planet Labs | Software Engineer, Missions Software | US Remote
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/7555019 | Planet Labs | Software Engineer, Platform Operations | US Remote
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/7603803 | Planet Labs | Software Engineer, Applied GenAI Apps | San Francisco
+
+### Samsara (scanned 2026-04-10 — Greenhouse API)
+- [ ] https://job-boards.greenhouse.io/samsara/jobs/7491153 | Samsara | AI Engineer | Remote US
+- [ ] https://job-boards.greenhouse.io/samsara/jobs/7650290 | Samsara | Data Engineer II | Remote US
+
+### Stability AI (scanned 2026-04-10 — Greenhouse API)
+- [ ] https://job-boards.greenhouse.io/stabilityai/jobs/4712826101 | Stability AI | Generative AI Inference Engineer | United States
+- [ ] https://job-boards.greenhouse.io/stabilityai/jobs/4712821101 | Stability AI | Senior Backend Engineer | United States
+
+### Rocket Lab (scanned 2026-04-10 — Greenhouse API)
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7627102003 | Rocket Lab | Principal Network Software Engineer - TS/SCI | Littleton, CO ⭐
