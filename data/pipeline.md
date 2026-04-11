@@ -821,3 +821,63 @@
 
 ### Rocket Lab (scanned 2026-04-10 — Greenhouse API)
 - [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7627102003 | Rocket Lab | Principal Network Software Engineer - TS/SCI | Littleton, CO ⭐
+
+### Scout Scan 2026-04-11
+
+#### Glean (re-scan — new Tech Lead Manager roles)
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4677083005 | Glean | Tech Lead Manager, Agentic Runtime
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4673278005 | Glean | Tech Lead Manager, Apps & App Infrastructure
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4656233005 | Glean | Tech Lead Manager, Billing & Insights
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4388073005 | Glean | Tech Lead Manager
+
+#### Intercom (re-scan — new EM and ML Manager roles)
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7749413 | Intercom | Engineering Manager, Forward Deployed Engineering
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7411373 | Intercom | Senior ML Science Manager
+
+#### Brex (new — Greenhouse, US remote) ⭐ TOP PICKS
+- [ ] https://www.brex.com/careers/8395068002?gh_jid=8395068002 | Brex | Engineering Manager, AI — Brex Assistant | ⭐ Score 4.2
+- [ ] https://www.brex.com/careers/8367553002?gh_jid=8367553002 | Brex | Engineering Manager, GTM Engineering
+- [ ] https://www.brex.com/careers/8461597002?gh_jid=8461597002 | Brex | Engineering Manager, Onboarding
+- [ ] https://www.brex.com/careers/8366850002?gh_jid=8366850002 | Brex | Data Engineer
+
+#### Fivetran (re-scan — new Staff/Manager roles)
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7670783003 | Fivetran | Senior Manager Software Engineering
+- [ ] https://www.fivetran.com/careers/job?gh_jid=6598497003 | Fivetran | Staff Software Engineer
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7688674003 | Fivetran | Staff Site Reliability Engineer
+- [ ] https://www.fivetran.com/careers/job?gh_jid=6266323003 | Fivetran | Principal Software Engineer
+
+#### Samsara (re-scan — new Staff ML role)
+- [ ] https://www.samsara.com/company/careers/roles/7746586?gh_jid=7746586 | Samsara | Staff ML Engineer - ML Infrastructure | Remote US
+
+#### Airbnb (re-scan — new EM roles) ⭐ TOP PICKS
+- [ ] https://careers.airbnb.com/positions/7702685/ | Airbnb | Engineering Manager, Storage | US Remote | ⭐ Score 4.1
+- [ ] https://careers.airbnb.com/positions/7402675/ | Airbnb | Engineering Manager, CS Data Services | US Remote
+- [ ] https://careers.airbnb.com/positions/7450569/ | Airbnb | Senior Engineering Manager - Marketplaces DNA (Data & AI) | US Remote | ⭐ Score 4.3
+
+#### Cohere (re-scan — new Staff/SRE roles) ⭐
+- [ ] https://jobs.ashbyhq.com/cohere/41f23dad-9da2-451a-bd1e-a1800437cb64 | Cohere | Staff Software Engineer, Inference Infrastructure | ⭐ Score 4.0
+- [ ] https://jobs.ashbyhq.com/cohere/ef9b939d-da66-464c-a878-ef45616c0473 | Cohere | Staff Software Engineer, GPU Infrastructure (HPC)
+- [ ] https://jobs.ashbyhq.com/cohere/8b6696e1-f1c4-4010-bde9-3cec1340a2a6 | Cohere | Site Reliability Engineer, Inference Infrastructure
+
+#### Zapier (re-scan — new EM role)
+- [ ] https://jobs.ashbyhq.com/zapier/ef8c8ee2-c883-4ee6-91fa-e9659f075dbc | Zapier | Engineering Manager, Enterprise Experience | Remote
+
+#### Reddit (new — Greenhouse)
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/6742761 | Reddit | Engineering Manager, ML Feature Platform | US Remote | ⭐ Score 4.0
+
+#### OpenAI (re-scan — new roles)
+- [ ] https://openai.com/careers/software-engineer-distributed-data-systems | OpenAI | Software Engineer, Distributed Data Systems | SF
+- [ ] https://openai.com/careers/software-engineer-infrastructure-reliability-san-francisco/ | OpenAI | Software Engineer, Infrastructure Reliability | SF
+
+#### Rula (re-scan — new Staff Data Engineer roles)
+- [ ] https://jobs.ashbyhq.com/rula/3f9344d3-1e38-437b-ad53-10277eeb1399 | Rula | Staff Data Engineer - RCM | US Remote
+- [ ] https://jobs.ashbyhq.com/rula/42afb5c5-ca56-40a5-a487-009b92fa0e8b | Rula | Staff AI Data Engineer | US Remote
+
+#### Vercel (re-scan — new Backend/Software Engineer roles)
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5813134004 | Vercel | Software Engineer, Domains
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5808568004 | Vercel | Software Engineer, Dashboard
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5613601004 | Vercel | Software Engineer, Growth
+
+#### Airtable (re-scan — new roles)
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8400373002 | Airtable | Software Engineer, Infrastructure (2-8 YOE)
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8470036002 | Airtable | AI Analytics Engineer (Business Analytics)
