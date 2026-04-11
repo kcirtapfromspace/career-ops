@@ -1179,3 +1179,20 @@
 
 ### Wayve (scanned 2026-04-11)
 - [ ] https://wayve.firststage.co/jobs?gh_jid=8482117002 | Wayve | Software Engineer - System Performance, Robot Software [Sunnyvale]
+
+### Anduril (scanned 2026-04-11)
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5078023007?gh_jid=5078023007 | Anduril | AI Chief Engineering Lead [Boston/Costa Mesa/Seattle/DC]
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5102282007?gh_jid=5102282007 | Anduril | AI Chief Engineering Lead [Remote]
+
+### Samsara (scanned 2026-04-11)
+- [ ] https://www.samsara.com/company/careers/roles/7491153?gh_jid=7491153 | Samsara | AI Engineer [Remote - US]
+
+### Scale AI (scanned 2026-04-11)
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4654897005 | Scale AI | Senior Software Engineer - Internal Tools & Productivity [San Francisco, CA]
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4654831005 | Scale AI | Site Reliability Engineer / DevOps [San Francisco, CA]
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4597399005 | Scale AI | Senior Forward Deployed AI Engineer, Enterprise [San Francisco, CA; New York, NY]
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4658162005 | Scale AI | Senior/Staff Machine Learning Engineer, General Agents, Enterprise GenAI [San Francisco, CA; New York, NY]
+
+### ClickHouse (scanned 2026-04-11)
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5732503004 | ClickHouse | Senior Full Stack Engineer - HyperDX [United States (remote)]
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5777065004 | ClickHouse | Senior Full Stack Software Engineer - ClickPipes Platform [United States]
