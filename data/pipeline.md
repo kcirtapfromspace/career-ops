@@ -1196,3 +1196,33 @@
 ### ClickHouse (scanned 2026-04-11)
 - [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5732503004 | ClickHouse | Senior Full Stack Engineer - HyperDX [United States (remote)]
 - [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5777065004 | ClickHouse | Senior Full Stack Software Engineer - ClickPipes Platform [United States]
+
+### Scout Scan 2026-04-12
+
+#### Airbnb (re-scan — 9 new roles) ⭐ TOP PICKS
+- [ ] https://careers.airbnb.com/positions/7271799/ | Airbnb | Engineering Manager, Data Frameworks | US Remote | ⭐ Score 4.4
+- [ ] https://careers.airbnb.com/positions/6871719/ | Airbnb | Staff Software Engineer, Integrated Knowledge Management (RAG) | US Remote | ⭐ Score 4.2
+- [ ] https://careers.airbnb.com/positions/7712102/ | Airbnb | Staff Software Engineer, Airfam Products | US Remote | ⭐ Score 4.1
+- [ ] https://careers.airbnb.com/positions/7712903/ | Airbnb | Engineering Manager, Listings Product | US Remote | ⭐ Score 4.0
+- [ ] https://careers.airbnb.com/positions/7655958/ | Airbnb | Staff Software Engineer, Communication Products | US Remote
+- [ ] https://careers.airbnb.com/positions/7380455/ | Airbnb | Staff Machine Learning Engineer, Communication & Connectivity | US Remote
+- [ ] https://careers.airbnb.com/positions/7005605/ | Airbnb | Senior Staff Machine Learning Engineer, Communication & Connectivity | US Remote
+- [ ] https://careers.airbnb.com/positions/7528577/ | Airbnb | Staff Software Engineer, Listings & Host Tools and AI | US Remote
+- [ ] https://careers.airbnb.com/positions/7373734/ | Airbnb | Staff Software Engineer, Host Pricing & Settings | US Remote
+
+#### Anthropic (re-scan — new Federal FDE) ⭐
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5079562008 | Anthropic | Forward Deployed Engineer, Applied AI (Federal Civilian) | US (DC/NYC/Seattle) | ⭐ Score 4.0
+
+#### Netflix (re-scan — new ML role)
+- [ ] https://explore.jobs.netflix.net/careers/job/790300763300 | Netflix | Machine Learning Engineer, AI for Member Systems | US Remote
+
+#### Zapier (re-scan — 3 new roles)
+- [ ] https://jobs.ashbyhq.com/zapier/a001ec9e-c45f-411b-bdbd-f59e393cd7bd | Zapier | Engineering Manager, Data Engineering | Remote Americas | ⭐ Score 3.7
+- [ ] https://jobs.ashbyhq.com/zapier/1228553e-1f59-4a13-9fa3-49deeb2e0aa0 | Zapier | Sr. Engineer, Backend (Functions) | Remote
+- [ ] https://jobs.ashbyhq.com/zapier/6aa0d3c4-9f2c-42ee-94ce-76a09c6a3b88 | Zapier | Sr. Backend Engineer (Manage) | Remote
+
+#### Glean (re-scan — new Applied Scientist)
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4424103005 | Glean | Senior/Staff Applied Scientist | US Remote
+
+#### Anduril (re-scan — new Cloud Deployment role)
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5016027007 | Anduril | Cloud Deployment Engineer, Space | TBD (defense/space)
