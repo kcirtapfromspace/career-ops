@@ -1285,3 +1285,59 @@
 
 #### Anduril (re-scan — new Cloud Deployment role)
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5016027007 | Anduril | Cloud Deployment Engineer, Space | TBD (defense/space)
+
+#### Quick-check scan — 2026-04-13 (Greenhouse APIs)
+
+#### Anduril (4 new)
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5077994007?gh_jid=5077994007 | Anduril | Generative AI Chief Engineering Lead | Boston, Massachusetts, United States; Costa Mesa, California, United States; Seattle, Washington, United States; Washington, District of Columbia, United States
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5090921007?gh_jid=5090921007 | Anduril | Senior AI Engineer | Seattle, Washington, United States
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/4927589007?gh_jid=4927589007 | Anduril | Senior Machine Learning Engineer, Sentry Tower | Irvine, California, United States; Remote
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/4928108007?gh_jid=4928108007 | Anduril | Senior Software Engineer, Game Development  | Seattle, Washington, United States
+
+#### Celonis (2 new)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7680930003?gh_jid=7680930003 | Celonis | Senior Applied AI Engineer - Energy Industry | Remote, US, Texas
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7688214003?gh_jid=7688214003 | Celonis | Senior Applied AI Engineer (Public Sector) - Sacramento, CA | Remote, US, California
+
+#### Databricks (18 new)
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7859597002 | Databricks | Senior Applied AI Engineer – ML for Systems & Infrastructure | San Francisco, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=6954585002 | Databricks | Senior Machine Learning Engineer - GenAI Platform  | San Francisco, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7734812002 | Databricks | Senior Manager, Infrastructure Data Science | San Francisco, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7276195002 | Databricks | Sr. Machine Learning Engineer  | San Francisco, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8211957002 | Databricks | Sr. Manager, Engineering - Model Serving | San Francisco, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8204135002 | Databricks | Sr. Manager, Engineering Performance | Remote - Arizona; Remote - California; Remote - Canada; Remote - Colorado; Remote - Illinois; Remote - Massachusetts; Remote - Michigan; Remote - New York; Remote - Texas; Remote - Washington
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8415076002 | Databricks | Sr. Manager, Engineering - Storage Platform | San Francisco, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8136204002 | Databricks | Sr. Product Manager, Databricks AI | Seattle, Washington
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8136071002 | Databricks | Sr. Product Manager, Databricks AI | San Francisco, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8235785002 | Databricks | Sr. Product Manager, Databricks Free Edition | Seattle, Washington
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7680573002 | Databricks | Sr. Product Manager, Databricks Free Edition | San Francisco, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8326570002 | Databricks | Sr. Product Manager, Databricks Repos | Seattle, Washington
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8326513002 | Databricks | Sr. Product Manager, Databricks Repos | San Francisco, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7863522002 | Databricks | Sr. Product Manager, Data Governance | Seattle, Washington
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7863365002 | Databricks | Sr. Product Manager, Data Governance | San Francisco, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8385177002 | Databricks | Sr. Program Manager, Data for Good | San Francisco, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8389535002 | Databricks | Sr. Program Manager, Data for Good | Seattle, Washington
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8401114002 | Databricks | Staff Machine Learning Engineer  | San Francisco, California
+
+#### Fivetran (1 new)
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7524547003 | Fivetran | Senior Product Manager, Data & Integrations | Denver, Colorado, United States, AMER
+
+#### Planet Labs (1 new)
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/7799787 | Planet Labs | Senior Geospatial AI/ML Engineer | United States, Remote
+
+#### Samsara (4 new)
+- [ ] https://www.samsara.com/company/careers/roles/7327168?gh_jid=7327168 | Samsara | Senior Machine Learning Engineer - Edge AI | Remote - US
+- [ ] https://www.samsara.com/company/careers/roles/7266471?gh_jid=7266471 | Samsara | Senior Machine Learning Engineer - Platform | Remote - US
+- [ ] https://www.samsara.com/company/careers/roles/7743836?gh_jid=7743836 | Samsara | Senior Software Engineer II, Developer Experience, Operational Excellence - US/Canada Eastern Time Zone | Remote - Canada; Remote - US
+- [ ] https://www.samsara.com/company/careers/roles/7266357?gh_jid=7266357 | Samsara | Staff Machine Learning Engineer - Edge AI | Remote - US
+
+#### Scale AI (7 new)
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4514173005 | Scale AI | Applied AI Engineer, Enterprise GenAI | San Francisco, CA; New York, NY
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4670064005 | Scale AI | Product Manager, Data Engine | San Francisco, CA; St. Louis, MO; New York, NY; Washington, DC
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4631848005 | Scale AI | Senior Machine Learning Engineer - Model Evaluations, Public Sector | San Francisco, CA; St. Louis, MO; New York, NY; Washington, DC
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4281519005 | Scale AI | Senior Machine Learning Engineer, Public Sector | San Francisco, CA; New York, NY; Washington, DC
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4683689005 | Scale AI | Staff Applied AI Engineer, Enterprise GenAI | San Francisco, CA; Seattle, WA; New York, NY
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4628044005 | Scale AI | Staff Machine Learning Research Scientist, LLM Evals | San Francisco, CA; Seattle, WA; New York, NY
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4304790005 | Scale AI | Tech Lead/Manager, Machine Learning Research Scientist- LLM Evals | San Francisco, CA; Seattle, WA; New York, NY
+
+#### Vercel (1 new)
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5704321004 | Vercel | Software Engineer, Agent | Hybrid - San Francisco, New York City
