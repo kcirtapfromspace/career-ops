@@ -312,6 +312,65 @@
 - [ ] https://job-boards.greenhouse.io/airtable/jobs/8434287002 | Airtable | AI Analytics Engineer (AI & Analytics Platform)
 - [ ] https://job-boards.greenhouse.io/airtable/jobs/8434307002 | Airtable | AI Analytics Engineer (Marketing Analytics)
 
+### Scout Scan 2026-04-13
+
+#### Hume AI (new role)
+- [ ] https://job-boards.greenhouse.io/humeai/jobs/4003488008 | Hume AI | Senior/Staff AI Research Engineer
+
+#### Contentful (scanned 2026-04-13)
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7544099 | Contentful | Data Engineer (Denver, CO)
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7544103 | Contentful | Platform Engineer (Denver, CO)
+
+#### Black Forest Labs (scanned 2026-04-13)
+- [ ] https://job-boards.greenhouse.io/blackforestlabs/jobs/4925659008 | Black Forest Labs | Member of Technical Staff - Infrastructure Engineer
+- [ ] https://job-boards.greenhouse.io/blackforestlabs/jobs/5019171008 | Black Forest Labs | Member of Technical Staff - Large Scale Data Infrastructure
+
+#### Stability AI (scanned 2026-04-13)
+- [ ] http://stability.ai/careers?gh_jid=4712826101 | Stability AI | Generative AI Inference Engineer
+- [ ] http://stability.ai/careers?gh_jid=4712821101 | Stability AI | Senior Backend Engineer
+
+#### Deepgram (scanned 2026-04-13)
+- [ ] https://jobs.ashbyhq.com/deepgram/7ced4c1f-4126-44fe-9cf1-da427a9e4e3e | Deepgram | ML Ops Infrastructure Engineer
+- [ ] https://jobs.ashbyhq.com/deepgram/ff392127-1eb6-4fc7-838e-a3243923ba76 | Deepgram | Systems Architect AI/ML Infrastructure
+- [ ] https://jobs.ashbyhq.com/deepgram/d6558e6d-cefe-41f1-97aa-21e964cab0f4 | Deepgram | Engineering Manager, Engine Team
+
+#### LangChain — new roles (scanned 2026-04-13)
+- [ ] https://jobs.ashbyhq.com/langchain/6f32998b-111c-447b-b593-2b64c7de245d | LangChain | Senior Backend Engineer, Enterprise Readiness & Identity
+- [ ] https://jobs.ashbyhq.com/langchain/a03b3e54-495d-4960-aee7-0194a3cef57d | LangChain | Senior Fullstack Engineer, AI Observability & Evals Platform
+- [ ] https://jobs.ashbyhq.com/langchain/cb61f821-d8c4-4ec5-940d-3fd83be63a5f | LangChain | Senior Backend Engineer, LangSmith Deployments
+
+#### Cohere — new roles (scanned 2026-04-13)
+- [ ] https://jobs.ashbyhq.com/cohere/86b305e5-84fe-47ab-bc5c-b79a74a63194 | Cohere | Member of Technical Staff, Senior/Staff MLE
+- [ ] https://jobs.ashbyhq.com/cohere/4b000aff-7c0f-45a0-b67d-cf0cb2ea16a6 | Cohere | Senior/Staff Full-Stack Engineer
+
+#### Reddit (scanned 2026-04-13)
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/7388390 | Reddit | Staff Machine Learning Engineer, ML Platform
+
+#### Decagon (scanned 2026-04-13)
+- [ ] https://jobs.ashbyhq.com/decagon/8dd8e0f6-467f-4a83-9182-3af90c2d6939 | Decagon | Senior Software Engineer, Platform
+
+#### Sierra (scanned 2026-04-13)
+- [ ] https://jobs.ashbyhq.com/sierra/1b5440ae-b658-4e71-abea-d12d575ba586 | Sierra | Data Engineer
+
+#### Astronomer (scanned 2026-04-13)
+- [ ] https://jobs.ashbyhq.com/astronomer/9ff65d31-1b13-4785-8e36-2f8ef33dfcd5 | Astronomer | Staff Software Engineer, Data
+
+#### Weights & Biases — new role (scanned 2026-04-13)
+- [ ] https://jobs.lever.co/wandb/aef9ba38-f779-4c53-afc8-6fa2d10c6f59 | Weights & Biases | Staff Software Engineer, Metrics - US Remote
+
+#### Broader Search — Engineering Manager roles (2026-04-13)
+- [ ] https://job-boards.greenhouse.io/splice/jobs/8315320002 | Splice | Senior Manager, Engineering - Data (Remote US)
+- [ ] https://job-boards.greenhouse.io/quillbot/jobs/7786132 | QuillBot | Engineering Manager, Data Platform
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8489179002 | GitLab | Engineering Manager, Infrastructure Platforms
+- [ ] https://job-boards.greenhouse.io/webflow/jobs/7309370 | Webflow | Engineering Manager, Data Engineering (Remote)
+- [ ] https://job-boards.greenhouse.io/calendly/jobs/8416940002 | Calendly | Engineering Manager, Infrastructure (Remote US)
+- [ ] https://job-boards.greenhouse.io/smarterdx/jobs/4988771007 | SmarterDx | Engineering Manager, Infrastructure Platform (Remote)
+
+#### Broader Search — Staff/Senior roles (2026-04-13)
+- [ ] https://job-boards.greenhouse.io/smarterdx/jobs/4871263007 | SmarterDx | Staff Software Engineer, Data Platform (Remote)
+- [ ] https://job-boards.greenhouse.io/dbtlabsinc/jobs/4577510005 | dbt Labs | Staff Software Engineer
+- [ ] https://jobs.lever.co/luxurypresence/619322cf-c699-4060-a23c-b4e0b90debcd | Luxury Presence | Staff Software Engineer, Data Platform (Remote US)
+
 ## Procesadas
 
 ### Scout Quick-Check 2026-04-09 (Greenhouse APIs only)
