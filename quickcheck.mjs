@@ -8,7 +8,7 @@
 
 import { readFileSync, writeFileSync } from 'fs';
 
-const TODAY = '2026-04-12';
+const TODAY = '2026-04-14';
 const HISTORY_PATH = 'data/scan-history.tsv';
 
 // --- Filters ---
@@ -28,14 +28,28 @@ const TITLE_NEG = [
   'Salesforce Admin', 'SAP ', 'Oracle EBS', 'Mainframe', 'COBOL'
 ];
 
-// Acceptable US locations (case-insensitive substring match)
-const LOC_ACCEPT = [
-  'remote', 'united states', 'us remote', 'denver', 'san francisco',
-  'los gatos', 'seattle', 'bend', 'san jose', 'sunnyvale', 'mountain view',
-  'santa cruz', 'long beach', 'pittsburgh', 'sf', 'nationwide'
+// Accept list from portals.yml + strict per scout spec
+// US Remote, Denver, SF, Los Gatos, Seattle, Bend = ACCEPT
+// NYC/Chicago = remote only. Other relocation = REJECT.
+const LOC_ACCEPT_CITIES = [
+  'denver', 'san francisco', 'los gatos', 'seattle', 'bend, or', 'bend,',
+  'long beach',  // Vast's location per portals.yml
+  'san jose', 'sunnyvale', 'mountain view', 'santa cruz', 'pittsburgh'
 ];
-// NYC/Chicago: only accept if "remote" is also in the location string
-const LOC_REMOTE_ONLY = ['new york', 'nyc', 'chicago'];
+// NYC/Chicago only accept if "remote" is explicitly stated
+const LOC_NYC_CHICAGO = ['new york', 'nyc', 'chicago', 'brooklyn'];
+// Non-US city/country identifiers — reject even if "remote" precedes them
+const NON_US = [
+  'argentina', 'buenos aires', 'singapore', 'malaysia', 'india', 'brazil',
+  'canada', 'ontario', 'british columbia', 'mexico', 'united kingdom',
+  'germany', 'france', 'spain', 'netherlands', 'australia', 'japan', 'korea',
+  'ireland', 'poland', 'ukraine', 'israel', 'nigeria', 'kenya', 'colombia',
+  'chile', 'switzerland', 'austria', 'sweden', 'norway', 'denmark', 'finland',
+  'portugal', 'italy', 'belgium', 'czech', 'romania', 'latvia', 'lithuania',
+  'estonia', 'hungary', 'turkey', 'south africa', 'new zealand', 'philippines',
+  'indonesia', 'thailand', 'vietnam', 'taiwan', 'hong kong', 'china', 'russia',
+  'pakistan', 'bangladesh', 'apj', 'emea', 'latam', 'apac'
+];
 
 function titleMatch(title) {
   const t = title.toLowerCase();
@@ -46,11 +60,31 @@ function titleMatch(title) {
 
 function locMatch(loc) {
   if (!loc) return true; // no location = assume remote-eligible
-  const l = loc.toLowerCase();
-  if (LOC_ACCEPT.some(k => l.includes(k))) return true;
-  if (LOC_REMOTE_ONLY.some(k => l.includes(k))) {
-    return l.includes('remote');
-  }
+  const l = loc.toLowerCase().trim();
+
+  // Hard reject: non-US geography detected anywhere in string
+  if (NON_US.some(c => l.includes(c))) return false;
+
+  // NYC/Chicago: only if "remote" is also present
+  if (LOC_NYC_CHICAGO.some(k => l.includes(k))) return l.includes('remote');
+
+  // Explicit remote (US-only, since NON_US already rejected foreign remotes)
+  if (l === 'remote' || l.includes('us remote') || l.includes('remote - us') ||
+      l.includes('united states - remote') || l.includes('remote (united states)') ||
+      l.includes('remote, us') || l.includes('remote, united states') ||
+      l.includes('nationwide') || l.includes('anywhere')) return true;
+
+  // Accept specific target cities
+  if (LOC_ACCEPT_CITIES.some(c => l.includes(c))) return true;
+
+  // "United States" alone (no specific city) = likely remote or nationwide
+  if (l === 'united states') return true;
+
+  // Bare "remote" with parenthetical city already handled above via NON_US check
+  // Any remaining "remote" without a non-US qualifier = accept
+  if (l.startsWith('remote') || l.endsWith('remote')) return true;
+
+  // Default: reject on-site US cities not in accept list
   return false;
 }
 
@@ -58,10 +92,16 @@ function locMatch(loc) {
 const companies = JSON.parse(readFileSync('/tmp/gh-companies.json', 'utf8'));
 console.error(`Found ${companies.length} Greenhouse API companies`);
 
+// Normalize URL for dedup: strip query params so
+// "https://boards.greenhouse.io/x/jobs/123?gh_jid=123" == "https://boards.greenhouse.io/x/jobs/123"
+function normalizeUrl(url) {
+  try { return new URL(url).origin + new URL(url).pathname; } catch { return url; }
+}
+
 // Load seen URLs
 const seenRaw = readFileSync(HISTORY_PATH, 'utf8');
 const seenUrls = new Set(
-  seenRaw.split('\n').slice(1).map(l => l.split('\t')[0]).filter(Boolean)
+  seenRaw.split('\n').slice(1).map(l => normalizeUrl(l.split('\t')[0])).filter(Boolean)
 );
 console.error(`Loaded ${seenUrls.size} seen URLs`);
 
@@ -100,7 +140,7 @@ for (let i = 0; i < companies.length; i += BATCH) {
     const jobs = data.jobs || [];
     for (const job of jobs) {
       const url = buildUrl(company.name, job);
-      if (seenUrls.has(url)) continue; // already seen
+      if (seenUrls.has(normalizeUrl(url))) continue; // already seen
       const title = job.title || '';
       const location = job.location?.name || '';
       if (!titleMatch(title)) {

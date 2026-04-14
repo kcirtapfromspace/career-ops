@@ -1355,3 +1355,52 @@
 
 #### Databricks (1 new)
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7932280002 | Databricks | Staff Security Software Engineer | United States
+#### Aurora Innovation (19 new)
+- [ ] https://aurora.tech/jobs/8301849002?gh_jid=8301849002 | Aurora Innovation | Machine Learning Engineering TL, Behavior Planning | Pittsburgh, Pennsylvania
+- [ ] https://aurora.tech/jobs/8360046002?gh_jid=8360046002 | Aurora Innovation | Machine Learning Engineering TL, Behavior Planning | Mountain View, California
+- [ ] https://aurora.tech/jobs/8373455002?gh_jid=8373455002 | Aurora Innovation | Senior Fullstack Software Engineer, Map Creation Systems | Pittsburgh, Pennsylvania
+- [ ] https://aurora.tech/jobs/8397428002?gh_jid=8397428002 | Aurora Innovation | Senior Software Engineer - Compute | Pittsburgh, Pennsylvania
+- [ ] https://aurora.tech/jobs/8463936002?gh_jid=8463936002 | Aurora Innovation | Senior Software Engineer - Vehicle Data Management | Pittsburgh, Pennsylvania
+- [ ] https://aurora.tech/jobs/8400711002?gh_jid=8400711002 | Aurora Innovation | Software Engineer, Autonomy Controls | Pittsburgh, Pennsylvania
+- [ ] https://aurora.tech/jobs/8192053002?gh_jid=8192053002 | Aurora Innovation | Software Engineer, Functional Architecture | Pittsburgh, Pennsylvania
+- [ ] https://aurora.tech/jobs/8377795002?gh_jid=8377795002 | Aurora Innovation | Software Engineer I - Data Platform | Pittsburgh, Pennsylvania
+- [ ] https://aurora.tech/jobs/8336063002?gh_jid=8336063002 | Aurora Innovation | Software Engineer II, Behavior Planning ML Platform | Pittsburgh, Pennsylvania
+- [ ] https://aurora.tech/jobs/8040957002?gh_jid=8040957002 | Aurora Innovation | Software Engineer II, Controls Data & Simulation | Pittsburgh, Pennsylvania
+- [ ] https://aurora.tech/jobs/8294297002?gh_jid=8294297002 | Aurora Innovation | Software Engineer II, Test Drive | Pittsburgh, Pennsylvania
+- [ ] https://aurora.tech/jobs/8310472002?gh_jid=8310472002 | Aurora Innovation | Software Engineer, Map Orchestration | Pittsburgh, Pennsylvania
+- [ ] https://aurora.tech/jobs/8250339002?gh_jid=8250339002 | Aurora Innovation | Software Engineer, Mapping | Pittsburgh, Pennsylvania
+- [ ] https://aurora.tech/jobs/8245605002?gh_jid=8245605002 | Aurora Innovation | Software Engineer, MLDE Labels Platform | Pittsburgh, Pennsylvania
+- [ ] https://aurora.tech/jobs/8185077002?gh_jid=8185077002 | Aurora Innovation | Software Engineer, Vehicle Platform Integrations | Pittsburgh, Pennsylvania
+- [ ] https://aurora.tech/jobs/8373758002?gh_jid=8373758002 | Aurora Innovation | Staff Client Platform Engineer | Pittsburgh, Pennsylvania
+- [ ] https://aurora.tech/jobs/8432303002?gh_jid=8432303002 | Aurora Innovation | Staff Software Engineer | Pittsburgh, Pennsylvania
+- [ ] https://aurora.tech/jobs/8190421002?gh_jid=8190421002 | Aurora Innovation | Staff Software Engineer, Performance and Optimization | Pittsburgh, Pennsylvania
+- [ ] https://aurora.tech/jobs/8340931002?gh_jid=8340931002 | Aurora Innovation | Staff Software Engineer, Platform Infrastructure | Pittsburgh, Pennsylvania
+#### Chainguard (1 new)
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4673043006 | Chainguard | Senior Software Engineer (Libraries Platform)  | United States - Remote
+#### Figure AI (10 new)
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4659175006 | Figure AI | Helix AI Engineer, Agentic Systems | San Jose, CA
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4345915006 | Figure AI | Helix AI Engineer, Data Infrastructure  | San Jose, CA
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4671699006 | Figure AI | Helix AI Engineer, Generative AI | San Jose, CA
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4671712006 | Figure AI | Helix AI Engineer, Modeling | San Jose, CA
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4671704006 | Figure AI | Helix AI Engineer, Pretraining | San Jose, CA
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4671707006 | Figure AI | Helix AI Engineer, Reinforcement Learning | San Jose, CA
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4649851006 | Figure AI | Helix AI Engineer, Robot Learning | San Jose, CA
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4660876006 | Figure AI | Helix AI Engineer, Tooling  | San Jose, CA
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4431092006 | Figure AI | Helix AI Engineer, Training Infrastructure | San Jose, CA
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4671703006 | Figure AI | Helix AI Engineer, Video Pretraining | San Jose, CA
+#### Rocket Lab (6 new)
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7699230003 | Rocket Lab | Director, Software Engineering (MES) | Long Beach, CA
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7626792003 | Rocket Lab | Principal Network Software Engineer - TS/SCI | Long Beach, CA
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7571868003 | Rocket Lab | Principal Software Engineer /Senior Principal Software Engineer - TS/SCI | Long Beach, CA
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7645454003 | Rocket Lab | Senior DevOps Engineer I | Long Beach, CA
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7675358003 | Rocket Lab | Senior Flight Software Engineer I/II - Secret Clearance | Long Beach, CA
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7540727003 | Rocket Lab | Senior Ground Software Engineer I - TS/SCI | Long Beach, CA
+#### Vast (7 new)
+- [ ] https://boards.greenhouse.io/vast/jobs/4623900006?gh_jid=4623900006 | Vast | Manager, Engineering Information Systems | Long Beach, California, United States
+- [ ] https://boards.greenhouse.io/vast/jobs/4603214006?gh_jid=4603214006 | Vast | Senior Software Engineer, Security | Long Beach, California, United States
+- [ ] https://boards.greenhouse.io/vast/jobs/4668548006?gh_jid=4668548006 | Vast | Staff Data Architect | Long Beach, California, United States
+- [ ] https://boards.greenhouse.io/vast/jobs/4350635006?gh_jid=4350635006 | Vast | Staff Flight Software Engineer | Long Beach, California, United States
+- [ ] https://boards.greenhouse.io/vast/jobs/4669157006?gh_jid=4669157006 | Vast | Staff Software Engineer, AI Tooling | Long Beach, California, United States
+- [ ] https://boards.greenhouse.io/vast/jobs/4605289006?gh_jid=4605289006 | Vast | Staff Software Engineer, Enterprise Applications | Long Beach, California, United States
+- [ ] https://boards.greenhouse.io/vast/jobs/4361481006?gh_jid=4361481006 | Vast | Staff Software Engineer, Mission Software | Long Beach, California, United States
+
