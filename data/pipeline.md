@@ -1341,3 +1341,17 @@
 
 #### Vercel (1 new)
 - [ ] https://job-boards.greenhouse.io/vercel/jobs/5704321004 | Vercel | Software Engineer, Agent | Hybrid - San Francisco, New York City
+
+## Scout Quick-Check — 2026-04-14
+
+#### Anthropic (1 new)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5186067008 | Anthropic | Full-Stack Software Engineer, Reinforcement Learning | San Francisco, CA | New York City, NY
+
+#### Airtable (1 new)
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8397515002 | Airtable | Software Engineer, Product Backend (4-8 YOE) | San Francisco, CA; New York, NY; Remote - US (Seattle, WA only)
+
+#### Planet Labs (1 new)
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/7811224 | Planet Labs | Software Engineer, Mission Systems | US, Remote
+
+#### Databricks (1 new)
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7932280002 | Databricks | Staff Security Software Engineer | United States
