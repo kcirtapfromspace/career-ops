@@ -14,6 +14,8 @@
 - [ ] https://job-boards.greenhouse.io/life360/jobs/8446529002 | Life360 | Staff Data Engineer
 - [ ] https://explore.jobs.netflix.net/careers/job/790298210146-data-engineer-l5-ads-usa-remote | Netflix | Data Engineer (L5) - Ads
 - [ ] https://explore.jobs.netflix.net/careers/job/790312824865-software-engineer-l5-commerce-data-engineering-foundations-team-usa-remote | Netflix | Software Engineer (L5) - Commerce Data Engineering
+#### Wayve (quick-check 2026-04-15)
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8505598002 | Wayve | Senior Software Engineer — Release Infrastructure & Data | Sunnyvale, CA
 
 ### Anthropic (scanned 2026-04-06)
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/4956672008 | Anthropic | Analytics Data Engineer
