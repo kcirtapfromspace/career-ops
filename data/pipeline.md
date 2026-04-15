@@ -17,6 +17,12 @@
 #### Wayve (quick-check 2026-04-15)
 - [ ] https://wayve.firststage.co/jobs?gh_jid=8505598002 | Wayve | Senior Software Engineer — Release Infrastructure & Data | Sunnyvale, CA
 
+### Scout Scan (quick-check 2026-04-15)
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4534631005 | Scale AI | ML Research Engineer, ML Systems | San Francisco, CA; Seattle, WA; New York, NY
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/7782580 | Planet Labs | AI Engineer, Marketing | San Francisco, CA
+- [ ] https://nuro.ai/careersitem?gh_jid=7284218 | Nuro | Software Reliability Engineer | Mountain View, CA
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4612732006 | Figure AI | Full-Stack Engineer - Systems Integration | San Jose, CA
+
 ### Anthropic (scanned 2026-04-06)
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/4956672008 | Anthropic | Analytics Data Engineer
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5125387008 | Anthropic | Analytics Data Engineering Manager, Product
