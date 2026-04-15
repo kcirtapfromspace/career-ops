@@ -2,6 +2,19 @@
 
 ## Pendientes
 
+### Scout Scan (2026-04-15)
+- [ ] https://job-boards.greenhouse.io/dbtlabsinc/jobs/4666468005 | dbt Labs | Staff Software Engineer, Quality and Release Platform
+- [ ] https://job-boards.greenhouse.io/dbtlabsinc/jobs/4663520005 | dbt Labs | Manager, Software Engineering (AI Platform)
+- [ ] https://explore.jobs.netflix.net/careers/job/790303046697-data-engineering-manager-personalization-data-usa-remote | Netflix | Data Engineering Manager, Personalization
+- [ ] https://explore.jobs.netflix.net/careers/job/790312824871-manager-data-engineering-commerce-usa-remote | Netflix | Manager, Data Engineering – Commerce
+- [ ] https://explore.jobs.netflix.net/careers/job/790312824675-distributed-systems-engineer-l6-commerce-product-data-engineering-usa-remote | Netflix | Distributed Systems Engineer (L6) - Commerce Data Engineering
+- [ ] https://explore.jobs.netflix.net/careers/job/790302849886-engineering-manager-data-experience-los-gatos-california-united-states-of-america | Netflix | Engineering Manager, Data Experience (Los Gatos)
+- [ ] https://explore.jobs.netflix.net/careers/job/790298020581-distributed-systems-engineer-l5-data-platform-usa-remote | Netflix | Distributed Systems Engineer (L5) - Data Platform
+- [ ] https://explore.jobs.netflix.net/careers/job/790313345439-data-engineer-l5--usa-remote | Netflix | Data Engineer (L5)
+- [ ] https://job-boards.greenhouse.io/life360/jobs/8446529002 | Life360 | Staff Data Engineer
+- [ ] https://explore.jobs.netflix.net/careers/job/790298210146-data-engineer-l5-ads-usa-remote | Netflix | Data Engineer (L5) - Ads
+- [ ] https://explore.jobs.netflix.net/careers/job/790312824865-software-engineer-l5-commerce-data-engineering-foundations-team-usa-remote | Netflix | Software Engineer (L5) - Commerce Data Engineering
+
 ### Anthropic (scanned 2026-04-06)
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/4956672008 | Anthropic | Analytics Data Engineer
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5125387008 | Anthropic | Analytics Data Engineering Manager, Product
