@@ -1,7 +1,7 @@
 # Scout Quick-Check — 2026-04-16
 
-**Run:** Greenhouse API only | 40 companies reachable | 7,367 jobs scanned
-**New matches:** 16 (after ID-based dedup + US location filter)
+**Run 1:** Greenhouse API only | 40 companies reachable | 7,367 jobs scanned | 16 new matches
+**Run 2 (quickcheck):** Greenhouse API only | 50 companies | 2 additional new matches
 
 ## Matches by Company
 
@@ -48,6 +48,18 @@
 ### Planet Labs
 - **Flight Software Engineer** | San Francisco, CA
   https://job-boards.greenhouse.io/planetlabs/jobs/7728003
+
+## Run 2 Additions (quickcheck — 50 Greenhouse APIs, 2 new matches)
+
+### Anthropic
+- **Software Engineer, Research Data Platform** | San Francisco, CA | New York City, NY
+  https://job-boards.greenhouse.io/anthropic/jobs/5191226008
+
+### Anduril
+- **Staff Software Engineer, QualityOS** | Seattle, Washington, United States
+  https://boards.greenhouse.io/andurilindustries/jobs/5111665007?gh_jid=5111665007
+
+---
 
 ## Errors (11 companies unreachable)
 

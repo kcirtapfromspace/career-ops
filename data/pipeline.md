@@ -1443,3 +1443,7 @@
 - [ ] https://boards.greenhouse.io/vast/jobs/4605289006?gh_jid=4605289006 | Vast | Staff Software Engineer, Enterprise Applications | Long Beach, California, United States
 - [ ] https://boards.greenhouse.io/vast/jobs/4361481006?gh_jid=4361481006 | Vast | Staff Software Engineer, Mission Software | Long Beach, California, United States
 
+
+#### Quickcheck additions — 2026-04-16 (run 2)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5191226008 | Anthropic | Software Engineer, Research Data Platform | San Francisco, CA | New York City, NY
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5111665007?gh_jid=5111665007 | Anduril | Staff Software Engineer, QualityOS | Seattle, Washington, United States
