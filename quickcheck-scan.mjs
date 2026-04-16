@@ -9,7 +9,7 @@
 import fs from 'fs';
 import https from 'https';
 
-const TODAY = '2026-04-11';
+const TODAY = '2026-04-16';
 
 // --- Title filter ---
 const POSITIVE_TITLES = [

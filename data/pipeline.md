@@ -2,6 +2,24 @@
 
 ## Pendientes
 
+### Scout Quick-Check (2026-04-16)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5139910008 | Anthropic | Staff+ Software Engineer, Observability | San Francisco, CA | New York City, NY | Seattle, WA
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5108817008 | Anthropic | Staff+ Software Engineer, Systems | San Francisco, CA | New York City, NY | Seattle, WA
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4843556101 | Parloa | Software Engineer, GTM | Remotely in the USA
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5111335007?gh_jid=5111335007 | Anduril | Engineering Manager, Edge Compute and Communications | Seattle, Washington, United States
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5107814007?gh_jid=5107814007 | Anduril | Principal Software Engineer | Boston, Massachusetts, United States
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5111090007?gh_jid=5111090007 | Anduril | Senior Software Engineer, Deepview | Boston, Massachusetts, United States; Costa Mesa, California, United States
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5107241007?gh_jid=5107241007 | Anduril | Senior Software Engineer, Edge Compute and Communications | Costa Mesa, California, United States
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5104871007?gh_jid=5104871007 | Anduril | Site Reliability Engineer - Tactical Reconnaissance & Strike | Atlanta, Georgia, United States
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5087238007?gh_jid=5087238007 | Anduril | Staff Software Engineer, QualityOS | Costa Mesa, California, United States
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5104522007?gh_jid=5104522007 | Anduril | Systems Software Engineer | Costa Mesa, California, United States
+- [ ] https://careers.hellofresh.com/global/en/job/7696242?gh_jid=7696242 | HelloFresh | Senior Infrastructure Engineer, Intelligent Platforms  | Goodyear, AZ, United States; Phoenix, AZ, United States
+- [ ] https://careers.hellofresh.com/global/en/job/7731719?gh_jid=7731719 | HelloFresh | Senior Infrastructure Engineer, Intelligent Platforms  | Newark, NJ, United States
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7701049003 | Fivetran | Staff Site Reliability Engineer | Oakland, California, United States, AMER
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7535213003 | Fivetran | Staff Software Engineer | Oakland, California, United States, AMER
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7549451003 | Fivetran | Staff Software Engineer - ETL Platform | Oakland, California, United States, AMER
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/7728003 | Planet Labs | Flight Software Engineer | San Francisco, CA
+
 ### Scout Scan (2026-04-15)
 - [ ] https://job-boards.greenhouse.io/dbtlabsinc/jobs/4666468005 | dbt Labs | Staff Software Engineer, Quality and Release Platform
 - [ ] https://job-boards.greenhouse.io/dbtlabsinc/jobs/4663520005 | dbt Labs | Manager, Software Engineering (AI Platform)
