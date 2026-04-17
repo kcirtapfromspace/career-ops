@@ -9,7 +9,7 @@
 import fs from 'fs';
 import https from 'https';
 
-const TODAY = '2026-04-16';
+const TODAY = '2026-04-17';
 
 // --- Title filter ---
 const POSITIVE_TITLES = [
@@ -29,10 +29,16 @@ const NEGATIVE_TITLES = [
 
 // --- Location filter ---
 const ACCEPT_LOCATIONS = [
-  'remote', 'us remote', 'denver', 'san francisco', 'sf', 'los gatos',
-  'seattle', 'bend', 'united states', 'anywhere', 'distributed',
+  'us remote', 'denver', 'san francisco', 'los gatos',
+  'seattle', 'bend', 'anywhere in the us',
 ];
 const ACCEPT_NYC_CHICAGO_IF_REMOTE = ['new york', 'nyc', 'chicago'];
+// Non-US countries — reject even if remote
+const REJECT_COUNTRIES = [
+  'united kingdom', 'uk ', '(uk)', 'germany', 'france', 'canada', 'netherlands',
+  'australia', 'india', 'poland', 'spain', 'sweden', 'portugal', 'austria',
+  'switzerland', 'israel', 'brazil', 'singapore', 'japan', 'mexico',
+];
 
 // --- Companies with Greenhouse API ---
 const COMPANIES = [
@@ -117,19 +123,26 @@ function titleMatches(title) {
 }
 
 function locationAccepted(location) {
-  if (!location) return false; // no location info — skip conservatively
+  if (!location) return false;
   const loc = location.toLowerCase();
-  // explicit remote or accepted cities
+  // Reject if non-US country explicitly mentioned (even if remote)
+  if (REJECT_COUNTRIES.some(kw => loc.includes(kw))) return false;
+  // Accept bare "remote" or distributed (no country prefix → assume US)
+  if (loc === 'remote' || loc === 'distributed' || loc === 'anywhere' || /^remote[,\s(]/.test(loc)) return true;
+  // Accept US-specific cities or "us remote"
   if (ACCEPT_LOCATIONS.some(kw => loc.includes(kw))) return true;
+  // Accept "United States" only when explicitly remote
+  if (loc.includes('united states') && loc.includes('remote')) return true;
   // NYC/Chicago only if also says "remote"
   if (ACCEPT_NYC_CHICAGO_IF_REMOTE.some(kw => loc.includes(kw)) && loc.includes('remote')) return true;
   return false;
 }
 
 // --- Load known URLs ---
+function normalizeUrl(u) { try { const p = new URL(u); p.search = ''; return p.toString(); } catch { return u; } }
 const historyPath = 'data/scan-history.tsv';
 const historyLines = fs.readFileSync(historyPath, 'utf8').split('\n');
-const knownURLs = new Set(historyLines.map(l => l.split('\t')[0]).filter(Boolean));
+const knownURLs = new Set(historyLines.map(l => normalizeUrl(l.split('\t')[0])).filter(Boolean));
 knownURLs.delete('url'); // header
 
 // --- Main scan ---
@@ -147,7 +160,7 @@ async function scanCompany(company) {
 
     for (const job of jobs) {
       const url = job.absolute_url || '';
-      if (knownURLs.has(url)) continue;
+      if (knownURLs.has(normalizeUrl(url))) continue;
 
       const title = job.title || '';
       if (!titleMatches(title)) continue;
@@ -163,7 +176,7 @@ async function scanCompany(company) {
         location,
         id: job.id,
       });
-      knownURLs.add(url); // prevent same-session dupes
+      knownURLs.add(normalizeUrl(url)); // prevent same-session dupes
     }
   } catch (err) {
     errors.push({ company: company.name, error: err.message });

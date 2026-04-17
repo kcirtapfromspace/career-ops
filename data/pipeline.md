@@ -2,6 +2,10 @@
 
 ## Pendientes
 
+### Scout Quick-Check (2026-04-17)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5191226008 | Anthropic | Software Engineer, Research Data Platform | San Francisco, CA / New York City, NY
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4673133006 | Chainguard | Software Engineer (Libraries Platform) | United States - Remote
+
 ### Scout Scan (2026-04-17)
 - [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/5802014004 | Grafana Labs | Staff Software Engineer, Databases Managed Services | US Remote | ★ 4.2/5 — WarpStream/Kafka+K8s+Mimir/Loki/Tempo — perfect stack match
 - [ ] https://job-boards.greenhouse.io/discord/jobs/7716532002 | Discord | Staff Software Engineer, Data Platform | US Remote | $223-245K | ★ 4.0/5 — Staff data platform archetype, above-target comp
