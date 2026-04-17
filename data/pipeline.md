@@ -2,6 +2,14 @@
 
 ## Pendientes
 
+### Scout Scan (2026-04-17)
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/5802014004 | Grafana Labs | Staff Software Engineer, Databases Managed Services | US Remote | ★ 4.2/5 — WarpStream/Kafka+K8s+Mimir/Loki/Tempo — perfect stack match
+- [ ] https://job-boards.greenhouse.io/discord/jobs/7716532002 | Discord | Staff Software Engineer, Data Platform | US Remote | $223-245K | ★ 4.0/5 — Staff data platform archetype, above-target comp
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/5775331 | DoorDash | Senior Staff Software Engineer, Data Platform | San Francisco / Sunnyvale | $231-340K | ★ 4.0/5 — exceptional comp, direct data platform match
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7703060003 | Rocket Lab | Principal DevOps Engineer | Littleton, CO (Denver metro) | 3.8/5 — hardware moat + Denver location
+- [ ] https://explore.jobs.netflix.net/careers/job/790314881627 | Netflix | Manager, Data Science & Engineering – Title & Launch Management | US Remote | 3.7/5
+- [ ] https://explore.jobs.netflix.net/careers/job/790314514999 | Netflix | Senior Manager, Content Promotion & Distribution Data Engineering | Los Angeles / Los Gatos | 3.6/5
+
 ### Scout Quick-Check (2026-04-16)
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5139910008 | Anthropic | Staff+ Software Engineer, Observability | San Francisco, CA | New York City, NY | Seattle, WA
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5108817008 | Anthropic | Staff+ Software Engineer, Systems | San Francisco, CA | New York City, NY | Seattle, WA
