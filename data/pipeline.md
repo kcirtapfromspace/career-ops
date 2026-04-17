@@ -1459,3 +1459,45 @@
 #### Quickcheck additions — 2026-04-16 (run 2)
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5191226008 | Anthropic | Software Engineer, Research Data Platform | San Francisco, CA | New York City, NY
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5111665007?gh_jid=5111665007 | Anduril | Staff Software Engineer, QualityOS | Seattle, Washington, United States
+
+#### Quickcheck additions — 2026-04-17 (40 new)
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5111264007?gh_jid=5111264007 | Anduril | Data Engineer, Air Dominance & Strike | Costa Mesa, California, United States
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5104546007?gh_jid=5104546007 | Anduril | Manufacturing Engineering Manager, Drones | Santa Ana, California, United States
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5044319007?gh_jid=5044319007 | Anduril | Mission Software Engineer | Costa Mesa, California, United States
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5104521007?gh_jid=5104521007 | Anduril | Mission Software Engineer, Systems | Costa Mesa, California, United States
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/4672911007?gh_jid=4672911007 | Anduril | Mission Software Engineer, Vehicle Software, Frontend | Costa Mesa, California, United States
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5111298007?gh_jid=5111298007 | Anduril | Senior Data Engineer, Air Dominance & Strike | Costa Mesa, California, United States
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5111095007?gh_jid=5111095007 | Anduril | Senior Engineering Manager, PLM | Costa Mesa, California, United States
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5112718007?gh_jid=5112718007 | Anduril | Senior Production Software Engineer | Lexington, Massachusetts, United States
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5042838007?gh_jid=5042838007 | Anduril | Senior Software Engineer, C++ | Boston, Massachusetts, United States
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/4362043007?gh_jid=4362043007 | Anduril | Senior Software Engineer, Game Development | Costa Mesa, California, United States
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5105606007?gh_jid=5105606007 | Anduril | Software Engineer (C++) | Reston, Virginia, United States
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5009240007?gh_jid=5009240007 | Anduril | Software Engineer, C++ | Bellevue, Washington, United States
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5042843007?gh_jid=5042843007 | Anduril | Software Engineer, C++ | Boston, Massachusetts, United States
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5036989007?gh_jid=5036989007 | Anduril | Software Engineer, Maritime | Quincy, Massachusetts, United States
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5062357007?gh_jid=5062357007 | Anduril | Software Engineer - Modeling & Simulation | Costa Mesa, California, United States
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5085719007?gh_jid=5085719007 | Anduril | Staff Software Engineer, Maritime | Boston, Massachusetts, United States
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5111673007?gh_jid=5111673007 | Anduril | Staff Software Engineer, QualityOS | Boston, Massachusetts, United States
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8400559002 | Databricks | Principal Engineer, Authentication | Mountain View, California; San Francisco, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8400563002 | Databricks | Principal Engineer, Authentication | Bellevue, Washington; Seattle, Washington
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8334738002 | Databricks | Principal Engineer, Compute Fleet Management | Bellevue, Washington
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8224828002 | Databricks | Principal Engineer - Privacy | Mountain View, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7274488002 | Databricks | Principal Engineer - Privacy | San Francisco, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7274619002 | Databricks | Principal Engineer - Privacy | Seattle, Washington
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8501165002 | Databricks | Sr Manager, Engineering- Cloud Intelligence & Infrastructure Economics | Mountain View, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7959180002 | Databricks | Sr. Manager, Engineering - Search | Mountain View, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8329804002 | Databricks | Sr. Manager, Engineering - Unity Catalog Infra | Mountain View, California
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7645366003 | Rocket Lab | Principal/Senior Principal Engineer - TS/SCI Clearance | Long Beach, CA
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7682528003 | Rocket Lab | Senior Ground Software Engineer I/II | Littleton, CO
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7701229003 | Rocket Lab | Senior Software Engineer I | Long Beach, CA
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7682377003 | Rocket Lab | Senior Software Engineer I/II - AI Engineering | Littleton, CO
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7682524003 | Rocket Lab | Senior Software Engineer I/II - Digital Engineering | Littleton, CO
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7682519003 | Rocket Lab | Senior Software Engineer I/II - Simulation Engineering | Littleton, CO
+- [ ] https://aurora.tech/jobs/8507402002?gh_jid=8507402002 | Aurora Innovation | Staff Software Engineer, Vehicle I/O | Pittsburgh, Pennsylvania
+- [ ] https://nuro.ai/careersitem?gh_jid=7296151 | Nuro | Senior Software Engineer, Middleware | Mountain View, California (HQ)
+- [ ] https://nuro.ai/careersitem?gh_jid=6621871 | Nuro | Senior/Staff Engineer, Machine Learning - Online Mapping | Mountain View, California (HQ)
+- [ ] https://nuro.ai/careersitem?gh_jid=7825886 | Nuro | Software Engineer, Middleware | Mountain View, California (HQ)
+- [ ] https://nuro.ai/careersitem?gh_jid=7809136 | Nuro | Software Engineer, Onboard Systems | Mountain View, California (HQ)
+- [ ] https://nuro.ai/careersitem?gh_jid=7528153 | Nuro | Technical Lead Manager, ML Platform Infrastructure | Mountain View, California (HQ)
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/7782587 | Planet Labs | AI Engineer, Marketing | Arlington, VA
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/7644565 | Planet Labs | Senior Software Engineer, Strategic Customer Engagements | Arlington, VA
