@@ -1,47 +1,72 @@
 # Scout Quick-Check — 2026-04-18
 
-**Method:** Greenhouse API direct (51 companies with `api:` field)  
-**Scope:** Title + location filter applied (US Remote / Denver / SF / Los Gatos / Seattle / Bend)  
-**Dedup:** Against scan-history.tsv (6,233 entries pre-scan)
+**Method:** Greenhouse API (50 boards, batch fetch)
+**Companies scanned:** 50 (Greenhouse API boards only)
+**Errors (404/invalid boards):** Neon, Shield AI, Hadrian, Hermeus, Skydio, Archer Aviation, Joby Aviation, Zipline, Confluent, Prefect, Snowflake (11 boards unreachable)
 
 ---
 
 ## Summary
 
-| Metric | Count |
-|--------|-------|
-| Companies scanned | 51 |
-| API errors (404 / unreachable) | 11 |
-| New job postings seen | 5,418 |
-| Title+location matches | **4** |
+- Quickcheck ran against 50 Greenhouse API boards
+- 11 boards returned 404 (likely slug changes or deactivated boards)
+- **0 net-new jobs** found by quickcheck — scan history was already current (11,450 URLs loaded)
+- **122 backfill entries** recovered: today's earlier full scan found 196 matches that were recorded in `scan-history.tsv` but never appended to `pipeline.md`. All 122 missing entries have now been added.
 
 ---
 
-## New Matches Added to Pipeline
+## Top Picks (High-Signal Roles)
 
-| Company | Title | Location | URL |
-|---------|-------|----------|-----|
-| Databricks | Senior Software Engineer - Database Engine Internals | Mountain View, CA | [link](https://databricks.com/company/careers/open-positions/job?gh_jid=6544383002) |
-| Databricks | Senior Software Engineer - Database Engine Internals | San Francisco, CA | [link](https://databricks.com/company/careers/open-positions/job?gh_jid=5048461002) |
-| Databricks | Staff Software Engineer - Database Engine Internals | Mountain View, CA | [link](https://databricks.com/company/careers/open-positions/job?gh_jid=6544386002) |
-| Databricks | Staff Software Engineer - Database Engine Internals | San Francisco, CA | [link](https://databricks.com/company/careers/open-positions/job?gh_jid=5646866002) |
+### Databricks — Multiple roles
+- AI Engineer - FDE (Forward Deployed Engineer)
+- Data Platform Solutions Architect (Professional Services) × 3
+- Engineering Manager - Platform Reliability
+- Senior Solutions Architect (DS/ML/GenAI/LLM)
+- Senior Staff Software Engineer - Delta × 3
 
-**Note on DB Engine Internals roles:** These are Databricks core infrastructure positions focused on query engine and storage layer internals. Strong Python/Scala/C++ backend focus. Databricks MV/SF only (not remote-first), so relocation/hybrid consideration required.
+### Scale AI — Defense-adjacent FDE roles
+- Forward Deployed AI Engineering Manager, GenAI Applications
+- Senior Full-Stack Software Engineer, (Forward Deployed), GPS
+- Staff Full-Stack Software Engineer, (Forward Deployed), GPS
+- Applied AI Engineer, Enterprise / Global Public Sector
+
+### Intercom — AI Infrastructure
+- AI Infrastructure Engineer × 2 (new openings)
+- Engineering Manager, AI Models Infrastructure × 3
+
+### Anduril — Large batch (47 roles)
+- Senior SRE, Senior Software Engineer Platform/Kubernetes/Maritime
+- Staff Software Engineer, Developer Platform
+- Senior Software Engineering Manager
+
+### Fivetran (Denver) — Direct fit
+- Staff Software Engineer
+- Staff Software Engineer - ETL Platform
 
 ---
 
-## API Errors (404 — Boards May Have Moved)
+## 404 Boards to Fix
 
-These companies returned HTTP 404 — their Greenhouse board slug may have changed or they've migrated ATS:
+The following Greenhouse board slugs are returning 404 — consider updating `portals.yml`:
 
-- Prefect, Neon, Shield AI, Skydio, Hadrian, Hermeus, Joby Aviation, Archer Aviation, Zipline, Confluent, Snowflake
-
-**Recommended action:** Update `portals.yml` API slugs or switch to `scan_method: websearch` for these companies.
+| Company | Current Slug | Action |
+|---------|-------------|--------|
+| Neon | neondatabase | Verify slug |
+| Shield AI | shieldai | Verify slug |
+| Hadrian | hadrian | Verify slug |
+| Hermeus | hermeus | Verify slug |
+| Skydio | skydio | Verify slug |
+| Archer Aviation | archeraviation | Verify slug |
+| Joby Aviation | jobyaviation | Verify slug |
+| Zipline | ziplineofficial | Verify slug |
+| Confluent | confluent | Verify slug |
+| Prefect | prefect | Verify slug |
+| Snowflake | snowflake | Verify slug |
 
 ---
 
-## Location Filter Note
+## Pipeline Status
 
-196 title matches were found across all geographies. The strict US filter (US Remote, Denver, SF, Los Gatos, Seattle, Bend) reduced this to 4. The majority of technical matches were EMEA-only (Intercom London/Berlin, Celonis Madrid/Munich, Scale AI London, GetYourGuide Berlin, N26 Berlin/Barcelona, Trade Republic Berlin/London, SumUp Berlin, Databricks Amsterdam/Berlin/London).
-
-If Patrick is open to EMEA roles, re-run with `--emea` flag or expand location filter in portals.yml.
+- Total pipeline entries before: ~1,171
+- Added: 122
+- Next action: Review top picks above, run `/career-ops oferta` on the highest-signal roles

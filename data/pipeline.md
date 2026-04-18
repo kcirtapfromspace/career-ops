@@ -1505,3 +1505,128 @@
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=5048461002 | Databricks | Senior Software Engineer - Database Engine Internals | San Francisco, California
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=6544386002 | Databricks | Staff Software Engineer - Database Engine Internals | Mountain View, California
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=5646866002 | Databricks | Staff Software Engineer - Database Engine Internals | San Francisco, California
+
+#### Quickcheck additions — 2026-04-18 (122 new, Greenhouse APIs)
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5039332007?gh_jid=5039332007 | Anduril | DevOps Engineer
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5033836007?gh_jid=5033836007 | Anduril | Lead Robotics Software Engineer
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5033767007?gh_jid=5033767007 | Anduril | Lead Software Engineer, Mission System, Maritime
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5033769007?gh_jid=5033769007 | Anduril | Lead Software Engineer, Mission System, Maritime
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5078772007?gh_jid=5078772007 | Anduril | Robotics Software Engineer
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5086960007?gh_jid=5086960007 | Anduril | Security Software Engineer - Endpoint Security
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5086964007?gh_jid=5086964007 | Anduril | Security Software Engineer - Endpoint Security
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/4988783007?gh_jid=4988783007 | Anduril | Senior DevOps Engineer
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5101244007?gh_jid=5101244007 | Anduril | Senior Flight Software Engineer
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5101247007?gh_jid=5101247007 | Anduril | Senior Flight Software Engineer
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/4871306007?gh_jid=4871306007 | Anduril | Senior Mission Software Engineer, Connected Warfare
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/4968127007?gh_jid=4968127007 | Anduril | Senior Robotics Software Engineer
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5095017007?gh_jid=5095017007 | Anduril | Senior Site Reliability Engineer
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5065103007?gh_jid=5065103007 | Anduril | Senior Site Reliability Engineer - Tactical Reconnaissance & Strike
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5094664007?gh_jid=5094664007 | Anduril | Senior Software Engineer
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5088314007?gh_jid=5088314007 | Anduril | Senior Software Engineer (Full Stack), Intelligence Systems
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5082180007?gh_jid=5082180007 | Anduril | Senior Software Engineer (Network Simulation)
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5006925007?gh_jid=5006925007 | Anduril | Senior Software Engineer, Device Infrastructure
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/4620033007?gh_jid=4620033007 | Anduril | Senior Software Engineer, Guidance, Navigation, & Controls - Tactical Reconnaissance and Strike Division
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/4989558007?gh_jid=4989558007 | Anduril | Senior Software Engineer, Kubernetes
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5049651007?gh_jid=5049651007 | Anduril | Senior Software Engineer, Maritime
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5085717007?gh_jid=5085717007 | Anduril | Senior Software Engineer, Maritime
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/4903336007?gh_jid=4903336007 | Anduril | Senior Software Engineer, Nix
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/4604885007?gh_jid=4604885007 | Anduril | Senior Software Engineer, Platform
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/4925743007?gh_jid=4925743007 | Anduril | Senior Software Engineer, Test Infrastructure & Simulation
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5080665007?gh_jid=5080665007 | Anduril | Senior Software Engineer, Vehicle Management System, Maritime
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5082951007?gh_jid=5082951007 | Anduril | Senior Software Engineer, Vehicle Management System, Maritime
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/4988218007?gh_jid=4988218007 | Anduril | Senior Software Engineering Manager
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5099929007?gh_jid=5099929007 | Anduril | Senior Tactical C2 Software Engineer, Cloud
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5099931007?gh_jid=5099931007 | Anduril | Senior Tactical C2 Software Engineer, Web Backend Systems
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/4961005007?gh_jid=4961005007 | Anduril | Software Engineer (Network), Intelligence Systems
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5006927007?gh_jid=5006927007 | Anduril | Software Engineer, Device Infrastructure
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5009206007?gh_jid=5009206007 | Anduril | Software Engineer, Guidance, Navigation, Control
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5064165007?gh_jid=5064165007 | Anduril | Software Engineer, Intelligence Systems
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5068451007?gh_jid=5068451007 | Anduril | Software Engineer, Intelligence Systems
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5089662007?gh_jid=5089662007 | Anduril | Software Engineer, Intelligence Systems
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5068128007?gh_jid=5068128007 | Anduril | Software Engineer, Intelligence Systems (Active Clearance)
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5049648007?gh_jid=5049648007 | Anduril | Software Engineer, Maritime
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5085712007?gh_jid=5085712007 | Anduril | Software Engineer, Maritime
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5101245007?gh_jid=5101245007 | Anduril | Staff Flight Software Engineer
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5101246007?gh_jid=5101246007 | Anduril | Staff Flight Software Engineer
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5103619007?gh_jid=5103619007 | Anduril | Staff Software Engineer
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/4954854007?gh_jid=4954854007 | Anduril | Staff Software Engineer, Developer Platform
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5049657007?gh_jid=5049657007 | Anduril | Staff Software Engineer, Maritime
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/4925158007?gh_jid=4925158007 | Anduril | Staff Software Engineer, Security
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5080729007?gh_jid=5080729007 | Anduril | Staff Software Engineer, Vehicle Management System, Maritime
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5082948007?gh_jid=5082948007 | Anduril | Staff Software Engineer, Vehicle Management System, Maritime
+- [ ] https://aurora.tech/jobs/8350512002?gh_jid=8350512002 | Aurora Innovation | Security Engineering Technical Lead Manager (TLM) - Aurora Enterprise Security
+- [ ] https://aurora.tech/jobs/8355910002?gh_jid=8355910002 | Aurora Innovation | Security Engineering Technical Lead Manager (TLM) - Aurora Enterprise Security
+- [ ] https://aurora.tech/jobs/8377474002?gh_jid=8377474002 | Aurora Innovation | Security Engineering Technical Lead Manager (TLM) - Aurora Enterprise Security
+- [ ] https://aurora.tech/jobs/8174071002?gh_jid=8174071002 | Aurora Innovation | Staff Technical Lead Manager (TLM), IT Systems Engineering
+- [ ] https://aurora.tech/jobs/8301517002?gh_jid=8301517002 | Aurora Innovation | Staff Technical Lead Manager (TLM), IT Systems Engineering
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7517493003?gh_jid=7517493003 | Celonis | Engineering Manager - Celonis Process Management
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5748778004 | Clickhouse | Senior Full Stack Engineer - HyperDX
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5748779004 | Clickhouse | Senior Full Stack Engineer - HyperDX
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5748780004 | Clickhouse | Senior Full Stack Engineer - HyperDX
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5748782004 | Clickhouse | Senior Full Stack Engineer - HyperDX
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8024004002 | Databricks | AI Engineer - FDE (Forward Deployed Engineer)
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8486738002 | Databricks | Data Platform Solutions Architect (Professional Services)
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8396801002 | Databricks | Data Platform Solutions Architect (Professional Services)
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8439047002 | Databricks | Data Platform Solutions Architect (Professional Services) - Emerging Enterprise & DNB
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=5313313002 | Databricks | Engineering Manager - Backend
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8476543002 | Databricks | Engineering Manager - Platform Reliability
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8476581002 | Databricks | Engineering Manager - Storage
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8439078002 | Databricks | Manager, Big Data Architecture - Professional Services (DWH, Data Engineering & Migrations)
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7274875002 | Databricks | Principal Engineer - Privacy
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7641390002 | Databricks | Senior Manager, Infrastructure Data Science
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7477087002 | Databricks | Senior Software Engineer - Backend
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8029671002 | Databricks | Senior Software Engineer - Backend
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8029679002 | Databricks | Senior Software Engineer - Fullstack
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8340837002 | Databricks | Senior Solutions Architect (DS/ML/GenAI/LLM)
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7319791002 | Databricks | Senior Staff Software Engineer - Delta
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8303015002 | Databricks | Senior Staff Software Engineer - Delta
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8303020002 | Databricks | Senior Staff Software Engineer - Delta
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8407527002 | Databricks | Senior Staff Software Engineer - Unity Catalog Runtime Enforcement
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8422477002 | Databricks | Senior Staff Software Engineer - Unity Catalog Runtime Enforcement
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8422481002 | Databricks | Senior Staff Software Engineer - Unity Catalog Runtime Enforcement
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8029666002 | Databricks | Software Engineer - Backend
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8029677002 | Databricks | Software Engineer - Fullstack
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8003987002 | Databricks | Sr. Manager, Engineering - Identity Platform
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7984907002 | Databricks | Staff Software Engineer - Backend
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8029674002 | Databricks | Staff Software Engineer - Backend
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8374611002 | Databricks | Staff Software Engineer - Backend
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8029676002 | Databricks | Staff Software Engineer - Developer Experience
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7695089003 | Fivetran | Staff Software Engineer
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7694977003 | Fivetran | Staff Software Engineer - ETL Platform
+- [ ] https://getyourguide.careers/jobs/7774866?gh_jid=7774866 | GetYourGuide | Engineering Manager, Activity Differentiation
+- [ ] https://getyourguide.careers/jobs/7597684?gh_jid=7597684 | GetYourGuide | Staff Engineer, Supply Tech (Backend Focused)
+- [ ] https://careers.hellofresh.com/global/en/job/7408822?gh_jid=7408822 | HelloFresh | Backend Engineer, Consumer
+- [ ] https://careers.hellofresh.com/global/en/job/7606813?gh_jid=7606813 | HelloFresh | Data Engineer, HQ
+- [ ] https://careers.hellofresh.com/global/en/job/7686668?gh_jid=7686668 | HelloFresh | Machine Learning Engineer, Growth
+- [ ] https://careers.hellofresh.com/global/en/job/7404963?gh_jid=7404963 | HelloFresh | Senior Backend Engineer, Operations
+- [ ] https://careers.hellofresh.com/global/en/job/7759021?gh_jid=7759021 | HelloFresh | Staff Engineer, Consumer
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7824137 | Intercom | AI Infrastructure Engineer
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7824142 | Intercom | AI Infrastructure Engineer
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7784684 | Intercom | Engineering Manager, AI Models Infrastructure
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7818586 | Intercom | Engineering Manager, AI Models Infrastructure
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7818588 | Intercom | Engineering Manager, AI Models Infrastructure
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7811880 | Intercom | Principal Engineer - Go-To-Market
+- [ ] https://n26.com/en-eu/careers/positions/7742395?gh_jid=7742395 | N26 | Backend Engineer - Acquire
+- [ ] https://n26.com/en-eu/careers/positions/7746097?gh_jid=7746097 | N26 | Backend Engineer - Acquire
+- [ ] https://n26.com/en-eu/careers/positions/7657678?gh_jid=7657678 | N26 | Backend Engineer - Engagement
+- [ ] https://n26.com/en-eu/careers/positions/7662073?gh_jid=7662073 | N26 | Backend Engineer - Engagement
+- [ ] https://n26.com/en-eu/careers/positions/7811482?gh_jid=7811482 | N26 | Senior Backend Engineer
+- [ ] https://nuro.ai/careersitem?gh_jid=7603694 | Nuro | Senior Product Manager, Data
+- [ ] https://nuro.ai/careersitem?gh_jid=7387173 | Nuro | Technical Lead Manager, Autonomy Evaluation and Intelligence
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/7645728 | Planet Labs | Senior Engineering Manager, Manufacturing
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/7669435 | Planet Labs | Senior Software Engineer, Geometry
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4536659005 | Scale AI | Applied AI Engineer, Enterprise
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4413992005 | Scale AI | Applied AI Engineer, Global Public Sector
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4595555005 | Scale AI | Engineering Manager, Global Public Sector
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4589592005 | Scale AI | Forward Deployed AI Engineering Manager, GenAI Applications
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4413274005 | Scale AI | Machine Learning Engineer, Global Public Sector
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4673310005 | Scale AI | Senior Full-Stack Software Engineer, (Forward Deployed), GPS
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4536653005 | Scale AI | Software Engineer, Enterprise
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4676610005 | Scale AI | Staff Full-Stack Software Engineer, (Forward Deployed), GPS
+- [ ] https://www.scandit.com/careers/job-description/?gh_jid=7552679 | Scandit | Senior Machine Learning Engineer (Computer Vision)
+- [ ] https://sumup.com/careers/positions/8448680002?gh_jid=8448680002 | SumUp | Engineering Manager - Verification
+- [ ] https://sumup.com/careers/positions/8503516002?gh_jid=8503516002 | SumUp | Senior Machine Learning Engineer
+- [ ] https://sumup.com/careers/positions/8468000002?gh_jid=8468000002 | SumUp | Senior Software Engineer
+- [ ] https://sumup.com/careers/positions/8468005002?gh_jid=8468005002 | SumUp | Software Engineer II
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8460447002 | Wayve | Application Software Engineer - Relocation to Tokyo
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8478639002 | Wayve | Principal Application Software Engineer - Relocation to Tokyo
