@@ -1501,3 +1501,7 @@
 - [ ] https://nuro.ai/careersitem?gh_jid=7528153 | Nuro | Technical Lead Manager, ML Platform Infrastructure | Mountain View, California (HQ)
 - [ ] https://job-boards.greenhouse.io/planetlabs/jobs/7782587 | Planet Labs | AI Engineer, Marketing | Arlington, VA
 - [ ] https://job-boards.greenhouse.io/planetlabs/jobs/7644565 | Planet Labs | Senior Software Engineer, Strategic Customer Engagements | Arlington, VA
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=6544383002 | Databricks | Senior Software Engineer - Database Engine Internals | Mountain View, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=5048461002 | Databricks | Senior Software Engineer - Database Engine Internals | San Francisco, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=6544386002 | Databricks | Staff Software Engineer - Database Engine Internals | Mountain View, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=5646866002 | Databricks | Staff Software Engineer - Database Engine Internals | San Francisco, California
