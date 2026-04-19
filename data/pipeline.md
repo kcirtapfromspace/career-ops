@@ -2,6 +2,13 @@
 
 ## Pendientes
 
+### Scout Scan (2026-04-19)
+- [ ] https://job-boards.greenhouse.io/ezcaterinc/jobs/5075369007 | ezCater | Senior Engineering Manager, Platform Engineering | Remote / Boston, MA | $218-280K | ★ 4.0/5 — K8s/Golang/CI-CD/observability — direct platform EM archetype, above-target comp
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5095627008 | Anthropic | Engineering Manager, Data Infrastructure | SF / Seattle | ★ 3.9/5 — dbt/Airflow/Dagster/Spark/Redshift — sibling to Safeguards EM already applied; confirm remote + EM gap
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/5837164004 | Grafana Labs | Staff Backend Engineer, Grafana Backend Services | US Remote | ★ 3.8/5 — distributed systems/SRE/infra at cloud scale — verify JD and comp before evaluating
+- [ ] https://job-boards.greenhouse.io/postscript/jobs/8488207002 | Postscript | Engineering Manager, Customer Data Platform | Remote (US) | $203-236K | ★ 3.7/5 — Kafka/AWS/ETL greenfield build — 3yr EM bar harder for Patrick
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/7489117 | Reddit | Engineering Manager, Ads Data Platform | Remote (SF/NYC proximity) | ★ 3.6/5 — high-scale ads data infra — confirm remote policy, ads domain not Patrick's primary narrative
+
 ### Scout Quick-Check (2026-04-17)
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5191226008 | Anthropic | Software Engineer, Research Data Platform | San Francisco, CA / New York City, NY
 - [ ] https://job-boards.greenhouse.io/chainguard/jobs/4673133006 | Chainguard | Software Engineer (Libraries Platform) | United States - Remote
