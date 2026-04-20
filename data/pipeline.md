@@ -2,6 +2,11 @@
 
 ## Pendientes
 
+### Scout Quick-Check (2026-04-20)
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5113369007 | Anduril | Senior Software Engineer, Agentic Platform | Boston, MA / Costa Mesa, CA / Seattle, WA
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5114343007 | Anduril | Senior Software Engineer, Edge Compute and Communications (Active Clearance) | Costa Mesa, CA
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4632997005 | Glean | Machine Learning Engineer, Enterprise Brain | San Francisco Bay Area
+
 ### Scout Scan (2026-04-20)
 - [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5776991004 | ClickHouse | Senior Backend Engineer - Infrastructure (ClickPipes) | United States (remote) | ★ 4.2/5 — Data infra company, Kafka/streaming pipeline focus, remote US, strong stack match
 - [ ] https://job-boards.greenhouse.io/arizeai/jobs/5421310004 | Arize AI | Engineering Manager - Product & Platform | Remote (United States) | ★ 4.0/5 — AI observability platform EM, remote US, direct match to platform EM archetype
