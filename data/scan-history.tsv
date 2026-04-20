@@ -12144,3 +12144,16 @@ https://job-boards.greenhouse.io/reddit/jobs/7489117	2026-04-19	websearch	Engine
 2026-04-19	Clickhouse	Senior Software Engineer - Python and Data Ecosystem	https://job-boards.greenhouse.io/clickhouse/jobs/5842100004	United States (Remote)
 2026-04-19	Clickhouse	Senior Software Engineer (Typescript / Backend) - AI/ML	https://job-boards.greenhouse.io/clickhouse/jobs/5802760004	United States (remote)
 2026-04-19	Clickhouse	Software Engineer - Database Integrations	https://job-boards.greenhouse.io/clickhouse/jobs/5765673004	United States (remote)
+https://job-boards.greenhouse.io/temporal/jobs/1	2026-04-20	greenhouse-api	(api-error-503)	Temporal	error
+https://job-boards.greenhouse.io/prefect/jobs/1	2026-04-20	greenhouse-api	(api-error-404)	Prefect	error
+https://job-boards.greenhouse.io/neondatabase/jobs/1	2026-04-20	greenhouse-api	(api-error-404)	Neon	error
+https://job-boards.greenhouse.io/confluentinc/jobs/1	2026-04-20	greenhouse-api	(api-error-404)	Confluent	error
+https://job-boards.greenhouse.io/snowflake/jobs/1	2026-04-20	greenhouse-api	(api-error-404)	Snowflake	error
+https://job-boards.greenhouse.io/dbtlabsinc/jobs/1	2026-04-20	greenhouse-api	(api-error-404)	dbt Labs	error
+https://job-boards.greenhouse.io/shieldai/jobs/1	2026-04-20	greenhouse-api	(api-error-404)	Shield AI	error
+https://job-boards.greenhouse.io/zipline/jobs/1	2026-04-20	greenhouse-api	(api-error-404)	Zipline	error
+https://job-boards.greenhouse.io/skydio/jobs/1	2026-04-20	greenhouse-api	(api-error-404)	Skydio	error
+https://job-boards.greenhouse.io/hadrianinc/jobs/1	2026-04-20	greenhouse-api	(api-error-404)	Hadrian	error
+https://job-boards.greenhouse.io/databricks/jobs/1	2026-04-20	greenhouse-api	(all-filtered-location)	Databricks	filtered
+https://job-boards.greenhouse.io/figureai/jobs/1	2026-04-20	greenhouse-api	(all-filtered-location)	Figure AI	filtered
+https://job-boards.greenhouse.io/intercom/jobs/1	2026-04-20	greenhouse-api	(all-filtered-location-or-title)	Intercom	filtered
