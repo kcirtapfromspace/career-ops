@@ -2,6 +2,17 @@
 
 ## Pendientes
 
+### Scout Scan (2026-04-21)
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5107194007 | Temporal | Staff Software Engineer, Infrastructure Foundations | United States (Remote) | ★ 4.5/5 — $212-286K, Go/cloud infra/distributed systems, workflow orchestration company, direct stack match
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5073875007 | Temporal | Staff Software Engineer, DevProd (Infrastructure Observability) | United States (Remote) | ★ 4.5/5 — $212-286K, Clickhouse/Prometheus/K8s/Go/Loki, deep observability platform, perfect stack alignment
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5068388007 | Temporal | Staff Software Engineer, Compute (Temporal Cloud) | United States (Remote) | ★ 4.3/5 — $212-286K, distributed/multi-tenant platform, control/data plane ownership, Go + K8s
+- [ ] https://job-boards.greenhouse.io/dbtlabsinc/jobs/4686309005 | dbt Labs | Senior Engineering Manager, Infrastructure | US Remote | ★ 4.2/5 — $223-300K, multi-cloud/Terraform/K8s platform, leads 8-12 engineers, Staff+ ICs, strong EM archetype
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4661458006 | Chainguard | Staff Software Engineer (Sustaining Automation) | United States (Remote) | ★ 4.0/5 — $205-230K, Go/K8s/Linux/AI automation, greenfield platform build, supply chain security
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5100259007 | Temporal | Senior Engineering Manager, Builder Tools | United States (Remote) | ★ 4.0/5 — $268-305K, AI tooling/devex platform EM, owns internal AI strategy, top-of-range comp
+- [ ] https://job-boards.greenhouse.io/ezcaterinc/jobs/5044433007 | ezCater | Director, Enterprise Data Platforms | Remote (Boston MA) | ★ 3.8/5 — $239-312K, Director level Kafka/Spark/K8s/Python data infra, 12-18mo transformation, above-target comp but Director vs EM title
+- [ ] https://job-boards.greenhouse.io/postscript/jobs/8488188002 | Postscript | Senior Engineering Manager, AI | Remote (US) | ★ 3.6/5 — $236-268K, EM for AI-driven SMS product teams, AWS/Python, domain is SMS/e-commerce
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/5849327004 | Grafana Labs | Senior Engineering Manager, Corporate Engineering | US Remote (EST) | ★ 3.5/5 — $208-260K, IT ops platform EM, K8s/Go/Okta/AI tools, more internal-facing than data infra
+
 ### Scout Quick-Check (2026-04-20)
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5113369007 | Anduril | Senior Software Engineer, Agentic Platform | Boston, MA / Costa Mesa, CA / Seattle, WA
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5114343007 | Anduril | Senior Software Engineer, Edge Compute and Communications (Active Clearance) | Costa Mesa, CA
