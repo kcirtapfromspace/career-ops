@@ -2,6 +2,18 @@
 
 ## Pendientes
 
+### Scout Scan (2026-04-22)
+- [ ] https://jobs.ashbyhq.com/confluent/2b7f816b-9f5b-4023-b38d-46fd3e117298 | Confluent | Staff Software Engineer I - Stream Governance | Remote | ★ 4.3/5 — Kafka company (Patrick's exact stack), stream governance/schema registry, staff IC archetype
+- [ ] https://jobs.ashbyhq.com/confluent/c2608f30-4631-4401-b9ce-013ef22f2945 | Confluent | Staff Software Engineer | Remote | ★ 4.0/5 — Kafka platform engineering, staff IC, ~$210-260K expected
+- [ ] https://job-boards.greenhouse.io/discord/jobs/7805147002 | Discord | Staff Software Engineer, ML Platform | Remote US | ★ 4.0/5 — NEW role (Data Platform already in pipeline), ML infra at scale, K8s/Argo match, ~$223-245K expected
+- [ ] https://job-boards.greenhouse.io/dagsterlabs/jobs/7532393003 | Dagster Labs | Software Engineer - Platform (Experienced; Remote) | Remote US | ★ 3.9/5 — data orchestration company, Patrick uses Argo/Airflow at scale, $185-235K, remote-first
+- [ ] https://job-boards.greenhouse.io/dagsterlabs/jobs/7680413003 | Dagster Labs | Software Engineer - Observability Product | Remote US | ★ 3.8/5 — observability product (Patrick built VA.gov Watchtower), $190-225K, remote-first
+- [ ] https://jobs.ashbyhq.com/MotherDuck/578bce72-5028-4d04-b90e-79e5bc95a218 | MotherDuck | Software Engineer - Platform | Remote | ★ 3.8/5 — Patrick uses DuckDB daily, platform runtime for DuckDB cloud, interesting technical domain
+- [ ] https://job-boards.greenhouse.io/twilio/jobs/6793989 | Twilio | Staff Software Engineer (L4) | Remote US | ★ 3.8/5 — Staff/L4 level, voice/messaging infra, Go/Python backend, $220-270K expected, verify JD
+- [ ] https://jobs.ashbyhq.com/MotherDuck/e64eed37-355b-4501-bb6e-5083d0d9c097 | MotherDuck | Software Engineer - DevOps | Remote | ★ 3.6/5 — K8s/infra at DuckDB cloud, Patrick's ops stack, verify comp
+- [ ] https://jobs.ashbyhq.com/ramp/057024f0-3439-4484-9f54-04277e44e700 | Ramp | Senior Software Engineer, Infrastructure | NYC/Remote | ★ 3.6/5 — fintech platform infra, Senior level (below Staff target), verify remote policy
+- [ ] https://job-boards.greenhouse.io/dbtlabsinc/jobs/4673224005 | dbt Labs | Senior Data Engineer | Remote US | ★ 3.5/5 — dbt in Patrick's stack, Senior level, internal analytics platform
+
 ### Scout Scan (2026-04-21)
 - [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5107194007 | Temporal | Staff Software Engineer, Infrastructure Foundations | United States (Remote) | ★ 4.5/5 — $212-286K, Go/cloud infra/distributed systems, workflow orchestration company, direct stack match
 - [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5073875007 | Temporal | Staff Software Engineer, DevProd (Infrastructure Observability) | United States (Remote) | ★ 4.5/5 — $212-286K, Clickhouse/Prometheus/K8s/Go/Loki, deep observability platform, perfect stack alignment

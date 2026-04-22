@@ -823,10 +823,9 @@ tracked_companies:
     enabled: true
 
   - name: Dagster
-    careers_url: https://jobs.ashbyhq.com/dagster
-    scan_method: websearch
-    scan_query: 'site:jobs.ashbyhq.com/dagster'
-    notes: "Remote/NYC. Data orchestration. Software-defined assets. Directly relevant."
+    careers_url: https://job-boards.greenhouse.io/dagsterlabs
+    api: https://boards-api.greenhouse.io/v1/boards/dagsterlabs/jobs
+    notes: "Remote/NYC/SF/Minneapolis. Data orchestration. Patrick uses Argo/Airflow at scale. Direct domain fit."
     enabled: true
 
   - name: dbt Labs
@@ -1039,9 +1038,10 @@ tracked_companies:
     enabled: true
 
   - name: Confluent
-    careers_url: https://job-boards.greenhouse.io/confluent
-    api: https://boards-api.greenhouse.io/v1/boards/confluent/jobs
-    notes: "Remote. The Kafka company. Patrick uses Kafka daily. Direct fit."
+    careers_url: https://jobs.ashbyhq.com/confluent
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/confluent "Staff" OR "Senior" "Engineer" OR "Manager"'
+    notes: "Remote. The Kafka company. Patrick uses Kafka daily. Direct fit. Migrated from Greenhouse to Ashby (2026-04-22)."
     enabled: true
 
   - name: Snowflake
