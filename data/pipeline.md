@@ -1590,3 +1590,5 @@
   <!-- Clickhouse | Engineering Manager - Language clients | United States (remote) -->
 - [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5973225004
   <!-- Clickhouse | Senior Software Engineer - JVM Language Clients | United States (remote) -->
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5979510004
+  <!-- Arize AI | DevOps Release Manager | Remote (United States) -->
