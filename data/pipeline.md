@@ -1557,3 +1557,36 @@
 - [ ] https://nuro.ai/careersitem?gh_jid=7528153 | Nuro | Technical Lead Manager, ML Platform Infrastructure | Mountain View, California (HQ)
 - [ ] https://job-boards.greenhouse.io/planetlabs/jobs/7782587 | Planet Labs | AI Engineer, Marketing | Arlington, VA
 - [ ] https://job-boards.greenhouse.io/planetlabs/jobs/7644565 | Planet Labs | Senior Software Engineer, Strategic Customer Engagements | Arlington, VA
+
+## Scout Quick-Check — 2026-04-22
+
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5113369007?gh_jid=5113369007
+  <!-- Anduril | Senior Software Engineer, Agentic Platform | Boston, Massachusetts, United States; Costa Mesa, California, United States; Seattle, Washington, United States -->
+- [ ] https://job-boards.greenhouse.io/runpod/jobs/4108951008
+  <!-- RunPod | Site Reliability Engineer | Remote, USA -->
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4632997005
+  <!-- Glean | Machine Learning Engineer, Enterprise Brain | San Francisco Bay Area -->
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8519535002
+  <!-- Wayve | Tech Lead, ML Engineer - AV Product engineering | Sunnyvale -->
+- [ ] https://job-boards.greenhouse.io/dagsterlabs/jobs/7602468003
+  <!-- Dagster | Software Engineer - Enterprise Readiness  | Remote with offices in San Francisco, CA / New York, NY / Minneapolis, MN -->
+- [ ] https://job-boards.greenhouse.io/dagsterlabs/jobs/7680413003
+  <!-- Dagster | Software Engineer - Product Development (Backend or Full-Stack) | Remote with offices in San Francisco, CA / New York, NY / Minneapolis, MN -->
+- [ ] https://www.samsara.com/company/careers/roles/7266162?gh_jid=7266162
+  <!-- Samsara | Senior Staff Software Engineer - STCE | Remote - US -->
+- [ ] https://nuro.ai/careersitem?gh_jid=7838557
+  <!-- Nuro | Senior Software Engineer, Cloud Efficiency & Cost Optimization | Mountain View, California (HQ) -->
+- [ ] https://nuro.ai/careersitem?gh_jid=7839597
+  <!-- Nuro | Senior Software Engineer, Software Update Infrastructure. | Mountain View, California (HQ) -->
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4674754006
+  <!-- Figure AI | AI Training Infrastructure Engineer – Humanoid Whole Body Control | San Jose, CA -->
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/7814770
+  <!-- Planet Labs | Senior Software Engineer, Imaging Systems | United States, Remote -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8510921002
+  <!-- Databricks | Engineering Manager - App Frameworks | Mountain View, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8493170002
+  <!-- Databricks | Sr Software Engineer, Infrastructure | San Francisco, California -->
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5809710004
+  <!-- Clickhouse | Engineering Manager - Language clients | United States (remote) -->
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5973225004
+  <!-- Clickhouse | Senior Software Engineer - JVM Language Clients | United States (remote) -->
