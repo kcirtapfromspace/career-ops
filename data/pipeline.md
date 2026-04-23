@@ -16,6 +16,10 @@
 - [ ] https://job-boards.greenhouse.io/dagsterlabs/jobs/7602468003 | Dagster Labs | Software Engineer - Enterprise Readiness | US Remote | ★ 3.6/5 — $185-230K, Python/K8s/AWS, enterprise features (SSO/RBAC/multi-tenancy), Dagster orchestration company
 - [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/5978589004 | Grafana Labs | Staff Backend Engineer - Session Replay | USA Remote | ★ 3.5/5 — Staff IC, Go, US remote, distributed systems at Grafana scale
 
+### Scout Quick-Check (2026-04-23)
+- [ ] https://aurora.tech/jobs/8512871002 | Aurora Innovation | Senior Software Engineer, Sensor Infrastructure | Mountain View, CA
+- [ ] https://www.samsara.com/company/careers/roles/7766851?gh_jid=7766851 | Samsara | Sr AI Engineer, AI Platform | Remote - CA
+
 ### Scout Scan (2026-04-22)
 - [ ] https://jobs.ashbyhq.com/confluent/2b7f816b-9f5b-4023-b38d-46fd3e117298 | Confluent | Staff Software Engineer I - Stream Governance | Remote | ★ 4.3/5 — Kafka company (Patrick's exact stack), stream governance/schema registry, staff IC archetype
 - [ ] https://jobs.ashbyhq.com/confluent/c2608f30-4631-4401-b9ce-013ef22f2945 | Confluent | Staff Software Engineer | Remote | ★ 4.0/5 — Kafka platform engineering, staff IC, ~$210-260K expected
