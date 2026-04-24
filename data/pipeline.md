@@ -4,6 +4,7 @@
 
 ### Quick-Check Scan (2026-04-24)
 
+- [ ] http://stability.ai/careers?gh_jid=4679992101 | Stability AI | Senior Site Reliability Engineer | United States
 - [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/4839390101 | PhysicsX | Senior Forward Deployed Software Engineer | New York, United States (verify remote/hybrid)
 - [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/4678291101 | PhysicsX | Senior Machine Learning Engineer | New York, United States (verify remote/hybrid)
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5102918007 | Anduril | Mission Software Engineer, Maneuver Dominance | Costa Mesa, California (on-site, dream company)
