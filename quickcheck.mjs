@@ -1,8 +1,9 @@
 #!/usr/bin/env node
 // Quick-check: Greenhouse APIs only, no browser, dedup against scan-history.tsv
-import { readFileSync, existsSync, writeFileSync } from 'fs';
+import { readFileSync, existsSync, writeFileSync, appendFileSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
+import { execSync } from 'child_process';
 
 const __dir = dirname(fileURLToPath(import.meta.url));
 
@@ -96,16 +97,33 @@ const companies = [
   { name: 'Fivetran', api: 'https://boards-api.greenhouse.io/v1/boards/fivetran/jobs' },
   { name: 'Prefect', api: 'https://boards-api.greenhouse.io/v1/boards/prefect/jobs' },
   { name: 'Scandit', api: 'https://boards-api.greenhouse.io/v1/boards/scandit/jobs' },
+  { name: 'Dagster', api: 'https://boards-api.greenhouse.io/v1/boards/dagsterlabs/jobs' },
+  { name: 'Aurora Innovation', api: 'https://boards-api.greenhouse.io/v1/boards/aurorainnovation/jobs' },
+  { name: 'Neon', api: 'https://boards-api.greenhouse.io/v1/boards/neondatabase/jobs' },
+  { name: 'Rocket Lab', api: 'https://boards-api.greenhouse.io/v1/boards/rocketlab/jobs' },
+  { name: 'Joby Aviation', api: 'https://boards-api.greenhouse.io/v1/boards/jobyaviation/jobs' },
+  { name: 'Archer Aviation', api: 'https://boards-api.greenhouse.io/v1/boards/archeraviation/jobs' },
+  { name: 'Vast', api: 'https://boards-api.greenhouse.io/v1/boards/vast/jobs' },
+  { name: 'Hermeus', api: 'https://boards-api.greenhouse.io/v1/boards/hermeus/jobs' },
+  { name: 'Hadrian', api: 'https://boards-api.greenhouse.io/v1/boards/hadrian/jobs' },
+  { name: 'Nuro', api: 'https://boards-api.greenhouse.io/v1/boards/nuro/jobs' },
+  { name: 'Temporal', api: 'https://boards-api.greenhouse.io/v1/boards/temporal/jobs' },
+  { name: 'Arize AI', api: 'https://boards-api.greenhouse.io/v1/boards/arizeai/jobs' },
+  { name: 'RunPod', api: 'https://boards-api.greenhouse.io/v1/boards/runpod/jobs' },
 ];
 
-async function fetchJobs(company) {
+const UA = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36';
+
+function fetchJobs(company) {
   try {
-    const resp = await fetch(company.api + '?content=true', { signal: AbortSignal.timeout(15000) });
-    if (!resp.ok) { console.error(`  [${company.name}] HTTP ${resp.status}`); return []; }
-    const data = await resp.json();
+    const out = execSync(
+      `curl -s --max-time 20 -A "${UA}" "${company.api}"`,
+      { timeout: 25000 }
+    ).toString();
+    const data = JSON.parse(out);
     return data.jobs || [];
   } catch (e) {
-    console.error(`  [${company.name}] error: ${e.message}`);
+    console.error(`  [${company.name}] error: ${e.message?.slice(0, 80)}`);
     return [];
   }
 }
@@ -116,32 +134,54 @@ function extractLocation(job) {
   return '';
 }
 
-const BATCH = 10;
 const newMatches = [];
 
-for (let i = 0; i < companies.length; i += BATCH) {
-  const batch = companies.slice(i, i + BATCH);
-  const results = await Promise.allSettled(batch.map(c => fetchJobs(c)));
-
-  for (let j = 0; j < batch.length; j++) {
-    const company = batch[j];
-    if (results[j].status !== 'fulfilled') continue;
-    const jobs = results[j].value;
-
-    for (const job of jobs) {
-      const title = job.title || '';
-      const location = extractLocation(job);
-      const url = job.absolute_url || '';
-
-      if (!url || seenUrls.has(url)) continue;
-      if (!titleMatches(title)) continue;
-      if (!locationAccepted(location)) continue;
-
-      newMatches.push({ company: company.name, title, url, location });
-    }
+for (const company of companies) {
+  process.stderr.write(`  Scanning ${company.name}...`);
+  const jobs = fetchJobs(company);
+  let fresh = 0;
+  for (const job of jobs) {
+    const title = job.title || '';
+    const location = extractLocation(job);
+    const url = job.absolute_url || '';
+    if (!url || seenUrls.has(url)) continue;
+    if (!titleMatches(title)) continue;
+    if (!locationAccepted(location)) continue;
+    newMatches.push({ company: company.name, title, url, location });
+    fresh++;
   }
+  console.error(` ${jobs.length} jobs, ${fresh} new`);
 }
+
+const TODAY = new Date().toISOString().slice(0, 10);
 
 console.error(`Done. ${newMatches.length} new matches found.`);
 writeFileSync('/tmp/quickcheck-results.json', JSON.stringify(newMatches, null, 2));
+
+if (newMatches.length > 0) {
+  // Append to scan-history.tsv
+  const tsvLines = newMatches.map(m =>
+    `${m.url}\t${TODAY}\tgreenhouse-api\t${m.title}\t${m.company}\tmatched`
+  ).join('\n') + '\n';
+  appendFileSync(historyPath, tsvLines);
+  console.error(`Appended ${newMatches.length} entries to scan-history.tsv`);
+
+  // Prepend section to pipeline.md
+  const pipelinePath = join(__dir, 'data/pipeline.md');
+  const pipelineContent = readFileSync(pipelinePath, 'utf8');
+  const seniorKeywords = ['Senior', 'Staff', 'Principal', 'Lead', 'Head', 'Director'];
+  const sorted = [...newMatches].sort((a, b) => {
+    const aS = seniorKeywords.some(k => a.title.includes(k)) ? 1 : 0;
+    const bS = seniorKeywords.some(k => b.title.includes(k)) ? 1 : 0;
+    return bS - aS;
+  });
+  const pipelineLines = sorted.map(m =>
+    `- [ ] ${m.url} | ${m.company} | ${m.title} | ${m.location}`
+  ).join('\n');
+  const section = `\n### Quick-Check Scan (${TODAY})\n\n${pipelineLines}\n`;
+  const updated = pipelineContent.replace(/## Pendientes\n/, `## Pendientes\n${section}`);
+  writeFileSync(pipelinePath, updated);
+  console.error(`Updated pipeline.md`);
+}
+
 console.log(JSON.stringify(newMatches));
