@@ -2,6 +2,42 @@
 
 ## Pendientes
 
+### Scout Scan (2026-04-24)
+
+#### Top Picks (4.0+)
+- [ ] https://careers.airbnb.com/positions/7707946/ | Airbnb | Engineering Manager, Workflow Orchestration - Data Infrastructure | US Remote | ★ 4.5/5 — Argo Workflows expert EM role at dream company — apply immediately
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5114768008 | Anthropic | Staff+ Software Engineer, Data Infrastructure | SF / NYC / Seattle | ★ 4.5/5 — 10+ yr data infra req; Patrick's exact career profile
+- [ ] https://job-boards.greenhouse.io/andurilindustries/jobs/5078991007 | Anduril | Staff Data Engineer | verify location (Denver office exists) | ★ 4.5/5 — data pipeline/platform design + defense mission alignment
+- [ ] https://careers.airbnb.com/positions/7009541/ | Airbnb | Staff Software Engineer, Online Database Infrastructure - Ingestion | US Remote | ★ 4.5/5 — CDC/Debezium/Kafka team; Patrick's Modern Data Stack demo is exact match
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5157847008 | Anthropic | Staff+ Software Engineer, Platform | SF / NYC / Seattle | ★ 4.4/5 — Claude API cloud-native; K8s/distributed systems/multi-cloud
+- [ ] https://careers.airbnb.com/positions/7095225/ | Airbnb | Staff Software Engineer, Data Engineering | US Remote | ★ 4.4/5 — distributed data platforms, 9+ yr req, dream company
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5101173008 | Anthropic | Staff Software Engineer, AI Reliability Engineering | SF / NYC / Seattle | ★ 4.3/5 — GPU-scale observability; VA.gov Watchtower maps perfectly
+- [ ] https://careers.airbnb.com/positions/7729271/ | Airbnb | Staff Software Engineer, Dev AI, Developer Infrastructure | US Remote | ★ 4.3/5 — Dev infra + AI tooling hybrid; dream company
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4649893005 | Scale AI | Staff Software Engineer, Platform | SF / NYC | ★ 4.3/5 — orchestration, data pipelines, infrastructure; defense/enterprise orientation
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5174755008 | Anthropic | Staff+ Software Engineer, Backend | SF / NYC / Seattle | ★ 4.2/5 — Enterprise Foundations; RBAC/Okta/FedRAMP background is differentiator
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4599700005 | Scale AI | Staff Infrastructure Software Engineer, Enterprise AI | SF / NYC | ★ 4.2/5 — CI/CD, IaC, container orchestration, observability; exact K8s/Argo/Helm stack
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/7580712 | DoorDash | Engineering Manager, Data | SF / NYC / Seattle / Remote | ★ 4.2/5 — EM for data engineering at scale; verify remote eligibility
+- [ ] https://careers.airbnb.com/positions/7094964/ | Airbnb | Staff Software Engineer, Data Warehouse Compute | US Remote | ★ 4.2/5 — next-gen big data compute platform; dbt/DuckDB background strong differentiator
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4609511006 | Chainguard | Senior/Staff Software Engineer (SRE) | US Remote | ★ 4.2/5 — cloud infra, observability, metrics; K8s native; observability superpower fit
+- [ ] https://job-boards.greenhouse.io/discord/jobs/8498984002 | Discord | Staff Software Engineer, Data Platform | San Francisco | ★ 4.1/5 — distributed data infra at scale; SF office (relocation accepted)
+- [ ] https://job-boards.greenhouse.io/andurilindustries/jobs/4923889007 | Anduril | Staff Software Engineer, Software Platform | Costa Mesa (verify remote) | ★ 4.1/5 — auth, databases, C2; Lattice Platform; verify location before applying
+- [ ] https://careers.airbnb.com/positions/7064917/ | Airbnb | Staff Software Engineer, Analytics Infrastructure | US Remote | ★ 4.1/5 — metric infrastructure; SQL analytics; dream company
+- [ ] https://job-boards.greenhouse.io/discord/jobs/8397385002 | Discord | Engineering Manager, Data Platform | San Francisco | ★ 4.0/5 — EM for data platform; 2+ yr EM, 7+ yr SWE req; SF relocation accepted
+- [ ] https://job-boards.greenhouse.io/andurilindustries/jobs/4954894007 | Anduril | Staff Software Engineer, Developer Platform | Costa Mesa (verify remote) | ★ 4.0/5 — CI/CD, release pipelines, developer productivity; verify location
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4628800006 | Chainguard | Staff Software Engineer (Platform) | US Remote | ★ 4.0/5 — developer platform "factory"; K8s/containers/supply chain security; remote
+
+#### Other Matches (3.5–3.9)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5107466008 | Anthropic | Staff / Senior Software Engineer, Cloud Inference | SF / NYC / Seattle | 3.9/5
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/5778252004 | Grafana Labs | Staff Software Engineer, Observability Knowledge Graph Backend | US Remote | 3.9/5
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5001235007 | Temporal | Staff Software Engineer, Release Engineering | US Remote | 3.9/5
+- [ ] https://job-boards.greenhouse.io/dbtlabsinc/jobs/4665640005 | dbt Labs | Staff Software Engineer | US Remote | 3.9/5
+- [ ] https://explore.jobs.netflix.net/careers/job/790300874286 | Netflix | Engineering Manager, Enterprise Developer Platform | US Remote | 3.8/5
+- [ ] https://job-boards.greenhouse.io/discord/jobs/8192133002 | Discord | Staff Software Engineer, ML Platform | San Francisco | 3.8/5
+- [ ] https://job-boards.greenhouse.io/andurilindustries/jobs/4950075007 | Anduril | Staff Software Engineer | Costa Mesa | 3.8/5
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/7590337 | DoorDash | Software Engineer, Event Streaming & Storage | SF / NYC / Remote | 3.8/5 — Kafka/event streaming directly in stack
+- [ ] https://explore.jobs.netflix.net/careers/job/790312352886 | Netflix | Engineering Manager, ML Model Evaluations and Data Curation (AI Foundations) | US Remote | 3.7/5
+- [ ] https://explore.jobs.netflix.net/careers/job/790312128382 | Netflix | Software Engineer L4/L5, LLM Evaluation & Infrastructure | US Remote | 3.7/5
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5686805004 | ClickHouse | Cloud Software Engineer, Observability Platform | US Remote | 3.7/5
 ### Scout Scan (2026-04-23)
 - [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/5811262004 | Grafana Labs | Staff Software Engineer - Grafana Cloud Observability, Kubernetes Monitoring | USA Remote (EST) | ★ 4.5/5 — $175-210K, Go/K8s/Prometheus/Mimir, observability platform, Patrick's DORA + Watchtower narrative directly maps here
 - [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/5799744004 | Grafana Labs | Staff Backend Engineer - Adaptive Telemetry | USA Remote | ★ 4.4/5 — $175-210K, Go+Kafka+Prometheus+K8s, staff-level distributed systems, adaptive telemetry pipeline ownership
