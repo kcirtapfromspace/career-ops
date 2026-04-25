@@ -26,6 +26,7 @@ modes/_profile.md
 .resolved-prompt-*
 node_modules/
 qc-results.json
+data/scout-quickcheck-results.json
 
 # OS
 .DS_Store
