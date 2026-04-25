@@ -2,6 +2,12 @@
 
 ## Pendientes
 
+### Quick-Check Scan (2026-04-25) — Greenhouse APIs
+
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7711200003 | Fivetran | Principal Software Engineer | Oakland, California — data integration infra, new posting (different from prior Principal SE roles in pipeline)
+
+---
+
 ### Scout Scan (2026-04-25)
 
 #### Top Picks (4.0+)
