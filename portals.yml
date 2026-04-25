@@ -817,9 +817,10 @@ tracked_companies:
     enabled: true
 
   - name: Prefect
-    careers_url: https://job-boards.greenhouse.io/prefect
-    api: https://boards-api.greenhouse.io/v1/boards/prefect/jobs
-    notes: "Remote. Workflow orchestration (Airflow competitor). Python. Directly relevant."
+    careers_url: https://jobs.ashbyhq.com/prefect
+    scan_method: websearch
+    scan_query: 'site:jobs.ashbyhq.com/prefect'
+    notes: "Remote. Workflow orchestration (Airflow competitor). Python. Directly relevant. Moved from Greenhouse to Ashby (2026-04-25)."
     enabled: true
 
   - name: Dagster
@@ -875,10 +876,11 @@ tracked_companies:
     enabled: true
 
   - name: Neon
-    careers_url: https://job-boards.greenhouse.io/neondatabase
-    api: https://boards-api.greenhouse.io/v1/boards/neondatabase/jobs
-    notes: "Remote. Serverless Postgres. Rust storage engine. Distributed systems."
-    enabled: true
+    careers_url: https://www.databricks.com/company/careers
+    scan_method: websearch
+    scan_query: '"Neon" OR "neon.tech" site:databricks.com/careers "Software Engineer" OR "Data Engineer"'
+    notes: "Acquired by Databricks (2026). Serverless Postgres. Greenhouse board neondatabase is 404. Roles now at Databricks careers."
+    enabled: false
 
   - name: MotherDuck
     careers_url: https://jobs.ashbyhq.com/motherduck
@@ -916,27 +918,27 @@ tracked_companies:
     enabled: true
 
   - name: Shield AI
-    careers_url: https://job-boards.greenhouse.io/shieldai
-    api: https://boards-api.greenhouse.io/v1/boards/shieldai/jobs
-    notes: "San Diego/Remote. Autonomous drones for defense. AI + hardware moat."
+    careers_url: https://jobs.lever.co/shieldai
+    notes: "San Diego/Remote. Autonomous drones for defense. AI + hardware moat. Moved from Greenhouse to Lever (2026-04-25)."
     enabled: true
 
   - name: Skydio
-    careers_url: https://job-boards.greenhouse.io/skydio
-    api: https://boards-api.greenhouse.io/v1/boards/skydio/jobs
-    notes: "San Mateo. Autonomous drones. Computer vision + AI."
+    careers_url: https://www.skydio.com/careers
+    scan_method: websearch
+    scan_query: 'site:skydio.com/careers "Software Engineer" OR "Data Engineer" OR "Platform Engineer" OR "ML Engineer"'
+    notes: "San Mateo. Autonomous drones. Computer vision + AI. Greenhouse slug 'skydio' 404 as of 2026-04-25; careers page uses UUID-based job links. Using websearch fallback."
     enabled: true
 
   - name: Hadrian
-    careers_url: https://job-boards.greenhouse.io/hadrian
-    api: https://boards-api.greenhouse.io/v1/boards/hadrian/jobs
-    notes: "LA/Remote. AI-powered precision manufacturing for defense. $200M+ raised."
+    careers_url: https://careers.hadrian.io/
+    scan_method: websearch
+    scan_query: 'site:careers.hadrian.io "Software Engineer" OR "Data Engineer" OR "Platform" OR "ML"'
+    notes: "LA/Remote. AI-powered precision manufacturing for defense. $200M+ raised. Greenhouse slug 404 as of 2026-04-25; using own hosted careers page."
     enabled: true
 
   - name: Hermeus
-    careers_url: https://job-boards.greenhouse.io/hermeus
-    api: https://boards-api.greenhouse.io/v1/boards/hermeus/jobs
-    notes: "Atlanta. Hypersonic aircraft. Hardware moat. Defense contracts."
+    careers_url: https://jobs.lever.co/hermeus
+    notes: "Atlanta. Hypersonic aircraft. Hardware moat. Defense contracts. Moved from Greenhouse to Lever (2026-04-25)."
     enabled: true
 
   - name: Relativity Space
@@ -953,15 +955,17 @@ tracked_companies:
     enabled: true
 
   - name: Joby Aviation
-    careers_url: https://job-boards.greenhouse.io/jobyaviation
-    api: https://boards-api.greenhouse.io/v1/boards/jobyaviation/jobs
-    notes: "Santa Cruz CA. eVTOL air taxis. FAA certification path. Hardware moat."
+    careers_url: https://www.jobyaviation.com/careers
+    scan_method: websearch
+    scan_query: 'site:jobyaviation.com/careers "Software Engineer" OR "Data Engineer" OR "Platform" OR "ML Engineer"'
+    notes: "Santa Cruz CA. eVTOL air taxis. FAA certification path. Hardware moat. Moved from Greenhouse to iCIMS (2026-04-25)."
     enabled: true
 
   - name: Archer Aviation
-    careers_url: https://job-boards.greenhouse.io/archeraviation
-    api: https://boards-api.greenhouse.io/v1/boards/archeraviation/jobs
-    notes: "San Jose CA. eVTOL. Competing with Joby. Hardware moat."
+    careers_url: https://www.archer.com/careers
+    scan_method: websearch
+    scan_query: '"Archer Aviation" "archer.com/careers" "Software Engineer" OR "Data Engineer" OR "Platform" OR "ML"'
+    notes: "San Jose CA. eVTOL. Competing with Joby. Hardware moat. Greenhouse slug 'archeraviation' 404 as of 2026-04-25; 'archer' slug belongs to a different company. Using websearch fallback."
     enabled: true
 
   - name: Vast
@@ -985,9 +989,9 @@ tracked_companies:
     enabled: true
 
   - name: Zipline
-    careers_url: https://job-boards.greenhouse.io/ziplineofficial
-    api: https://boards-api.greenhouse.io/v1/boards/ziplineofficial/jobs
-    notes: "SF/Remote. Drone delivery (medical supplies, retail). Hardware moat."
+    careers_url: https://www.zipline.com/careers
+    api: https://boards-api.greenhouse.io/v1/boards/flyzipline/jobs
+    notes: "South San Francisco. Drone delivery (medical & retail). Hardware moat. Slug: flyzipline (updated 2026-04-25)."
     enabled: true
 
   - name: Figure AI
@@ -1045,9 +1049,10 @@ tracked_companies:
     enabled: true
 
   - name: Snowflake
-    careers_url: https://job-boards.greenhouse.io/snowflake
-    api: https://boards-api.greenhouse.io/v1/boards/snowflake/jobs
-    notes: "SF/Remote. Cloud data warehouse. Public company."
+    careers_url: https://careers.snowflake.com/us/en
+    scan_method: websearch
+    scan_query: 'site:careers.snowflake.com "Software Engineer" OR "Data Engineer" OR "Platform Engineer" OR "ML Engineer" OR "Engineering Manager" remote OR Denver OR Seattle'
+    notes: "SF/Remote. Cloud data warehouse. Public company. Moved from Greenhouse to Ashby (2026-04-25)."
     enabled: true
 
   - name: Clickhouse

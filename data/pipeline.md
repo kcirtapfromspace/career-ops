@@ -6,6 +6,39 @@
 
 - [ ] https://www.fivetran.com/careers/job?gh_jid=7711200003 | Fivetran | Principal Software Engineer | Oakland, California — data integration infra, new posting (different from prior Principal SE roles in pipeline)
 
+#### Zipline — New (broken slug fixed: ziplineofficial → flyzipline)
+> 28 roles, never scanned before. SF Bay Area (South San Francisco). Hardware moat: drone delivery.
+> **Top picks:** Senior Manager Data Platform & Autonomy Infrastructure, Senior SRE, Fullstack - Data Platform, multiple Senior SWE platform roles.
+
+- [ ] https://www.zipline.com/careers?gh_jid=7663467003 | Zipline | Senior Manager, Data Platform & Autonomy Infrastructure | South San Francisco, CA
+- [ ] https://www.zipline.com/careers?gh_jid=5538733003 | Zipline | Senior Site Reliability Engineer | South San Francisco, CA
+- [ ] https://www.zipline.com/careers?gh_jid=7607673003 | Zipline | Fullstack - Data Platform (Autonomy) | South San Francisco, CA
+- [ ] https://www.zipline.com/careers?gh_jid=7676377003 | Zipline | Senior Software Engineer, Delivery Network Platform | South San Francisco, CA
+- [ ] https://www.zipline.com/careers?gh_jid=7303683003 | Zipline | Senior Software Engineer – Developer Productivity | South San Francisco, CA
+- [ ] https://www.zipline.com/careers?gh_jid=7679440003 | Zipline | Senior Software Engineer, Commerce Platform | South San Francisco, CA
+- [ ] https://www.zipline.com/careers?gh_jid=7674944003 | Zipline | Senior Software Engineer, Enterprise Systems | South San Francisco, CA
+- [ ] https://www.zipline.com/careers?gh_jid=6613418003 | Zipline | Senior Software Engineer - Field Systems | South San Francisco, CA
+- [ ] https://www.zipline.com/careers?gh_jid=7678102003 | Zipline | Senior Software Engineer - Maps Platform | South San Francisco, CA
+- [ ] https://www.zipline.com/careers?gh_jid=7331341003 | Zipline | Senior Software Engineer – Rust Language Maintainer | South San Francisco, CA
+- [ ] https://www.zipline.com/careers?gh_jid=7656397003 | Zipline | Senior or Staff Software Engineer – Cloud Communications Platform | South San Francisco, CA
+- [ ] https://www.zipline.com/careers?gh_jid=5886248003 | Zipline | Staff Software Engineer - Sky Traffic Platform | South San Francisco, CA
+- [ ] https://www.zipline.com/careers?gh_jid=7633532003 | Zipline | Senior Autonomy Software Engineer, Validation Tools | South San Francisco, CA
+- [ ] https://www.zipline.com/careers?gh_jid=7516682003 | Zipline | Autonomy Platform Software Engineer | South San Francisco, CA
+- [ ] https://www.zipline.com/careers?gh_jid=6570283003 | Zipline | Autonomy Software Engineer | South San Francisco, CA
+- [ ] https://www.zipline.com/careers?gh_jid=7711584003 | Zipline | Autonomy Software Engineer, Validation Tools | South San Francisco, CA
+- [ ] https://www.zipline.com/careers?gh_jid=7695759003 | Zipline | Staff Motion Planning Software Engineer | South San Francisco, CA
+- [ ] https://www.zipline.com/careers?gh_jid=7695756003 | Zipline | Senior Motion Planning Software Engineer | South San Francisco, CA
+- [ ] https://www.zipline.com/careers?gh_jid=4359039003 | Zipline | Senior or Staff Autonomy Software Engineer, Differential GNSS | South San Francisco, CA
+- [ ] https://www.zipline.com/careers?gh_jid=7604074003 | Zipline | Senior Integration and Test Software Engineer - Long Range Platform | South San Francisco, CA
+- [ ] https://www.zipline.com/careers?gh_jid=6671255003 | Zipline | Senior Full Stack Software Engineer - Mapping | South San Francisco, CA
+- [ ] https://www.zipline.com/careers?gh_jid=7564211003 | Zipline | Software Engineer - Systems Validation | South San Francisco, CA
+- [ ] https://www.zipline.com/careers?gh_jid=6641068003 | Zipline | Senior Software Engineer - Motor Controls | South San Francisco, CA
+- [ ] https://www.zipline.com/careers?gh_jid=6653305003 | Zipline | Senior - Staff Software Engineer - Hardware Test | South San Francisco, CA
+- [ ] https://www.zipline.com/careers?gh_jid=7453805003 | Zipline | Electrical Engineering Manager - Ground Systems | South San Francisco, CA
+- [ ] https://www.zipline.com/careers?gh_jid=5808210003 | Zipline | Mechanical Test Engineering Manager | South San Francisco, CA
+- [ ] https://www.zipline.com/careers?gh_jid=7520166003 | Zipline | Production Manager, Platform 2 Manufacturing Operations | South San Francisco, CA
+- [ ] https://www.zipline.com/careers?gh_jid=5460508003 | Zipline | Test Engineering Manager - Powertrain | South San Francisco, CA
+
 ---
 
 ### Scout Scan (2026-04-25)

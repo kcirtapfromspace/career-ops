@@ -133,7 +133,12 @@ function loadHistory(histPath) {
   const seen = new Set();
   for (const line of text.split('\n')) {
     const parts = line.split('\t');
-    if (parts[3]) seen.add(parts[3].trim());
+    // Standard format: url\tfirst_seen\tportal\ttitle\tcompany\tstatus (col 0 = URL)
+    // Legacy quickcheck format: date\tcompany\ttitle\turl\tlocation (col 3 = URL)
+    const col0 = parts[0]?.trim();
+    const col3 = parts[3]?.trim();
+    if (col0?.startsWith('http')) seen.add(col0);
+    else if (col3?.startsWith('http')) seen.add(col3);
   }
   return seen;
 }
@@ -210,13 +215,24 @@ async function main() {
   if (errors.length > 0) process.stderr.write(`Failed: ${errors.join(', ')}\n`);
 
   if (newMatches.length > 0) {
-    const tsv = newMatches.map(m => `${m.date}\t${m.company}\t${m.title}\t${m.url}\t${m.location}`).join('\n') + '\n';
+    // Standard TSV format: url\tfirst_seen\tportal\ttitle\tcompany\tstatus
+    const tsv = newMatches.map(m =>
+      `${m.url}\t${m.date}\tgreenhouse-api\t${m.title}\t${m.company}\tmatched`
+    ).join('\n') + '\n';
     fs.appendFileSync(histPath, tsv);
 
-    const section = `\n## Scout Quick-Check — ${today}\n\n` +
-      newMatches.map(m => `- [ ] ${m.url}\n  <!-- ${m.company} | ${m.title} | ${m.location} -->`).join('\n') + '\n';
-    fs.appendFileSync(pipelinePath, section);
-
+    const section = `\n### Quick-Check Scan (${today}) — Round 2\n\n` +
+      newMatches.map(m => `- [ ] ${m.url} | ${m.company} | ${m.title} | ${m.location}`).join('\n') + '\n';
+    // Prepend after the first line of pipeline.md (after the H1 + blank line)
+    const existing = fs.readFileSync(pipelinePath, 'utf8');
+    const insertAfter = '## Pendientes\n';
+    const idx = existing.indexOf(insertAfter);
+    if (idx !== -1) {
+      const updated = existing.slice(0, idx + insertAfter.length) + '\n' + section + '\n' + existing.slice(idx + insertAfter.length);
+      fs.writeFileSync(pipelinePath, updated);
+    } else {
+      fs.appendFileSync(pipelinePath, section);
+    }
     process.stderr.write(`Written to scan-history.tsv + pipeline.md\n`);
   }
 
