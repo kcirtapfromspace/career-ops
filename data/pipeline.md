@@ -2,6 +2,23 @@
 
 ## Pendientes
 
+### Scout Scan (2026-04-25)
+
+#### Top Picks (4.0+)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4970463008 | Anthropic | Staff+ Software Engineer, Databases | SF / NYC / Seattle | ★ 4.3/5 — database infra at AI scale; Patrick's CDC/Kafka/pgvector/Postgres stack is direct match
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5120228008 | Anthropic | Staff+ Software Engineer, Databases (2nd slot) | SF / NYC / Seattle | ★ 4.2/5 — second active posting for same role, apply to both
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5023238007 | Temporal | Staff Software Engineer, DevProd (Observability) | US Remote | $196K–$245K | ★ 4.2/5 — dev-facing observability tooling; VA.gov Watchtower + DORA metrics maps directly
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5023089008 | Anthropic | Staff Software Engineer, Platform | SF / NYC / Seattle | ★ 4.0/5 — foundational backend primitives for product teams; distinct from Staff+ Platform already in pipeline
+
+#### Other Matches (3.5–3.9)
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/4752278007 | Temporal | Senior Engineering Manager, Open Source Server | US Remote | 3.8/5
+- [ ] https://explore.jobs.netflix.net/careers/job/790298263747 | Netflix | Engineering Manager, ML Researcher Tooling | USA Remote | 3.8/5
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5102663008 | Anthropic | Staff Software Engineer, Build Systems | SF / NYC / Seattle | 3.8/5
+- [ ] https://jobs.ashbyhq.com/replicate/5a32fa0c-2358-4125-8189-1ff5900e9a23 | Replicate | Staff Software Engineer, ML Platform | SF / Remote | 3.8/5 — verify remote policy
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/7727512 | DoorDash | Staff Software Engineer, Security Enablement | US Remote | 3.7/5 — platform/infra for security org; FedRAMP + K8s background applicable
+- [ ] https://explore.jobs.netflix.net/careers/job/790299973104 | Netflix | Engineering Manager, Training Platform, ML | USA Remote | 3.7/5
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5043049007 | Temporal | Staff Software Engineer, SDK (Language Runtime) | US Remote | $196K–$245K | 3.7/5
+
 ### Quick-Check Scan (2026-04-24)
 
 - [ ] http://stability.ai/careers?gh_jid=4679992101 | Stability AI | Senior Site Reliability Engineer | United States
