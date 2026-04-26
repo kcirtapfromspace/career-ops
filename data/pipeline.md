@@ -1711,3 +1711,22 @@
   <!-- Clickhouse | Senior Software Engineer - JVM Language Clients | United States (remote) -->
 - [ ] https://job-boards.greenhouse.io/arizeai/jobs/5979510004
   <!-- Arize AI | DevOps Release Manager | Remote (United States) -->
+
+## Scout Scan — 2026-04-26
+
+- [ ] https://jobs.lever.co/attentive/2b863ea8-ef2d-46c8-90bb-b956bfbd3b34
+  <!-- Attentive | Engineering Manager, Data Platform | Remote (NYC/SF hybrid) | Score: 4.2/5 -->
+- [ ] https://jobs.lever.co/attentive/07cc03e7-a324-4228-a100-3fa33671fc04
+  <!-- Attentive | Staff Software Engineer, ML Platform | Remote | Score: 4.0/5 -->
+- [ ] https://jobs.ashbyhq.com/docker/73d919c7-232d-4ef3-87f3-19380be1e08d
+  <!-- Docker | Staff Software Engineer, Data Engineering | Remote US | Score: 4.0/5 -->
+- [ ] https://jobs.ashbyhq.com/sentry/81f09568-da7d-4ed1-8283-614f846c9b00
+  <!-- Sentry | Staff Machine Learning Engineer, AI | Remote / SF | Score: 3.8/5 -->
+- [ ] https://jobs.ashbyhq.com/zapier/e0d00d05-afaf-44f8-ba4b-b825f3d1b444
+  <!-- Zapier | Staff Machine Learning Engineer | Remote | Score: 3.7/5 -->
+- [ ] https://www.zipline.com/careers?gh_jid=7667529003
+  <!-- Zipline | Senior Full Stack Software Engineer - Health Care | Remote USA | Score: 3.7/5 -->
+- [ ] https://jobs.ashbyhq.com/decagon/522cc0c1-67ce-4eaa-93cc-16a1a21a2566
+  <!-- Decagon | Engineering Manager, AI & Data Infrastructure | San Francisco (in-office) | Score: 3.6/5 — location blocker -->
+- [ ] https://jobs.ashbyhq.com/decagon/4ee23873-108d-4e1a-9a13-2cc048051ce5
+  <!-- Decagon | Engineering Manager, Platform Infrastructure | San Francisco (in-office) | Score: 3.6/5 — location blocker -->
