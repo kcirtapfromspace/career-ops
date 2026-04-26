@@ -1730,3 +1730,12 @@
   <!-- Decagon | Engineering Manager, AI & Data Infrastructure | San Francisco (in-office) | Score: 3.6/5 — location blocker -->
 - [ ] https://jobs.ashbyhq.com/decagon/4ee23873-108d-4e1a-9a13-2cc048051ce5
   <!-- Decagon | Engineering Manager, Platform Infrastructure | San Francisco (in-office) | Score: 3.6/5 — location blocker -->
+
+## Scout Quick-Check — 2026-04-26 (Greenhouse API)
+
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5473266004
+  <!-- Vercel | Software Engineer, CDN Security | Remote - United States -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8335860002
+  <!-- Databricks | AI Engineer - FDE (Forward Deployed Engineer) | United States -->
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5727343004
+  <!-- Clickhouse | Senior Software Engineer (Infrastructure) - ClickStack | United States -->
