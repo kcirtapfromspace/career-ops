@@ -1739,3 +1739,16 @@
   <!-- Databricks | AI Engineer - FDE (Forward Deployed Engineer) | United States -->
 - [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5727343004
   <!-- Clickhouse | Senior Software Engineer (Infrastructure) - ClickStack | United States -->
+
+## Scout Scan — 2026-04-27
+
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5111563007
+  <!-- Temporal | Staff Software Engineer, Builder Tools | US Remote | Score: 4.5/5 -->
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5104859007
+  <!-- Temporal | Staff Software Engineer - Nexus | US Remote | Score: 4.3/5 -->
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5111582007
+  <!-- Temporal | Senior Software Engineer, Builder Tools | US Remote | Score: 4.0/5 -->
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5090613007
+  <!-- Temporal | Senior Software Engineer, Release Engineering | US Remote | Score: 3.7/5 -->
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7711200003
+  <!-- Fivetran | Principal Software Engineer | Oakland, CA | Score: 3.5/5 -->
