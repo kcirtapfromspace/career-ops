@@ -1752,3 +1752,34 @@
   <!-- Temporal | Senior Software Engineer, Release Engineering | US Remote | Score: 3.7/5 -->
 - [ ] https://www.fivetran.com/careers/job?gh_jid=7711200003
   <!-- Fivetran | Principal Software Engineer | Oakland, CA | Score: 3.5/5 -->
+
+## Scout Quickcheck — 2026-04-27
+
+- [ ] https://job-boards.greenhouse.io/dagsterlabs/jobs/7714923003
+  <!-- Dagster | Software Engineer - Platform | Remote (SF/NY/Minneapolis) -->
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4676390006
+  <!-- Chainguard | Staff Software Engineer (Developer Platform) | US Remote -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5121118007
+  <!-- Anduril | Senior Manager, Software Engineering (Carbon - Game Development) | Seattle, WA -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5120382007
+  <!-- Anduril | Software Engineer - Simulation Fidelity | Seattle, WA -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5120250007
+  <!-- Anduril | Software Engineer - Simulation Integrations | Seattle, WA -->
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/4770137007
+  <!-- Temporal | Senior Software Engineer, Cloud Data Storage | US Remote -->
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5038882007
+  <!-- Temporal | Senior Software Engineer, Cloud Enablement | US Remote -->
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5039232007
+  <!-- Temporal | Senior Software Engineer, Cloud Growth | US Remote -->
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5042920007
+  <!-- Temporal | Senior Software Engineer, DevProd (Infrastructure Observability) | US/Canada Remote -->
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/4290103007
+  <!-- Temporal | Senior Software Engineer, Open Source Server | US Remote -->
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5041968007
+  <!-- Temporal | Senior Software Engineer, Temporal Cloud | US Remote -->
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5038049007
+  <!-- Temporal | Senior Staff Software Engineer, Infrastructure | US Remote -->
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/4672714007
+  <!-- Temporal | Staff Software Engineer, Cloud Data Storage | US Remote -->
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/4770121007
+  <!-- Temporal | Staff Software Engineer - Cloud Global Services | US Remote -->

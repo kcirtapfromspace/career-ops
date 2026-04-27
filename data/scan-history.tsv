@@ -19930,3 +19930,25 @@ https://boards-api.greenhouse.io/v1/boards/aurorainnovation/jobs	2026-04-27	gree
 https://boards-api.greenhouse.io/v1/boards/clickhouse/jobs	2026-04-27	greenhouse-api	[API scan - all in history]	ClickHouse	scanned
 https://boards-api.greenhouse.io/v1/boards/rocketlab/jobs	2026-04-27	greenhouse-api	[API scan - all in history]	Rocket Lab	scanned
 https://boards-api.greenhouse.io/v1/boards/dagsterlabs/jobs	2026-04-27	greenhouse-api	[API scan - no new eng roles]	Dagster	scanned
+https://job-boards.greenhouse.io/dagsterlabs/jobs/7714923003	2026-04-27	greenhouse-api	Software Engineer - Platform	Dagster	added
+https://job-boards.greenhouse.io/chainguard/jobs/4676390006	2026-04-27	greenhouse-api	Staff Software Engineer (Developer Platform)	Chainguard	added
+https://boards.greenhouse.io/andurilindustries/jobs/5121118007	2026-04-27	greenhouse-api	Senior Manager, Software Engineering (Carbon - Game Development)	Anduril	added
+https://boards.greenhouse.io/andurilindustries/jobs/5120382007	2026-04-27	greenhouse-api	Software Engineer - Simulation Fidelity	Anduril	added
+https://boards.greenhouse.io/andurilindustries/jobs/5120250007	2026-04-27	greenhouse-api	Software Engineer - Simulation Integrations	Anduril	added
+https://job-boards.greenhouse.io/temporaltechnologies/jobs/4770137007	2026-04-27	greenhouse-api	Senior Software Engineer, Cloud Data Storage	Temporal	added
+https://job-boards.greenhouse.io/temporaltechnologies/jobs/5038882007	2026-04-27	greenhouse-api	Senior Software Engineer, Cloud Enablement	Temporal	added
+https://job-boards.greenhouse.io/temporaltechnologies/jobs/5039232007	2026-04-27	greenhouse-api	Senior Software Engineer, Cloud Growth	Temporal	added
+https://job-boards.greenhouse.io/temporaltechnologies/jobs/5042920007	2026-04-27	greenhouse-api	Senior Software Engineer, DevProd (Infrastructure Observability)	Temporal	added
+https://job-boards.greenhouse.io/temporaltechnologies/jobs/4290103007	2026-04-27	greenhouse-api	Senior Software Engineer, Open Source Server	Temporal	added
+https://job-boards.greenhouse.io/temporaltechnologies/jobs/5041968007	2026-04-27	greenhouse-api	Senior Software Engineer, Temporal Cloud	Temporal	added
+https://job-boards.greenhouse.io/temporaltechnologies/jobs/5038049007	2026-04-27	greenhouse-api	Senior Staff Software Engineer, Infrastructure	Temporal	added
+https://job-boards.greenhouse.io/temporaltechnologies/jobs/4672714007	2026-04-27	greenhouse-api	Staff Software Engineer, Cloud Data Storage	Temporal	added
+https://job-boards.greenhouse.io/temporaltechnologies/jobs/4770121007	2026-04-27	greenhouse-api	Staff Software Engineer - Cloud Global Services	Temporal	added
+https://boards.greenhouse.io/andurilindustries/jobs/5121120007	2026-04-27	greenhouse-api	Senior Manager, Software Engineering (Carbon - Game Dev)	Anduril	skipped_location
+https://boards.greenhouse.io/andurilindustries/jobs/5121462007	2026-04-27	greenhouse-api	Senior Software Engineer, Fullstack UI (SIE)	Anduril	skipped_location
+https://job-boards.greenhouse.io/temporaltechnologies/jobs/5092899007	2026-04-27	greenhouse-api	Senior Software Engineer, Release Engineering	Temporal	skipped_location
+https://careers.hellofresh.com/global/en/job/7845008	2026-04-27	greenhouse-api	Staff Backend Engineer, Customer Value Optimisation	HelloFresh	skipped_location
+https://boards-api.greenhouse.io/v1/boards/temporaltechnologies/jobs	2026-04-27	greenhouse-api	[quickcheck - 9 new US remote added]	Temporal	scanned
+https://boards-api.greenhouse.io/v1/boards/andurilindustries/jobs	2026-04-27	greenhouse-api	[quickcheck - 3 Seattle new added]	Anduril	scanned
+https://boards-api.greenhouse.io/v1/boards/chainguard/jobs	2026-04-27	greenhouse-api	[quickcheck - 1 new added]	Chainguard	scanned
+https://boards-api.greenhouse.io/v1/boards/dagsterlabs/jobs	2026-04-27	greenhouse-api	[quickcheck - 1 new added]	Dagster	scanned
