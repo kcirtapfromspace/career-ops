@@ -1788,3 +1788,11 @@
 
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5203868008
   <!-- Anthropic | Staff Software Engineer, Node Infra | SF / NYC / Seattle -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8527117002
+  <!-- Databricks | Senior Software Engineer, Compute Infrastructure | San Francisco, CA -->
+- [ ] https://www.samsara.com/company/careers/roles/7859406?gh_jid=7859406
+  <!-- Samsara | Data Engineer II | Remote - US -->
+- [ ] https://www.samsara.com/company/careers/roles/7801077?gh_jid=7801077
+  <!-- Samsara | Engineering Manager II | Remote - CA -->
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4689751005
+  <!-- Scale AI | AI Infrastructure Engineer - Training Platform | SF / Seattle / NYC -->
