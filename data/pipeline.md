@@ -1783,3 +1783,8 @@
   <!-- Temporal | Staff Software Engineer, Cloud Data Storage | US Remote -->
 - [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/4770121007
   <!-- Temporal | Staff Software Engineer - Cloud Global Services | US Remote -->
+
+## Scout Quickcheck — 2026-04-28
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5203868008
+  <!-- Anthropic | Staff Software Engineer, Node Infra | SF / NYC / Seattle -->
