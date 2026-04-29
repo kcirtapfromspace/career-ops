@@ -1824,3 +1824,58 @@
   <!-- Samsara | Engineering Manager II | Remote - CA -->
 - [ ] https://job-boards.greenhouse.io/scaleai/jobs/4689751005
   <!-- Scale AI | AI Infrastructure Engineer - Training Platform | SF / Seattle / NYC -->
+
+## Scout Quickcheck — 2026-04-29 (Evening)
+
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5119529007
+  <!-- Temporal | Staff Software Engineer, DevProd (Infrastructure Observability) | US Remote -->
+- [ ] https://www.samsara.com/company/careers/roles/7650290?gh_jid=7650290
+  <!-- Samsara | Data Engineer II | Remote - US -->
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/7603834
+  <!-- Planet Labs | Senior Software Engineering Manager | US Remote -->
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/7603823
+  <!-- Planet Labs | Senior Software Engineer, DevOps | US Remote -->
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/7555019
+  <!-- Planet Labs | Software Engineer, Platform Operations | US Remote -->
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/7603817
+  <!-- Planet Labs | Software Engineer, AI Systems & Infrastructure | San Francisco, CA -->
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5778617004
+  <!-- ClickHouse | Senior Cloud Software Engineer - AutoScaling | US Remote -->
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5842100004
+  <!-- ClickHouse | Senior Software Engineer - Python and Data Ecosystem | US Remote -->
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5765673004
+  <!-- ClickHouse | Software Engineer - Database Integrations | US Remote -->
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4673043006
+  <!-- Chainguard | Senior Software Engineer (Libraries Platform) | US Remote -->
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4639034006
+  <!-- Chainguard | Staff Software Engineer (Integrations) | US Remote -->
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4673133006
+  <!-- Chainguard | Software Engineer (Libraries Platform) | US Remote -->
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5431123004
+  <!-- Vercel | Software Engineer, Backend | Remote - United States -->
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5430088004
+  <!-- Vercel | Software Engineer, Backend | Remote - United States -->
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5551619004
+  <!-- Vercel | Software Engineer, Compute | Remote - United States -->
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5813134004
+  <!-- Vercel | Software Engineer, Domains | Remote - United States -->
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4625271005
+  <!-- Scale AI | Engineering Manager, AgentOps | San Francisco / NYC -->
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4665557005
+  <!-- Scale AI | Infrastructure Software Engineer, Enterprise GenAI | San Francisco / NYC -->
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4520320005
+  <!-- Scale AI | Senior AI Infrastructure Engineer, Model Serving Platform | San Francisco / NYC -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8502969002
+  <!-- Databricks | Engineering Manager, Spark Connect | Bellevue, WA -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8324875002
+  <!-- Databricks | Engineering Manager - Streaming | Bellevue, WA -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8467083002
+  <!-- Databricks | Engineering Manager - Pipelines Engine | Mountain View / SF -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8510921002
+  <!-- Databricks | Engineering Manager - App Frameworks | Mountain View, CA -->
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4637208005
+  <!-- Glean | Software Engineer, Data Foundations | SF Bay Area -->
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4616929005
+  <!-- Glean | Software Engineer, Agentic Runtime | SF Bay Area -->
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4614706005
+  <!-- Glean | Software Engineer, Developer Productivity | SF Bay Area -->
