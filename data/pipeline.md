@@ -2,6 +2,34 @@
 
 ## Pendientes
 
+### Scout Scan (2026-04-29)
+
+#### Top Picks (4.0+)
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5073875007 | Temporal | Staff Software Engineer, DevProd (Infrastructure Observability) | US Remote | ★ 4.2/5 — second DevProd observability posting (distinct from 5023238007 in pipeline); VA.gov Watchtower maps directly
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7581688003 | Fivetran | Senior Site Reliability Engineer | Denver, CO | ★ 4.1/5 — Denver-based at Patrick's home city; SRE + observability expertise; Fivetran has Denver office
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5107194007 | Temporal | Staff Software Engineer, Infrastructure Foundations | US Remote | ★ 4.1/5 — core infra at workflow orchestration company; K8s/distributed systems direct match
+- [ ] https://careers.airbnb.com/positions/7707242/ | Airbnb | Engineering Manager, Supply & Insights DnA | US Remote | ★ 4.0/5 — Data & AI EM at dream company; new role not in prior scans; supply/demand data platform
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/5806328004 | Grafana Labs | Staff AI Engineer | US Remote | ★ 4.0/5 — new posting distinct from 5830873004 in pipeline; AI at observability-native company
+
+#### Other Matches (3.5–3.9)
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5100259007 | Temporal | Senior Engineering Manager, Builder Tools | US Remote | 3.9/5
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5068388007 | Temporal | Staff Software Engineer, Compute (Temporal Cloud) | US Remote | 3.9/5
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5421310004 | Arize AI | Engineering Manager - Product & Platform | US Remote | 3.8/5 — EM at LLMOps/AI observability company; "Product & Platform" matches Patrick's archetype
+- [ ] https://careers.airbnb.com/positions/7402675/ | Airbnb | Engineering Manager, CS Data Services | US Remote | 3.8/5
+- [ ] https://careers.airbnb.com/positions/7450569/ | Airbnb | Senior Engineering Manager - Marketplaces DNA | US Remote | 3.8/5
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5159608008 | Anthropic | Engineering Manager, Agent Prompts & Evals | SF / NYC | 3.8/5
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/5982444004 | Grafana Labs | Staff Backend Engineer - Databases Tempo | US Remote | 3.7/5
+- [ ] https://openai.com/careers/engineering-manager-online-data-systems-san-francisco/ | OpenAI | Engineering Manager, Online Data Systems | SF | 3.7/5
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5819754004 | ClickHouse | Senior Site Reliability Engineer | US Remote | 3.7/5
+- [ ] https://job-boards.greenhouse.io/discord/jobs/8112880002 | Discord | Senior Software Engineer, Data Platform | SF Bay Area | 3.7/5
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5035634007 | Temporal | Staff Software Engineer, Replication Foundations | US Remote | 3.6/5
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5155391008 | Anthropic | Engineering Manager, Inference Routing and Performance | SF / NYC | 3.6/5
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5819674004 | ClickHouse | Senior Software Engineer - Cloud Infrastructure | US Remote | 3.6/5
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5104859007 | Temporal | Staff Software Engineer - Nexus | US Remote | 3.5/5
+- [ ] https://job-boards.greenhouse.io/discord/jobs/8373431002 | Discord | Senior Data Engineer, Analytics | SF Bay Area | 3.5/5
+
+---
+
 ### Quick-Check Scan (2026-04-25) — Greenhouse APIs
 
 - [ ] https://www.fivetran.com/careers/job?gh_jid=7711200003 | Fivetran | Principal Software Engineer | Oakland, California — data integration infra, new posting (different from prior Principal SE roles in pipeline)
