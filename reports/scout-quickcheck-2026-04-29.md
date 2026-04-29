@@ -105,3 +105,29 @@
 3. **Databricks — Engineering Manager - Streaming** (Bellevue) — streaming data, Seattle
 4. **Temporal — Staff SWE, DevProd (Infrastructure Observability)** (US Remote) — second opening, high-fit
 5. **Samsara — Data Engineer II** (US Remote) — IoT data platform, already has one Samsara EM in pipeline
+
+---
+
+## Second Pass — Quick Check (same day, full 42-company sweep)
+
+**Jobs checked:** 7,488 (full Greenhouse API corpus)
+**Additional new matches:** 5
+
+### Anduril — 4 new simulation roles (Seattle)
+
+| Role | URL |
+|------|-----|
+| Senior Manager, Software Engineering (Carbon - Game Dev) | https://boards.greenhouse.io/andurilindustries/jobs/5121118007 |
+| Senior Software Engineer, Simulation Integrations | https://boards.greenhouse.io/andurilindustries/jobs/5124091007 |
+| Software Engineer - Simulation Fidelity | https://boards.greenhouse.io/andurilindustries/jobs/5120382007 |
+| Software Engineer - Simulation Integrations | https://boards.greenhouse.io/andurilindustries/jobs/5120250007 |
+
+All four are in Anduril's **Carbon** division (game engine / simulation infrastructure for defense). Seattle location. Simulation-heavy but platform-adjacent — the Senior Manager role is worth a look if EM track is open.
+
+### Anthropic — 1 flagged role (SF / NYC)
+
+| Role | URL |
+|------|-----|
+| [PIP] Product Management, Human Data Platform | https://job-boards.greenhouse.io/anthropic/jobs/5195866008 |
+
+Matched on "Data Platform" keyword. This is a **PM role**, not engineering. The `[PIP]` prefix is non-standard — possibly an internal transfer marker or ATS artifact. Flag for manual review before deciding whether to evaluate.

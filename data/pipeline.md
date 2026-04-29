@@ -1879,3 +1879,13 @@
   <!-- Glean | Software Engineer, Agentic Runtime | SF Bay Area -->
 - [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4614706005
   <!-- Glean | Software Engineer, Developer Productivity | SF Bay Area -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5121118007
+  <!-- Anduril | Senior Manager, Software Engineering (Carbon - Game Development) | Seattle, WA -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5124091007
+  <!-- Anduril | Senior Software Engineer, Simulation Integrations | Seattle, WA -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5120382007
+  <!-- Anduril | Software Engineer - Simulation Fidelity | Seattle, WA -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5120250007
+  <!-- Anduril | Software Engineer - Simulation Integrations | Seattle, WA -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5195866008
+  <!-- Anthropic | [PIP] Product Management, Human Data Platform | SF / NYC — NOTE: PM role, [PIP] tag unusual -->
