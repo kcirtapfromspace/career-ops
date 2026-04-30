@@ -1908,3 +1908,7 @@
   <!-- Anduril | C++ Mission Software Engineer, Mission Autonomy | Costa Mesa, CA / Seattle, WA / DC -->
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5125172007
   <!-- Anduril | Rust Software Engineer, Air Vehicle Autonomy | Costa Mesa, CA / Seattle, WA / DC -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5206978008
+  <!-- Anthropic | Staff Infrastructure Engineer, Cluster Infrastructure | SF / NYC / Seattle -->
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4677727006
+  <!-- Chainguard | Principal Software Engineer (Containers) | US Remote -->
