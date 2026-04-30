@@ -2,6 +2,20 @@
 
 ## Pendientes
 
+### Scout Scan (2026-04-30)
+
+#### Top Picks (4.0+)
+- [ ] https://nuro.ai/careersitem?gh_jid=5550736 | Nuro | Senior/Staff Software Engineer, Data Platform | SF Bay Area | ★ 4.3/5 — Staff-level data platform at well-funded AV startup; dbt/DuckDB/Redshift proof points apply directly
+- [ ] https://jobs.ashbyhq.com/modal/06617175-0149-44c3-be5f-e73fa49b250a | Modal | Data Engineer | Remote US | ★ 4.2/5 — serverless GPU cloud company, hot infra startup; pipeline/data platform role; remote-first
+- [ ] https://nuro.ai/careersitem?gh_jid=7786731 | Nuro | Senior Software Engineer, ML Platform Infrastructure | SF Bay Area | ★ 4.2/5 — ML platform infra at AV company; K8s/Argo/observability proof points map cleanly
+- [ ] https://jobs.ashbyhq.com/deepgram/f424ef6a-c27f-4984-9e77-40a1ad16ae28 | Deepgram | Site Reliability Engineer - AI & ML Infrastructure (Kubernetes, AWS & Terraform) | Remote US | ★ 4.1/5 — SRE for AI/ML infra; K8s + AWS + Terraform; Watchtower + Argo proof points apply
+
+#### Other Matches (3.5–3.9)
+- [ ] https://jobs.lever.co/spotify/5d02ff20-ef44-49cc-84c9-feb1159e3460 | Spotify | Backend Engineer - Data Platform | NYC (verify remote) | ★ 3.8/5 — data platform pipelines at scale; verify US remote before applying
+- [ ] https://jobs.ashbyhq.com/langchain/2c93e40b-8fc0-452c-9bbb-8c5b5c0dc8d7 | LangChain | Infrastructure Engineer (LangGraph Platform) | Remote US | ★ 3.8/5 — infra for agent orchestration platform; NEW role not previously seen
+- [ ] https://jobs.ashbyhq.com/anyscale/8691daef-bfe5-4d01-871f-cf2226ba0c82 | Anyscale | Software Engineer, Infrastructure | SF hybrid | ★ 3.7/5 — K8s control/data plane at Ray/ML compute company; Anyscale moved from Lever to Ashby
+- [ ] https://nuro.ai/careersitem?gh_jid=7839597 | Nuro | Senior Software Engineer, Software Update Infrastructure | SF Bay Area | ★ 3.6/5 — OTA update infra pipelines at AV company; interesting but narrower than top picks
+
 ### Scout Scan (2026-04-29)
 
 #### Top Picks (4.0+)
