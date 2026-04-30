@@ -1903,3 +1903,8 @@
   <!-- Anduril | Software Engineer - Simulation Integrations | Seattle, WA -->
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5195866008
   <!-- Anthropic | [PIP] Product Management, Human Data Platform | SF / NYC — NOTE: PM role, [PIP] tag unusual -->
+
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5125189007
+  <!-- Anduril | C++ Mission Software Engineer, Mission Autonomy | Costa Mesa, CA / Seattle, WA / DC -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5125172007
+  <!-- Anduril | Rust Software Engineer, Air Vehicle Autonomy | Costa Mesa, CA / Seattle, WA / DC -->

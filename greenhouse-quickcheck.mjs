@@ -29,8 +29,8 @@ const NEGATIVE_KEYWORDS = [
 
 // Accepted locations (case-insensitive match)
 const ACCEPT_LOCATIONS = [
-  'remote', 'denver', 'san francisco', 'sf', 'los gatos', 'seattle', 'bend',
-  'united states', 'us', // catch broad "US Remote" tags
+  'remote', 'denver', 'san francisco', 'bay area', 'sf,', ' sf ', 'los gatos',
+  'seattle', 'bend, or', 'bend,or',
 ];
 // NYC/Chicago only accepted if "remote" also appears
 const NYC_CHICAGO = ['new york', 'nyc', 'chicago'];
@@ -98,40 +98,44 @@ function locationAccepted(location) {
   return false;
 }
 
-// ── Load scan history (job IDs already seen) ──────────────────────────────────
-function loadSeenIds() {
-  const histPath = path.join(__dirname, 'data/scan-history.tsv');
-  if (!fs.existsSync(histPath)) return new Set();
+// Normalize a Greenhouse URL by stripping ?gh_jid= query params for dedup
+function normalizeUrl(url) {
+  try {
+    const u = new URL(url);
+    u.searchParams.delete('gh_jid');
+    return u.toString();
+  } catch {
+    return url;
+  }
+}
+
+// ── Load seen URLs from scan-history.tsv (column 0) + pipeline.md ────────────
+function loadSeenUrls() {
   const seen = new Set();
-  const content = fs.readFileSync(histPath, 'utf8');
-  for (const line of content.split('\n')) {
-    const parts = line.split('\t');
-    // Format: date \t id \t company \t title \t url \t location \t status
-    // Try to grab the ID from column 1 (index 1)
-    if (parts.length >= 2 && parts[1]) {
-      seen.add(parts[1].trim());
-    }
-    // Also index 0 in case format is id-first
-    if (parts[0] && /^\d+$/.test(parts[0].trim())) {
-      seen.add(parts[0].trim());
+
+  // Primary: scan-history.tsv column 0 = URL
+  const histPath = path.join(__dirname, 'data/scan-history.tsv');
+  if (fs.existsSync(histPath)) {
+    for (const line of fs.readFileSync(histPath, 'utf8').split('\n')) {
+      const url = line.split('\t')[0].trim();
+      if (url.startsWith('http')) seen.add(normalizeUrl(url));
     }
   }
+
+  // Secondary: pipeline.md (catches any URL not yet in history)
+  const pipelinePath = path.join(__dirname, 'data/pipeline.md');
+  if (fs.existsSync(pipelinePath)) {
+    const urlRe = /https?:\/\/[^\s)>\]]+/g;
+    let m;
+    const content = fs.readFileSync(pipelinePath, 'utf8');
+    while ((m = urlRe.exec(content)) !== null) seen.add(normalizeUrl(m[0].trim()));
+  }
+
   return seen;
 }
 
-// Also build set of seen URLs from pipeline.md (belt-and-suspenders dedup)
-function loadSeenUrls() {
-  const pipelinePath = path.join(__dirname, 'data/pipeline.md');
-  if (!fs.existsSync(pipelinePath)) return new Set();
-  const seen = new Set();
-  const content = fs.readFileSync(pipelinePath, 'utf8');
-  const urlRe = /https?:\/\/[^\s)>\]]+/g;
-  let m;
-  while ((m = urlRe.exec(content)) !== null) {
-    seen.add(m[0].trim());
-  }
-  return seen;
-}
+// Keep legacy name for compat
+function loadSeenIds() { return new Set(); }
 
 // ── Fetch one company ─────────────────────────────────────────────────────────
 async function fetchCompany(company, seenIds, seenUrls) {
@@ -154,11 +158,11 @@ async function fetchCompany(company, seenIds, seenUrls) {
       const location = job.location?.name || '';
 
       if (seenIds.has(id)) continue;
-      if (seenUrls.has(url)) continue;
+      if (seenUrls.has(normalizeUrl(url))) continue;
       if (!titleMatches(title)) continue;
       if (!locationAccepted(location)) continue;
 
-      matches.push({ id, title, url, location, company: company.name });
+      matches.push({ id, title, url: normalizeUrl(url), location, company: company.name });
     }
 
     return { company: company.name, total: jobs.length, matches };
