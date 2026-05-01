@@ -2,6 +2,23 @@
 
 ## Pendientes
 
+### Scout Scan (2026-05-01)
+
+#### Top Picks (4.0+)
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5038049007 | Temporal | Senior Staff Software Engineer, Infrastructure | US Remote | ★ 4.6/5 — $260K–$325K; define multi-cloud infra strategy; 10+ yr bar; distributed systems / K8s direct match
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4676390006 | Chainguard | Staff Software Engineer (Developer Platform) | US/Canada/UK Remote | ★ 4.4/5 — $205K–$231K; Go + Argo Workflows + K8s + monorepo; agentic CI/CD platform; supply chain security niche
+- [ ] https://job-boards.greenhouse.io/dbtlabsinc/jobs/4686309005 | dbt Labs | Senior Engineering Manager - Infrastructure | US Remote | ★ 4.3/5 — $223K–$300K; lead 8–12 infra engineers; multi-cloud Terraform; Denver in select metro band
+- [ ] https://job-boards.greenhouse.io/runpod/jobs/5020164008 | RunPod | Engineering Manager - Product & Platform Delivery | Remote US | ★ 4.2/5 — $175K–$250K; Go + Python + K8s; 2+ yr EM meets bar; AI/ML GPU cloud infra
+- [ ] https://job-boards.greenhouse.io/dbtlabsinc/jobs/4663520005 | dbt Labs | Manager, Software Engineering (AI Platform) | US Remote | ★ 4.1/5 — $186K–$250K; 3+ yr EM meets bar; agent-first platform + MCP tools; dbt in Patrick's own stack
+- [ ] https://job-boards.greenhouse.io/dbtlabsinc/jobs/4685888005 | dbt Labs | Senior Platform Software Engineer, Transport | US Remote | ★ 4.0/5 — $147K–$198K; Go + Python + K8s + Terraform + cloud networking; multi-cell platform
+
+#### Other Matches (3.5–3.9)
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/4770137007 | Temporal | Senior Software Engineer, Cloud Data Storage | US Remote | ★ 3.9/5 — $176K–$237K; distributed storage + AWS + Go/Java; 5+ yr bar
+- [ ] https://jobs.ashbyhq.com/astronomer/01976be2-0e8a-43b3-9c2b-1937ee5eb5b7 | Astronomer | Staff Software Engineer, Platform Infrastructure | Remote (verify) | ★ 3.7/5 — Airflow company; platform infra; verify location and full JD
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/5643130 | Reddit | Staff Software Engineer - DataAPI (Kafka) | Remote US | ★ 3.7/5 — Kafka + Go + K8s + Flink; verify full JD before applying
+- [ ] https://jobs.ashbyhq.com/nerdwallet/f83dfa4c-198a-400d-b91d-21271b02415e | NerdWallet | Staff Data Engineer | Remote US | ★ 3.6/5 — staff DE; dbt/data warehouse stack likely; verify JD
+- [ ] https://jobs.ashbyhq.com/docker/73d919c7-232d-4ef3-87f3-19380be1e08d | Docker | Staff Software Engineer, Data Infrastructure | Remote (verify) | ★ 3.6/5 — data infra at iconic dev tools company; verify location
+
 ### Scout Scan (2026-04-30)
 
 #### Top Picks (4.0+)
