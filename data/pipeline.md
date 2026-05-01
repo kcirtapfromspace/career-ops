@@ -2,6 +2,14 @@
 
 ## Pendientes
 
+### Quick Check (2026-05-01)
+
+#### New Discoveries (awaiting evaluation)
+- [ ] https://www.samsara.com/company/careers/roles/7847219?gh_jid=7847219 | Samsara | Senior Software Engineer, Full-Stack - Forms | Remote - PA
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8531838002 | Databricks | AI Engineer - FDE (Forward Deployed Engineer) - U.S. Federal Sector | United States
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8532695002 | Databricks | Sr. Manager, Engineering | Mountain View, CA
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8532682002 | Databricks | Staff Software Engineer - AI Research Infrastructure | NYC / SF
+
 ### Scout Scan (2026-05-01)
 
 #### Top Picks (4.0+)
