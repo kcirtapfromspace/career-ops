@@ -51,3 +51,15 @@
 ---
 
 *Next full scan recommended if Quick Check yields < 10 new matches consistently — consider expanding to WebSearch and Playwright checks.*
+
+---
+
+## Round 2 (same day, second pass)
+
+**Run:** 2026-05-01 (afternoon)
+**New since last check:** **1**
+
+### Temporal
+- **Staff Software Engineer - AI SDK** | US Remote
+  https://job-boards.greenhouse.io/temporaltechnologies/jobs/5125079007
+  > New role on Temporal's board. SDK engineering for their workflow AI stack. Direct fit: distributed systems, Go/Python likely, US Remote. Temporal already has a Senior Staff Infra role in pipeline — this is a different team (SDK surface vs. infrastructure). Worth evaluating independently.

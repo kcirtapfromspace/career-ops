@@ -2,6 +2,12 @@
 
 ## Pendientes
 
+
+### Quick-Check Scan (2026-05-01)
+
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5125079007 | Temporal | Staff Software Engineer - AI SDK | United States, Remote Opportunity
+
+
 ### Quick Check (2026-05-01)
 
 #### New Discoveries (awaiting evaluation)
