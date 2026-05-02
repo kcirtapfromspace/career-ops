@@ -3,6 +3,17 @@
 ## Pendientes
 
 
+### Quick-Check Scan (2026-05-02) — Round 2
+
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5125189007?gh_jid=5125189007 | Anduril | C++ Mission Software Engineer, Mission Autonomy | Costa Mesa, California, United States; Seattle, Washington, United States; Washington, District of Columbia, United States
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5125172007?gh_jid=5125172007 | Anduril | Rust Software Engineer, Air Vehicle Autonomy | Costa Mesa, California, United States; Seattle, Washington, United States; Washington, District of Columbia, United States
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5121118007?gh_jid=5121118007 | Anduril | Senior Manager, Software Engineering (Carbon - Game Development) | Seattle, Washington, United States
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5124091007?gh_jid=5124091007 | Anduril | Senior Software Engineer, Simulation Integrations | Seattle, Washington, United States
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5120382007?gh_jid=5120382007 | Anduril | Software Engineer - Simulation Fidelity | Seattle, Washington, United States
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5120250007?gh_jid=5120250007 | Anduril | Software Engineer - Simulation Integrations | Seattle, Washington, United States
+
+
+
 ### Quick-Check Scan (2026-05-01)
 
 - [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5125079007 | Temporal | Staff Software Engineer - AI SDK | United States, Remote Opportunity
