@@ -1943,3 +1943,22 @@
   <!-- Anthropic | Staff Infrastructure Engineer, Cluster Infrastructure | SF / NYC / Seattle -->
 - [ ] https://job-boards.greenhouse.io/chainguard/jobs/4677727006
   <!-- Chainguard | Principal Software Engineer (Containers) | US Remote -->
+
+## Scout Scan — 2026-05-02
+
+- [ ] https://jobs.ashbyhq.com/confluent/6f9f7932-2647-4562-b10b-fe70eb27d007
+  <!-- Confluent | Manager II, Engineering – Secure Compute Platform | Remote US | Score: 4.4/5 -->
+- [ ] https://careers.airbnb.com/positions/7747259/
+  <!-- Airbnb | Senior Staff Machine Learning Engineer, Growth Platform Engineering | Remote US | Score: 4.0/5 -->
+- [ ] https://openai.com/careers/machine-learning-engineer-api-multicloud-san-francisco/
+  <!-- OpenAI | Machine Learning Engineer, API Multicloud | San Francisco, CA | Score: 4.0/5 -->
+- [ ] https://careers.airbnb.com/positions/7818982/
+  <!-- Airbnb | Senior Staff Software Engineer, Trust | Remote US | Score: 3.7/5 -->
+- [ ] https://jobs.ashbyhq.com/confluent/b983b962-a4ba-4157-a32e-d1eadf06311f
+  <!-- Confluent | Senior Software Engineer, Developer Productivity | Remote US | Score: 3.6/5 -->
+- [ ] https://jobs.ashbyhq.com/radar/290c1bf5-4a65-4317-95e7-a47c6add18c5
+  <!-- Radar | Senior / Staff Data Platform Engineer | Remote US | Score: 3.6/5 -->
+- [ ] https://www.skydio.com/jobs/7529911003
+  <!-- Skydio | Senior Software Engineer, Data Platform | San Mateo, CA | Score: 3.5/5 -->
+- [ ] https://jobs.lever.co/shieldai/6b5ee4dc-73d8-4222-81d2-0997bb2bbc53
+  <!-- Shield AI | Staff Engineer, Platform/SRE (R4187) | Washington, DC (on-site) | Score: 3.5/5 -->
