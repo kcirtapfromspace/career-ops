@@ -221,7 +221,7 @@ async function main() {
     ).join('\n') + '\n';
     fs.appendFileSync(histPath, tsv);
 
-    const section = `\n### Quick-Check Scan (${today}) — Round 2\n\n` +
+    const section = `\n### Quick-Check Scan (${today})\n\n` +
       newMatches.map(m => `- [ ] ${m.url} | ${m.company} | ${m.title} | ${m.location}`).join('\n') + '\n';
     // Prepend after the first line of pipeline.md (after the H1 + blank line)
     const existing = fs.readFileSync(pipelinePath, 'utf8');
