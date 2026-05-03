@@ -1973,3 +1973,24 @@
   <!-- Skydio | Senior Software Engineer, Data Platform | San Mateo, CA | Score: 3.5/5 -->
 - [ ] https://jobs.lever.co/shieldai/6b5ee4dc-73d8-4222-81d2-0997bb2bbc53
   <!-- Shield AI | Staff Engineer, Platform/SRE (R4187) | Washington, DC (on-site) | Score: 3.5/5 -->
+
+## Scout Scan — 2026-05-03
+
+- [ ] https://jobs.netflix.com/jobs/307826629
+  <!-- Netflix | Engineering Manager, Consumer ML Model Compute & Serving Foundations | Remote US | Score: 4.2/5 — ML infra EM archetype; compute/serving foundations; Netflix top-of-market comp $450K-750K -->
+- [ ] https://jobs.netflix.com/jobs/79043087
+  <!-- Netflix | Data Engineering Manager - Product Analytics | Remote US | Score: 4.1/5 — Core DE Manager archetype; Kafka/dbt/lake stack match; analytics org -->
+- [ ] https://jobs.netflix.com/jobs/294319141
+  <!-- Netflix | Senior Manager, Growth Data Engineering | Remote US | Score: 3.9/5 — Senior DE Manager; high bar (7+ yr EM) but growth data = high impact org -->
+- [ ] https://jobs.netflix.com/jobs/277520274
+  <!-- Netflix | Engineering Manager, Consolidated Logging | Remote US | Score: 3.8/5 — Observability EM; Patrick's VA.gov Watchtower superpower; DORA/Four Golden Signals alignment -->
+- [ ] https://jobs.netflix.com/jobs/285377726
+  <!-- Netflix | Engineering Manager, Machine Learning, Member | Remote US | Score: 3.8/5 — ML platform EM; member recommendations/personalization infra; strong archetype overlap -->
+- [ ] https://jobs.netflix.com/jobs/325661785
+  <!-- Netflix | ML Engineer L5, LLM Application Frameworks | Remote US | Score: 3.7/5 — IC LLM infra role; HHS NLP BERT experience adjacent; IC vs preferred EM -->
+- [ ] https://openai.com/careers/machine-learning-engineer-integrity-san-francisco/
+  <!-- OpenAI | Machine Learning Engineer, Integrity | San Francisco, CA | Score: 3.6/5 — ML safety classifiers; SF on-site (acceptable relocation); NLP/BERT adjacent -->
+- [ ] https://jobs.netflix.com/jobs/287587684
+  <!-- Netflix | Engineering Manager - Ads Platform Engineering | Remote US | Score: 3.5/5 — Ads platform EM; less direct data platform fit; top-tier comp -->
+- [ ] https://careers.airbnb.com/positions/7859591/
+  <!-- Airbnb | Engineering Manager, Checkout (Booking & Pricing) | Remote US | Score: 3.5/5 — EM at Airbnb; checkout/payments focus; $212K-265K base; less direct data platform fit -->
