@@ -2,7 +2,6 @@
 
 ## Pendientes
 
-
 ### Quick-Check Scan (2026-05-02) — Round 2
 
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5125189007?gh_jid=5125189007 | Anduril | C++ Mission Software Engineer, Mission Autonomy | Costa Mesa, California, United States; Seattle, Washington, United States; Washington, District of Columbia, United States
