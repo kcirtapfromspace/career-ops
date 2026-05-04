@@ -2,6 +2,10 @@
 
 ## Pendientes
 
+### Quick-Check Scan (2026-05-04)
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5205704008 | Anthropic | Staff+ Software Engineer, Public Sector | San Francisco, CA | New York City, NY
+
 ### Scout Scan (2026-05-04)
 
 #### Top Picks (4.0+)
