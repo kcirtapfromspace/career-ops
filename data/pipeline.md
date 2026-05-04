@@ -2,6 +2,20 @@
 
 ## Pendientes
 
+### Scout Scan (2026-05-04)
+
+#### Top Picks (4.0+)
+- [ ] https://jobs.ashbyhq.com/replit/d50ad15b-82d4-452f-b4ea-2a7f5e796170 | Replit | Staff Site Reliability Engineer | Remote US | ★ 4.3/5 — Staff SRE at fast-growing AI coding platform; K8s + infra automation; strong comp potential; new company to pipeline
+- [ ] https://jobs.ashbyhq.com/harvey/c2d6c21b-1563-4000-a8a3-b751c79535da | Harvey | Staff Software Engineer, Core Infrastructure | Remote US | ★ 4.2/5 — Staff IC at frontier legal AI unicorn; core infra/platform; top-tier comp; fast-growing; remote-first
+- [ ] https://jobs.ashbyhq.com/hopper/1ca9e381-8569-4111-b5e4-aa9ebb3ba5b5 | Hopper | Site Reliability Engineer - Platform Infrastructure | 100% Remote USA | ★ 4.0/5 — SRE at travel AI platform; Platform Infrastructure team; 100% remote US; new company to pipeline
+
+#### Other Matches (3.5–3.9)
+- [ ] https://jobs.ashbyhq.com/langfuse/1225fa3d-d590-41d2-b798-ef927320fb2e | Langfuse | Senior Backend Engineer, Data Infrastructure | Remote | ★ 3.8/5 — Open-source LLM observability platform (TB/day AI traces); data infrastructure backend; verify US remote eligibility and comp
+- [ ] https://jobs.ashbyhq.com/january/35aa9e72-1d7c-4309-a8fc-5caef905e554 | January | Senior ML Platform Engineer | Remote US | ★ 3.8/5 — MLOps/ML platform at consumer fintech; remote US; MLflow/CI/CD/model serving; verify comp ceiling
+- [ ] https://jobs.ashbyhq.com/kindred/7dc9acdd-4eda-44c4-b4db-78e095d5b727 | Kindred | Senior / Staff Data Engineer | Remote | ★ 3.7/5 — data engineering at AI-native company; Sr/Staff level; verify US remote and comp range
+- [ ] https://jobs.ashbyhq.com/vantageanalytics/ca2a1fca-1c9a-4a98-a6d6-110c73e536f1 | Vantage | Senior Site Reliability Engineer | Remote US | ★ 3.7/5 — cloud cost observability platform; senior SRE; remote-first; niche but interesting
+- [ ] https://jobs.ashbyhq.com/worldly/0341cbdd-121e-488b-9218-08c8418fe346 | Worldly | Senior Data Engineer | Remote US | ★ 3.5/5 — sustainability data platform; senior DE; remote US; verify tech stack and comp
+
 ### Quick-Check Scan (2026-05-02) — Round 2
 
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5125189007?gh_jid=5125189007 | Anduril | C++ Mission Software Engineer, Mission Autonomy | Costa Mesa, California, United States; Seattle, Washington, United States; Washington, District of Columbia, United States
