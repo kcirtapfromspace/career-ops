@@ -2,6 +2,29 @@
 
 ## Pendientes
 
+
+### Quick-Check Scan (2026-05-05)
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5210631008 | Anthropic | Engineering Manager, Marketplace | San Francisco, CA | Seattle, WA
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5210629008 | Anthropic | Engineering Manager, Passport  | San Francisco, CA | Seattle, WA
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7875509 | Contentful | Full Stack Software Engineer III | Denver, Colorado, United States
+- [ ] https://www.samsara.com/company/careers/roles/7839093?gh_jid=7839093 | Samsara | Senior AI Platform Engineer | Remote - FL
+- [ ] https://nuro.ai/careersitem?gh_jid=7896065 | Nuro | Senior Software Engineer, Autonomy Visualization | Mountain View, California (HQ)
+- [ ] https://nuro.ai/careersitem?gh_jid=7896050 | Nuro | Senior Software Engineer, Distributed Compute System | Mountain View, California (HQ)
+- [ ] https://nuro.ai/careersitem?gh_jid=7895271 | Nuro | Senior Software Engineer, ML Infrastructure | Mountain View, California (HQ)
+- [ ] https://nuro.ai/careersitem?gh_jid=7895640 | Nuro | Senior/Staff Software Engineer, Data Platform | Mountain View, California (HQ)
+- [ ] https://nuro.ai/careersitem?gh_jid=7895639 | Nuro | Senior/Staff Software Engineer, Labeling Platform | Mountain View, California (HQ)
+- [ ] https://nuro.ai/careersitem?gh_jid=7895638 | Nuro | Senior/Staff Software Engineer, ML Data Infrastructure | Mountain View, California (HQ)
+- [ ] https://nuro.ai/careersitem?gh_jid=7896063 | Nuro | Software Engineer, Autonomy Visualization | Mountain View, California (HQ)
+- [ ] https://nuro.ai/careersitem?gh_jid=7895644 | Nuro | Software Engineer, Data Platform | Mountain View, California (HQ)
+- [ ] https://nuro.ai/careersitem?gh_jid=7896051 | Nuro | Software Engineer, Distributed Compute System | Mountain View, California (HQ)
+- [ ] https://nuro.ai/careersitem?gh_jid=7895818 | Nuro | Software Engineer, ML Data Infrastructure | Mountain View, California (HQ)
+- [ ] https://nuro.ai/careersitem?gh_jid=7895273 | Nuro | Software Engineer, ML Infrastructure | Mountain View, California (HQ)
+- [ ] https://www.zipline.com/careers?gh_jid=7724772003 | Zipline | Senior Software Engineer, Autonomy Simulation & Validation | South San Francisco, California, USA
+- [ ] https://www.zipline.com/careers?gh_jid=7411621003 | Zipline | Senior Software Engineer – Datacenter Automation | South San Francisco, California, USA
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8532681002 | Databricks | Staff Software Engineer - AI Research Infrastructure | Mountain View, California; New York City, New York; San Francisco, California
+
+
 ### Scout Scan (2026-05-05)
 
 - [ ] https://job-boards.greenhouse.io/reddit/jobs/7772274
