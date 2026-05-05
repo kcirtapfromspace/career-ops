@@ -2,6 +2,11 @@
 
 ## Pendientes
 
+### Scout Scan (2026-05-05)
+
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/7772274
+  <!-- Reddit | Senior Staff Machine Learning Engineer, GenAI Platform | Remote US | Score: 4.5/5 — $292K-$409K, K8s/Go/Python/Terraform, LLM Gateway + MLOps, model observability; Watchtower proof point maps directly -->
+
 ### Quick-Check Scan (2026-05-04)
 
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5205704008 | Anthropic | Staff+ Software Engineer, Public Sector | San Francisco, CA | New York City, NY
