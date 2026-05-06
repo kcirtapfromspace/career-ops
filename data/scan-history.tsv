@@ -20820,16 +20820,43 @@ https://boards.greenhouse.io/andurilindustries/jobs/5130341007	2026-05-06	greenh
 https://boards.greenhouse.io/andurilindustries/jobs/5130340007	2026-05-06	greenhouse-api	Staff Software Engineer, QualityOS	Anduril	skipped_location
 https://job-boards.eu.greenhouse.io/polyai/jobs/4855037101	2026-05-06	greenhouse-api	Forward Deployed AI Engineer	PolyAI	skipped_location
 https://job-boards.eu.greenhouse.io/polyai/jobs/4853250101	2026-05-06	greenhouse-api	Senior Platform Engineer	PolyAI	skipped_location
-https://careers.hellofresh.com/global/en/job/7858597	2026-05-06	greenhouse-api	Senior Backend Engineer, Consumer	HelloFresh	skipped_location
-https://careers.hellofresh.com/global/en/job/7864484	2026-05-06	greenhouse-api	Senior Backend Engineer, Operations	HelloFresh	skipped_location
-https://n26.com/en-eu/careers/positions/7640893	2026-05-06	greenhouse-api	Backend Engineer - Engagement	N26	skipped_location
-https://n26.com/en-eu/careers/positions/7405138	2026-05-06	greenhouse-api	Site Reliability Engineer - Observability	N26	skipped_location
-https://wayve.firststage.co/jobs?gh_jid=8537458002	2026-05-06	greenhouse-api	Staff Cloud SRE – AI/ML Platform & GPU Compute	Wayve	skipped_location
-https://job-boards.eu.greenhouse.io/physicsx/jobs/4860241101	2026-05-06	greenhouse-api	Forward Deployed Software Engineer	PhysicsX	skipped_location
 https://www.fivetran.com/careers/job?gh_jid=7708843003	2026-05-06	greenhouse-api	Senior Software Engineer - Backend	Fivetran	skipped_location
 https://www.samsara.com/company/careers/roles/7891766	2026-05-06	greenhouse-api	Senior AI Platform Engineer	Samsara	skipped_location
-https://job-boards.greenhouse.io/rocketlab/jobs/7671368003	2026-05-06	greenhouse-api	Flight Software Engineer I - Electron	Rocket Lab	skipped_location
-https://job-boards.greenhouse.io/rocketlab/jobs/7722445003	2026-05-06	greenhouse-api	Flight Software Engineer II	Rocket Lab	skipped_location
-https://job-boards.greenhouse.io/rocketlab/jobs/7722430003	2026-05-06	greenhouse-api	Senior Flight Software Engineer I/II	Rocket Lab	skipped_location
 https://aurora.tech/jobs/8309046002	2026-05-06	greenhouse-api	Software Engineer, Planner Architecture	Aurora Innovation	skipped_location
-https://job-boards.greenhouse.io/clickhouse/jobs/5987507004	2026-05-06	greenhouse-api	Senior Software Engineer - Identity & Authorization Platform	Clickhouse	skipped_location
+https://boards-api.greenhouse.io/v1/boards/parloa/jobs	2026-05-06	greenhouse-api	(batch scan)	Parloa	scanned
+https://job-boards.greenhouse.io/parloa/jobs/4843556101	2026-05-06	greenhouse-api	Software Engineer, GTM	Parloa	added
+https://boards-api.greenhouse.io/v1/boards/speechmatics/jobs	2026-05-06	greenhouse-api	(batch scan)	Speechmatics	scanned
+https://boards-api.greenhouse.io/v1/boards/blackforestlabs/jobs	2026-05-06	greenhouse-api	(batch scan)	Black Forest Labs	scanned
+https://job-boards.greenhouse.io/blackforestlabs/jobs/4132230008	2026-05-06	greenhouse-api	Member of Technical Staff - ML Infrastructure Engineer	Black Forest Labs	added
+https://boards-api.greenhouse.io/v1/boards/helsing/jobs	2026-05-06	greenhouse-api	(batch scan)	Helsing	scanned
+https://job-boards.greenhouse.io/helsing/jobs/4729613101	2026-05-06	greenhouse-api	Software Engineer - Infrastructure	Helsing	added
+https://boards-api.greenhouse.io/v1/boards/getyourguide/jobs	2026-05-06	greenhouse-api	(batch scan)	GetYourGuide	scanned
+https://boards-api.greenhouse.io/v1/boards/hellofresh/jobs	2026-05-06	greenhouse-api	(batch scan)	HelloFresh	scanned
+https://job-boards.greenhouse.io/hellofresh/jobs/7731719	2026-05-06	greenhouse-api	Senior Infrastructure Engineer, Intelligent Platforms 	HelloFresh	added
+https://job-boards.greenhouse.io/hellofresh/jobs/7696242	2026-05-06	greenhouse-api	Senior Infrastructure Engineer, Intelligent Platforms 	HelloFresh	added
+https://boards-api.greenhouse.io/v1/boards/n26/jobs	2026-05-06	greenhouse-api	(batch scan)	N26	scanned
+https://boards-api.greenhouse.io/v1/boards/traderepublicbank/jobs	2026-05-06	greenhouse-api	(batch scan)	Trade Republic	scanned
+https://boards-api.greenhouse.io/v1/boards/sumup/jobs	2026-05-06	greenhouse-api	(batch scan)	SumUp	scanned
+https://boards-api.greenhouse.io/v1/boards/scandit/jobs	2026-05-06	greenhouse-api	(batch scan)	Scandit	scanned
+https://boards-api.greenhouse.io/v1/boards/wayve/jobs	2026-05-06	greenhouse-api	(batch scan)	Wayve	scanned
+https://job-boards.greenhouse.io/wayve/jobs/8483723002	2026-05-06	greenhouse-api	Cloud Infrastructure Engineer	Wayve	added
+https://job-boards.greenhouse.io/wayve/jobs/8435254002	2026-05-06	greenhouse-api	Machine Learning Engineer, App SW	Wayve	added
+https://job-boards.greenhouse.io/wayve/jobs/8465531002	2026-05-06	greenhouse-api	Principal Machine Learning Engineer, App SW	Wayve	added
+https://job-boards.greenhouse.io/wayve/jobs/8423176002	2026-05-06	greenhouse-api	Software Engineer - OS & Kernel, Robot Software	Wayve	added
+https://job-boards.greenhouse.io/wayve/jobs/8423839002	2026-05-06	greenhouse-api	Software Engineer - Sensor Systems, Robot Software	Wayve	added
+https://job-boards.greenhouse.io/wayve/jobs/8482117002	2026-05-06	greenhouse-api	Software Engineer - System Performance, Robot Software	Wayve	added
+https://job-boards.greenhouse.io/wayve/jobs/8519535002	2026-05-06	greenhouse-api	Tech Lead, ML Engineer - AV Product engineering	Wayve	added
+https://boards-api.greenhouse.io/v1/boards/isomorphiclabs/jobs	2026-05-06	greenhouse-api	(batch scan)	Isomorphic Labs	scanned
+https://boards-api.greenhouse.io/v1/boards/physicsx/jobs	2026-05-06	greenhouse-api	(batch scan)	PhysicsX	scanned
+https://boards-api.greenhouse.io/v1/boards/amplemarket/jobs	2026-05-06	greenhouse-api	(batch scan)	Amplemarket	scanned
+https://job-boards.greenhouse.io/amplemarket/jobs/4066899101	2026-05-06	greenhouse-api	Senior Backend Software Engineer	Amplemarket	added
+https://job-boards.greenhouse.io/amplemarket/jobs/4087603101	2026-05-06	greenhouse-api	Spontaneous Application - Engineering Manager	Amplemarket	added
+https://boards-api.greenhouse.io/v1/boards/rocketlab/jobs	2026-05-06	greenhouse-api	(batch scan)	Rocket Lab	scanned
+https://job-boards.greenhouse.io/rocketlab/jobs/7722445003	2026-05-06	greenhouse-api	Flight Software Engineer II 	Rocket Lab	added
+https://job-boards.greenhouse.io/rocketlab/jobs/7722430003	2026-05-06	greenhouse-api	Senior Flight Software Engineer I/II 	Rocket Lab	added
+https://boards-api.greenhouse.io/v1/boards/vast/jobs	2026-05-06	greenhouse-api	(batch scan)	Vast	scanned
+https://job-boards.greenhouse.io/vast/jobs/4623900006	2026-05-06	greenhouse-api	Manager, Engineering Information Systems	Vast	added
+https://job-boards.greenhouse.io/vast/jobs/4350635006	2026-05-06	greenhouse-api	Staff Flight Software Engineer	Vast	added
+https://job-boards.greenhouse.io/vast/jobs/4669157006	2026-05-06	greenhouse-api	Staff Software Engineer, AI Tooling	Vast	added
+https://job-boards.greenhouse.io/vast/jobs/4605289006	2026-05-06	greenhouse-api	Staff Software Engineer, Enterprise Applications	Vast	added
+https://job-boards.greenhouse.io/vast/jobs/4361481006	2026-05-06	greenhouse-api	Staff Software Engineer, Mission Software	Vast	added

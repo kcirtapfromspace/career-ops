@@ -2053,3 +2053,49 @@
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5130717007 | Anduril | Senior Software Engineer, Rust | Broomfield, CO (Denver metro)
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5130720007 | Anduril | Senior Software Engineer, State Estimation | Boulder, CO / Broomfield, CO
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5130341007 | Anduril | Staff Software Engineer, QualityOS | Seattle, WA
+
+
+### Quick-Check Part 2 (2026-05-06)
+
+- [ ] https://job-boards.greenhouse.io/parloa/jobs/4843556101
+  <!-- Parloa | Software Engineer, GTM | Remotely in the USA -->
+- [ ] https://job-boards.greenhouse.io/blackforestlabs/jobs/4132230008
+  <!-- Black Forest Labs | Member of Technical Staff - ML Infrastructure Engineer | Freiburg (Germany), San Francisco (USA) -->
+- [ ] https://job-boards.greenhouse.io/helsing/jobs/4729613101
+  <!-- Helsing | Software Engineer - Infrastructure | Washington, DC -->
+- [ ] https://job-boards.greenhouse.io/hellofresh/jobs/7731719
+  <!-- HelloFresh | Senior Infrastructure Engineer, Intelligent Platforms  | Newark, NJ, United States -->
+- [ ] https://job-boards.greenhouse.io/hellofresh/jobs/7696242
+  <!-- HelloFresh | Senior Infrastructure Engineer, Intelligent Platforms  | Goodyear, AZ, United States; Phoenix, AZ, United States -->
+- [ ] https://job-boards.greenhouse.io/wayve/jobs/8483723002
+  <!-- Wayve | Cloud Infrastructure Engineer | Sunnyvale -->
+- [ ] https://job-boards.greenhouse.io/wayve/jobs/8435254002
+  <!-- Wayve | Machine Learning Engineer, App SW | Sunnyvale -->
+- [ ] https://job-boards.greenhouse.io/wayve/jobs/8465531002
+  <!-- Wayve | Principal Machine Learning Engineer, App SW | Sunnyvale -->
+- [ ] https://job-boards.greenhouse.io/wayve/jobs/8423176002
+  <!-- Wayve | Software Engineer - OS & Kernel, Robot Software | Sunnyvale -->
+- [ ] https://job-boards.greenhouse.io/wayve/jobs/8423839002
+  <!-- Wayve | Software Engineer - Sensor Systems, Robot Software | Sunnyvale -->
+- [ ] https://job-boards.greenhouse.io/wayve/jobs/8482117002
+  <!-- Wayve | Software Engineer - System Performance, Robot Software | Sunnyvale -->
+- [ ] https://job-boards.greenhouse.io/wayve/jobs/8519535002
+  <!-- Wayve | Tech Lead, ML Engineer - AV Product engineering | Sunnyvale -->
+- [ ] https://job-boards.greenhouse.io/amplemarket/jobs/4066899101
+  <!-- Amplemarket | Senior Backend Software Engineer | Remote, EMEA/LATAM/North America -->
+- [ ] https://job-boards.greenhouse.io/amplemarket/jobs/4087603101
+  <!-- Amplemarket | Spontaneous Application - Engineering Manager | Remote, EMEA/LATAM/North America -->
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7722445003
+  <!-- Rocket Lab | Flight Software Engineer II  | Long Beach, CA -->
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7722430003
+  <!-- Rocket Lab | Senior Flight Software Engineer I/II  | Long Beach, CA -->
+- [ ] https://job-boards.greenhouse.io/vast/jobs/4623900006
+  <!-- Vast | Manager, Engineering Information Systems | Long Beach, California, United States -->
+- [ ] https://job-boards.greenhouse.io/vast/jobs/4350635006
+  <!-- Vast | Staff Flight Software Engineer | Long Beach, California, United States -->
+- [ ] https://job-boards.greenhouse.io/vast/jobs/4669157006
+  <!-- Vast | Staff Software Engineer, AI Tooling | Long Beach, California, United States -->
+- [ ] https://job-boards.greenhouse.io/vast/jobs/4605289006
+  <!-- Vast | Staff Software Engineer, Enterprise Applications | Long Beach, California, United States -->
+- [ ] https://job-boards.greenhouse.io/vast/jobs/4361481006
+  <!-- Vast | Staff Software Engineer, Mission Software | Long Beach, California, United States -->
