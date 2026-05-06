@@ -2047,3 +2047,9 @@
   <!-- Netflix | Engineering Manager - Ads Platform Engineering | Remote US | Score: 3.5/5 — Ads platform EM; less direct data platform fit; top-tier comp -->
 - [ ] https://careers.airbnb.com/positions/7859591/
   <!-- Airbnb | Engineering Manager, Checkout (Booking & Pricing) | Remote US | Score: 3.5/5 — EM at Airbnb; checkout/payments focus; $212K-265K base; less direct data platform fit -->
+
+### Quick-Check Scan (2026-05-06)
+
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5130717007 | Anduril | Senior Software Engineer, Rust | Broomfield, CO (Denver metro)
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5130720007 | Anduril | Senior Software Engineer, State Estimation | Boulder, CO / Broomfield, CO
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5130341007 | Anduril | Staff Software Engineer, QualityOS | Seattle, WA
