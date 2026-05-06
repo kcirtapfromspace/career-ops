@@ -3,6 +3,14 @@
 ## Pendientes
 
 
+### Scout Scan (2026-05-06)
+
+#### Top Picks (4.0+)
+- [ ] https://jobs.ashbyhq.com/rula/553f0da9-790b-429a-91b6-eeb193d8117d | Rula | Staff Data Engineer | US Remote | ★ 4.0/5 — Staff DE at mission-driven mental health platform; remote-first; dbt/Airflow/Python/Snowflake likely; $180K–$230K range; new to pipeline
+
+#### Other Matches (3.5–3.9)
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4688489005 | Scale AI | Database Engineer | SF / NYC | ★ 3.8/5 — previously skipped_title; database infra at frontier AI; Postgres/CDC/pgvector direct match; $200K+ comp expected; on-site SF/NYC required
+
 ### Quick-Check Scan (2026-05-05)
 
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5210631008 | Anthropic | Engineering Manager, Marketplace | San Francisco, CA | Seattle, WA
