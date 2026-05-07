@@ -3,6 +3,19 @@
 ## Pendientes
 
 
+### Quick-Check Scan (2026-05-07)
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5209776008 | Anthropic | Security Software Engineer, Platform Integration | New York City, NY; San Francisco, CA; Seattle, WA
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5211241008 | Anthropic | Staff Software Engineer, Kubernetes Platform | San Francisco, CA | New York City, NY | Seattle, WA
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5130717007?gh_jid=5130717007 | Anduril | Senior Software Engineer, Rust  | Broomfield, Colorado, United States
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5130720007?gh_jid=5130720007 | Anduril | Senior Software Engineer, State Estimation  | Boulder, Colorado, United States; Broomfield, Colorado, United States
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5130341007?gh_jid=5130341007 | Anduril | Staff Software Engineer, QualityOS | Seattle, Washington, United States
+- [ ] https://aurora.tech/jobs/8309046002?gh_jid=8309046002 | Aurora Innovation | Software Engineer, Planner Architecture | Mountain View, California
+- [ ] https://aurora.tech/jobs/8539943002?gh_jid=8539943002 | Aurora Innovation | Staff Client Platform Engineer | Seattle, Washington
+- [ ] https://aurora.tech/jobs/8539939002?gh_jid=8539939002 | Aurora Innovation | Staff Client Platform Engineer | San Francisco, California
+- [ ] https://nuro.ai/careersitem?gh_jid=7904958 | Nuro | Senior Software Engineer, Map Platform | Mountain View, California (HQ)
+
+
 ### Scout Scan (2026-05-07)
 
 #### Top Picks (4.0+)
