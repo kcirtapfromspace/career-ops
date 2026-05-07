@@ -75,3 +75,15 @@
 3. **Anthropic — Staff SWE, Kubernetes Platform (SF/NYC/Seattle)** — staff K8s at top AI lab
 4. **Anduril — Staff SWE, QualityOS (Seattle)** — staff platform role at dream company
 5. **Aurora Innovation — Staff Client Platform Engineer (Seattle/SF)** — staff platform, 2 cities
+
+---
+
+## Quick-Check Update (run 2 — 2026-05-07)
+
+**Method:** Greenhouse API re-scan (42 companies, 7,424 jobs seen)
+**Additional new matches:** 1
+
+### Databricks — Senior Staff Applied AI Engineer - Context Retrieval
+- **URL:** https://databricks.com/company/careers/open-positions/job?gh_jid=8540267002
+- **Location:** Mountain View, CA / San Francisco, CA
+- **Signal:** Senior Staff AI Engineer at $43B data+AI platform. Context Retrieval focus = RAG/embeddings infrastructure — squarely in Patrick's data/ML infra wheelhouse. SF office qualifies. Added to pipeline.

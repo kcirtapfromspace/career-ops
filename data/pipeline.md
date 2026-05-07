@@ -2125,3 +2125,6 @@
   <!-- Vast | Staff Software Engineer, Enterprise Applications | Long Beach, California, United States -->
 - [ ] https://job-boards.greenhouse.io/vast/jobs/4361481006
   <!-- Vast | Staff Software Engineer, Mission Software | Long Beach, California, United States -->
+
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8540267002
+  <!-- Databricks | Senior Staff Applied AI Engineer - Context Retrieval | Mountain View, California; San Francisco, California -->
