@@ -3,6 +3,19 @@
 ## Pendientes
 
 
+### Scout Scan (2026-05-07)
+
+#### Top Picks (4.0+)
+- [ ] https://jobs.ashbyhq.com/motherduck/0491624c-97ad-4a94-8bb2-f93b48d548a8 | MotherDuck | Software Engineer - Platform (Infra) | Remote US | ★ 4.3/5 — Platform/infra SE at DuckDB-native cloud analytics startup; distributed query engine + infra stack; remote-first; strong data engineering signal; comp likely $185K–$240K
+- [ ] https://jobs.ashbyhq.com/langchain/33f6d721-f75f-4fcc-8df9-e2a13c018e1c | LangChain | Software Engineering Manager, AI Observability & Evals Platform | San Francisco, CA | ★ 4.1/5 — EM for LangSmith (LLM observability platform); strong AI/MLOps alignment; Patrick's observability background (Watchtower, DORA) maps directly; verify remote option
+- [ ] https://jobs.ashbyhq.com/modal/81c083de-fe82-469e-b22e-9e84a3b8bdf1 | Modal | Systems Engineering Manager | Remote US | ★ 4.0/5 — EM at GPU-native serverless infra company; systems-level, high-growth AI infra; remote-first; new EM role not previously seen
+
+#### Other Matches (3.5–3.9)
+- [ ] https://jobs.ashbyhq.com/ramp/4960a5e4-9ee2-40c6-bb7f-a37c9e0e85a9 | Ramp | Senior Software Engineer, Infrastructure | Remote US | ★ 3.9/5 — senior infra SE at fast-growing fintech ($10B+); K8s + cloud infra; remote-friendly; comp likely $190K–$230K
+- [ ] https://jobs.ashbyhq.com/ramp/0ea43bb5-201b-4626-ae19-1d7ae3a3193f | Ramp | Software Engineer, Infrastructure | Remote US | ★ 3.7/5 — infra SE at Ramp; strong eng culture; verify seniority level and comp ceiling
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4678715006 | Chainguard | Staff Product Security Engineer | US Remote | ★ 3.7/5 — staff-level security/infra at supply chain security company; Go + K8s + containers; remote-first US; niche but interesting
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4679709006 | Chainguard | Staff Product Security Engineer | UK Remote | ★ 3.5/5 — UK location, lower priority; note as signal that role is actively staffing
+
 ### Scout Scan (2026-05-06)
 
 #### Top Picks (4.0+)
