@@ -3,6 +3,30 @@
 ## Pendientes
 
 
+### Scout Scan (2026-05-08)
+
+#### Top Picks (4.0+)
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5119529007 | Temporal | Staff Software Engineer, DevProd (Infrastructure Observability) | US Remote | ★ 4.5/5 — New posting (distinct ID from prior Temporal entry); observability + distributed systems/Go/K8s maps directly to VA.gov Watchtower (18M veterans) proof point; Temporal is Patrick's workflow orchestration wheelhouse
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7483663003 | Fivetran | Senior Staff Software Engineer - Binary Log Data Replication | Denver, CO | ★ 4.3/5 — Senior Staff at Patrick's home city; database replication/CDC directly in Patrick's data integration stack; Fivetran is a tier-1 data engineering company
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7544099 | Contentful | Data Engineer | Denver, Colorado | ★ 4.2/5 — Data engineer in Denver; dbt/Postgres/data pipeline stack matches Patrick's background; Contentful is a strong brand for portfolio; verify comp ceiling
+- [ ] https://jobs.ashbyhq.com/pinecone/71b61b1b-4585-4557-a614-9398860f80dd | Pinecone | Staff Software Engineer (Database Team) | Remote US | ★ 4.2/5 — Rust + AWS + K8s is direct stack match; distributed vector DB at the core of AI infra; Staff IC at a fast-growing AI infrastructure company
+- [ ] https://jobs.ashbyhq.com/rula/b0b93c04-fa61-4b74-a682-0866371cebae | Rula | Staff Software Engineer - Platform Infrastructure | Remote US | ★ 4.0/5 — NEW role (distinct from existing Rula Staff DE entry); K8s/infra focus; Rula is mission-driven (mental health); remote-first
+- [ ] https://jobs.ashbyhq.com/rula/61991f35-dce5-4eab-8e7c-0c1bf4276919 | Rula | Staff Software Engineer - SRE/DevEx | Remote US | ★ 4.0/5 — Staff SRE/DevEx at mission-driven company; reliability + developer experience; remote-first
+
+#### Other Matches (3.5–3.9)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5095627008 | Anthropic | Engineering Manager, Data Infrastructure | San Francisco, CA; New York, NY | ★ 3.9/5 — EM for data infra at frontier AI company; Patrick's data platform background maps well; SF/NYC on-site consideration
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5039367007 | Temporal | Senior Engineering Manager, Cloud Enablement | US Remote | ★ 3.9/5 — EM at workflow orchestration platform; Patrick has deep Argo Workflows / Temporal affinity; US remote
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8489179002 | GitLab | Engineering Manager, Infrastructure Platforms | Remote | ★ 3.9/5 — Remote EM at iconic DevOps company; distributed/K8s platform; all-remote culture fits Patrick well
+- [ ] https://jobs.ashbyhq.com/ramp/9912212c-2edd-4bdb-a18c-1087bcae0522 | Ramp | Staff Software Engineer, FedRAMP Infrastructure | Remote US | ★ 3.9/5 — Staff infra at fast-growing fintech; K8s + compute orchestration; FedRAMP alignment with Patrick's VA.gov government experience
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/7603834 | Planet Labs | Senior Software Engineering Manager | US Remote | ★ 3.9/5 — EM at satellite/geospatial company; US Remote; interesting domain; verify team size and data platform scope
+- [ ] https://job-boards.greenhouse.io/dagsterlabs/jobs/7602468003 | Dagster | Software Engineer - Enterprise Readiness | Remote US | ★ 3.8/5 — Data orchestration (Patrick's wheelhouse: dbt + Argo); enterprise platform features; remote US
+- [ ] https://jobs.ashbyhq.com/ramp/bca0346c-b843-4795-96df-6091f51e421b | Ramp | Software Engineer, Data Platform | Remote US | ★ 3.7/5 — Data platform SE at Ramp; Python/dbt/Kafka likely; strong engineering culture; verify level vs. Patrick's Staff target
+- [ ] http://stability.ai/careers?gh_jid=4679992101 | Stability AI | Senior Site Reliability Engineer | US Remote | ★ 3.7/5 — SRE at generative AI company; US remote; interesting AI infra domain; verify comp and company stability
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7544101 | Contentful | Analytics Engineer | Denver, CO | ★ 3.6/5 — Analytics engineering in Denver; dbt/data stack match; verify comp (analytics eng comp may be below Patrick's target)
+- [ ] https://jobs.ashbyhq.com/cohere/70664617-84f6-4ee8-a4f6-4037ebfda9db | Cohere | Senior Software Engineer, Agent Infrastructure | Remote US | ★ 3.6/5 — SE for agent infra at frontier LLM company; cloud/K8s/distributed systems; emerging AI infra domain
+- [ ] https://job-boards.greenhouse.io/appliedintuition/jobs/4663863005 | Applied Intuition | Engineering Manager, ML Platform and Infrastructure | likely Bay Area | ★ 3.6/5 — ML Platform EM at AV software company; strong eng culture; verify remote vs. on-site policy
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5111563007 | Temporal | Staff Software Engineer, Builder Tools | US Remote | ★ 3.6/5 — Staff SE at Temporal; developer tooling; complements Temporal workflow orchestration knowledge
+
 ### Quick-Check Scan (2026-05-07)
 
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5209776008 | Anthropic | Security Software Engineer, Platform Integration | New York City, NY; San Francisco, CA; Seattle, WA
