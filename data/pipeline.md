@@ -2152,3 +2152,16 @@
 
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8540267002
   <!-- Databricks | Senior Staff Applied AI Engineer - Context Retrieval | Mountain View, California; San Francisco, California -->
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5215028008
+  <!-- Anthropic | Staff + Sr. Software Engineer, Cloud Inference Launch Engineering | San Francisco, CA | Seattle, WA -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5133252007?gh_jid=5133252007
+  <!-- Anduril | Senior Software Engineer | Broomfield, Colorado, United States -->
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8539648002
+  <!-- Wayve | Principal Software Engineer, Robot Software | Sunnyvale -->
+- [ ] https://aurora.tech/jobs/8538482002?gh_jid=8538482002
+  <!-- Aurora Innovation | Staff Security Platform Engineer | Mountain View, California -->
+- [ ] https://aurora.tech/jobs/8539500002?gh_jid=8539500002
+  <!-- Aurora Innovation | Staff Security Platform Engineer | Seattle, Washington -->
+- [ ] https://aurora.tech/jobs/8539495002?gh_jid=8539495002
+  <!-- Aurora Innovation | Staff Security Platform Engineer | San Francisco, California -->
