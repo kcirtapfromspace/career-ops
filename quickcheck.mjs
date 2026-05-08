@@ -24,8 +24,13 @@ function titleMatches(title) {
   return POS_KEYWORDS.some(k => title.toLowerCase().includes(k.toLowerCase()));
 }
 
+// Explicit non-US country suffixes that disqualify a "Remote" listing
+const FOREIGN_REMOTE = /\b(canada|uk|united kingdom|germany|france|spain|netherlands|sweden|finland|norway|denmark|austria|switzerland|australia|india|brazil|ireland|portugal|poland|mexico|singapore|japan)\b/i;
+
 function locationAccepted(location) {
   if (!location) return false;
+  // Reject explicitly non-US remote postings
+  if (FOREIGN_REMOTE.test(location)) return false;
   if (/remote/i.test(location)) return true;
   if (/denver/i.test(location) || /san francisco/i.test(location) || /los gatos/i.test(location) ||
       /seattle/i.test(location) || /\bbend\b/i.test(location)) return true;
@@ -56,7 +61,7 @@ const companies = [
   { name: 'Hume AI', api: 'https://boards-api.greenhouse.io/v1/boards/humeai/jobs' },
   { name: 'Airtable', api: 'https://boards-api.greenhouse.io/v1/boards/airtable/jobs' },
   { name: 'Vercel', api: 'https://boards-api.greenhouse.io/v1/boards/vercel/jobs' },
-  { name: 'Temporal', api: 'https://boards-api.greenhouse.io/v1/boards/temporal/jobs' },
+  { name: 'Temporal', api: 'https://boards-api.greenhouse.io/v1/boards/temporaltechnologies/jobs' },
   { name: 'Arize AI', api: 'https://boards-api.greenhouse.io/v1/boards/arizeai/jobs' },
   { name: 'RunPod', api: 'https://boards-api.greenhouse.io/v1/boards/runpod/jobs' },
   { name: 'Glean', api: 'https://boards-api.greenhouse.io/v1/boards/gleanwork/jobs' },
@@ -89,7 +94,7 @@ const companies = [
   { name: 'Vast', api: 'https://boards-api.greenhouse.io/v1/boards/vast/jobs' },
   { name: 'Aurora Innovation', api: 'https://boards-api.greenhouse.io/v1/boards/aurorainnovation/jobs' },
   { name: 'Nuro', api: 'https://boards-api.greenhouse.io/v1/boards/nuro/jobs' },
-  { name: 'Zipline', api: 'https://boards-api.greenhouse.io/v1/boards/ziplineofficial/jobs' },
+  { name: 'Zipline', api: 'https://boards-api.greenhouse.io/v1/boards/flyzipline/jobs' },
   { name: 'Figure AI', api: 'https://boards-api.greenhouse.io/v1/boards/figureai/jobs' },
   { name: 'Planet Labs', api: 'https://boards-api.greenhouse.io/v1/boards/planetlabs/jobs' },
   { name: 'Scale AI', api: 'https://boards-api.greenhouse.io/v1/boards/scaleai/jobs' },
