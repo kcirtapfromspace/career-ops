@@ -3,6 +3,21 @@
 ## Pendientes
 
 
+### Quick-Check Scan (2026-05-10) — Round 2
+
+#### Anthropic (1 new)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5215028008 | Anthropic | Staff + Sr. Software Engineer, Cloud Inference Launch Engineering | San Francisco, CA / Seattle, WA
+
+#### Anduril (1 new)
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5133252007?gh_jid=5133252007 | Anduril | Senior Software Engineer | Broomfield, Colorado (Denver metro)
+
+#### Aurora Innovation (3 new — same role, 3 locations)
+- [ ] https://aurora.tech/jobs/8539495002?gh_jid=8539495002 | Aurora Innovation | Staff Security Platform Engineer | San Francisco, CA
+- [ ] https://aurora.tech/jobs/8539500002?gh_jid=8539500002 | Aurora Innovation | Staff Security Platform Engineer | Seattle, WA
+- [ ] https://aurora.tech/jobs/8538482002?gh_jid=8538482002 | Aurora Innovation | Staff Security Platform Engineer | Mountain View, CA
+
+---
+
 ### Quick-Check Scan (2026-05-10)
 
 #### Temporal — full board refresh (20 new IDs, all Remote-US)
