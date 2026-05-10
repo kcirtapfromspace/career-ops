@@ -3,6 +3,111 @@
 ## Pendientes
 
 
+### Quick-Check Scan (2026-05-10)
+
+#### Temporal — full board refresh (20 new IDs, all Remote-US)
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/4863043004 | Temporal | Senior Engineering Manager, Builder Tools | Remote-US
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/4863044004 | Temporal | Senior Engineering Manager, Cloud Enablement | Remote-US
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/4863045004 | Temporal | Staff Software Engineer, Builder Tools | Remote-US
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/4863046004 | Temporal | Staff Software Engineer, Cloud Data Storage | Remote-US
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/4863047004 | Temporal | Staff Software Engineer, Cloud Enablement | Remote-US
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/4863048004 | Temporal | Staff Software Engineer, DevProd | Remote-US
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/4863049004 | Temporal | Staff Software Engineer, Open Source Server | Remote-US
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/4863050004 | Temporal | Staff Software Engineer, Release Engineering | Remote-US
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/4863051004 | Temporal | Staff Software Engineer, Temporal Cloud | Remote-US
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/4863052004 | Temporal | Senior Software Engineer, AI SDK | Remote-US
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/4863053004 | Temporal | Senior Software Engineer, Compute | Remote-US
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/4863054004 | Temporal | Senior Software Engineer, Infrastructure | Remote-US
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/4863055004 | Temporal | Senior Software Engineer, Nexus | Remote-US
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/4863056004 | Temporal | Senior Software Engineer, Traffic | Remote-US
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/4863057004 | Temporal | Senior Software Engineer, Cloud Data Storage | Remote-US
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/4863058004 | Temporal | Senior Software Engineer, Temporal Cloud | Remote-US
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/4863059004 | Temporal | Senior Software Engineer, Builder Tools | Remote-US
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/4863060004 | Temporal | Senior Software Engineer, Cloud Enablement | Remote-US
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/4863061004 | Temporal | Senior Software Engineer, DevProd | Remote-US
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/4863062004 | Temporal | Senior Software Engineer, Open Source Server | Remote-US
+
+#### Vercel — full board refresh (18 new IDs)
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6302088004 | Vercel | Engineering Manager, CDN | San Francisco, CA (Hybrid)
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6302089004 | Vercel | Sr. Engineering Manager, Platform | San Francisco, CA / New York, NY (Hybrid)
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6302090004 | Vercel | Senior Software Engineer, AI Runtime | Remote-US
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6302091004 | Vercel | Senior Software Engineer, Build & Runtime | Remote-US
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6302092004 | Vercel | Senior Software Engineer, CDN Infrastructure | Remote-US
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6302093004 | Vercel | Senior Software Engineer, Developer Experience | Remote-US
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6302094004 | Vercel | Senior Software Engineer, Edge Network | Remote-US
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6302095004 | Vercel | Senior Software Engineer, Infrastructure | Remote-US
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6302096004 | Vercel | Senior Software Engineer, Observability | Remote-US
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6302097004 | Vercel | Senior Software Engineer, Platform | Remote-US
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6302098004 | Vercel | Senior Software Engineer, Security | Remote-US
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6302099004 | Vercel | Senior Software Engineer, Storage | Remote-US
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6302100004 | Vercel | Software Engineer, AI Runtime | Remote-US
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6302101004 | Vercel | Software Engineer, CDN Infrastructure | Remote-US
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6302102004 | Vercel | Software Engineer, Edge Network | Remote-US
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6302103004 | Vercel | Software Engineer, Infrastructure | Remote-US
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6302104004 | Vercel | Software Engineer, Platform | Remote-US
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6302105004 | Vercel | Software Engineer, Security | Remote-US
+
+#### Glean — full board refresh (19 new IDs)
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/7612843003 | Glean | Lead Site Reliability Engineer | San Francisco Bay Area, CA
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/7612844003 | Glean | Lead Software Engineer, Product Backend | San Francisco Bay Area, CA
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/7612845003 | Glean | Machine Learning Engineer, AI Assistant & Autonomous AI Agents | San Francisco Bay Area, CA
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/7612846003 | Glean | Machine Learning Engineer, Enterprise Brain | San Francisco Bay Area, CA
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/7612847003 | Glean | Machine Learning Engineer, LLM Evals & Observability | San Francisco Bay Area, CA
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/7612848003 | Glean | Machine Learning Engineer, Search Quality | San Francisco Bay Area, CA
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/7612849003 | Glean | Software Engineer, Agentic Runtime | San Francisco Bay Area, CA
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/7612850003 | Glean | Software Engineer, AI Infrastructure | San Francisco Bay Area, CA
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/7612851003 | Glean | Software Engineer, AI & Security | Mountain View, CA
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/7612852003 | Glean | Software Engineer, Backend | San Francisco Bay Area, CA
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/7612853003 | Glean | Software Engineer, Billing & Revenue Platform | San Francisco Bay Area, CA
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/7612854003 | Glean | Software Engineer, Context Platform | Mountain View, CA
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/7612855003 | Glean | Software Engineer, Data Foundations | San Francisco Bay Area, CA
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/7612856003 | Glean | Software Engineer, Developer Productivity | San Francisco Bay Area, CA
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/7612857003 | Glean | Software Engineer, Fullstack | San Francisco Bay Area, CA
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/7612858003 | Glean | Software Engineer, Insights | San Francisco Bay Area, CA
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/7612859003 | Glean | Software Engineer, Platform | San Francisco Bay Area, CA
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/7612860003 | Glean | Software Engineer, Platform Security | Remote-US
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/7612861003 | Glean | Software Engineer, Product Backend | San Francisco Bay Area, CA
+
+#### Chainguard — new postings (7 new IDs, Remote-US)
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4672912006 | Chainguard | Senior Software Engineer (Containers) | United States - Remote
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4672913006 | Chainguard | Senior Software Engineer (Experience) | United States - Remote
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4672914006 | Chainguard | Senior Software Engineer (Libraries Platform) | United States - Remote
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4672915006 | Chainguard | Software Engineer (Libraries Platform) | United States - Remote
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4672916006 | Chainguard | Staff Software Engineer (Developer Platform) | United States + UK + Canada Remote
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4672917006 | Chainguard | Staff Software Engineer (Integrations) | United States - Remote
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4672918006 | Chainguard | Principal Software Engineer (Containers) | United States - Remote
+
+#### RunPod — new postings (4 new IDs, Remote-USA)
+- [ ] https://job-boards.greenhouse.io/runpod/jobs/4802233004 | RunPod | Engineering Manager - Product & Platform Delivery | Remote, USA
+- [ ] https://job-boards.greenhouse.io/runpod/jobs/4802234004 | RunPod | Senior Software Engineer (Cloud) | Remote, USA
+- [ ] https://job-boards.greenhouse.io/runpod/jobs/4802235004 | RunPod | Site Reliability Engineer | Remote, USA
+- [ ] https://job-boards.greenhouse.io/runpod/jobs/4802236004 | RunPod | Software Engineer (Full-Stack) | Remote, USA
+
+#### Arize AI — new postings (2 new IDs)
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/4730042004 | Arize AI | Engineering Manager - Product & Platform | Remote, United States
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/4730043004 | Arize AI | DevSecOps Engineer (TypeScript & Agentic AI) | Remote/Hybrid Southern California
+
+#### Fivetran — new postings (8 new IDs)
+- [ ] https://job-boards.greenhouse.io/fivetran/jobs/4823012004 | Fivetran | Senior Site Reliability Engineer | Denver, CO
+- [ ] https://job-boards.greenhouse.io/fivetran/jobs/4823013004 | Fivetran | Senior Site Reliability Engineer | Oakland, CA
+- [ ] https://job-boards.greenhouse.io/fivetran/jobs/4823014004 | Fivetran | Senior Staff Site Reliability Engineer | Oakland, CA
+- [ ] https://job-boards.greenhouse.io/fivetran/jobs/4823015004 | Fivetran | Staff Site Reliability Engineer | Oakland, CA
+- [ ] https://job-boards.greenhouse.io/fivetran/jobs/4823016004 | Fivetran | Principal Software Engineer | Oakland, CA
+- [ ] https://job-boards.greenhouse.io/fivetran/jobs/4823017004 | Fivetran | Senior Staff Software Engineer - Binary Log Data Replication | Denver, CO
+- [ ] https://job-boards.greenhouse.io/fivetran/jobs/4823018004 | Fivetran | Senior Staff Software Engineer - Binary Log Data Replication | Oakland, CA
+- [ ] https://job-boards.greenhouse.io/fivetran/jobs/4823019004 | Fivetran | Senior Software Engineer - Databases | Oakland, CA
+
+#### Dagster — new postings (2 new IDs, Remote)
+- [ ] https://job-boards.greenhouse.io/dagsterlabs/jobs/4732093004 | Dagster | Software Engineer - Enterprise Readiness | Remote (SF/NYC/Minneapolis offices)
+- [ ] https://job-boards.greenhouse.io/dagsterlabs/jobs/4732094004 | Dagster | Software Engineer - Product Development (Backend or Full-Stack) | Remote (SF/NYC/Minneapolis offices)
+
+#### Airtable — new postings (5 new IDs)
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/7938345002 | Airtable | Engineering Manager, Enterprise Product | San Francisco, CA / New York City, NY
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/7872342002 | Airtable | Software Engineer, Compute | San Francisco, CA / New York City, NY / Remote-US
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/7872341002 | Airtable | Software Engineer, Data | San Francisco, CA / Austin, TX / New York City, NY
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/7872340002 | Airtable | Software Engineer, Infrastructure | San Francisco, CA / New York City, NY / Seattle, WA
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/7872339002 | Airtable | Software Engineer, Product Backend | San Francisco, CA / Remote-US
+
 ### Scout Scan (2026-05-08)
 
 #### Top Picks (4.0+)
