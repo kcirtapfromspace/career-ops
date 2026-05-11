@@ -1,8 +1,8 @@
 # Quick-Check Scout Note — 2026-05-11
 
-**Type:** Greenhouse API quick-check (42 companies)
+**Type:** Greenhouse API quick-check (52 companies)
 **Triggered by:** Scout agent (Patrick Deutsch)
-**Dedup base:** 13,068 known URLs (scan-history.tsv)
+**Dedup base:** 13,070 known URLs (scan-history.tsv)
 
 ---
 
@@ -10,10 +10,10 @@
 
 | Metric | Value |
 |--------|-------|
-| Companies scanned | 42 |
-| Jobs fetched | ~7,450 |
-| New matches added | **4** |
-| Errors | 0 |
+| Companies scanned | 52 configured (41 reachable) |
+| Jobs fetched | 5,539 |
+| New matches added | **2** |
+| Errors | 1 (Anduril ENOBUFS — too large for curl spawn buffer) |
 | Added to pipeline | ✅ |
 | Scan-history updated | ✅ |
 
@@ -21,49 +21,43 @@
 
 ## New Matches
 
-### 1. Anduril — Software Engineer, Air Defense ⭐⭐⭐
-- **URL:** https://boards.greenhouse.io/andurilindustries/jobs/5134169007?gh_jid=5134169007
-- **Location:** Broomfield, Colorado, United States (Denver metro)
-- **Why:** New Anduril role in Denver metro — different from yesterday's generic "Senior Software Engineer" (5133252007). "Air Defense" domain = software for air defense systems, Anduril's Pulsar/Lattice stack. Dream company + local. Evaluate before yesterday's generic SE posting.
-- **Action:** Prioritize evaluation
+### 1. Anthropic — Staff+ Software Engineer, Privacy
+- **URL:** https://job-boards.greenhouse.io/anthropic/jobs/5159146008
+- **Location:** San Francisco, CA | New York City, NY | Seattle, WA
+- **Why:** Staff+ level at Anthropic in a privacy-focused infrastructure/systems role. SF and Seattle qualify outright; NYC is covered by multi-location posting. Anthropic is a dream-tier company.
+- **Action:** Evaluate
 
-### 2. Wayve — Principal Software Engineer, Robot Software
-- **URL:** https://wayve.firststage.co/jobs?gh_jid=8539648002
-- **Location:** Sunnyvale, CA
-- **Why:** Principal-level SE at Wayve's US office. Wayve builds embodied AI for autonomous vehicles. Robot Software = firmware/embedded adjacent — verify JD to confirm this is platform/systems software vs. sensor/actuation stack. Wayve is UK-based (London HQ) but this posting is Sunnyvale. Relocation required unless hybrid is offered.
-- **Note:** `firststage.co` is Wayve's ATS proxy host for Greenhouse. URL valid.
-- **Action:** Check JD before adding to evaluation queue
-
-### 3. Nuro — Senior Software Engineer, Over-the-Air Updates
-- **URL:** https://nuro.ai/careersitem?gh_jid=7913297
-- **Location:** Mountain View, California (HQ)
-- **Why:** "Software Engineer" at Nuro (autonomous delivery vehicles). OTA Updates = managing firmware/software delivery pipeline for autonomous vehicles — similar to Tesla's OTA infra. Not remote; Mountain View on-site required.
-- **Note:** On-site Mountain View is accepted per location policy. Evaluate if open to Bay Area relocation.
-- **Action:** Low priority unless Patrick is considering Bay Area relocation
-
-### 4. Nuro — Program Manager, Data Quality ⚠️ FALSE POSITIVE
-- **URL:** https://nuro.ai/careersitem?gh_jid=7909358
-- **Location:** Mountain View, California (HQ)
-- **Why flagged:** "Program Manager, Data Quality" matched the title filter via the "manager, data" substring. This is a **PM/operations role**, not an engineering role. Should be discarded.
-- **Action:** Discard — not an engineering role
+### 2. Temporal — Senior Software Engineer, Compute (Temporal Cloud)
+- **URL:** https://job-boards.greenhouse.io/temporaltechnologies/jobs/5133728007
+- **Location:** United States — Remote
+- **Why:** Compute infrastructure for Temporal Cloud. Distributed systems, workflow orchestration, cloud-native stack. Fully remote US. Direct match on platform/infrastructure keywords.
+- **Action:** Evaluate
 
 ---
 
-## Companies with No New Matches (all current as of 2026-05-10)
+## Companies with No New Matches
 
-Anthropic, PolyAI, Parloa, Intercom, Hume AI, Airtable, Vercel, Temporal,
-Arize AI, RunPod, Glean, Speechmatics, Black Forest Labs, Helsing, Celonis,
-Contentful, GetYourGuide, HelloFresh, N26, Trade Republic, SumUp, Scandit,
-Isomorphic Labs, PhysicsX, Stability AI, Amplemarket, Dagster, Fivetran,
-Samsara, Chainguard, Rocket Lab, Vast, Aurora Innovation, Zipline,
-Figure AI, Planet Labs, Scale AI, Databricks, Clickhouse
+PolyAI, Parloa, Intercom, Hume AI, Airtable, Vercel, Arize AI, RunPod, Glean,
+Speechmatics, Black Forest Labs, Helsing, Celonis, Contentful, GetYourGuide,
+HelloFresh, N26, Trade Republic, SumUp, Scandit, Wayve, Isomorphic Labs, PhysicsX,
+Stability AI, Amplemarket, Samsara, Chainguard, Rocket Lab, Vast, Aurora Innovation,
+Nuro, Zipline, Figure AI, Planet Labs, Scale AI, Databricks, ClickHouse, Fivetran, Dagster
 
----
+## Failed / Skipped Companies
 
-## Filter Quality Note
-
-- **False positive rate:** 1/4 (Nuro PM role matched "manager, data" substring)
-- **Recommendation:** Tighten title filter by requiring "engineer" or "manager, *engineering*" rather than generic "manager, data" substring match. The current `POSITIVE` list uses lowercase `'manager, data'` which catches non-engineering PM titles.
+| Company | Reason |
+|---------|--------|
+| Anduril | ENOBUFS — response payload too large for curl spawn buffer |
+| Neon | Greenhouse board 404 (acquired by Databricks, moved) |
+| Shield AI | Moved to Lever |
+| Confluent | Moved to Ashby |
+| Snowflake | Moved to Ashby |
+| Prefect | Moved to Ashby |
+| Hermeus | Moved to Lever |
+| Joby Aviation | Moved to iCIMS |
+| Archer Aviation | Greenhouse board 404 |
+| Skydio | Greenhouse board 404 |
+| Hadrian | Moved to own careers page |
 
 ---
 
