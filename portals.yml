@@ -1065,5 +1065,5 @@ tracked_companies:
     careers_url: https://job-boards.greenhouse.io/tecloton
     scan_method: websearch
     scan_query: '"Tecton" careers "Engineer" site:jobs.ashbyhq.com OR site:job-boards.greenhouse.io'
-    notes: "Remote. ML feature platform. Founded by Uber Michelangelo team."
-    enabled: true
+    notes: "Acquired by Databricks (2025). Roles now at databricks.com/company/careers — tracked under Databricks entry. Greenhouse slug stale (404)."
+    enabled: false
