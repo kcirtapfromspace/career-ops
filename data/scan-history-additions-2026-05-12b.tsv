@@ -1,0 +1,8 @@
+url	first_seen	portal	title	company	status
+https://job-boards.greenhouse.io/anthropic/jobs/5204401008	2026-05-12	greenhouse-api	Senior Staff Software Engineer	Anthropic	matched
+https://job-boards.greenhouse.io/anthropic/jobs/5159146008	2026-05-12	greenhouse-api	Staff+ Software Engineer, Privacy	Anthropic	matched
+https://job-boards.greenhouse.io/temporaltechnologies/jobs/5133728007	2026-05-12	greenhouse-api	Senior Software Engineer, Compute (Temporal Cloud)	Temporal	matched
+https://job-boards.greenhouse.io/vercel/jobs/5993753004	2026-05-12	greenhouse-api	Software Engineer, Next.js	Vercel	matched
+https://job-boards.greenhouse.io/gleanwork/jobs/4694748005	2026-05-12	greenhouse-api	Software Engineer, University Grad	Glean	skipped_false_positive
+https://boards.greenhouse.io/andurilindustries/jobs/5135694007?gh_jid=5135694007	2026-05-12	greenhouse-api	Senior Software Engineer	Anduril	matched
+https://boards.greenhouse.io/andurilindustries/jobs/5134169007?gh_jid=5134169007	2026-05-12	greenhouse-api	Software Engineer, Air Defense	Anduril	matched
