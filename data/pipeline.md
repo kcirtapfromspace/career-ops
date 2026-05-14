@@ -2281,3 +2281,222 @@
 
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8540267002
   <!-- Databricks | Senior Staff Applied AI Engineer - Context Retrieval | Mountain View, California; San Francisco, California -->
+
+
+### Quick-Check Scan (2026-05-14)
+
+#### Anduril (3 new)
+
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5135694007?gh_jid=5135694007 | Anduril | Senior Software Engineer | Fort Collins, Colorado, United States
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5107246007?gh_jid=5107246007 | Anduril | Senior Software Engineer, Prototyping - Warfighter Systems | Mountain View, California, United States
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5134169007?gh_jid=5134169007 | Anduril | Software Engineer, Air Defense | Broomfield, Colorado, United States
+
+#### Temporal (1 new)
+
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/4163457007 | Temporal | Staff Software Engineer - Open Source Server | United States - Remote Opportunity
+
+#### Glean (8 new)
+
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4694716005 | Glean | Machine Learning Engineer, LLM Evals & Observability | Mountain View, CA
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4006735005 | Glean | Machine Learning Engineer, Search Quality | Mountain View, CA
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4605446005 | Glean | Software Engineer, AI & Security | Mountain View, CA
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4581643005 | Glean | Software Engineer, Backend | Mountain View, CA
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4675862005 | Glean | Software Engineer, Billing & Revenue Platform | Mountain View, CA
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4006734005 | Glean | Software Engineer, Fullstack | Mountain View, CA
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4659229005 | Glean | Software Engineer, Insights | San Francisco, CA
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4428090005 | Glean | Software Engineer, Product Backend | Mountain View, CA
+
+#### Wayve (1 new)
+
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8539648002 | Wayve | Principal Software Engineer, Robot Software | Sunnyvale
+
+#### Samsara (17 new)
+
+- [ ] https://www.samsara.com/company/careers/roles/7859406?gh_jid=7859406 | Samsara | Data Engineer II | Remote - US
+- [ ] https://www.samsara.com/company/careers/roles/7801077?gh_jid=7801077 | Samsara | Engineering Manager II | Remote - CA
+- [ ] https://www.samsara.com/company/careers/roles/7266435?gh_jid=7266435 | Samsara | Manager, Software Engineering - Mobile Platform | Remote - US
+- [ ] https://www.samsara.com/company/careers/roles/7266471?gh_jid=7266471 | Samsara | Senior Machine Learning Engineer - Platform | Remote - US
+- [ ] https://www.samsara.com/company/careers/roles/7266447?gh_jid=7266447 | Samsara | Senior Mobile Software Engineer - BLE / Connectivity | Remote - US
+- [ ] https://www.samsara.com/company/careers/roles/7266719?gh_jid=7266719 | Samsara | Senior Software Engineer, AI Platform | Remote - CA
+- [ ] https://www.samsara.com/company/careers/roles/7847219?gh_jid=7847219 | Samsara | Senior Software Engineer - Connected Workflows | Remote - US
+- [ ] https://www.samsara.com/company/careers/roles/7745837?gh_jid=7745837 | Samsara | Senior Software Engineer, Growth | Remote - US
+- [ ] https://www.samsara.com/company/careers/roles/7266469?gh_jid=7266469 | Samsara | Senior Software Engineer II - Mobile Platform | Remote - SF Bay Area
+- [ ] https://www.samsara.com/company/careers/roles/7569229?gh_jid=7569229 | Samsara | Senior Software Engineer - Route Execution | Remote - US
+- [ ] https://www.samsara.com/company/careers/roles/7266162?gh_jid=7266162 | Samsara | Senior Staff Software Engineer - STCE | Remote - US
+- [ ] https://www.samsara.com/company/careers/roles/7619925?gh_jid=7619925 | Samsara | Software Engineer II, AI Platform | Remote - CA
+- [ ] https://www.samsara.com/company/careers/roles/7266357?gh_jid=7266357 | Samsara | Staff Machine Learning Engineer - Edge AI | Remote - US
+- [ ] https://www.samsara.com/company/careers/roles/7597673?gh_jid=7597673 | Samsara | Staff Software Engineer | Remote - SF Bay Area
+- [ ] https://www.samsara.com/company/careers/roles/7588828?gh_jid=7588828 | Samsara | Staff Software Engineer - CAM | Remote - SF Bay Area
+- [ ] https://www.samsara.com/company/careers/roles/7266385?gh_jid=7266385 | Samsara | Staff Software Engineer - Platform | Remote - SF Bay Area
+- [ ] https://www.samsara.com/company/careers/roles/7559244?gh_jid=7559244 | Samsara | Staff Software Engineer - Security & Privacy | Remote - US
+
+#### Vast (1 new)
+
+- [ ] https://boards.greenhouse.io/vast/jobs/4677084006?gh_jid=4677084006 | Vast | Senior Software Engineer, Backend | Long Beach, California, United States
+
+#### Aurora Innovation (2 new)
+
+- [ ] https://aurora.tech/jobs/8520030002?gh_jid=8520030002 | Aurora Innovation | Senior Software Engineer, Sensor Infrastructure | Pittsburgh, Pennsylvania
+- [ ] https://aurora.tech/jobs/8539501002?gh_jid=8539501002 | Aurora Innovation | Staff Security Platform Engineer | Pittsburgh, Pennsylvania
+
+#### Nuro (50 new)
+
+- [ ] https://nuro.ai/careersitem?gh_jid=7917839 | Nuro | Full Stack Software Engineer, Fleet Platform and Operations Tooling | Mountain View, California (HQ)
+- [ ] https://nuro.ai/careersitem?gh_jid=7896065 | Nuro | Senior Software Engineer, Autonomy Visualization | Mountain View, California (HQ)
+- [ ] https://nuro.ai/careersitem?gh_jid=6953540 | Nuro | Senior Software Engineer, Behavior Planning | Mountain View, California (HQ)
+- [ ] https://nuro.ai/careersitem?gh_jid=7838557 | Nuro | Senior Software Engineer, Cloud Efficiency & Cost Optimization | Mountain View, California (HQ)
+- [ ] https://nuro.ai/careersitem?gh_jid=6926534 | Nuro | Senior Software Engineer, Collision Avoidance Testing | Mountain View, California (HQ)
+- [ ] https://nuro.ai/careersitem?gh_jid=7896050 | Nuro | Senior Software Engineer, Distributed Compute System | Mountain View, California (HQ)
+- [ ] https://nuro.ai/careersitem?gh_jid=6941199 | Nuro | Senior Software Engineer, Engineering Productivity | Mountain View, California (HQ)
+- [ ] https://nuro.ai/careersitem?gh_jid=7782682 | Nuro | Senior Software Engineer – GenAI Infrastructure & Agent Systems for Engineering Efficiency | Mountain View, California (HQ)
+- [ ] https://nuro.ai/careersitem?gh_jid=7003547 | Nuro | Senior Software Engineer, Localization and Mapping | Mountain View, California (HQ)
+- [ ] https://nuro.ai/careersitem?gh_jid=6824589 | Nuro | Senior Software Engineer, Machine Learning, 3D Reconstruction | Mountain View, California (HQ)
+- [ ] https://nuro.ai/careersitem?gh_jid=6849645 | Nuro | Senior Software Engineer, Machine Learning, Calibration  | Mountain View, California (HQ)
+- [ ] https://nuro.ai/careersitem?gh_jid=6623715 | Nuro | Senior Software Engineer, Machine Learning, Sensor Simulation | Mountain View, California (HQ)
+- [ ] https://nuro.ai/careersitem?gh_jid=7904958 | Nuro | Senior Software Engineer, Map Platform | Mountain View, California (HQ)
+- [ ] https://nuro.ai/careersitem?gh_jid=7296151 | Nuro | Senior Software Engineer, Middleware | Mountain View, California (HQ)
+- [ ] https://nuro.ai/careersitem?gh_jid=7895271 | Nuro | Senior Software Engineer, ML Infrastructure | Mountain View, California (HQ)
+- [ ] https://nuro.ai/careersitem?gh_jid=7551601 | Nuro | Senior Software Engineer, Networking & Real-Time Systems | Mountain View, California (HQ)
+- [ ] https://nuro.ai/careersitem?gh_jid=7701096 | Nuro | Senior Software Engineer, Onboard Autonomy | Mountain View, California (HQ)
+- [ ] https://nuro.ai/careersitem?gh_jid=7913297 | Nuro | Senior Software Engineer, Over-the-Air Updates. | Mountain View, California (HQ)
+- [ ] https://nuro.ai/careersitem?gh_jid=7389868 | Nuro | Senior Software Engineer, Perception ML Data | Mountain View, California (HQ)
+- [ ] https://nuro.ai/careersitem?gh_jid=7786596 | Nuro | Senior Software Engineer, Performance Tooling and Infrastructure | Mountain View, California (HQ)
+- [ ] https://nuro.ai/careersitem?gh_jid=7078804 | Nuro | Senior Software Engineer, Ride-Hailing Product | Mountain View, California (HQ)
+- [ ] https://nuro.ai/careersitem?gh_jid=6832319 | Nuro | Senior Software Engineer, Routing | Mountain View, California (HQ)
+- [ ] https://nuro.ai/careersitem?gh_jid=5401358 | Nuro | Senior Software Engineer, Simulation | Mountain View, California (HQ)
+- [ ] https://nuro.ai/careersitem?gh_jid=7398839 | Nuro | Senior Software Engineer, Teleoperation | Mountain View, California (HQ)
+- [ ] https://nuro.ai/careersitem?gh_jid=7280340 | Nuro | Senior Software Engineer, Video Streaming | Mountain View, California (HQ)
+- [ ] https://nuro.ai/careersitem?gh_jid=7243150 | Nuro | Senior/Staff Software Engineer,  Behavior Verification | Mountain View, California (HQ)
+- [ ] https://nuro.ai/careersitem?gh_jid=7895640 | Nuro | Senior/Staff Software Engineer, Data Platform | Mountain View, California (HQ)
+- [ ] https://nuro.ai/careersitem?gh_jid=7570197 | Nuro | Senior/Staff Software Engineer, Fault Response Verification | Mountain View, California (HQ)
+- [ ] https://nuro.ai/careersitem?gh_jid=7895639 | Nuro | Senior/Staff Software Engineer, Labeling Platform | Mountain View, California (HQ)
+- [ ] https://nuro.ai/careersitem?gh_jid=7137941 | Nuro | Senior/Staff Software Engineer, ML Data | Mountain View, California (HQ)
+- [ ] https://nuro.ai/careersitem?gh_jid=7895638 | Nuro | Senior/Staff Software Engineer, ML Data Infrastructure | Mountain View, California (HQ)
+- [ ] https://nuro.ai/careersitem?gh_jid=7896063 | Nuro | Software Engineer, Autonomy Visualization | Mountain View, California (HQ)
+- [ ] https://nuro.ai/careersitem?gh_jid=7895644 | Nuro | Software Engineer, Data Platform | Mountain View, California (HQ)
+- [ ] https://nuro.ai/careersitem?gh_jid=7896051 | Nuro | Software Engineer, Distributed Compute System | Mountain View, California (HQ)
+- [ ] https://nuro.ai/careersitem?gh_jid=7825886 | Nuro | Software Engineer, Middleware | Mountain View, California (HQ)
+- [ ] https://nuro.ai/careersitem?gh_jid=7895818 | Nuro | Software Engineer, ML Data Infrastructure | Mountain View, California (HQ)
+- [ ] https://nuro.ai/careersitem?gh_jid=7895273 | Nuro | Software Engineer, ML Infrastructure | Mountain View, California (HQ)
+- [ ] https://nuro.ai/careersitem?gh_jid=7481633 | Nuro | Software Engineer, Networking & Real-Time Systems | Mountain View, California (HQ)
+- [ ] https://nuro.ai/careersitem?gh_jid=7638789 | Nuro | Software Engineer, Offboard Infrastructure | Mountain View, California (HQ)
+- [ ] https://nuro.ai/careersitem?gh_jid=7638808 | Nuro | Software Engineer, Onboard Infrastructure | Mountain View, California (HQ)
+- [ ] https://nuro.ai/careersitem?gh_jid=7809136 | Nuro | Software Engineer, Onboard Systems | Mountain View, California (HQ)
+- [ ] https://nuro.ai/careersitem?gh_jid=7786521 | Nuro | Software Engineer, Performance Tooling and Infrastructure | Mountain View, California (HQ)
+- [ ] https://nuro.ai/careersitem?gh_jid=7463764 | Nuro | Software Engineer, Ride-Hailing Product | Mountain View, California (HQ)
+- [ ] https://nuro.ai/careersitem?gh_jid=7482347 | Nuro | Software Engineer, Routing | Mountain View, California (HQ)
+- [ ] https://nuro.ai/careersitem?gh_jid=7235419 | Nuro | Software Engineer, Software Update Infrastructure | Mountain View, California (HQ)
+- [ ] https://nuro.ai/careersitem?gh_jid=7481634 | Nuro | Software Engineer, Video Streaming | Mountain View, California (HQ)
+- [ ] https://nuro.ai/careersitem?gh_jid=7736012 | Nuro | Sr. Software Engineer, Perception Data Infrastructure | Mountain View, California (HQ)
+- [ ] https://nuro.ai/careersitem?gh_jid=7238934 | Nuro | Staff/Senior Software Engineer, Offboard Infrastructure | Mountain View, California (HQ)
+- [ ] https://nuro.ai/careersitem?gh_jid=7236603 | Nuro | Staff/Senior Software Engineer, Onboard Infrastructure | Mountain View, California (HQ)
+- [ ] https://nuro.ai/careersitem?gh_jid=7196037 | Nuro | Staff Software Engineer, Routing | Mountain View, California (HQ)
+
+#### Zipline (23 new)
+
+- [ ] https://www.zipline.com/careers?gh_jid=7516682003 | Zipline | Autonomy Platform Software Engineer | South San Francisco, California, USA
+- [ ] https://www.zipline.com/careers?gh_jid=6570283003 | Zipline | Autonomy Software Engineer | South San Francisco, California, USA
+- [ ] https://www.zipline.com/careers?gh_jid=7607673003 | Zipline | Fullstack - Data Platform (Autonomy)  | South San Francisco, California, USA
+- [ ] https://www.zipline.com/careers?gh_jid=6671255003 | Zipline | Senior Full Stack Software Engineer - Mapping | South San Francisco, California, USA
+- [ ] https://www.zipline.com/careers?gh_jid=7604074003 | Zipline | Senior Integration and Test Software Engineer - Long Range Platform  | South San Francisco, California, USA
+- [ ] https://www.zipline.com/careers?gh_jid=7663467003 | Zipline | Senior Manager, Data Platform & Autonomy Infrastructure | South San Francisco, California, USA
+- [ ] https://www.zipline.com/careers?gh_jid=7695756003 | Zipline | Senior Motion Planning Software Engineer | South San Francisco, California, USA
+- [ ] https://www.zipline.com/careers?gh_jid=4359039003 | Zipline | Senior or Staff Autonomy Software Engineer, Differential GNSS | South San Francisco, California, USA
+- [ ] https://www.zipline.com/careers?gh_jid=7656397003 | Zipline | Senior or Staff Software Engineer – Cloud Communications Platform | South San Francisco, California, USA
+- [ ] https://www.zipline.com/careers?gh_jid=5538733003 | Zipline | Senior Site Reliability Engineer | South San Francisco, California, USA
+- [ ] https://www.zipline.com/careers?gh_jid=7724772003 | Zipline | Senior Software Engineer, Autonomy Simulation & Validation | South San Francisco, California, USA
+- [ ] https://www.zipline.com/careers?gh_jid=7679440003 | Zipline | Senior Software Engineer, Commerce Platform | South San Francisco, California, USA
+- [ ] https://www.zipline.com/careers?gh_jid=7411621003 | Zipline | Senior Software Engineer – Datacenter Automation | South San Francisco, California, USA
+- [ ] https://www.zipline.com/careers?gh_jid=7676377003 | Zipline | Senior Software Engineer, Delivery Network Platform | South San Francisco, California, USA
+- [ ] https://www.zipline.com/careers?gh_jid=7303683003 | Zipline | Senior Software Engineer – Developer Productivity | South San Francisco, California, USA
+- [ ] https://www.zipline.com/careers?gh_jid=7674944003 | Zipline | Senior Software Engineer, Enterprise Systems | South San Francisco, California, USA
+- [ ] https://www.zipline.com/careers?gh_jid=6613418003 | Zipline | Senior Software Engineer - Field Systems | South San Francisco, California, USA
+- [ ] https://www.zipline.com/careers?gh_jid=7678102003 | Zipline | Senior Software Engineer - Maps Platform | South San Francisco, California, USA
+- [ ] https://www.zipline.com/careers?gh_jid=6641068003 | Zipline | Senior Software Engineer - Motor Controls | South San Francisco, California, USA
+- [ ] https://www.zipline.com/careers?gh_jid=7331341003 | Zipline | Senior Software Engineer – Rust Language Maintainer | South San Francisco, California, USA
+- [ ] https://www.zipline.com/careers?gh_jid=7564211003 | Zipline | Software Engineer - Systems Validation Infrastructure  | South San Francisco, California, USA
+- [ ] https://www.zipline.com/careers?gh_jid=7695759003 | Zipline | Staff Motion Planning Software Engineer | South San Francisco, California, USA
+- [ ] https://www.zipline.com/careers?gh_jid=5886248003 | Zipline | Staff Software Engineer - Sky Traffic Platform | South San Francisco, California, USA
+
+#### Databricks (80 new)
+
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8510921002 | Databricks | Engineering Manager - App Frameworks | Mountain View, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8467083002 | Databricks | Engineering Manager - Pipelines Engine | Mountain View, California; San Francisco, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8502969002 | Databricks | Engineering Manager, Spark Connect | Bellevue, Washington
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8324875002 | Databricks | Engineering Manager - Streaming | Bellevue, Washington
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8013809002 | Databricks | Engineering Manager - UI Platform | Seattle, Washington
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8490282002 | Databricks | Senior Engineering Manager, AI Runtime | Mountain View, California; San Francisco, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7987658002 | Databricks | Senior Engineering Manager for Workspace Platform | San Francisco, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8374884002 | Databricks | Senior Engineering Manager - Trust and Safety | Bellevue, Washington
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8180690002 | Databricks | Senior Engineering Manager - Trust and Safety | Mountain View, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8374883002 | Databricks | Senior Engineering Manager - Trust and Safety | Seattle, Washington
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=6954585002 | Databricks | Senior Machine Learning Engineer - GenAI Platform  | San Francisco, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8183195002 | Databricks | Senior Software Engineer  - Application Traffic team | Mountain View, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=6779084002 | Databricks | Senior Software Engineer - Backend | Bellevue, Washington
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=6544435002 | Databricks | Senior Software Engineer - Backend | Mountain View, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=4799387002 | Databricks | Senior Software Engineer - Backend | San Francisco, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8233899002 | Databricks | Senior Software Engineer (Backend) - AI/ML Environments | Mountain View, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8527117002 | Databricks | Senior Software Engineer, Compute Infrastructure | Mountain View, California; San Francisco, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=4513122002 | Databricks | Senior Software Engineer - Distributed Data Systems | San Francisco, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=6544325002 | Databricks | Senior Software Engineer - Distributed Data Systems | Mountain View, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=6936994002 | Databricks | Senior Software Engineer - Distributed Data Systems | Bellevue, Washington
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=6544403002 | Databricks | Senior Software Engineer - Fullstack | Seattle, Washington
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7898766002 | Databricks | Senior Software Engineer - Fullstack | Mountain View, California; San Francisco, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=5445641002 | Databricks | Senior Software Engineer - Fullstack | Mountain View, California; San Francisco, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=6318503002 | Databricks | Senior Software Engineer - Infrastructure and Tools | San Francisco, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8211648002 | Databricks | Senior Software Engineer, Model Serving | San Francisco, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8027404002 | Databricks | Senior Software Engineer  - Money Team | Bellevue, Washington
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7274459002 | Databricks | Senior Software Engineer - Security  | San Francisco, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7807722002 | Databricks | Senior Staff Software Engineer - App and Partner Ecosystem | Seattle, Washington
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7934466002 | Databricks | Senior Staff Software Engineer - Enzyme | Mountain View, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7274557002 | Databricks | Senior Staff Software Engineer - IAM | Seattle, Washington
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7274563002 | Databricks | Senior Staff Software Engineer - IAM | Mountain View, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8493002002 | Databricks | Senior Staff Software Engineer - Lakeflow Pipelines Datasets | Mountain View, California; San Francisco, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7274908002 | Databricks | Senior Staff Software Engineer - Security Infrastructure | Mountain View, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7274902002 | Databricks | Senior Staff Software Engineer - Security Infrastructure | Bellevue, Washington
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8202670002 | Databricks | Software Engineer - GenAI inference  | San Francisco, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8051883002 | Databricks |  Sr. Engineering Manager | Mountain View, California; San Francisco, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8436912002 | Databricks | Sr. Engineering Manager - Customer Experience Intelligence (CXI) | Mountain View, California; San Francisco, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8108743002 | Databricks | Sr. Engineering Manager  - Photon Team (San Francisco) | San Francisco, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7276195002 | Databricks | Sr. Machine Learning Engineer  | San Francisco, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8416951002 | Databricks | Sr Software Engineer- Customer Experience Intelligence (CXI) | Mountain View, California; San Francisco, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8493170002 | Databricks | Sr Software Engineer, Infrastructure | San Francisco, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8211452002 | Databricks | Sr Software Engineer-Networking | Mountain View, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8211450002 | Databricks | Sr Software Engineer-Networking | Bellevue, Washington
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=6569774002 | Databricks | Sr. Software Engineer - Performance | Mountain View, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=6569772002 | Databricks | Sr. Software Engineer - Performance  | San Francisco, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7823561002 | Databricks | Sr. Staff Software Engineer - Data Platform | Mountain View, California; San Francisco, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8285949002 | Databricks | Sr. Staff Software Engineer - Money Team | Bellevue, Washington
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8391889002 | Databricks | Sr. Staff Software Engineer, Observability  | Mountain View, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7993609002 | Databricks | Sr. Staff Software Engineer - Unity Catalog Data Governance | Bellevue, Washington
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8367023002 | Databricks | Staff Backend Software Engineer- (AI Platform) | San Francisco, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8367022002 | Databricks | Staff Backend Software Engineer- (AI Platform) | San Francisco, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8367019002 | Databricks | Staff Backend Software Engineer- (AI Platform) | San Francisco, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8367021002 | Databricks | Staff Backend Software Engineer- (AI Platform) | San Francisco, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8401114002 | Databricks | Staff Machine Learning Engineer  | San Francisco, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8532682002 | Databricks | Staff Software Engineer - AI Research Infrastructure | New York City, New York; San Francisco, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8532681002 | Databricks | Staff Software Engineer - AI Research Infrastructure | Mountain View, California; New York City, New York; San Francisco, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=6544443002 | Databricks | Staff Software Engineer - Backend | Mountain View, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=5408888002 | Databricks | Staff Software Engineer - Backend | San Francisco, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=6779233002 | Databricks | Staff Software Engineer - Backend | Bellevue, Washington
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=6779232002 | Databricks | Staff Software Engineer - Backend | Seattle, Washington
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8032546002 | Databricks | Staff Software Engineer - Customer Engagement & Docs Platform | San Francisco, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8416959002 | Databricks | Staff Software Engineer – Customer Experience Intelligence (CXI) | Mountain View, California; San Francisco, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=5646855002 | Databricks | Staff Software Engineer - Distributed Data Systems | San Francisco, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=6937001002 | Databricks | Staff Software Engineer - Distributed Data Systems | Bellevue, Washington
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=6544364002 | Databricks | Staff Software Engineer - Distributed Data Systems | Mountain View, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8224683002 | Databricks | Staff Software Engineer, Foundational Model Serving | San Francisco, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8202698002 | Databricks | Staff Software Engineer - GenAI inference | San Francisco, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8202700002 | Databricks | Staff Software Engineer - GenAI Performance and Kernel | San Francisco, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7994801002 | Databricks | Staff Software Engineer - IAM | Mountain View, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7994790002 | Databricks | Staff Software Engineer - IAM | Bellevue, Washington
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8298247002 | Databricks | Staff Software Engineer, Metrics and Logging | Mountain View, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8211647002 | Databricks | Staff Software Engineer, Model Serving  | San Francisco, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7111068002 | Databricks | Staff Software Engineer - Money Team | Bellevue, Washington
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8328675002 | Databricks | Staff Software Engineer, Observability  | Mountain View, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8295792002 | Databricks | Staff Software Engineer, Search Quality | Mountain View, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7994759002 | Databricks | Staff Software Engineer - Security Infrastructure | Bellevue, Washington
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7994770002 | Databricks | Staff Software Engineer - Security Infrastructure | Mountain View, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7979523002 | Databricks | Staff Software Engineer - User Activation | San Francisco, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8482037002 | Databricks | Systems PhD - Software Engineer  | Mountain View, California; San Francisco, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8482086002 | Databricks | Systems PhD - Software Engineer  | Bellevue, Washington; Seattle, Washington
