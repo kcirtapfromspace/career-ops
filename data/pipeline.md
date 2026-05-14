@@ -2500,3 +2500,18 @@
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7979523002 | Databricks | Staff Software Engineer - User Activation | San Francisco, California
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8482037002 | Databricks | Systems PhD - Software Engineer  | Mountain View, California; San Francisco, California
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8482086002 | Databricks | Systems PhD - Software Engineer  | Bellevue, Washington; Seattle, Washington
+
+### Scout Quick-Check — 2026-05-14
+
+#### Temporal
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5134414007 | Temporal | Software Engineer - AI SDK | United States or Canada - Remote Opportunity
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5107645007 | Temporal | Software Engineer, Nexus | United States - Remote Opportunity
+
+#### Black Forest Labs
+- [ ] https://job-boards.greenhouse.io/blackforestlabs/jobs/4132239008 | Black Forest Labs | Member of Technical Staff - Model Serving / API Backend Engineer | Freiburg, Germany / San Francisco, USA
+
+#### Wayve
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8465531002 | Wayve | Principal Machine Learning Engineer, App SW | Sunnyvale, CA (Bay Area)
+
+#### Planet Labs
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/7916937 | Planet Labs | Senior Software Engineer | United States, Remote
