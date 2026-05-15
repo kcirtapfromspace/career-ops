@@ -2,6 +2,56 @@
 
 ## Pendientes
 
+### Scout Scan (2026-05-15) — 36 new matches
+
+#### Tier S — Top Picks (4.5+)
+
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/4770121007 | Temporal | Staff Software Engineer - Cloud Global Services | US Remote | ★ 4.8 — Staff IC, $212K-$286K confirmed, multi-region cloud infra, Go
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/4672714007 | Temporal | Staff Software Engineer, Cloud Data Storage | US Remote | ★ 4.7 — Staff IC, $212K-$286K confirmed, Cassandra/etcd/ClickHouse/K8s, distributed storage
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4677727006 | Chainguard | Principal Software Engineer (Containers) | United States - Remote | ★ 4.7 — Principal, $229K-$258K confirmed, Go/K8s/Docker/Terraform, 10yr option window
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5042920007 | Temporal | Senior Software Engineer, DevProd (Infrastructure Observability) | US/Canada Remote | ★ 4.5 — $176K-$237K confirmed, ClickHouse/Prometheus/Grafana/Loki/Thanos/K8s stack
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5706417004 | ClickHouse | Senior Infrastructure Engineer - Postgres | US Remote | ★ 4.5 — $140K-$230K confirmed, Go/K8s/Terraform/Prometheus/Postgres, CDC proof point maps
+
+#### Tier A — Strong Matches (4.0–4.4)
+
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8442397002 | Airtable | Software Engineer, Compute (8+ YOE) | Remote-US / SF / NY | ★ 4.2 — $196K-$340K confirmed, K8s/Go/ArgoCD/Terraform, 70% hands-on
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8324875002 | Databricks | Engineering Manager - Streaming | Bellevue, WA (Seattle) | ★ 4.2 — $181K-$254K confirmed, leads Apache Spark Structured Streaming team, Kafka match
+- [ ] https://jobs.ashbyhq.com/openai/4f5a0df1-22d7-49a6-8ea1-c15c886fbade | OpenAI | Engineering Manager, Data Infrastructure | Remote-US | ★ 4.2 — EM at frontier AI co, 2.5PB+ internal warehouse; comp unconfirmed
+- [ ] https://jobs.ashbyhq.com/astronomer/01976be2-0e8a-43b3-9c2b-1937ee5eb5b7 | Astronomer | Staff Software Engineer, Data | Remote-US | ★ 4.2 — Staff at Airflow company, DB/platform strategy ownership; comp unconfirmed
+- [ ] https://www.samsara.com/company/careers/roles/7597673?gh_jid=7597673 | Samsara | Staff Software Engineer | Remote-US (SF final onsite) | ★ 4.0 — $162K-$290K confirmed, Staff IC, Go/Python/TS, distributed systems
+- [ ] https://jobs.ashbyhq.com/confluent/4ac58d2c-2003-4753-99e9-e35906297f28 | Confluent | Staff Software Engineer | Remote-US | ★ 4.0 — Staff at Kafka company, streaming/distributed systems domain; comp unconfirmed
+- [ ] https://jobs.ashbyhq.com/confluent/2b7f816b-9f5b-4023-b38d-46fd3e117298 | Confluent | Staff Software Engineer I - Stream Governance | Remote-US | ★ 4.0 — Staff, stream governance/data streaming platform; comp unconfirmed
+- [ ] https://nuro.ai/careersitem?gh_jid=7782682 | Nuro | Senior Software Engineer - GenAI Infrastructure & Agent Systems | Mountain View, CA | ★ 4.0 — GenAI+agent infra, Mountain View = accepted location
+
+#### Tier B — Notable Matches (3.5–3.9)
+
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5057973007 | Temporal | Senior Platform Architect | US Remote | ★ 3.9
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4675043006 | Chainguard | Senior Software Engineer (Containers) | US Remote | ★ 3.9
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5778617004 | ClickHouse | Cloud Database Infrastructure Engineer | US Remote | ★ 3.9
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8502969002 | Databricks | Engineering Manager, Spark Connect | Bellevue, WA (Seattle) | ★ 3.9
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5777065004 | ClickHouse | Senior Full Stack Software Engineer - ClickPipes Platform | US Remote | ★ 3.9
+- [ ] https://jobs.ashbyhq.com/confluent/993cd972-d032-4892-bf4f-804f056604a4 | Confluent | Senior Software Engineer II - Cloud Compute Platform | Remote-US | ★ 3.8
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5727343004 | ClickHouse | Senior Software Engineer (Infrastructure) - ClickStack | US Remote | ★ 3.8
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5809710004 | ClickHouse | Engineering Manager - Language clients | US Remote | ★ 3.8
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5090613007 | Temporal | Senior Software Engineer, Release Engineering | US Remote | ★ 3.8
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/7603801 | Planet Labs | Senior Engineering Manager - AI Geospatial Assistant Team | San Francisco, CA | ★ 3.8
+- [ ] https://www.zipline.com/careers?gh_jid=7667529003 | Zipline | Senior Full Stack Software Engineer - Health Care | Remote-US | ★ 3.8
+- [ ] https://nuro.ai/careersitem?gh_jid=7838557 | Nuro | Senior Software Engineer, Cloud Efficiency & Cost Optimization | Mountain View, CA | ★ 3.8
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8397618002 | Airtable | Software Engineer, Product Backend (8+ YOE) | SF / Remote Seattle | ★ 3.8
+- [ ] https://jobs.ashbyhq.com/astronomer/702ffc4c-4c58-4cc5-aa5c-85c25253a331 | Astronomer | Senior Software Engineer, Platform Engineering | Remote-US | ★ 3.7
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8400373002 | Airtable | Software Engineer, Infrastructure (4-8 YOE) | SF / NY / Seattle | ★ 3.7
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8397665002 | Airtable | Engineering Manager, Enterprise Product | SF / NY | ★ 3.7
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5125387008 | Anthropic | Analytics Data Engineering Manager, Product | SF / NY / Seattle | ★ 3.7
+- [ ] https://aurora.tech/jobs/8394873002?gh_jid=8394873002 | Aurora Innovation | Senior Staff Tech Lead Manager, Customer & Partner Integrations | Seattle, WA | ★ 3.7
+- [ ] https://jobs.ashbyhq.com/confluent/0605ed11-ec59-428f-9f69-b24b25c575ed | Confluent | Senior Software Engineer - Connect Platform | Remote-US | ★ 3.7
+- [ ] https://jobs.ashbyhq.com/motherduck/0491624c-97ad-4a94-8bb2-f93b48d548a8 | MotherDuck | Software Engineer - Platform (Infra) | Remote-US | ★ 3.7 — DuckDB cloud, direct stack match, early-stage
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/7689257 | Planet Labs | Senior Geospatial AI/ML Engineer | Remote-US | ★ 3.6
+- [ ] https://nuro.ai/careersitem?gh_jid=7913297 | Nuro | Senior Software Engineer, Over-the-Air Updates | Mountain View, CA | ★ 3.6
+- [ ] https://jobs.ashbyhq.com/motherduck/9bf5467c-dfe1-4248-9df5-c43974172057 | MotherDuck | Software Engineer - Storage | Remote-US | ★ 3.6 — DuckDB storage layer, early-stage
+- [ ] https://jobs.ashbyhq.com/weaviate/6d8fc83f-5be8-43a6-a820-1fe4999ed770 | Weaviate | Cloud Platform Engineer | Remote (GMT preferred) | ★ 3.5
+
+---
+
 ### Quick-Check Scan (2026-05-13)
 
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5204401008 | Anthropic | Senior Staff Software Engineer | San Francisco, CA | New York City, NY | Seattle, WA
