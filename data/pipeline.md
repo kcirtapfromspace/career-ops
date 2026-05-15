@@ -2573,3 +2573,9 @@
 
 #### Planet Labs
 - [ ] https://job-boards.greenhouse.io/planetlabs/jobs/7870463 | Planet Labs | Senior Software Engineer, Front-End - D&I Solutions | United States, Remote
+
+#### Stability AI
+- [ ] https://stability.ai/careers?gh_jid=4679992101 | Stability AI | Senior Site Reliability Engineer | United States (Remote)
+
+#### Wayve
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8425279002 | Wayve | Staff ML Performance Engineer (Training Efficiency) | Sunnyvale, CA (Bay Area) ⚠️ borderline title
