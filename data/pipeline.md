@@ -2565,3 +2565,11 @@
 
 #### Planet Labs
 - [ ] https://job-boards.greenhouse.io/planetlabs/jobs/7916937 | Planet Labs | Senior Software Engineer | United States, Remote
+
+### Scout Quick-Check — 2026-05-15
+
+#### Glean
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4695206005 | Glean | Software Engineer, AI Infrastructure | San Francisco, California, United States
+
+#### Planet Labs
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/7870463 | Planet Labs | Senior Software Engineer, Front-End - D&I Solutions | United States, Remote
