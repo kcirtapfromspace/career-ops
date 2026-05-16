@@ -2,6 +2,20 @@
 
 ## Pendientes
 
+### Scout Scan (2026-05-16) — 6 new matches
+
+#### Tier A — Strong Matches (4.0–4.4)
+- [ ] https://jobs.ashbyhq.com/confluent/5400cdd0-87bf-4df5-aed8-3f526715fa4a | Confluent | Staff Software Engineer I - Kora Storage | Remote-US | ★ 4.0 — Staff distributed storage on Kafka's cloud platform; streaming/infra domain match
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5993847004 | ClickHouse | Senior Data Engineer - Dbt, CI/CD | AMER Remote | ★ 4.0 — dbt/CI/CD direct stack match; internal data engineering at ClickHouse; Senior role
+
+#### Tier B — Notable Matches (3.5–3.9)
+- [ ] https://jobs.ashbyhq.com/ramp/1e077eec-dcae-4be5-a446-b3dd089777c6 | Ramp | Software Engineer, Backend, Senior & Staff | New York, NY (Remote) | ★ 3.8
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5191638008 | Anthropic | Cluster Deployment Engineer | Remote-Friendly US | ★ 3.8
+- [ ] https://jobs.ashbyhq.com/ramp/198150d6-789a-4ef8-999f-93a49656d4f1 | Ramp | Software Engineer, Engineering Platform | New York, NY (Remote) | ★ 3.7
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7651403003 | Fivetran | Sr. Principal AI Systems Architect | Oakland, CA | ★ 3.5
+
+---
+
 ### Scout Scan (2026-05-15) — 36 new matches
 
 #### Tier S — Top Picks (4.5+)
