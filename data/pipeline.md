@@ -2,6 +2,25 @@
 
 ## Pendientes
 
+
+### Quick-Check Scan (2026-05-17) — 11 new matches
+
+#### Strong Matches
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5138391007?gh_jid=5138391007 | Anduril | Staff Software Engineer, Production Solutions | Seattle, WA
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4694869005 | Scale AI | Senior Staff Forward Deployed AI Engineer, Enterprise | San Francisco, CA / New York, NY
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4694865005 | Scale AI | Staff Forward Deployed AI Engineer, Enterprise | San Francisco, CA / New York, NY
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4694863005 | Scale AI | Senior Forward Deployed AI Engineer, Enterprise | San Francisco, CA / New York, NY
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4694861005 | Scale AI | Forward Deployed AI Engineer, Enterprise | San Francisco, CA / New York, NY
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8552484002 | Databricks | Staff Software Engineer - AI Research Infrastructure | San Francisco, CA / New York, NY
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7641390002 | Databricks | Senior Manager, Infrastructure Data Science | Mountain View, CA
+- [ ] http://stability.ai/careers?gh_jid=4712821101 | Stability AI | Senior Backend Engineer | US Remote
+
+#### Borderline — Robotics-Adjacent
+- [ ] https://www.zipline.com/careers?gh_jid=7735403003 | Zipline | Senior Motion Planning Software Engineer - Droid | South San Francisco, CA ⚠️ motion planning / robotics
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8423176002 | Wayve | Software Engineer - OS, Robot Software | Sunnyvale, CA ⚠️ borderline title
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8423839002 | Wayve | Software Engineer - Sensor Systems, Robot Software | Sunnyvale, CA ⚠️ borderline title
+
+
 ### Scout Scan (2026-05-17) — 6 new matches
 
 #### Tier A — Strong Matches (4.0–4.3)
