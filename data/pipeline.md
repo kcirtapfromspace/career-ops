@@ -2,6 +2,18 @@
 
 ## Pendientes
 
+### Scout Scan (2026-05-17) — 6 new matches
+
+#### Tier A — Strong Matches (4.0–4.3)
+- [ ] https://jobs.ashbyhq.com/openai/0b1e4c6c-8db6-4f8f-9cae-5e3529275e07 | OpenAI | Engineering Manager, Infrastructure | SF (hybrid) | ★ 4.3 — EM at frontier AI lab for K8s/cloud platform; Patrick's distributed systems + team leadership maps directly; comp likely $300K+; SF relocation
+- [ ] https://jobs.ashbyhq.com/openai/2000561f-f24b-4c24-b1d9-1f13d526c893 | OpenAI | Stream Infrastructure Engineer | Remote-US (unconfirmed) | ★ 4.1 — Kafka/streaming platform at OpenAI; Patrick's Kafka+Kinesis+Debezium CDC stack maps directly; comp unconfirmed
+- [ ] https://jobs.ashbyhq.com/confluent/5c5eb5ed-e880-447e-a76e-e056ce2acfb9 | Confluent | Senior Manager, Engineering - KORA | Remote-US (likely) | ★ 4.2 — EM for KORA storage engine at the Kafka company; streaming+data platform leadership; Patrick's Kafka at scale is the proof point
+- [ ] https://jobs.ashbyhq.com/openai/dbc90441-2c81-44e6-bbf1-27f9d3b4af80 | OpenAI | Engineering Manager, Cloud Infrastructure Automation | SF | ★ 4.2 — K8s-based cloud platform EM; Patrick's Argo+Helm+multi-cluster K8s expertise maps directly
+- [ ] https://jobs.ashbyhq.com/openai/cb050c48-2e42-4dc0-8860-e6b3e5e6baff | OpenAI | Engineering Manager, Online Data Systems | SF | ★ 4.0 — Hyperscale data storage/indexing EM; Patrick's data infra background (VA, CO, HHS) is strong signal; SF relocation
+- [ ] https://jobs.ashbyhq.com/openai/e44bfa94-0b82-4d0c-b224-02155b76eea9 | OpenAI | Software Engineer, Infrastructure - Analytics Platform | SF/Remote | ★ 4.0 — Analytics infra at OpenAI (staff-level); Python/SQL/distributed systems; Patrick's data platform experience maps well
+
+---
+
 ### Scout Scan (2026-05-16) — 6 new matches
 
 #### Tier A — Strong Matches (4.0–4.4)
