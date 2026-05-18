@@ -2,6 +2,31 @@
 
 ## Pendientes
 
+### Scout Scan (2026-05-18) — 16 new matches
+
+#### Tier S — Top Picks (4.5+)
+- [ ] https://www.samsara.com/company/careers/roles/7721193?gh_jid=7721193 | Samsara | Staff ML Engineer - ML Infrastructure | Remote-US | ★ 4.8 — $200K-$357K confirmed base; K8s/Ray/Spark/distributed compute; end-to-end ML platform ownership; Patrick's infra+observability proof points map perfectly
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5038049007 | Temporal | Senior Staff Software Engineer, Infrastructure | Remote-US | ★ 4.7 — $260K-$325K confirmed base; multi-cloud distributed systems leadership; NEW role vs previously seen Staff SWE Cloud Global Services; top-tier comp + remote
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4956672008 | Anthropic | Analytics Data Engineer | San Francisco, CA / New York City, NY / Seattle, WA (hybrid) | ★ 4.5 — $275K-$370K confirmed; dbt/Python/Airflow/SQL stack; Patrick's dbt+pipeline experience direct match; hybrid 25% in-office required; top-5% comp
+
+#### Tier A — Strong Matches (4.0–4.4)
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5111563007 | Temporal | Staff Software Engineer, AI Developer Experience | Remote-US | ★ 4.3 — $224K-$302K confirmed; Go/Python/TypeScript; internal AI tooling platform; new Temporal role not seen before
+- [ ] https://www.zipline.com/careers?gh_jid=7663467003 | Zipline | Senior Manager, Data Platform & Autonomy Infrastructure | South San Francisco, CA | ★ 4.1 — Data platform EM role; SF Bay Area (accepted); autonomy + data infra leadership; Patrick's Argo Workflows/data platform background directly relevant
+- [ ] https://jobs.ashbyhq.com/ramp/bca0346c-b843-4795-96df-6091f51e421b | Ramp | Software Engineer, Data Platform | Remote-US | ★ 4.1 — Data platform eng at high-growth fintech; Python/SQL/data pipelines; comp likely $200K+ at Ramp's band; Patrick's data infra proof points map well
+- [ ] https://jobs.ashbyhq.com/ramp/9912212c-2edd-4bdb-a18c-1087bcae0522 | Ramp | Staff Software Engineer, FedRAMP Infrastructure | Remote-US | ★ 4.0 — Staff infra at Ramp; FedRAMP/compliance infra experience from Patrick's government work (VA.gov, HHS) is a direct differentiator
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4501783005 | Glean | Software Engineer, AI Infrastructure | Mountain View, CA | ★ 4.0 — AI infra at fast-growing enterprise search; on-site Mountain View (CA, accepted); ML infra + distributed systems domain
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7544099 | Contentful | Data Engineer | Denver, Colorado | ★ 4.0 — Denver office (Patrick's city); data engineering role; Contentful has Denver office per portals; local + remote option likely
+
+#### Tier B — Notable Matches (3.5–3.9)
+- [ ] https://nuro.ai/careersitem?gh_jid=7895640 | Nuro | Senior/Staff Software Engineer, Data Platform | Mountain View, CA | ★ 3.9 — New Nuro data platform role (different from prior seen GenAI/OTA roles); Senior/Staff IC; on-site Mountain View
+- [ ] https://nuro.ai/careersitem?gh_jid=7895638 | Nuro | Senior/Staff Software Engineer, ML Data Infrastructure | Mountain View, CA | ★ 3.9 — ML data infra at Nuro; new listing; Patrick's ML infra (HHS BERT, Argo) maps; on-site Mountain View
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5421310004 | Arize AI | Engineering Manager - Product & Platform | Remote-US | ★ 3.8 — EM at ML observability platform; remote; Arize is observability-focused (Patrick has Datadog/OTel background)
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5461002004 | Vercel | Sr. Engineering Manager, Platform | San Francisco / New York City | ★ 3.7 — Platform EM at Vercel; hybrid SF/NYC; good brand; platform domain matches but less deep data/ML focus
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8124953002 | Airtable | Software Engineer, Data | San Francisco, CA / Austin, TX / New York, NY | ★ 3.6 — Data eng at Airtable; SF/Austin/NYC (not remote); new role not in prior dedup list
+- [ ] https://www.samsara.com/company/careers/roles/7801077?gh_jid=7801077 | Samsara | Engineering Manager II | Remote-CA | ★ 3.5 — Generic EM role at Samsara; remote CA; domain/comp match uncertain without JD review
+- [ ] https://jobs.ashbyhq.com/anyscale/f77232db-9bc8-48c4-b943-aa67492922ea | Anyscale | Software Engineer, ML Developer Platform | Remote-US (Ashby) | ★ 3.5 — ML platform on Ray; distributed compute; comp and remote status need verification
+
+---
 
 ### Quick-Check Scan (2026-05-17) — 11 new matches
 
