@@ -2,6 +2,13 @@
 
 ## Pendientes
 
+### Quick Check — Greenhouse API (2026-05-19) — 2 new
+
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4696752005 | Glean | Software Engineer, APIs & Context Platform | Mountain View, CA | 🔍 — Backend APIs & context-platform role at enterprise AI search; SF Bay Area (Mountain View accepted); scope aligns with platform engineering background
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5996876004 | ClickHouse | Senior Software Engineer (Typescript/FrontEnd) - AI/ML | Remote-US | ⚠️ frontend — passes title filter but "TypeScript/FrontEnd" in title; likely low fit for backend/data profile; review before evaluating
+
+---
+
 ### Scout Scan (2026-05-19) — 10 new matches
 
 #### Tier S — Top Picks (4.5+)
