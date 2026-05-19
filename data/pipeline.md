@@ -2,6 +2,26 @@
 
 ## Pendientes
 
+### Scout Scan (2026-05-19) — 10 new matches
+
+#### Tier S — Top Picks (4.5+)
+- [ ] https://job-boards.greenhouse.io/databricks/jobs/8467083002 | Databricks | Engineering Manager - Pipelines Engine | Mountain View, CA / San Francisco, CA | ★ 4.6 — EM for Spark/streaming pipelines at Databricks; Patrick's Argo Workflows + K8s + pipeline-days-to-hours proof point directly maps; Mountain View = accepted; Databricks EM comp $250K+
+- [ ] https://job-boards.greenhouse.io/databricks/jobs/8324875002 | Databricks | Engineering Manager - Streaming | Bellevue, WA | ★ 4.5 — EM for streaming infra (Kafka/Spark Streaming); Patrick's Kafka/Debezium/CDC lakehouse demo is a perfect differentiator; Bellevue = Seattle area (accepted); top EM comp band
+
+#### Tier A — Strong Matches (4.0–4.4)
+- [ ] https://job-boards.greenhouse.io/databricks/jobs/8502969002 | Databricks | Engineering Manager, Spark Connect | Bellevue, WA | ★ 4.3 — Spark Connect EM; distributed compute leadership; Seattle area accepted; Patrick's multi-cluster K8s + data platform background strong fit
+- [ ] https://job-boards.greenhouse.io/databricks/jobs/8510921002 | Databricks | Engineering Manager - App Frameworks | Mountain View, CA | ★ 4.2 — EM for developer-facing frameworks at Databricks; Python/SQL/Spark focus; Mountain View accepted; strong brand + comp
+- [ ] https://job-boards.greenhouse.io/databricks/jobs/8295772002 | Databricks | Director, Engineering Governance | Mountain View, CA | ★ 4.1 — Director-level governance/platform leadership; Patrick's VA.gov observability (40+ teams) and government compliance experience directly relevant; Mountain View accepted
+- [ ] https://jobs.ashbyhq.com/horizon3ai/7dbb4b68-db0b-4a34-b131-e376c651f1c2 | Horizon3 AI | Senior Engineering Manager, Data Engineering | Remote-US | ★ 4.0 — Remote cybersecurity company; Sr EM data engineering; comp likely $200K+; Patrick's data platform + team leadership background strong fit; security-adjacent domain
+- [ ] https://job-boards.greenhouse.io/stabilityai/jobs/4679992101 | Stability AI | Senior Site Reliability Engineer | Remote-US | ★ 4.0 — SRE at AI infrastructure company; Remote US; Patrick's Watchtower observability (18M veterans) + K8s + Argo Workflows proof points map cleanly; comp ~$200K+ for SRE at AI lab
+
+#### Tier B — Notable Matches (3.5–3.9)
+- [ ] https://job-boards.greenhouse.io/andurilindustries/jobs/5102282007 | Anduril | AI Chief Engineering Lead | Remote | ★ 3.9 — Staff/Lead IC role at defense AI; Remote US; Patrick's ML infra + distributed systems experience relevant; "Engineering Lead" matches seniority; defense domain adjacent
+- [ ] https://jobs.ashbyhq.com/openrouter/cf58b019-0c99-4cce-b294-6113ccb53cc9 | OpenRouter | Engineering Manager, Platform | Remote-US | ★ 3.8 — EM for LLM routing infrastructure platform; millions of daily requests; Patrick's K8s/observability/platform experience relevant; fast-growing AI infra startup
+- [ ] https://job-boards.greenhouse.io/samsara/jobs/7859406 | Samsara | Data Engineer II | Remote-US | ★ 3.5 — Mid-level data engineering at Samsara; Remote US; comp band lower than target; Patrick's stack matches but role may be below target seniority
+
+---
+
 ### Scout Scan (2026-05-18) — 16 new matches
 
 #### Tier S — Top Picks (4.5+)
