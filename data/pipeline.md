@@ -2,6 +2,16 @@
 
 ## Pendientes
 
+### Quick Check — Greenhouse API (2026-05-19) — 3 US matches (178 total scanned, 175 EU/non-US deduped to history)
+
+> **Note:** 42 Greenhouse APIs checked. 178 new titles passed title filter; 175 are EU/Canada/non-US locations (logged to scan-history.tsv for dedup, not added to pipeline). 3 US-relevant below.
+
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5140975007 | Anduril | Software Engineer | Seattle, Washington, United States
+- [ ] https://job-boards.greenhouse.io/blackforestlabs/jobs/4935984008 | Black Forest Labs | Forward Deployed Machine Learning Engineer | San Francisco, CA
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8555864002 | Databricks | Sr. Staff Software Engineer - Managed Tables | Mountain View, California
+
+---
+
 ### Quick Check — Greenhouse API (2026-05-19) — 2 new
 
 - [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4696752005 | Glean | Software Engineer, APIs & Context Platform | Mountain View, CA | 🔍 — Backend APIs & context-platform role at enterprise AI search; SF Bay Area (Mountain View accepted); scope aligns with platform engineering background
