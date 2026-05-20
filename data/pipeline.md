@@ -2,6 +2,15 @@
 
 ## Pendientes
 
+### Scout Scan (2026-05-20) — 1 new match
+
+> 42 companies scanned via Greenhouse API + WebSearch. Last scan was 5/19 (1 day ago), so pipeline is current. One genuinely new role found.
+
+#### Tier B — Notable Match (3.5)
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8546367002 | Databricks | AI Engineer - FDE (Forward Deployed Engineer) | United States (Remote) | ★ 3.5 — US remote, $152K-$210K base + bonus + equity; GenAI/RAG/multi-agent focus (LangChain/HuggingFace/PyTorch); customer-facing with travel 1x/month; Patrick's Spark/Kafka/Databricks ecosystem experience relevant but role is app-layer vs infra; comp base below target; consider if total package is compelling
+
+---
+
 ### Quick Check — Greenhouse API (2026-05-19) — 3 US matches (178 total scanned, 175 EU/non-US deduped to history)
 
 > **Note:** 42 Greenhouse APIs checked. 178 new titles passed title filter; 175 are EU/Canada/non-US locations (logged to scan-history.tsv for dedup, not added to pipeline). 3 US-relevant below.
