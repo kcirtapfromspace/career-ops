@@ -2,6 +2,13 @@
 
 ## Pendientes
 
+### Quick-Check Scan (2026-05-20)
+
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4679658006 | Chainguard | Senior Software Engineer (Guarded OS) | United States - Remote
+- [ ] https://aurora.tech/jobs/8557492002?gh_jid=8557492002 | Aurora Innovation | Senior Staff Software Engineer (Security) | Seattle, Washington
+- [ ] https://www.zipline.com/careers?gh_jid=7741834003 | Zipline | Staff Full Stack Software Engineer, Application Software | South San Francisco, California, USA
+- [ ] https://aurora.tech/jobs/8557484002?gh_jid=8557484002 | Aurora Innovation | Software Engineer II (Security) | Seattle, Washington
+
 ### Scout Scan (2026-05-20) — 1 new match
 
 > 42 companies scanned via Greenhouse API + WebSearch. Last scan was 5/19 (1 day ago), so pipeline is current. One genuinely new role found.
