@@ -2702,3 +2702,32 @@
 
 #### Wayve
 - [ ] https://wayve.firststage.co/jobs?gh_jid=8425279002 | Wayve | Staff ML Performance Engineer (Training Efficiency) | Sunnyvale, CA (Bay Area) ⚠️ borderline title
+
+## Scout Quick-Check — 2026-05-20
+
+### Anthropic
+- Research Engineer, Economic Research Data Platform (San Francisco, CA)
+  https://job-boards.greenhouse.io/anthropic/jobs/5071132008
+
+### Helsing
+- Finance Data Engineer (Munich)
+  https://helsing.ai/jobs/4871604101?gh_jid=4871604101
+
+### Scandit
+- Engineering Manager, Platform  (Germany)
+  https://www.scandit.com/careers/job-description/?gh_jid=7563160
+
+### Wayve
+- Application Software Engineer (Germany)
+  https://wayve.firststage.co/jobs?gh_jid=8431122002
+- Application Software Engineer - Relocation to Tokyo (Germany)
+  https://wayve.firststage.co/jobs?gh_jid=8460271002
+- Principal Application Software Engineer - Relocation to Tokyo (Germany)
+  https://wayve.firststage.co/jobs?gh_jid=8478640002
+
+### Aurora Innovation
+- Senior Staff Software Engineer (Security) (Mountain View, California)
+  https://aurora.tech/jobs/8555472002?gh_jid=8555472002
+- Software Engineer II (Security) (Mountain View, California)
+  https://aurora.tech/jobs/8555225002?gh_jid=8555225002
+

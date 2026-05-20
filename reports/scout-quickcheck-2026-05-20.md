@@ -45,3 +45,49 @@ All 4 new URLs added to:
 - `data/scan-history.tsv` → dedup logged
 
 **Next step:** Evaluate top matches with `/career-ops oferta` before applying.
+
+---
+
+## Second Scan — 2026-05-20 (scout agent)
+
+**Companies checked:** 42 · **New matches (post-dedup):** 8
+
+### 5. Anthropic — Research Engineer, Economic Research Data Platform
+- **URL:** https://job-boards.greenhouse.io/anthropic/jobs/5071132008
+- **Location:** San Francisco, CA
+- **Why relevant:** "Data Platform" in title. Research engineering at Anthropic focused on economic impact studies. SF-based. Strong signal if Patrick wants to stay in AI infra/data platform work at a top lab.
+
+### 6. Helsing — Finance Data Engineer
+- **URL:** https://helsing.ai/jobs/4871604101?gh_jid=4871604101
+- **Location:** Munich, Germany
+- **Why relevant:** Data Engineer at a defense AI unicorn (100+ roles, ML & FDE). EU location — relevant if DACH is in scope.
+
+### 7. Scandit — Engineering Manager, Platform
+- **URL:** https://www.scandit.com/careers/job-description/?gh_jid=7563160
+- **Location:** Germany (Zurich CH parent, Germany office)
+- **Why relevant:** EM for platform at a computer vision / smart data capture company. EU/DACH scope.
+
+### 8. Aurora Innovation — Senior Staff Software Engineer (Security) ⚠️ possible dupe
+- **URL:** https://aurora.tech/jobs/8555472002?gh_jid=8555472002
+- **Location:** Mountain View, California
+- **Note:** Different Greenhouse job ID from the Seattle-based Senior Staff Security role found in scan 1 (8557492002). May be the same role reposted for a different office, or a separate headcount. Flag for manual review before applying.
+
+### 9. Aurora Innovation — Software Engineer II (Security) ⚠️ likely underleveled
+- **URL:** https://aurora.tech/jobs/8555225002?gh_jid=8555225002
+- **Location:** Mountain View, California
+- **Note:** IC2 level. Probably underleveled for Patrick. Captured for completeness.
+
+### 10. Wayve — Application Software Engineer (Germany) ⚠️ relocation
+- **URL:** https://wayve.firststage.co/jobs?gh_jid=8431122002
+- **Location:** Germany → **Relocation to Tokyo required on two of these postings**
+- **Note:** Three Wayve roles surfaced (8431122002, 8460271002, 8478640002). Two explicitly require relocation to Tokyo — likely rejects. The base role may be Germany-remote but verify before queueing.
+
+---
+
+## Running Totals (2026-05-20)
+
+| Scan | Matches | Notable |
+|------|---------|---------|
+| Scan 1 (automated) | 4 | Chainguard Remote, Aurora Seattle, Zipline SF |
+| Scan 2 (scout agent) | 8 | Anthropic SF data platform, Helsing Munich, Scandit EM |
+| **Total new today** | **12** | After dedup against 1,875-entry history |
