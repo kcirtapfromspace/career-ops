@@ -2,6 +2,129 @@
 
 ## Pendientes
 
+### Quick-Check Scan (2026-05-21) — 12 new matches
+
+> 42 Greenhouse APIs checked (7,388 jobs total). 12 new US-relevant matches found since last scan (2026-05-20). 448 title-matched jobs logged to scan-history.tsv for dedup.
+
+#### Anduril (5)
+- [ ] https://job-boards.greenhouse.io/andurilindustries/jobs/5144187007 | Anduril | Staff Software Engineer, Production Solutions | Seattle, Washington, United States
+- [ ] https://job-boards.greenhouse.io/andurilindustries/jobs/5143589007 | Anduril | Radar Software Engineer | Broomfield, Colorado / Fort Collins, Colorado, United States
+- [ ] https://job-boards.greenhouse.io/andurilindustries/jobs/5143736007 | Anduril | Senior Ground Software Engineer, Space | Colorado Springs, Colorado, United States
+- [ ] https://job-boards.greenhouse.io/andurilindustries/jobs/5143734007 | Anduril | Ground Software Engineer, Space | Colorado Springs, Colorado, United States
+- [ ] https://job-boards.greenhouse.io/andurilindustries/jobs/4802146007 | Anduril | Early Career Software Engineer | Broomfield / Fort Collins, Colorado, United States ⚠️ early-career
+
+#### Samsara (2)
+- [ ] https://job-boards.greenhouse.io/samsara/jobs/7356410 | Samsara | Senior Software Engineer I - Agent Foundations | Remote - US
+- [ ] https://job-boards.greenhouse.io/samsara/jobs/7349219 | Samsara | Senior Software Engineer I - Agent Foundations | Remote - SF Bay Area
+
+#### Databricks (4)
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=5646866002 | Databricks | Staff Software Engineer - Database Engine Internals | San Francisco, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=6544386002 | Databricks | Staff Software Engineer - Database Engine Internals | Mountain View, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=5048461002 | Databricks | Senior Software Engineer - Database Engine Internals | San Francisco, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=6544383002 | Databricks | Senior Software Engineer - Database Engine Internals | Mountain View, California
+
+#### Zipline (1)
+- [ ] https://www.zipline.com/careers?gh_jid=7743068003 | Zipline | Senior Software Engineering Manager, Financial Platform | South San Francisco / Dallas-Fort Worth
+
+---
+
+### Quick-Check Scan (2026-05-20)
+
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4679658006 | Chainguard | Senior Software Engineer (Guarded OS) | United States - Remote
+- [ ] https://aurora.tech/jobs/8557492002?gh_jid=8557492002 | Aurora Innovation | Senior Staff Software Engineer (Security) | Seattle, Washington
+- [ ] https://www.zipline.com/careers?gh_jid=7741834003 | Zipline | Staff Full Stack Software Engineer, Application Software | South San Francisco, California, USA
+- [ ] https://aurora.tech/jobs/8557484002?gh_jid=8557484002 | Aurora Innovation | Software Engineer II (Security) | Seattle, Washington
+
+### Scout Scan (2026-05-20) — 1 new match
+
+> 42 companies scanned via Greenhouse API + WebSearch. Last scan was 5/19 (1 day ago), so pipeline is current. One genuinely new role found.
+
+#### Tier B — Notable Match (3.5)
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8546367002 | Databricks | AI Engineer - FDE (Forward Deployed Engineer) | United States (Remote) | ★ 3.5 — US remote, $152K-$210K base + bonus + equity; GenAI/RAG/multi-agent focus (LangChain/HuggingFace/PyTorch); customer-facing with travel 1x/month; Patrick's Spark/Kafka/Databricks ecosystem experience relevant but role is app-layer vs infra; comp base below target; consider if total package is compelling
+
+---
+
+### Quick Check — Greenhouse API (2026-05-19) — 3 US matches (178 total scanned, 175 EU/non-US deduped to history)
+
+> **Note:** 42 Greenhouse APIs checked. 178 new titles passed title filter; 175 are EU/Canada/non-US locations (logged to scan-history.tsv for dedup, not added to pipeline). 3 US-relevant below.
+
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5140975007 | Anduril | Software Engineer | Seattle, Washington, United States
+- [ ] https://job-boards.greenhouse.io/blackforestlabs/jobs/4935984008 | Black Forest Labs | Forward Deployed Machine Learning Engineer | San Francisco, CA
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8555864002 | Databricks | Sr. Staff Software Engineer - Managed Tables | Mountain View, California
+
+---
+
+### Quick Check — Greenhouse API (2026-05-19) — 2 new
+
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4696752005 | Glean | Software Engineer, APIs & Context Platform | Mountain View, CA | 🔍 — Backend APIs & context-platform role at enterprise AI search; SF Bay Area (Mountain View accepted); scope aligns with platform engineering background
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5996876004 | ClickHouse | Senior Software Engineer (Typescript/FrontEnd) - AI/ML | Remote-US | ⚠️ frontend — passes title filter but "TypeScript/FrontEnd" in title; likely low fit for backend/data profile; review before evaluating
+
+---
+
+### Scout Scan (2026-05-19) — 10 new matches
+
+#### Tier S — Top Picks (4.5+)
+- [ ] https://job-boards.greenhouse.io/databricks/jobs/8467083002 | Databricks | Engineering Manager - Pipelines Engine | Mountain View, CA / San Francisco, CA | ★ 4.6 — EM for Spark/streaming pipelines at Databricks; Patrick's Argo Workflows + K8s + pipeline-days-to-hours proof point directly maps; Mountain View = accepted; Databricks EM comp $250K+
+- [ ] https://job-boards.greenhouse.io/databricks/jobs/8324875002 | Databricks | Engineering Manager - Streaming | Bellevue, WA | ★ 4.5 — EM for streaming infra (Kafka/Spark Streaming); Patrick's Kafka/Debezium/CDC lakehouse demo is a perfect differentiator; Bellevue = Seattle area (accepted); top EM comp band
+
+#### Tier A — Strong Matches (4.0–4.4)
+- [ ] https://job-boards.greenhouse.io/databricks/jobs/8502969002 | Databricks | Engineering Manager, Spark Connect | Bellevue, WA | ★ 4.3 — Spark Connect EM; distributed compute leadership; Seattle area accepted; Patrick's multi-cluster K8s + data platform background strong fit
+- [ ] https://job-boards.greenhouse.io/databricks/jobs/8510921002 | Databricks | Engineering Manager - App Frameworks | Mountain View, CA | ★ 4.2 — EM for developer-facing frameworks at Databricks; Python/SQL/Spark focus; Mountain View accepted; strong brand + comp
+- [ ] https://job-boards.greenhouse.io/databricks/jobs/8295772002 | Databricks | Director, Engineering Governance | Mountain View, CA | ★ 4.1 — Director-level governance/platform leadership; Patrick's VA.gov observability (40+ teams) and government compliance experience directly relevant; Mountain View accepted
+- [ ] https://jobs.ashbyhq.com/horizon3ai/7dbb4b68-db0b-4a34-b131-e376c651f1c2 | Horizon3 AI | Senior Engineering Manager, Data Engineering | Remote-US | ★ 4.0 — Remote cybersecurity company; Sr EM data engineering; comp likely $200K+; Patrick's data platform + team leadership background strong fit; security-adjacent domain
+- [ ] https://job-boards.greenhouse.io/stabilityai/jobs/4679992101 | Stability AI | Senior Site Reliability Engineer | Remote-US | ★ 4.0 — SRE at AI infrastructure company; Remote US; Patrick's Watchtower observability (18M veterans) + K8s + Argo Workflows proof points map cleanly; comp ~$200K+ for SRE at AI lab
+
+#### Tier B — Notable Matches (3.5–3.9)
+- [ ] https://job-boards.greenhouse.io/andurilindustries/jobs/5102282007 | Anduril | AI Chief Engineering Lead | Remote | ★ 3.9 — Staff/Lead IC role at defense AI; Remote US; Patrick's ML infra + distributed systems experience relevant; "Engineering Lead" matches seniority; defense domain adjacent
+- [ ] https://jobs.ashbyhq.com/openrouter/cf58b019-0c99-4cce-b294-6113ccb53cc9 | OpenRouter | Engineering Manager, Platform | Remote-US | ★ 3.8 — EM for LLM routing infrastructure platform; millions of daily requests; Patrick's K8s/observability/platform experience relevant; fast-growing AI infra startup
+- [ ] https://job-boards.greenhouse.io/samsara/jobs/7859406 | Samsara | Data Engineer II | Remote-US | ★ 3.5 — Mid-level data engineering at Samsara; Remote US; comp band lower than target; Patrick's stack matches but role may be below target seniority
+
+---
+
+### Scout Scan (2026-05-18) — 16 new matches
+
+#### Tier S — Top Picks (4.5+)
+- [ ] https://www.samsara.com/company/careers/roles/7721193?gh_jid=7721193 | Samsara | Staff ML Engineer - ML Infrastructure | Remote-US | ★ 4.8 — $200K-$357K confirmed base; K8s/Ray/Spark/distributed compute; end-to-end ML platform ownership; Patrick's infra+observability proof points map perfectly
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5038049007 | Temporal | Senior Staff Software Engineer, Infrastructure | Remote-US | ★ 4.7 — $260K-$325K confirmed base; multi-cloud distributed systems leadership; NEW role vs previously seen Staff SWE Cloud Global Services; top-tier comp + remote
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4956672008 | Anthropic | Analytics Data Engineer | San Francisco, CA / New York City, NY / Seattle, WA (hybrid) | ★ 4.5 — $275K-$370K confirmed; dbt/Python/Airflow/SQL stack; Patrick's dbt+pipeline experience direct match; hybrid 25% in-office required; top-5% comp
+
+#### Tier A — Strong Matches (4.0–4.4)
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5111563007 | Temporal | Staff Software Engineer, AI Developer Experience | Remote-US | ★ 4.3 — $224K-$302K confirmed; Go/Python/TypeScript; internal AI tooling platform; new Temporal role not seen before
+- [ ] https://www.zipline.com/careers?gh_jid=7663467003 | Zipline | Senior Manager, Data Platform & Autonomy Infrastructure | South San Francisco, CA | ★ 4.1 — Data platform EM role; SF Bay Area (accepted); autonomy + data infra leadership; Patrick's Argo Workflows/data platform background directly relevant
+- [ ] https://jobs.ashbyhq.com/ramp/bca0346c-b843-4795-96df-6091f51e421b | Ramp | Software Engineer, Data Platform | Remote-US | ★ 4.1 — Data platform eng at high-growth fintech; Python/SQL/data pipelines; comp likely $200K+ at Ramp's band; Patrick's data infra proof points map well
+- [ ] https://jobs.ashbyhq.com/ramp/9912212c-2edd-4bdb-a18c-1087bcae0522 | Ramp | Staff Software Engineer, FedRAMP Infrastructure | Remote-US | ★ 4.0 — Staff infra at Ramp; FedRAMP/compliance infra experience from Patrick's government work (VA.gov, HHS) is a direct differentiator
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4501783005 | Glean | Software Engineer, AI Infrastructure | Mountain View, CA | ★ 4.0 — AI infra at fast-growing enterprise search; on-site Mountain View (CA, accepted); ML infra + distributed systems domain
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7544099 | Contentful | Data Engineer | Denver, Colorado | ★ 4.0 — Denver office (Patrick's city); data engineering role; Contentful has Denver office per portals; local + remote option likely
+
+#### Tier B — Notable Matches (3.5–3.9)
+- [ ] https://nuro.ai/careersitem?gh_jid=7895640 | Nuro | Senior/Staff Software Engineer, Data Platform | Mountain View, CA | ★ 3.9 — New Nuro data platform role (different from prior seen GenAI/OTA roles); Senior/Staff IC; on-site Mountain View
+- [ ] https://nuro.ai/careersitem?gh_jid=7895638 | Nuro | Senior/Staff Software Engineer, ML Data Infrastructure | Mountain View, CA | ★ 3.9 — ML data infra at Nuro; new listing; Patrick's ML infra (HHS BERT, Argo) maps; on-site Mountain View
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5421310004 | Arize AI | Engineering Manager - Product & Platform | Remote-US | ★ 3.8 — EM at ML observability platform; remote; Arize is observability-focused (Patrick has Datadog/OTel background)
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5461002004 | Vercel | Sr. Engineering Manager, Platform | San Francisco / New York City | ★ 3.7 — Platform EM at Vercel; hybrid SF/NYC; good brand; platform domain matches but less deep data/ML focus
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8124953002 | Airtable | Software Engineer, Data | San Francisco, CA / Austin, TX / New York, NY | ★ 3.6 — Data eng at Airtable; SF/Austin/NYC (not remote); new role not in prior dedup list
+- [ ] https://www.samsara.com/company/careers/roles/7801077?gh_jid=7801077 | Samsara | Engineering Manager II | Remote-CA | ★ 3.5 — Generic EM role at Samsara; remote CA; domain/comp match uncertain without JD review
+- [ ] https://jobs.ashbyhq.com/anyscale/f77232db-9bc8-48c4-b943-aa67492922ea | Anyscale | Software Engineer, ML Developer Platform | Remote-US (Ashby) | ★ 3.5 — ML platform on Ray; distributed compute; comp and remote status need verification
+
+---
+
+### Quick-Check Scan (2026-05-17) — 11 new matches
+
+#### Strong Matches
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5138391007?gh_jid=5138391007 | Anduril | Staff Software Engineer, Production Solutions | Seattle, WA
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4694869005 | Scale AI | Senior Staff Forward Deployed AI Engineer, Enterprise | San Francisco, CA / New York, NY
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4694865005 | Scale AI | Staff Forward Deployed AI Engineer, Enterprise | San Francisco, CA / New York, NY
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4694863005 | Scale AI | Senior Forward Deployed AI Engineer, Enterprise | San Francisco, CA / New York, NY
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4694861005 | Scale AI | Forward Deployed AI Engineer, Enterprise | San Francisco, CA / New York, NY
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8552484002 | Databricks | Staff Software Engineer - AI Research Infrastructure | San Francisco, CA / New York, NY
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7641390002 | Databricks | Senior Manager, Infrastructure Data Science | Mountain View, CA
+- [ ] http://stability.ai/careers?gh_jid=4712821101 | Stability AI | Senior Backend Engineer | US Remote
+
+#### Borderline — Robotics-Adjacent
+- [ ] https://www.zipline.com/careers?gh_jid=7735403003 | Zipline | Senior Motion Planning Software Engineer - Droid | South San Francisco, CA ⚠️ motion planning / robotics
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8423176002 | Wayve | Software Engineer - OS, Robot Software | Sunnyvale, CA ⚠️ borderline title
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8423839002 | Wayve | Software Engineer - Sensor Systems, Robot Software | Sunnyvale, CA ⚠️ borderline title
+
+
 ### Scout Scan (2026-05-17) — 6 new matches
 
 #### Tier A — Strong Matches (4.0–4.3)
@@ -2605,3 +2728,42 @@
 
 #### Wayve
 - [ ] https://wayve.firststage.co/jobs?gh_jid=8425279002 | Wayve | Staff ML Performance Engineer (Training Efficiency) | Sunnyvale, CA (Bay Area) ⚠️ borderline title
+
+## Scout Quick-Check — 2026-05-20
+
+### Anthropic
+- Research Engineer, Economic Research Data Platform (San Francisco, CA)
+  https://job-boards.greenhouse.io/anthropic/jobs/5071132008
+
+### Helsing
+- Finance Data Engineer (Munich)
+  https://helsing.ai/jobs/4871604101?gh_jid=4871604101
+
+### Scandit
+- Engineering Manager, Platform  (Germany)
+  https://www.scandit.com/careers/job-description/?gh_jid=7563160
+
+### Wayve
+- Application Software Engineer (Germany)
+  https://wayve.firststage.co/jobs?gh_jid=8431122002
+- Application Software Engineer - Relocation to Tokyo (Germany)
+  https://wayve.firststage.co/jobs?gh_jid=8460271002
+- Principal Application Software Engineer - Relocation to Tokyo (Germany)
+  https://wayve.firststage.co/jobs?gh_jid=8478640002
+
+### Aurora Innovation
+- Senior Staff Software Engineer (Security) (Mountain View, California)
+  https://aurora.tech/jobs/8555472002?gh_jid=8555472002
+- Software Engineer II (Security) (Mountain View, California)
+  https://aurora.tech/jobs/8555225002?gh_jid=8555225002
+
+## Scout Scan — 2026-05-21
+
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/7844238 | Reddit | Senior Staff Software Engineer, Indexing & Retrieval Platform | Remote — US | ★4.5
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5996144004 | ClickHouse | Senior Software Engineer - Postgres | Remote — US | ★4.0
+- [ ] https://job-boards.greenhouse.io/interwellhealth/jobs/5122788008 | Interwell Health | Staff Data Engineer | Remote — US | ★3.8
+- [ ] https://jobs.ashbyhq.com/junipersquare/f273128c-050a-4b88-b785-02a58481cfc7 | Juniper Square | Staff Software Engineer, Data Platform | Remote ⚠️ verify location | ★3.5
+
+
+### Quick-Check Scan (2026-05-21)
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/6001254004 | ClickHouse | Principal Software Engineer - Postgres | United States Remote
