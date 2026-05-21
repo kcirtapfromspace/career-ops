@@ -25,7 +25,7 @@ function titleMatches(title) {
 }
 
 // Explicit non-US country suffixes that disqualify a "Remote" listing
-const FOREIGN_REMOTE = /\b(canada|uk|united kingdom|germany|france|spain|netherlands|sweden|finland|norway|denmark|austria|switzerland|australia|india|brazil|ireland|portugal|poland|mexico|singapore|japan)\b/i;
+const FOREIGN_REMOTE = /\b(canada|uk|united kingdom|germany|france|spain|netherlands|sweden|finland|norway|denmark|austria|switzerland|australia|india|brazil|ireland|portugal|poland|mexico|singapore|japan|israel|argentina|south korea|korea|apj|emea|latam|europe|africa|middle east|pacific)\b/i;
 
 function locationAccepted(location) {
   if (!location) return false;

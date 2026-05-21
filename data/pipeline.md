@@ -28,6 +28,7 @@
 
 ---
 
+
 ### Quick-Check Scan (2026-05-20)
 
 - [ ] https://job-boards.greenhouse.io/chainguard/jobs/4679658006 | Chainguard | Senior Software Engineer (Guarded OS) | United States - Remote
