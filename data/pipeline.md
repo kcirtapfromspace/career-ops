@@ -2738,3 +2738,6 @@
 - [ ] https://job-boards.greenhouse.io/interwellhealth/jobs/5122788008 | Interwell Health | Staff Data Engineer | Remote — US | ★3.8
 - [ ] https://jobs.ashbyhq.com/junipersquare/f273128c-050a-4b88-b785-02a58481cfc7 | Juniper Square | Staff Software Engineer, Data Platform | Remote ⚠️ verify location | ★3.5
 
+
+### Quick-Check Scan (2026-05-21)
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/6001254004 | ClickHouse | Principal Software Engineer - Postgres | United States Remote
