@@ -2,6 +2,28 @@
 
 ## Pendientes
 
+### Scout Scan (2026-05-22) — 8 new pipeline items
+
+> 43 Greenhouse APIs + 10 WebSearch queries. ~8,200+ jobs reviewed. 8 new pipeline items (5 top-rated roles already in pipeline from prior scans). Report: [scout-2026-05-22.md](../reports/scout-2026-05-22.md)
+
+#### Confluent (1)
+- [ ] https://jobs.ashbyhq.com/confluent/79c5035c-4266-40f0-86e1-84d067ed77b1 | Confluent | Staff Software Engineer, Flink SQL | Remote US | ★4.4 | $230.8K–$271.2K + equity
+
+#### Vannevar Labs (1)
+- [ ] https://job-boards.greenhouse.io/vannevarlabs/ | Vannevar Labs | Engineering Manager, Mission Agents (Req 235) | New York / Remote | ★4.0 | $200K–$260K + equity | Note: original posting 4819877007 expired; use jobs listing to find current Req 235
+
+#### Temporal (4 new IC roles)
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5042920007 | Temporal | Senior Software Engineer, Observability | US Remote | ★3.5
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5111563007 | Temporal | Staff Software Engineer, AI Developer Experience | US Remote | ★3.6
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5125079007 | Temporal | Staff Software Engineer, AI SDK | US Remote | ★3.5
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5068388007 | Temporal | Staff Software Engineer, Compute (Temporal Cloud) | US Remote | ★3.5
+
+#### Planet Labs (2)
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/7555019 | Planet Labs | Software Engineer, Platform Operations | US Remote | ★3.5
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/7593419 | Planet Labs | Software Engineer, Platform Operations | Canada Remote | ★3.2
+
+---
+
 ### Quick-Check Scan (2026-05-21) — 12 new matches
 
 > 42 Greenhouse APIs checked (7,388 jobs total). 12 new US-relevant matches found since last scan (2026-05-20). 448 title-matched jobs logged to scan-history.tsv for dedup.
