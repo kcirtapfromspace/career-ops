@@ -2790,3 +2790,7 @@
 
 ### Quick-Check Scan (2026-05-21)
 - [ ] https://job-boards.greenhouse.io/clickhouse/jobs/6001254004 | ClickHouse | Principal Software Engineer - Postgres | United States Remote
+
+### Quick-Check Scan (2026-05-22)
+- [ ] https://job-boards.greenhouse.io/runpod/jobs/5229443008 | RunPod | Site Reliability Engineer | Remote, USA
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/6000796004 | ClickHouse | Senior Software Engineer - Data Integration & JVM Ecosystem | United States Remote
