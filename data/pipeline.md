@@ -2,6 +2,12 @@
 
 ## Pendientes
 
+### Scout Scan (2026-05-23) — 0 new matches
+
+> 47 companies scanned (35 Greenhouse APIs + 12 Ashby/Lever/WebSearch). ~11,500+ jobs reviewed. No new US-eligible engineering roles since yesterday. 2 Zipline roles found (location-blocked: South San Francisco). Pipeline is current. Report: [scout-2026-05-23.md](../reports/scout-2026-05-23.md)
+
+---
+
 ### Scout Scan (2026-05-22) — 8 new pipeline items
 
 > 43 Greenhouse APIs + 10 WebSearch queries. ~8,200+ jobs reviewed. 8 new pipeline items (5 top-rated roles already in pipeline from prior scans). Report: [scout-2026-05-22.md](../reports/scout-2026-05-22.md)
