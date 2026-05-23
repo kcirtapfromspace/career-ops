@@ -2,6 +2,15 @@
 
 ## Pendientes
 
+### Scout Scan (2026-05-23b) — 1 new match
+
+> 42 Greenhouse APIs re-scanned (full portals.yml pass). 1 genuinely new job after full dedup against 2,661-entry scan-history. All Aurora (32), Zipline (17), Nuro (10), Fivetran (2), Glean (2), Arize (1), RunPod (1), ClickHouse (1), Rocket Lab (1), Databricks (2) roles confirmed already in history. 9 API errors (PhysicsX/Amplemarket/PolyAI/Parloa EU endpoints unreachable; Speechmatics/Helsing not fetched; Dagster empty; Anduril truncated; Anthropic partial).
+
+#### Wayve (1)
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8562545002 | Wayve | Staff Machine Learning Engineer, AV Core | Sunnyvale, California | Note: AV/ML role, Wayve is UK-based AV company with Sunnyvale office
+
+---
+
 ### Scout Scan (2026-05-23) — 0 new matches
 
 > 47 companies scanned (35 Greenhouse APIs + 12 Ashby/Lever/WebSearch). ~11,500+ jobs reviewed. No new US-eligible engineering roles since yesterday. 2 Zipline roles found (location-blocked: South San Francisco). Pipeline is current. Report: [scout-2026-05-23.md](../reports/scout-2026-05-23.md)
