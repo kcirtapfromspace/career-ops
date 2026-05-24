@@ -2809,3 +2809,11 @@
 ### Quick-Check Scan (2026-05-22)
 - [ ] https://job-boards.greenhouse.io/runpod/jobs/5229443008 | RunPod | Site Reliability Engineer | Remote, USA
 - [ ] https://job-boards.greenhouse.io/clickhouse/jobs/6000796004 | ClickHouse | Senior Software Engineer - Data Integration & JVM Ecosystem | United States Remote
+
+## Scout Scan — 2026-05-24
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5223093008 | Anthropic | Engineering Manager, Research Tools | San Francisco, CA / New York City, NY | ★4.2
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/7848689 | Reddit | Staff Machine Learning Engineer, Ranking and Personalization | Remote - United States | ★4.1
+- [ ] https://job-boards.greenhouse.io/openly/jobs/4696499005 | Openly | Engineering Manager, Data Engineering | Remote, United States | ★4.0
+- [ ] https://job-boards.greenhouse.io/smarterdx/jobs/5038937007 | SmarterDx | Data Engineering Manager | Remote, United States | ★3.8
+- [ ] https://jobs.ashbyhq.com/sentilink/0a16af65-08af-4533-8eb6-a2d6fdbfeb32 | SentiLink | Engineering Manager, Data Platform | Remote | ★3.9
