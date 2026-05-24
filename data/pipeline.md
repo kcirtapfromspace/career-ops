@@ -2,6 +2,20 @@
 
 ## Pendientes
 
+### Quick-Check Scan (2026-05-24b) — 9 new matches
+
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5145750007?gh_jid=5145750007 | Anduril | Software Engineer, Modeling and Simulation, Space | Colorado Springs, Colorado
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5083521007?gh_jid=5083521007 | Anduril | Robotics Software Engineer, Verification & Validation | Costa Mesa, California
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5134999007?gh_jid=5134999007 | Anduril | Robotics Software Engineer, Behaviors | Costa Mesa, California
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5089767007?gh_jid=5089767007 | Anduril | Senior Robotics Software Engineer, Omen Payload Integration | Costa Mesa, California
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5071598007?gh_jid=5071598007 | Anduril | Sr. Manager Systems Engineering, Autonomous Airpower | Costa Mesa, California
+- [ ] https://boards.greenhouse.io/vast/jobs/4682556006?gh_jid=4682556006 | Vast | Manager, Engineering | Long Beach, California
+- [ ] https://www.zipline.com/careers?gh_jid=7747349003 | Zipline | Principal Software Engineer, Application Software | South San Francisco, California
+- [ ] https://www.zipline.com/careers?gh_jid=7747351003 | Zipline | Senior Full Stack Software Engineer, Application Software | South San Francisco, California
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8419271002 | Databricks | AI Engineer - FDE (Forward Deployed Engineer) - U.S. Federal Sector | Maryland; Virginia; Washington D.C.
+
+---
+
 ### Quick-Check Scan (2026-05-24)
 
 - [ ] https://www.samsara.com/company/careers/roles/7349219?gh_jid=7349219 | Samsara | Senior Software Engineer I - Agent Foundations | Remote - SF Bay Area
