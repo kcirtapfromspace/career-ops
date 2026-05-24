@@ -2,6 +2,22 @@
 
 ## Pendientes
 
+### Quick-Check Scan (2026-05-24)
+
+- [ ] https://www.samsara.com/company/careers/roles/7349219?gh_jid=7349219 | Samsara | Senior Software Engineer I - Agent Foundations | Remote - SF Bay Area
+- [ ] https://www.samsara.com/company/careers/roles/7356410?gh_jid=7356410 | Samsara | Senior Software Engineer I - Agent Foundations | Remote - US
+- [ ] https://www.zipline.com/careers?gh_jid=7747479003 | Zipline | Principal Software Engineer, Application Software (Remote) | Remote in USA
+- [ ] https://www.zipline.com/careers?gh_jid=7747476003 | Zipline | Senior Full Stack Software Engineer, Application Software (Remote) | Remote in USA
+- [ ] https://www.zipline.com/careers?gh_jid=7676378003 | Zipline | Senior Software Engineer, Repair and Reliability | South San Francisco, California, USA
+- [ ] https://www.zipline.com/careers?gh_jid=7747348003 | Zipline | Sr. Staff Full Stack Software Engineer, Application Software | South San Francisco, California, USA
+- [ ] https://www.zipline.com/careers?gh_jid=7747478003 | Zipline | Sr. Staff Full Stack Software Engineer, Application Software (Remote) | Remote in USA
+- [ ] https://www.zipline.com/careers?gh_jid=7747330003 | Zipline | Staff Full Stack Software Engineer, Application Software | South San Francisco, California, USA
+- [ ] https://www.zipline.com/careers?gh_jid=7747477003 | Zipline | Staff Full Stack Software Engineer, Application Software (Remote) | Remote in USA
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/6000801004 | ClickHouse | Senior Software Engineer - Data Integration & JVM Ecosystem | Amsterdam (Remote)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5081338008 | Anthropic | Engineering Manager, API Core Capabilities | San Francisco, CA | New York City, NY
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5117296008 | Anthropic | Engineering Manager, UI Platform | San Francisco, CA | New York City, NY | Seattle, WA
+- [ ] https://www.zipline.com/careers?gh_jid=7747190003 | Zipline | Software Engineer – Marketplace Growth | South San Francisco, California, USA
+
 ### Scout Scan (2026-05-23b) — 1 new match
 
 > 42 Greenhouse APIs re-scanned (full portals.yml pass). 1 genuinely new job after full dedup against 2,661-entry scan-history. All Aurora (32), Zipline (17), Nuro (10), Fivetran (2), Glean (2), Arize (1), RunPod (1), ClickHouse (1), Rocket Lab (1), Databricks (2) roles confirmed already in history. 9 API errors (PhysicsX/Amplemarket/PolyAI/Parloa EU endpoints unreachable; Speechmatics/Helsing not fetched; Dagster empty; Anduril truncated; Anthropic partial).
