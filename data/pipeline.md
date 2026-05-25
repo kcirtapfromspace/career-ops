@@ -2,6 +2,35 @@
 
 ## Pendientes
 
+### Scout Scan (2026-05-25) — 19 new matches
+
+> 35 Greenhouse APIs fetched across 7 parallel groups + 4 WebSearch queries. ~1,200+ jobs reviewed. 19 new US-eligible engineering/EM roles passing all filters after dedup against 2,898-entry scan-history. Report: [scout-2026-05-25.md](../reports/scout-2026-05-25.md)
+
+#### Top Picks (4.0+)
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7483663003 | Fivetran | Senior Staff Software Engineer, Binary Log Data Replication | Denver, Colorado
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5993847004 | ClickHouse | Senior Data Engineer - Dbt CI/CD | AMER Remote
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5100259007 | Temporal | Senior Engineering Manager, AI Developer Experience | Remote, USA
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5155391008 | Anthropic | Engineering Manager, Inference Routing and Performance | San Francisco, CA | New York City, NY | Seattle, WA
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5125387008 | Anthropic | Analytics Data Engineering Manager, Product | San Francisco, CA | New York City, NY | Seattle, WA
+- [ ] https://jobs.ashbyhq.com/modal/06617175-0149-44c3-be5f-e73fa49b250a | Modal | Data Engineer | Remote (US)
+
+#### Good Matches (3.5–3.9)
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7581688003 | Fivetran | Senior Site Reliability Engineer | Denver, Colorado
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4676390006 | Chainguard | Staff Software Engineer, Customer Platform | Remote - USA
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4639034006 | Chainguard | Staff Software Engineer, Integrations | Remote - USA
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5038049007 | Temporal | Senior Staff Software Engineer, Infrastructure | Remote, USA
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5111582007 | Temporal | Senior Software Engineer, AI Developer Experience | Remote, USA
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5819674004 | ClickHouse | Senior Software Engineer - Cloud Infrastructure | Remote (AMER)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5141377008 | Anthropic | Engineering Manager, Cloud Inference AWS | San Francisco, CA | Seattle, WA
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5140492008 | Anthropic | Engineering Manager, Vertical AI Products | New York City, NY | San Francisco, CA
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/7689257 | Planet Labs | Senior Geospatial AI/ML Engineer | San Francisco, CA | Denver, CO
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/7603834 | Planet Labs | Senior Software Engineering Manager | Remote, United States
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4665557005 | Scale AI | Infrastructure Software Engineer, Enterprise GenAI | San Francisco, CA | New York City, NY
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4689751005 | Scale AI | Senior AI Infrastructure Engineer, Training Platform | San Francisco, CA | New York City, NY
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7701049003 | Fivetran | Staff Site Reliability Engineer | Oakland, California
+
+---
+
 ### Quick-Check Scan (2026-05-24b) — 9 new matches
 
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5145750007?gh_jid=5145750007 | Anduril | Software Engineer, Modeling and Simulation, Space | Colorado Springs, Colorado
