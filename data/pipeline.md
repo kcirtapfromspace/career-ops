@@ -2,6 +2,17 @@
 
 ## Pendientes
 
+
+### Quick-Check Scan (2026-05-26)
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5229976008 | Anthropic | Data Engineering Manager, GTM & Marketing | New York City, NY; San Francisco, CA | New York City, NY; Seattle, WA
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5013743008 | Anthropic | Technical Program Manager, Data Center Infrastructure | San Francisco, CA | New York City, NY | Seattle, WA
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/4802146007?gh_jid=4802146007 | Anduril | Early Career Software Engineer | Broomfield, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5143589007?gh_jid=5143589007 | Anduril | Radar Software Engineer | Broomfield, Colorado, United States; Fort Collins, Colorado, United States
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5144187007?gh_jid=5144187007 | Anduril | Staff Software Engineer, Production Solutions | Seattle, Washington, United States
+- [ ] https://www.samsara.com/company/careers/roles/7752678?gh_jid=7752678 | Samsara | Staff Software Engineer | Remote - CA
+
+
 ### Scout Scan (2026-05-26) — 24 new matches
 
 > 41 Greenhouse APIs fetched (Dagster empty), 7 WebSearch queries run. ~1,400+ jobs reviewed. 24 new US-eligible engineering/EM roles passing all filters after dedup against 2,963-entry scan-history. Report: [scout-2026-05-26.md](../reports/scout-2026-05-26.md)

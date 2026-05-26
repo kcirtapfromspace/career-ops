@@ -18,7 +18,7 @@ const POSITIVE = [
   'manager, platform', 'manager, infrastructure', 'manager, engineering', 'engineering lead',
 ];
 const NEGATIVE = [
-  'junior', 'intern', '.net', 'java ', 'ios', 'android', 'php', 'ruby', 'embedded',
+  'junior', 'intern', 'early career', '.net', 'java ', 'ios', 'android', 'php', 'ruby', 'embedded',
   'firmware', 'fpga', 'asic', 'blockchain', 'web3', 'crypto', 'salesforce admin',
   'sap ', 'oracle ebs', 'mainframe', 'cobol',
 ];
