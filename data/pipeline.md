@@ -2921,3 +2921,8 @@
 - [ ] https://job-boards.greenhouse.io/openly/jobs/4696499005 | Openly | Engineering Manager, Data Engineering | Remote, United States | ★4.0
 - [ ] https://job-boards.greenhouse.io/smarterdx/jobs/5038937007 | SmarterDx | Data Engineering Manager | Remote, United States | ★3.8
 - [ ] https://jobs.ashbyhq.com/sentilink/0a16af65-08af-4533-8eb6-a2d6fdbfeb32 | SentiLink | Engineering Manager, Data Platform | Remote | ★3.9
+
+## Scout Quick-Check — 2026-05-26 (Greenhouse APIs)
+
+### Zipline
+- [ ] https://www.zipline.com/careers?gh_jid=7748936003 | Zipline | Senior Software Engineer — Maps Routing | South San Francisco, California, USA

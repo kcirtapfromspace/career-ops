@@ -45,6 +45,20 @@ False positive — "Early Career" is not in the negative keyword list (only "Jun
 
 ---
 
+## Additional Sweep (2026-05-26 pass 2 — all 42 Greenhouse APIs)
+
+One additional new match found beyond the 6 above:
+
+| Company | Role | Location | URL |
+|---------|------|----------|-----|
+| Zipline | Senior Software Engineer — Maps Routing | South San Francisco, CA | https://www.zipline.com/careers?gh_jid=7748936003 |
+
+4 other title-matched jobs were location-filtered (non-US remote):
+- Samsara: Senior Software Engineer I - Agent Foundations (Remote - Canada)
+- ClickHouse: Senior Software Engineer - Data Integration & JVM Ecosystem × 3 (Canada, UK, Germany remote — US variant already tracked)
+
+---
+
 ## Coverage Notes
 
 - **Dagster:** API returns `[]` (stale slug post-Databricks acquisition).
