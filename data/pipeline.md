@@ -2,6 +2,40 @@
 
 ## Pendientes
 
+### Scout Scan (2026-05-26) — 24 new matches
+
+> 41 Greenhouse APIs fetched (Dagster empty), 7 WebSearch queries run. ~1,400+ jobs reviewed. 24 new US-eligible engineering/EM roles passing all filters after dedup against 2,963-entry scan-history. Report: [scout-2026-05-26.md](../reports/scout-2026-05-26.md)
+
+#### Top Picks (4.0+)
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7544099 | Contentful | Data Engineer | Denver, Colorado
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5776991004 | ClickHouse | Senior Backend Engineer - Infrastructure (ClickPipes) | United States
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5843425004 | ClickHouse | Database Reliability Engineer - Core Team | United States (Remote)
+- [ ] https://jobs.ashbyhq.com/confluent/5c5eb5ed-e880-447e-a76e-e056ce2acfb9 | Confluent | Senior Manager, Engineering - KORA | Remote
+- [ ] https://jobs.ashbyhq.com/confluent/6f9f7932-2647-4562-b10b-fe70eb27d007 | Confluent | Manager II, Engineering - Secure Compute Platform | Remote
+- [ ] https://jobs.ashbyhq.com/modal/aa4c345a-66e1-45b7-8c75-b7b4a0662eaa | Modal | Systems Engineering Manager | Remote
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5421310004 | Arize AI | Engineering Manager - Product & Platform | Remote (United States)
+- [ ] https://jobs.lever.co/spotify/e6889c35-76a9-4da7-8dc2-05b6070cc298 | Spotify | Machine Learning Engineering Manager - LLM Serving & Infrastructure | Remote
+
+#### Good Matches (3.5–3.9)
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5778617004 | ClickHouse | Cloud Database Infrastructure Engineer | United States (Remote)
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5802320004 | ClickHouse | Cloud Platform Engineer - Control Plane | United States (remote)
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5819754004 | ClickHouse | Senior Site Reliability Engineer | United States (remote)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5159608008 | Anthropic | Engineering Manager, Agent Prompts & Evals | San Francisco, CA | New York City, NY
+- [ ] https://jobs.ashbyhq.com/modal/84467a68-6876-4730-9d80-6c6f3d0c2d71 | Modal | Member of Technical Staff - Platform Engineering | Remote
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5706417004 | ClickHouse | Senior Infrastructure Engineer - Postgres | United States (remote)
+- [ ] https://jobs.ashbyhq.com/confluent/90949913-fc2b-47aa-8015-fcd264b352ae | Confluent | Staff Software Engineer - Kora Orchestration | Remote
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5461002004 | Vercel | Sr. Engineering Manager, Platform | Hybrid - San Francisco, New York City
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5777065004 | ClickHouse | Senior Full Stack Software Engineer - ClickPipes Platform | United States
+- [ ] https://job-boards.greenhouse.io/humeai/jobs/5064248008 | Hume AI | Senior Platform Engineer | New York, New York, United States
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4614747006 | Figure AI | Staff Site Reliability Engineer | San Jose, CA
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5396396004 | Arize AI | Senior AI Product Engineer, Backend | Remote (United States)
+- [ ] https://jobs.lever.co/spotify/aaa18791-cdb6-493a-87c8-ef233f848a99 | Spotify | Engineering Manager – Messaging Platform & Tooling | Remote
+- [ ] https://jobs.ashbyhq.com/weaviate/6d8fc83f-5be8-43a6-a820-1fe4999ed770 | Weaviate | Cloud Platform Engineer | Remote
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4654833005 | Glean | Lead Site Reliability Engineer | Mountain View, CA
+- [ ] http://stability.ai/careers?gh_jid=4712826101 | Stability AI | Generative AI Inference Engineer | United States
+
+---
+
 ### Scout Scan (2026-05-25) — 19 new matches
 
 > 35 Greenhouse APIs fetched across 7 parallel groups + 4 WebSearch queries. ~1,200+ jobs reviewed. 19 new US-eligible engineering/EM roles passing all filters after dedup against 2,898-entry scan-history. Report: [scout-2026-05-25.md](../reports/scout-2026-05-25.md)
