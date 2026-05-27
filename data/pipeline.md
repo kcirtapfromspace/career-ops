@@ -3,6 +3,23 @@
 ## Pendientes
 
 
+### Scout Scan (2026-05-27) — 6 new matches
+
+> 43 Greenhouse APIs fetched (Dagster empty), 10 WebSearch queries run. ~1,400+ jobs reviewed. 6 net-new US-eligible engineering/EM roles passing all filters after dedup. Report: [scout-2026-05-27.md](../reports/scout-2026-05-27.md)
+
+#### Top Picks (4.0+)
+
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/7231198 | Reddit | Senior Data Engineer, ML Platform | Remote US | ★ 4.5/5 — Senior DE on ML Platform at Reddit; Remote US; $190K–$267K comp; strong Python/data pipeline fit; Greenhouse API discovery
+- [ ] https://jobs.ashbyhq.com/confluent/df74e0f3-d2c2-4aa6-bf74-a30165dbb221 | Confluent | Engineering Manager II, Stream Governance | Remote | ★ 4.5/5 — EM role at Kafka-native streaming data company; stream catalog/governance domain; fully remote; strong distributed systems leadership fit
+- [ ] https://jobs.lever.co/spotify/deee653b-ec92-47f1-9faa-237170b32d1f | Spotify | Data Infrastructure Engineer, Data Platform | Remote/Flexible | ★ 4.0/5 — Core event delivery infra (trillions of events/day); data platform at scale; flexible remote; strong data engineering signal
+- [ ] https://jobs.lever.co/shieldai/3992490c-f070-4e5d-9cdd-5a035b21b5a3 | Shield AI | Staff Engineer, Platform/SRE (R4188) | SD/DC/Remote | ★ 4.0/5 — Staff Platform/SRE at AI-native defense tech company; Kubernetes/infra focus; remote option; note: defense sector
+
+#### Good Matches (3.5–3.9)
+
+- [ ] https://jobs.lever.co/wandb/edc72af7-6058-456c-9cac-b3367b87440a | Weights & Biases | Senior Software Engineer, Workspaces | US Remote | ★ 3.5/5 — Senior SWE on ML experiment tracking platform; US remote; $177K–$245K comp; product-focused engineering
+- [ ] https://job-boards.greenhouse.io/khanacademy/jobs/7444430 | Khan Academy | Senior Platform Engineer I, ML Data Systems | Remote US | ★ 3.5/5 — ML data systems platform engineer; remote US; note: 24-month fixed-term contract; mission-driven; likely lower comp ceiling
+
+
 ### Quick-Check Scan (2026-05-26)
 
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5229976008 | Anthropic | Data Engineering Manager, GTM & Marketing | New York City, NY; San Francisco, CA | New York City, NY; Seattle, WA
