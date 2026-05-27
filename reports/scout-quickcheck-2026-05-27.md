@@ -1,74 +1,71 @@
 # Scout Quick-Check — 2026-05-27
 
-**Type:** Greenhouse API scan (no WebSearch)
-**Boards checked:** 42
-**Total jobs scanned:** ~5,500+
-**New matches added to pipeline:** 23
-**API errors:** 0
+**Method:** Greenhouse API only (52 companies, batches of 5)
+**APIs fetched:** 51 (Anduril failed: ENOBUFS — response too large for curl buffer)
+**Total jobs scanned:** 5,408
+**Raw matches (pre-dedup analysis):** 39 (38 Zipline + 1 Planet Labs)
+**Genuinely new matches:** 0
 
 ---
 
-## Summary
+## Result: No New Matches
 
-All 41 non-Zipline companies returned 0 new matches — their boards are fully covered by prior scans.
+All 39 apparent matches were false positives caused by a URL format mismatch in the deduplication logic:
 
-Zipline (slug `flyzipline`) surfaced 40 previously unseen jobs. The slug changed from `ziplineofficial` to `flyzipline` around 2026-04-25, which is why all their jobs appeared fresh. 23 relevant software/data/infra/platform roles were added to pipeline; 17 hardware/specialized roles were filtered out and logged as `skipped_irrelevant`.
+- **Zipline (38):** Greenhouse API returns `https://www.zipline.com/careers?gh_jid=XXXXXX#open-roles` (with `#open-roles` fragment). Scan history stores jobs as `https://www.zipline.com/careers?gh_jid=XXXXXX` (no fragment). After normalizing (strip `gh_jid=`), both become different strings so dedup fails. All 38 job IDs confirmed present in history from prior scans (2026-05-15, 2026-05-26).
 
-**Note on location:** Most Zipline roles are onsite South San Francisco. 4 remote roles flagged (marked `Remote in USA`).
+- **Planet Labs (1):** "Software Engineer, Manufacturing Systems" (job 7907779, San Francisco). Genuinely new URL, but role is hardware manufacturing support — not a data/platform/ML engineering role relevant to Patrick. Logged to history as checked, excluded from pipeline.
 
----
+## Coverage Summary
 
-## New Matches — Zipline (23)
+| Company | Jobs | New | Notes |
+|---------|------|-----|-------|
+| Anthropic | 385 | 0 | All known |
+| Anduril | — | — | ❌ ENOBUFS (board too large) |
+| PolyAI | 18 | 0 | All known |
+| Parloa | 59 | 0 | All known |
+| Intercom | 156 | 0 | All known |
+| Hume AI | 7 | 0 | All known |
+| Airtable | 23 | 0 | All known |
+| Vercel | 77 | 0 | All known |
+| Temporal | 47 | 0 | All known |
+| Arize AI | 43 | 0 | All known |
+| RunPod | 19 | 0 | All known |
+| Glean | 169 | 0 | All known |
+| Speechmatics | 18 | 0 | All known |
+| Black Forest Labs | 16 | 0 | All known |
+| Helsing | 127 | 0 | All known |
+| Celonis | 188 | 0 | All known |
+| Contentful | 89 | 0 | All known |
+| GetYourGuide | 61 | 0 | All known |
+| HelloFresh | 398 | 0 | All known |
+| N26 | 49 | 0 | All known |
+| Trade Republic | 57 | 0 | All known |
+| SumUp | 459 | 0 | All known |
+| Scandit | 19 | 0 | All known |
+| Wayve | 106 | 0 | All known |
+| Isomorphic Labs | 25 | 0 | All known |
+| PhysicsX | 39 | 0 | All known |
+| Stability AI | 11 | 0 | All known |
+| Amplemarket | 17 | 0 | All known |
+| Dagster | — | — | Empty board |
+| Fivetran | 140 | 0 | All known |
+| Samsara | 327 | 0 | All known |
+| Chainguard | 61 | 0 | All known |
+| Rocket Lab | 306 | 0 | All known |
+| Vast | 139 | 0 | All known |
+| Aurora Innovation | 159 | 0 | All known |
+| Nuro | 102 | 0 | All known |
+| Zipline | 198 | 0* | *38 URL-format false positives, confirmed duplicates |
+| Figure AI | 109 | 0 | All known |
+| Planet Labs | 76 | 0* | *1 manufacturing role logged, not relevant |
+| Scale AI | 167 | 0 | All known |
+| Databricks | 776 | 0 | All known |
+| ClickHouse | 166 | 0 | All known |
 
-All URLs: `https://job-boards.greenhouse.io/flyzipline/jobs/{id}`
+## Note: Known Bug
 
-### Remote-first (4)
-| Title | Location |
-|-------|----------|
-| Principal Software Engineer, Application Software (Remote) | Remote in USA |
-| Senior Full Stack Software Engineer, Application Software (Remote) | Remote in USA |
-| Sr. Staff Full Stack Software Engineer, Application Software (Remote) | Remote in USA |
-| Staff Full Stack Software Engineer, Application Software (Remote) | Remote in USA |
-
-### South San Francisco (onsite / hybrid) (19)
-| Title | Notes |
-|-------|-------|
-| Senior Manager, Data Platform & Autonomy Infrastructure | **Top pick** — data platform + infra management |
-| Fullstack - Data Platform (Autonomy) | **Top pick** — data platform, autonomy domain |
-| Software Engineer - Systems Validation Infrastructure | Infrastructure role |
-| Senior Software Engineer – Datacenter Automation | Automation/DevOps adjacent |
-| Staff Software Engineer - Sky Traffic Platform | Platform engineering |
-| Senior Software Engineer, Delivery Network Platform | Platform engineering |
-| Senior or Staff Software Engineer – Cloud Communications Platform | Cloud platform |
-| Senior Software Engineer – Developer Productivity | DevOps/tooling |
-| Autonomy Platform Software Engineer | Platform + autonomy |
-| Autonomy Software Engineer | Autonomy systems |
-| Principal Software Engineer, Application Software | SF onsite |
-| Senior Full Stack Software Engineer, Application Software | SF onsite |
-| Senior Full Stack Software Engineer - Health Care | Remote in USA also listed |
-| Senior Software Engineer, Commerce Platform | Platform eng |
-| Senior Software Engineer, Enterprise Systems | General SWE |
-| Senior Software Engineering Manager, Financial Platform | EM role — Dallas-Fort Worth / SF |
-| Senior Software Engineer – Rust Language Maintainer | Rust systems |
-| Sr. Staff Full Stack Software Engineer, Application Software | SF onsite |
-| Staff Full Stack Software Engineer, Application Software | SF onsite |
-
----
-
-## Boards with 0 new matches
-
-All major boards were fully up-to-date (0 new matches after dedup):
-Anthropic (387), Anduril (1951), Glean (169), Databricks (774), Samsara (317),
-Rocket Lab (303), HelloFresh (397), SumUp (454), Celonis (189), and 32 others.
-
----
-
-## Action Items
-
-1. **Priority evaluate:** Senior Manager, Data Platform & Autonomy Infrastructure (Zipline)
-2. **Remote roles:** 4 remote Application Software roles at Zipline worth a quick look
-3. **Run full scan** if you want broader coverage (includes Ashby, Lever, WebSearch)
+`quickcheck.mjs` uses `normalizeUrl()` which strips `?gh_jid=` query params but does not strip `#open-roles` URL fragments. Zipline's Greenhouse API returns URLs with the fragment appended. Combined with the scan history format (no fragment), this causes Zipline jobs to bypass dedup on every run. Fix: also strip URL fragments in `normalizeUrl()`, and/or add gh_jid-based dedup as a fallback.
 
 ---
-
-*Generated by scout-quickcheck agent | career-ops v1.2.0*
+_Quick-check run by career-ops scout agent on 2026-05-27_

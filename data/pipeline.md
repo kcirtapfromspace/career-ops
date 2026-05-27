@@ -2,6 +2,11 @@
 
 ## Pendientes
 
+### Quick-Check Scan (2026-05-27)
+
+> 52 Greenhouse APIs scanned. 0 net-new matches (38 Zipline false-positives removed — URL format mismatch; 1 Planet Labs manufacturing role logged to history as irrelevant). Report: [scout-quickcheck-2026-05-27.md](../reports/scout-quickcheck-2026-05-27.md)
+
+
 
 ### Scout Scan (2026-05-27) — 6 new matches
 

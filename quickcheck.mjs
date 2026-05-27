@@ -46,7 +46,12 @@ if (existsSync(historyPath)) {
   const lines = readFileSync(historyPath, 'utf8').split('\n');
   for (const line of lines) {
     const url = line.split('\t')[0].trim();
-    if (url) seenUrls.add(url);
+    if (url) {
+      seenUrls.add(url);
+      // Also index without URL fragment to catch #open-roles variants
+      const noFrag = url.split('#')[0];
+      if (noFrag !== url) seenUrls.add(noFrag);
+    }
   }
 }
 console.error(`Loaded ${seenUrls.size} known URLs from scan history.`);
@@ -167,7 +172,7 @@ for (const result of results) {
   for (const job of result.jobs) {
     const title = job.title || '';
     const location = extractLocation(job);
-    const url = job.absolute_url || '';
+    const url = (job.absolute_url || '').split('#')[0]; // strip URL fragments (e.g. #open-roles)
     if (!url || seenUrls.has(url)) continue;
     if (!titleMatches(title)) continue;
     if (!locationAccepted(location)) continue;
