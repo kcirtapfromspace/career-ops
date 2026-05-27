@@ -2833,3 +2833,33 @@
 - [ ] https://job-boards.greenhouse.io/openly/jobs/4696499005 | Openly | Engineering Manager, Data Engineering | Remote, United States | ★4.0
 - [ ] https://job-boards.greenhouse.io/smarterdx/jobs/5038937007 | SmarterDx | Data Engineering Manager | Remote, United States | ★3.8
 - [ ] https://jobs.ashbyhq.com/sentilink/0a16af65-08af-4533-8eb6-a2d6fdbfeb32 | SentiLink | Engineering Manager, Data Platform | Remote | ★3.9
+
+## Scout Quick-Check — 2026-05-26 (Greenhouse APIs)
+
+### Zipline
+- [ ] https://www.zipline.com/careers?gh_jid=7748936003 | Zipline | Senior Software Engineer — Maps Routing | South San Francisco, California, USA
+
+### Zipline (quickcheck 2026-05-27)
+- [ ] https://job-boards.greenhouse.io/flyzipline/jobs/7516682003 | Zipline | Autonomy Platform Software Engineer [South San Francisco, California, USA]
+- [ ] https://job-boards.greenhouse.io/flyzipline/jobs/6570283003 | Zipline | Autonomy Software Engineer [South San Francisco, California, USA]
+- [ ] https://job-boards.greenhouse.io/flyzipline/jobs/7607673003 | Zipline | Fullstack - Data Platform (Autonomy)  [South San Francisco, California, USA]
+- [ ] https://job-boards.greenhouse.io/flyzipline/jobs/7747349003 | Zipline | Principal Software Engineer, Application Software [South San Francisco, California, USA]
+- [ ] https://job-boards.greenhouse.io/flyzipline/jobs/7747479003 | Zipline | Principal Software Engineer, Application Software (Remote) [Remote in USA]
+- [ ] https://job-boards.greenhouse.io/flyzipline/jobs/7747351003 | Zipline | Senior Full Stack Software Engineer, Application Software [South San Francisco, California, USA]
+- [ ] https://job-boards.greenhouse.io/flyzipline/jobs/7747476003 | Zipline | Senior Full Stack Software Engineer, Application Software (Remote) [Remote in USA]
+- [ ] https://job-boards.greenhouse.io/flyzipline/jobs/7667529003 | Zipline | Senior Full Stack Software Engineer - Health Care [Kigali, Rwanda; Remote in USA, USA; Remote, EMEA]
+- [ ] https://job-boards.greenhouse.io/flyzipline/jobs/7663467003 | Zipline | Senior Manager, Data Platform & Autonomy Infrastructure [South San Francisco, California, USA]
+- [ ] https://job-boards.greenhouse.io/flyzipline/jobs/7656397003 | Zipline | Senior or Staff Software Engineer – Cloud Communications Platform [South San Francisco, California, USA]
+- [ ] https://job-boards.greenhouse.io/flyzipline/jobs/7679440003 | Zipline | Senior Software Engineer, Commerce Platform [South San Francisco, California, USA]
+- [ ] https://job-boards.greenhouse.io/flyzipline/jobs/7411621003 | Zipline | Senior Software Engineer – Datacenter Automation [South San Francisco, California, USA]
+- [ ] https://job-boards.greenhouse.io/flyzipline/jobs/7676377003 | Zipline | Senior Software Engineer, Delivery Network Platform [South San Francisco, California, USA]
+- [ ] https://job-boards.greenhouse.io/flyzipline/jobs/7303683003 | Zipline | Senior Software Engineer – Developer Productivity [South San Francisco, California, USA]
+- [ ] https://job-boards.greenhouse.io/flyzipline/jobs/7674944003 | Zipline | Senior Software Engineer, Enterprise Systems [South San Francisco, California, USA]
+- [ ] https://job-boards.greenhouse.io/flyzipline/jobs/7743068003 | Zipline | Senior Software Engineering Manager, Financial Platform [Dallas-Fort Worth, Texas, USA; South San Francisco, California, USA]
+- [ ] https://job-boards.greenhouse.io/flyzipline/jobs/7331341003 | Zipline | Senior Software Engineer – Rust Language Maintainer [South San Francisco, California, USA]
+- [ ] https://job-boards.greenhouse.io/flyzipline/jobs/7564211003 | Zipline | Software Engineer - Systems Validation Infrastructure  [South San Francisco, California, USA]
+- [ ] https://job-boards.greenhouse.io/flyzipline/jobs/7747348003 | Zipline | Sr. Staff Full Stack Software Engineer, Application Software [South San Francisco, California, USA]
+- [ ] https://job-boards.greenhouse.io/flyzipline/jobs/7747478003 | Zipline | Sr. Staff Full Stack Software Engineer, Application Software (Remote) [Remote in USA]
+- [ ] https://job-boards.greenhouse.io/flyzipline/jobs/7747330003 | Zipline | Staff Full Stack Software Engineer, Application Software [South San Francisco, California, USA]
+- [ ] https://job-boards.greenhouse.io/flyzipline/jobs/7747477003 | Zipline | Staff Full Stack Software Engineer, Application Software (Remote) [Remote in USA]
+- [ ] https://job-boards.greenhouse.io/flyzipline/jobs/5886248003 | Zipline | Staff Software Engineer - Sky Traffic Platform [South San Francisco, California, USA]
