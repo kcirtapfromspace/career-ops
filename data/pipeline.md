@@ -31,6 +31,18 @@
 - [ ] https://nuro.ai/careersitem?gh_jid=7958983 | Nuro | Senior Software Engineer, FinOps | Mountain View, California (HQ)
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8567602002 | Databricks | Sr. Manager, Engineering  Configuration Platform Team | Bellevue, Washington
 
+### Quick-Check Scan — 2026-05-28 (Part 2 — Greenhouse API deep scan)
+
+> 42 Greenhouse API boards scanned. 7 net-new matches after dedup. Report: [scout-quickcheck-2026-05-28.md](../reports/scout-quickcheck-2026-05-28.md)
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5206492008 | Anthropic | Engineering Manager, Platform Foundations | San Francisco, CA
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5148493007 | Temporal | Staff Software Engineer, Cloud Identity | United States Remote
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8565121002 | Airtable | Manager, Data Engineering | San Francisco, CA / New York, NY / Austin, TX
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8013809002 | Databricks | Engineering Manager - UI Platform | Seattle, Washington
+- [ ] https://aurora.tech/jobs/8362569002?gh_jid=8362569002 | Aurora Innovation | Staff Client Platform Engineer | Mountain View, California
+- [ ] https://aurora.tech/jobs/8539939002?gh_jid=8539939002 | Aurora Innovation | Staff Client Platform Engineer | San Francisco, California
+- [ ] https://aurora.tech/jobs/8539943002?gh_jid=8539943002 | Aurora Innovation | Staff Client Platform Engineer | Seattle, Washington
+
 
 ### Quick-Check Scan (2026-05-27)
 

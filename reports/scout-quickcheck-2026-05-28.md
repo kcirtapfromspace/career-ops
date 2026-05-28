@@ -43,3 +43,22 @@
 | Clickhouse | 166 | 75 |
 
 All other boards: ≤30 title matches, fully deduped against history.
+
+---
+
+## Part 2 — Deep Greenhouse API Scan (42 boards, same session)
+
+**Additional new matches found:** 7  
+**Dedup baseline:** 8,092+ previously seen Greenhouse URLs  
+
+| # | Company | Title | Location | URL |
+|---|---------|-------|----------|-----|
+| 6 | **Anthropic** | Engineering Manager, Platform Foundations | San Francisco, CA | [link](https://job-boards.greenhouse.io/anthropic/jobs/5206492008) |
+| 7 | **Temporal** | Staff Software Engineer, Cloud Identity | US Remote | [link](https://job-boards.greenhouse.io/temporaltechnologies/jobs/5148493007) |
+| 8 | **Airtable** | Manager, Data Engineering | SF / NYC / Austin | [link](https://job-boards.greenhouse.io/airtable/jobs/8565121002) |
+| 9 | **Databricks** | Engineering Manager - UI Platform | Seattle, WA | [link](https://databricks.com/company/careers/open-positions/job?gh_jid=8013809002) |
+| 10 | **Aurora Innovation** | Staff Client Platform Engineer | Mountain View, CA | [link](https://aurora.tech/jobs/8362569002?gh_jid=8362569002) |
+| 11 | **Aurora Innovation** | Staff Client Platform Engineer | San Francisco, CA | [link](https://aurora.tech/jobs/8539939002?gh_jid=8539939002) |
+| 12 | **Aurora Innovation** | Staff Client Platform Engineer | Seattle, WA | [link](https://aurora.tech/jobs/8539943002?gh_jid=8539943002) |
+
+**Notable no-changes:** Dagster (0 open roles), Chainguard/Scale AI/ClickHouse/Fivetran fully deduped, PolyAI/Speechmatics/Helsing EU-only.
