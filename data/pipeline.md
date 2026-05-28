@@ -22,6 +22,16 @@
 
 ## Pendientes
 
+
+### Quick-Check Scan (2026-05-28)
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5229345008 | Anthropic | Software Engineer, Claude Design | San Francisco, CA | New York City, NY | Seattle, WA
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5126634007?gh_jid=5126634007 | Anduril | Senior Machine Learning Engineer | Fort Collins, Colorado, United States
+- [ ] https://aurora.tech/jobs/8557100002?gh_jid=8557100002 | Aurora Innovation | Staff Software Engineer, Logging | Mountain View, California
+- [ ] https://nuro.ai/careersitem?gh_jid=7958983 | Nuro | Senior Software Engineer, FinOps | Mountain View, California (HQ)
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8567602002 | Databricks | Sr. Manager, Engineering  Configuration Platform Team | Bellevue, Washington
+
+
 ### Quick-Check Scan (2026-05-27)
 
 > 52 Greenhouse APIs scanned. 0 net-new matches (38 Zipline false-positives removed — URL format mismatch; 1 Planet Labs manufacturing role logged to history as irrelevant). Report: [scout-quickcheck-2026-05-27.md](../reports/scout-quickcheck-2026-05-27.md)
