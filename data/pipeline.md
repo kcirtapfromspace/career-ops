@@ -1,5 +1,25 @@
 # Pipeline — Pending Offers
 
+## 2026-05-28
+
+> 5 new matches from Ashby/Greenhouse WebSearch fallback scan. Ashby JS-rendered, Lever 403, Anduril too large — all fell back to WebSearch. Report: [scout-2026-05-28.md](../reports/scout-2026-05-28.md)
+
+#### Top Picks (4.0+)
+
+- [ ] https://job-boards.greenhouse.io/dbtlabsinc/jobs/4531751005 | dbt Labs | Senior AI/ML Platform Engineer II | US Remote (Denver $191K–$231K) | ★ 4.2/5 — Kafka+K8s+Snowflake ML cost anomaly platform; Denver-tier salary hits target; direct data platform stack match
+- [ ] https://job-boards.greenhouse.io/marqeta/jobs/7859782 | Marqeta | Senior Software Engineer, Data Infrastructure | US Remote (flex-first) | ★ 4.0/5 — Data lakehouse/streaming/K8s infra team; est. $190K–$220K; Marqeta flex-first remote
+
+#### Other Matches (3.5–3.9)
+
+- [ ] https://job-boards.greenhouse.io/medallionakafirstlayerai/jobs/4195457009 | Medallion | Staff Machine Learning Engineer | US Remote | ★ 3.8/5 — LLM pipelines + ML infra automation; $190K–$240K; healthcare AI, strong ML systems fit
+- [ ] https://job-boards.greenhouse.io/fastspring/jobs/5836608004 | FastSpring | Staff Data Engineer | US Remote | ★ 3.3/5 — Next-gen data platform architect; B2B SaaS (smaller company); comp unconfirmed — verify before deep dive
+
+#### Needs Location Verification
+
+- [ ] https://job-boards.greenhouse.io/hs/jobs/7776472 | Headspace | Staff Data Engineer | Hybrid (verify LA office req) | ★ 3.2/5 — $140K–$224K; role requires 3 days/week in-office — confirm if Denver/remote acceptable before applying
+
+---
+
 ## Pendientes
 
 ### Quick-Check Scan (2026-05-27)
