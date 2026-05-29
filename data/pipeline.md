@@ -1,5 +1,36 @@
 # Pipeline — Pending Offers
 
+## 2026-05-29
+
+> Full portal scan: 25 Tier 1 + 12 Tier 2 Greenhouse API boards + 6 WebSearch discovery queries. ~1,860+ jobs reviewed. 12 scored matches (8 top picks ≥4.0, 4 good matches 3.5–3.9) + 4 WebSearch discoveries pending JD verification. Report: [scout-2026-05-29.md](../reports/scout-2026-05-29.md)
+
+#### Top Picks (4.0+)
+
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5119529007 | Temporal | Staff Software Engineer, Observability | US Remote ($212K–$286K) | ★ 4.8/5 — Go+K8s+ClickHouse+Prometheus/Grafana/Thanos at scale; direct Four Golden Signals observability match; Patrick's strongest alignment this scan
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5038049007 | Temporal | Senior Staff Software Engineer, Infrastructure | US Remote ($260K–$325K) | ★ 4.7/5 — Top-of-market comp; multi-cloud infra architect; 10+ years required; production federal-scale platform experience maps directly
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5107194007 | Temporal | Staff Software Engineer, Infrastructure Foundations | US Remote ($212K–$286K) | ★ 4.5/5 — Go/Java + AWS/GCP + compute/networking/storage; 8+ years; strong infra foundations match
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5421310004 | Arize AI | Engineering Manager, Product & Platform | US Remote ($180K–$250K) | ★ 4.5/5 — ML observability EM; observability+ML intersection; informal EM 3yrs maps well; Series B startup risk
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5125387008 | Anthropic | Analytics Data Engineering Manager, Product | SF/NY/Seattle hybrid 25% ($370K–$450K) | ★ 4.3/5 — Exceptional comp; dbt+SQL+analytics pipelines; Seattle acceptable; verify formal EM years requirement
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5100259007 | Temporal | Senior Engineering Manager, AI Developer Experience | US Remote ($284K–$383K) | ★ 4.2/5 — DORA metrics EM at workflow orchestration company; DevEx/AI tooling focus; strong comp
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8324875002 | Databricks | Engineering Manager, Streaming | Bellevue WA/Seattle ($181K–$254K) | ★ 4.0/5 — Spark Structured Streaming EM; Seattle metro acceptable; streaming background from CDC Kafka pipeline
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5809710004 | ClickHouse | Engineering Manager, Language Clients | US Remote ($165K–$260K) | ★ 4.0/5 — Go/Python/Rust OSS client library EM; 3+ yrs managing; Rust+Go background fits; 10+ yrs technical required
+
+#### Good Matches (3.5–3.9)
+
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5461002004 | Vercel | Sr. Engineering Manager, Platform | Hybrid SF/NY ($208K–$300K) | ★ 3.8/5 — Reliability+K8s+SLOs EM; remote considered for exceptional candidates; strong comp but hybrid anchor
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5819754004 | ClickHouse | Senior Site Reliability Engineer | US Remote ($141K–$230K premium) | ★ 3.5/5 — Go+K8s+chaos engineering; premium market comp reaches target; 8+ yrs SRE required
+- [ ] https://job-boards.greenhouse.io/humeai/jobs/5064248008 | Hume AI | Senior Platform Engineer | NYC hybrid ($180K–$230K) | ★ 3.5/5 — K8s+Terraform+Argo+GCP; NYC hybrid (remote option available); strong stack match; Rust bonus listed
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/7603834 | Planet Labs | Senior Software Engineering Manager | US Remote ($160K–$228K) | ★ 3.5/5 — Remote US EM; defense/geospatial focus; 4+ yrs EM required; national comp ceiling $200K borderline
+
+#### Pending JD Verification (WebSearch discoveries)
+
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/7315028 | Reddit | Staff Software Engineer, ML Feature Platform | Remote US | Verify comp + confirm distinct from existing Reddit DE pipeline entry
+- [ ] https://boards.greenhouse.io/doordashusa/jobs/5775331 | DoorDash | Senior Staff Software Engineer, Data Platform | Remote US | Senior-staff level data platform role — fetch JD and score
+- [ ] https://job-boards.greenhouse.io/evolutioniq/jobs/5541288004 | EvolutionIQ | Staff Software Engineer, ML Platform | NY or Remote | Insurance AI ML platform — verify remote policy + comp
+- [ ] https://job-boards.greenhouse.io/cakeai/jobs/5024423007 | Cake | Staff Software Engineer, ML Platform | Remote | Early-stage AI startup — verify comp and funding before deep dive
+
+---
+
 ## 2026-05-28
 
 > 5 new matches from Ashby/Greenhouse WebSearch fallback scan. Ashby JS-rendered, Lever 403, Anduril too large — all fell back to WebSearch. Report: [scout-2026-05-28.md](../reports/scout-2026-05-28.md)
