@@ -3046,3 +3046,8 @@
 - [ ] https://job-boards.greenhouse.io/flyzipline/jobs/7747330003 | Zipline | Staff Full Stack Software Engineer, Application Software [South San Francisco, California, USA]
 - [ ] https://job-boards.greenhouse.io/flyzipline/jobs/7747477003 | Zipline | Staff Full Stack Software Engineer, Application Software (Remote) [Remote in USA]
 - [ ] https://job-boards.greenhouse.io/flyzipline/jobs/5886248003 | Zipline | Staff Software Engineer - Sky Traffic Platform [South San Francisco, California, USA]
+
+### Scout Quick-Check — 2026-05-29
+
+#### Samsara (1)
+- [ ] https://www.samsara.com/company/careers/roles/7618581 | Samsara | Software Engineer II, AI Platform | Remote - CA
