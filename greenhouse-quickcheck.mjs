@@ -45,7 +45,7 @@ const COMPANIES = [
   { name: 'Hume AI',          api: 'https://boards-api.greenhouse.io/v1/boards/humeai/jobs' },
   { name: 'Airtable',         api: 'https://boards-api.greenhouse.io/v1/boards/airtable/jobs' },
   { name: 'Vercel',           api: 'https://boards-api.greenhouse.io/v1/boards/vercel/jobs' },
-  { name: 'Temporal',         api: 'https://boards-api.greenhouse.io/v1/boards/temporal/jobs' },
+  { name: 'Temporal',         api: 'https://boards-api.greenhouse.io/v1/boards/temporaltechnologies/jobs' },
   { name: 'Arize AI',         api: 'https://boards-api.greenhouse.io/v1/boards/arizeai/jobs' },
   { name: 'RunPod',           api: 'https://boards-api.greenhouse.io/v1/boards/runpod/jobs' },
   { name: 'Glean',            api: 'https://boards-api.greenhouse.io/v1/boards/gleanwork/jobs' },

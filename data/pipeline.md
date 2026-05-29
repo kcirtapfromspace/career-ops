@@ -3051,3 +3051,9 @@
 
 #### Samsara (1)
 - [ ] https://www.samsara.com/company/careers/roles/7618581 | Samsara | Software Engineer II, AI Platform | Remote - CA
+
+### Scout Quick-Check — 2026-05-29 (Temporal slug fix)
+
+#### Temporal (1)
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5149574007 | Temporal | Senior Software Engineer, Cloud Applications | United States - Remote
+
