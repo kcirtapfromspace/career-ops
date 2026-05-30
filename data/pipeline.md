@@ -1,5 +1,25 @@
 # Pipeline — Pending Offers
 
+## 2026-05-30
+
+> Full portal scan: 20 Greenhouse API boards + 8 WebSearch discovery queries. ~1,400+ jobs reviewed. 8 scored matches (5 top picks ≥4.0, 3 good matches 3.5–3.9). Report: [scout-2026-05-30.md](../reports/scout-2026-05-30.md)
+
+#### Top Picks (4.0+)
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5157847008 | Anthropic | Staff+ Software Engineer, Platform | SF/NYC/Seattle 25% hybrid ($405K–$485K) | ★ 4.5/5 — Python/Go/Rust + K8s + multi-cloud; 8yr req met; Seattle acceptable; platform acceleration/service infra focus; exceptional comp
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5042920007 | Temporal | Senior Software Engineer, Observability | US Remote ($176K–$237K) | ★ 4.3/5 — ClickHouse+Prometheus+Grafana+Thanos+K8s; Four Golden Signals exact match; VA.gov Watchtower proof point; Go primary
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5148493007 | Temporal | Staff Software Engineer, Cloud Identity | US Remote ($212K–$286K) | ★ 4.3/5 — OAuth/OIDC/SAML/JWKS/SCIM + RBAC/ABAC; Patrick has Okta SSO, OAuth/OIDC, Vault, KMS; Go primary; auth infrastructure architect
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5159608008 | Anthropic | Engineering Manager, Agent Prompts & Evals | SF/NYC 25% hybrid ($320K–$405K) | ★ 4.2/5 — Eval frameworks + platform tooling EM; 3yr mgmt met; platform/infra/devtooling leadership required; strong archetype fit
+- [ ] https://job-boards.greenhouse.io/discord/jobs/7716532002 | Discord | Staff Software Engineer, Data Platform | Remote US ($223K–$245.5K) | ★ 4.0/5 — Staff DE data infra role at large-scale consumer platform; Rust+distributed systems; remote-first
+
+#### Good Matches (3.5–3.9)
+
+- [ ] https://job-boards.greenhouse.io/stackav/jobs/5033361007 | Stack AV | Staff Software Engineer, ML Platform | Pittsburgh/Remote ($TBD) | ★ 3.8/5 — Ray+Spark+Iceberg+Airflow/Flyte; AV/defense domain; ML data indexing+semantic search infra; US residency required
+- [ ] https://jobs.lever.co/spotify/e6889c35-76a9-4da7-8dc2-05b6070cc298 | Spotify | ML Engineering Manager, LLM Serving & Infrastructure | US Remote ($176K–$252K) | ★ 3.8/5 — LLM serving infra EM; 2yr mgmt + 5yr ML req; quantization/batching focus; comp ceiling below target
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/6002637004 | Arize AI | Forward Deployed Engineer, US | Remote US ($TBD) | ★ 3.7/5 — LLMOps observability FDE; 2-5yr req may anchor junior; Python+K8s+AWS/GCP; $135M Series C; strong archetype match
+
+---
+
 ## 2026-05-29
 
 > Full portal scan: 25 Tier 1 + 12 Tier 2 Greenhouse API boards + 6 WebSearch discovery queries. ~1,860+ jobs reviewed. 12 scored matches (8 top picks ≥4.0, 4 good matches 3.5–3.9) + 4 WebSearch discoveries pending JD verification. Report: [scout-2026-05-29.md](../reports/scout-2026-05-29.md)
