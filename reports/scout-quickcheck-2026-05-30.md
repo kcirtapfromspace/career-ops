@@ -1,8 +1,8 @@
 # Scout Quick-Check — 2026-05-30
 
 **Mode:** Greenhouse API only (no WebSearch)
-**Companies scanned:** 32 (excluding already-scanned-today: Anthropic, Arize AI, Aurora, ClickHouse, Dagster, Databricks, Fivetran, Planet Labs, Scale AI, Temporal)
-**New matches found:** 1
+**Companies scanned:** 42 (all enabled companies with `api:` field in portals.yml)
+**New matches found:** 4 (Black Forest Labs ×1, Scale AI ×2, Rocket Lab ×1)
 **Skipped (dup/location/title):** all other candidates
 
 ---
@@ -12,6 +12,9 @@
 | # | Company | Title | Location | URL |
 |---|---------|-------|----------|-----|
 | 1 | Black Forest Labs | Forward Deployed Machine Learning Engineer | San Francisco, CA | https://job-boards.greenhouse.io/blackforestlabs/jobs/4935984008 |
+| 2 | Scale AI | Staff AI Infrastructure Engineer | SF / Seattle / NYC | https://job-boards.greenhouse.io/scaleai/jobs/4597717005 |
+| 3 | Scale AI | Staff Machine Learning Engineer, GenAI | SF / NYC | https://job-boards.greenhouse.io/scaleai/jobs/4533635005 |
+| 4 | Rocket Lab | Flight Software Engineer I | Littleton, CO (Denver metro) | https://job-boards.greenhouse.io/rocketlab/jobs/7734583003 |
 
 ---
 
@@ -24,6 +27,7 @@
 | Parloa | No title matches |
 | Intercom | No title matches |
 | Hume AI | No title matches |
+| Scale AI | **2 new matches** ✅ (Staff AI Infrastructure Engineer, Staff ML Engineer GenAI) |
 | Airtable | All candidates already in history |
 | Vercel | All candidates already in history |
 | RunPod | All candidates already in history |
@@ -45,7 +49,7 @@
 | Amplemarket | No title matches |
 | Samsara | All candidates already in history |
 | Chainguard | All candidates already in history |
-| Rocket Lab | No title matches |
+| Rocket Lab | **1 new match** ✅ (Flight Software Engineer I — Denver metro) |
 | Vast | No title matches |
 | Nuro | No title matches |
 | Zipline | No title matches |

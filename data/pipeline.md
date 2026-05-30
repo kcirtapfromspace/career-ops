@@ -3082,3 +3082,10 @@
 
 #### Black Forest Labs (1)
 - [ ] https://job-boards.greenhouse.io/blackforestlabs/jobs/4935984008 | Black Forest Labs | Forward Deployed Machine Learning Engineer | San Francisco, CA
+
+#### Scale AI (2)
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4597717005 | Scale AI | Staff AI Infrastructure Engineer | San Francisco, CA; Seattle, WA; New York, NY
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4533635005 | Scale AI | Staff Machine Learning Engineer, GenAI | San Francisco, CA; New York, NY
+
+#### Rocket Lab (1)
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7734583003 | Rocket Lab | Flight Software Engineer I | Littleton, CO
