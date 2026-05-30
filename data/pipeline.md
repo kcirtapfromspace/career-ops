@@ -3077,3 +3077,8 @@
 #### Temporal (1)
 - [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5149574007 | Temporal | Senior Software Engineer, Cloud Applications | United States - Remote
 
+
+### Scout Quick-Check — 2026-05-30
+
+#### Black Forest Labs (1)
+- [ ] https://job-boards.greenhouse.io/blackforestlabs/jobs/4935984008 | Black Forest Labs | Forward Deployed Machine Learning Engineer | San Francisco, CA
