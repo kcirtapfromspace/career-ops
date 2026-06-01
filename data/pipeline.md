@@ -3142,3 +3142,8 @@
 
 #### Rocket Lab (1)
 - [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7734583003 | Rocket Lab | Flight Software Engineer I | Littleton, CO
+
+### Scout Quick-Check — 2026-06-01
+
+#### Zipline (1)
+- [ ] https://www.zipline.com/careers?gh_jid=7758772003#open-roles | Zipline | Senior/Staff Cloud Infrastructure Engineer | [South San Francisco, CA]
