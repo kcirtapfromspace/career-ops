@@ -19,6 +19,40 @@
 ### MotherDuck (1)
 - [ ] https://jobs.ashbyhq.com/motherduck/baf364dd-80f3-4321-af9f-d57dad92b500 | MotherDuck | Machine Learning Engineer | Remote | 3.4/5 (verify comp/scope)
 
+---
+
+### Quick Check — Greenhouse APIs only (2026-06-01)
+
+> 42 Greenhouse API boards scanned. 20 new matches found (unscored — quick discovery only). Report: [scout-quickcheck-2026-06-01.md](../reports/scout-quickcheck-2026-06-01.md)
+
+### Anthropic (13)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4430459008 | Anthropic | Analytics Data Engineering Manager, Product | SF / NYC / Seattle | unscored
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4402766008 | Anthropic | Applied AI Engineer, Beneficial Deployments | SF / NYC | unscored
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4398028008 | Anthropic | Applied AI Engineer, Enterprise Tech | SF / NYC / Seattle | unscored
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4424043008 | Anthropic | Applied AI Engineer, Life Sciences | SF / NYC | unscored
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4203718008 | Anthropic | Engineering Manager, GPU (ML Accelerator) | SF / NYC / Seattle | unscored
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4365272008 | Anthropic | Engineering Manager, GRC | SF / NYC / Seattle | unscored
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4444355008 | Anthropic | Engineering Manager, Inference Routing and Performance | SF / NYC / Seattle | unscored
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4469956008 | Anthropic | Engineering Manager, Marketplace | SF / Seattle | unscored
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4469955008 | Anthropic | Engineering Manager, Passport | SF / Seattle | unscored
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4467926008 | Anthropic | Engineering Manager, Platform Foundations | SF | unscored
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4476122008 | Anthropic | Engineering Manager, Research Tools | SF / NYC | unscored
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4426634008 | Anthropic | Engineering Manager, UI Platform | SF / NYC / Seattle | unscored
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4458285008 | Anthropic | Full-Stack Software Engineer, Reinforcement Learning | SF / NYC | unscored
+
+### ClickHouse (2)
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/6009092004 | ClickHouse | Senior Software Engineer (Backend) - AI/ML | US Remote | unscored
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5989607004 | ClickHouse | Senior Software Engineer - Postgres | US Remote | unscored
+
+### Databricks (2)
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8546367002 | Databricks | AI Engineer - FDE (Forward Deployed Engineer) | United States | unscored
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8013809002 | Databricks | Engineering Manager - UI Platform | Seattle, WA | unscored
+
+### Wayve (3)
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8562545002 | Wayve | Staff Machine Learning Engineer, AV Core | Sunnyvale, CA | unscored
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8571171002 | Wayve | Machine Learning Engineering Manager, App SW | Sunnyvale, CA | unscored
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8539648002 | Wayve | Principal Software Engineer, Robot Software | Sunnyvale, CA | unscored
+
 ## 2026-05-30
 
 > Full portal scan: 20 Greenhouse API boards + 8 WebSearch discovery queries. ~1,400+ jobs reviewed. 8 scored matches (5 top picks ≥4.0, 3 good matches 3.5–3.9). Report: [scout-2026-05-30.md](../reports/scout-2026-05-30.md)
