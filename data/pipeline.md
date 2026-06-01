@@ -1,5 +1,24 @@
 # Pipeline — Pending Offers
 
+## 2026-06-01
+
+> Full portal scan: 23 Greenhouse API boards + 10 WebSearch discovery queries. 300+ jobs reviewed. 5 new matches found. Report: [scout-2026-06-01.md](../reports/scout-2026-06-01.md)
+
+### Gusto (1)
+- [ ] https://job-boards.greenhouse.io/gusto/jobs/7413644 | Gusto | Staff Software Engineer, Database Infrastructure | Denver, CO (hybrid) | $200K–$230K | 3.8/5
+
+### Confluent (1)
+- [ ] https://jobs.ashbyhq.com/confluent/cae2a5bc-1efa-4fff-a704-357e1b9f2ebd | Confluent | Senior Software Engineer II, Stream Governance | Remote US | ~$240-330K total | 3.8/5
+
+### Whatnot (1)
+- [ ] https://jobs.ashbyhq.com/whatnot/b33dbb1a-262e-42cd-95f7-6a6da6d1112c | Whatnot | Technical Lead Manager, ML Infrastructure | Remote | 3.6/5
+
+### StackAdapt (1)
+- [ ] https://job-boards.greenhouse.io/stackadapt/jobs/4244707009 | StackAdapt | Staff II Software Engineer, Data Ingestion | Remote US/CA | 3.5/5 (verify comp)
+
+### MotherDuck (1)
+- [ ] https://jobs.ashbyhq.com/motherduck/baf364dd-80f3-4321-af9f-d57dad92b500 | MotherDuck | Machine Learning Engineer | Remote | 3.4/5 (verify comp/scope)
+
 ## 2026-05-30
 
 > Full portal scan: 20 Greenhouse API boards + 8 WebSearch discovery queries. ~1,400+ jobs reviewed. 8 scored matches (5 top picks ≥4.0, 3 good matches 3.5–3.9). Report: [scout-2026-05-30.md](../reports/scout-2026-05-30.md)
