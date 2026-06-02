@@ -127,6 +127,27 @@
 ## Pendientes
 
 
+### Quick-Check Scan (2026-06-02)
+
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4610281005 | Glean | Software Engineer, Storage | Mountain View, CA
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5150327007?gh_jid=5150327007 | Anduril | Senior Software Engineer | Broomfield, Colorado, United States
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5152747007?gh_jid=5152747007 | Anduril | Senior Software Engineer - Forge Factory Automation  | Seattle, Washington, United States
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5150344007?gh_jid=5150344007 | Anduril | Software Engineer | Broomfield, Colorado, United States
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5150341007?gh_jid=5150341007 | Anduril | Software Engineer | Fort Collins, Colorado, United States
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5150957007?gh_jid=5150957007 | Anduril | Software Engineer, Rust | Broomfield, Colorado, United States
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5152095007?gh_jid=5152095007 | Anduril | Staff Software Engineer, Production Solutions | Seattle, Washington, United States
+- [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/4880930101 | PhysicsX | Forward Deployed Software Engineer | San Francisco, United States
+- [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/4880947101 | PhysicsX | Machine Learning Engineer | San Francisco, CA
+- [ ] https://www.samsara.com/company/careers/roles/7618581?gh_jid=7618581 | Samsara | Software Engineer II, AI Platform | Remote - CA
+- [ ] https://aurora.tech/jobs/8571618002?gh_jid=8571618002 | Aurora Innovation | Staff Software Engineer, Deep Learning Acceleration | Mountain View, California
+- [ ] https://aurora.tech/jobs/8571624002?gh_jid=8571624002 | Aurora Innovation | Staff Software Engineer, Deep Learning Acceleration | San Francisco, California
+- [ ] https://nuro.ai/careersitem?gh_jid=7974966 | Nuro | Staff Software Engineer, Onboard Infrastructure | Mountain View, California (HQ)
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8570023002 | Databricks | Specialist Solutions Architect - Data Engineering & Observability | United States
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8575251002 | Databricks | Sr. Staff Software Engineer — Observability, Insights & Governance | Bellevue, Washington; Seattle, Washington
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8575248002 | Databricks | Sr. Staff Software Engineer — Observability, Insights & Governance | Mountain View, California; San Francisco, California
+
+
+
 ### Quick-Check Scan (2026-05-28)
 
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5229345008 | Anthropic | Software Engineer, Claude Design | San Francisco, CA | New York City, NY | Seattle, WA
