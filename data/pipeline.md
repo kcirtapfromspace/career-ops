@@ -3150,6 +3150,15 @@
 
 ---
 
+### Scout Quick-Check — 2026-06-02 (Greenhouse API)
+
+> 42 Greenhouse API boards scanned in full. 1 new match found (all others already in pipeline/history). Report: [scout-quickcheck-2026-06-02.md](../reports/scout-quickcheck-2026-06-02.md)
+
+#### Figure AI (1)
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4685172006 | Figure AI | Helix AI Engineer, Backend Infrastructure | San Jose, CA (Bay Area) | new
+
+---
+
 ### Scout Full Scan — 2026-06-02
 
 #### Reddit (3)
