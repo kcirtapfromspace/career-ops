@@ -3147,3 +3147,24 @@
 
 #### Zipline (1)
 - [ ] https://www.zipline.com/careers?gh_jid=7758772003#open-roles | Zipline | Senior/Staff Cloud Infrastructure Engineer | [South San Francisco, CA]
+
+---
+
+### Scout Full Scan — 2026-06-02
+
+#### Reddit (3)
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/7966985 | Reddit | Engineering Manager, Advanced Signals | Remote - US | ★ 4.2/5 — EM at Reddit for advanced signals/ranking infra; distributed systems/ML pipeline alignment; remote US; comp ~$230-280K est.
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/7961895 | Reddit | Engineering Manager, Safety | Remote - US | ★ 3.8/5 — EM for Safety infra team; trust & safety systems; remote US; Patrick's platform/data engineering skills transferable
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/7859086 | Reddit | Engineering Manager, Search Storage | Remote - US | ★ 4.0/5 — EM for search storage infra; Kafka/distributed storage alignment; remote US; strong comp band
+
+#### Fivetran (1)
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7749049003 | Fivetran | Senior Staff Software Engineer - Binary Log Data Replication | NYC (Remote-friendly) | ★ 3.9/5 — Senior Staff IC, CDC/binary log domain, Kafka/data pipeline alignment; NYC-based with remote potential; verify remote policy
+
+#### Webflow (1)
+- [ ] https://job-boards.greenhouse.io/webflow/jobs/7788111 | Webflow | Staff Software Engineer, Assets | Remote - US | ★ 3.7/5 — Staff IC at Webflow, asset pipeline/CDN/storage systems; remote US; strong comp; lower domain fit vs pure data/ML platform roles
+
+#### TRM Labs (1)
+- [ ] https://jobs.ashbyhq.com/trm-labs/21b2fb38-fcf1-4911-828a-0850d445a168 | TRM Labs | Engineering Manager, Data Engineering | Remote - US | ★ 4.1/5 — EM for data engineering at crypto analytics co; Spark/dbt/warehouse stack; remote US; Patrick's data platform expertise maps well
+
+#### MoonPay (1)
+- [ ] https://jobs.lever.co/moonpay/6f779b9e-d63d-4613-afd4-8b1e584f2cfb | MoonPay | Staff Data Platform Engineer | Remote - US | ★ 3.8/5 — Staff IC, Kafka/K8s/Python/Terraform stack match; data platform at fintech; remote US; verify comp ($185K+ threshold)
