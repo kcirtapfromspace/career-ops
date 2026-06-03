@@ -1,5 +1,29 @@
 # Pipeline — Pending Offers
 
+## 2026-06-03
+
+> Scout scan: 32 Greenhouse API boards + 10 WebSearch queries. 1,200+ jobs reviewed. 14 new matches found. Report: [scout-2026-06-03.md](../reports/scout-2026-06-03.md)
+
+#### Top Picks (4.0+)
+
+- [ ] https://www.samsara.com/company/careers/roles/7721193?gh_jid=7721193 | Samsara | Staff ML Engineer, ML Infrastructure | Remote - US ($200K–$357K) | ★ 4.5/5 — Staff+ ML platform leadership building Safety AI infra on Ray/Spark/K8s/AWS; Patrick's HHS NLP + Argo Workflows platform = direct proof points. Salary ceiling $357K is well above target.
+- [ ] https://jobs.lever.co/wandb/aef9ba38-f779-4c53-afc8-6fa2d10c6f59 | Weights & Biases | Staff Software Engineer, Metrics | Remote - US ($210K–$290K) | ★ 4.4/5 — Staff role scaling metrics + storage at W&B (dominant ML tracking platform); deep match with Patrick's observability work (Watchtower, OTel, Prometheus). Remote, comp in range.
+- [ ] https://job-boards.greenhouse.io/runpod/jobs/5020164008 | Runpod | Engineering Manager, Product & Platform Delivery | Remote - US ($175K–$250K) | ★ 4.2/5 — EM for GPU cloud platform; Go/Python/K8s/container runtimes stack is direct match. Patrick's Argo Workflows/multi-cluster K8s at Workiva is the proof point. Fast-growing AI infra company.
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7749049003 | Fivetran | Senior Staff Software Engineer - Binary Log Data Replication | Remote - New York | ★ 4.1/5 — Senior Staff CDC/binary log replication; Patrick built CDC with Debezium at CO payroll migration. Category-leader data integration. New listing not previously seen.
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/4672714007 | Temporal | Staff Software Engineer, Cloud Data Storage | Remote - US | ★ 4.0/5 — Staff-level cloud storage for Temporal's distributed workflow engine; Go infra, strong affinity with Patrick's orchestration/workflow background.
+
+#### Good Matches (3.5–3.9)
+
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/4770137007 | Temporal | Senior Software Engineer, Cloud Data Storage | Remote - US | ★ 3.8/5 — Senior cloud storage on Temporal platform; good fit for distributed data systems background.
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8400388002 | Airtable | Software Engineer, Infrastructure (8+ YOE) | Remote - US (Seattle) | ★ 3.8/5 — Staff-level infra at Airtable; remote US eligible, solid match for Patrick's backend/infra experience.
+- [ ] https://jobs.lever.co/spotify/8b10d06e-0102-4306-831e-4949cb1cc753 | Spotify | Senior Software Engineer - Platform Infrastructure | Remote - US (likely) | ★ 3.7/5 — Platform infra at scale; Backstage area, verify remote eligibility.
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5149574007 | Temporal | Senior Software Engineer, Cloud Applications | Remote - US | ★ 3.7/5 — Cloud apps on Temporal; good stack alignment.
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5133728007 | Temporal | Senior Software Engineer, Compute (Temporal Cloud) | Remote - US | ★ 3.7/5 — Compute team for Temporal Cloud; distributed systems background matches.
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5223093008 | Anthropic | Engineering Manager, Research Tools | SF / NYC | ★ 3.6/5 — EM for research tooling at Anthropic; hybrid but strong brand + scope.
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8124953002 | Airtable | Software Engineer, Data | SF / Austin / NYC | ★ 3.6/5 — Data engineering at Airtable; verify remote options.
+- [ ] https://jobs.lever.co/spotify/7d57d7dd-be86-452f-8ff4-9aeb67280262 | Spotify | Staff Machine Learning Engineer - Policy & Safety | Remote - US (likely) | ★ 3.5/5 — Staff ML at Spotify; verify remote, comp, and exact scope fit.
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5236531008 | Anthropic | Engineering Manager, Cybersecurity Products | SF / NYC | ★ 3.5/5 — EM cybersecurity products at Anthropic; hybrid, niche alignment.
+
 ## 2026-06-01
 
 > Full portal scan: 23 Greenhouse API boards + 10 WebSearch discovery queries. 300+ jobs reviewed. 5 new matches found. Report: [scout-2026-06-01.md](../reports/scout-2026-06-01.md)
