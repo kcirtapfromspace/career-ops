@@ -4,6 +4,23 @@
 
 > Scout scan: 32 Greenhouse API boards + 10 WebSearch queries. 1,200+ jobs reviewed. 14 new matches found. Report: [scout-2026-06-03.md](../reports/scout-2026-06-03.md)
 
+### Quick Check — Greenhouse APIs only (2026-06-03)
+
+> 42 Greenhouse API boards scanned (41 OK, 1 retried). 5,291 jobs reviewed. 7 new matches found (unscored — quick discovery only). Report: [scout-quickcheck-2026-06-03.md](../reports/scout-quickcheck-2026-06-03.md)
+
+### Anthropic (3)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5238606008 | Anthropic | Software Engineer, RL Data | SF / Seattle / Remote-Friendly | unscored
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5231496008 | Anthropic | Staff + Sr. Software Engineer, Cloud Inference | San Francisco, CA | unscored
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5238296008 | Anthropic | Staff + Sr. Software Engineer, Cloud Inference Launch Engineering | San Francisco, CA | unscored
+
+### Anduril (3)
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5153774007?gh_jid=5153774007 | Anduril | Senior Software Engineer, Robotics Tracking and Fusion | Fort Collins, CO | unscored
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5153788007?gh_jid=5153788007 | Anduril | Software Engineer, Robotics Tracking and Fusion | Fort Collins, CO | unscored
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5154531007?gh_jid=5154531007 | Anduril | Senior Software Engineer, XR Tools (Sand Table) | Seattle, WA | unscored
+
+### Zipline (1)
+- [ ] https://www.zipline.com/careers?gh_jid=7667529003#open-roles | Zipline | Senior Full Stack Software Engineer - Health Care | Remote in USA | unscored
+
 #### Top Picks (4.0+)
 
 - [ ] https://www.samsara.com/company/careers/roles/7721193?gh_jid=7721193 | Samsara | Staff ML Engineer, ML Infrastructure | Remote - US ($200K–$357K) | ★ 4.5/5 — Staff+ ML platform leadership building Safety AI infra on Ray/Spark/K8s/AWS; Patrick's HHS NLP + Argo Workflows platform = direct proof points. Salary ceiling $357K is well above target.
