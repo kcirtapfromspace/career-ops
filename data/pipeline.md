@@ -6,12 +6,13 @@
 
 ### Quick Check — Greenhouse APIs only (2026-06-03)
 
-> 42 Greenhouse API boards scanned (41 OK, 1 retried). 5,291 jobs reviewed. 7 new matches found (unscored — quick discovery only). Report: [scout-quickcheck-2026-06-03.md](../reports/scout-quickcheck-2026-06-03.md)
+> 42 Greenhouse API boards scanned (41 OK, 1 retried). 5,291 jobs reviewed. 8 new matches found (unscored — quick discovery only). Report: [scout-quickcheck-2026-06-03.md](../reports/scout-quickcheck-2026-06-03.md)
 
-### Anthropic (3)
+### Anthropic (4)
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5238606008 | Anthropic | Software Engineer, RL Data | SF / Seattle / Remote-Friendly | unscored
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5231496008 | Anthropic | Staff + Sr. Software Engineer, Cloud Inference | San Francisco, CA | unscored
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5238296008 | Anthropic | Staff + Sr. Software Engineer, Cloud Inference Launch Engineering | San Francisco, CA | unscored
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5237762008 | Anthropic | Staff Software Engineer, Infrastructure Asset Systems | San Francisco, CA | New York City, NY | unscored
 
 ### Anduril (3)
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5153774007?gh_jid=5153774007 | Anduril | Senior Software Engineer, Robotics Tracking and Fusion | Fort Collins, CO | unscored
