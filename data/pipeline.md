@@ -1,5 +1,12 @@
 # Pipeline — Pending Offers
 
+## 2026-06-04 (Quick Check)
+
+> Quick check: 42 Greenhouse API boards scanned. ~2,600+ jobs reviewed. 1 new match found (unscored — quick discovery only). Report: [scout-quickcheck-2026-06-04.md](../reports/scout-quickcheck-2026-06-04.md)
+
+### ClickHouse (1)
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5994726004 | ClickHouse | Senior Cloud Engineer | United States (remote) | unscored
+
 ## 2026-06-04
 
 > Scout scan: 32 Greenhouse API boards + 8 WebSearch queries (2 skipped: operator limitations). ~1,200+ jobs reviewed. 2 new matches added. Report: [scout-2026-06-04.md](../reports/scout-2026-06-04.md)
