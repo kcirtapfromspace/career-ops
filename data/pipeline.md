@@ -1,5 +1,14 @@
 # Pipeline — Pending Offers
 
+## 2026-06-04
+
+> Scout scan: 32 Greenhouse API boards + 8 WebSearch queries (2 skipped: operator limitations). ~1,200+ jobs reviewed. 2 new matches added. Report: [scout-2026-06-04.md](../reports/scout-2026-06-04.md)
+
+#### Top Picks (4.0+)
+
+- [ ] https://jobs.ashbyhq.com/motherduck/0491624c-97ad-4a94-8bb2-f93b48d548a8/application | MotherDuck | Software Engineer - Platform (Infra) | Seattle / SF / NYC ($140K–$250K+ est.) | ★ 4.0/5 — DuckDB cloud analytics platform infra; distributed systems + data platform role maps directly to Patrick's background. Cutting-edge OLAP stack, strong IC match at staff level.
+- [ ] https://jobs.ashbyhq.com/MotherDuck/ed355405-d983-4c53-abd3-b04fb72190e2/application | MotherDuck | Software Engineer - Backend | Seattle / SF / NYC ($140K–$250K+ est.) | ★ 4.0/5 — Backend distributed systems for DuckDB cloud; strong overlap with Patrick's data infra + Kafka/CDC/Go work. Highly technical, small team, top-of-range comp possible.
+
 ## 2026-06-03
 
 > Scout scan: 32 Greenhouse API boards + 10 WebSearch queries. 1,200+ jobs reviewed. 14 new matches found. Report: [scout-2026-06-03.md](../reports/scout-2026-06-03.md)
