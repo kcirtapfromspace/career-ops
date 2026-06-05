@@ -1,5 +1,20 @@
 # Pipeline — Pending Offers
 
+## 2026-06-05
+
+> Scout scan: 45 Greenhouse API boards + 4 WebSearch queries + HN Who's Hiring June 2026. ~3,200+ jobs reviewed. 3 new matches found. Report: [scout-quickcheck-2026-06-05.md](../reports/scout-quickcheck-2026-06-05.md)
+
+#### Top Picks (4.0+)
+
+- [ ] https://job-boards.greenhouse.io/armissecurity/jobs/5995276004 | Armis Security | Senior Staff Data Infrastructure Engineer (FedRAMP) | US Remote ($200K–$220K + bonus/equity) | ★ 4.2/5 — FedRAMP/GovCloud data infra role; Kafka+PostgreSQL+Kubernetes+Terraform stack is direct match; US Citizenship req met; Patrick's federal government background (HHS, VA.gov) is a rare differentiator here.
+
+#### Good Matches (3.5–3.9)
+
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5151694007 | Temporal | Staff Cloud Security Engineer | US Remote ($225K–$275K) | ★ 3.9/5 — Cloud security for multi-cloud distributed workflow engine; strong overlap with auth/secrets (Vault, KMS, OAuth/OIDC) infra; comp above target; adjacent to core Patrick archetype.
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5227810008 | Anthropic | Engineering Manager - Privacy Infrastructure | SF / Seattle ($405K–$485K) | ★ 3.7/5 — Privacy engineering EM at Anthropic; exceptional comp; SF/Seattle hybrid (relocation required); overlaps applied Anthropic role already in pipeline; strong secondary option.
+
+---
+
 ## 2026-06-04 (Quick Check)
 
 > Quick check: 42 Greenhouse API boards scanned. ~2,600+ jobs reviewed. 1 new match found (unscored — quick discovery only). Report: [scout-quickcheck-2026-06-04.md](../reports/scout-quickcheck-2026-06-04.md)
