@@ -15,6 +15,39 @@
 
 ---
 
+## 2026-06-05 (Quick Check)
+
+> Quick check: 42 Greenhouse API boards scanned. ~2,800+ jobs reviewed. 11 new matches found (unscored — quick discovery only). Report: [scout-quickcheck-2026-06-05.md](../reports/scout-quickcheck-2026-06-05.md)
+
+### Anthropic (1)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5236531008 | Anthropic | Engineering Manager, Cybersecurity Products | San Francisco / New York | unscored
+
+### Airtable (1)
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8565121002 | Airtable | Manager, Data Engineering | San Francisco / New York / Austin | unscored
+
+### Aurora (2)
+- [ ] https://aurora.tech/jobs/8539939002?gh_jid=8539939002 | Aurora | Staff Client Platform Engineer | San Francisco, CA | unscored
+- [ ] https://aurora.tech/jobs/8539943002?gh_jid=8539943002 | Aurora | Staff Client Platform Engineer | Seattle, WA | unscored
+
+### ClickHouse (2)
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/6009092004 | ClickHouse | Senior Software Engineer (Backend) - AI/ML | US Remote | unscored
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/6000796004 | ClickHouse | Senior Software Engineer - Data Integration & JVM Ecosystem | US Remote | unscored
+
+### Databricks (1)
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8578093002 | Databricks | Engineering Manager - Data Visualization Platform | Bellevue, WA | unscored
+
+### Glean (1)
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4696752005 | Glean | Software Engineer, APIs & Context Platform | Mountain View, CA | unscored
+
+### RunPod (1)
+- [ ] https://job-boards.greenhouse.io/runpod/jobs/5229443008 | RunPod | Site Reliability Engineer | US Remote | unscored
+
+### Temporal (2)
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5148493007 | Temporal | Staff Software Engineer, Cloud Identity | US Remote | unscored
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5149574007 | Temporal | Senior Software Engineer, Cloud Applications | US Remote | unscored
+
+---
+
 ## 2026-06-04 (Quick Check)
 
 > Quick check: 42 Greenhouse API boards scanned. ~2,600+ jobs reviewed. 1 new match found (unscored — quick discovery only). Report: [scout-quickcheck-2026-06-04.md](../reports/scout-quickcheck-2026-06-04.md)
