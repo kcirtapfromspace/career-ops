@@ -1,5 +1,14 @@
 # Pipeline — Pending Offers
 
+## 2026-06-06 (Quick Check)
+
+> Quick check: 42 Greenhouse API boards scanned. ~5,000+ jobs reviewed. 1 new match found (unscored — quick discovery only). Report: [scout-quickcheck-2026-06-06.md](../reports/scout-quickcheck-2026-06-06.md)
+
+### Anthropic (1)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5247156008 | Anthropic | Engineering Manager, Safeguards Data Infrastructure | San Francisco, CA | unscored
+
+---
+
 ## 2026-06-06
 
 > Scout scan: 27 Greenhouse API boards + 6 WebSearch queries. ~4,200+ jobs reviewed. 18 new matches found (8 Top Picks, 10 Good Matches). Report: [scout-2026-06-06.md](../reports/scout-2026-06-06.md)
