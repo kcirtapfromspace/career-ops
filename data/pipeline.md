@@ -1,5 +1,35 @@
 # Pipeline — Pending Offers
 
+## 2026-06-06
+
+> Scout scan: 27 Greenhouse API boards + 6 WebSearch queries. ~4,200+ jobs reviewed. 18 new matches found (8 Top Picks, 10 Good Matches). Report: [scout-2026-06-06.md](../reports/scout-2026-06-06.md)
+
+#### Top Picks (4.0+)
+
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5100259007 | Temporal | Senior Engineering Manager, AI Developer Experience | US Remote | ★ 4.3/5 — EM for Temporal's AI developer experience; Go-based distributed workflow platform; Patrick's Argo Workflows + K8s + OTel observability is direct proof point; remote, comp likely $250K+
+- [ ] https://job-boards.greenhouse.io/discord/jobs/7716532002 | Discord | Staff Software Engineer, Data Platform | US Remote ($223K–$245K) | ★ 4.2/5 — Staff data platform at hyperscale consumer platform; comp top of Patrick's range; Kafka/distributed data systems direct match
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5119529007 | Temporal | Staff Software Engineer, Observability | US Remote | ★ 4.2/5 — Staff observability for Temporal Cloud; Patrick's OTel/Prometheus/Datadog background is a direct category match
+- [ ] https://job-boards.greenhouse.io/nexla/jobs/4667240005 | Nexla | Staff Software Engineer, Connectors Framework | Remote | ★ 4.2/5 — Requires Kafka, CDC, Debezium, Kubernetes; 8–15+ years experience; data integration platform directly matches Patrick's CDC/Debezium work
+- [ ] https://job-boards.greenhouse.io/calendly/jobs/7963303002 | Calendly | Staff Data Engineer | Remote US | ★ 4.1/5 — Staff DE with Flink/Beam/Airflow/Kubernetes + CDC/Debezium; Denver-adjacent company culture; direct stack match
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/7689257 | Planet Labs | Senior Geospatial AI/ML Engineer | Denver, CO OR San Francisco, CA | ★ 4.1/5 — Explicitly lists Denver CO; ML engineering with Python/K8s; mission-driven satellite data company
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5107194007 | Temporal | Staff Software Engineer, Infrastructure Foundations | US Remote | ★ 4.0/5 — Staff infra for Temporal Cloud foundations; Go distributed systems; multiple open Temporal roles signal strong growth
+- [ ] https://jobs.ashbyhq.com/vanta/2a89eb83-9e4c-48e0-a967-2a5b33058f20 | Vanta | Staff Data Engineer | Remote | ★ 4.0/5 — Staff DE at security/compliance SaaS; Debezium CDC implementation specifically mentioned; direct stack match
+
+#### Good Matches (3.5–3.9)
+
+- [ ] https://job-boards.greenhouse.io/calendly/jobs/8575484002 | Calendly | Senior Engineering Manager, Data Platform | Remote | ★ 3.9/5 — Senior EM data platform; reports to VP of Data; remote; Denver company culture
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5068388007 | Temporal | Staff Software Engineer, Compute (Temporal Cloud) | US Remote | ★ 3.8/5 — Staff compute for Temporal Cloud; Go distributed systems; solid fit but less direct than observability/infra roles
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7483663003 | Fivetran | Senior Staff Software Engineer, Binary Log Data Replication | Denver, CO | ★ 3.8/5 — Denver location; CDC/binary log replication directly matches Patrick's Debezium work; Denver office role
+- [ ] https://job-boards.greenhouse.io/signifyd95/jobs/6968243 | Signifyd | Engineering Manager, ML Platform | Remote US | ★ 3.8/5 — EM for ML platform (model training/deployment, feature engineering); Argo Workflows/K8s background is strong proof point
+- [ ] https://jobs.ashbyhq.com/trm-labs/21b2fb38-fcf1-4911-828a-0850d445a168 | TRM Labs | Engineering Manager, Data Engineering | US Remote | ★ 3.8/5 — EM data engineering at blockchain analytics; Kafka/Kubernetes; petabyte-scale data; fully remote US
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/7603834 | Planet Labs | Senior Software Engineering Manager | US Remote | ★ 3.7/5 — EM role at satellite data company; US remote; Python/data platform focus
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5421310004 | Arize AI | Engineering Manager, Product & Platform | Remote US | ★ 3.7/5 — EM for ML observability platform; Patrick's OTel/observability expertise is a strong match; growing AI/ML observability space
+- [ ] https://job-boards.greenhouse.io/marqeta/jobs/7859782 | Marqeta | Senior Software Engineer, Data Infrastructure | Flex/Remote | ★ 3.7/5 — CDC/Debezium + Kafka + Kubernetes required; data infrastructure at fintech; Flex First remote policy
+- [ ] https://job-boards.greenhouse.io/openly/jobs/4696499005 | Openly | Engineering Manager, Data Engineering | Remote US | ★ 3.6/5 — EM data engineering at insurtech; 3+ years EM experience required; fully remote US
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5776991004 | ClickHouse | Senior Backend Engineer, Infrastructure (ClickPipes) | US Remote | ★ 3.6/5 — Backend infra for ClickHouse's data pipeline ingestion; data integration stack; US remote
+
+---
+
 ## 2026-06-05
 
 > Scout scan: 45 Greenhouse API boards + 4 WebSearch queries + HN Who's Hiring June 2026. ~3,200+ jobs reviewed. 3 new matches found. Report: [scout-quickcheck-2026-06-05.md](../reports/scout-quickcheck-2026-06-05.md)
