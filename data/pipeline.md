@@ -285,6 +285,21 @@
 
 ## Pendientes
 
+### Quick-Check Scan (2026-06-07)
+
+- [ ] https://www.samsara.com/company/careers/roles/7858719?gh_jid=7858719 | Samsara | People Analytics AI Engineer | Remote - Seattle
+- [ ] https://www.zipline.com/careers?gh_jid=7764299003 | Zipline | Forward Deployed AI Engineer, Aviation Regulatory | South San Francisco, California, USA
+- [ ] https://www.zipline.com/careers?gh_jid=7764300003 | Zipline | Forward Deployed AI Engineer, Community Engagement | South San Francisco, California, USA
+- [ ] https://www.zipline.com/careers?gh_jid=7764294003 | Zipline | Forward Deployed AI Engineer, Expansion | South San Francisco, California, USA
+- [ ] https://www.zipline.com/careers?gh_jid=7764297003 | Zipline | Forward Deployed AI Engineer, Land Use and Government Affairs | South San Francisco, California, USA
+- [ ] https://www.zipline.com/careers?gh_jid=7764301003 | Zipline | Forward Deployed AI Engineer, Launch, Design, and Construction Handoff | South San Francisco, California, USA
+- [ ] https://www.zipline.com/careers?gh_jid=7764298003 | Zipline | Forward Deployed AI Engineer, Legal Real Estate | South San Francisco, California, USA
+- [ ] https://www.zipline.com/careers?gh_jid=7764239003 | Zipline | Forward Deployed AI Engineer, Operations | South San Francisco, California, USA
+- [ ] https://www.zipline.com/careers?gh_jid=7764302003 | Zipline | Forward Deployed AI Engineer, People | South San Francisco, California, USA
+- [ ] https://www.zipline.com/careers?gh_jid=7764296003 | Zipline | Forward Deployed AI Engineer, Real Estate and Development | South San Francisco, California, USA
+- [ ] https://www.zipline.com/careers?gh_jid=7764295003 | Zipline | Forward Deployed AI Engineer, Site Acquisition | South San Francisco, California, USA
+- [ ] https://www.zipline.com/careers?gh_jid=7764303003 | Zipline | Forward Deployed AI Engineer, Talent | South San Francisco, California, USA
+
 
 ### Quick-Check Scan (2026-06-02)
 
@@ -3357,3 +3372,25 @@
 
 #### MoonPay (1)
 - [ ] https://jobs.lever.co/moonpay/6f779b9e-d63d-4613-afd4-8b1e584f2cfb | MoonPay | Staff Data Platform Engineer | Remote - US | ★ 3.8/5 — Staff IC, Kafka/K8s/Python/Terraform stack match; data platform at fintech; remote US; verify comp ($185K+ threshold)
+
+---
+
+### Scout Quick-Check — 2026-06-07 (Greenhouse API)
+
+> 40 Greenhouse API boards scanned (52 attempted; 12 unreachable/empty). 5,366 jobs reviewed. **12 new matches**. Report: [scout-quickcheck-2026-06-07.md](../reports/scout-quickcheck-2026-06-07.md)
+
+#### Samsara (1)
+- [ ] https://www.samsara.com/company/careers/roles/7858719?gh_jid=7858719 | Samsara | People Analytics AI Engineer | Remote - Seattle
+
+#### Zipline (11)
+- [ ] https://www.zipline.com/careers?gh_jid=7764299003 | Zipline | Forward Deployed AI Engineer, Aviation Regulatory | South San Francisco, CA
+- [ ] https://www.zipline.com/careers?gh_jid=7764300003 | Zipline | Forward Deployed AI Engineer, Community Engagement | South San Francisco, CA
+- [ ] https://www.zipline.com/careers?gh_jid=7764294003 | Zipline | Forward Deployed AI Engineer, Expansion | South San Francisco, CA
+- [ ] https://www.zipline.com/careers?gh_jid=7764297003 | Zipline | Forward Deployed AI Engineer, Land Use and Government Affairs | South San Francisco, CA
+- [ ] https://www.zipline.com/careers?gh_jid=7764301003 | Zipline | Forward Deployed AI Engineer, Launch, Design, and Construction Handoff | South San Francisco, CA
+- [ ] https://www.zipline.com/careers?gh_jid=7764298003 | Zipline | Forward Deployed AI Engineer, Legal Real Estate | South San Francisco, CA
+- [ ] https://www.zipline.com/careers?gh_jid=7764239003 | Zipline | Forward Deployed AI Engineer, Operations | South San Francisco, CA
+- [ ] https://www.zipline.com/careers?gh_jid=7764302003 | Zipline | Forward Deployed AI Engineer, People | South San Francisco, CA
+- [ ] https://www.zipline.com/careers?gh_jid=7764296003 | Zipline | Forward Deployed AI Engineer, Real Estate and Development | South San Francisco, CA
+- [ ] https://www.zipline.com/careers?gh_jid=7764295003 | Zipline | Forward Deployed AI Engineer, Site Acquisition | South San Francisco, CA
+- [ ] https://www.zipline.com/careers?gh_jid=7764303003 | Zipline | Forward Deployed AI Engineer, Talent | South San Francisco, CA
