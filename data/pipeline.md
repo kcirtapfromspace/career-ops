@@ -14,6 +14,15 @@
 
 ---
 
+## 2026-06-07 (Quick Check)
+
+> Quick check: 42 Greenhouse API boards scanned. ~5,200+ jobs reviewed. 1 new match found (unscored — quick discovery only). Report: [scout-quickcheck-2026-06-07.md](../reports/scout-quickcheck-2026-06-07.md)
+
+### Nuro (1)
+- [ ] https://nuro.ai/careersitem?gh_jid=7978431 | Nuro | Senior Software Engineer, Performance | Mountain View, CA | unscored
+
+---
+
 ## 2026-06-06 (Quick Check)
 
 > Quick check: 42 Greenhouse API boards scanned. ~5,000+ jobs reviewed. 1 new match found (unscored — quick discovery only). Report: [scout-quickcheck-2026-06-06.md](../reports/scout-quickcheck-2026-06-06.md)
