@@ -1,5 +1,19 @@
 # Pipeline — Pending Offers
 
+## 2026-06-07
+
+> Scout scan: 40+ Greenhouse API boards + Lever/Ashby/WebSearch queries. ~5,500+ jobs reviewed. 2 new matches found (1 Top Pick, 1 Good Match). Report: [scout-2026-06-07.md](../reports/scout-2026-06-07.md)
+
+#### Top Picks (4.0+)
+
+- [ ] https://job-boards.greenhouse.io/equilibriumenergy/jobs/4002536005 | Equilibrium Energy | Software Engineer, ML Platform (Staff / Sr Staff) | US Remote (SF preferred) | ★ 4.0/5 — Staff/Sr Staff ML Platform at energy AI company; Argo + K8s + Dagster + Prometheus is textbook Patrick stack; owns ML orchestration and model deployment workflows; green energy sector adds mission angle
+
+#### Good Matches (3.5–3.9)
+
+- [ ] https://jobs.ashbyhq.com/hinge-health/d635a9d3-c04d-48e5-a53d-cb9ecf665350 | Hinge Health | Staff Data Engineer, Data & ML Platform | Remote US ($157K–$196K) | ★ 3.5/5 — Staff DE owning architecture for data + ML infrastructure at digital health scale-up; comp ceiling slightly below $200K minimum but role responsibilities align well; worth applying if comp is negotiable
+
+---
+
 ## 2026-06-06 (Quick Check)
 
 > Quick check: 42 Greenhouse API boards scanned. ~5,000+ jobs reviewed. 1 new match found (unscored — quick discovery only). Report: [scout-quickcheck-2026-06-06.md](../reports/scout-quickcheck-2026-06-06.md)
