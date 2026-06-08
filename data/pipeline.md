@@ -1,5 +1,27 @@
 # Pipeline — Pending Offers
 
+## 2026-06-08 (Quick Check)
+
+> Quick check: 42 Greenhouse API boards scanned. 7,330 jobs reviewed, 79 new IDs logged. 6 new matches found (unscored — quick discovery only). Report: [scout-quickcheck-2026-06-08.md](../reports/scout-quickcheck-2026-06-08.md)
+
+### Anthropic (1)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5250091008 | Anthropic | Staff+ Software Engineer, GRC Platform | San Francisco, CA / New York City, NY / Seattle, WA | unscored
+
+### Anduril (1)
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5156239007?gh_jid=5156239007 | Anduril | Senior Software Engineer, Realtime Imaging | Boulder, Colorado | unscored
+
+### Databricks (2)
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8578177002 | Databricks | Staff Software Engineer, AI Search | Mountain View, CA | unscored
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8579135002 | Databricks | Staff Software Engineer, Compute Infrastructure | Bellevue, WA | unscored
+
+### Nuro (1)
+- [ ] https://nuro.ai/careersitem?gh_jid=7978428 | Nuro | Software Engineer, Performance | Mountain View, CA | unscored
+
+### Aurora (1)
+- [ ] https://aurora.tech/jobs/8572530002?gh_jid=8572530002 | Aurora | Staff Software Engineer, Connectivity | Mountain View, CA | unscored
+
+---
+
 ## 2026-06-07
 
 > Scout scan: 40+ Greenhouse API boards + Lever/Ashby/WebSearch queries. ~5,500+ jobs reviewed. 2 new matches found (1 Top Pick, 1 Good Match). Report: [scout-2026-06-07.md](../reports/scout-2026-06-07.md)
