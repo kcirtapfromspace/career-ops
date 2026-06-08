@@ -3403,3 +3403,18 @@
 - [ ] https://www.zipline.com/careers?gh_jid=7764296003 | Zipline | Forward Deployed AI Engineer, Real Estate and Development | South San Francisco, CA
 - [ ] https://www.zipline.com/careers?gh_jid=7764295003 | Zipline | Forward Deployed AI Engineer, Site Acquisition | South San Francisco, CA
 - [ ] https://www.zipline.com/careers?gh_jid=7764303003 | Zipline | Forward Deployed AI Engineer, Talent | South San Francisco, CA
+
+---
+
+### Scout Scan — 2026-06-08 (Greenhouse API + WebSearch)
+
+> 40 Greenhouse API boards scanned across 4 batches. 14 WebSearch queries executed. Dedup against 9,609-line scan-history. **3 new matches** (16 candidates identified; 13 already in pipeline from prior scans). Report: [scout-2026-06-08.md](../reports/scout-2026-06-08.md)
+
+#### Dropbox (1)
+- [ ] https://job-boards.greenhouse.io/dropbox/jobs/7595183 | Dropbox | Staff Data Engineer, Analytics Data Engineering | Remote US Zone 2/3 | $198-269K | ★ 4.4/5 — Airflow+dbt+Spark+Python; conformed dimensions + metrics pipelines; observability/governance; Staff DE archetype exact fit; Denver = Zone 2
+
+#### Webflow (1)
+- [ ] https://job-boards.greenhouse.io/webflow/jobs/7867282 | Webflow | Senior Staff Software Engineer, Distributed Systems | US Remote | ★ 3.9/5 — 12+ yrs; Go/Python/Java; high-throughput distributed systems; experimentation/personalization backend; US remote
+
+#### Caribou Financial (1)
+- [ ] https://job-boards.greenhouse.io/caribou/jobs/7688631003 | Caribou Financial | Engineering Manager, Data & Platform Engineering | Remote (Denver preferred) | $175-215K | ★ 3.7/5 — GCP/GKE/dbt/Pulumi; Denver-preferred remote; EM archetype; comp slightly below $200K target but strong location+stack fit
