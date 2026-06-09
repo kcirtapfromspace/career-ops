@@ -1,5 +1,14 @@
 # Pipeline — Pending Offers
 
+## 2026-06-09 (Quick Check)
+
+> Quick check: 42 Greenhouse API boards scanned. ~8,000+ jobs reviewed, 1 new match found (unscored — quick discovery only). Report: [scout-quickcheck-2026-06-09.md](../reports/scout-quickcheck-2026-06-09.md)
+
+### Glean (1)
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4704106005 | Glean | Software Engineer, Compute Infrastructure | Mountain View, CA | unscored
+
+---
+
 ## 2026-06-08 (Quick Check)
 
 > Quick check: 42 Greenhouse API boards scanned. 7,330 jobs reviewed, 79 new IDs logged. 6 new matches found (unscored — quick discovery only). Report: [scout-quickcheck-2026-06-08.md](../reports/scout-quickcheck-2026-06-08.md)
