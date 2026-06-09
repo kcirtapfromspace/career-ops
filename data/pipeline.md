@@ -3440,3 +3440,22 @@
 
 #### Caribou Financial (1)
 - [ ] https://job-boards.greenhouse.io/caribou/jobs/7688631003 | Caribou Financial | Engineering Manager, Data & Platform Engineering | Remote (Denver preferred) | $175-215K | ★ 3.7/5 — GCP/GKE/dbt/Pulumi; Denver-preferred remote; EM archetype; comp slightly below $200K target but strong location+stack fit
+
+---
+
+### Scout Scan — 2026-06-09 (Greenhouse API + WebSearch)
+
+> 42 Greenhouse API boards scanned. 9 WebSearch queries executed. Dedup against 9,711-line scan-history. **7 new matches** (candidates identified across ~2,000+ jobs reviewed; 1,200+ already in scan-history from prior scans). Report: [scout-2026-06-09.md](../reports/scout-2026-06-09.md)
+
+#### Top Picks (4.0+)
+
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/6014112004 | ClickHouse | AI Product Engineer - ClickStack | US Remote | ★ 4.2/5 — Brand-new role on ClickHouse's observability/analytics product; data platform + AI infra angle; Patrick's streaming/Kafka/Python stack maps well; US remote confirmed
+- [ ] https://jobs.ashbyhq.com/givebutter/0b9eb432-ea4f-4057-a13e-a044a3c3407a | Givebutter | Staff Engineer | Remote US | $190K–$225K | ★ 4.0/5 — Staff level, confirmed comp $190-225K+equity; fraud detection/risk/internal tooling focus; remote-first; strong system design scope
+- [ ] https://job-boards.greenhouse.io/duettoresearch/jobs/7831511 | Duetto Research | Staff Software Engineer, Data Integrations Platform | Remote US | ★ 4.0/5 — Hospitality revenue platform; Staff DE owns CDC/integration stack connecting hotel PMS + OTA systems; Debezium/Kafka angle is Patrick's exact sweet spot
+
+#### Good Matches (3.5–3.9)
+
+- [ ] https://jobs.ashbyhq.com/rula/14793f6e-d938-4a5f-b831-bdf011eed58d | Rula | Staff Software Engineer - Backend/AI | Remote US | ★ 3.7/5 — Mental health platform, Staff backend/AI, Python-heavy; Series C healthtech; comp likely $185-220K; remote US; mission-driven if relevant
+- [ ] https://jobs.ashbyhq.com/goodship/c6086f2c-a371-4f89-bd17-7f5c0d4fc5a1 | GoodShip | Engineering Manager, Data & Infrastructure | Remote (Seattle preferred) | ★ 3.5/5 — EM role owning data + infra at logistics startup; Seattle preferred but remote OK; stack unknown; smaller startup
+- [ ] https://jobs.ashbyhq.com/compa/bc153079-cd92-4c17-9e9f-18182be5c0a5 | Compa | Engineering Manager, Core Infrastructure | Remote (Denver/Irvine/Boston preferred) | ★ 3.5/5 — First infra team build-out; Denver-preferred remote; EM archetype fit; compensation benchmarking startup
+- [ ] https://jobs.lever.co/peerspace/1d2ff648-1497-453f-9337-885fc6306f02 | Peerspace | Staff Data Engineer | Remote | ★ 3.5/5 — 8-12+ yrs, large-scale data platform on GCP/BigQuery; separate IC track from existing pipeline EM role at same company
