@@ -3,7 +3,7 @@
 **Type:** Greenhouse API only (no WebSearch)
 **Boards scanned:** 42
 **Jobs reviewed:** ~8,000+
-**New matches:** 20
+**New matches:** 21 (20 morning pass + 1 second pass)
 **Rejected (location/title):** 6
 
 ---
@@ -38,6 +38,11 @@
 | Role | Location | URL |
 |------|----------|-----|
 | AI Solutions Engineering - Software Engineer | United States - Remote | [link](https://job-boards.greenhouse.io/chainguard/jobs/4687328006) |
+
+### Wayve — 1 match
+| Role | Location | URL |
+|------|----------|-----|
+| Software Engineer - Sensor Systems, Robot Software | Sunnyvale, CA | [link](https://wayve.firststage.co/jobs?gh_jid=8482120002) |
 
 ### Zipline — 11 matches
 All located at South San Francisco, CA (on-site). "Forward Deployed AI Engineer" batch — these are specialized field deployment roles (not traditional software engineering). Grouped here for awareness; Patrick should verify fit before evaluating.
@@ -79,3 +84,4 @@ All located at South San Francisco, CA (on-site). "Forward Deployed AI Engineer"
 - **Samsara Data Platform** — remote-US data engineering/platform roles, consistent with past pattern.
 - **Chainguard** — "AI Solutions Engineering" in remote US; supply chain security + containers/K8s is a Patrick domain.
 - **Zipline FDE batch** — 11 forward deployed roles but operational in nature (regulatory, real estate, HR, etc.). Flagged for awareness; likely not core eng roles.
+- **Wayve (second pass)** — "Software Engineer - Sensor Systems, Robot Software" at Sunnyvale; Wayve is building autonomous driving tech and this role is on robot software stack. AV/robotics + SW engineering angle; worth a look if Patrick has interest in that space.

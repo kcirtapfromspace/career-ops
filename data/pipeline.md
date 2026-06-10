@@ -2,7 +2,7 @@
 
 ## 2026-06-10 (Quick Check)
 
-> Quick check: 42 Greenhouse API boards scanned. ~8,000+ jobs reviewed, 20 new matches found (unscored — quick discovery only). Report: [scout-quickcheck-2026-06-10.md](../reports/scout-quickcheck-2026-06-10.md)
+> Quick check: 42 Greenhouse API boards scanned. ~8,000+ jobs reviewed, 21 new matches found (unscored — quick discovery only). Report: [scout-quickcheck-2026-06-10.md](../reports/scout-quickcheck-2026-06-10.md)
 
 ### Anthropic (1)
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5252928008 | Anthropic | Engineering Manager, Cloud Safety | San Francisco, CA / Seattle, WA | unscored
@@ -22,6 +22,9 @@
 
 ### Chainguard (1)
 - [ ] https://job-boards.greenhouse.io/chainguard/jobs/4687328006 | Chainguard | AI Solutions Engineering - Software Engineer | United States - Remote | unscored
+
+### Wayve (1)
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8482120002 | Wayve | Software Engineer - Sensor Systems, Robot Software | Sunnyvale, CA | unscored
 
 ### Zipline (11)
 - [ ] https://www.zipline.com/careers?gh_jid=7764239003#open-roles | Zipline | Forward Deployed AI Engineer, Operations | South San Francisco, CA | unscored
