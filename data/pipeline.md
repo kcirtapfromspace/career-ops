@@ -3468,3 +3468,27 @@
 - [ ] https://jobs.ashbyhq.com/goodship/c6086f2c-a371-4f89-bd17-7f5c0d4fc5a1 | GoodShip | Engineering Manager, Data & Infrastructure | Remote (Seattle preferred) | ★ 3.5/5 — EM role owning data + infra at logistics startup; Seattle preferred but remote OK; stack unknown; smaller startup
 - [ ] https://jobs.ashbyhq.com/compa/bc153079-cd92-4c17-9e9f-18182be5c0a5 | Compa | Engineering Manager, Core Infrastructure | Remote (Denver/Irvine/Boston preferred) | ★ 3.5/5 — First infra team build-out; Denver-preferred remote; EM archetype fit; compensation benchmarking startup
 - [ ] https://jobs.lever.co/peerspace/1d2ff648-1497-453f-9337-885fc6306f02 | Peerspace | Staff Data Engineer | Remote | ★ 3.5/5 — 8-12+ yrs, large-scale data platform on GCP/BigQuery; separate IC track from existing pipeline EM role at same company
+
+---
+
+### Scout Scan — 2026-06-10 (Greenhouse API + Ashby API + WebSearch)
+
+> 45+ Greenhouse API boards + 10+ Ashby boards scanned. 15+ WebSearch queries. Dedup against 9,125-line scan-history. **8 new matches** (~12,000 jobs reviewed across all sources). Report: [scout-2026-06-10.md](../reports/scout-2026-06-10.md)
+
+#### Top Picks (4.0+)
+
+- [ ] https://jobs.ashbyhq.com/rula/cb4b3571-ea8e-4c2b-be76-cd0590bcf917 | Rula | Sr. Analytics Engineering Manager | Remote US | $213K–$251K + equity | ★ 4.2/5 — EM data archetype; leads senior ICs building ELT pipelines + semantic layer; mental health platform; strong comp
+- [ ] https://jobs.ashbyhq.com/rula/f2424794-c819-4f53-a8af-83322e617acb | Rula | Sr. Staff AI Engineer | Remote US | $229K–$283K + equity | ★ 4.0/5 — Highest comp of scan; production generative AI systems + cloud infra; IC Staff+; Patrick's AI/ML infra background relevant
+- [ ] https://job-boards.greenhouse.io/equilibriumenergy/jobs/4179519005 | Equilibrium Energy | Software Engineer – Data Engineering (Staff/Sr Staff) | Remote US (SF/NYC pref) | comp unlisted | ★ 3.8/5 — Patrick's exact stack: Temporal + Dagster + Databricks + Airflow; clean energy Series B; workflow orchestration is direct proof point
+
+#### Good Matches (3.5–3.9)
+
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5158843007 | Temporal Technologies | Senior Software Engineer, Cloud Identity | Remote US | $212K–$237K + equity | ★ 3.8/5 — Go + OAuth/OIDC/SAML + distributed systems; identity/auth at the company behind Temporal orchestration; federal/enterprise auth background relevant
+- [ ] https://job-boards.greenhouse.io/stackadapt/jobs/4244680009 | StackAdapt | Staff Software Engineer, Data Delivery | Remote US/CA | comp unlisted | ★ 3.7/5 — Golang preferred; Kafka/TiDB/Iceberg/StarRocks data delivery; Staff scope; ad-tech domain
+- [ ] https://jobs.ashbyhq.com/docker/9d5c3e18-eaef-4ffb-b4f1-795742fcba98 | Docker | Staff Backend Engineer, Hub | East Coast Remote | comp unlisted (Docker range $170K–$275K) | ★ 3.5/5 — Go+K8s+distributed at scale; Docker Hub 14M users; East Coast timezone req; high-impact infra ownership
+- [ ] https://jobs.ashbyhq.com/twelve-labs/a50da873-87f8-4e57-ad2f-11080eb6d3d0 | TwelveLabs | Staff SRE | San Francisco Hybrid | $220K–$250K + equity | ★ 3.5/5 — Excellent comp; multimodal AI startup; SRE/reliability + observability; SF relocation required; Watchtower/DORA background relevant
+
+#### Lower Priority (3.0–3.4)
+
+- [ ] https://job-boards.greenhouse.io/torcrobotics/jobs/8525558002 | Torc Robotics | Staff Software Engineer | Remote US | $186K–$223K | ★ 3.3/5 — Platform infra + AWS/K8s; Daimler autonomous trucks; generic domain; solid but low-excitement
+
