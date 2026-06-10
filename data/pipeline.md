@@ -1,5 +1,44 @@
 # Pipeline — Pending Offers
 
+## 2026-06-10 (Quick Check)
+
+> Quick check: 42 Greenhouse API boards scanned. ~8,000+ jobs reviewed, 20 new matches found (unscored — quick discovery only). Report: [scout-quickcheck-2026-06-10.md](../reports/scout-quickcheck-2026-06-10.md)
+
+### Anthropic (1)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5252928008 | Anthropic | Engineering Manager, Cloud Safety | San Francisco, CA / Seattle, WA | unscored
+
+### Anduril (3)
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5160667007?gh_jid=5160667007 | Anduril | Infrastructure Software Engineer | Seattle, WA / Costa Mesa, CA / Washington, DC | unscored
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5158245007?gh_jid=5158245007 | Anduril | Mission Software Engineer, Infrastructure | Seattle, WA / Costa Mesa, CA / Washington, DC | unscored
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5152591007?gh_jid=5152591007 | Anduril | Software Engineer, Sensor Simulation | Seattle, WA | unscored
+
+### Databricks (2)
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8582276002 | Databricks | Senior Software Engineer, AI Runtime | Mountain View, CA / San Francisco, CA | unscored
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8582271002 | Databricks | Staff Software Engineer, AI Runtime | Mountain View, CA / San Francisco, CA | unscored
+
+### Samsara (2)
+- [ ] https://www.samsara.com/company/careers/roles/7859702?gh_jid=7859702 | Samsara | Senior Data Engineer I | Remote - US | unscored
+- [ ] https://www.samsara.com/company/careers/roles/7922530?gh_jid=7922530 | Samsara | Senior Software Engineer - Data Platform | Remote - US | unscored
+
+### Chainguard (1)
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4687328006 | Chainguard | AI Solutions Engineering - Software Engineer | United States - Remote | unscored
+
+### Zipline (11)
+- [ ] https://www.zipline.com/careers?gh_jid=7764239003#open-roles | Zipline | Forward Deployed AI Engineer, Operations | South San Francisco, CA | unscored
+- [ ] https://www.zipline.com/careers?gh_jid=7764294003#open-roles | Zipline | Forward Deployed AI Engineer, Expansion | South San Francisco, CA | unscored
+- [ ] https://www.zipline.com/careers?gh_jid=7764295003#open-roles | Zipline | Forward Deployed AI Engineer, Site Acquisition | South San Francisco, CA | unscored
+- [ ] https://www.zipline.com/careers?gh_jid=7764296003#open-roles | Zipline | Forward Deployed AI Engineer, Real Estate and Development | South San Francisco, CA | unscored
+- [ ] https://www.zipline.com/careers?gh_jid=7764297003#open-roles | Zipline | Forward Deployed AI Engineer, Land Use and Government Affairs | South San Francisco, CA | unscored
+- [ ] https://www.zipline.com/careers?gh_jid=7764298003#open-roles | Zipline | Forward Deployed AI Engineer, Legal Real Estate | South San Francisco, CA | unscored
+- [ ] https://www.zipline.com/careers?gh_jid=7764299003#open-roles | Zipline | Forward Deployed AI Engineer, Aviation Regulatory | South San Francisco, CA | unscored
+- [ ] https://www.zipline.com/careers?gh_jid=7764300003#open-roles | Zipline | Forward Deployed AI Engineer, Community Engagement | South San Francisco, CA | unscored
+- [ ] https://www.zipline.com/careers?gh_jid=7764301003#open-roles | Zipline | Forward Deployed AI Engineer, Launch, Design, and Construction Handoff | South San Francisco, CA | unscored
+- [ ] https://www.zipline.com/careers?gh_jid=7764302003#open-roles | Zipline | Forward Deployed AI Engineer, People | South San Francisco, CA | unscored
+- [ ] https://www.zipline.com/careers?gh_jid=7764303003#open-roles | Zipline | Forward Deployed AI Engineer, Talent | South San Francisco, CA | unscored
+
+---
+
+
 ## 2026-06-09 (Quick Check)
 
 > Quick check: 42 Greenhouse API boards scanned. ~8,000+ jobs reviewed, 1 new match found (unscored — quick discovery only). Report: [scout-quickcheck-2026-06-09.md](../reports/scout-quickcheck-2026-06-09.md)
