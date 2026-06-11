@@ -3566,8 +3566,12 @@
 
 ### Scout Quick-Check — 2026-06-11 (Greenhouse API only)
 
-> 42 Greenhouse API boards scanned. Full dedup against scan-history. **1 new match** (all others already tracked from prior scans). Report: [scout-quickcheck-2026-06-11.md](../reports/scout-quickcheck-2026-06-11.md)
+> 42 Greenhouse API boards scanned. Full dedup against scan-history. **5 new matches** (all others already tracked from prior scans). Report: [scout-quickcheck-2026-06-11.md](../reports/scout-quickcheck-2026-06-11.md)
 
-#### New Match
+#### New Matches
 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5013366008 | Anthropic | Engineering Manager, Safeguards Review Tooling | San Francisco / Seattle / Remote | comp unlisted | — EM role on safety review tooling; strong mission alignment; AI safety infrastructure
 - [ ] https://job-boards.greenhouse.io/chainguard/jobs/4688378006 | Chainguard | Senior Software Engineer (Customer Platform) | United States (Remote) | comp unlisted | — Customer-facing platform engineering; US Remote; supply-chain security / containers domain
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4686172006 | Chainguard | Senior Software Engineer (Experience) | United States (Remote) | comp unlisted | — Frontend/product experience engineering; US Remote; supply-chain security domain
+- [ ] https://aurora.tech/jobs/8588486002?gh_jid=8588486002 | Aurora Innovation | Software Engineer, Maps Infra | San Francisco | comp unlisted | — Maps data infrastructure for autonomous trucking; SF; strong infra domain
+- [ ] https://nuro.ai/careersitem?gh_jid=7998328 | Nuro | Software Engineer, Onboard Infrastructure | Mountain View | comp unlisted | — Onboard software infra for delivery robots; Mountain View (SF Bay Area)
