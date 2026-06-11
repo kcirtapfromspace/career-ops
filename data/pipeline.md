@@ -1,5 +1,21 @@
 # Pipeline — Pending Offers
 
+---
+
+### Scout Scan — 2026-06-11 (Greenhouse API + Ashby API + WebSearch)
+
+> 55+ Greenhouse API boards + 10 Ashby boards scanned. 5 WebSearch queries. Dedup against 9,847-line scan-history. **4 new matches** (~12,500 jobs reviewed across all sources). Report: [scout-2026-06-11.md](../reports/scout-2026-06-11.md)
+
+#### Top Picks (4.0+)
+
+- [ ] https://jobs.lever.co/voleon/010a7beb-592d-4c34-b651-b07cd2e03eec | The Voleon Group | Senior/Staff Software Engineer, Data Infrastructure | US Remote (Berkeley CA / NYC) | $225K–$310K | ★ 4.3/5 — Top comp of scan; data infra at quant hedge fund; Python/Go/large-scale distributed; Staff/Senior IC; exceeds $230K comp target
+- [ ] https://jobs.lever.co/aledade/851168bb-eca1-4ae3-94e5-c1863e9fa83d | Aledade | Staff Software Engineer, Data Infrastructure | Remote US | est. $185–$220K | ★ 4.0/5 — Distributed data storage/processing at scale; permanent remote; healthcare + federal angle maps to VA.gov background; Staff level
+
+#### Good Matches (3.5–3.9)
+
+- [ ] https://jobs.lever.co/zushealth/db21d338-f31f-4d41-a244-2f35d6cecc03 | Zus Health | Staff Software Engineer, Data Platform | Remote US | est. $160–$190K | ★ 3.7/5 — Staff DE at healthtech Series B; remote-first; comp may be below $185K floor — verify before applying
+- [ ] https://job-boards.greenhouse.io/tekion/jobs/7678467003 | Tekion | Staff Software Engineer, Data Platform Engineer | Remote US (verify) | comp unknown | ★ 3.5/5 — Automotive SaaS data platform; multi-tenant ingestion; US remote status needs verification
+
 ## 2026-06-10 (Quick Check)
 
 > Quick check: 42 Greenhouse API boards scanned. ~8,000+ jobs reviewed, 21 new matches found (unscored — quick discovery only). Report: [scout-quickcheck-2026-06-10.md](../reports/scout-quickcheck-2026-06-10.md)
