@@ -3550,3 +3550,14 @@
 
 - [ ] https://job-boards.greenhouse.io/torcrobotics/jobs/8525558002 | Torc Robotics | Staff Software Engineer | Remote US | $186K–$223K | ★ 3.3/5 — Platform infra + AWS/K8s; Daimler autonomous trucks; generic domain; solid but low-excitement
 
+---
+
+### Scout Scan — 2026-06-11 (Greenhouse API + Ashby API + WebSearch)
+
+> 35 Greenhouse API boards + 12 Ashby boards scanned. 4 WebSearch queries. Dedup against 9,897-line scan-history. **2 new matches** (~2,000+ jobs reviewed across all sources). Report: [scout-2026-06-11.md](../reports/scout-2026-06-11.md)
+
+#### Good Matches (3.5–3.9)
+
+- [ ] https://job-boards.greenhouse.io/stackadapt/jobs/4244651009 | StackAdapt | Senior Staff Software Engineer, Data Delivery | Remote US/CA | comp unlisted | ★ 3.8/5 — Senior Staff level above the Staff Data Delivery role already evaluated; Golang/Kafka/TiDB/Iceberg/StarRocks/Trino; shapes technical direction across platform; ad-tech domain
+- [ ] https://job-boards.greenhouse.io/lithic/jobs/5977140004 | Lithic | Senior Software Engineer, Data Platform | Remote US | comp unlisted (CA range ~$170K–$280K CAD) | ★ 3.6/5 — Python/Kafka/Airflow/Airbyte/dbt/Snowflake/Terraform on AWS; fintech data platform; solid stack match; "Senior" level may be below target
+
