@@ -3561,3 +3561,13 @@
 - [ ] https://job-boards.greenhouse.io/stackadapt/jobs/4244651009 | StackAdapt | Senior Staff Software Engineer, Data Delivery | Remote US/CA | comp unlisted | ★ 3.8/5 — Senior Staff level above the Staff Data Delivery role already evaluated; Golang/Kafka/TiDB/Iceberg/StarRocks/Trino; shapes technical direction across platform; ad-tech domain
 - [ ] https://job-boards.greenhouse.io/lithic/jobs/5977140004 | Lithic | Senior Software Engineer, Data Platform | Remote US | comp unlisted (CA range ~$170K–$280K CAD) | ★ 3.6/5 — Python/Kafka/Airflow/Airbyte/dbt/Snowflake/Terraform on AWS; fintech data platform; solid stack match; "Senior" level may be below target
 
+
+---
+
+### Scout Quick-Check — 2026-06-11 (Greenhouse API only)
+
+> 42 Greenhouse API boards scanned. Full dedup against scan-history. **1 new match** (all others already tracked from prior scans). Report: [scout-quickcheck-2026-06-11.md](../reports/scout-quickcheck-2026-06-11.md)
+
+#### New Match
+
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4688378006 | Chainguard | Senior Software Engineer (Customer Platform) | United States (Remote) | comp unlisted | — Customer-facing platform engineering; US Remote; supply-chain security / containers domain
