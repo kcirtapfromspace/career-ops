@@ -1,5 +1,220 @@
 # Pipeline — Pending Offers
 
+---
+
+### Scout Scan — 2026-06-11 (Greenhouse API + Ashby API + WebSearch)
+
+> 55+ Greenhouse API boards + 10 Ashby boards scanned. 5 WebSearch queries. Dedup against 9,847-line scan-history. **4 new matches** (~12,500 jobs reviewed across all sources). Report: [scout-2026-06-11.md](../reports/scout-2026-06-11.md)
+
+#### Top Picks (4.0+)
+
+- [ ] https://jobs.lever.co/voleon/010a7beb-592d-4c34-b651-b07cd2e03eec | The Voleon Group | Senior/Staff Software Engineer, Data Infrastructure | US Remote (Berkeley CA / NYC) | $225K–$310K | ★ 4.3/5 — Top comp of scan; data infra at quant hedge fund; Python/Go/large-scale distributed; Staff/Senior IC; exceeds $230K comp target
+- [ ] https://jobs.lever.co/aledade/851168bb-eca1-4ae3-94e5-c1863e9fa83d | Aledade | Staff Software Engineer, Data Infrastructure | Remote US | est. $185–$220K | ★ 4.0/5 — Distributed data storage/processing at scale; permanent remote; healthcare + federal angle maps to VA.gov background; Staff level
+
+#### Good Matches (3.5–3.9)
+
+- [ ] https://jobs.lever.co/zushealth/db21d338-f31f-4d41-a244-2f35d6cecc03 | Zus Health | Staff Software Engineer, Data Platform | Remote US | est. $160–$190K | ★ 3.7/5 — Staff DE at healthtech Series B; remote-first; comp may be below $185K floor — verify before applying
+- [ ] https://job-boards.greenhouse.io/tekion/jobs/7678467003 | Tekion | Staff Software Engineer, Data Platform Engineer | Remote US (verify) | comp unknown | ★ 3.5/5 — Automotive SaaS data platform; multi-tenant ingestion; US remote status needs verification
+
+## 2026-06-10 (Quick Check)
+
+> Quick check: 42 Greenhouse API boards scanned. ~8,000+ jobs reviewed, 21 new matches found (unscored — quick discovery only). Report: [scout-quickcheck-2026-06-10.md](../reports/scout-quickcheck-2026-06-10.md)
+
+### Anthropic (1)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5252928008 | Anthropic | Engineering Manager, Cloud Safety | San Francisco, CA / Seattle, WA | unscored
+
+### Anduril (3)
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5160667007?gh_jid=5160667007 | Anduril | Infrastructure Software Engineer | Seattle, WA / Costa Mesa, CA / Washington, DC | unscored
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5158245007?gh_jid=5158245007 | Anduril | Mission Software Engineer, Infrastructure | Seattle, WA / Costa Mesa, CA / Washington, DC | unscored
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5152591007?gh_jid=5152591007 | Anduril | Software Engineer, Sensor Simulation | Seattle, WA | unscored
+
+### Databricks (2)
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8582276002 | Databricks | Senior Software Engineer, AI Runtime | Mountain View, CA / San Francisco, CA | unscored
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8582271002 | Databricks | Staff Software Engineer, AI Runtime | Mountain View, CA / San Francisco, CA | unscored
+
+### Samsara (2)
+- [ ] https://www.samsara.com/company/careers/roles/7859702?gh_jid=7859702 | Samsara | Senior Data Engineer I | Remote - US | unscored
+- [ ] https://www.samsara.com/company/careers/roles/7922530?gh_jid=7922530 | Samsara | Senior Software Engineer - Data Platform | Remote - US | unscored
+
+### Chainguard (1)
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4687328006 | Chainguard | AI Solutions Engineering - Software Engineer | United States - Remote | unscored
+
+### Wayve (1)
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8482120002 | Wayve | Software Engineer - Sensor Systems, Robot Software | Sunnyvale, CA | unscored
+
+### Zipline (11)
+- [ ] https://www.zipline.com/careers?gh_jid=7764239003#open-roles | Zipline | Forward Deployed AI Engineer, Operations | South San Francisco, CA | unscored
+- [ ] https://www.zipline.com/careers?gh_jid=7764294003#open-roles | Zipline | Forward Deployed AI Engineer, Expansion | South San Francisco, CA | unscored
+- [ ] https://www.zipline.com/careers?gh_jid=7764295003#open-roles | Zipline | Forward Deployed AI Engineer, Site Acquisition | South San Francisco, CA | unscored
+- [ ] https://www.zipline.com/careers?gh_jid=7764296003#open-roles | Zipline | Forward Deployed AI Engineer, Real Estate and Development | South San Francisco, CA | unscored
+- [ ] https://www.zipline.com/careers?gh_jid=7764297003#open-roles | Zipline | Forward Deployed AI Engineer, Land Use and Government Affairs | South San Francisco, CA | unscored
+- [ ] https://www.zipline.com/careers?gh_jid=7764298003#open-roles | Zipline | Forward Deployed AI Engineer, Legal Real Estate | South San Francisco, CA | unscored
+- [ ] https://www.zipline.com/careers?gh_jid=7764299003#open-roles | Zipline | Forward Deployed AI Engineer, Aviation Regulatory | South San Francisco, CA | unscored
+- [ ] https://www.zipline.com/careers?gh_jid=7764300003#open-roles | Zipline | Forward Deployed AI Engineer, Community Engagement | South San Francisco, CA | unscored
+- [ ] https://www.zipline.com/careers?gh_jid=7764301003#open-roles | Zipline | Forward Deployed AI Engineer, Launch, Design, and Construction Handoff | South San Francisco, CA | unscored
+- [ ] https://www.zipline.com/careers?gh_jid=7764302003#open-roles | Zipline | Forward Deployed AI Engineer, People | South San Francisco, CA | unscored
+- [ ] https://www.zipline.com/careers?gh_jid=7764303003#open-roles | Zipline | Forward Deployed AI Engineer, Talent | South San Francisco, CA | unscored
+
+---
+
+
+## 2026-06-09 (Quick Check)
+
+> Quick check: 42 Greenhouse API boards scanned. ~8,000+ jobs reviewed, 1 new match found (unscored — quick discovery only). Report: [scout-quickcheck-2026-06-09.md](../reports/scout-quickcheck-2026-06-09.md)
+
+### Glean (1)
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4704106005 | Glean | Software Engineer, Compute Infrastructure | Mountain View, CA | unscored
+
+---
+
+## 2026-06-08 (Quick Check)
+
+> Quick check: 42 Greenhouse API boards scanned. 7,330 jobs reviewed, 79 new IDs logged. 6 new matches found (unscored — quick discovery only). Report: [scout-quickcheck-2026-06-08.md](../reports/scout-quickcheck-2026-06-08.md)
+
+### Anthropic (1)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5250091008 | Anthropic | Staff+ Software Engineer, GRC Platform | San Francisco, CA / New York City, NY / Seattle, WA | unscored
+
+### Anduril (1)
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5156239007?gh_jid=5156239007 | Anduril | Senior Software Engineer, Realtime Imaging | Boulder, Colorado | unscored
+
+### Databricks (2)
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8578177002 | Databricks | Staff Software Engineer, AI Search | Mountain View, CA | unscored
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8579135002 | Databricks | Staff Software Engineer, Compute Infrastructure | Bellevue, WA | unscored
+
+### Nuro (1)
+- [ ] https://nuro.ai/careersitem?gh_jid=7978428 | Nuro | Software Engineer, Performance | Mountain View, CA | unscored
+
+### Aurora (1)
+- [ ] https://aurora.tech/jobs/8572530002?gh_jid=8572530002 | Aurora | Staff Software Engineer, Connectivity | Mountain View, CA | unscored
+
+---
+
+## 2026-06-07
+
+> Scout scan: 40+ Greenhouse API boards + Lever/Ashby/WebSearch queries. ~5,500+ jobs reviewed. 2 new matches found (1 Top Pick, 1 Good Match). Report: [scout-2026-06-07.md](../reports/scout-2026-06-07.md)
+
+#### Top Picks (4.0+)
+
+- [ ] https://job-boards.greenhouse.io/equilibriumenergy/jobs/4002536005 | Equilibrium Energy | Software Engineer, ML Platform (Staff / Sr Staff) | US Remote (SF preferred) | ★ 4.0/5 — Staff/Sr Staff ML Platform at energy AI company; Argo + K8s + Dagster + Prometheus is textbook Patrick stack; owns ML orchestration and model deployment workflows; green energy sector adds mission angle
+
+#### Good Matches (3.5–3.9)
+
+- [ ] https://jobs.ashbyhq.com/hinge-health/d635a9d3-c04d-48e5-a53d-cb9ecf665350 | Hinge Health | Staff Data Engineer, Data & ML Platform | Remote US ($157K–$196K) | ★ 3.5/5 — Staff DE owning architecture for data + ML infrastructure at digital health scale-up; comp ceiling slightly below $200K minimum but role responsibilities align well; worth applying if comp is negotiable
+
+---
+
+## 2026-06-07 (Quick Check)
+
+> Quick check: 42 Greenhouse API boards scanned. ~5,200+ jobs reviewed. 1 new match found (unscored — quick discovery only). Report: [scout-quickcheck-2026-06-07.md](../reports/scout-quickcheck-2026-06-07.md)
+
+### Nuro (1)
+- [ ] https://nuro.ai/careersitem?gh_jid=7978431 | Nuro | Senior Software Engineer, Performance | Mountain View, CA | unscored
+
+---
+
+## 2026-06-06 (Quick Check)
+
+> Quick check: 42 Greenhouse API boards scanned. ~5,000+ jobs reviewed. 1 new match found (unscored — quick discovery only). Report: [scout-quickcheck-2026-06-06.md](../reports/scout-quickcheck-2026-06-06.md)
+
+### Anthropic (1)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5247156008 | Anthropic | Engineering Manager, Safeguards Data Infrastructure | San Francisco, CA | unscored
+
+---
+
+## 2026-06-06
+
+> Scout scan: 27 Greenhouse API boards + 6 WebSearch queries. ~4,200+ jobs reviewed. 18 new matches found (8 Top Picks, 10 Good Matches). Report: [scout-2026-06-06.md](../reports/scout-2026-06-06.md)
+
+#### Top Picks (4.0+)
+
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5100259007 | Temporal | Senior Engineering Manager, AI Developer Experience | US Remote | ★ 4.3/5 — EM for Temporal's AI developer experience; Go-based distributed workflow platform; Patrick's Argo Workflows + K8s + OTel observability is direct proof point; remote, comp likely $250K+
+- [ ] https://job-boards.greenhouse.io/discord/jobs/7716532002 | Discord | Staff Software Engineer, Data Platform | US Remote ($223K–$245K) | ★ 4.2/5 — Staff data platform at hyperscale consumer platform; comp top of Patrick's range; Kafka/distributed data systems direct match
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5119529007 | Temporal | Staff Software Engineer, Observability | US Remote | ★ 4.2/5 — Staff observability for Temporal Cloud; Patrick's OTel/Prometheus/Datadog background is a direct category match
+- [ ] https://job-boards.greenhouse.io/nexla/jobs/4667240005 | Nexla | Staff Software Engineer, Connectors Framework | Remote | ★ 4.2/5 — Requires Kafka, CDC, Debezium, Kubernetes; 8–15+ years experience; data integration platform directly matches Patrick's CDC/Debezium work
+- [ ] https://job-boards.greenhouse.io/calendly/jobs/7963303002 | Calendly | Staff Data Engineer | Remote US | ★ 4.1/5 — Staff DE with Flink/Beam/Airflow/Kubernetes + CDC/Debezium; Denver-adjacent company culture; direct stack match
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/7689257 | Planet Labs | Senior Geospatial AI/ML Engineer | Denver, CO OR San Francisco, CA | ★ 4.1/5 — Explicitly lists Denver CO; ML engineering with Python/K8s; mission-driven satellite data company
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5107194007 | Temporal | Staff Software Engineer, Infrastructure Foundations | US Remote | ★ 4.0/5 — Staff infra for Temporal Cloud foundations; Go distributed systems; multiple open Temporal roles signal strong growth
+- [ ] https://jobs.ashbyhq.com/vanta/2a89eb83-9e4c-48e0-a967-2a5b33058f20 | Vanta | Staff Data Engineer | Remote | ★ 4.0/5 — Staff DE at security/compliance SaaS; Debezium CDC implementation specifically mentioned; direct stack match
+
+#### Good Matches (3.5–3.9)
+
+- [ ] https://job-boards.greenhouse.io/calendly/jobs/8575484002 | Calendly | Senior Engineering Manager, Data Platform | Remote | ★ 3.9/5 — Senior EM data platform; reports to VP of Data; remote; Denver company culture
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5068388007 | Temporal | Staff Software Engineer, Compute (Temporal Cloud) | US Remote | ★ 3.8/5 — Staff compute for Temporal Cloud; Go distributed systems; solid fit but less direct than observability/infra roles
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7483663003 | Fivetran | Senior Staff Software Engineer, Binary Log Data Replication | Denver, CO | ★ 3.8/5 — Denver location; CDC/binary log replication directly matches Patrick's Debezium work; Denver office role
+- [ ] https://job-boards.greenhouse.io/signifyd95/jobs/6968243 | Signifyd | Engineering Manager, ML Platform | Remote US | ★ 3.8/5 — EM for ML platform (model training/deployment, feature engineering); Argo Workflows/K8s background is strong proof point
+- [ ] https://jobs.ashbyhq.com/trm-labs/21b2fb38-fcf1-4911-828a-0850d445a168 | TRM Labs | Engineering Manager, Data Engineering | US Remote | ★ 3.8/5 — EM data engineering at blockchain analytics; Kafka/Kubernetes; petabyte-scale data; fully remote US
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/7603834 | Planet Labs | Senior Software Engineering Manager | US Remote | ★ 3.7/5 — EM role at satellite data company; US remote; Python/data platform focus
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5421310004 | Arize AI | Engineering Manager, Product & Platform | Remote US | ★ 3.7/5 — EM for ML observability platform; Patrick's OTel/observability expertise is a strong match; growing AI/ML observability space
+- [ ] https://job-boards.greenhouse.io/marqeta/jobs/7859782 | Marqeta | Senior Software Engineer, Data Infrastructure | Flex/Remote | ★ 3.7/5 — CDC/Debezium + Kafka + Kubernetes required; data infrastructure at fintech; Flex First remote policy
+- [ ] https://job-boards.greenhouse.io/openly/jobs/4696499005 | Openly | Engineering Manager, Data Engineering | Remote US | ★ 3.6/5 — EM data engineering at insurtech; 3+ years EM experience required; fully remote US
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5776991004 | ClickHouse | Senior Backend Engineer, Infrastructure (ClickPipes) | US Remote | ★ 3.6/5 — Backend infra for ClickHouse's data pipeline ingestion; data integration stack; US remote
+
+---
+
+## 2026-06-05
+
+> Scout scan: 45 Greenhouse API boards + 4 WebSearch queries + HN Who's Hiring June 2026. ~3,200+ jobs reviewed. 3 new matches found. Report: [scout-quickcheck-2026-06-05.md](../reports/scout-quickcheck-2026-06-05.md)
+
+#### Top Picks (4.0+)
+
+- [ ] https://job-boards.greenhouse.io/armissecurity/jobs/5995276004 | Armis Security | Senior Staff Data Infrastructure Engineer (FedRAMP) | US Remote ($200K–$220K + bonus/equity) | ★ 4.2/5 — FedRAMP/GovCloud data infra role; Kafka+PostgreSQL+Kubernetes+Terraform stack is direct match; US Citizenship req met; Patrick's federal government background (HHS, VA.gov) is a rare differentiator here.
+
+#### Good Matches (3.5–3.9)
+
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5151694007 | Temporal | Staff Cloud Security Engineer | US Remote ($225K–$275K) | ★ 3.9/5 — Cloud security for multi-cloud distributed workflow engine; strong overlap with auth/secrets (Vault, KMS, OAuth/OIDC) infra; comp above target; adjacent to core Patrick archetype.
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5227810008 | Anthropic | Engineering Manager - Privacy Infrastructure | SF / Seattle ($405K–$485K) | ★ 3.7/5 — Privacy engineering EM at Anthropic; exceptional comp; SF/Seattle hybrid (relocation required); overlaps applied Anthropic role already in pipeline; strong secondary option.
+
+---
+
+## 2026-06-05 (Quick Check)
+
+> Quick check: 42 Greenhouse API boards scanned. ~2,800+ jobs reviewed. 11 new matches found (unscored — quick discovery only). Report: [scout-quickcheck-2026-06-05.md](../reports/scout-quickcheck-2026-06-05.md)
+
+### Anthropic (1)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5236531008 | Anthropic | Engineering Manager, Cybersecurity Products | San Francisco / New York | unscored
+
+### Airtable (1)
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8565121002 | Airtable | Manager, Data Engineering | San Francisco / New York / Austin | unscored
+
+### Aurora (2)
+- [ ] https://aurora.tech/jobs/8539939002?gh_jid=8539939002 | Aurora | Staff Client Platform Engineer | San Francisco, CA | unscored
+- [ ] https://aurora.tech/jobs/8539943002?gh_jid=8539943002 | Aurora | Staff Client Platform Engineer | Seattle, WA | unscored
+
+### ClickHouse (2)
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/6009092004 | ClickHouse | Senior Software Engineer (Backend) - AI/ML | US Remote | unscored
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/6000796004 | ClickHouse | Senior Software Engineer - Data Integration & JVM Ecosystem | US Remote | unscored
+
+### Databricks (1)
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8578093002 | Databricks | Engineering Manager - Data Visualization Platform | Bellevue, WA | unscored
+
+### Glean (1)
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4696752005 | Glean | Software Engineer, APIs & Context Platform | Mountain View, CA | unscored
+
+### RunPod (1)
+- [ ] https://job-boards.greenhouse.io/runpod/jobs/5229443008 | RunPod | Site Reliability Engineer | US Remote | unscored
+
+### Temporal (2)
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5148493007 | Temporal | Staff Software Engineer, Cloud Identity | US Remote | unscored
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5149574007 | Temporal | Senior Software Engineer, Cloud Applications | US Remote | unscored
+
+---
+
+## 2026-06-04 (Quick Check)
+
+> Quick check: 42 Greenhouse API boards scanned. ~2,600+ jobs reviewed. 1 new match found (unscored — quick discovery only). Report: [scout-quickcheck-2026-06-04.md](../reports/scout-quickcheck-2026-06-04.md)
+
+### ClickHouse (1)
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5994726004 | ClickHouse | Senior Cloud Engineer | United States (remote) | unscored
+
+## 2026-06-04
+
+> Scout scan: 32 Greenhouse API boards + 8 WebSearch queries (2 skipped: operator limitations). ~1,200+ jobs reviewed. 2 new matches added. Report: [scout-2026-06-04.md](../reports/scout-2026-06-04.md)
+
+#### Top Picks (4.0+)
+
+- [ ] https://jobs.ashbyhq.com/motherduck/0491624c-97ad-4a94-8bb2-f93b48d548a8/application | MotherDuck | Software Engineer - Platform (Infra) | Seattle / SF / NYC ($140K–$250K+ est.) | ★ 4.0/5 — DuckDB cloud analytics platform infra; distributed systems + data platform role maps directly to Patrick's background. Cutting-edge OLAP stack, strong IC match at staff level.
+- [ ] https://jobs.ashbyhq.com/MotherDuck/ed355405-d983-4c53-abd3-b04fb72190e2/application | MotherDuck | Software Engineer - Backend | Seattle / SF / NYC ($140K–$250K+ est.) | ★ 4.0/5 — Backend distributed systems for DuckDB cloud; strong overlap with Patrick's data infra + Kafka/CDC/Go work. Highly technical, small team, top-of-range comp possible.
+
 ## 2026-06-03
 
 > Scout scan: 32 Greenhouse API boards + 10 WebSearch queries. 1,200+ jobs reviewed. 14 new matches found. Report: [scout-2026-06-03.md](../reports/scout-2026-06-03.md)
@@ -167,6 +382,21 @@
 ---
 
 ## Pendientes
+
+### Quick-Check Scan (2026-06-07)
+
+- [ ] https://www.samsara.com/company/careers/roles/7858719?gh_jid=7858719 | Samsara | People Analytics AI Engineer | Remote - Seattle
+- [ ] https://www.zipline.com/careers?gh_jid=7764299003 | Zipline | Forward Deployed AI Engineer, Aviation Regulatory | South San Francisco, California, USA
+- [ ] https://www.zipline.com/careers?gh_jid=7764300003 | Zipline | Forward Deployed AI Engineer, Community Engagement | South San Francisco, California, USA
+- [ ] https://www.zipline.com/careers?gh_jid=7764294003 | Zipline | Forward Deployed AI Engineer, Expansion | South San Francisco, California, USA
+- [ ] https://www.zipline.com/careers?gh_jid=7764297003 | Zipline | Forward Deployed AI Engineer, Land Use and Government Affairs | South San Francisco, California, USA
+- [ ] https://www.zipline.com/careers?gh_jid=7764301003 | Zipline | Forward Deployed AI Engineer, Launch, Design, and Construction Handoff | South San Francisco, California, USA
+- [ ] https://www.zipline.com/careers?gh_jid=7764298003 | Zipline | Forward Deployed AI Engineer, Legal Real Estate | South San Francisco, California, USA
+- [ ] https://www.zipline.com/careers?gh_jid=7764239003 | Zipline | Forward Deployed AI Engineer, Operations | South San Francisco, California, USA
+- [ ] https://www.zipline.com/careers?gh_jid=7764302003 | Zipline | Forward Deployed AI Engineer, People | South San Francisco, California, USA
+- [ ] https://www.zipline.com/careers?gh_jid=7764296003 | Zipline | Forward Deployed AI Engineer, Real Estate and Development | South San Francisco, California, USA
+- [ ] https://www.zipline.com/careers?gh_jid=7764295003 | Zipline | Forward Deployed AI Engineer, Site Acquisition | South San Francisco, California, USA
+- [ ] https://www.zipline.com/careers?gh_jid=7764303003 | Zipline | Forward Deployed AI Engineer, Talent | South San Francisco, California, USA
 
 
 ### Quick-Check Scan (2026-06-02)
@@ -3240,3 +3470,108 @@
 
 #### MoonPay (1)
 - [ ] https://jobs.lever.co/moonpay/6f779b9e-d63d-4613-afd4-8b1e584f2cfb | MoonPay | Staff Data Platform Engineer | Remote - US | ★ 3.8/5 — Staff IC, Kafka/K8s/Python/Terraform stack match; data platform at fintech; remote US; verify comp ($185K+ threshold)
+
+---
+
+### Scout Quick-Check — 2026-06-07 (Greenhouse API)
+
+> 40 Greenhouse API boards scanned (52 attempted; 12 unreachable/empty). 5,366 jobs reviewed. **12 new matches**. Report: [scout-quickcheck-2026-06-07.md](../reports/scout-quickcheck-2026-06-07.md)
+
+#### Samsara (1)
+- [ ] https://www.samsara.com/company/careers/roles/7858719?gh_jid=7858719 | Samsara | People Analytics AI Engineer | Remote - Seattle
+
+#### Zipline (11)
+- [ ] https://www.zipline.com/careers?gh_jid=7764299003 | Zipline | Forward Deployed AI Engineer, Aviation Regulatory | South San Francisco, CA
+- [ ] https://www.zipline.com/careers?gh_jid=7764300003 | Zipline | Forward Deployed AI Engineer, Community Engagement | South San Francisco, CA
+- [ ] https://www.zipline.com/careers?gh_jid=7764294003 | Zipline | Forward Deployed AI Engineer, Expansion | South San Francisco, CA
+- [ ] https://www.zipline.com/careers?gh_jid=7764297003 | Zipline | Forward Deployed AI Engineer, Land Use and Government Affairs | South San Francisco, CA
+- [ ] https://www.zipline.com/careers?gh_jid=7764301003 | Zipline | Forward Deployed AI Engineer, Launch, Design, and Construction Handoff | South San Francisco, CA
+- [ ] https://www.zipline.com/careers?gh_jid=7764298003 | Zipline | Forward Deployed AI Engineer, Legal Real Estate | South San Francisco, CA
+- [ ] https://www.zipline.com/careers?gh_jid=7764239003 | Zipline | Forward Deployed AI Engineer, Operations | South San Francisco, CA
+- [ ] https://www.zipline.com/careers?gh_jid=7764302003 | Zipline | Forward Deployed AI Engineer, People | South San Francisco, CA
+- [ ] https://www.zipline.com/careers?gh_jid=7764296003 | Zipline | Forward Deployed AI Engineer, Real Estate and Development | South San Francisco, CA
+- [ ] https://www.zipline.com/careers?gh_jid=7764295003 | Zipline | Forward Deployed AI Engineer, Site Acquisition | South San Francisco, CA
+- [ ] https://www.zipline.com/careers?gh_jid=7764303003 | Zipline | Forward Deployed AI Engineer, Talent | South San Francisco, CA
+
+---
+
+### Scout Scan — 2026-06-08 (Greenhouse API + WebSearch)
+
+> 40 Greenhouse API boards scanned across 4 batches. 14 WebSearch queries executed. Dedup against 9,609-line scan-history. **3 new matches** (16 candidates identified; 13 already in pipeline from prior scans). Report: [scout-2026-06-08.md](../reports/scout-2026-06-08.md)
+
+#### Dropbox (1)
+- [ ] https://job-boards.greenhouse.io/dropbox/jobs/7595183 | Dropbox | Staff Data Engineer, Analytics Data Engineering | Remote US Zone 2/3 | $198-269K | ★ 4.4/5 — Airflow+dbt+Spark+Python; conformed dimensions + metrics pipelines; observability/governance; Staff DE archetype exact fit; Denver = Zone 2
+
+#### Webflow (1)
+- [ ] https://job-boards.greenhouse.io/webflow/jobs/7867282 | Webflow | Senior Staff Software Engineer, Distributed Systems | US Remote | ★ 3.9/5 — 12+ yrs; Go/Python/Java; high-throughput distributed systems; experimentation/personalization backend; US remote
+
+#### Caribou Financial (1)
+- [ ] https://job-boards.greenhouse.io/caribou/jobs/7688631003 | Caribou Financial | Engineering Manager, Data & Platform Engineering | Remote (Denver preferred) | $175-215K | ★ 3.7/5 — GCP/GKE/dbt/Pulumi; Denver-preferred remote; EM archetype; comp slightly below $200K target but strong location+stack fit
+
+---
+
+### Scout Scan — 2026-06-09 (Greenhouse API + WebSearch)
+
+> 42 Greenhouse API boards scanned. 9 WebSearch queries executed. Dedup against 9,711-line scan-history. **7 new matches** (candidates identified across ~2,000+ jobs reviewed; 1,200+ already in scan-history from prior scans). Report: [scout-2026-06-09.md](../reports/scout-2026-06-09.md)
+
+#### Top Picks (4.0+)
+
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/6014112004 | ClickHouse | AI Product Engineer - ClickStack | US Remote | ★ 4.2/5 — Brand-new role on ClickHouse's observability/analytics product; data platform + AI infra angle; Patrick's streaming/Kafka/Python stack maps well; US remote confirmed
+- [ ] https://jobs.ashbyhq.com/givebutter/0b9eb432-ea4f-4057-a13e-a044a3c3407a | Givebutter | Staff Engineer | Remote US | $190K–$225K | ★ 4.0/5 — Staff level, confirmed comp $190-225K+equity; fraud detection/risk/internal tooling focus; remote-first; strong system design scope
+- [ ] https://job-boards.greenhouse.io/duettoresearch/jobs/7831511 | Duetto Research | Staff Software Engineer, Data Integrations Platform | Remote US | ★ 4.0/5 — Hospitality revenue platform; Staff DE owns CDC/integration stack connecting hotel PMS + OTA systems; Debezium/Kafka angle is Patrick's exact sweet spot
+
+#### Good Matches (3.5–3.9)
+
+- [ ] https://jobs.ashbyhq.com/rula/14793f6e-d938-4a5f-b831-bdf011eed58d | Rula | Staff Software Engineer - Backend/AI | Remote US | ★ 3.7/5 — Mental health platform, Staff backend/AI, Python-heavy; Series C healthtech; comp likely $185-220K; remote US; mission-driven if relevant
+- [ ] https://jobs.ashbyhq.com/goodship/c6086f2c-a371-4f89-bd17-7f5c0d4fc5a1 | GoodShip | Engineering Manager, Data & Infrastructure | Remote (Seattle preferred) | ★ 3.5/5 — EM role owning data + infra at logistics startup; Seattle preferred but remote OK; stack unknown; smaller startup
+- [ ] https://jobs.ashbyhq.com/compa/bc153079-cd92-4c17-9e9f-18182be5c0a5 | Compa | Engineering Manager, Core Infrastructure | Remote (Denver/Irvine/Boston preferred) | ★ 3.5/5 — First infra team build-out; Denver-preferred remote; EM archetype fit; compensation benchmarking startup
+- [ ] https://jobs.lever.co/peerspace/1d2ff648-1497-453f-9337-885fc6306f02 | Peerspace | Staff Data Engineer | Remote | ★ 3.5/5 — 8-12+ yrs, large-scale data platform on GCP/BigQuery; separate IC track from existing pipeline EM role at same company
+
+---
+
+### Scout Scan — 2026-06-10 (Greenhouse API + Ashby API + WebSearch)
+
+> 45+ Greenhouse API boards + 10+ Ashby boards scanned. 15+ WebSearch queries. Dedup against 9,125-line scan-history. **8 new matches** (~12,000 jobs reviewed across all sources). Report: [scout-2026-06-10.md](../reports/scout-2026-06-10.md)
+
+#### Top Picks (4.0+)
+
+- [ ] https://jobs.ashbyhq.com/rula/cb4b3571-ea8e-4c2b-be76-cd0590bcf917 | Rula | Sr. Analytics Engineering Manager | Remote US | $213K–$251K + equity | ★ 4.2/5 — EM data archetype; leads senior ICs building ELT pipelines + semantic layer; mental health platform; strong comp
+- [ ] https://jobs.ashbyhq.com/rula/f2424794-c819-4f53-a8af-83322e617acb | Rula | Sr. Staff AI Engineer | Remote US | $229K–$283K + equity | ★ 4.0/5 — Highest comp of scan; production generative AI systems + cloud infra; IC Staff+; Patrick's AI/ML infra background relevant
+- [ ] https://job-boards.greenhouse.io/equilibriumenergy/jobs/4179519005 | Equilibrium Energy | Software Engineer – Data Engineering (Staff/Sr Staff) | Remote US (SF/NYC pref) | comp unlisted | ★ 3.8/5 — Patrick's exact stack: Temporal + Dagster + Databricks + Airflow; clean energy Series B; workflow orchestration is direct proof point
+
+#### Good Matches (3.5–3.9)
+
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5158843007 | Temporal Technologies | Senior Software Engineer, Cloud Identity | Remote US | $212K–$237K + equity | ★ 3.8/5 — Go + OAuth/OIDC/SAML + distributed systems; identity/auth at the company behind Temporal orchestration; federal/enterprise auth background relevant
+- [ ] https://job-boards.greenhouse.io/stackadapt/jobs/4244680009 | StackAdapt | Staff Software Engineer, Data Delivery | Remote US/CA | comp unlisted | ★ 3.7/5 — Golang preferred; Kafka/TiDB/Iceberg/StarRocks data delivery; Staff scope; ad-tech domain
+- [ ] https://jobs.ashbyhq.com/docker/9d5c3e18-eaef-4ffb-b4f1-795742fcba98 | Docker | Staff Backend Engineer, Hub | East Coast Remote | comp unlisted (Docker range $170K–$275K) | ★ 3.5/5 — Go+K8s+distributed at scale; Docker Hub 14M users; East Coast timezone req; high-impact infra ownership
+- [ ] https://jobs.ashbyhq.com/twelve-labs/a50da873-87f8-4e57-ad2f-11080eb6d3d0 | TwelveLabs | Staff SRE | San Francisco Hybrid | $220K–$250K + equity | ★ 3.5/5 — Excellent comp; multimodal AI startup; SRE/reliability + observability; SF relocation required; Watchtower/DORA background relevant
+
+#### Lower Priority (3.0–3.4)
+
+- [ ] https://job-boards.greenhouse.io/torcrobotics/jobs/8525558002 | Torc Robotics | Staff Software Engineer | Remote US | $186K–$223K | ★ 3.3/5 — Platform infra + AWS/K8s; Daimler autonomous trucks; generic domain; solid but low-excitement
+
+---
+
+### Scout Scan — 2026-06-11 (Greenhouse API + Ashby API + WebSearch)
+
+> 35 Greenhouse API boards + 12 Ashby boards scanned. 4 WebSearch queries. Dedup against 9,897-line scan-history. **2 new matches** (~2,000+ jobs reviewed across all sources). Report: [scout-2026-06-11.md](../reports/scout-2026-06-11.md)
+
+#### Good Matches (3.5–3.9)
+
+- [ ] https://job-boards.greenhouse.io/stackadapt/jobs/4244651009 | StackAdapt | Senior Staff Software Engineer, Data Delivery | Remote US/CA | comp unlisted | ★ 3.8/5 — Senior Staff level above the Staff Data Delivery role already evaluated; Golang/Kafka/TiDB/Iceberg/StarRocks/Trino; shapes technical direction across platform; ad-tech domain
+- [ ] https://job-boards.greenhouse.io/lithic/jobs/5977140004 | Lithic | Senior Software Engineer, Data Platform | Remote US | comp unlisted (CA range ~$170K–$280K CAD) | ★ 3.6/5 — Python/Kafka/Airflow/Airbyte/dbt/Snowflake/Terraform on AWS; fintech data platform; solid stack match; "Senior" level may be below target
+
+
+---
+
+### Scout Quick-Check — 2026-06-11 (Greenhouse API only)
+
+> 42 Greenhouse API boards scanned. Full dedup against scan-history. **5 new matches** (all others already tracked from prior scans). Report: [scout-quickcheck-2026-06-11.md](../reports/scout-quickcheck-2026-06-11.md)
+
+#### New Matches
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5013366008 | Anthropic | Engineering Manager, Safeguards Review Tooling | San Francisco / Seattle / Remote | comp unlisted | — EM role on safety review tooling; strong mission alignment; AI safety infrastructure
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4688378006 | Chainguard | Senior Software Engineer (Customer Platform) | United States (Remote) | comp unlisted | — Customer-facing platform engineering; US Remote; supply-chain security / containers domain
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4686172006 | Chainguard | Senior Software Engineer (Experience) | United States (Remote) | comp unlisted | — Frontend/product experience engineering; US Remote; supply-chain security domain
+- [ ] https://aurora.tech/jobs/8588486002?gh_jid=8588486002 | Aurora Innovation | Software Engineer, Maps Infra | San Francisco | comp unlisted | — Maps data infrastructure for autonomous trucking; SF; strong infra domain
+- [ ] https://nuro.ai/careersitem?gh_jid=7998328 | Nuro | Software Engineer, Onboard Infrastructure | Mountain View | comp unlisted | — Onboard software infra for delivery robots; Mountain View (SF Bay Area)
