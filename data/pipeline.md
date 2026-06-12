@@ -2,6 +2,27 @@
 
 ---
 
+### Quick-Check — 2026-06-12 (Greenhouse API only)
+
+> 52 Greenhouse API boards scanned (12 returned 0 jobs or errored). ~5,385 jobs reviewed. Dedup against 9,949-line scan-history. **6 new matches**. Report: [scout-quickcheck-2026-06-12.md](../reports/scout-quickcheck-2026-06-12.md)
+
+#### Strong Picks
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5245851008 | Anthropic | Staff + Senior Software Engineer, Inference | San Francisco, CA / New York City, NY / Seattle, WA | unscored
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4688854006 | Chainguard | Staff Software Engineer (Guarded Containers) | United States - Remote | unscored
+
+#### Review Needed
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5251671008 | Anthropic | Software Engineer, Safeguards Evals | San Francisco, CA / New York City, NY | unscored
+- [ ] https://www.samsara.com/company/careers/roles/7892030?gh_jid=7892030 | Samsara | Staff Software Engineer, Routing | Remote - CA | unscored
+- [ ] https://www.samsara.com/company/careers/roles/7892022?gh_jid=7892022 | Samsara | Sr. Software Engineer II | Remote - SF Bay Area | unscored
+
+#### Likely False Positive (verify)
+
+- [ ] https://www.samsara.com/company/careers/roles/7917475?gh_jid=7917475 | Samsara | Senior Marketing Analytics Manager - BI & Data Architecture | Remote - US | unscored — *title filter hit on "Data Architecture" but this may be a marketing/analytics manager role*
+
+---
+
 ### Scout Scan — 2026-06-12 (Greenhouse API + WebSearch)
 
 > 41 Greenhouse API boards scanned (1 returned 0 jobs: Dagster Labs). 6 WebSearch queries. Dedup against 9,940-line scan-history. **1 new match**. Report: [scout-2026-06-12.md](../reports/scout-2026-06-12.md)
@@ -400,6 +421,15 @@
 ---
 
 ## Pendientes
+
+### Quick-Check Scan (2026-06-12)
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5245851008 | Anthropic | Staff + Senior Software Engineer, Inference | San Francisco, CA | New York City, NY | Seattle, WA
+- [ ] https://www.samsara.com/company/careers/roles/7917475?gh_jid=7917475 | Samsara | Senior Marketing Analytics Manager - BI & Data Architecture | Remote - US
+- [ ] https://www.samsara.com/company/careers/roles/7892030?gh_jid=7892030 | Samsara | Staff Software Engineer, Routing | Remote - CA
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4688854006 | Chainguard | Staff Software Engineer (Guarded Containers) | United States - Remote
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5251671008 | Anthropic | Software Engineer, Safeguards Evals  | San Francisco, CA | New York City, NY
+- [ ] https://www.samsara.com/company/careers/roles/7892022?gh_jid=7892022 | Samsara | Sr. Software Engineer II | Remote - SF Bay Area
 
 ### Quick-Check Scan (2026-06-07)
 
