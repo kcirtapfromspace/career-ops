@@ -2,6 +2,24 @@
 
 ---
 
+### Scout Scan — 2026-06-12 (Greenhouse API + WebSearch)
+
+> 41 Greenhouse API boards scanned (1 returned 0 jobs: Dagster Labs). 6 WebSearch queries. Dedup against 9,940-line scan-history. **1 new match**. Report: [scout-2026-06-12.md](../reports/scout-2026-06-12.md)
+
+#### Top Picks (4.0+)
+
+*(none this cycle)*
+
+#### Good Matches (3.5–3.9)
+
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/6019002004 | ClickHouse | Senior Consulting Engineer - AMER | United States (Remote) | $158K–$221K | ★ 3.5/5 — US remote, distributed DBMS/Kafka/K8s stack matches Patrick's background; consulting-heavy role, not Staff level, comp at lower bound of target range
+
+#### Lower Matches (3.0–3.4)
+
+*(none)*
+
+---
+
 ### Scout Scan — 2026-06-11 (Greenhouse API + Ashby API + WebSearch)
 
 > 55+ Greenhouse API boards + 10 Ashby boards scanned. 5 WebSearch queries. Dedup against 9,847-line scan-history. **4 new matches** (~12,500 jobs reviewed across all sources). Report: [scout-2026-06-11.md](../reports/scout-2026-06-11.md)
