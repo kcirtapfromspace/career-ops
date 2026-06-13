@@ -3,6 +3,17 @@
 
 ---
 
+### Quick-Check — 2026-06-13 #3 (Greenhouse API only)
+
+> 42 Greenhouse API boards scanned. Full dedup against 10,043-line scan-history. **2 new matches**. Report: [scout-quickcheck-2026-06-13-3.md](../reports/scout-quickcheck-2026-06-13-3.md)
+
+#### New Matches
+
+- [ ] https://imply.io/positions?gh_jid=7532528003 | Imply | Staff Software Engineer | Remote (Burlingame CA base) | unscored — *real-time analytics on Apache Druid; data infra domain; Staff level*
+- [ ] https://imply.io/positions?gh_jid=7595374003 | Imply | Software Engineer (Full Stack, Backend Focus) | Remote (Burlingame CA base) | unscored — *full-stack backend; data/analytics platform; may be below Staff target*
+
+---
+
 ### Quick-Check — 2026-06-13 #2 (Greenhouse API only)
 
 > 42 Greenhouse API boards scanned (1 returned 0 jobs: Dagster Labs). 7,476 jobs reviewed. Dedup against 9,999-line scan-history. **10 new matches** (after location/role filtering). Report: [scout-quickcheck-2026-06-13-2.md](../reports/scout-quickcheck-2026-06-13-2.md)
