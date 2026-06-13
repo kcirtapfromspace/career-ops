@@ -2,6 +2,27 @@
 
 ---
 
+### Scout Scan — 2026-06-13
+
+> 43 Greenhouse API boards scanned (4 returned 0 jobs: Speechmatics, Black Forest Labs, Helsing, Dagster Labs). 5 WebSearch queries. Dedup against ~9,955-line scan-history. **6 new matches**. Report: [scout-2026-06-13.md](../reports/scout-2026-06-13.md)
+
+#### Top Picks (4.0+)
+
+- [ ] https://job-boards.greenhouse.io/stripe/jobs/7939868 | Stripe | Staff Software Engineer, Machine Learning Platform | US Remote | unscored
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5257650008 | Anthropic | Staff+ Software Engineer, Inference Runtime | San Francisco, CA / Seattle, WA | unscored
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5255912008 | Anthropic | Engineering Manager, Enterprise | San Francisco, CA | unscored
+
+#### Good Matches (3.5–3.9)
+
+- [ ] https://www.samsara.com/company/careers/roles/7997311?gh_jid=7997311 | Samsara | Senior Data Engineer I | Remote - US | unscored
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5254803008 | Anthropic | Staff+ Software Engineer, Developer Productivity | San Francisco, CA / Seattle, WA | unscored
+
+#### Needs Review
+
+- [ ] https://job-boards.greenhouse.io/smarterdx/jobs/4730428007 | SmarterDx | Staff Software Engineer, Machine Learning | Remote - US | unscored
+
+---
+
 ### Quick-Check — 2026-06-12 (Greenhouse API only)
 
 > 52 Greenhouse API boards scanned (12 returned 0 jobs or errored). ~5,385 jobs reviewed. Dedup against 9,949-line scan-history. **6 new matches**. Report: [scout-quickcheck-2026-06-12.md](../reports/scout-quickcheck-2026-06-12.md)
