@@ -1,5 +1,31 @@
 # Pipeline — Pending Offers
 
+
+---
+
+### Quick-Check — 2026-06-13 #2 (Greenhouse API only)
+
+> 42 Greenhouse API boards scanned (1 returned 0 jobs: Dagster Labs). 7,476 jobs reviewed. Dedup against 9,999-line scan-history. **10 new matches** (after location/role filtering). Report: [scout-quickcheck-2026-06-13-2.md](../reports/scout-quickcheck-2026-06-13-2.md)
+
+#### Strong Picks
+
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8560783002 | Databricks | Staff Software Engineer, AI Native Web Platform | Mountain View, CA | unscored
+- [ ] https://aurora.tech/jobs/8576184002?gh_jid=8576184002 | Aurora Innovation | Staff Software Engineer | Mountain View, CA | unscored
+- [ ] https://nuro.ai/careersitem?gh_jid=7998327 | Nuro | Staff/Senior Software Engineer, Onboard Infrastructure | Mountain View, CA | unscored
+
+#### Good Matches
+
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4007375006 | Figure AI | Helix AI Engineer, Perception | San Jose, CA | unscored
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5150887007?gh_jid=5150887007 | Anduril | Dev Infra Software Engineer, Air Defense | Irvine, CA | unscored
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/4747955007?gh_jid=4747955007 | Anduril | Software Engineer, Radar | Fort Collins, CO | unscored
+- [ ] https://www.zipline.com/careers?gh_jid=7772723003#open-roles | Zipline | Engineering Manager, Weather Risk Systems | South San Francisco, CA | unscored
+
+#### Needs Review
+
+- [ ] https://nuro.ai/careersitem?gh_jid=7736159 | Nuro | Senior Software Engineer, Collision Avoidance Testing | Mountain View, CA | unscored
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5160360007?gh_jid=5160360007 | Anduril | Full-Stack Software Engineer, Mission Autonomy | Costa Mesa, CA / Seattle, WA / DC | unscored
+- [ ] https://boards.greenhouse.io/vast/jobs/4686362006?gh_jid=4686362006 | Vast | Senior Flight Software Engineer | Long Beach, CA | unscored — *flight SW may be very hardware-adjacent*
+
 ---
 
 ### Scout Scan — 2026-06-13
