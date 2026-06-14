@@ -3,6 +3,16 @@
 
 ---
 
+### Scout Scan — 2026-06-14
+
+> 42 Greenhouse API boards + 10 WebSearch queries. Full dedup against 10,045-line scan-history. **1 new match**. Report: [scout-2026-06-14.md](../reports/scout-2026-06-14.md)
+
+#### New Matches
+
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4673772005 | Scale AI | Staff Systems Engineer, Public Sector Infrastructure | SF/DC | 3.8/5 — *systems-level infra role; DC component requires review for remote option*
+
+---
+
 ### Quick-Check — 2026-06-13 #3 (Greenhouse API only)
 
 > 42 Greenhouse API boards scanned. Full dedup against 10,043-line scan-history. **2 new matches**. Report: [scout-quickcheck-2026-06-13-3.md](../reports/scout-quickcheck-2026-06-13-3.md)
