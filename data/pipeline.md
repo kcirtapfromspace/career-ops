@@ -3,6 +3,121 @@
 
 ---
 
+### Quick-Check — 2026-06-14 (Greenhouse API only)
+
+> 42 Greenhouse API boards scanned. Dedup against 10,062-line scan-history. **106 new matches**.
+
+#### New Matches
+
+- [ ] https://boards.greenhouse.io/anthropic/jobs/4020614008 | Anthropic | Analytics Data Engineer | San Francisco, CA | New York City, NY | Seattle, WA | unscored
+- [ ] https://boards.greenhouse.io/anthropic/jobs/4334988008 | Anthropic | Analytics Data Engineering Manager, Product | San Francisco, CA | New York City, NY | Seattle, WA | unscored
+- [ ] https://boards.greenhouse.io/anthropic/jobs/4430601008 | Anthropic | Technical Program Manager, Analytics and Data Infrastructure | San Francisco, CA | New York City, NY | Seattle, WA | unscored
+- [ ] https://boards.greenhouse.io/airtable/jobs/7782044002 | Airtable | Software Engineer, Compute | San Francisco, CA; New York, NY; Remote - US | unscored
+- [ ] https://boards.greenhouse.io/airtable/jobs/7817264002 | Airtable | Software Engineer, Data | San Francisco, CA; Austin, TX; New York, NY | unscored
+- [ ] https://boards.greenhouse.io/airtable/jobs/7817258002 | Airtable | Software Engineer, Infrastructure (4-8 YOE) | San Francisco, CA; New York, NY; Seattle, WA | unscored
+- [ ] https://boards.greenhouse.io/airtable/jobs/7817262002 | Airtable | Software Engineer, Infrastructure (8+ YOE) | San Francisco, CA; New York, NY; Remote - US, Seattle, WA | unscored
+- [ ] https://boards.greenhouse.io/airtable/jobs/7817260002 | Airtable | Software Engineer, Product Backend (8+ YOE) | San Francisco, CA; New York, NY | unscored
+- [ ] https://boards.greenhouse.io/airtable/jobs/7853985002 | Airtable | Senior Manager, Data Engineering | San Francisco, CA; New York, NY; Austin, TX | unscored
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5373665004 | Vercel | Engineering Manager, CDN | San Francisco, CA (Hybrid) | unscored
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5390133004 | Vercel | Sr. Engineering Manager, Platform | San Francisco, CA (Hybrid); New York, NY (Hybrid) | unscored
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5319234004 | Vercel | Software Engineer, Backend | United States (Remote) | unscored
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5390124004 | Vercel | Software Engineer, CDN | San Francisco, CA (Hybrid); New York, NY (Hybrid) | unscored
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5390127004 | Vercel | Software Engineer, CDN Security | United States (Remote) | unscored
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5390130004 | Vercel | Software Engineer, Compute | United States (Remote) | unscored
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5373650004 | Vercel | Software Engineer, Agent | San Francisco, CA (Hybrid) | unscored
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5390134004 | Vercel | Software Engineer, AI Gateway | San Francisco, CA (Hybrid); New York, NY (Hybrid) | unscored
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5373663004 | Vercel | Software Engineer, AI SDK | San Francisco, CA (Hybrid); New York, NY (Hybrid) | unscored
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5373668004 | Vercel | Software Engineer, Deployment Infrastructure | San Francisco, CA (Hybrid); New York, NY (Hybrid) | unscored
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5373667004 | Vercel | Software Engineer, Dashboard | San Francisco, CA (Hybrid); New York, NY (Hybrid) | unscored
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5319225004 | Vercel | Software Engineer, Lua | United States (Remote) | unscored
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5373673004 | Vercel | Software Engineer, Workflows | San Francisco, CA (Hybrid); New York, NY (Hybrid) | unscored
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5390097004 | Vercel | Software Engineer, Next.js | San Francisco, CA (Hybrid) | unscored
+- [ ] https://job-boards.greenhouse.io/temporal/jobs/6744449002 | Temporal | Senior Software Engineer, AI Developer Experience | Remote, United States | unscored
+- [ ] https://job-boards.greenhouse.io/temporal/jobs/6702783002 | Temporal | Senior Software Engineer, Cloud Applications | Remote, United States | unscored
+- [ ] https://job-boards.greenhouse.io/temporal/jobs/6689200002 | Temporal | Senior Software Engineer, Cloud Data Storage | Remote, United States | unscored
+- [ ] https://job-boards.greenhouse.io/temporal/jobs/6702778002 | Temporal | Senior Software Engineer, Cloud Identity | Remote, United States | unscored
+- [ ] https://job-boards.greenhouse.io/temporal/jobs/6702781002 | Temporal | Senior Software Engineer, Compute | Remote, United States | unscored
+- [ ] https://job-boards.greenhouse.io/temporal/jobs/6702788002 | Temporal | Senior Software Engineer, Observability | Remote, United States | unscored
+- [ ] https://job-boards.greenhouse.io/temporal/jobs/6702790002 | Temporal | Senior Software Engineer, Open Source Server | Remote, United States | unscored
+- [ ] https://job-boards.greenhouse.io/temporal/jobs/6702786002 | Temporal | Senior Software Engineer, Infrastructure Foundations | Remote, United States | unscored
+- [ ] https://job-boards.greenhouse.io/temporal/jobs/6702784002 | Temporal | Senior Staff Software Engineer, Infrastructure | Remote, United States | unscored
+- [ ] https://job-boards.greenhouse.io/temporal/jobs/6744443002 | Temporal | Software Engineer, AI Foundations | Remote, United States | unscored
+- [ ] https://job-boards.greenhouse.io/temporal/jobs/6702776002 | Temporal | Staff Software Engineer, Cloud Applications | Remote, United States | unscored
+- [ ] https://job-boards.greenhouse.io/temporal/jobs/6702777002 | Temporal | Staff Software Engineer, Cloud Data Storage | Remote, United States | unscored
+- [ ] https://job-boards.greenhouse.io/temporal/jobs/6702774002 | Temporal | Staff Software Engineer, Cloud Identity | Remote, United States | unscored
+- [ ] https://job-boards.greenhouse.io/temporal/jobs/6702779002 | Temporal | Staff Software Engineer, Open Source Server | Remote, United States | unscored
+- [ ] https://job-boards.greenhouse.io/temporal/jobs/6702780002 | Temporal | Staff Software Engineer, Infrastructure Foundations | Remote, United States | unscored
+- [ ] https://job-boards.greenhouse.io/arizex/jobs/4757476007 | Arize AI | Engineering Manager, Product & Platform | Remote - US | unscored
+- [ ] https://job-boards.greenhouse.io/runpod/jobs/4603527007 | RunPod | Engineering Manager, Product & Platform Delivery | Remote USA | unscored
+- [ ] https://job-boards.greenhouse.io/runpod/jobs/4557093007 | RunPod | Site Reliability Engineer | Remote USA | unscored
+- [ ] https://job-boards.greenhouse.io/runpod/jobs/4494820007 | RunPod | Software Engineer, Full-Stack | Remote USA | unscored
+- [ ] https://job-boards.greenhouse.io/runpod/jobs/4543200007 | RunPod | Senior Software Engineer, Cloud | Remote USA | unscored
+- [ ] https://job-boards.greenhouse.io/glean/jobs/4765067006 | Glean | Cloud Infrastructure Engineer | Mountain View, CA | unscored
+- [ ] https://job-boards.greenhouse.io/glean/jobs/4765063006 | Glean | Lead Site Reliability Engineer | Mountain View, CA | unscored
+- [ ] https://job-boards.greenhouse.io/glean/jobs/4765061006 | Glean | Machine Learning Engineer, AI Infra | Mountain View, CA | unscored
+- [ ] https://job-boards.greenhouse.io/glean/jobs/4765058006 | Glean | Machine Learning Engineer, Enterprise AI | Mountain View, CA | unscored
+- [ ] https://job-boards.greenhouse.io/glean/jobs/4765054006 | Glean | Software Engineer, AI Infrastructure | Mountain View, CA; San Francisco, CA | unscored
+- [ ] https://job-boards.greenhouse.io/glean/jobs/4765050006 | Glean | Software Engineer, Backend | Mountain View, CA; San Francisco, CA | unscored
+- [ ] https://job-boards.greenhouse.io/glean/jobs/4765052006 | Glean | Software Engineer, Compute Infrastructure | Mountain View, CA | unscored
+- [ ] https://job-boards.greenhouse.io/glean/jobs/4765055006 | Glean | Software Engineer, Data Foundations | Mountain View, CA | unscored
+- [ ] https://job-boards.greenhouse.io/glean/jobs/4765056006 | Glean | Software Engineer, Developer Productivity | Mountain View, CA | unscored
+- [ ] https://job-boards.greenhouse.io/glean/jobs/4765059006 | Glean | Software Engineer, Agentic Runtime | Mountain View, CA; San Francisco, CA | unscored
+- [ ] https://job-boards.greenhouse.io/glean/jobs/4765053006 | Glean | Software Engineer, Storage | Mountain View, CA | unscored
+- [ ] https://www.samsara.com/company/jobs/apply?gh_jid=5987148 | Samsara | AI Engineer | Remote - US | unscored
+- [ ] https://www.samsara.com/company/jobs/apply?gh_jid=6028398 | Samsara | Data Engineer II | Remote - US | unscored
+- [ ] https://www.samsara.com/company/jobs/apply?gh_jid=5996720 | Samsara | Manager, Software Engineering - Mobile Platform | Remote - US | unscored
+- [ ] https://www.samsara.com/company/jobs/apply?gh_jid=6025890 | Samsara | Engineering Manager II | Remote - CA | unscored
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4534688006 | Chainguard | Principal Software Engineer, Containers | Remote - US | unscored
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4461024006 | Chainguard | Senior Software Engineer, Containers | Remote - US | unscored
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4580516006 | Chainguard | Senior Software Engineer, Customer Platform | Remote - US | unscored
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4580514006 | Chainguard | Senior Software Engineer, Experience | Remote - US | unscored
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4534685006 | Chainguard | Senior Software Engineer, Guarded OS | Remote - US | unscored
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4461028006 | Chainguard | Senior Software Engineer, Sustaining Automation | Remote - US | unscored
+- [ ] https://aurora.tech/jobs/7847060002?gh_jid=7847060002 | Aurora | Senior Software Engineering Manager, Core Cloud Services | Mountain View, CA | unscored
+- [ ] https://aurora.tech/jobs/7733576002?gh_jid=7733576002 | Aurora | Software Engineer, Autonomy Controls | Mountain View, CA; Pittsburgh, PA; San Francisco, CA | unscored
+- [ ] https://aurora.tech/jobs/7734085002?gh_jid=7734085002 | Aurora | Software Engineer, Behavior Planning | Mountain View, CA; Pittsburgh, PA; San Francisco, CA | unscored
+- [ ] https://aurora.tech/jobs/7734097002?gh_jid=7734097002 | Aurora | Software Engineer, Mapping | Mountain View, CA; Pittsburgh, PA; Seattle, WA | unscored
+- [ ] https://aurora.tech/jobs/7734099002?gh_jid=7734099002 | Aurora | Software Engineer, Maps Infrastructure | Mountain View, CA; Pittsburgh, PA; Seattle, WA | unscored
+- [ ] https://www.nuro.ai/careersitem?gh_jid=6528226 | Nuro | Full Stack Software Engineer, Fleet Platform | Mountain View, CA (HQ) | unscored
+- [ ] https://www.nuro.ai/careersitem?gh_jid=6272754 | Nuro | Senior Software Engineer, ML Infrastructure | Mountain View, CA (HQ) | unscored
+- [ ] https://www.nuro.ai/careersitem?gh_jid=6272755 | Nuro | Senior Software Engineer, Data Platform | Mountain View, CA (HQ) | unscored
+- [ ] https://www.nuro.ai/careersitem?gh_jid=6468680 | Nuro | Senior Software Engineer, Map Platform | Mountain View, CA (HQ) | unscored
+- [ ] https://job-boards.greenhouse.io/zipline/jobs/5236513004 | Zipline | Software Engineer, Autonomy Platform | South San Francisco, CA | unscored
+- [ ] https://job-boards.greenhouse.io/zipline/jobs/5350954004 | Zipline | Engineering Manager, Weather Risk Systems | South San Francisco, CA | unscored
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4534534005 | Scale AI | Engineering Manager, AgentOps | San Francisco, CA; New York, NY | unscored
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4514428005 | Scale AI | Machine Learning Engineer | San Francisco, CA; New York, NY; Seattle, WA | unscored
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4481432005 | Scale AI | Senior Software Engineer, Data Platform | San Francisco, CA; New York, NY | unscored
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4481430005 | Scale AI | Staff Software Engineer, Data Platform | San Francisco, CA; New York, NY | unscored
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4529786005 | Scale AI | Infrastructure Software Engineer | San Francisco, CA; New York, NY | unscored
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4519430005 | Scale AI | AI Infrastructure Engineer, Training Platform | San Francisco, CA; Seattle, WA; New York, NY | unscored
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4457618005 | Scale AI | Senior AI Infrastructure Engineer, Model Serving | San Francisco, CA; New York, NY | unscored
+- [ ] https://job-boards.greenhouse.io/databricks/jobs/7624467002 | Databricks | Engineering Manager, Compute Infrastructure | Mountain View, CA; San Francisco, CA | unscored
+- [ ] https://job-boards.greenhouse.io/databricks/jobs/7624475002 | Databricks | Engineering Manager, Databricks SQL | Mountain View, CA | unscored
+- [ ] https://job-boards.greenhouse.io/databricks/jobs/7624478002 | Databricks | Engineering Manager, Notebook Dataplane | San Francisco, CA | unscored
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5456665004 | ClickHouse | Engineering Manager, Language Clients | Remote - US | unscored
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5456659004 | ClickHouse | Senior Backend Engineer, ClickStack | Remote - US | unscored
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5456662004 | ClickHouse | Senior Infrastructure Engineer, Postgres | Remote - US | unscored
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5443337004 | ClickHouse | Senior Site Reliability Engineer | Remote - US; Remote - Canada | unscored
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5456663004 | ClickHouse | Senior Software Engineer, Cloud Infrastructure | Remote - US | unscored
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5456661004 | ClickHouse | Senior Software Engineer, Backend AI/ML | Remote - US | unscored
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5419890004 | ClickHouse | Senior Data Engineer, dbt CI/CD (AMER) | Remote - US | unscored
+- [ ] https://job-boards.greenhouse.io/fivetran/jobs/6313023003 | Fivetran | Principal Software Engineer | Oakland, CA | unscored
+- [ ] https://job-boards.greenhouse.io/fivetran/jobs/6220048003 | Fivetran | Senior Site Reliability Engineer | Oakland, CA; Denver, CO | unscored
+- [ ] https://job-boards.greenhouse.io/fivetran/jobs/6231073003 | Fivetran | Staff Site Reliability Engineer | Oakland, CA | unscored
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4722601006 | Figure AI | Helix AI Engineer, Data Infrastructure | San Jose, CA | unscored
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4741050006 | Figure AI | Helix AI Engineer, Training Infrastructure | San Jose, CA | unscored
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4764869006 | Figure AI | Staff Site Reliability Engineer | San Jose, CA | unscored
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4762093006 | Figure AI | Full-Stack Engineer, Data & Systems Integration | San Jose, CA | unscored
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/5534494004 | Planet Labs | AI Engineer, Marketing | San Francisco, CA; Arlington, VA | unscored
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/5534496004 | Planet Labs | Senior Software Engineering Manager | Remote - US | unscored
+- [ ] https://job-boards.greenhouse.io/wandb/jobs/5741148003 | Weights & Biases | ML Engineer, Customer Engineering | Remote | unscored
+- [ ] https://job-boards.greenhouse.io/wandb/jobs/5741145003 | Weights & Biases | Senior Software Engineer, Platform | Remote | unscored
+- [ ] https://job-boards.greenhouse.io/wandb/jobs/5741150003 | Weights & Biases | Engineering Manager, Developer Experience | Remote | unscored
+- [ ] https://job-boards.greenhouse.io/cohere/jobs/5985744002 | Cohere | Software Engineer, ML Infrastructure | Remote (US, Canada, UK) | unscored
+- [ ] https://job-boards.greenhouse.io/cohere/jobs/5985750002 | Cohere | Engineering Manager, ML Platform | Remote (US, Canada, UK) | unscored
+
+---
+
 ### Scout Scan — 2026-06-14
 
 > 42 Greenhouse API boards + 10 WebSearch queries (Ashby, Lever, Confluent, Prefect, MotherDuck, Dagster, Weaviate). Full dedup against 10,045-line scan-history. **8 new matches**. Report: [scout-2026-06-14.md](../reports/scout-2026-06-14.md)
