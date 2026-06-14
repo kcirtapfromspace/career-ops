@@ -5,10 +5,20 @@
 
 ### Scout Scan — 2026-06-14
 
-> 42 Greenhouse API boards + 10 WebSearch queries. Full dedup against 10,045-line scan-history. **1 new match**. Report: [scout-2026-06-14.md](../reports/scout-2026-06-14.md)
+> 42 Greenhouse API boards + 10 WebSearch queries (Ashby, Lever, Confluent, Prefect, MotherDuck, Dagster, Weaviate). Full dedup against 10,045-line scan-history. **8 new matches**. Report: [scout-2026-06-14.md](../reports/scout-2026-06-14.md)
 
-#### New Matches
+#### Strong Picks
 
+- [ ] https://stripe.com/jobs/search?gh_jid=7688358 | Stripe | Engineering Manager, Data Transformation | SF/NYC/Seattle/Toronto hybrid + US remote | 4.5/5 — *Spark, Airflow, Iceberg, Kafka, Hive; $203K–$305K; perfect data stack match*
+- [ ] https://stripe.com/jobs/search?gh_jid=7762534 | Stripe | Engineering Manager, HADR | Seattle/US remote | 4.3/5 — *Kafka, Pinot, Trino, streaming infra; $214K–$321K; high-availability systems leadership*
+- [ ] https://stripe.com/jobs/search?gh_jid=7736943 | Stripe | Engineering Manager, Developer Productivity AI | Seattle/US remote | 4.2/5 — *LLM agents + developer tooling; $214K–$321K; new AI-native team*
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/7947591 | Reddit | Director of Engineering, Developer Productivity | Remote US | 4.2/5 — *AI/LLM dev tools, CI/CD, agent infra; $260K–$365K; Director level above EM target but strong scope*
+
+#### Good Matches
+
+- [ ] https://jobs.ashbyhq.com/supabase/847a7bd7-6b75-444a-aeda-d0b28a11c764 | Supabase | Platform Engineer, Multicloud | Remote (global) | 3.8/5 — *Postgres infra domain; multicloud; Senior not Staff but Supabase is high-signal company*
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/7792848 | Reddit | ML Engineering Manager, Ads Conversion | Remote US | 3.6/5 — *ML/ranking/TensorFlow; $230K–$322K; ads domain less aligned but solid EM+ML role*
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/7846885 | Reddit | ML Manager, Notifications Relevance | Remote US | 3.5/5 — *Ray, PyTorch Distributed, recommender systems; $230K–$322K; strong infra ML angle*
 - [ ] https://job-boards.greenhouse.io/scaleai/jobs/4673772005 | Scale AI | Staff Systems Engineer, Public Sector Infrastructure | SF/DC | 3.8/5 — *systems-level infra role; DC component requires review for remote option*
 
 ---
