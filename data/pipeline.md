@@ -3,6 +3,17 @@
 
 ---
 
+### Scout — 2026-06-15 (42 Greenhouse API boards + 6 WebSearch queries)
+
+> 42 Greenhouse API boards + Ashby/Lever/Workatastartup searches. Dedup against 10,183-line scan-history. **2 new matches**. Report: [scout-2026-06-15.md](../reports/scout-2026-06-15.md)
+
+#### New Matches
+
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4688557006 | Chainguard | Senior Software Engineer (Sustaining Automation) | US/Canada/Europe Remote | unscored
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4687742006 | Chainguard | Senior Security Engineer (AI Platform) | United States - Remote | unscored
+
+---
+
 ### Quick-Check — 2026-06-14 (Greenhouse API only)
 
 > 42 Greenhouse API boards scanned. Dedup against 10,062-line scan-history. **106 new matches**.
