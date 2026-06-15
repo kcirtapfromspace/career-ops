@@ -3827,3 +3827,14 @@
 - [ ] https://job-boards.greenhouse.io/chainguard/jobs/4686172006 | Chainguard | Senior Software Engineer (Experience) | United States (Remote) | comp unlisted | — Frontend/product experience engineering; US Remote; supply-chain security domain
 - [ ] https://aurora.tech/jobs/8588486002?gh_jid=8588486002 | Aurora Innovation | Software Engineer, Maps Infra | San Francisco | comp unlisted | — Maps data infrastructure for autonomous trucking; SF; strong infra domain
 - [ ] https://nuro.ai/careersitem?gh_jid=7998328 | Nuro | Software Engineer, Onboard Infrastructure | Mountain View | comp unlisted | — Onboard software infra for delivery robots; Mountain View (SF Bay Area)
+
+---
+
+### Scout Quick-Check — 2026-06-15 (Greenhouse API only)
+
+> 42 Greenhouse API boards scanned. 7,441 jobs reviewed. Full dedup against 9,423-entry scan-history. **2 new matches**. Report: [scout-quickcheck-2026-06-15.md](../reports/scout-quickcheck-2026-06-15.md)
+
+#### New Matches
+
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5155567007?gh_jid=5155567007 | Anduril | Software Engineer, Second Shift | Costa Mesa, CA | comp unlisted | — Dream company; defense tech; "Second Shift" may indicate shift-schedule role; verify JD before applying
+- [ ] https://www.zipline.com/careers?gh_jid=7773623003#open-roles | Zipline | Staff Full Stack Software Engineer - Health Care Platform | Remote in USA | comp unlisted | — Drone delivery hardware moat; Staff level; healthcare delivery platform vertical; US Remote
