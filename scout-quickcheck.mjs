@@ -5,7 +5,8 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const TODAY = '2026-04-25';
+const TODAY = '2026-06-15';
+const RUN_ID = `quickcheck-${TODAY}`;
 
 // Title filters (from portals.yml + task spec)
 const POSITIVE = [
@@ -24,29 +25,26 @@ const NEGATIVE = [
 ];
 
 // Location acceptance logic
+// US Remote, Denver, SF, Los Gatos, Seattle, Bend = ACCEPT
+// NYC/Chicago = remote only
+// International / non-US only = REJECT
 function acceptLocation(locStr) {
   if (!locStr) return { accept: true, reason: 'no-location' }; // no location = assume remote
   const l = locStr.toLowerCase();
-  // Always accept remote/distributed
+  // Always accept if explicitly remote
   if (l.includes('remote') || l.includes('distributed') || l.includes('anywhere')) {
-    // NYC-only remote = ok
     return { accept: true, reason: 'remote' };
   }
-  // Accept Denver, Colorado, SF, Bay Area, Los Gatos, Seattle, Bend, Los Angeles, San Diego, Pittsburgh, Austin
-  const acceptCities = ['denver', 'colorado', 'san francisco', 'los gatos', 'seattle', 'bend', 'los angeles', 'san diego', 'pittsburgh', 'austin', 'mountain view', 'palo alto', 'sunnyvale', 'bay area', 'santa clara', 'fremont', 'san jose', 'menlo park', 'redwood', 'united states', 'usa', 'us'];
+  // Accept US cities we want
+  const acceptCities = ['denver', 'colorado', 'san francisco', ' sf,', 'los gatos', 'seattle', 'bend', 'los angeles', 'san diego', 'pittsburgh', 'austin', 'mountain view', 'palo alto', 'sunnyvale', 'bay area', 'santa clara', 'fremont', 'san jose', 'menlo park', 'redwood', 'long beach', 'south san francisco', 'santa cruz', 'hawthorne', 'irvine', 'united states', 'usa', ', co', ', ca', ', wa', ', or', ', tx', ', ny'];
   for (const city of acceptCities) {
     if (l.includes(city)) return { accept: true, reason: 'us-location' };
   }
-  // NYC/Chicago = ok (remote-friendly companies)
+  // NYC/Chicago = reject unless remote (already handled above)
   if (l.includes('new york') || l.includes('nyc') || l.includes('chicago')) {
-    return { accept: true, reason: 'nyc-chicago' };
+    return { accept: false, reason: 'location-skip' };
   }
-  // European/UK locations - accept for EU-friendly companies
-  const euLocs = ['london', 'berlin', 'munich', 'paris', 'zurich', 'amsterdam', 'stockholm', 'barcelona', 'lisbon', 'cambridge', 'uk', 'germany', 'france', 'switzerland', 'europe', 'emea'];
-  for (const eu of euLocs) {
-    if (l.includes(eu)) return { accept: true, reason: 'eu-location' };
-  }
-  // Reject other specific locations
+  // International-only = reject
   return { accept: false, reason: 'location-skip' };
 }
 
@@ -67,7 +65,7 @@ const COMPANIES = [
   { name: 'Hume AI', api: 'https://boards-api.greenhouse.io/v1/boards/humeai/jobs', board: 'humeai' },
   { name: 'Airtable', api: 'https://boards-api.greenhouse.io/v1/boards/airtable/jobs', board: 'airtable' },
   { name: 'Vercel', api: 'https://boards-api.greenhouse.io/v1/boards/vercel/jobs', board: 'vercel' },
-  { name: 'Temporal', api: 'https://boards-api.greenhouse.io/v1/boards/temporal/jobs', board: 'temporal' },
+  { name: 'Temporal', api: 'https://boards-api.greenhouse.io/v1/boards/temporaltechnologies/jobs', board: 'temporaltechnologies' },
   { name: 'Arize AI', api: 'https://boards-api.greenhouse.io/v1/boards/arizeai/jobs', board: 'arizeai' },
   { name: 'RunPod', api: 'https://boards-api.greenhouse.io/v1/boards/runpod/jobs', board: 'runpod' },
   { name: 'Glean', api: 'https://boards-api.greenhouse.io/v1/boards/gleanwork/jobs', board: 'gleanwork' },
@@ -103,7 +101,7 @@ const COMPANIES = [
   { name: 'Vast', api: 'https://boards-api.greenhouse.io/v1/boards/vast/jobs', board: 'vast' },
   { name: 'Aurora Innovation', api: 'https://boards-api.greenhouse.io/v1/boards/aurorainnovation/jobs', board: 'aurorainnovation' },
   { name: 'Nuro', api: 'https://boards-api.greenhouse.io/v1/boards/nuro/jobs', board: 'nuro' },
-  { name: 'Zipline', api: 'https://boards-api.greenhouse.io/v1/boards/ziplineofficial/jobs', board: 'ziplineofficial' },
+  { name: 'Zipline', api: 'https://boards-api.greenhouse.io/v1/boards/flyzipline/jobs', board: 'flyzipline' },
   { name: 'Figure AI', api: 'https://boards-api.greenhouse.io/v1/boards/figureai/jobs', board: 'figureai' },
   { name: 'Planet Labs', api: 'https://boards-api.greenhouse.io/v1/boards/planetlabs/jobs', board: 'planetlabs' },
   { name: 'Scale AI', api: 'https://boards-api.greenhouse.io/v1/boards/scaleai/jobs', board: 'scaleai' },
@@ -126,24 +124,32 @@ async function fetchCompany(company) {
   }
 }
 
-// Load scan history URLs
+// Load scan history URLs and job IDs
 function loadSeenUrls() {
   const histPath = path.join(__dirname, 'data/scan-history.tsv');
   const lines = fs.readFileSync(histPath, 'utf8').split('\n');
-  const seen = new Set();
+  const seenUrls = new Set();
+  const seenIds = new Set();
   for (const line of lines) {
     const url = line.split('\t')[0];
-    if (url && url.startsWith('http')) seen.add(url.trim());
+    if (url && url.startsWith('http')) {
+      seenUrls.add(url.trim());
+      // Extract numeric job ID from URL
+      const m = url.match(/\/(\d{6,})/);
+      if (m) seenIds.add(m[1]);
+      const m2 = url.match(/gh_jid=(\d+)/);
+      if (m2) seenIds.add(m2[1]);
+    }
   }
-  return seen;
+  return { seenUrls, seenIds };
 }
 
 async function main() {
-  console.log(`Scout quick-check — ${TODAY}`);
+  console.log(`Scout quick-check — ${TODAY} (run: ${RUN_ID})`);
   console.log(`Checking ${COMPANIES.length} Greenhouse APIs...`);
 
-  const seen = loadSeenUrls();
-  console.log(`Loaded ${seen.size} seen URLs from scan history`);
+  const { seenUrls: seen, seenIds } = loadSeenUrls();
+  console.log(`Loaded ${seen.size} seen URLs, ${seenIds.size} seen job IDs from scan history`);
 
   // Fetch in parallel batches of 10
   const results = [];
@@ -175,20 +181,22 @@ async function main() {
       // Normalize URL for dedup
       const normalizedUrl = url.trim();
 
-      // Check dedup
-      if (seen.has(normalizedUrl)) {
-        tsvLines.push(`${normalizedUrl}\t${TODAY}\tgreenhouse-api\t${job.title}\t${result.company}\tskipped_dup`);
-        continue;
+      // Check dedup by URL or job ID
+      const jobId = String(job.id);
+      if (seen.has(normalizedUrl) || seenIds.has(jobId)) {
+        continue; // already seen — skip silently
       }
 
       // Title filter
       const { hasPositive, hasNegative } = matchesTitle(job.title);
       if (!hasPositive) {
-        tsvLines.push(`${normalizedUrl}\t${TODAY}\tgreenhouse-api\t${job.title}\t${result.company}\tskipped_title`);
+        tsvLines.push(`${normalizedUrl}\t${TODAY}\t${RUN_ID}\t${job.title}\t${result.company}\tskipped_title`);
+        seenIds.add(jobId);
         continue;
       }
       if (hasNegative) {
-        tsvLines.push(`${normalizedUrl}\t${TODAY}\tgreenhouse-api\t${job.title}\t${result.company}\tskipped_negative`);
+        tsvLines.push(`${normalizedUrl}\t${TODAY}\t${RUN_ID}\t${job.title}\t${result.company}\tskipped_negative`);
+        seenIds.add(jobId);
         continue;
       }
 
@@ -196,7 +204,8 @@ async function main() {
       const locationStr = job.location?.name || '';
       const { accept, reason } = acceptLocation(locationStr);
       if (!accept) {
-        tsvLines.push(`${normalizedUrl}\t${TODAY}\tgreenhouse-api\t${job.title}\t${result.company}\t${reason}`);
+        tsvLines.push(`${normalizedUrl}\t${TODAY}\t${RUN_ID}\t${job.title}\t${result.company}\tskipped_location`);
+        seenIds.add(jobId);
         continue;
       }
 
@@ -207,8 +216,9 @@ async function main() {
         company: result.company,
         location: locationStr,
       });
-      tsvLines.push(`${normalizedUrl}\t${TODAY}\tgreenhouse-api\t${job.title}\t${result.company}\tmatched`);
+      tsvLines.push(`${normalizedUrl}\t${TODAY}\t${RUN_ID}\t${job.title}\t${result.company}\tnew`);
       seen.add(normalizedUrl);
+      seenIds.add(jobId);
     }
   }
 
@@ -220,21 +230,35 @@ async function main() {
     console.log(`Appended ${tsvLines.length} lines to scan-history.tsv`);
   }
 
-  // Output matches as JSON for the main script to use
+  // Append new matches to pipeline.md
+  if (newMatches.length > 0) {
+    const pipelinePath = path.join(__dirname, 'data/pipeline.md');
+    const pipelineLines = newMatches.map(m =>
+      `- [ ] [${m.company} — ${m.title}](${m.url}) <!-- ${m.location || 'remote'} | scout ${TODAY} -->`
+    );
+    fs.appendFileSync(pipelinePath, '\n' + pipelineLines.join('\n') + '\n');
+    console.log(`Appended ${newMatches.length} matches to pipeline.md`);
+  }
+
+  // Save JSON results for report generation
   const output = {
     date: TODAY,
+    runId: RUN_ID,
     totalJobs,
-    newMatches,
-    errors,
     companiesChecked: COMPANIES.length,
+    newMatchCount: newMatches.length,
+    newMatches,
+    apiErrors: errors,
   };
-
   fs.writeFileSync(path.join(__dirname, 'data/scout-quickcheck-results.json'), JSON.stringify(output, null, 2));
+
   console.log('\nNew matches:');
   for (const m of newMatches) {
-    console.log(`  [${m.company}] ${m.title} — ${m.location}`);
+    console.log(`  [${m.company}] ${m.title} — ${m.location || 'remote'}`);
     console.log(`    ${m.url}`);
   }
+
+  return output;
 }
 
-main().catch(console.error);
+main().catch(e => { console.error(e); process.exit(1); });

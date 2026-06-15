@@ -3832,9 +3832,13 @@
 
 ### Scout Quick-Check — 2026-06-15 (Greenhouse API only)
 
-> 42 Greenhouse API boards scanned. 7,441 jobs reviewed. Full dedup against 9,423-entry scan-history. **2 new matches**. Report: [scout-quickcheck-2026-06-15.md](../reports/scout-quickcheck-2026-06-15.md)
+> 42 Greenhouse API boards scanned. 7,441 jobs reviewed. Full dedup against 9,423-entry scan-history. **6 new matches** (2 from earlier run + 4 from quickcheck-2). Report: [scout-quickcheck-2026-06-15.md](../reports/scout-quickcheck-2026-06-15.md)
 
 #### New Matches
 
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5155567007?gh_jid=5155567007 | Anduril | Software Engineer, Second Shift | Costa Mesa, CA | comp unlisted | — Dream company; defense tech; "Second Shift" may indicate shift-schedule role; verify JD before applying
 - [ ] https://www.zipline.com/careers?gh_jid=7773623003#open-roles | Zipline | Staff Full Stack Software Engineer - Health Care Platform | Remote in USA | comp unlisted | — Drone delivery hardware moat; Staff level; healthcare delivery platform vertical; US Remote
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5165323007?gh_jid=5165323007 | Anduril | Senior Software Engineer - Connected Factory | Costa Mesa, CA | comp unlisted | — Dream company; defense tech; connected factory platform likely interfaces with Anduril hardware manufacturing
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5165250007?gh_jid=5165250007 | Anduril | Software Engineer, Perception | Costa Mesa, CA | comp unlisted | — Dream company; defense tech; computer vision / sensor perception for autonomous systems
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/6030953004 | Arize AI | Forward Deployed AI Engineer, West | Remote (San Francisco) | comp unlisted | — FDE role at AI observability/LLMOps company; West coast remote; strong fit for Patrick's deployed-eng background
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7774006003 | Rocket Lab | Senior Ground Software Engineer I - Secret | Long Beach, CA | comp unlisted | — Rocket Lab has Denver office; Secret clearance required; ground software for launch vehicles; verify clearance eligibility
