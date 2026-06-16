@@ -3842,3 +3842,20 @@
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5165250007?gh_jid=5165250007 | Anduril | Software Engineer, Perception | Costa Mesa, CA | comp unlisted | — Dream company; defense tech; computer vision / sensor perception for autonomous systems
 - [ ] https://job-boards.greenhouse.io/arizeai/jobs/6030953004 | Arize AI | Forward Deployed AI Engineer, West | Remote (San Francisco) | comp unlisted | — FDE role at AI observability/LLMOps company; West coast remote; strong fit for Patrick's deployed-eng background
 - [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7774006003 | Rocket Lab | Senior Ground Software Engineer I - Secret | Long Beach, CA | comp unlisted | — Rocket Lab has Denver office; Secret clearance required; ground software for launch vehicles; verify clearance eligibility
+
+
+---
+
+### Scout Scan — 2026-06-16 (Greenhouse API + Ashby WebSearch)
+
+> 42 Greenhouse API boards scanned. 5 WebSearch queries. Dedup against 11,846-line scan-history. **6 new matches** (~3,000+ jobs reviewed across all sources). Report: [scout-2026-06-16.md](../reports/scout-2026-06-16.md)
+
+#### Top Picks (4.0+)
+
+- [ ] https://jobs.ashbyhq.com/baseten/0870ed34-7365-4b9f-a50a-481783b8c266 | Baseten | Engineering Manager, Cloud Platform | Remote US (preferred SF) | comp unlisted | ★ 4.2/5 — ML inference infrastructure at scale; Baseten serves model serving/deployment for AI companies; K8s/infra-as-code domain; EM role with strong platform relevance; growing ML infra company
+
+#### Good Matches (3.5–3.9)
+
+- [ ] https://jobs.ashbyhq.com/lime/0d9c02e3-de71-49b0-9cff-dd47e96d8a50 | Lime | Engineering Manager, Platform | Remote US | comp unlisted | ★ 3.8/5 — Platform Engineering + developer experience + ML platform at scale; Lime operates in 250+ cities; gig-economy real-time infrastructure; solid EM scope
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4687328006 | Chainguard | AI Solutions Engineer | United States Remote | comp unlisted | ★ 3.6/5 — AI solutions at supply-chain security company; US Remote; forward-deployed AI engineering; strong security + containers domain relevant to Patrick's infra background
+
