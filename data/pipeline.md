@@ -3859,3 +3859,30 @@
 - [ ] https://jobs.ashbyhq.com/lime/0d9c02e3-de71-49b0-9cff-dd47e96d8a50 | Lime | Engineering Manager, Platform | Remote US | comp unlisted | ★ 3.8/5 — Platform Engineering + developer experience + ML platform at scale; Lime operates in 250+ cities; gig-economy real-time infrastructure; solid EM scope
 - [ ] https://job-boards.greenhouse.io/chainguard/jobs/4687328006 | Chainguard | AI Solutions Engineer | United States Remote | comp unlisted | ★ 3.6/5 — AI solutions at supply-chain security company; US Remote; forward-deployed AI engineering; strong security + containers domain relevant to Patrick's infra background
 
+
+---
+
+### Scout Quick-Check — 2026-06-16 (Greenhouse API only)
+
+> 41 Greenhouse API boards scanned (10 boards 404/timeout — all documented in portals.yml). 5,347 jobs reviewed. Full dedup against 11,895-entry scan-history. **12 new matches** (4 US-remote priority, 1 EU-remote flagged, 1 frontend-flagged, 6 Canada/UK remote). Report: [scout-quickcheck-2026-06-16.md](../reports/scout-quickcheck-2026-06-16.md)
+
+#### US Remote — Priority
+
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4689447006 | Chainguard | Staff Software Engineer | United States - Remote | comp unlisted | — Supply-chain security; K8s/containers/Argo domain; Staff level; US Remote; Chainguard hiring surge today
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4689477006 | Chainguard | Principal Software Engineer | United States - Remote | comp unlisted | — Supply-chain security; Principal level; US Remote
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4689483006 | Chainguard | Senior Software Engineer | United States - Remote | comp unlisted | — Supply-chain security; Senior level; US Remote
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4689485006 | Chainguard | Software Engineer | United States - Remote | comp unlisted | — Supply-chain security; US Remote (may be below target level)
+
+#### Flagged — Verify Before Evaluating
+
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7771684003 | Fivetran | Principal Software Engineer - Data Lakes | Remote, Germany, EMEA | comp unlisted | — Data Lakes = excellent domain match (Patrick's core); EMEA remote only — verify if US candidates accepted
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8397228002 | Airtable | Software Engineer, Product Frontend (8+ YOE) | San Francisco, CA; New York, NY | comp unlisted | — Frontend-focused role; SF location is good; likely less relevant for data/platform focus
+
+#### International (Canada / UK Remote — low priority)
+
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4689703006 | Chainguard | Staff Software Engineer | Canada - Remote | comp unlisted
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4689704006 | Chainguard | Staff Software Engineer | United Kingdom - Remote | comp unlisted
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4689701006 | Chainguard | Senior Software Engineer | Canada - Remote | comp unlisted
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4689702006 | Chainguard | Senior Software Engineer | United Kingdom - Remote | comp unlisted
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4689875006 | Chainguard | Software Engineer | Canada - Remote | comp unlisted
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4689874006 | Chainguard | Software Engineer | United Kingdom - Remote | comp unlisted
