@@ -3,6 +3,14 @@
 
 ---
 
+### Quick-Check — 2026-06-17 (Greenhouse API only)
+
+> 42 Greenhouse API boards scanned. Dedup against 12,012-line scan-history. **0 new matches** — full scout scan already ran today. All boards current. Report: [scout-quickcheck-2026-06-17.md](../reports/scout-quickcheck-2026-06-17.md)
+
+> Note: Dagster board empty (0 open roles). Aurora Innovation on-site only. Fivetran Toronto filtered (Canada). EU boards (N26, Trade Republic, SumUp, PhysicsX, Parloa, HelloFresh) EMEA-only.
+
+---
+
 ### Scout — 2026-06-17 (43 Greenhouse + 5 Lever APIs + 5 WebSearch)
 
 > Full scan: 43 Greenhouse API boards, 5 Lever APIs (Shield AI, Anyscale, W&B, Spotify, Mistral), 5 WebSearch queries. Dedup against 11,957-line scan-history. **0 new matches** — all qualifying roles already tracked from 2026-06-14 through 2026-06-16 scans. Report: [scout-2026-06-17.md](../reports/scout-2026-06-17.md)
