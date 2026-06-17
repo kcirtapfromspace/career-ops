@@ -3,6 +3,14 @@
 
 ---
 
+### Scout — 2026-06-17 (43 Greenhouse + 5 Lever APIs + 5 WebSearch)
+
+> Full scan: 43 Greenhouse API boards, 5 Lever APIs (Shield AI, Anyscale, W&B, Spotify, Mistral), 5 WebSearch queries. Dedup against 11,957-line scan-history. **0 new matches** — all qualifying roles already tracked from 2026-06-14 through 2026-06-16 scans. Report: [scout-2026-06-17.md](../reports/scout-2026-06-17.md)
+
+> Note: W&B Lever API returned 404 — check Greenhouse board instead. Anyscale only hiring Bay Area on-site. PhysicsX/N26/Trade Republic/SumUp/PolyAI/Parloa/HelloFresh are all EU or non-remote US only.
+
+---
+
 ### Scout — 2026-06-15 (42 Greenhouse API boards + 6 WebSearch queries)
 
 > 42 Greenhouse API boards + Ashby/Lever/Workatastartup searches. Dedup against 10,183-line scan-history. **2 new matches**. Report: [scout-2026-06-15.md](../reports/scout-2026-06-15.md)
