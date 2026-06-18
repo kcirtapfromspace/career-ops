@@ -3914,3 +3914,23 @@
 - [ ] https://job-boards.greenhouse.io/chainguard/jobs/4689702006 | Chainguard | Senior Software Engineer | United Kingdom - Remote | comp unlisted
 - [ ] https://job-boards.greenhouse.io/chainguard/jobs/4689875006 | Chainguard | Software Engineer | Canada - Remote | comp unlisted
 - [ ] https://job-boards.greenhouse.io/chainguard/jobs/4689874006 | Chainguard | Software Engineer | United Kingdom - Remote | comp unlisted
+
+
+---
+
+### Scout Quick-Check — 2026-06-18 (Greenhouse API only)
+
+> 42 Greenhouse API boards scanned. Full dedup against 12,095-entry scan-history. **4 new matches** (2 Bay Area ML-Infra, 1 SF identity, 1 US Remote). Report: [scout-quickcheck-2026-06-18.md](../reports/scout-quickcheck-2026-06-18.md)
+
+#### Bay Area — ML Infrastructure
+
+- [ ] https://nuro.ai/careersitem?gh_jid=8011527 | Nuro | Senior Software Engineer, ML Infrastructure | Mountain View, CA | comp unlisted | — ML infra; Nuro autonomous delivery; Bay Area (Mountain View)
+- [ ] https://nuro.ai/careersitem?gh_jid=8011514 | Nuro | Senior/Staff Software Engineer, ML Infrastructure, Optimization | Mountain View, CA | comp unlisted | — ML infra + optimization focus; Staff-eligible; Mountain View
+
+#### San Francisco
+
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4706566005 | Scale AI | Software Engineer, Identity | San Francisco, CA | comp unlisted | — Identity platform at $7.3B AI data company; SF office
+
+#### US Remote — Priority
+
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/8002692 | Planet Labs | Software Engineer, Compute Team | United States, Remote | comp unlisted | — Compute infrastructure for satellite imagery platform; fully remote
