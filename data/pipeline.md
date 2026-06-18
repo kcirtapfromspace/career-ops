@@ -3,6 +3,18 @@
 
 ---
 
+### Scout — 2026-06-18 (Greenhouse APIs + WebSearch)
+
+> 40 Greenhouse API boards scanned + 5 WebSearch queries. Dedup against 12,012-line scan-history. **3 new matches**. Report: [scout-2026-06-18.md](../reports/scout-2026-06-18.md)
+
+#### New Matches
+
+- [ ] https://jobs.ashbyhq.com/character/16dafd1c-4705-405e-ae00-7a10fb7301a0 | Character.AI | Staff Software Engineer, Data | Remote US | unscored
+- [ ] https://jobs.lever.co/airalo/0b5a11cf-debd-499f-a99c-41b2b6cbd92d | Airalo | Data Engineering Manager | Remote | unscored
+- [ ] https://jobs.lever.co/plume/2975acf4-0d01-45eb-8e67-b5f3445488a6 | Plume | Senior Data Engineer (Data + Applied AI) | Remote US | unscored
+
+---
+
 ### Quick-Check — 2026-06-17 (Greenhouse API only)
 
 > 42 Greenhouse API boards scanned. Dedup against 12,012-line scan-history. **0 new matches** — full scout scan already ran today. All boards current. Report: [scout-quickcheck-2026-06-17.md](../reports/scout-quickcheck-2026-06-17.md)
