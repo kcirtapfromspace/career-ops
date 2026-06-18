@@ -3920,7 +3920,7 @@
 
 ### Scout Quick-Check — 2026-06-18 (Greenhouse API only)
 
-> 42 Greenhouse API boards scanned. Full dedup against 12,095-entry scan-history. **4 new matches** (2 Bay Area ML-Infra, 1 SF identity, 1 US Remote). Report: [scout-quickcheck-2026-06-18.md](../reports/scout-quickcheck-2026-06-18.md)
+> 42 Greenhouse API boards scanned. Full dedup against 12,095-entry scan-history. **5 new matches** (2 Bay Area ML-Infra, 1 SF identity, 2 US Remote). Report: [scout-quickcheck-2026-06-18.md](../reports/scout-quickcheck-2026-06-18.md)
 
 #### Bay Area — ML Infrastructure
 
@@ -3934,3 +3934,4 @@
 #### US Remote — Priority
 
 - [ ] https://job-boards.greenhouse.io/planetlabs/jobs/8002692 | Planet Labs | Software Engineer, Compute Team | United States, Remote | comp unlisted | — Compute infrastructure for satellite imagery platform; fully remote
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5164459007 | Temporal | Senior Engineering Manager, Compute | United States - Remote | comp unlisted | — EM of Compute at the durable-execution platform; deep distributed systems domain; US Remote

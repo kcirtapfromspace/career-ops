@@ -3,8 +3,8 @@
 **Type:** Greenhouse API only (no WebSearch)
 **Date:** 2026-06-18
 **Boards scanned:** 42 enabled Greenhouse API companies
-**Scan-history size:** 12,095 entries (pre-scan) → 12,099 (post-scan)
-**New matches:** 4
+**Scan-history size:** 12,095 entries (pre-scan) → 12,100 (post-scan)
+**New matches:** 5
 
 ---
 
@@ -29,6 +29,11 @@
 - **URL:** https://job-boards.greenhouse.io/planetlabs/jobs/8002692
 - **Location:** United States, Remote
 - **Why relevant:** Compute infrastructure for Earth observation satellite platform. Fully remote US; data platform at scale for geospatial ML workloads.
+
+### 5. Temporal — Senior Engineering Manager, Compute
+- **URL:** https://job-boards.greenhouse.io/temporaltechnologies/jobs/5164459007
+- **Location:** United States - Remote
+- **Why relevant:** Engineering Manager of Compute at the durable-execution / workflow orchestration platform. Deep distributed systems domain — one of Patrick's strongest areas. Fully remote US.
 
 ---
 
@@ -58,7 +63,7 @@
 | Samsara | All in history |
 | Scale AI | **1 new** |
 | Stability AI | No title matches |
-| Temporal Technologies | All in history |
+| Temporal Technologies | **1 new** |
 | Vast | All in history |
 | Vercel | All in history (morning scan) |
 | Zipline | All in history |
