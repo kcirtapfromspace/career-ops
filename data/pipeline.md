@@ -3,6 +3,17 @@
 
 ---
 
+### Scout — 2026-06-19 (late-cycle API check — 2 additional matches)
+
+> Late check of dbt Labs + Cloudflare Greenhouse boards found 2 roles missed by both earlier scan passes. Dedup confirmed clean against scan-history and pipeline.
+
+#### New Matches
+
+- [ ] https://job-boards.greenhouse.io/dbtlabsinc/jobs/4691256005 | dbt Labs | Staff Software Engineer - Semantic Layer | Remote US | score: 4.2/5
+- [ ] https://job-boards.greenhouse.io/cloudflare/jobs/7376838 | Cloudflare | Principal Software Engineer - Product Platform | Denver/Seattle (hybrid) | $200K–$281K | score: 4.0/5
+
+---
+
 ### Scout — 2026-06-19 (43 Greenhouse APIs + 15 WebSearch queries)
 
 > Full scan: 43 Greenhouse boards (41 OK, 1 empty — Dagster, 1 error — Factorial), 15 WebSearch queries. Dedup against ~12,100-line scan-history. **7 new matches** (1 Airbnb, 4 dbt Labs, 1 Shield AI Sr Director, 1 dbt Labs Senior DE). 1 Snowflake role found but verified CLOSED. Report: [scout-2026-06-19.md](../reports/scout-2026-06-19.md)
