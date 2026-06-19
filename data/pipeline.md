@@ -3981,3 +3981,13 @@
 
 - [ ] https://job-boards.greenhouse.io/planetlabs/jobs/8002692 | Planet Labs | Software Engineer, Compute Team | United States, Remote | comp unlisted | — Compute infrastructure for satellite imagery platform; fully remote
 - [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5164459007 | Temporal | Senior Engineering Manager, Compute | United States - Remote | comp unlisted | — EM of Compute at the durable-execution platform; deep distributed systems domain; US Remote
+
+---
+
+### Scout — 2026-06-19 (quick-check — Greenhouse APIs only)
+
+> Quick-check pass: 42 Greenhouse boards, 0 API errors. Dedup against 12,215-line scan-history. **1 new US match** (Anduril Seattle). 3 non-US remote roles filtered out (Chainguard UK x2, ClickHouse Spain).
+
+#### New Matches
+
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5165989007 | Anduril | Senior Front End Software Engineer, React | Seattle, WA | quickcheck-2026-06-19
