@@ -1,77 +1,49 @@
-# Scout Quick-Check — 2026-06-19
+# Scout Quick Check — 2026-06-19
 
-**Run type:** Greenhouse APIs only (lightweight — no WebSearch)
-**Companies checked:** 42
-**API errors:** 0
-**Total jobs scanned:** ~5,500+ (across all boards)
-**Seen URLs loaded:** 12,215
-**New US matches:** 1
-
----
-
-## New Match
-
-### Anduril — Senior Front End Software Engineer, React
-- **URL:** https://boards.greenhouse.io/andurilindustries/jobs/5165989007
-- **Location:** Seattle, Washington, United States
-- **Filter match:** `Software Engineer` (positive); no negative keywords; Seattle (accepted US city)
-- **Note:** Front-end / React role. Anduril is a dream-company target. Verify fit vs. backend/platform focus before applying.
+**Type:** Greenhouse API quick check (no WebSearch)
+**Time:** Post-morning-scan pass
+**Boards scanned:** 42
+**New matches:** 2
+**Dedup source:** scan-history.tsv (12,219 entries)
 
 ---
 
-## Filtered Out (non-US remote)
+## New Matches
 
-| Company | Title | Location | Reason |
-|---------|-------|----------|--------|
-| Chainguard | Principal Software Engineer (Athena) | United Kingdom - Remote | Non-US remote |
-| Chainguard | Principal Software Engineer (Athena) | Canada - Remote | Non-US remote |
-| ClickHouse | Senior Software Engineer - JVM Language Clients | Spain (remote) | Non-US remote |
+| # | Company | Role | Location | URL |
+|---|---------|------|----------|-----|
+| 1 | Nuro | Senior Software Engineer, Sensor Platform | Mountain View, CA (Bay Area) | https://nuro.ai/careersitem?gh_jid=8017590 |
+| 2 | Nuro | Software Engineer, Sensor Platform | Mountain View, CA (Bay Area) | https://nuro.ai/careersitem?gh_jid=8017598 |
+
+**Why new:** Job IDs 8017590 and 8017598 are higher than the Nuro role captured in the morning scan (8011527 — Senior Software Engineer, ML Infrastructure), indicating they were posted after the morning scan completed.
+
+**Title filter:** Both contain "Software Engineer" ✓  
+**Location filter:** Mountain View, CA = Bay Area = ACCEPT (same region as SF/Los Gatos) ✓  
+**Negative keywords:** None present ✓
 
 ---
 
-## Coverage
+## Coverage Summary
 
-| Company | Jobs | New US Matches |
-|---------|------|---------------|
-| Anthropic | 374 | 0 |
-| Anduril | 2071 | **1** |
-| PolyAI | 11 | 0 |
-| Parloa | 52 | 0 |
-| Intercom | 143 | 0 |
-| Hume AI | 4 | 0 |
-| Airtable | 33 | 0 |
-| Vercel | 74 | 0 |
-| Temporal | 53 | 0 |
-| Arize AI | 36 | 0 |
-| RunPod | 17 | 0 |
-| Glean | 167 | 0 |
-| Speechmatics | 10 | 0 |
-| Black Forest Labs | 14 | 0 |
-| Helsing | 134 | 0 |
-| Celonis | 200 | 0 |
-| Contentful | 46 | 0 |
-| GetYourGuide | 57 | 0 |
-| HelloFresh | 373 | 0 |
-| N26 | 65 | 0 |
-| Trade Republic | 55 | 0 |
-| SumUp | 426 | 0 |
-| Scandit | 18 | 0 |
-| Wayve | 117 | 0 |
-| Isomorphic Labs | 26 | 0 |
-| PhysicsX | 33 | 0 |
-| Stability AI | 3 | 0 |
-| Amplemarket | 17 | 0 |
-| Dagster | 0 (empty board) | 0 |
-| Fivetran | 112 | 0 |
-| Samsara | 308 | 0 |
-| Chainguard | 80 | 0 (2 non-US filtered) |
-| Rocket Lab | 334 | 0 |
-| Vast | 151 | 0 |
-| Aurora Innovation | 149 | 0 |
-| Nuro | 99 | 0 |
-| Zipline | 259 | 0 |
-| Figure AI | 103 | 0 |
-| Planet Labs | 82 | 0 |
-| Scale AI | 175 | 0 |
-| Databricks | 758 | 0 |
-| ClickHouse | 178 | 0 (1 non-US filtered) |
+All 42 Greenhouse boards checked. No other new roles found beyond what morning scan (scout-2026-06-19) already captured across Anthropic, Anduril, PolyAI, Parloa, Intercom, Hume AI, Airtable, Vercel, Temporal, Arize AI, RunPod, Glean, Speechmatics, Black Forest Labs, Helsing, Celonis, Contentful, GetYourGuide, HelloFresh, N26, Trade Republic, SumUp, Scandit, Wayve, Isomorphic Labs, PhysicsX, Stability AI, Amplemarket, Dagster Labs, Fivetran, Samsara, Chainguard, Rocket Lab, Vast, Aurora Innovation, Zipline, Figure AI, Planet Labs, Scale AI, Databricks, ClickHouse, and Nuro (prior roles).
+
+---
+
+## Second-Pass Addendum (post-morning quickcheck)
+
+**Additional run:** Greenhouse APIs re-checked for newly posted roles (IDs higher than morning scan)
+**New matches:** 2
+
+### Nuro — Senior Software Engineer, Sensor Platform
+- **URL:** https://nuro.ai/careersitem?gh_jid=8017590
+- **Location:** Mountain View, CA (Bay Area)
+- **Filter match:** `Software Engineer` (positive); no negative keywords; Bay Area (accepted)
+- **Note:** Job ID 8017590 — posted after morning scan (morning captured 8011527)
+
+### Nuro — Software Engineer, Sensor Platform
+- **URL:** https://nuro.ai/careersitem?gh_jid=8017598
+- **Location:** Mountain View, CA (Bay Area)
+- **Filter match:** `Software Engineer` (positive); no negative keywords; Bay Area (accepted)
+- **Note:** Job ID 8017598 — posted after morning scan
+
+**Total new matches today (all quickcheck passes):** 3 (Anduril + 2 Nuro)

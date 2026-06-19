@@ -3,6 +3,17 @@
 
 ---
 
+### Scout — 2026-06-19 (quickcheck — 2 new Nuro Sensor Platform roles)
+
+> Quick Greenhouse API check (42 boards). 2 new roles at Nuro posted after morning scan. Dedup confirmed against 12,219-line scan-history.
+
+#### New Matches
+
+- [ ] https://nuro.ai/careersitem?gh_jid=8017590 | Nuro | Senior Software Engineer, Sensor Platform | Mountain View, CA (Bay Area) | score: TBD
+- [ ] https://nuro.ai/careersitem?gh_jid=8017598 | Nuro | Software Engineer, Sensor Platform | Mountain View, CA (Bay Area) | score: TBD
+
+---
+
 ### Scout — 2026-06-19 (late-cycle API check — 2 additional matches)
 
 > Late check of dbt Labs + Cloudflare Greenhouse boards found 2 roles missed by both earlier scan passes. Dedup confirmed clean against scan-history and pipeline.
