@@ -3,6 +3,41 @@
 
 ---
 
+### Scout — 2026-06-19 (43 Greenhouse APIs + 15 WebSearch queries)
+
+> Full scan: 43 Greenhouse boards (41 OK, 1 empty — Dagster, 1 error — Factorial), 15 WebSearch queries. Dedup against ~12,100-line scan-history. **7 new matches** (1 Airbnb, 4 dbt Labs, 1 Shield AI Sr Director, 1 dbt Labs Senior DE). 1 Snowflake role found but verified CLOSED. Report: [scout-2026-06-19.md](../reports/scout-2026-06-19.md)
+
+#### New Matches
+
+- [ ] https://careers.airbnb.com/positions/7759457/ | Airbnb | Senior Staff Machine Learning Engineer, Infrastructure | San Francisco (on-site ACCEPT) | score: 4.3/5
+- [ ] https://job-boards.greenhouse.io/dbtlabsinc/jobs/4426223005 | dbt Labs | Staff Software Engineer, Experience | Remote US | score: 4.2/5
+- [ ] https://job-boards.greenhouse.io/dbtlabsinc/jobs/4340644005 | dbt Labs | Staff Infrastructure Engineer | Remote US | score: 4.2/5
+- [ ] https://job-boards.greenhouse.io/dbtlabsinc/jobs/4327442005 | dbt Labs | Staff Site Reliability Engineer | Remote US | score: 4.0/5
+- [ ] https://jobs.lever.co/shieldai/a7179d4a-ec58-4bf7-a225-45867e8abd21 | Shield AI | Sr Director, Enterprise Data and Architecture | Location TBD | score: 3.8/5
+- [ ] https://job-boards.greenhouse.io/dbtlabsinc/jobs/4425575005 | dbt Labs | Senior Data Engineer | Remote US | score: 3.5/5
+
+---
+
+### Scout — 2026-06-19 (Greenhouse APIs + Ashby APIs + Lever API)
+
+> 29 Greenhouse boards + 5 Ashby boards + 1 Lever board scanned. Dedup against 12,100-line scan-history. **11 new matches**. Report: [scout-2026-06-19.md](../reports/scout-2026-06-19.md)
+
+#### New Matches
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5271428008 | Anthropic | Staff Software Engineer, Developer Productivity (CI/CD) - Claude Code | San Francisco, CA / New York City, NY | score=4.3
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5271426008 | Anthropic | Staff Software Engineer, Developer Productivity (Dev Environments) - Claude Code | San Francisco, CA / New York City, NY | score=4.3
+- [ ] https://jobs.lever.co/shieldai/0034444c-c0c4-4884-a49f-b921bd661b03 | Shield AI | Principal Engineer, AI Infrastructure | San Francisco, CA | score=4.2
+- [ ] https://jobs.lever.co/shieldai/1d77e789-a2be-414c-9a1f-f4bc284343ea | Shield AI | Staff Engineer, DevOps | United States (Remote) | score=4.2
+- [ ] https://jobs.lever.co/shieldai/b6dcf09f-1fb2-4ac1-b2e6-9fab8acb4e79 | Shield AI | Staff Software Engineer, GCS - Full Stack | United States (Remote) | score=4.2
+- [ ] https://jobs.ashbyhq.com/modal/af17da5e-23ca-4802-854d-5f0546e1ed32 | Modal | Member of Technical Staff - ML Performance | New York | score=4.3
+- [ ] https://jobs.ashbyhq.com/modal/89bfd784-071a-4dcc-a5ab-6ba9d5e53dad | Modal | Member of Technical Staff - ML Training Systems | New York | score=4.3
+- [ ] https://jobs.ashbyhq.com/modal/265d6127-dd34-433b-819a-1f935572c7d8 | Modal | Member of Technical Staff - Python SDK | New York | score=4.3
+- [ ] https://jobs.ashbyhq.com/modal/a4b8b2b6-5d0c-4ba6-9256-b84be84fb79e | Modal | Member of Technical Staff - Product (Backend) | New York | score=4.3
+- [ ] https://jobs.ashbyhq.com/confluent/8606dc2b-3ad7-4423-9cbb-c7e6df0a1ae5 | Confluent | Staff Software Engineer | Remote, United States | score=4.3
+- [ ] https://jobs.ashbyhq.com/anyscale/02ed9406-2b43-4009-a80f-2dd94e2f6e96 | Anyscale | Staff Software Engineer, Platform Infrastructure (Foundations) | San Francisco or Palo Alto, CA | score=4.5
+
+---
+
 ### Scout — 2026-06-18 (Greenhouse APIs + WebSearch)
 
 > 40 Greenhouse API boards scanned + 5 WebSearch queries. Dedup against 12,012-line scan-history. **3 new matches**. Report: [scout-2026-06-18.md](../reports/scout-2026-06-18.md)
