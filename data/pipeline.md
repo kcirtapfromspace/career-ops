@@ -4002,3 +4002,18 @@
 #### New Matches
 
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5165989007 | Anduril | Senior Front End Software Engineer, React | Seattle, WA | quickcheck-2026-06-19
+
+---
+
+### Scout — 2026-06-20 (quick-check — Greenhouse APIs only)
+
+> Quick-check pass: 43 Greenhouse boards, 0 API errors. Dedup against 12,227-line scan-history. **6 new matches** (Nuro x2, Planet Labs, Vercel, Fivetran, Wayve).
+
+#### New Matches
+
+- [ ] https://nuro.ai/careersitem?gh_jid=6909931 | Nuro | Software Engineer, ML Infrastructure | Mountain View, CA | quickcheck-2026-06-20
+- [ ] https://nuro.ai/careersitem?gh_jid=6916236 | Nuro | Software Engineer, ML Infrastructure, Optimization | Mountain View, CA | quickcheck-2026-06-20
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/8011111 | Planet Labs | Senior Forward Deployed Engineer | US Remote | quickcheck-2026-06-20
+- [ ] https://boards.greenhouse.io/vercel/jobs/6098390004?gh_jid=6098390004 | Vercel | Software Engineer Eve | SF / Remote US | quickcheck-2026-06-20
+- [ ] https://boards.greenhouse.io/fivetran/jobs/7688580003?gh_jid=7688580003 | Fivetran | Senior Site Reliability Engineer | Oakland, CA | quickcheck-2026-06-20
+- [ ] https://boards.greenhouse.io/wayve/jobs/8598782002?gh_jid=8598782002 | Wayve | Principal Engineer, Model Development Platform | Sunnyvale, CA | quickcheck-2026-06-20
