@@ -4017,3 +4017,29 @@
 - [ ] https://boards.greenhouse.io/vercel/jobs/6098390004?gh_jid=6098390004 | Vercel | Software Engineer Eve | SF / Remote US | quickcheck-2026-06-20
 - [ ] https://boards.greenhouse.io/fivetran/jobs/7688580003?gh_jid=7688580003 | Fivetran | Senior Site Reliability Engineer | Oakland, CA | quickcheck-2026-06-20
 - [ ] https://boards.greenhouse.io/wayve/jobs/8598782002?gh_jid=8598782002 | Wayve | Principal Engineer, Model Development Platform | Sunnyvale, CA | quickcheck-2026-06-20
+
+
+### Scout — 2026-06-20 (quick-check #2 — Greenhouse APIs only)
+>
+> Quick-check pass #2: 42 Greenhouse boards, 0 API errors. Dedup by job ID against scan history. **18 new US matches**. 9 non-US roles filtered.
+
+#### New Matches
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5167749007?gh_jid=5167749007 | Anduril | Data Engineer, Quality Intelligence | Costa Mesa, California, United States | quickcheck2-2026-06-20
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5166738007?gh_jid=5166738007 | Anduril | Senior Deployed Software Engineer | Lexington, Massachusetts, United States | quickcheck2-2026-06-20
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/4975884007?gh_jid=4975884007 | Anduril | Senior Front End Software Engineer, React | Washington, District of Columbia, United States | quickcheck2-2026-06-20
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5166577007?gh_jid=5166577007 | Anduril | Senior Manufacturing Software Engineer | Lexington, Massachusetts, United States | quickcheck2-2026-06-20
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5166739007?gh_jid=5166739007 | Anduril | Senior Mission Software Engineer | Lexington, Massachusetts, United States | quickcheck2-2026-06-20
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5161036007?gh_jid=5161036007 | Anduril | Senior Production Software Engineer | Lexington, Massachusetts, United States | quickcheck2-2026-06-20
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5165949007?gh_jid=5165949007 | Anduril | Senior Software Engineer - Manufacturing Automation | Costa Mesa, California, United States | quickcheck2-2026-06-20
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5167155007?gh_jid=5167155007 | Anduril | Senior Software Engineer, Realtime Imaging | Boulder, Colorado, United States | quickcheck2-2026-06-20
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/4329202007?gh_jid=4329202007 | Anduril | Site Reliability Engineer, C2 Systems | Honolulu, Hawaii, United States | quickcheck2-2026-06-20
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5169876007?gh_jid=5169876007 | Anduril | Space Special Projects, Engineering Manager | Reston, Virginia, United States | quickcheck2-2026-06-20
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5169861007?gh_jid=5169861007 | Anduril | Space Special Projects, Software Engineer | Reston, Virginia, United States | quickcheck2-2026-06-20
+- [ ] https://helsing.ai/jobs/4902953101?gh_jid=4902953101 | Helsing | Machine Learning Engineer, Detection and Tracking | Washington, DC | quickcheck2-2026-06-20
+- [ ] https://helsing.ai/jobs/4900453101?gh_jid=4900453101 | Helsing | Software Engineer, DevSecOps | Washington, DC | quickcheck2-2026-06-20
+- [ ] https://helsing.ai/jobs/4900456101?gh_jid=4900456101 | Helsing | Software Engineer, Platform Engineering | Washington, DC | quickcheck2-2026-06-20
+- [ ] https://helsing.ai/jobs/4900446101?gh_jid=4900446101 | Helsing | Software Engineer, Rust | Washington, DC | quickcheck2-2026-06-20
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7777559003 | Rocket Lab | Senior Network Software Engineer I/II | Long Beach, CA | quickcheck2-2026-06-20
+- [ ] https://aurora.tech/jobs/8591934002?gh_jid=8591934002 | Aurora Innovation | Software Engineer II, Pipeline Automation & Acceleration | Pittsburgh, Pennsylvania | quickcheck2-2026-06-20
+- [ ] https://nuro.ai/careersitem?gh_jid=7979749 | Nuro | Senior Software Engineer, Devices Platform | Mountain View, California (HQ) | quickcheck2-2026-06-20
+
