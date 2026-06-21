@@ -3,6 +3,20 @@
 
 ---
 
+### Scout — 2026-06-21 (18 Greenhouse boards + 3 WebSearch queries)
+
+> Full scan: 18 Greenhouse boards + 3 WebSearch queries. Dedup against 12,251-line scan-history. **5 new matches**, all remote US. Story: Grafana Labs posted 4+ new Staff-level openings that perfectly map to Patrick's Go/K8s/observability stack. Report: [scout-2026-06-21.md](../reports/scout-2026-06-21.md)
+
+#### New Matches
+
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/6007414004 | Grafana Labs | Staff Backend Engineer, Grafana Enterprise | Remote US | $175K–$210K base | score: 4.4/5
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/6013354004 | Grafana Labs | Staff Software Engineer, Platform SysEng | Remote US (EST/CST pref) | $175K–$210K base | score: 4.3/5
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/5988484004 | Grafana Labs | Staff Backend Engineer, App Platform | Remote US | $175K–$210K base | score: 4.0/5
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/5968728004 | Grafana Labs | Staff Backend Engineer, App Core Services | Remote US (EST/CST only) | $175K–$210K base | score: 3.8/5
+- [ ] https://job-boards.greenhouse.io/twilio/jobs/7944328 | Twilio | Staff Software Engineer (P4) | Remote US (West Coast pref) | $171K–$252K | score: 3.5/5
+
+---
+
 ### Scout — 2026-06-19 (quickcheck — 2 new Nuro Sensor Platform roles)
 
 > Quick Greenhouse API check (42 boards). 2 new roles at Nuro posted after morning scan. Dedup confirmed against 12,219-line scan-history.
