@@ -3,6 +3,17 @@
 
 ---
 
+### Scout — 2026-06-22 (quickcheck — Greenhouse API only, 42 boards)
+
+> Quick API check: 42 Greenhouse boards. Dedup against 12,281-line scan-history. **2 new matches**. Report: [scout-quickcheck-2026-06-22.md](../reports/scout-quickcheck-2026-06-22.md)
+
+#### New Matches
+
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/7967527 | Planet Labs | Senior Software Engineer, Storage Infrastructure | Remote US
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/6018899004 | ClickHouse | Senior Software Engineer - Identity & Authorization Platform | Remote US
+
+---
+
 ### Scout — 2026-06-22 (41 Greenhouse boards + 8 WebSearch queries)
 
 > Full scan: 41 Greenhouse boards + 8 WebSearch queries. Dedup against 10,128-line seen-IDs list. **0 new matches** at ≥3.5 threshold. All engineering roles from target companies were already in scan-history. Non-engineering new IDs (sales, legal, marketing, EU-located) skipped per filter rules. Pipeline is current. Report: [scout-2026-06-22.md](../reports/scout-2026-06-22.md)
