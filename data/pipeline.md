@@ -3,6 +3,16 @@
 
 ---
 
+### Scout — 2026-06-22 (41 Greenhouse boards + 8 WebSearch queries)
+
+> Full scan: 41 Greenhouse boards + 8 WebSearch queries. Dedup against 10,128-line seen-IDs list. **0 new matches** at ≥3.5 threshold. All engineering roles from target companies were already in scan-history. Non-engineering new IDs (sales, legal, marketing, EU-located) skipped per filter rules. Pipeline is current. Report: [scout-2026-06-22.md](../reports/scout-2026-06-22.md)
+
+#### New Matches
+
+_None — pipeline is current._
+
+---
+
 ### Scout — 2026-06-21 (18 Greenhouse boards + 3 WebSearch queries)
 
 > Full scan: 18 Greenhouse boards + 3 WebSearch queries. Dedup against 12,251-line scan-history. **5 new matches**, all remote US. Story: Grafana Labs posted 4+ new Staff-level openings that perfectly map to Patrick's Go/K8s/observability stack. Report: [scout-2026-06-21.md](../reports/scout-2026-06-21.md)
