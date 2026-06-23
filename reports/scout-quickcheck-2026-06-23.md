@@ -5,6 +5,11 @@
 **Total API jobs scanned:** ~5,195  
 **Title-matched (pre-location):** 39  
 **New matches (post-location filter):** 9  
+**Type:** Greenhouse API-only (quickcheck4)
+**Companies checked:** 42
+**Jobs scanned:** 7,427
+**New matches:** 4
+**Errors:** 0
 
 ---
 
@@ -58,3 +63,46 @@ No API errors. All 42 companies returned data.
 ---
 
 *All 9 entries added to `data/pipeline.md` and `data/scan-history.tsv`.*
+### 1. Planet Labs — Software Engineer, Mission Systems
+- **URL:** https://job-boards.greenhouse.io/planetlabs/jobs/8008293
+- **Location:** United States, Remote; Canada, Remote
+- **Notes:** Mission Systems team. Satellite data / remote sensing. Fully remote US.
+
+### 2. Planet Labs — Software Engineer - Platform, Mission Systems
+- **URL:** https://job-boards.greenhouse.io/planetlabs/jobs/8022265
+- **Location:** United States, Remote; Canada, Remote
+- **Notes:** Platform role within Mission Systems. Two Planet Labs openings on same team — worth comparing scope.
+
+### 3. Scale AI — Deployment Engineering Manager, Enterprise
+- **URL:** https://job-boards.greenhouse.io/scaleai/jobs/4568601005
+- **Location:** San Francisco, CA; New York, NY
+- **Notes:** EM role overseeing Enterprise deployments. SF-based. Scale AI = $7.3B, defense + enterprise focus. Strong Patrick fit (platform + AI at scale).
+
+### 4. Clickhouse — Senior Software Engineer - Identity & Authorization Platform
+- **URL:** https://job-boards.greenhouse.io/clickhouse/jobs/6018901004
+- **Location:** Canada (remote)
+- **Notes:** Platform engineering / authz. Clickhouse is fully remote globally — likely accepts US candidates despite Canada tag. Worth verifying.
+
+---
+
+## Coverage
+
+| Company | Jobs fetched | New |
+|---------|-------------|-----|
+| Planet Labs | 26 | 2 |
+| Scale AI | 87 | 1 |
+| Clickhouse | 41 | 1 |
+| Anthropic | 52 | 0 |
+| Databricks | 412 | 0 |
+| Fivetran | 51 | 0 |
+| Anduril | 203 | 0 |
+| Aurora Innovation | 148 | 0 |
+| Samsara | 89 | 0 |
+| Figure AI | 67 | 0 |
+| Glean | 44 | 0 |
+| Dagster | 18 | 0 |
+| (30 others) | ~6,082 | 0 |
+
+---
+
+*quickcheck4 — Greenhouse API scan only. No WebSearch. Deduped against 11,282 previously seen URLs.*

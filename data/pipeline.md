@@ -4169,3 +4169,9 @@ _None — pipeline is current._
 - [ ] https://nuro.ai/careersitem?gh_jid=8021289 | Nuro | Senior Software Engineer, Networking & Real-Time Systems | Mountain View, California (HQ) | quickcheck3-2026-06-23
 - [ ] https://job-boards.greenhouse.io/figureai/jobs/4690871006 | Figure AI | Software Engineer, Privacy & Data Governance | San Jose, CA | quickcheck3-2026-06-23
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8560779002 | Databricks | Software Engineer, Web Products | Mountain View, California | quickcheck3-2026-06-23
+
+#### New Matches (quickcheck4-2026-06-23)
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/8008293 | Planet Labs | Software Engineer, Mission Systems | United States, Remote; Canada, Remote | quickcheck4-2026-06-23
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/8022265 | Planet Labs | Software Engineer - Platform, Mission Systems | United States, Remote; Canada, Remote | quickcheck4-2026-06-23
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4568601005 | Scale AI | Deployment Engineering Manager, Enterprise | San Francisco, CA; New York, NY | quickcheck4-2026-06-23
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/6018901004 | Clickhouse | Senior Software Engineer - Identity & Authorization Platform | Canada (remote) | quickcheck4-2026-06-23
