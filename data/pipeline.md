@@ -1,6 +1,85 @@
 # Pipeline — Pending Offers
 
+## 2026-06-23
 
+> Scout scan: 42 Greenhouse API boards + 13 WebSearch queries. 1,800+ jobs reviewed. 23 new matches found. Report: [scout-2026-06-23.md](../reports/scout-2026-06-23.md)
+
+#### Top Picks (4.0+)
+
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5125079007 | Temporal | Staff Software Engineer, AI Foundations | Remote - US | ★ 4.2/5 — AI+workflow infra, Go, distributed systems; direct Argo/NLP proof points
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5038049007 | Temporal | Senior Staff Software Engineer, Infrastructure | Remote - US | ★ 4.2/5 — Senior Staff above target level; federal-scale platform work aligns
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5119529007 | Temporal | Staff Software Engineer, Observability | Remote - US | ★ 4.1/5 — Watchtower/OpenTelemetry/Datadog = strongest proof point match
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5107194007 | Temporal | Staff Software Engineer, Infrastructure Foundations | Remote - US | ★ 4.1/5 — foundational infra layers; Terraform/AWS/K8s alignment
+- [ ] https://jobs.lever.co/spotify/e6889c35-76a9-4da7-8dc2-05b6070cc298 | Spotify | Machine Learning Engineering Manager, LLM Serving & Infrastructure | Remote - US | ★ 4.1/5 — EM + LLM infra at 600M-user scale; $176K–$251K base
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5164459007 | Temporal | Senior Engineering Manager, Compute | Remote - US | ★ 4.0/5 — EM track at Temporal; compute scheduling + reliability
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5993847004 | ClickHouse | Senior Data Engineer, dbt & CI/CD | AMER Remote | ★ 4.0/5 — dbt = direct Colorado payroll proof point; ClickHouse product company
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/7603834 | Planet Labs | Senior Software Engineering Manager | Remote - US | ★ 4.0/5 — EM at petabyte-scale satellite data; federal customer base fits Patrick
+
+### Temporal Technologies (8)
+
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5125079007 | Temporal | Staff Software Engineer, AI Foundations | Remote - US | ★ 4.2/5
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5038049007 | Temporal | Senior Staff Software Engineer, Infrastructure | Remote - US | ★ 4.2/5
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5119529007 | Temporal | Staff Software Engineer, Observability | Remote - US | ★ 4.1/5
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5107194007 | Temporal | Staff Software Engineer, Infrastructure Foundations | Remote - US | ★ 4.1/5
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5164459007 | Temporal | Senior Engineering Manager, Compute | Remote - US | ★ 4.0/5
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5148493007 | Temporal | Staff Software Engineer, Cloud Identity | Remote - US | ★ 3.8/5
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5111582007 | Temporal | Senior Software Engineer, AI Developer Experience | Remote - US | ★ 3.8/5
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5042920007 | Temporal | Senior Software Engineer, Observability | Remote - US/Canada | ★ 3.7/5
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5158843007 | Temporal | Senior Software Engineer, Cloud Identity | Remote - US | ★ 3.7/5
+
+### Spotify (3)
+
+- [ ] https://jobs.lever.co/spotify/e6889c35-76a9-4da7-8dc2-05b6070cc298 | Spotify | Machine Learning Engineering Manager, LLM Serving & Infrastructure | Remote - US | ★ 4.1/5
+- [ ] https://jobs.lever.co/spotify/66492688-d5b0-4cf8-b1a4-4a715157edd9 | Spotify | Backend Engineer — Data Infrastructure | Remote - US | ★ 3.6/5
+- [ ] https://jobs.lever.co/spotify/db6450c7-5017-4aa5-8a64-52e39f1ed525 | Spotify | Backend Engineer — Data Platform | Remote - US | ★ 3.6/5
+
+### ClickHouse (3)
+
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5993847004 | ClickHouse | Senior Data Engineer, dbt & CI/CD | AMER Remote | ★ 4.0/5
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5776991004 | ClickHouse | Senior Backend Engineer — Infrastructure (ClickPipes) | Remote - US | ★ 3.6/5
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5778617004 | ClickHouse | Cloud Database Infrastructure Engineer | Remote - US | ★ 3.5/5
+
+### Planet Labs (2)
+
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/7603834 | Planet Labs | Senior Software Engineering Manager | Remote - US | ★ 4.0/5
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/8002692 | Planet Labs | Software Engineer, Compute Team | Remote - US | ★ 3.5/5
+
+### Confluent (1)
+
+- [ ] https://jobs.ashbyhq.com/confluent/6f9f7932-2647-4562-b10b-fe70eb27d007 | Confluent | Manager II, Engineering — Secure Compute Platform | Remote | ★ 3.8/5
+
+### Cohere (2)
+
+- [ ] https://jobs.ashbyhq.com/cohere/6a6120d5-5e02-4811-99d9-6baf0b910e37 | Cohere | Engineering Manager, FDE Infrastructure (NORAM) | Remote | ★ 3.8/5
+- [ ] https://jobs.ashbyhq.com/cohere/9baccd88-c051-474f-bfe8-6867fca54cee | Cohere | Data Engineer, Data Foundations | Remote | ★ 3.7/5
+
+### Chainguard (2)
+
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4689447006 | Chainguard | Staff Software Engineer (Athena) | Remote - US | ★ 3.8/5
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4676390006 | Chainguard | Staff Software Engineer (Customer Platform) | Remote - US/UK/CA | ★ 3.7/5
+
+### Databricks (2)
+
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8324875002 | Databricks | Engineering Manager — Streaming | Bellevue WA | ★ 3.8/5
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8603361002 | Databricks | Engineering Manager, Serverless Compute Platform | Bellevue WA | ★ 3.8/5
+
+### Ramp (1)
+
+- [ ] https://jobs.ashbyhq.com/ramp/bca0346c-b843-4795-96df-6091f51e421b | Ramp | Software Engineer, Data Platform | Remote | ★ 3.6/5
+
+### Samsara (1)
+
+- [ ] https://www.samsara.com/company/careers/roles/7859406?gh_jid=7859406 | Samsara | Data Engineer II | Remote - US | ★ 3.6/5
+
+### RunPod (1)
+
+- [ ] https://job-boards.greenhouse.io/runpod/jobs/5229443008 | RunPod | Site Reliability Engineer | Remote - US | ★ 3.6/5
+
+### Vercel (1)
+
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5461002004 | Vercel | Sr. Engineering Manager, Platform | Hybrid SF/NYC | ★ 3.6/5
+
+---
 ---
 
 ### Scout — 2026-06-22 (quickcheck — Greenhouse API only, 42 boards)
