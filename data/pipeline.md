@@ -4157,3 +4157,15 @@ _None — pipeline is current._
 - [ ] https://aurora.tech/jobs/8591934002?gh_jid=8591934002 | Aurora Innovation | Software Engineer II, Pipeline Automation & Acceleration | Pittsburgh, Pennsylvania | quickcheck2-2026-06-20
 - [ ] https://nuro.ai/careersitem?gh_jid=7979749 | Nuro | Senior Software Engineer, Devices Platform | Mountain View, California (HQ) | quickcheck2-2026-06-20
 
+
+
+#### New Matches (quickcheck3-2026-06-23)
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5166628007?gh_jid=5166628007 | Anduril | Senior Director, Software Engineering | Bellevue, Washington, United States | quickcheck3-2026-06-23
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5165989007?gh_jid=5165989007 | Anduril | Senior Front End Software Engineer, React | Seattle, Washington, United States | quickcheck3-2026-06-23
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5170942007?gh_jid=5170942007 | Anduril | Staff Software Engineer, Production Solutions | Seattle, Washington, United States | quickcheck3-2026-06-23
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7768594003 | Fivetran | Senior Software Engineer | Oakland, California, United States, AMER | quickcheck3-2026-06-23
+- [ ] https://www.samsara.com/company/careers/roles/7964565?gh_jid=7964565 | Samsara | Senior Data Engineer | Remote - US | quickcheck3-2026-06-23
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7777615003 | Rocket Lab | Senior Network Software Engineer I/II  | Littleton, CO | quickcheck3-2026-06-23
+- [ ] https://nuro.ai/careersitem?gh_jid=8021289 | Nuro | Senior Software Engineer, Networking & Real-Time Systems | Mountain View, California (HQ) | quickcheck3-2026-06-23
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4690871006 | Figure AI | Software Engineer, Privacy & Data Governance | San Jose, CA | quickcheck3-2026-06-23
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8560779002 | Databricks | Software Engineer, Web Products | Mountain View, California | quickcheck3-2026-06-23
