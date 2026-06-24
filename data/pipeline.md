@@ -1,5 +1,13 @@
 # Pipeline — Pending Offers
 
+## 2026-06-24 — Quick Check
+
+> Quick-check scan: 42 Greenhouse API boards. 7,479 jobs reviewed. 2 new US matches. Report: [scout-quickcheck-2026-06-24.md](../reports/scout-quickcheck-2026-06-24.md)
+
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5168952007?gh_jid=5168952007 | Anduril | Senior Software Engineer | Broomfield, Colorado
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5131150007?gh_jid=5131150007 | Anduril | Software Engineer, Tooling | Fort Collins, Colorado
+
+
 ## 2026-06-24
 
 > Scout scan: 45 companies (22 Greenhouse APIs + 14 WebSearches + 9 Lever/Ashby). ~1,400+ jobs reviewed. 4 new matches found (21-day gap since last scan). Report: [scout-2026-06-24.md](../reports/scout-2026-06-24.md)
