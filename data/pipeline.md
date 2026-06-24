@@ -4189,3 +4189,15 @@ _None — pipeline is current._
 - [ ] https://job-boards.greenhouse.io/planetlabs/jobs/8022265 | Planet Labs | Software Engineer - Platform, Mission Systems | United States, Remote; Canada, Remote | quickcheck4-2026-06-23
 - [ ] https://job-boards.greenhouse.io/scaleai/jobs/4568601005 | Scale AI | Deployment Engineering Manager, Enterprise | San Francisco, CA; New York, NY | quickcheck4-2026-06-23
 - [ ] https://job-boards.greenhouse.io/clickhouse/jobs/6018901004 | Clickhouse | Senior Software Engineer - Identity & Authorization Platform | Canada (remote) | quickcheck4-2026-06-23
+
+
+#### New Matches (quickcheck5-2026-06-24)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5277834008 | Anthropic | Manager, Applied AI Engineering, Life Sciences (Beneficial Deployments) | San Francisco, CA | New York City, NY | quickcheck5-2026-06-24
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5171984007?gh_jid=5171984007 | Anduril | Senior Deployed Software Engineer | Lexington, Massachusetts, United States | quickcheck5-2026-06-24
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5171986007?gh_jid=5171986007 | Anduril | Senior Mission Software Engineer | Lexington, Massachusetts, United States | quickcheck5-2026-06-24
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5170617007?gh_jid=5170617007 | Anduril | Senior Site Reliability Engineer, TS Clearance | Costa Mesa, CA; Washington, DC | quickcheck5-2026-06-24
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5127008007?gh_jid=5127008007 | Anduril | Senior Software Engineer, Radar | Broomfield/Fort Collins, Colorado | quickcheck5-2026-06-24
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5172609007?gh_jid=5172609007 | Anduril | Senior Software Engineer, Realtime Imaging | Boulder, Colorado | quickcheck5-2026-06-24
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5172098007?gh_jid=5172098007 | Anduril | Senior Software Engineer - Undersea Dominance | Costa Mesa, California | quickcheck5-2026-06-24
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5171114007?gh_jid=5171114007 | Anduril | Software Engineer - Undersea Dominance | Costa Mesa, California | quickcheck5-2026-06-24
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5170941007?gh_jid=5170941007 | Anduril | Staff Software Engineer, Production Solutions | Costa Mesa, California | quickcheck5-2026-06-24
