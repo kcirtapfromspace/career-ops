@@ -1,5 +1,19 @@
 # Pipeline — Pending Offers
 
+## 2026-06-24
+
+> Scout scan: 45 companies (22 Greenhouse APIs + 14 WebSearches + 9 Lever/Ashby). ~1,400+ jobs reviewed. 4 new matches found (21-day gap since last scan). Report: [scout-2026-06-24.md](../reports/scout-2026-06-24.md)
+
+#### Top Picks (4.0+)
+
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5164459007 | Temporal | Senior Engineering Manager, Compute | US Remote ($320K–$335K + equity) | ★ 4.3/5 — NEW EM role: Temporal's distributed compute execution layer for OpenAI/Cursor. Workflow orchestration = Patrick's top domain. 12yr/7yr EM bar is high but negotiable. Best new find this scan.
+
+#### Other Matches (3.5–3.9)
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5252928008 | Anthropic | Engineering Manager, Cloud Safety | SF / Seattle (25% hybrid) ($405K–$485K) | ★ 3.8/5 — NEW Anthropic EM: Cloud Safety (API safety, inference systems, classifiers, fraud). Different sub-team from already-Applied Safeguards EM. Same comp band. Both cities on relocation list.
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5227810008 | Anthropic | Engineering Manager, Privacy Infrastructure | SF / Seattle (25% hybrid) ($405K–$485K) | ★ 3.5/5 — NEW Anthropic EM: Privacy infra (PII, encryption, audit logging, GDPR/CCPA/HIPAA). Privacy specialist focus is stretch vs Patrick's observability/orchestration background.
+- [ ] https://careers.airbnb.com/positions/7927488/ | Airbnb | Engineering Manager, Marketing Technology | US Remote | ★ 3.3/5 — New Airbnb EM: Segmentation Platform & Insights Platform. Dream company. Requires 4+ yr EM (gap). Marketing tech domain adjacent. Optional stretch.
+
 ## 2026-06-23
 
 > Scout scan: 42 Greenhouse API boards + 13 WebSearch queries. 1,800+ jobs reviewed. 23 new matches found. Report: [scout-2026-06-23.md](../reports/scout-2026-06-23.md)
