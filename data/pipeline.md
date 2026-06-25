@@ -4209,3 +4209,12 @@ _None — pipeline is current._
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5172098007?gh_jid=5172098007 | Anduril | Senior Software Engineer - Undersea Dominance | Costa Mesa, California | quickcheck5-2026-06-24
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5171114007?gh_jid=5171114007 | Anduril | Software Engineer - Undersea Dominance | Costa Mesa, California | quickcheck5-2026-06-24
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5170941007?gh_jid=5170941007 | Anduril | Staff Software Engineer, Production Solutions | Costa Mesa, California | quickcheck5-2026-06-24
+
+#### New Matches (scout-2026-06-25)
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/7967527 | Planet Labs | Senior Software Engineer, Storage Infrastructure | United States Remote | $160K–$200K | ★ 3.9/5 — Go+Python+K8s, petabyte satellite data, federal mission overlap; comp borderline but overlaps $185K min
+- [ ] https://jobs.ashbyhq.com/confluent/bef7f6a5-2481-4eb6-a760-86e3746600bb | Confluent | Staff Software Engineer I (Kora distributed storage) | Remote est. | comp unknown | ★ 3.8/5 — Staff at the Kafka company; Kora = Confluent Cloud's Kafka storage engine; direct distributed systems fit
+- [ ] https://jobs.lever.co/spotify/19649848-0388-4311-a184-067d9ae77cf3 | Spotify | Senior Staff Machine Learning Engineer, Agentic Systems | North America Remote (EST collab) | comp unknown | ★ 3.7/5 — Senior Staff, Agent Engine at 600M-user platform; ML-heavy but adjacent
+- [ ] https://jobs.ashbyhq.com/cohere/6a6120d5-5e02-4811-99d9-6baf0b910e37 | Cohere | Engineering Manager, FDE Infrastructure (NORAM) | North America | comp unknown | ★ 3.5/5 — EM at frontier AI lab, FDE infrastructure team; check JD for comp/location
+- [ ] https://jobs.ashbyhq.com/cohere/9baccd88-c051-474f-bfe8-6867fca54cee | Cohere | Data Engineer, Data Foundations | North America | comp unknown | ★ 3.5/5 — Core data infra at Cohere; direct data platform archetype match; check JD
+- [ ] https://jobs.lever.co/spotify/df494b56-c5d2-4858-a980-c082b3de65c9 | Spotify | Senior Engineering Manager, Spotify for Artists | New York, NY (hybrid) | $203K–$290K | ★ 3.3/5 — Dream company; good comp; NYC hybrid + consumer app domain; lower priority
+
