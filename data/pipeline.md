@@ -4218,3 +4218,23 @@ _None — pipeline is current._
 - [ ] https://jobs.ashbyhq.com/cohere/9baccd88-c051-474f-bfe8-6867fca54cee | Cohere | Data Engineer, Data Foundations | North America | comp unknown | ★ 3.5/5 — Core data infra at Cohere; direct data platform archetype match; check JD
 - [ ] https://jobs.lever.co/spotify/df494b56-c5d2-4858-a980-c082b3de65c9 | Spotify | Senior Engineering Manager, Spotify for Artists | New York, NY (hybrid) | $203K–$290K | ★ 3.3/5 — Dream company; good comp; NYC hybrid + consumer app domain; lower priority
 
+
+#### New Matches (quickcheck6-2026-06-25)
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6093255004 | Vercel | Security Software Engineer, IAM | Remote - United States | quickcheck6-2026-06-25
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5281592008 | Anthropic | Staff+ Software Engineer, Caching | San Francisco, CA; New York City, NY; Seattle, WA | quickcheck6-2026-06-25
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7779058003 | Rocket Lab | Flight Software Engineer II/ Senior | Littleton, CO | quickcheck6-2026-06-25
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7778979003 | Fivetran | Software Engineer | Oakland, California, United States, AMER | quickcheck6-2026-06-25
+- [ ] https://www.zipline.com/open-roles?gh_jid=7772723003 | Zipline | Engineering Manager, Weather Risk Systems | South San Francisco, California, USA | quickcheck6-2026-06-25
+- [ ] https://www.zipline.com/open-roles?gh_jid=7607673003 | Zipline | Fullstack - Data Platform (Autonomy)  | South San Francisco, California, USA | quickcheck6-2026-06-25
+- [ ] https://www.zipline.com/open-roles?gh_jid=7747479003 | Zipline | Principal Software Engineer, Application Software (Remote) | Remote in USA | quickcheck6-2026-06-25
+- [ ] https://www.zipline.com/open-roles?gh_jid=7747476003 | Zipline | Senior Full Stack Software Engineer, Application Software (Remote) | Remote in USA | quickcheck6-2026-06-25
+- [ ] https://www.zipline.com/open-roles?gh_jid=7663467003 | Zipline | Senior Manager, Data Platform & Autonomy Infrastructure | South San Francisco, California, USA | quickcheck6-2026-06-25
+- [ ] https://www.zipline.com/open-roles?gh_jid=7656397003 | Zipline | Senior or Staff Software Engineer – Cloud Communications Platform | South San Francisco, California, USA | quickcheck6-2026-06-25
+- [ ] https://www.zipline.com/open-roles?gh_jid=7411621003 | Zipline | Senior Software Engineer – Datacenter Automation | South San Francisco, California, USA | quickcheck6-2026-06-25
+- [ ] https://www.zipline.com/open-roles?gh_jid=7303683003 | Zipline | Senior Software Engineer – Developer Productivity | South San Francisco, California, USA | quickcheck6-2026-06-25
+- [ ] https://www.zipline.com/open-roles?gh_jid=7331341003 | Zipline | Senior Software Engineer – Rust Language Maintainer | South San Francisco, California, USA | quickcheck6-2026-06-25
+- [ ] https://www.zipline.com/open-roles?gh_jid=7758772003 | Zipline | Senior/Staff Cloud Infrastructure Engineer | South San Francisco, California, USA | quickcheck6-2026-06-25
+- [ ] https://www.zipline.com/open-roles?gh_jid=7747478003 | Zipline | Sr. Staff Full Stack Software Engineer, Application Software (Remote) | Remote in USA | quickcheck6-2026-06-25
+- [ ] https://www.zipline.com/open-roles?gh_jid=7747477003 | Zipline | Staff Full Stack Software Engineer, Application Software (Remote) | Remote in USA | quickcheck6-2026-06-25
+- [ ] https://www.zipline.com/open-roles?gh_jid=7773623003 | Zipline | Staff Full Stack Software Engineer - Health Care Platform | Remote in USA, USA | quickcheck6-2026-06-25
+- [ ] https://www.zipline.com/open-roles?gh_jid=5886248003 | Zipline | Staff Software Engineer - Sky Traffic Platform | South San Francisco, California, USA | quickcheck6-2026-06-25
