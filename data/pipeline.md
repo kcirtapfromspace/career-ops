@@ -4238,3 +4238,15 @@ _None — pipeline is current._
 - [ ] https://www.zipline.com/open-roles?gh_jid=7747477003 | Zipline | Staff Full Stack Software Engineer, Application Software (Remote) | Remote in USA | quickcheck6-2026-06-25
 - [ ] https://www.zipline.com/open-roles?gh_jid=7773623003 | Zipline | Staff Full Stack Software Engineer - Health Care Platform | Remote in USA, USA | quickcheck6-2026-06-25
 - [ ] https://www.zipline.com/open-roles?gh_jid=5886248003 | Zipline | Staff Software Engineer - Sky Traffic Platform | South San Francisco, California, USA | quickcheck6-2026-06-25
+
+## 2026-06-27
+
+> Scout scan: 20 companies (16 Greenhouse API + 4 WebSearch). ~3,000+ jobs reviewed. 2 new matches found. Report: [scout-2026-06-27.md](../reports/scout-2026-06-27.md)
+
+#### Top Picks (4.0+)
+
+- [ ] https://careers.airbnb.com/positions/7927371/ | Airbnb | Engineering Manager, Storage SRE | US Remote | ★ 4.0/5 — EM at dream company; Storage+SRE domain = VA.gov Watchtower + Workiva platform alignment; 3yr EM + 9yr storage/infra bar; slipped all prior scans
+
+#### Other Matches (3.5–3.9)
+
+- [ ] https://careers.airbnb.com/positions/7998356/ | Airbnb | Senior Staff Data Engineer, Data Stewardship | US Remote | ★ 3.8/5 — Data governance + compliance at Airbnb; VA/HHS FedRAMP/GDPR stewardship = strong proof; Senior Staff level above target band — check scope
