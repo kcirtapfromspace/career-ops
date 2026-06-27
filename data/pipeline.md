@@ -4250,3 +4250,7 @@ _None — pipeline is current._
 #### Other Matches (3.5–3.9)
 
 - [ ] https://careers.airbnb.com/positions/7998356/ | Airbnb | Senior Staff Data Engineer, Data Stewardship | US Remote | ★ 3.8/5 — Data governance + compliance at Airbnb; VA/HHS FedRAMP/GDPR stewardship = strong proof; Senior Staff level above target band — check scope
+
+#### New Matches (quickcheck7-2026-06-27)
+
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/6103214004 | ClickHouse | Senior Engineering Manager - Security Engineering | United States (remote) | quickcheck7-2026-06-27
