@@ -4254,3 +4254,10 @@ _None — pipeline is current._
 #### New Matches (quickcheck7-2026-06-27)
 
 - [ ] https://job-boards.greenhouse.io/clickhouse/jobs/6103214004 | ClickHouse | Senior Engineering Manager - Security Engineering | United States (remote) | quickcheck7-2026-06-27
+
+## 2026-06-28 — Quick Check
+
+> Quick-check scan: 42 Greenhouse API boards. 5,454 jobs reviewed. 2 new US matches. Report: [scout-quickcheck-2026-06-28.md](../reports/scout-quickcheck-2026-06-28.md)
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5209711008 | Anthropic | Manager, Applied AI Engineering | San Francisco, CA | New York City, NY | quickcheck-2026-06-28
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8568122002 | Databricks | Sr. Specialist Solutions Architect - Data Engineering & Warehousing | United States | quickcheck-2026-06-28
