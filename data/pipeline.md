@@ -4271,3 +4271,12 @@ _None — pipeline is current._
 
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5209711008 | Anthropic | Manager, Applied AI Engineering | San Francisco, CA | New York City, NY | quickcheck-2026-06-28
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8568122002 | Databricks | Sr. Specialist Solutions Architect - Data Engineering & Warehousing | United States | quickcheck-2026-06-28
+
+## 2026-06-29 — Quick Check
+
+> Quick-check scan: 42 Greenhouse API boards. 7,540 jobs reviewed. 4 new US matches. Report: [scout-quickcheck-2026-06-29.md](../reports/scout-quickcheck-2026-06-29.md)
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5285557008 | Anthropic | Staff + Senior Software Engineer, Inference Deployment | San Francisco, CA | New York City, NY | Seattle, WA | quickcheck-2026-06-29
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7778924003 | Rocket Lab | DevOps Engineer II/ Senior | Littleton, CO | quickcheck-2026-06-29
+- [ ] https://www.zipline.com/open-roles?gh_jid=7764239003 | Zipline | Forward Deployed AI Engineer, Operations | South San Francisco, CA | quickcheck-2026-06-29
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5009092007 | Anduril | Staff Software Engineer, Robotics | Bellevue, WA (Seattle metro) | quickcheck-2026-06-29
