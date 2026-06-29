@@ -1,5 +1,15 @@
 # Pipeline — Pending Offers
 
+## 2026-06-29 — Daily Scout
+
+> Scout scan: 24 companies (20 Greenhouse APIs + 4 WebSearch/Lever/Ashby). ~8,000+ jobs reviewed. 0 net-new matches — all already captured by June 25–28 sweeps. Pipeline is current. Report: [scout-2026-06-29.md](../reports/scout-2026-06-29.md)
+
+> **Top unreviewed picks (act on these):**
+> — Anthropic | Manager, Applied AI Engineering | unscored | SF/NYC (Jun 28) → `https://job-boards.greenhouse.io/anthropic/jobs/5209711008`
+> — Temporal | Senior EM, Compute | ★4.3/5 | US Remote $320K–$335K (Jun 24)
+> — Airbnb | EM, Storage SRE | ★4.0/5 | US Remote (Jun 27)
+> — Planet Labs | Senior SE, Storage Infrastructure | ★3.9/5 | Remote US (Jun 25)
+
 ## 2026-06-24 — Quick Check
 
 > Quick-check scan: 42 Greenhouse API boards. 7,479 jobs reviewed. 2 new US matches. Report: [scout-quickcheck-2026-06-24.md](../reports/scout-quickcheck-2026-06-24.md)

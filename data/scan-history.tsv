@@ -17889,3 +17889,27 @@ https://boards-api.greenhouse.io/v1/boards/vast/jobs	2026-06-28	greenhouse-api	(
 https://job-boards.greenhouse.io/anthropic/jobs/5209711008	2026-06-28	quickcheck-2026-06-28	Manager, Applied AI Engineering	Anthropic	new
 https://databricks.com/company/careers/open-positions/job?gh_jid=8568122002	2026-06-28	quickcheck-2026-06-28	Sr. Specialist Solutions Architect - Data Engineering & Warehousing	Databricks	new
 https://job-boards.greenhouse.io/clickhouse/jobs/6103158004	2026-06-28	quickcheck-2026-06-28	Senior Engineering Manager - Security Engineering	ClickHouse	rejected_location
+https://boards-api.greenhouse.io/v1/boards/anthropic/jobs	2026-06-29	greenhouse-api	(board sweep)	Anthropic	scanned
+https://boards-api.greenhouse.io/v1/boards/temporaltechnologies/jobs	2026-06-29	greenhouse-api	(board sweep)	Temporal	scanned
+https://boards-api.greenhouse.io/v1/boards/databricks/jobs	2026-06-29	greenhouse-api	(board sweep)	Databricks	scanned
+https://boards-api.greenhouse.io/v1/boards/andurilindustries/jobs	2026-06-29	greenhouse-api	(board sweep)	Anduril	scanned
+https://boards-api.greenhouse.io/v1/boards/dagsterlabs/jobs	2026-06-29	greenhouse-api	(board sweep)	Dagster	scanned
+https://boards-api.greenhouse.io/v1/boards/fivetran/jobs	2026-06-29	greenhouse-api	(board sweep)	Fivetran	scanned
+https://boards-api.greenhouse.io/v1/boards/aurorainnovation/jobs	2026-06-29	greenhouse-api	(board sweep)	Aurora Innovation	scanned
+https://boards-api.greenhouse.io/v1/boards/chainguard/jobs	2026-06-29	greenhouse-api	(board sweep)	Chainguard	scanned
+https://boards-api.greenhouse.io/v1/boards/scaleai/jobs	2026-06-29	greenhouse-api	(board sweep)	Scale AI	scanned
+https://boards-api.greenhouse.io/v1/boards/clickhouse/jobs	2026-06-29	greenhouse-api	(board sweep)	ClickHouse	scanned
+https://boards-api.greenhouse.io/v1/boards/rocketlab/jobs	2026-06-29	greenhouse-api	(board sweep)	Rocket Lab	scanned
+https://boards-api.greenhouse.io/v1/boards/figureai/jobs	2026-06-29	greenhouse-api	(board sweep)	Figure AI	scanned
+https://boards-api.greenhouse.io/v1/boards/planetlabs/jobs	2026-06-29	greenhouse-api	(board sweep)	Planet Labs	scanned
+https://boards-api.greenhouse.io/v1/boards/samsara/jobs	2026-06-29	greenhouse-api	(board sweep)	Samsara	scanned
+https://boards-api.greenhouse.io/v1/boards/arizeai/jobs	2026-06-29	greenhouse-api	(board sweep)	Arize AI	scanned
+https://boards-api.greenhouse.io/v1/boards/vercel/jobs	2026-06-29	greenhouse-api	(board sweep)	Vercel	scanned
+https://boards-api.greenhouse.io/v1/boards/vast/jobs	2026-06-29	greenhouse-api	(board sweep)	Vast	scanned
+https://boards-api.greenhouse.io/v1/boards/glean/jobs	2026-06-29	greenhouse-api	(board sweep)	Glean	scanned
+https://boards-api.greenhouse.io/v1/boards/runpod/jobs	2026-06-29	greenhouse-api	(board sweep)	RunPod	scanned
+https://boards-api.greenhouse.io/v1/boards/wayve/jobs	2026-06-29	greenhouse-api	(board sweep)	Wayve	scanned
+https://www.lever.co/jobs/spotify	2026-06-29	lever-websearch	(board sweep)	Spotify	scanned
+https://jobs.lever.co/shieldai	2026-06-29	lever-websearch	(board sweep)	Shield AI	scanned
+https://jobs.ashbyhq.com/confluent	2026-06-29	ashby	(board sweep)	Confluent	scanned
+https://jobs.ashbyhq.com/motherduck	2026-06-29	ashby-websearch	(board sweep)	MotherDuck	scanned
