@@ -1,5 +1,18 @@
 # Pipeline — Pending Offers
 
+## 2026-06-30 — Daily Scout
+
+> Scout scan: ~25 companies (20+ Greenhouse APIs + 4 WebSearch/Lever/Ashby). 3 new matches found. Report: [scout-2026-06-30.md](../reports/scout-2026-06-30.md)
+
+#### Top Picks (4.0+)
+
+- [ ] https://careers.airbnb.com/positions/8025475?gh_jid=8025475 | Airbnb | Engineering Manager, Workflow Orchestration | San Francisco, CA (relocation-ok) | ★ 4.3/5 — NEW: Fresh posting for Patrick's #1 domain. Same Data Infrastructure org as Applied EM role. Argo Workflows/K8s orchestration = strongest proof point match. Dream company. Act immediately.
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4689673006 | Chainguard | Engineering Manager, Internal Developer Platform | US Remote ($205K–$230K) | ★ 4.1/5 — NEW: Perfect comp match. K8s + GitOps + observability + DORA metrics = exact stack. Supply chain security leader. Evaluate and generate CV.
+
+#### Other Matches (3.5–3.9)
+
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/6100672004 | Grafana Labs | Staff AI Engineer - Grafana AI/ML | US Remote ($175K–$220K) | ★ 3.5/5 — NEW: Observability company, Staff level, US Remote. LLM/GenAI focus is stretch; comp below target. Lower priority.
+
 ## 2026-06-29 — Daily Scout
 
 > Scout scan: 24 companies (20 Greenhouse APIs + 4 WebSearch/Lever/Ashby). ~8,000+ jobs reviewed. 0 net-new matches — all already captured by June 25–28 sweeps. Pipeline is current. Report: [scout-2026-06-29.md](../reports/scout-2026-06-29.md)
