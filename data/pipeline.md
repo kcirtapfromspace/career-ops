@@ -4324,3 +4324,25 @@ _None — pipeline is current._
 - [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7778924003 | Rocket Lab | DevOps Engineer II/ Senior | Littleton, CO | quickcheck-2026-06-29
 - [ ] https://www.zipline.com/open-roles?gh_jid=7764239003 | Zipline | Forward Deployed AI Engineer, Operations | South San Francisco, CA | quickcheck-2026-06-29
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5009092007 | Anduril | Staff Software Engineer, Robotics | Bellevue, WA (Seattle metro) | quickcheck-2026-06-29
+
+## 2026-07-01 — Quick Check
+
+> Quick-check scan: 35 Greenhouse API boards. 5,800 jobs reviewed. 17 new US matches. Report: [scout-quickcheck-2026-07-01.md](../reports/scout-quickcheck-2026-07-01.md)
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5286493008 | Anthropic | Engineering Manager, Data Architecture | San Francisco, CA | Seattle, WA | quickcheck-2026-07-01
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5240422008 | Anthropic | [P] Data Engineer, Safeguards | San Francisco, CA | New York City, NY | quickcheck-2026-07-01
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5288742008 | Anthropic | Staff+ Software Engineer, Enterprise | San Francisco, CA | New York City, NY | quickcheck-2026-07-01
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5159366007?gh_jid=5159366007 | Anduril | Security Data Engineer | Ashville, Ohio, United States; Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Remote; Seattle, Washington, United States; Washington, District of Columbia, United States | quickcheck-2026-07-01
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5178387007?gh_jid=5178387007 | Anduril | Senior Software Engineer | Broomfield, Colorado, United States; Fort Collins, Colorado, United States | quickcheck-2026-07-01
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5178403007?gh_jid=5178403007 | Anduril | Senior Software Engineer | Broomfield, Colorado, United States | quickcheck-2026-07-01
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5178391007?gh_jid=5178391007 | Anduril | Senior Software Engineer | Broomfield, Colorado, United States | quickcheck-2026-07-01
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5178100007?gh_jid=5178100007 | Anduril | Senior Software Engineer, Battlespace Awareness  | Broomfield, Colorado, United States | quickcheck-2026-07-01
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5178093007?gh_jid=5178093007 | Anduril | Senior Software Engineer, Rust  | Broomfield, Colorado, United States | quickcheck-2026-07-01
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5178098007?gh_jid=5178098007 | Anduril | Senior Software Engineer, State Estimation  | Broomfield, Colorado, United States | quickcheck-2026-07-01
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5178090007?gh_jid=5178090007 | Anduril | Software Engineer, Battlespace Awareness  | Broomfield, Colorado, United States | quickcheck-2026-07-01
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5178105007?gh_jid=5178105007 | Anduril | Software Engineer, Battlespace Awareness  | Broomfield, Colorado, United States | quickcheck-2026-07-01
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5178094007?gh_jid=5178094007 | Anduril | Software Engineer, Rust  | Broomfield, Colorado, United States | quickcheck-2026-07-01
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4709327005 | Glean | Software Engineer, Cloud Infrastructure | San Francisco, CA | quickcheck-2026-07-01
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8614636002 | Wayve | Applied Scientist / Machine Learning Engineer | Sunnyvale | quickcheck-2026-07-01
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8614457002 | Wayve | Staff Machine Learning Engineer, Vision Models | Sunnyvale | quickcheck-2026-07-01
+- [ ] https://www.zipline.com/open-roles?gh_jid=7791991003 | Zipline | Frontend - Data Platform (Autonomy) | South San Francisco, California, USA | quickcheck-2026-07-01
