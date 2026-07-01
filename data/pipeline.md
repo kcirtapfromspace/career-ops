@@ -1,5 +1,36 @@
 # Pipeline — Pending Offers
 
+## 2026-07-01 — Daily Scout
+
+> Scout scan: ~26 companies (9 Greenhouse APIs + 3 WebSearch/Ashby). ~9,000+ jobs reviewed. 12 new matches. Report: [scout-2026-07-01.md](../reports/scout-2026-07-01.md)
+
+#### Top Picks (4.0+)
+
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4689751005 | Scale AI | Senior AI Infrastructure Engineer, Training Platform | SF / Seattle / NYC ($216K–$270K) | ★ 4.4/5 — NEW: K8s operators, Go/Rust/Python, GPU cluster orchestration. Best comp of the week. Seattle relocate-ok. Evaluate immediately.
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4689477006 | Chainguard | Principal Software Engineer (Athena) | US Remote ($220K–$258K) | ★ 4.3/5 — NEW: Principal IC, vulnerability data clearinghouse, Go/GCP/Terraform. Complements EM Chainguard role. Apply alongside.
+- [ ] https://careers.confluent.io/jobs/14825160-staff-software-engineer-flink-control-plane | Confluent | Staff Software Engineer, Flink Control Plane | Remote — US | ★ 4.0/5 — NEW: Flink control plane at the Kafka company. Patrick's CDC pipeline experience = direct fit. Verify comp manually (JD blocked).
+
+#### Strong Matches (3.8–3.9)
+
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8603361002 | Databricks | Engineering Manager, Serverless Compute Platform | Bellevue, WA ($180K–$225K) | ★ 3.9/5 — NEW: Greenfield Execution Sandbox Service. EM role, multi-cloud, K8s. Bellevue = Seattle metro relocate-ok.
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4689447006 | Chainguard | Staff Software Engineer (Athena) | US Remote ($170K–$231K) | ★ 3.9/5 — NEW: Same Athena team as Principal role. Apply to Principal first; this as fallback.
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4625271005 | Scale AI | Engineering Manager, AgentOps | SF / NYC ($252K–$315K) | ★ 3.8/5 — NEW: Highest comp of the week. In-person SF/NYC. Agent development platform EM. Relocation required.
+- [ ] https://jobs.ashbyhq.com/confluent/79c5035c-4266-40f0-86e1-84d067ed77b1 | Confluent | Staff Software Engineer, Flink SQL | Remote — US | ★ 3.8/5 — NEW: Stream processing + SQL abstraction. Patrick's dbt/Kafka stack is direct proof. Comp unknown — verify.
+
+#### Other Matches (3.5–3.7)
+
+- [ ] https://jobs.ashbyhq.com/confluent/29920de0-8dfc-4ea4-a97e-9e4a2f4ec083 | Confluent | Staff Software Engineer I, SRE | Remote — US | ★ 3.7/5 — NEW: Confluent Cloud SRE, Staff level. VA.gov Watchtower/DORA metrics = proof point. Comp unknown.
+- [ ] https://careers.confluent.io/jobs/14591420-staff-software-engineer-backend | Confluent | Staff Software Engineer, Backend | Remote — US | ★ 3.7/5 — NEW: Staff backend at Confluent. Distributed systems scope TBD (JD blocked). Verify.
+- [ ] https://jobs.ashbyhq.com/openai/22781653-051b-4c75-8725-b80233c67b1e | OpenAI | Senior Staff Backend Software Engineer, API Platform | San Francisco, CA | ★ 3.7/5 — NEW: Senior Staff at OpenAI, developer platform. SF relocate-ok. JD inaccessible — verify comp/requirements.
+- [ ] https://openai.com/careers/senior-software-engineer-infrastructure-seattle/ | OpenAI | Senior Software Engineer, Infrastructure | Seattle, WA | ★ 3.6/5 — NEW: Infrastructure at OpenAI Seattle office. relocate-ok. Verify if "Senior" = right band for Patrick.
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7787903003 | Fivetran | Senior Platform Software Engineer, Transport | Remote Colorado | ★ 3.6/5 — NEW: Remote CO, data infra platform eng. JD template-only on fetch — verify manually.
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/7603834 | Planet Labs | Senior Software Engineering Manager | US Remote ($160K–$200K national) | ★ 3.5/5 — NEW: Remote EM, data-intensive systems, defense clients. Comp borderline. Federal background is relevant.
+
+#### Unscored (JD inaccessible — verify manually)
+
+- [ ] https://careers.airbnb.com/positions/7988010/ | Airbnb | Senior Data Engineer, People Analytics | US Remote | scout-2026-07-01 (403 on JD fetch)
+- [ ] https://careers.airbnb.com/positions/7927488/ | Airbnb | Engineering Manager, Marketing Technology | US | scout-2026-07-01 (403 on JD fetch)
+
 ## 2026-06-30 — Daily Scout
 
 > Scout scan: ~25 companies (20+ Greenhouse APIs + 4 WebSearch/Lever/Ashby). 3 new matches found. Report: [scout-2026-06-30.md](../reports/scout-2026-06-30.md)

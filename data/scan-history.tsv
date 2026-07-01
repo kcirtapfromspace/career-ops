@@ -17936,3 +17936,35 @@ https://boards-api.greenhouse.io/v1/boards/grafanalabs/jobs	2026-06-30	greenhous
 https://careers.airbnb.com/positions/8025475?gh_jid=8025475	2026-06-30	scout-2026-06-30	Engineering Manager, Workflow Orchestration	Airbnb	new
 https://job-boards.greenhouse.io/chainguard/jobs/4689673006	2026-06-30	scout-2026-06-30	Engineering Manager, Internal Developer Platform	Chainguard	new
 https://job-boards.greenhouse.io/grafanalabs/jobs/6100672004	2026-06-30	scout-2026-06-30	Staff AI Engineer - Grafana AI/ML	Grafana Labs	new
+https://boards-api.greenhouse.io/v1/boards/chainguard/jobs	2026-07-01	scout-2026-07-01	(board sweep)	Chainguard	board_sweep
+https://boards-api.greenhouse.io/v1/boards/clickhouse/jobs	2026-07-01	scout-2026-07-01	(board sweep)	ClickHouse	board_sweep
+https://boards-api.greenhouse.io/v1/boards/scaleai/jobs	2026-07-01	scout-2026-07-01	(board sweep)	Scale AI	board_sweep
+https://boards-api.greenhouse.io/v1/boards/databricks/jobs	2026-07-01	scout-2026-07-01	(board sweep)	Databricks	board_sweep
+https://boards-api.greenhouse.io/v1/boards/fivetran/jobs	2026-07-01	scout-2026-07-01	(board sweep)	Fivetran	board_sweep
+https://boards-api.greenhouse.io/v1/boards/planetlabs/jobs	2026-07-01	scout-2026-07-01	(board sweep)	Planet Labs	board_sweep
+https://boards-api.greenhouse.io/v1/boards/samsara/jobs	2026-07-01	scout-2026-07-01	(board sweep)	Samsara	board_sweep
+https://boards-api.greenhouse.io/v1/boards/airbnb/jobs	2026-07-01	scout-2026-07-01	(board sweep)	Airbnb	board_sweep
+https://jobs.ashbyhq.com/confluent	2026-07-01	scout-2026-07-01	(board sweep)	Confluent	board_sweep
+https://openai.com/careers	2026-07-01	scout-2026-07-01	(board sweep)	OpenAI	board_sweep
+https://job-boards.greenhouse.io/chainguard/jobs/4689447006	2026-07-01	scout-2026-07-01	Staff Software Engineer (Athena)	Chainguard	added
+https://job-boards.greenhouse.io/chainguard/jobs/4689477006	2026-07-01	scout-2026-07-01	Principal Software Engineer (Athena)	Chainguard	added
+https://job-boards.greenhouse.io/clickhouse/jobs/5993847004	2026-07-01	scout-2026-07-01	Senior Data Engineer - dbt, CI/CD	ClickHouse	skipped_comp
+https://job-boards.greenhouse.io/clickhouse/jobs/6009092004	2026-07-01	scout-2026-07-01	Senior Software Engineer (Backend) - AI/ML	ClickHouse	skipped_comp
+https://job-boards.greenhouse.io/clickhouse/jobs/6014112004	2026-07-01	scout-2026-07-01	AI Product Engineer - ClickStack	ClickHouse	skipped_comp
+https://job-boards.greenhouse.io/scaleai/jobs/4625271005	2026-07-01	scout-2026-07-01	Engineering Manager, AgentOps	Scale AI	added
+https://job-boards.greenhouse.io/scaleai/jobs/4689751005	2026-07-01	scout-2026-07-01	Senior AI Infrastructure Engineer - Training Platform	Scale AI	added
+https://databricks.com/company/careers/open-positions/job?gh_jid=8603361002	2026-07-01	scout-2026-07-01	Engineering Manager, Serverless Compute Platform	Databricks	added
+https://www.fivetran.com/careers/job?gh_jid=7787903003	2026-07-01	scout-2026-07-01	Senior Platform Software Engineer, Transport	Fivetran	added_unverified
+https://careers.airbnb.com/positions/7988010/	2026-07-01	scout-2026-07-01	Senior Data Engineer, People Analytics	Airbnb	added_unverified
+https://careers.airbnb.com/positions/7927488/	2026-07-01	scout-2026-07-01	Engineering Manager, Marketing Technology	Airbnb	added_unverified
+https://job-boards.greenhouse.io/planetlabs/jobs/7603834	2026-07-01	scout-2026-07-01	Senior Software Engineering Manager	Planet Labs	added
+https://job-boards.greenhouse.io/planetlabs/jobs/8002692	2026-07-01	scout-2026-07-01	Software Engineer, Compute Team	Planet Labs	skipped_level
+https://job-boards.greenhouse.io/samsara/jobs/7859406	2026-07-01	scout-2026-07-01	Data Engineer II	Samsara	skipped_level
+https://jobs.ashbyhq.com/confluent/29920de0-8dfc-4ea4-a97e-9e4a2f4ec083	2026-07-01	scout-2026-07-01	Staff Software Engineer I - SRE	Confluent	added
+https://jobs.ashbyhq.com/confluent/79c5035c-4266-40f0-86e1-84d067ed77b1	2026-07-01	scout-2026-07-01	Staff Software Engineer - Flink SQL	Confluent	added
+https://careers.confluent.io/jobs/14825160-staff-software-engineer-flink-control-plane	2026-07-01	scout-2026-07-01	Staff Software Engineer - Flink Control Plane	Confluent	added
+https://careers.confluent.io/jobs/14591420-staff-software-engineer-backend	2026-07-01	scout-2026-07-01	Staff Software Engineer - Backend	Confluent	added
+https://careers.confluent.io/jobs/15568119-staff-software-engineer-api-gateway	2026-07-01	scout-2026-07-01	Staff Software Engineer - API Gateway	Confluent	added_unverified
+https://jobs.ashbyhq.com/confluent/7a2da45b-4a80-4742-bbae-a249368b74f8	2026-07-01	scout-2026-07-01	Staff Software Engineer I - Internal Access Management	Confluent	skipped_title
+https://jobs.ashbyhq.com/openai/22781653-051b-4c75-8725-b80233c67b1e	2026-07-01	scout-2026-07-01	Senior Staff Backend Software Engineer, API Platform	OpenAI	added
+https://openai.com/careers/senior-software-engineer-infrastructure-seattle/	2026-07-01	scout-2026-07-01	Senior Software Engineer, Infrastructure	OpenAI	added
