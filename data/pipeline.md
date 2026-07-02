@@ -1,5 +1,19 @@
 # Pipeline — Pending Offers
 
+## 2026-07-02 — Daily Scout
+
+> Scout scan: ~30 companies (18 Greenhouse APIs + 12 WebSearch). 2 new matches + 2 evaluated from 07-01 quickcheck. Report: [scout-2026-07-02.md](../reports/scout-2026-07-02.md)
+
+#### Top Picks (4.0+)
+
+- [ ] https://job-boards.greenhouse.io/andurilindustries/jobs/5159366007 | Anduril | Security Data Engineer | Remote + Seattle/DC/Boston ($129K–$220K + equity) | ★ 4.0/5 — EVALUATED: Dream company. Remote eligible. Go/Rust/DuckDB/Spark/Iceberg exact stack. Federal background (FedRAMP/RBAC/Vault) = direct proof. TS clearance needed. Apply immediately.
+
+#### Other Matches (3.5–3.9)
+
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/6101325004 | ClickHouse | Senior Cloud Engineer - Product Metrics | US Remote ($141K–$230K) | ★ 3.6/5 — NEW: Go/K8s/Terraform/ArgoCD/ClickHouse stack. Petabyte-scale metrics = observability sweet spot. Verify premium market comp tier before applying.
+- [ ] https://jobs.lever.co/spotify/3efb102a-0829-4338-bd73-28387ae010b6 | Spotify | ML Engineering Manager, Personalization | US Remote ($184K–$262K) | ★ 3.5/5 — NEW: EM for Discover Weekly / AI DJ team. Comp in range. ML personalization domain is stretch but infra/orchestration skills apply. Lower priority.
+- [ ] https://job-boards.greenhouse.io/andurilindustries/jobs/5178093007 | Anduril | Senior Software Engineer, Rust | Broomfield, CO (commutable from Denver) ($190K–$252K) | ★ 3.4/5 — EVALUATED: Local to Denver, strong comp. But requires signal processing/state estimation/Bayesian filtering — specialized controls domain mismatch. Secondary priority.
+
 ## 2026-07-01 — Daily Scout
 
 > Scout scan: ~26 companies (9 Greenhouse APIs + 3 WebSearch/Ashby). ~9,000+ jobs reviewed. 12 new matches. Report: [scout-2026-07-01.md](../reports/scout-2026-07-01.md)
