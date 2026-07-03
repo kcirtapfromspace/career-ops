@@ -4406,3 +4406,30 @@ _None — pipeline is current._
 - [ ] https://wayve.firststage.co/jobs?gh_jid=8614636002 | Wayve | Applied Scientist / Machine Learning Engineer | Sunnyvale | quickcheck-2026-07-01
 - [ ] https://wayve.firststage.co/jobs?gh_jid=8614457002 | Wayve | Staff Machine Learning Engineer, Vision Models | Sunnyvale | quickcheck-2026-07-01
 - [ ] https://www.zipline.com/open-roles?gh_jid=7791991003 | Zipline | Frontend - Data Platform (Autonomy) | South San Francisco, California, USA | quickcheck-2026-07-01
+
+## 2026-07-03 — Quick Check (run 2, Anduril + Rocket Lab wave)
+
+> Quick-check scan: 42 Greenhouse API boards. 7,585 jobs reviewed. 14 new preferred-US matches. Report: [scout-quickcheck-2026-07-03.md](../reports/scout-quickcheck-2026-07-03.md)
+
+#### Anduril — Colorado (Denver corridor)
+
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5178402007?gh_jid=5178402007 | Anduril | Senior Software Engineer | Fort Collins, Colorado, United States | quickcheck-2026-07-03
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5178123007?gh_jid=5178123007 | Anduril | Senior Software Engineer, Robotics Tracking and Fusion | Fort Collins, Colorado, United States | quickcheck-2026-07-03
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5178117007?gh_jid=5178117007 | Anduril | Software Engineer, Robotics Tracking and Fusion | Fort Collins, Colorado, United States | quickcheck-2026-07-03
+
+#### Anduril — California (Costa Mesa / Bay Area)
+
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5147775007?gh_jid=5147775007 | Anduril | Frontend Software Engineer | Costa Mesa, California, United States | quickcheck-2026-07-03
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5176538007?gh_jid=5176538007 | Anduril | Staff Software Engineer | Costa Mesa, California, United States | quickcheck-2026-07-03
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5136146007?gh_jid=5136146007 | Anduril | Robotics Software Engineer | Costa Mesa, California, United States | quickcheck-2026-07-03
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5161108007?gh_jid=5161108007 | Anduril | Mission Software Engineer, EW | Costa Mesa, California, United States | quickcheck-2026-07-03
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5178534007?gh_jid=5178534007 | Anduril | Lead Mission Software Engineer, EW | Costa Mesa, California, United States | quickcheck-2026-07-03
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5178546007?gh_jid=5178546007 | Anduril | Senior Mission Software Engineer, EW | Costa Mesa, California, United States | quickcheck-2026-07-03
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5176751007?gh_jid=5176751007 | Anduril | Mission Software Engineer, Vehicle Software, Communications | Boston, MA / Costa Mesa, CA | quickcheck-2026-07-03
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5176752007?gh_jid=5176752007 | Anduril | Mission Software Engineer, Vehicle Software, Consensus | Boston, MA / Costa Mesa, CA | quickcheck-2026-07-03
+
+#### Rocket Lab — Colorado / California
+
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7792719003 | Rocket Lab | Flight Software Engineer II | Littleton, CO | quickcheck-2026-07-03
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7779056003 | Rocket Lab | Flight Software Engineer II | Long Beach, CA | quickcheck-2026-07-03
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7786394003 | Rocket Lab | Senior Software Engineer I | Long Beach, CA | quickcheck-2026-07-03
