@@ -1,5 +1,26 @@
 # Pipeline — Pending Offers
 
+## 2026-07-03 — Quick Check (Greenhouse APIs only)
+
+> Quick check: 42 Greenhouse API companies scanned. 11 new matches. Report: [scout-quickcheck-2026-07-03.md](../reports/scout-quickcheck-2026-07-03.md)
+
+#### High Priority
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5290837008 | Anthropic | Engineering Manager, Agent Runtime Platform | SF / Seattle | ★ — Dream company. EM for agent runtime infra. SF or Seattle. Evaluate immediately.
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5289450008 | Anthropic | Staff+ Software Engineer, Vertical AI Products (Multiple Roles) | SF / NYC | ★ — Dream company. Staff+ IC product engineering. SF acceptable.
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5290360008 | Anthropic | [Pipeline] Staff+ Software Engineer, Developer Acceleration | SF / Seattle | ★ — Dream company. Staff+ dev tooling. SF or Seattle.
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5290468008 | Anthropic | [Pipeline] Staff+ Software Engineer, Experimentation | SF / Seattle | ★ — Dream company. Staff+ experimentation platform. SF or Seattle.
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/8008355 | Planet Labs | Software Engineer, Missions Software | US Remote / Canada Remote | ★ — Space/Earth observation. US remote. Missions software = flight/ground systems. Evaluate.
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4711861005 | Glean | Software Engineer, Cloud Deployment Infrastructure | San Francisco, CA | ★ — Enterprise AI search. Cloud deployment infra. SF.
+
+#### Other Matches
+
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5178957007 | Anduril | Software Engineer, Game Development (Simulation) | Seattle, WA | — Defense simulation platform. Anduril dream company. Seattle.
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5177318007 | Anduril | Senior Software Engineer, Realtime Imaging | Boulder, CO | — Defense tech. Boulder/Denver corridor.
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5179751007 | Anduril | Senior Software Engineer, Radar | Broomfield, CO / Fort Collins, CO | — Defense radar software. Broomfield is Denver metro.
+- [ ] https://www.zipline.com/open-roles?gh_jid=7793254003 | Zipline | Senior Software Engineer, Maintenance | South San Francisco, CA | — Hardware moat drone delivery. Maintenance/reliability engineering.
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4710484005 | Scale AI | Software Engineer, Identity | SF / NYC | — IAM/auth at Scale AI. SF acceptable.
+
 ## 2026-07-03 — Daily Scout
 
 > Scout scan: 31 companies (20 Greenhouse API + 11 WebSearch). 10 new matches. Report: [scout-2026-07-03.md](../reports/scout-2026-07-03.md)
