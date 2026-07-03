@@ -1,5 +1,30 @@
 # Pipeline — Pending Offers
 
+## 2026-07-03 — Daily Scout
+
+> Scout scan: 31 companies (20 Greenhouse API + 11 WebSearch). 10 new matches. Report: [scout-2026-07-03.md](../reports/scout-2026-07-03.md)
+
+#### Top Picks (4.0+)
+
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8442397002 | Airtable | Software Engineer, Compute (8+ YOE) | US Remote ($196K–$340K) | ★ 4.8/5 — NEW: K8s ~70 clusters, 70% IC / 30% leadership, US remote, top-of-market comp. Patrick's Workiva K8s multi-cluster experience = direct proof. **Act immediately.**
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8400388002 | Airtable | Software Engineer, Infrastructure (8+ YOE) | SF/NYC/Seattle Remote ($196K–$340K) | ★ 4.3/5 — NEW: Three teams (Compute, Dev Platform CI/CD, Traffic Eng/API gateway). Seattle remote = acceptable relocation. Top comp. Apply alongside Compute role.
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5701765004 | Vercel | Engineering Manager, CDN | San Francisco, CA ($196K–$336K) | ★ 4.2/5 — NEW: CDN/proxy/edge infra EM. 8+ yr distributed systems + 3+ yr managing req. SF relocation-ok. Strong EM profile match.
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5461002004 | Vercel | Sr. Engineering Manager, Platform | SF/NYC hybrid ($208K–$300K) | ★ 4.0/5 — NEW: Leads Reliability & Resilience + Dev Productivity teams. K8s/API gateways/storage/observability = Patrick's exact stack. SF relocation-ok.
+
+#### Other Matches (3.5–3.9)
+
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5798406004 | Vercel | Software Engineer, AI Gateway | SF/NYC hybrid ($196K–$294K) | ★ 3.9/5 — NEW: AI model routing, rate limiting, failovers across OpenAI/Anthropic/Google. Distributed systems depth = fit. SF relocation-ok.
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5798416004 | Vercel | Software Engineer, Workflows | SF/NYC hybrid ($196K–$294K) | ★ 3.8/5 — NEW: Agentic workflows + AI integrations, TypeScript. SF relocation-ok.
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5633880004 | Vercel | Software Engineer, Deployment Infrastructure | SF/NYC hybrid | ★ 3.8/5 — NEW: Deployment infra engineering. SF relocation-ok. Verify comp.
+- [ ] https://job-boards.eu.greenhouse.io/polyai/jobs/4796935101 | PolyAI | Forward Deployed AI Engineer | US Remote PST ($150K–$190K) | ★ 3.7/5 — NEW: Voice AI deployment. Remote US (PST req — MST compatible). Python/K8s/Docker/SIP. Comp borderline at upper range.
+- [ ] https://careers.airbnb.com/positions/8014904 | Airbnb | Senior ML Engineer, Customer Support Engineering | TBD (Dream company) | ★ 3.6/5 — NEW: Dream company. Comp/remote TBD — verify manually.
+- [ ] https://careers.airbnb.com/positions/8024267 | Airbnb | ML Engineer, Community Support Engineering | TBD (Dream company) | ★ 3.5/5 — NEW: Dream company. Comp/remote TBD — verify manually.
+- [ ] https://job-boards.greenhouse.io/blackforestlabs/jobs/5019171008 | Black Forest Labs | MTS — Large Scale Data Infrastructure | SF hybrid ($150K–$300K US) | ★ 3.5/5 — NEW: Frontier AI lab. Petabyte-scale training data infra, multi-cloud object storage. Stack is Python/PyTorch — less K8s/Kafka but exciting domain. SF relocation-ok.
+
+#### Unscored (JD inaccessible — verify manually)
+
+- [ ] https://jobs.ashbyhq.com/elevenlabs/e53c5be6-5c1a-4870-ad85-8397a1f201de | ElevenLabs | Data Engineer | US? | scout-2026-07-03 (JD not loading — verify location + comp)
+
 ## 2026-07-02 — Daily Scout
 
 > Scout scan: ~30 companies (18 Greenhouse APIs + 12 WebSearch). 2 new matches + 2 evaluated from 07-01 quickcheck. Report: [scout-2026-07-02.md](../reports/scout-2026-07-02.md)
