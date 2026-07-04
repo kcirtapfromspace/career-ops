@@ -4433,3 +4433,13 @@ _None — pipeline is current._
 - [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7792719003 | Rocket Lab | Flight Software Engineer II | Littleton, CO | quickcheck-2026-07-03
 - [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7779056003 | Rocket Lab | Flight Software Engineer II | Long Beach, CA | quickcheck-2026-07-03
 - [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7786394003 | Rocket Lab | Senior Software Engineer I | Long Beach, CA | quickcheck-2026-07-03
+
+## 2026-07-04 — Quick Check (Greenhouse API, 42 boards)
+
+> Quick-check scan: 42 Greenhouse API boards. ~6,200 jobs reviewed. 3 new matches. Report: [scout-quickcheck-2026-07-04.md](../reports/scout-quickcheck-2026-07-04.md)
+
+#### Anduril — Colorado / Seattle
+
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5179751007?gh_jid=5179751007 | Anduril | Senior Software Engineer, Radar | Broomfield, Colorado, United States; Fort Collins, Colorado, United States | quickcheck-2026-07-04
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5177318007?gh_jid=5177318007 | Anduril | Senior Software Engineer, Realtime Imaging | Boulder, Colorado, United States | quickcheck-2026-07-04
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5178957007?gh_jid=5178957007 | Anduril | Software Engineer, Game Development | Seattle, Washington, United States | quickcheck-2026-07-04
