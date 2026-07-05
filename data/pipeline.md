@@ -4443,3 +4443,43 @@ _None — pipeline is current._
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5179751007?gh_jid=5179751007 | Anduril | Senior Software Engineer, Radar | Broomfield, Colorado, United States; Fort Collins, Colorado, United States | quickcheck-2026-07-04
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5177318007?gh_jid=5177318007 | Anduril | Senior Software Engineer, Realtime Imaging | Boulder, Colorado, United States | quickcheck-2026-07-04
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5178957007?gh_jid=5178957007 | Anduril | Software Engineer, Game Development | Seattle, Washington, United States | quickcheck-2026-07-04
+
+## 2026-07-05 — Scout Scan
+
+> Full portal scan: 42+ Greenhouse API boards, Ashby, Lever, WebSearch. ~8,500 jobs reviewed. 15 new matches. Report: [scout-2026-07-05.md](../reports/scout-2026-07-05.md)
+
+#### Temporal — US Remote (Workflow Orchestration Platform)
+
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5164459007 | Temporal | Senior Engineering Manager, Compute | US Remote | scout-2026-07-05
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5119529007 | Temporal | Staff Software Engineer, Observability | US Remote | scout-2026-07-05
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5038049007 | Temporal | Senior Staff Software Engineer, Infrastructure | US Remote | scout-2026-07-05
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5107194007 | Temporal | Staff Software Engineer, Infrastructure Foundations | US Remote | scout-2026-07-05
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5125079007 | Temporal | Staff Software Engineer, AI Foundations | US Remote | scout-2026-07-05
+
+#### Anthropic — San Francisco / Seattle
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5290837008 | Anthropic | Engineering Manager, Agent Runtime Platform | San Francisco / Seattle | scout-2026-07-05
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5286493008 | Anthropic | Engineering Manager, Data Architecture | San Francisco / Seattle | scout-2026-07-05
+
+#### Databricks — Bellevue, WA (Seattle area)
+
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8324875002 | Databricks | Engineering Manager, Streaming | Bellevue, WA | scout-2026-07-05
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8603361002 | Databricks | Engineering Manager, Serverless Compute Platform | Bellevue, WA | scout-2026-07-05
+
+#### dbt Labs — US Remote
+
+- [ ] https://job-boards.greenhouse.io/dbtlabsinc/jobs/4686309005 | dbt Labs | Senior Engineering Manager - Infrastructure | US Remote | scout-2026-07-05
+- [ ] https://job-boards.greenhouse.io/dbtlabsinc/jobs/4666468005 | dbt Labs | Staff Software Engineer, Quality and Release Platform | US Remote | scout-2026-07-05
+
+#### Chainguard — US Remote
+
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4689673006 | Chainguard | Engineering Manager, Internal Developer Platform | US Remote | scout-2026-07-05
+
+#### Planet Labs — US Remote
+
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/7603834 | Planet Labs | Senior Software Engineering Manager | US Remote | scout-2026-07-05
+
+#### Clickhouse / Samsara — US Remote
+
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5778617004 | Clickhouse | Cloud Database Infrastructure Engineer | US Remote | scout-2026-07-05
+- [ ] https://job-boards.greenhouse.io/samsara/jobs/7922530 | Samsara | Senior Software Engineer, Data Platform | US Remote | scout-2026-07-05
