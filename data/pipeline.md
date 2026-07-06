@@ -4483,3 +4483,13 @@ _None — pipeline is current._
 
 - [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5778617004 | Clickhouse | Cloud Database Infrastructure Engineer | US Remote | scout-2026-07-05
 - [ ] https://job-boards.greenhouse.io/samsara/jobs/7922530 | Samsara | Senior Software Engineer, Data Platform | US Remote | scout-2026-07-05
+
+## 2026-07-06 — Scout Scan
+
+> Scout scan: 23 Greenhouse API boards + 9 WebSearch/Lever/Ashby companies. ~7,200 jobs reviewed. 3 new matches. Report: [scout-2026-07-06.md](../reports/scout-2026-07-06.md)
+
+#### Other Matches (3.5–3.9)
+
+- [ ] https://jobs.lever.co/spotify/4303f795-d0a5-41ed-8c78-0941780b6e54 | Spotify | Data Engineer – Platform | US Remote (~$185K–$220K est.) | ★ 3.8/5 — NEW: Powers Discover Weekly, Wrapped data pipelines. CDC/Kafka/dbt stack = direct fit. Comp needs verification. Remote US.
+- [ ] https://jobs.lever.co/spotify/4418feec-977a-4bb4-956a-09f0bfac8566 | Spotify | Senior Data Engineer - Partner & Platform Experience | US Remote or Stockholm | ★ 3.6/5 — NEW: API/platform infra for Spotify developer ecosystem. Verify US remote availability and comp before applying.
+
