@@ -1,5 +1,19 @@
 # Pipeline — Pending Offers
 
+## 2026-07-06 — Quick Check (Greenhouse APIs only)
+
+> Quick check: 42 Greenhouse API companies scanned. 4 new matches. Report: [scout-quickcheck-2026-07-06.md](../reports/scout-quickcheck-2026-07-06.md)
+
+#### High Priority
+
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8621706002 | Databricks | Sr. Engineering Manager, AI Runtime | Mountain View / San Francisco | ★ — Major data/AI platform ($43B). EM for AI Runtime at a company Patrick has direct stack experience with. SF acceptable. Evaluate.
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5180557007 | Anduril | Software Engineer, Battlespace Awareness | Fort Collins, CO | ★ — Dream company. Fort Collins = Denver corridor. Battlespace Awareness = distributed sensor fusion / data pipelines. Strong domain fit.
+
+#### Other Matches (location flag)
+
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5180410007 | Anduril | Senior Data Engineer | Costa Mesa, CA | ⚠ relocation — Dream company but SoCal. Data engineering at Anduril. Worth evaluating if open to relocation.
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5180605007 | Anduril | Senior Software Engineer, Secure XR (Sand Table) | Costa Mesa, CA | ⚠ relocation — Defense simulation/XR. Dream company but SoCal + specialized XR domain.
+
 ## 2026-07-03 — Quick Check (Greenhouse APIs only)
 
 > Quick check: 42 Greenhouse API companies scanned. 11 new matches. Report: [scout-quickcheck-2026-07-03.md](../reports/scout-quickcheck-2026-07-03.md)
