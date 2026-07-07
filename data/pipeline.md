@@ -1,5 +1,24 @@
 # Pipeline — Pending Offers
 
+## 2026-07-07 — Quick Check (Greenhouse APIs only)
+
+> Quick check: 42 Greenhouse API companies scanned, 7,259 jobs seen. 6 new matches (5 accept + 1 location-flag). Report: [scout-quickcheck-2026-07-07.md](../reports/scout-quickcheck-2026-07-07.md)
+
+#### High Priority
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5297059008 | Anthropic | Engineering Manager, Research Data Platform | San Francisco, CA / New York City, NY | ★ — Dream company. EM for Research Data Platform. SF or NYC. Data infra leadership at frontier AI lab. Evaluate immediately.
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5301737008 | Anthropic | Staff+ Software Engineer, Caching | San Francisco, CA / New York City, NY / Seattle, WA | ★ — Dream company. Staff+ IC on caching systems. SF/NYC/Seattle. Distributed systems at scale. Evaluate.
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5301750008 | Anthropic | Staff+ Software Engineer, Databases | San Francisco, CA / New York City, NY / Seattle, WA | ★ — Dream company. Staff+ IC on database systems. SF/NYC/Seattle. Core infra domain fit.
+- [ ] https://www.samsara.com/company/careers/roles/8044126?gh_jid=8044126 | Samsara | Senior Software Engineer II, DevEx, OPX | Remote - US | ★ — US remote. IoT + AI platform. Dev experience engineering. Remote.
+
+#### Other Matches
+
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6105394004 | Vercel | Software Engineer, CDN Content | Hybrid - San Francisco | — AI SDK / edge infra. CDN content engineering. SF hybrid.
+
+#### Location-Flagged (NYC only, no remote)
+
+- [ ] https://job-boards.greenhouse.io/humeai/jobs/4816209008 | Hume AI | Senior Software Engineer - Backend & Machine Learning | New York, NY | ⚠ NYC only — no remote. Empathic voice AI. Backend + ML. Skip unless open to relocation.
+
 ## 2026-07-06 — Quick Check (Greenhouse APIs only)
 
 > Quick check: 42 Greenhouse API companies scanned. 4 new matches. Report: [scout-quickcheck-2026-07-06.md](../reports/scout-quickcheck-2026-07-06.md)
