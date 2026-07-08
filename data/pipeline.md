@@ -1,5 +1,24 @@
 # Pipeline — Pending Offers
 
+## 2026-07-08 — Quick Check (Greenhouse APIs only)
+
+> Quick check: 42 Greenhouse API companies scanned, 7,280 jobs seen. 4 new matches + 2 location flags. Report: [scout-quickcheck-2026-07-08.md](../reports/scout-quickcheck-2026-07-08.md)
+
+#### High Priority
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5301112008 | Anthropic | Engineering Manager, Continuous Deployment and Change Safety | San Francisco, CA / New York City, NY | ★ — Dream company. EM for CD and change safety systems. SF or NYC. Engineering leadership at frontier AI lab. Evaluate immediately.
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/8016466 | Planet Labs | Senior Data Engineer | Washington DC; Denver, CO | ★ — Space/Earth observation. Denver office explicit. Senior DE at satellite imaging company. Strong domain fit.
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5130646007 | Anduril | Software Engineer, Cloud OS | Seattle, WA | ★ — Dream company. Cloud OS infrastructure engineering. Seattle accepted. Core distributed systems domain fit.
+
+#### Other Matches
+
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4711898005 | Scale AI | Senior Software Engineer, Identity | San Francisco, CA / New York, NY / Washington, DC | — AI data infrastructure ($7.3B). Identity engineering at scale. SF or NYC acceptable.
+
+#### Location-Flagged (relocation needed)
+
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5167630007 | Anduril | Software Engineer - Maritime Integrated Systems | Quincy, MA | ⚠ relocation — Dream company but Quincy MA (East Coast). Maritime defense systems. Worth evaluating if open to relocation.
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5182048007 | Anduril | Sr. Software Engineer - Maritime Integrated Systems | Quincy, MA | ⚠ relocation — Dream company but Quincy MA. Senior maritime defense role. Same caveat as above.
+
 ## 2026-07-07 — Quick Check (Greenhouse APIs only)
 
 > Quick check: 42 Greenhouse API companies scanned, 7,259 jobs seen. 6 new matches (5 accept + 1 location-flag). Report: [scout-quickcheck-2026-07-07.md](../reports/scout-quickcheck-2026-07-07.md)
