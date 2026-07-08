@@ -4560,3 +4560,19 @@ _None — pipeline is current._
 - [ ] https://job-boards.greenhouse.io/dbtlabsinc/jobs/4545479005 | dbt Labs | Senior Software Engineer II, Cost Management | US Remote | ★ 3.5/5 — Cost/billing infrastructure at dbt Labs. Remote. Evaluate if Temporal/Anduril don't pan out.
 - [ ] https://job-boards.greenhouse.io/dbtlabsinc/jobs/4586411005 | dbt Labs | Data Engineer | US Remote | ★ 3.5/5 — Data engineering at dbt Labs itself. Direct stack match (dbt, Airflow, Spark). Remote.
 - [ ] https://job-boards.greenhouse.io/dbtlabsinc/jobs/4572855005 | dbt Labs | Senior Software Engineer | US Remote | ★ 3.4/5 — Senior SE at dbt Labs. Remote. Lowest priority in this batch.
+
+## 2026-07-08 — Quickcheck #2 (22:34 UTC)
+
+> Quickcheck #2: 42 Greenhouse boards. 140 new URL records. 1 new match + 1 location flag.
+
+### New Match
+
+#### Anthropic — San Francisco, CA | New York City, NY
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5304425008 | Anthropic | Staff Software Engineer, Labs: Applied AI | SF / NYC | ★ 4.5/5 — NEW: Staff-level Applied AI role at Anthropic — builds the hands-on demos, applied research tooling, and product prototypes for Claude Labs. Posted/updated at 15:55 EDT today (after prior quickchecks). SF location accepted.
+
+### Location Flag (not added to queue — needs manual review)
+
+#### Anduril — Lexington, Massachusetts
+
+- ⚑ https://boards.greenhouse.io/andurilindustries/jobs/5182720007?gh_jid=5182720007 | Anduril | Senior Mission Software Engineer | Lexington, MA | Dream company but MA location — relocation would be required. Skip unless Patrick is open to East Coast.
