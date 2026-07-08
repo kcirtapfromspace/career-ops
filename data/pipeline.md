@@ -4526,3 +4526,18 @@ _None — pipeline is current._
 - [ ] https://jobs.lever.co/spotify/4303f795-d0a5-41ed-8c78-0941780b6e54 | Spotify | Data Engineer – Platform | US Remote (~$185K–$220K est.) | ★ 3.8/5 — NEW: Powers Discover Weekly, Wrapped data pipelines. CDC/Kafka/dbt stack = direct fit. Comp needs verification. Remote US.
 - [ ] https://jobs.lever.co/spotify/4418feec-977a-4bb4-956a-09f0bfac8566 | Spotify | Senior Data Engineer - Partner & Platform Experience | US Remote or Stockholm | ★ 3.6/5 — NEW: API/platform infra for Spotify developer ecosystem. Verify US remote availability and comp before applying.
 
+
+## 2026-07-08 — Scout Scan
+
+### Top Finds
+
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5178158007 | Temporal | Staff Software Engineer, Nexus SDK | US Remote | ★ 4.5/5 — NEW: Staff-level Nexus SDK role. Temporal's cross-cluster workflow protocol built in Go. Direct match for Argo Workflows expertise (Workiva multi-cluster K8s). Best new find this scan. Apply within 48h.
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5181986007 | Anduril | Senior Software Engineer, API/SDK | Seattle, WA | ★ 4.0/5 — NEW: Different from Lead SE API/SDK (4754841007) already in pipeline. Dream company, defense-grade mission-critical culture, Seattle relocation OK. Senior level but strong comp expected ($190K–$260K+).
+
+### dbt Labs — Senior SE roles (US Remote, dbt in Patrick's active stack)
+
+- [ ] https://job-boards.greenhouse.io/dbtlabsinc/jobs/4510056005 | dbt Labs | Senior Software Engineer II, Backend | US Remote | ★ 3.6/5 — Backend systems at dbt Labs. Below Staff target but US remote and dbt in stack (Modern Data Stack demo proof).
+- [ ] https://job-boards.greenhouse.io/dbtlabsinc/jobs/4664640005 | dbt Labs | Senior Software Engineer II | US Remote | ★ 3.5/5 — General senior SE II at dbt Labs. Remote. Secondary priority.
+- [ ] https://job-boards.greenhouse.io/dbtlabsinc/jobs/4545479005 | dbt Labs | Senior Software Engineer II, Cost Management | US Remote | ★ 3.5/5 — Cost/billing infrastructure at dbt Labs. Remote. Evaluate if Temporal/Anduril don't pan out.
+- [ ] https://job-boards.greenhouse.io/dbtlabsinc/jobs/4586411005 | dbt Labs | Data Engineer | US Remote | ★ 3.5/5 — Data engineering at dbt Labs itself. Direct stack match (dbt, Airflow, Spark). Remote.
+- [ ] https://job-boards.greenhouse.io/dbtlabsinc/jobs/4572855005 | dbt Labs | Senior Software Engineer | US Remote | ★ 3.4/5 — Senior SE at dbt Labs. Remote. Lowest priority in this batch.
