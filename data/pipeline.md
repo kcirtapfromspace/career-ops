@@ -4597,3 +4597,25 @@ _None — pipeline is current._
 #### Anduril — Lexington, Massachusetts
 
 - ⚑ https://boards.greenhouse.io/andurilindustries/jobs/5182720007?gh_jid=5182720007 | Anduril | Senior Mission Software Engineer | Lexington, MA | Dream company but MA location — relocation would be required. Skip unless Patrick is open to East Coast.
+
+## 2026-07-09 — Quickcheck GH (Greenhouse-only)
+
+> Quickcheck GH: 42 Greenhouse boards scanned. 158 title-filtered candidates. 4 new matches after dedup against scan history.
+
+### New Matches
+
+#### Anthropic — San Francisco, CA | New York City, NY
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5316593008 | Anthropic | Engineering Manager, Agent Runtime Platform | SF / NYC | ★ 3.9/5 — NEW: EM role on the Agent Runtime Platform team at Anthropic. Management track (not IC), but Anthropic is top-tier and Agent Runtime is core infra. SF/NYC locations accepted. Evaluate if open to EM path.
+
+#### Glean — Mountain View, CA
+
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4654834005 | Glean | Lead Site Reliability Engineer | Mountain View, CA | ★ 3.8/5 — NEW: Lead SRE at Glean (enterprise AI search). Mountain View = SF Bay Area accepted. SRE/infra leadership with AI company context. Evaluate against IC seniority target.
+
+#### Databricks — United States (Remote)
+
+- [ ] https://job-boards.greenhouse.io/databricks/jobs/8625462002 | Databricks | Applied AI Engineer, Learning Intelligence | US Remote | ★ 4.2/5 — NEW: Applied AI engineering at Databricks on the Learning Intelligence team. Fully remote. Strong match for Patrick's AI/data stack depth (Spark, MLflow, orchestration). High-priority evaluate.
+
+#### ClickHouse — Remote US
+
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/6107514004 | ClickHouse | Senior Software Engineer - Python and Data Ecosystem | Remote US | ★ 3.7/5 — NEW: Senior SE (below Staff target) on the Python/data ecosystem team at ClickHouse. Remote US. Evaluate if seniority gap is acceptable given ClickHouse's niche and Patrick's Python/data credentials.
