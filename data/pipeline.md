@@ -1,5 +1,26 @@
 # Pipeline — Pending Offers
 
+## 2026-07-09 — Daily Scout
+
+> Scout scan: 40 companies (38 Greenhouse API + 4 WebSearch). 11 new matches. Report: [scout-2026-07-09.md](../reports/scout-2026-07-09.md)
+
+#### Top Picks (4.0+)
+- [ ] https://jobs.ashbyhq.com/hinge-health/ca8b6c73-f88e-4e4c-b782-ece3ca3ad4e7 | Hinge Health | Senior Staff Data Engineer, Data & ML Platform | Remote (US) | ★ 4.3/5 — Staff-level data + ML platform; powers analytics, product, and ML; strong dbt/Spark alignment
+- [ ] https://jobs.ashbyhq.com/applied/e7264a76-6f29-4f6c-b449-edc2225d7905 | Applied Intuition | Senior MLOps Engineer | Sunnyvale, CA / Remote? | ★ 4.2/5 — MLOps at top AV company, defense-adjacent, likely K8s + Airflow stack; verify remote eligibility
+- [ ] https://jobs.ashbyhq.com/character/13006848-6a69-4467-9274-5d54e80b965d | Character.AI | Machine Learning Infrastructure Engineer | Remote (US) | ★ 4.1/5 — ML training + serving infrastructure at leading consumer AI company
+
+#### Other Matches (3.5–3.9)
+- [ ] https://jobs.lever.co/outreach/20c4e4e8-65a9-4777-8d89-8277842d300a | Outreach | Staff Software Engineer - AI | Remote (US) | ★ 3.9/5 — Go required + Python, AI/ML in production + data pipelines, distributed systems at scale
+- [ ] https://jobs.ashbyhq.com/tennr/4057c11d-f9aa-42e4-8b52-ad98a3f94d2f | Tennr | ML Infrastructure Engineer | Remote (US) | ★ 3.8/5 — Own ML training + inference pipelines at medical AI startup; growing team
+- [ ] https://jobs.ashbyhq.com/wrapbook/30c738bd-bcaa-464a-9ff0-c6f63fa176b0 | Wrapbook | Senior Data Platform Engineer II | Remote (US) | ★ 3.7/5 — Data platform at entertainment-industry fintech; likely dbt/Spark stack
+- [ ] https://jobs.ashbyhq.com/prior-labs/bd4fe067-0e99-4268-b5ad-d1f8e36c6976 | Prior Labs | Senior ML Infrastructure Engineer | Remote (US?) | ★ 3.7/5 — ML infra at structured-data ML research company; world-class tabular ML
+- [ ] https://jobs.ashbyhq.com/vultr/b2759c10-2c55-4aa9-a2c7-120b12daafe2 | Vultr | Senior Manager, AI Infrastructure Operations | Remote (US) | ★ 3.7/5 — AI infra operations leadership at cloud GPU provider; management track
+- [ ] https://jobs.ashbyhq.com/permitflow/1bd1e1e1-45c2-4d1f-9d1f-15205f377906 | PermitFlow | Engineering Manager | Remote (US) | ★ 3.6/5 — EM remote at construction-tech startup; building core infrastructure team
+- [ ] https://jobs.ashbyhq.com/block-labs/45c8a611-8edf-45dc-ad5e-cea7d94033f6 | Block Labs | Data Platform Engineer | Remote | ★ 3.5/5 — Fully async-remote data platform; crypto-adjacent company (evaluate culture fit)
+
+#### Location-Flagged (relocation needed)
+- [ ] https://www.skydio.com/jobs/aeaa130d-3e8b-42c5-a805-46f056e62fda | Skydio | Senior Software Engineer, Data Platform | San Mateo, CA (in-person) | ⚠ relocation — Autonomous drone company (defense-adjacent); Databricks stack; in-person only
+
 ## 2026-07-08 — Quick Check (Greenhouse APIs only)
 
 > Quick check: 42 Greenhouse API companies scanned, 7,280 jobs seen. 4 new matches + 2 location flags. Report: [scout-quickcheck-2026-07-08.md](../reports/scout-quickcheck-2026-07-08.md)
