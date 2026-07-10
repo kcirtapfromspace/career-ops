@@ -1,5 +1,33 @@
 # Pipeline — Pending Offers
 
+## 2026-07-10 — Quick Check (Greenhouse APIs only)
+
+> Quick check: 42 Greenhouse API companies scanned, 7,278 jobs seen. 9 new US matches + 5 location flags (Anduril/Aurora). Report: [scout-quickcheck-2026-07-10.md](../reports/scout-quickcheck-2026-07-10.md)
+> Note: 6 false positives excluded (Glean/Fivetran India, ClickHouse Israel/Canada); 1 Databricks duplicate URL (same job as 2026-07-09, different redirect URL).
+
+#### High Priority
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5322723008 | Anthropic | Engineering Manager, Safeguards Interventions | San Francisco, CA | ★ — Dream company. EM for safeguards/interventions systems. SF. Engineering leadership at frontier AI lab. Evaluate immediately.
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5183318007?gh_jid=5183318007 | Anduril | Senior Software Engineer, Realtime Imaging | Boulder, CO | ★ — Dream company + Denver area. Realtime imaging systems for defense. Boulder is local. Strong hardware-moat + SWE domain fit. Evaluate immediately.
+
+#### Other Matches
+
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5183565007 | Temporal | Software Engineer, AI Developer Experience @ US Remote | Remote (US) | — Workflow orchestration platform. AI DevEx role: building tooling for AI workloads on Temporal. Strong domain alignment.
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4713145005 | Glean | Software Engineer | Mountain View, CA | — Enterprise AI search. SWE role, generic title — verify scope. Bay Area.
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4713977005 | Glean | Software Engineer | Mountain View, CA | — Enterprise AI search. Second SWE posting (likely different team/org). Bay Area.
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4713608005 | Scale AI | Staff Software Engineer, Full Stack - Gen AI | San Francisco, CA / Seattle, WA | — AI data infrastructure. Staff IC on Gen AI full stack. SF or Seattle.
+- [ ] https://aurora.tech/jobs/8620384002?gh_jid=8620384002 | Aurora Innovation | Software Engineer II, Vehicle Platform Integrations | Mountain View, CA | — Self-driving trucks. Vehicle platform integrations SWE. Bay Area. Denver office company.
+- [ ] https://www.zipline.com/open-roles?gh_jid=7800774003 | Zipline | Senior Software Engineer, Enterprise Systems | South San Francisco, CA | — Drone delivery (hardware moat). Enterprise systems SWE. South SF.
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8625514002 | Wayve | Lead Technical Program Manager, Data | Sunnyvale, CA | — Autonomous vehicle AI (UK company). TPM-Data at Sunnyvale office. Note: TPM, not pure SWE role.
+
+#### Location-Flagged (Anduril — dream company, relocation needed)
+
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5184036007?gh_jid=5184036007 | Anduril | Production Software Engineer | Lexington, MA | ⚠ relocation
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5182721007?gh_jid=5182721007 | Anduril | Senior Deployed Software Engineer | Lexington, MA | ⚠ relocation
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5184035007?gh_jid=5184035007 | Anduril | Senior Manufacturing Software Engineer | Lexington, MA | ⚠ relocation
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5184034007?gh_jid=5184034007 | Anduril | Senior Production Software Engineer | Lexington, MA | ⚠ relocation
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5184546007?gh_jid=5184546007 | Anduril | Senior Software Engineer, Air Defense | Huntsville, AL | ⚠ relocation — Alabama, not remote
+
 ## 2026-07-09 — Daily Scout
 
 > Scout scan: 40 companies (38 Greenhouse API + 4 WebSearch). 11 new matches. Report: [scout-2026-07-09.md](../reports/scout-2026-07-09.md)
