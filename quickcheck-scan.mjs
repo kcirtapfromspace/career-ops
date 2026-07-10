@@ -1,242 +1,274 @@
 #!/usr/bin/env node
-// Greenhouse quick-check scanner for Patrick Deutsch
-// Accept: US Remote, Denver/CO metro, SF Bay Area, Los Gatos, Seattle metro, Bend OR
-// NYC/Chicago without "remote" = REJECT. All non-US = REJECT. Other US cities = REJECT.
+/**
+ * Quick-check scan: Greenhouse API only, no Playwright, no WebSearch.
+ * Reads portals.yml, fetches all companies with api: field, applies filters,
+ * dedups against scan-history.tsv, and appends new matches to pipeline.md.
+ */
 
-import fs from 'fs';
-import path from 'path';
-import { fileURLToPath } from 'url';
+import { readFileSync, appendFileSync, writeFileSync, existsSync } from 'fs';
 
-const __dirname = path.dirname(fileURLToPath(import.meta.url));
+const TODAY = '2026-07-10';
+
+// ── Filters ──────────────────────────────────────────────────────────────────
 
 const POSITIVE = [
-  'software engineer', 'backend engineer', 'data engineer', 'data platform',
-  'platform engineer', 'infrastructure engineer', 'ml engineer', 'machine learning engineer',
-  'engineering manager', 'sre', 'site reliability', 'devops', 'ml platform', 'mlops',
-  'ai engineer', 'ai infrastructure', 'nlp', 'llm', 'full stack engineer',
-  'data architect', 'data infrastructure', 'manager, software', 'manager, data',
-  'manager, platform', 'manager, infrastructure', 'manager, engineering', 'engineering lead',
+  'Software Engineer', 'Backend Engineer', 'Full Stack Engineer',
+  'Engineering Manager', 'Data Engineer', 'Data Architect', 'Data Platform',
+  'Data Infrastructure', 'Platform Engineer', 'Infrastructure Engineer',
+  'Site Reliability', 'SRE', 'DevOps', 'ML Engineer', 'Machine Learning Engineer',
+  'ML Platform', 'MLOps', 'AI Engineer', 'AI Infrastructure', 'NLP', 'LLM',
+  'Manager, Software', 'Manager, Data', 'Manager, Platform',
+  'Manager, Infrastructure', 'Manager, Engineering', 'Engineering Lead',
 ];
+
 const NEGATIVE = [
-  'junior', 'intern', 'early career', '.net', 'java ', 'ios', 'android', 'php', 'ruby', 'embedded',
-  'firmware', 'fpga', 'asic', 'blockchain', 'web3', 'crypto', 'salesforce admin',
-  'sap ', 'oracle ebs', 'mainframe', 'cobol',
+  'Junior', 'Intern', '.NET', 'Java ', 'iOS', 'Android', 'PHP', 'Ruby',
+  'Embedded', 'Firmware', 'FPGA', 'ASIC', 'Blockchain', 'Web3', 'Crypto',
+  'Salesforce Admin', 'SAP ', 'Oracle EBS', 'Mainframe', 'COBOL',
 ];
 
-// Non-US indicators — reject if ANY appear
-const NON_US = [
-  'united kingdom', ' uk)', '(uk)', ', uk,', ', uk ', 'uk (', '- uk', 'uk\n', 'england', 'scotland', 'wales',
-  'london', 'manchester', 'edinburgh',
-  'germany', 'berlin', 'munich', 'münchen', 'hamburg', 'cologne', 'frankfurt',
-  'france', 'paris', 'lyon',
-  'netherlands', 'amsterdam', 'rotterdam',
-  'spain', 'barcelona', 'madrid',
-  'portugal', 'lisbon',
-  'sweden', 'stockholm',
-  'norway', 'oslo',
-  'denmark', 'copenhagen',
-  'finland', 'helsinki',
-  'switzerland', 'zurich', 'zürich', 'geneva', 'lausanne',
-  'austria', 'vienna',
-  'poland', 'warsaw',
-  'belgium', 'brussels',
-  'ireland', 'dublin',
-  'italy', 'milan', 'rome',
-  'czech', 'prague',
-  'hungary', 'budapest',
-  'israel', 'tel aviv',
-  'india', 'bangalore', 'bengaluru', 'mumbai', 'hyderabad', 'pune', 'chennai',
-  'japan', 'tokyo', 'osaka',
-  'south korea', 'seoul',
-  'china', 'beijing', 'shanghai', 'shenzhen',
-  'singapore',
-  'taiwan', 'taipei',
-  'australia', 'sydney', 'melbourne',
-  'canada', 'toronto', 'vancouver', 'montreal', 'ottawa', 'calgary',
-  'brazil', 'são paulo', 'sao paulo',
-  'mexico', 'ciudad de méxico',
-  'argentina', 'buenos aires',
-  'uae', 'dubai',
-  'south africa', 'cape town',
-  'vilnius', 'riga', 'tallinn',
-  'athens', 'greece',
-  'europe', 'emea', 'apac', 'latam',
-];
+// BLOCKED companies (never add)
+const BLOCKED = ['palantir'];
 
-// Accepted US on-site cities (only the explicitly listed + immediate metro)
-const US_ONSITE = [
-  // Denver metro (Patrick's base + Colorado)
-  'denver', 'boulder, co', 'boulder, colorado', 'broomfield, co', 'broomfield, colorado',
-  'fort collins, co', 'fort collins, colorado', 'aurora, co', 'aurora, colorado',
-  // SF Bay Area
-  'san francisco', 'bay area', 'mountain view', 'palo alto', 'sunnyvale',
-  'menlo park', 'redwood city', 'redwood shores', 'santa clara', 'san jose, ca',
-  'san jose, california', 'san mateo', 'foster city', 'oakland', 'berkeley',
-  'south san francisco', 'emeryville', 'burlingame', 'milpitas', 'fremont, ca',
-  'fremont, california', 'cupertino',
-  // Los Gatos
-  'los gatos',
-  // Seattle metro
-  'seattle', 'bellevue, wa', 'bellevue, washington', 'kirkland, wa', 'kirkland, washington',
-  'redmond, wa', 'redmond, washington', 'bothell',
-  // Bend OR
-  'bend, or', 'bend, oregon',
-];
-
-function titleMatches(title) {
+function matchesTitle(title) {
   const t = title.toLowerCase();
-  return POSITIVE.some(p => t.includes(p)) && !NEGATIVE.some(n => t.includes(n));
+  const hasPositive = POSITIVE.some(k => t.includes(k.toLowerCase()));
+  const hasNegative = NEGATIVE.some(k => t.includes(k.toLowerCase()));
+  return hasPositive && !hasNegative;
 }
 
-function locationAccepted(location) {
-  if (!location || location.trim() === '') return true;
-  const l = location.toLowerCase();
+function acceptLocation(location) {
+  if (!location) return true; // blank = potentially remote, accept for review
+  const loc = location.toLowerCase();
 
-  // Non-US always rejected (even with remote)
-  if (NON_US.some(n => l.includes(n))) return false;
+  // Remote anywhere in US
+  if (loc.includes('remote')) return true;
 
-  // US Remote = accept
-  if (l.includes('remote')) return true;
+  // Accept specific US cities
+  if (loc.includes('denver') || loc.includes('colorado')) return true;
+  if (loc.includes('san francisco') || loc === 'sf') return true;
+  if (loc.includes('los gatos')) return true;
+  if (loc.includes('seattle')) return true;
+  if (loc.includes('bend')) return true;
+  if (loc === 'united states' || loc.includes('anywhere in the us')) return true;
 
-  // "United States" / "USA" alone (no specific city) = accept (nationwide/remote)
-  if (/^(united states|usa|u\.s\.)(\s*[\(\)].*)?$/.test(l.trim())) return true;
+  // NYC/Chicago: only accept if "remote" is also present
+  if (loc.includes('new york') || loc.includes('chicago')) {
+    return loc.includes('remote');
+  }
 
-  // Accepted US cities (onsite / hybrid OK)
-  if (US_ONSITE.some(a => l.includes(a))) return true;
-
-  // All other specific US locations (Boston, DC, Atlanta, Chicago, NYC, etc.) = reject
+  // Everything else (international, other US cities) → reject
   return false;
 }
 
-function extractGreenhouseCompanies(yamlPath) {
-  const text = fs.readFileSync(yamlPath, 'utf8');
-  const lines = text.split('\n');
+// ── Minimal YAML parser for portals.yml (just extract api: entries) ───────────
+// We do a simple line-based parse to avoid needing an npm dep
+
+function extractGreenhouseCompanies(yamlText) {
   const companies = [];
   let current = null;
-
-  for (const line of lines) {
-    if (/^\s{2}-\s+name:/.test(line)) {
-      if (current) companies.push(current);
-      current = { name: line.match(/name:\s*(.+)/)[1].trim(), enabled: true, api: null };
-    }
-    if (!current) continue;
-    if (/^\s+api:/.test(line)) current.api = line.match(/api:\s*(.+)/)[1].trim();
-    if (/^\s+enabled:\s*false/.test(line)) current.enabled = false;
-  }
-  if (current) companies.push(current);
-  return companies.filter(c => c.api && c.enabled);
-}
-
-function loadHistory(histPath) {
-  if (!fs.existsSync(histPath)) return new Set();
-  const text = fs.readFileSync(histPath, 'utf8');
-  const seen = new Set();
-  for (const line of text.split('\n')) {
-    const parts = line.split('\t');
-    // Standard format: url\tfirst_seen\tportal\ttitle\tcompany\tstatus (col 0 = URL)
-    // Legacy quickcheck format: date\tcompany\ttitle\turl\tlocation (col 3 = URL)
-    const col0 = parts[0]?.trim();
-    const col3 = parts[3]?.trim();
-    if (col0?.startsWith('http')) seen.add(col0);
-    else if (col3?.startsWith('http')) seen.add(col3);
-  }
-  return seen;
-}
-
-async function fetchJSON(url) {
-  for (let i = 0; i < 3; i++) {
-    try {
-      const res = await fetch(url, {
-        headers: { 'User-Agent': 'career-ops-scanner/1.0' },
-        signal: AbortSignal.timeout(15000),
-      });
-      if (!res.ok) {
-        if (res.status === 404 || res.status === 410) return null;
-        throw new Error(`HTTP ${res.status}`);
+  for (const raw of yamlText.split('\n')) {
+    const line = raw.trimEnd();
+    // Start of a new company entry
+    if (/^  - name:/.test(line)) {
+      if (current && current.api && current.enabled !== false) {
+        companies.push(current);
       }
-      return await res.json();
-    } catch (e) {
-      if (i === 2) return null;
-      await new Promise(r => setTimeout(r, 1200 * (i + 1)));
+      current = { name: line.replace(/^  - name:\s*/, '').trim().replace(/^['"]|['"]$/g, '') };
+    } else if (current) {
+      if (/^\s+api:\s/.test(line)) {
+        current.api = line.replace(/^\s+api:\s*/, '').trim().replace(/^['"]|['"]$/g, '');
+      } else if (/^\s+enabled:\s*false/.test(line)) {
+        current.enabled = false;
+      }
     }
   }
-  return null;
+  // Push last one
+  if (current && current.api && current.enabled !== false) {
+    companies.push(current);
+  }
+  return companies;
 }
 
-async function main() {
-  const today = new Date().toISOString().slice(0, 10);
-  const portalsPath = path.join(__dirname, 'portals.yml');
-  const histPath = path.join(__dirname, 'data', 'scan-history.tsv');
-  const pipelinePath = path.join(__dirname, 'data', 'pipeline.md');
+// ── Load portals.yml ─────────────────────────────────────────────────────────
 
-  const companies = extractGreenhouseCompanies(portalsPath);
-  process.stderr.write(`Scanning ${companies.length} Greenhouse companies...\n`);
+const portalsText = readFileSync('./portals.yml', 'utf8');
+const companies = extractGreenhouseCompanies(portalsText).filter(c =>
+  !BLOCKED.includes((c.name || '').toLowerCase())
+);
 
-  const seen = loadHistory(histPath);
-  process.stderr.write(`Known history: ${seen.size} URLs\n\n`);
+console.log(`Found ${companies.length} companies with Greenhouse API endpoints.`);
 
-  const newMatches = [];
-  const errors = [];
-  let checked = 0;
+// ── Load existing scan history IDs for dedup ──────────────────────────────────
 
-  for (const company of companies) {
-    checked++;
-    process.stderr.write(`[${checked}/${companies.length}] ${company.name}... `);
-    const data = await fetchJSON(company.api + '?content=true');
-    if (!data) {
-      process.stderr.write('FAIL\n');
-      errors.push(company.name);
-      continue;
+const historyPath = './data/scan-history.tsv';
+const historySet = new Set();
+if (existsSync(historyPath)) {
+  // Only scan last 200KB to keep memory reasonable — new jobs will be recent
+  const stat = (await import('fs')).statSync(historyPath);
+  const readStart = Math.max(0, stat.size - 200 * 1024);
+  const fd = (await import('fs')).openSync(historyPath, 'r');
+  const buf = Buffer.alloc(stat.size - readStart);
+  (await import('fs')).readSync(fd, buf, 0, buf.length, readStart);
+  (await import('fs')).closeSync(fd);
+  const chunk = buf.toString('utf8');
+  for (const line of chunk.split('\n')) {
+    if (!line.trim()) continue;
+    const cols = line.split('\t');
+    for (const col of cols) {
+      if (col.startsWith('https://')) historySet.add(col.trim());
     }
+    const idMatch = line.match(/\/jobs\/(\d+)/);
+    if (idMatch) historySet.add(idMatch[1]);
+  }
+  // Also read the full file for IDs (cheap — just regex)
+  // Actually let's scan the whole thing for greenhouse job IDs
+  const fullHistStream = readFileSync(historyPath, 'utf8');
+  for (const m of fullHistStream.matchAll(/\/jobs\/(\d+)/g)) {
+    historySet.add(m[1]);
+  }
+  for (const m of fullHistStream.matchAll(/(https:\/\/boards\.greenhouse\.io\/[^\s\t]+)/g)) {
+    historySet.add(m[1]);
+  }
+}
+console.log(`Loaded ${historySet.size} known job IDs from scan history.`);
 
+// ── Fetch each company's Greenhouse API ──────────────────────────────────────
+
+async function fetchGreenhouseJobs(company) {
+  try {
+    const resp = await fetch(company.api, {
+      headers: { 'User-Agent': 'career-ops-scanner/1.0' },
+      signal: AbortSignal.timeout(20000),
+    });
+    if (!resp.ok) {
+      console.warn(`  ${company.name}: HTTP ${resp.status}`);
+      return [];
+    }
+    const data = await resp.json();
     const jobs = data.jobs || [];
-    let found = 0;
-    let titlePass = 0;
-    for (const job of jobs) {
-      const title = job.title || '';
-      const location = job.location?.name || '';
-      const url = job.absolute_url || '';
-
-      if (!titleMatches(title)) continue;
-      titlePass++;
-      if (!locationAccepted(location)) continue;
-      if (seen.has(url)) continue;
-
-      seen.add(url);
-      found++;
-      newMatches.push({ company: company.name, title, location, url, date: today });
-    }
-    process.stderr.write(found > 0
-      ? `${found} new  (${titlePass} title / ${jobs.length} total)\n`
-      : `ok  (${jobs.length} total, ${titlePass} title match)\n`);
+    return jobs.map(j => ({
+      id: String(j.id),
+      title: j.title || '',
+      url: j.absolute_url || '',
+      location: (j.location && j.location.name) || '',
+      company: company.name,
+    }));
+  } catch (e) {
+    console.warn(`  ${company.name}: fetch error — ${e.message}`);
+    return [];
   }
-
-  process.stderr.write(`\nNew: ${newMatches.length} | Errors: ${errors.length}\n`);
-  if (errors.length > 0) process.stderr.write(`Failed: ${errors.join(', ')}\n`);
-
-  if (newMatches.length > 0) {
-    // Standard TSV format: url\tfirst_seen\tportal\ttitle\tcompany\tstatus
-    const tsv = newMatches.map(m =>
-      `${m.url}\t${m.date}\tgreenhouse-api\t${m.title}\t${m.company}\tmatched`
-    ).join('\n') + '\n';
-    fs.appendFileSync(histPath, tsv);
-
-    const section = `\n### Quick-Check Scan (${today})\n\n` +
-      newMatches.map(m => `- [ ] ${m.url} | ${m.company} | ${m.title} | ${m.location}`).join('\n') + '\n';
-    // Prepend after the first line of pipeline.md (after the H1 + blank line)
-    const existing = fs.readFileSync(pipelinePath, 'utf8');
-    const insertAfter = '## Pendientes\n';
-    const idx = existing.indexOf(insertAfter);
-    if (idx !== -1) {
-      const updated = existing.slice(0, idx + insertAfter.length) + '\n' + section + '\n' + existing.slice(idx + insertAfter.length);
-      fs.writeFileSync(pipelinePath, updated);
-    } else {
-      fs.appendFileSync(pipelinePath, section);
-    }
-    process.stderr.write(`Written to scan-history.tsv + pipeline.md\n`);
-  }
-
-  console.log(JSON.stringify({ newMatches, errors, today }, null, 2));
 }
 
-await main();
+// Fetch in parallel batches of 8
+const BATCH_SIZE = 8;
+const allJobs = [];
+for (let i = 0; i < companies.length; i += BATCH_SIZE) {
+  const batch = companies.slice(i, i + BATCH_SIZE);
+  const results = await Promise.all(batch.map(fetchGreenhouseJobs));
+  for (const jobs of results) allJobs.push(...jobs);
+  if (i + BATCH_SIZE < companies.length) {
+    await new Promise(r => setTimeout(r, 300));
+  }
+}
+
+console.log(`\nFetched ${allJobs.length} total jobs from ${companies.length} APIs.`);
+
+// ── Filter and dedup ──────────────────────────────────────────────────────────
+
+const newMatches = [];
+for (const job of allJobs) {
+  if (!matchesTitle(job.title)) continue;
+  if (!acceptLocation(job.location)) continue;
+  if (!job.url) continue;
+  // Dedup by URL or job ID
+  const jobId = (job.url.match(/\/jobs\/(\d+)/) || [])[1] || job.id;
+  if (historySet.has(job.url) || historySet.has(job.id) || (jobId && historySet.has(jobId))) continue;
+  newMatches.push(job);
+}
+
+console.log(`\nNew matches after filtering and dedup: ${newMatches.length}`);
+
+if (newMatches.length === 0) {
+  console.log('Nothing new. Exiting.');
+  process.exit(0);
+}
+
+for (const job of newMatches) {
+  console.log(`  [${job.company}] ${job.title} — ${job.location || 'no location'}`);
+  console.log(`    ${job.url}`);
+}
+
+// ── Append to scan-history.tsv ────────────────────────────────────────────────
+
+const historyLines = newMatches.map(j =>
+  `${TODAY}\t${j.company}\t${j.url}\t${j.title}\t${j.location || ''}`
+).join('\n') + '\n';
+
+appendFileSync(historyPath, historyLines, 'utf8');
+console.log(`\nAppended ${newMatches.length} entries to scan-history.tsv`);
+
+// ── Append to pipeline.md ─────────────────────────────────────────────────────
+
+const pipelinePath = './data/pipeline.md';
+const pipelineLines = [
+  ``,
+  `<!-- scout-quickcheck ${TODAY} — ${newMatches.length} new -->`,
+  ...newMatches.map(j => `- ${j.url}   <!-- ${j.company}: ${j.title} | ${j.location || 'no location'} -->`),
+  ``,
+].join('\n');
+
+appendFileSync(pipelinePath, pipelineLines, 'utf8');
+console.log(`Appended ${newMatches.length} URLs to pipeline.md`);
+
+// ── Write scout report ────────────────────────────────────────────────────────
+
+const reportPath = `./reports/scout-quickcheck-${TODAY}.md`;
+
+const byCompany = {};
+for (const j of newMatches) {
+  if (!byCompany[j.company]) byCompany[j.company] = [];
+  byCompany[j.company].push(j);
+}
+
+const companyBlocks = Object.entries(byCompany).sort((a,b) => b[1].length - a[1].length).map(([company, jobs]) => {
+  const lines = jobs.map(j =>
+    `- [${j.title}](${j.url}) — ${j.location || 'no location listed'}`
+  ).join('\n');
+  return `### ${company} (${jobs.length})\n${lines}`;
+}).join('\n\n');
+
+const report = `# Scout Quick-Check — ${TODAY}
+
+**Type:** Greenhouse API scan (no WebSearch, no Playwright)
+**Companies checked:** ${companies.length}
+**Total jobs fetched:** ${allJobs.length}
+**New matches (after filter + dedup):** ${newMatches.length}
+
+## Filters applied
+- **Title (positive):** Software Engineer, Data Engineer, ML Engineer, Platform Engineer, SRE, Engineering Manager, Backend Engineer, etc.
+- **Title (negative):** Junior, Intern, .NET, Java, iOS, Android, PHP, Ruby, Embedded, etc.
+- **Location:** US Remote, Denver, SF, Los Gatos, Seattle, Bend (NYC/Chicago remote-only)
+- **Blocked:** Palantir
+
+## New matches by company
+
+${companyBlocks}
+
+---
+*All URLs appended to \`data/pipeline.md\` and \`data/scan-history.tsv\`.*
+*Run \`/career-ops pipeline\` to evaluate these offers.*
+`;
+
+writeFileSync(reportPath, report, 'utf8');
+console.log(`\nScout report written: ${reportPath}`);
+
+const summary = {
+  companiesChecked: companies.length,
+  totalFetched: allJobs.length,
+  newMatches: newMatches.length,
+  byCompany: Object.fromEntries(Object.entries(byCompany).map(([k,v]) => [k, v.length])),
+  reportPath,
+};
+console.log('\n--- SUMMARY ---');
+console.log(JSON.stringify(summary, null, 2));
