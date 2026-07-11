@@ -1,5 +1,23 @@
 # Pipeline — Pending Offers
 
+## 2026-07-11 — Scout Scan (35+ companies, multi-source)
+
+> Scout scan: 35+ companies scanned (Greenhouse API + Ashby + Lever + WebSearch). Deduped against 19,879 history entries. 4 new matches above threshold. Report: [scout-2026-07-11.md](../reports/scout-2026-07-11.md)
+
+#### Top Picks (4.0+)
+
+- [ ] https://jobs.ashbyhq.com/confluent/bef7f6a5-2481-4eb6-a97e-9e4a2f4ec083 | Confluent | Staff Software Engineer I (Tableflow) | Remote US (⚠️ verify — one listing shows DC) | ★ 4.2/5 — Patrick's CDC→Kafka→Iceberg stack matches Tableflow exactly. The Kafka company. Staff level. Direct domain fit. Apply immediately.
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5184712007 | Temporal | Staff Software Engineer, AI Foundations (Agent Optimization) | US/Canada Remote | ★ 4.0/5 — Workflow orchestration = Argo equivalent. $224K-$302K comp. Go-heavy. AI agent optimization focus is newer territory but Temporal platform expertise is Patrick's wheelhouse.
+
+#### Other Matches (3.5–3.9)
+
+- [ ] https://jobs.lever.co/wandb/0d8fd2ac-aa74-496a-a13a-60756fa8436f | Weights & Biases | Engineering Manager – Delivery Tooling | Remote (US) | ★ 3.8/5 — Delivery tooling team = DORA metrics + CI/CD platform ownership. Patrick's exact expertise. MLOps company. EM role.
+- [ ] https://jobs.lever.co/wandb/25ff0975-5a29-4aa3-a450-1fa263f109bb | Weights & Biases | Engineering Manager – Models/Artifacts | Remote (US) | ★ 3.6/5 — Next-gen model/artifact management product. ML platform EM. Solid but less tight fit than Delivery Tooling.
+
+#### Location-Flagged (NYC hybrid — only if Spotify confirms Denver-remote)
+
+- [ ] https://jobs.lever.co/spotify/cb31f2e9-7218-42b0-91f0-afe0ca6a0fef | Spotify | Staff Engineer – Content Intelligence Infrastructure | NYC Hybrid | ⚠️ — Backend + ML infra for content understanding. Staff level. Confirm remote policy before pursuing.
+
 ## 2026-07-10 — Quick Check (Greenhouse APIs only)
 
 > Quick check: 42 Greenhouse API companies scanned, 7,278 jobs seen. 9 new US matches + 5 location flags (Anduril/Aurora). Report: [scout-quickcheck-2026-07-10.md](../reports/scout-quickcheck-2026-07-10.md)
