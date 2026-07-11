@@ -4758,3 +4758,11 @@ _None — pipeline is current._
 - https://databricks.com/company/careers/open-positions/job?gh_jid=7979523002   <!-- Databricks: Staff Software Engineer - User Activation | San Francisco, California -->
 - https://databricks.com/company/careers/open-positions/job?gh_jid=8482037002   <!-- Databricks: Systems PhD - Software Engineer  | Mountain View, California; San Francisco, California -->
 - https://databricks.com/company/careers/open-positions/job?gh_jid=8482086002   <!-- Databricks: Systems PhD - Software Engineer  | Bellevue, Washington; Seattle, Washington -->
+## 2026-07-11 — Quick Check #2 (Greenhouse APIs only)
+
+> Quick check: 42 Greenhouse API companies scanned. 1 API error (RunPod — 404, board may have moved). 2 new Zipline matches found (IDs 7802154/7802156). Report: [scout-quickcheck-2026-07-11.md](../reports/scout-quickcheck-2026-07-11.md)
+
+#### New Matches
+
+- [ ] https://www.zipline.com/open-roles?gh_jid=7802154003 | Zipline | Software Engineering Manager, Launch & Scale Platform | South San Francisco, CA | — Drone delivery hardware moat. EM role owning Launch & Scale Platform. South SF = on-site. Evaluate only if remote is possible.
+- [ ] https://www.zipline.com/open-roles?gh_jid=7802156003 | Zipline | Senior Integration and Test Software Engineer - Long Range Platform | South San Francisco, CA | — Hardware moat. Test/integration engineering for Long Range drone platform. On-site South SF. Lower priority.
