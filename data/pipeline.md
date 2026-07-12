@@ -1,5 +1,14 @@
 # Pipeline — Pending Offers
 
+## 2026-07-12 — Scout Scan
+
+> Full scan: 44 Greenhouse API boards, 11 WebSearch queries (LangChain, Modal, MotherDuck, Prefect, Ramp, Confluent, W&B, Anyscale, Spotify, Pinecone, broad discovery). Dedup against existing scan-history. **2 new matches** — all other qualifying roles already tracked from prior scans. Report: [scout-2026-07-12.md](../reports/scout-2026-07-12.md)
+
+#### New Matches
+
+- [ ] https://jobs.ashbyhq.com/langchain/e1263bfe-b638-4019-b4d5-0aacca93b2b3 | LangChain | Engineering Manager, AI Observability & Evals Platform | New York, NY | ★ 3.7/5 — EM for LangSmith (LLM observability). NYC variant of SF role already in pipeline. Patrick's DORA/Watchtower observability background maps directly. Evaluate if NYC remote-optional.
+- [ ] https://jobs.ashbyhq.com/ramp/d204e136-2749-42de-82b4-88a0dd352090 | Ramp | Applied AI Engineer | New York, NY (Remote) | ★ 3.5/5 — Applied AI at high-growth fintech ($10B+). Building AI features for spend management platform. Remote-friendly. Below Staff target but strong company. Lower priority.
+
 ## 2026-07-11 — Scout Scan (35+ companies, multi-source)
 
 > Scout scan: 35+ companies scanned (Greenhouse API + Ashby + Lever + WebSearch). Deduped against 19,879 history entries. 4 new matches above threshold. Report: [scout-2026-07-11.md](../reports/scout-2026-07-11.md)
