@@ -4775,3 +4775,17 @@ _None — pipeline is current._
 
 - [ ] https://www.zipline.com/open-roles?gh_jid=7802154003 | Zipline | Software Engineering Manager, Launch & Scale Platform | South San Francisco, CA | — Drone delivery hardware moat. EM role owning Launch & Scale Platform. South SF = on-site. Evaluate only if remote is possible.
 - [ ] https://www.zipline.com/open-roles?gh_jid=7802156003 | Zipline | Senior Integration and Test Software Engineer - Long Range Platform | South San Francisco, CA | — Hardware moat. Test/integration engineering for Long Range drone platform. On-site South SF. Lower priority.
+
+## 2026-07-12 — Quickcheck (Greenhouse APIs only)
+
+> Quickcheck: 42 Greenhouse API boards. 7,336 jobs reviewed. 2 new matches. 1 API error (RunPod — 404). Report: [scout-quickcheck-2026-07-12.md](../reports/scout-quickcheck-2026-07-12.md)
+
+### New Matches
+
+#### Anduril — Boulder, Colorado (Dream Company)
+
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5185274007?gh_jid=5185274007 | Anduril | Senior Software Engineer, Realtime Imaging | Boulder, CO | — Dream company (defense tech). New Boulder role — different from prior Anduril entries. Realtime imaging likely involves CV/data pipelines for sensor systems. Evaluate: does this fit Patrick's profile better than existing Anduril pipeline entries?
+
+#### Nuro — Mountain View, CA (Hardware Moat — Autonomous Vehicles)
+
+- [ ] https://nuro.ai/careersitem?gh_jid=8049931 | Nuro | Senior/Staff Machine Learning Engineer, Sensor Simulation | Mountain View, CA | — Autonomous delivery vehicles. ML role in sensor simulation (synthetic data for training perception models). Mountain View = Bay Area accepted. Evaluate against relocation preference.
