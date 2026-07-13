@@ -4878,3 +4878,8 @@ _None — pipeline is current._
 - [ ] https://job-boards.greenhouse.io/scaleai/jobs/4591300005  <!-- Scale AI: Software Engineer, Gen AI | San Francisco, CA; New York, NY | quickcheck-2026-07-12 -->
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8593713002  <!-- Databricks: AI Engineer - FDE (Forward Deployed Engineer) | Remote - United Kingdom | quickcheck-2026-07-12 -->
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7823561002  <!-- Databricks: Sr. Staff Production Engineer - Data Platform | Mountain View, California; San Francisco, California | quickcheck-2026-07-12 -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5342935008  <!-- Anthropic: Staff+ Software Engineer, Safeguards Review Tooling | San Francisco, CA | quickcheck-2026-07-13 -->
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5184712007  <!-- Temporal: Staff Software Engineer, AI Foundations (Agent Optimization) | United States and Canada - Remote | quickcheck-2026-07-13 -->
+- [ ] https://www.samsara.com/company/careers/roles/8039914?gh_jid=8039914  <!-- Samsara: Senior Data Engineer II | Remote - US | quickcheck-2026-07-13 -->
+- [ ] https://aurora.tech/jobs/8628066002?gh_jid=8628066002  <!-- Aurora Innovation: Software Engineer I (Data Eng infra) | Mountain View, CA | quickcheck-2026-07-13 -->
+- [ ] https://www.zipline.com/open-roles?gh_jid=7801752003  <!-- Zipline: Software Engineering Manager, Launch & Scale Platform | Remote in USA | quickcheck-2026-07-13 -->
