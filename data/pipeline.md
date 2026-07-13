@@ -1,5 +1,15 @@
 # Pipeline — Pending Offers
 
+## 2026-07-13 — Scout Scan
+
+> Full scan: 25+ companies (Greenhouse API: Anthropic, Anduril, Temporal, Fivetran, ClickHouse, Glean, Scale AI, Aurora, Rocket Lab, Chainguard, Databricks, Samsara, Figure AI, Planet Labs, Nuro, Wayve, Vast, Isomorphic Labs, Grafana Labs; WebSearch: LangChain, Confluent, Modal, MotherDuck, Prefect, Shield AI, WandB, Anyscale). Dedup against 19,972 history entries. **0 new US-eligible matches** — all qualifying roles already tracked from prior scans. 1 new role found but EU-only (Grafana Labs Tempo). Report: [scout-2026-07-13.md](../reports/scout-2026-07-13.md)
+
+#### New Matches
+
+*None — pipeline current as of 2026-07-13.*
+
+---
+
 ## 2026-07-12 — Scout Scan
 
 > Full scan: 44 Greenhouse API boards, 11 WebSearch queries (LangChain, Modal, MotherDuck, Prefect, Ramp, Confluent, W&B, Anyscale, Spotify, Pinecone, broad discovery). Dedup against existing scan-history. **2 new matches** — all other qualifying roles already tracked from prior scans. Report: [scout-2026-07-12.md](../reports/scout-2026-07-12.md)
