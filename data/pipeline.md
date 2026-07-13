@@ -4883,3 +4883,27 @@ _None — pipeline is current._
 - [ ] https://www.samsara.com/company/careers/roles/8039914?gh_jid=8039914  <!-- Samsara: Senior Data Engineer II | Remote - US | quickcheck-2026-07-13 -->
 - [ ] https://aurora.tech/jobs/8628066002?gh_jid=8628066002  <!-- Aurora Innovation: Software Engineer I (Data Eng infra) | Mountain View, CA | quickcheck-2026-07-13 -->
 - [ ] https://www.zipline.com/open-roles?gh_jid=7801752003  <!-- Zipline: Software Engineering Manager, Launch & Scale Platform | Remote in USA | quickcheck-2026-07-13 -->
+==
+## 2026-07-13 — Quickcheck #2 (Greenhouse APIs only)
+
+> Quickcheck #2: 42 Greenhouse API boards re-checked. 7,341 jobs reviewed. 9 genuinely new matches across 5 companies. Report: [scout-quickcheck-2026-07-13.md](../reports/scout-quickcheck-2026-07-13.md)
+
+### New Matches
+
+#### Anduril — Developer Platform (Dream Company, NEW role type)
+
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5185971007?gh_jid=5185971007 | Anduril | Senior Software Engineer, Developer Platform | Seattle, WA | — Dream company. NEW role type: Developer Platform team (internal SDK/tooling for Anduril engineers). Seattle = ideal location. Evaluate against Patrick's platform engineering background.
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5185886007?gh_jid=5185886007 | Anduril | Senior Software Engineer, Developer Platform | Costa Mesa, CA | — Same role, Anduril HQ location. Lower priority than Seattle but same team.
+
+#### Aurora Innovation — Data Engineering and Infrastructure (Denver-headquartered, Pittsburgh role)
+
+- [ ] https://aurora.tech/jobs/8628064002?gh_jid=8628064002 | Aurora Innovation | Senior Software Engineer (Data Engineering and Infrastructure) | Pittsburgh, PA | — Aurora has Denver office but this is Pittsburgh. Data engineering + infrastructure direct match. Evaluate relocation preference.
+
+### Raw Entries (lower priority)
+
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5185972007?gh_jid=5185972007  <!-- Anduril: Senior Software Engineer, Developer Platform | Boston, Massachusetts | quickcheck-2026-07-13b -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5185974007?gh_jid=5185974007  <!-- Anduril: Senior Software Engineer, Developer Platform | Washington, DC | quickcheck-2026-07-13b -->
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4696533006  <!-- Figure AI: Helix AI Engineer, Localization and Mapping | San Jose, CA | quickcheck-2026-07-13b -->
+- [ ] https://www.zipline.com/open-roles?gh_jid=7802983003  <!-- Zipline: Simulation Software Engineer | South San Francisco, CA (on-site) | quickcheck-2026-07-13b -->
+- [ ] https://www.zipline.com/open-roles?gh_jid=7802961003  <!-- Zipline: Senior Motion Planning Software Engineer | South San Francisco, CA (on-site) | quickcheck-2026-07-13b -->
+- [ ] https://boards.greenhouse.io/vast/jobs/4696685006?gh_jid=4696685006  <!-- Vast: Software Engineer I, Mission Software | Long Beach, CA | quickcheck-2026-07-13b -->
