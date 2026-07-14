@@ -1,5 +1,30 @@
 # Pipeline — Pending Offers
 
+## 2026-07-14 — Scout Scan
+
+> Full scan: 18 companies (Greenhouse API: Anthropic, Anduril, Fivetran, Aurora, Dagster, Databricks, Chainguard, Temporal, ClickHouse, Rocket Lab, Planet Labs, Scale AI, Samsara; WebSearch: Lever + Ashby staff/data roles). Dedup against 19,991 history entries + pipeline.md. **13 new matches** — 6 top picks (4.0+), 7 others. Report: [scout-2026-07-14.md](../reports/scout-2026-07-14.md)
+
+#### Top Picks (4.0+)
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5316593008 | Anthropic | Engineering Manager, Agent Runtime Platform | San Francisco, CA / New York City, NY | ★ 4.5/5 — Brand-new posting (highest Anthropic ID seen). Agent Runtime Platform = infrastructure running Claude agents. Patrick's Argo Workflows/K8s background is exact match. Dream company. SF accepted.
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5125387008 | Anthropic | Data Engineering Manager, Product | San Francisco, CA / New York City, NY / Seattle, WA | ★ 4.3/5 — Patrick's primary archetype at dream company. Data engineering leadership powering Anthropic's product org. All 3 locations accepted.
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5297059008 | Anthropic | Engineering Manager, Research Data Platform | San Francisco, CA / New York City, NY | ★ 4.2/5 — EM for research data platform at frontier AI lab. Watchtower observability background (40+ teams) = exact pattern for research-scale data platform. SF accepted.
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5119529007 | Temporal | Staff Software Engineer, Observability | US Remote | ★ 4.2/5 — Workflow orchestration company (Argo peer). Patrick built VA.gov Watchtower for 18M+ veterans / 40+ teams. Staff IC, fully remote US, $224K+ comp. Tight domain + superpower alignment.
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5993847004 | ClickHouse | Senior Data Engineer — dbt, CI/CD | AMER Remote | ★ 4.0/5 — Patrick's Modern Data Stack Demo uses dbt/DuckDB/CDC. Direct stack match. US-remote eligible. Fast-growing OLAP company.
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5765673004 | ClickHouse | Senior Software Engineer — Clickpipes (CDC/Streaming) | US Remote | ★ 4.0/5 — ClickPipes = Kafka/CDC/Debezium ingestion product. Patrick's exact stack. Core product team. US remote.
+
+#### Other Matches (3.5–3.9)
+
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5164459007 | Temporal | Senior Engineering Manager, Compute | US | ★ 3.9/5 — EM for compute infra at Temporal. Strong fit given Patrick's orchestration platform background.
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5038049007 | Temporal | Senior Staff Software Engineer, Infrastructure | US Remote | ★ 3.8/5 — Senior Staff IC infrastructure role at Temporal. Remote US.
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/7603834 | Planet Labs | Senior Software Engineering Manager | US Remote | ★ 3.8/5 — EM at satellite imaging company. Remote US. Already have Planet Labs Senior DE in pipeline.
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8324875002 | Databricks | Engineering Manager, Streaming | Bellevue, WA | ★ 3.7/5 — Streaming EM at $43B data platform company. Bellevue = Seattle metro (accepted).
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7778924003 | Rocket Lab | DevOps Engineer II/Senior | Littleton, CO | ★ 3.7/5 — Denver metro + aerospace hardware moat. DevOps = secondary archetype for Patrick but local and mission-aligned.
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4602177005 | Scale AI | Senior Frontier Agent Engineering Manager, Enterprise | San Francisco, CA / New York City, NY | ★ 3.6/5 — EM for agent engineering at $7.3B AI data infrastructure company. SF or NYC.
+- [ ] https://www.samsara.com/company/careers/roles/7721193?gh_jid=7721193 | Samsara | Lead Machine Learning Engineer — ML Infrastructure | Remote US | ★ 3.6/5 — ML infra lead at large IoT + AI platform. Remote US. Below Staff IC target but growing fast.
+
+---
+
 ## 2026-07-13 — Scout Scan
 
 > Full scan: 25+ companies (Greenhouse API: Anthropic, Anduril, Temporal, Fivetran, ClickHouse, Glean, Scale AI, Aurora, Rocket Lab, Chainguard, Databricks, Samsara, Figure AI, Planet Labs, Nuro, Wayve, Vast, Isomorphic Labs, Grafana Labs; WebSearch: LangChain, Confluent, Modal, MotherDuck, Prefect, Shield AI, WandB, Anyscale). Dedup against 19,972 history entries. **0 new US-eligible matches** — all qualifying roles already tracked from prior scans. 1 new role found but EU-only (Grafana Labs Tempo). Report: [scout-2026-07-13.md](../reports/scout-2026-07-13.md)
