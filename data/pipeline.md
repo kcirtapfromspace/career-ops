@@ -1,5 +1,27 @@
 # Pipeline — Pending Offers
 
+## 2026-07-14 — Quick Check (Greenhouse API)
+
+> Quick check: 42 Greenhouse API boards, 7,356 jobs scanned, 605 after filters, dedup against 20,133 history entries. **7 new matches** found since earlier today's full scan. Report: [scout-quickcheck-2026-07-14.md](../reports/scout-quickcheck-2026-07-14.md)
+
+#### Top Pick (4.0+)
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5310731008 | Anthropic | Staff+ Software Engineer, Capacity Engineering | San Francisco, CA / New York City, NY / Seattle, WA | ★ 4.0/5 — Staff+ IC at dream company. Capacity engineering = compute infrastructure for running Claude at scale. K8s/platform/infra background maps directly.
+
+#### Strong Matches (3.5–3.9)
+
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5185971007?gh_jid=5185971007 | Anduril | Senior Software Engineer, Developer Platform | Seattle, WA | ★ 3.8/5 — Developer platform at defense dream company. Platform focus aligns with Patrick's background. Seattle accepted.
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4714527005 | Scale AI | Senior Machine Learning Engineer, Agent Oversight | San Francisco, CA / New York, NY | ★ 3.7/5 — ML engineering for agent oversight at $7.3B company. Pair with SE role below.
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4714509005 | Scale AI | Senior Software Engineer, Agent Oversight | San Francisco, CA / New York, NY | ★ 3.7/5 — SE for agent oversight at Scale AI. Newer than EM role already in pipeline.
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5324758008 | Anthropic | Software Security Engineering Manager, Secure Frameworks | San Francisco, CA / Seattle, WA | ★ 3.5/5 — EM at dream company; security focus diverges from data+platform archetype but still Anthropic.
+
+#### Lower Priority (3.0–3.4)
+
+- [ ] https://aurora.tech/jobs/8633156002?gh_jid=8633156002 | Aurora Innovation | Senior Software Engineer, Calibration | San Francisco, CA / Seattle, WA | ★ 3.2/5 — Calibration at autonomous trucks company. Likely sensor-calibration software work, off-archetype.
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5176061007?gh_jid=5176061007 | Anduril | Senior Software Engineer, Sensor Integration | Irvine, CA | ★ 3.0/5 — Sensor integration at dream company but embedded/HW-adjacent, lower fit.
+
+---
+
 ## 2026-07-14 — Scout Scan
 
 > Full scan: 18 companies (Greenhouse API: Anthropic, Anduril, Fivetran, Aurora, Dagster, Databricks, Chainguard, Temporal, ClickHouse, Rocket Lab, Planet Labs, Scale AI, Samsara; WebSearch: Lever + Ashby staff/data roles). Dedup against 19,991 history entries + pipeline.md. **13 new matches** — 6 top picks (4.0+), 7 others. Report: [scout-2026-07-14.md](../reports/scout-2026-07-14.md)
