@@ -4981,3 +4981,5 @@ _None — pipeline is current._
 - [ ] https://www.zipline.com/open-roles?gh_jid=7802983003  <!-- Zipline: Simulation Software Engineer | South San Francisco, CA (on-site) | quickcheck-2026-07-13b -->
 - [ ] https://www.zipline.com/open-roles?gh_jid=7802961003  <!-- Zipline: Senior Motion Planning Software Engineer | South San Francisco, CA (on-site) | quickcheck-2026-07-13b -->
 - [ ] https://boards.greenhouse.io/vast/jobs/4696685006?gh_jid=4696685006  <!-- Vast: Software Engineer I, Mission Software | Long Beach, CA | quickcheck-2026-07-13b -->
+
+https://www.zipline.com/open-roles?gh_jid=7805110003
