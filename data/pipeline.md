@@ -1,5 +1,32 @@
 # Pipeline — Pending Offers
 
+## 2026-07-15 Scout Scan
+
+> Full scan: 30+ companies (Greenhouse API: Anthropic, Anduril, Temporal, ClickHouse, Databricks, PolyAI, Intercom, HumeAI, Airtable, Vercel, ArizeAI, DagsterLabs, Glean, Chainguard, Scale AI, Samsara, Aurora, Fivetran, Figure AI, StabilityAI, Planet Labs, Vast, Wayve, Amplemarket, Speechmatics, BlackForestLabs, Helsing, Celonis, Contentful, Nuro, RocketLab; WebSearch: Greenhouse EM data/platform/infra, Ashby Staff Engineer data/platform). **Verification:** unconfirmed for WebSearch results (batch mode — Playwright unavailable). Dedup against 20,183+ history entries. **12 new matches** found. Report: [scout-2026-07-15.md](../reports/scout-2026-07-15.md)
+
+#### Top Picks (4.0+)
+
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8592950002 | GitLab | Engineering Manager, Data Foundations | Remote, US | ★ 4.3/5 — EM for Data Insights Platform: ClickHouse storage, NATS/JetStream buffering, CDC replication (Siphon), real-time ingestion at hundreds of millions of events/day. Patrick's exact stack. Remote US. $152.8K–$259.2K.
+- [ ] https://jobs.ashbyhq.com/astronomer/01976be2-0e8a-43b3-9c2b-1937ee5eb5b7 | Astronomer | Staff Software Engineer, Platform Infrastructure | Remote (unverified) | ★ 4.0/5 — Airflow/Astro company = Argo Workflows domain equivalent. Staff IC for platform infra at workflow orchestration leader. Verify remote eligibility before applying.
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8489179002 | GitLab | Engineering Manager, Infrastructure Platforms | Remote (unverified) | ★ 4.0/5 — EM for infrastructure platforms at major DevOps platform ($7.7B+). Patrick's VA.gov/Watchtower infra background strong fit. Verify posting still open.
+
+#### Strong Matches (3.5–3.9)
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5301112008 | Anthropic | Engineering Manager, Continuous Deployment and Change Safety | San Francisco, CA / New York City, NY | ★ 3.8/5 — CD + change safety = Patrick's VA.gov CI/CD + Watchtower observability narrative. EM at dream company. SF and NYC accepted.
+- [ ] https://jobs.ashbyhq.com/vanta/2a89eb83-9e4c-48e0-a967-2a5b33058f20 | Vanta | Staff Data Engineer | US Remote (unverified) | ★ 3.8/5 — $2.45B security automation company. dbt/Fivetran/Snowflake stack aligns with Patrick's Modern Data Stack. Staff DE, fully remote US.
+- [ ] https://jobs.ashbyhq.com/docker/73d919c7-232d-4ef3-87f3-19380be1e08d | Docker | Staff Software Engineer, Data Infrastructure | US Remote (unverified) | ★ 3.8/5 — Container/K8s domain alignment. Data infrastructure at remote-first Docker. Staff IC level.
+- [ ] https://jobs.ashbyhq.com/hinge-health/d635a9d3-c04d-48e5-a53d-cb9ecf665350 | Hinge Health | Staff Data Engineer, Data & ML Platform | US Remote (unverified) | ★ 3.7/5 — Staff DE for Data & ML Platform at digital health unicorn. Remote US.
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4694869005 | Scale AI | Senior Staff Frontier Agents Engineer | San Francisco, CA / New York City, NY | ★ 3.5/5 — Senior Staff IC for frontier agents at $7.3B AI data company. SF/NYC both accepted.
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5223093008 | Anthropic | Engineering Manager, Research Productivity | San Francisco, CA / New York City, NY | ★ 3.5/5 — EM at dream company for research productivity tooling. Adjacent to developer platform archetype.
+
+#### Lower Priority (3.0–3.4)
+
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4688854006 | Chainguard | Staff Software Engineer (Guarded Containers) | US Remote | ★ 3.2/5 — Container security at K8s-native supply chain security company. Fully US remote.
+- [ ] https://www.zipline.com/open-roles?gh_jid=7801752003 | Zipline | Software Engineering Manager, Launch & Scale Platform | Remote USA (unverified) | ★ 3.2/5 — EM for launch & scale platform at aerospace drone-delivery company. Verify remote eligibility.
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4676390006 | Chainguard | Staff Software Engineer (Customer Platform) | US Remote | ★ 3.0/5 — Customer platform staff IC at cloud-native security company. US remote.
+
+---
+
 ## 2026-07-14 — Quick Check (Greenhouse API)
 
 > Quick check: 42 Greenhouse API boards, 7,356 jobs scanned, 605 after filters, dedup against 20,133 history entries. **7 new matches** found since earlier today's full scan. Report: [scout-quickcheck-2026-07-14.md](../reports/scout-quickcheck-2026-07-14.md)
