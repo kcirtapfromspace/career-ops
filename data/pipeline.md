@@ -4983,3 +4983,24 @@ _None — pipeline is current._
 - [ ] https://boards.greenhouse.io/vast/jobs/4696685006?gh_jid=4696685006  <!-- Vast: Software Engineer I, Mission Software | Long Beach, CA | quickcheck-2026-07-13b -->
 
 https://www.zipline.com/open-roles?gh_jid=7805110003
+
+## 2026-07-15 — Quickcheck #3
+
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5186859007?gh_jid=5186859007  <!-- Anduril: Fullstack Senior Software Engineer, ArsenalOS | Costa Mesa, California, United States | quickcheck-2026-07-15 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5187241007?gh_jid=5187241007  <!-- Anduril: RFML Engineer, EW | Costa Mesa, California, United States | quickcheck-2026-07-15 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5187616007?gh_jid=5187616007  <!-- Anduril: Senior Full Stack Software Engineer | Costa Mesa, California, United States | quickcheck-2026-07-15 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5186093007?gh_jid=5186093007  <!-- Anduril: Senior Manager, Software Engineering | Costa Mesa, California, United States | quickcheck-2026-07-15 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5187881007?gh_jid=5187881007  <!-- Anduril: Senior Software Engineer, Application Security | Seattle, Washington, United States | quickcheck-2026-07-15 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5186322007?gh_jid=5186322007  <!-- Anduril: Senior Software Engineer, Robotics Data Foundation (Cloud) | Boston, Massachusetts, United States | quickcheck-2026-07-15 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5183927007?gh_jid=5183927007  <!-- Anduril: Senior Software Engineer, Vehicle Management Systems | Quincy, Massachusetts, United States | quickcheck-2026-07-15 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5187454007?gh_jid=5187454007  <!-- Anduril: Senior Software Engineer, Vehicle Management Systems | Boston, Massachusetts, United States | quickcheck-2026-07-15 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5185965007?gh_jid=5185965007  <!-- Anduril: Software Engineer, Robotics Data Foundation (Cloud) | Boston, Massachusetts, United States | quickcheck-2026-07-15 -->
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5187649007  <!-- Temporal: Senior Software Engineer, Open Source Server | United States - Remote Opportunity | quickcheck-2026-07-15 -->
+- [ ] https://www.samsara.com/company/careers/roles/8036387?gh_jid=8036387  <!-- Samsara: Sr Software Engineer I | Remote - US | quickcheck-2026-07-15 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8635216002  <!-- Databricks: Senior Software Engineer, AI Native Web Platform | Mountain View, California | quickcheck-2026-07-15 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8635900002  <!-- Databricks: Senior Software Engineer, Foundation Model API | San Francisco, California | quickcheck-2026-07-15 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8617901002  <!-- Databricks: Sr Software Engineer- CXI | Mountain View, California; San Francisco, California | quickcheck-2026-07-15 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8635182002  <!-- Databricks: Staff Software Engineer, Agentic Applications | Mountain View, California | quickcheck-2026-07-15 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8635188002  <!-- Databricks: Staff Software Engineer, AI Native Web Platform | Mountain View, California | quickcheck-2026-07-15 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8584144002  <!-- Databricks: Staff Software Engineer- CXI | Mountain View, California; San Francisco, California | quickcheck-2026-07-15 -->
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/6115277004  <!-- ClickHouse: Senior Software Engineer - Cloud Partner Integrations | United States (remote) | quickcheck-2026-07-15 -->
