@@ -1,5 +1,25 @@
 # Pipeline — Pending Offers
 
+## 2026-07-16 Scout Scan
+
+> Full scan: 35+ companies (Greenhouse API: Anthropic, Anduril, Temporal, ClickHouse, Databricks, Chainguard, Scale AI, Aurora, Fivetran, Samsara, Planet Labs, Figure AI, Vast, Wayve, Arize AI, Rocket Lab, Airtable, Dagster; WebSearch: Ashby/Greenhouse/Lever — Staff DE/SE/Platform, EM Data/ML/Infra). **Verification:** unconfirmed (batch mode — Playwright unavailable). Dedup against 20,134 history entries. **5 new matches** found. Report: [scout-2026-07-16.md](../reports/scout-2026-07-16.md)
+
+#### Top Picks (4.0+)
+
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/7728511003 | Affirm | Senior Staff Software Engineer, Backend (Data & Storage Services) | Remote US | ★ 4.5/5 — Patrick's exact Modern Data Stack (Snowflake/Iceberg/Spark/dbt/Python/AWS) at $36B public fintech. $236-296K Denver-tier comp exceeds target. Priority apply.
+- [ ] https://jobs.ashbyhq.com/decagon/7a22482c-e2d4-45b6-b364-89b63189a4ae | Decagon | Senior Software Engineer, Core Infrastructure | San Francisco, CA (SF ok for relocation) | ★ 4.0/5 — AI customer-support agent startup. Core infra team owns networking, data, ML serving, developer platform, real-time voice. K8s/Kafka/Rust+Go background maps directly. $200K-$400K + equity. Verify office requirement.
+
+#### Strong Matches (3.5–3.9)
+
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/6115277004 | ClickHouse | Senior Software Engineer — Cloud Partner Integrations | Remote US | ★ 3.7/5 — Cloud partner integrations (AWS/GCP/Azure) at ClickHouse. Adjacent to ClickPipes already in pipeline. Good domain fit, comp unknown.
+
+#### Lower Priority (3.0–3.4)
+
+- [ ] https://job-boards.greenhouse.io/forafinancial/jobs/4298234009 | Fora Financial | Staff Data Engineer | Remote US (ET/CT preferred) | ★ 3.2/5 — Snowflake/dbt/Dagster/Debezium/Iceberg stack match. $175-200K below target; 200-person fintech.
+- [ ] https://job-boards.greenhouse.io/mitratech/jobs/7983778 | Mitratech | Senior Engineering Manager, Data & Cloud Platform | Remote US | ★ 3.0/5 — $190-210K below target; legal tech domain; 100% remote EM role.
+
+---
+
 ## 2026-07-15 Scout Scan
 
 > Full scan: 30+ companies (Greenhouse API: Anthropic, Anduril, Temporal, ClickHouse, Databricks, PolyAI, Intercom, HumeAI, Airtable, Vercel, ArizeAI, DagsterLabs, Glean, Chainguard, Scale AI, Samsara, Aurora, Fivetran, Figure AI, StabilityAI, Planet Labs, Vast, Wayve, Amplemarket, Speechmatics, BlackForestLabs, Helsing, Celonis, Contentful, Nuro, RocketLab; WebSearch: Greenhouse EM data/platform/infra, Ashby Staff Engineer data/platform). **Verification:** unconfirmed for WebSearch results (batch mode — Playwright unavailable). Dedup against 20,183+ history entries. **12 new matches** found. Report: [scout-2026-07-15.md](../reports/scout-2026-07-15.md)
