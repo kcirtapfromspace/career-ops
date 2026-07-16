@@ -1,5 +1,29 @@
 # Pipeline — Pending Offers
 
+## 2026-07-16 Scout Quickcheck (3rd pass)
+
+> Quick check 3rd pass: 42 Greenhouse API boards — full sweep including Anduril retry (timed out in earlier passes), Vercel, Samsara, Scale AI, Databricks, Clickhouse. **Verification:** unconfirmed (batch mode). Dedup against 13,897 history entries. **9 new US matches** found (4 Clickhouse international-only roles excluded). Report: [scout-quickcheck-3rd-2026-07-16.md](../reports/scout-quickcheck-3rd-2026-07-16.md)
+
+#### Top Picks (4.0+)
+
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8637143002 | Databricks | Staff Software Engineer, Foundation Model API | San Francisco, CA | ★ 4.5/5 — Staff-level role building Foundation Model APIs at Databricks. Directly relevant to ML/data platform background; Databricks is a dream-tier company at $43B.
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8584144002 | Databricks | Staff Software Engineer - CXI | Mountain View / San Francisco, CA | ★ 4.0/5 — Staff SE on Databricks CXI (Customer Experience Intelligence) team. Data-platform expertise translates directly.
+
+#### Strong Picks (3.5–3.9)
+
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8617901002 | Databricks | Sr Software Engineer - CXI | Mountain View / San Francisco, CA | ★ 3.8/5 — Senior SE at Databricks CXI. Same team as Staff role above; solid fit on data/ML stack.
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4715325005 | Scale AI | Software Engineering Manager, Public Sector | San Francisco, CA | ★ 3.5/5 — EM role at Scale AI. Public sector/government focus narrows scope but Scale AI is a strong fit. SF office.
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5188525007?gh_jid=5188525007 | Anduril | Senior Software Engineer, Discovery | Seattle, WA | ★ 3.5/5 — Senior SE on Anduril's Discovery team (sensor fusion/intelligence). Defense tech dream company. Seattle location.
+
+#### Lower Priority (2.0–3.0)
+
+- [ ] https://www.samsara.com/company/careers/roles/8036387?gh_jid=8036387 | Samsara | Software Engineer II | Remote - US | ★ 3.0/5 — IoT/fleet data platform. Remote US. Mid-level role (II); apply only if senior track is available.
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6117209004 | Vercel | Senior Security Software Engineer, v0 | Hybrid - San Francisco, CA | ★ 2.5/5 — Security focus on Vercel's v0 (AI coding assistant). Security angle is off-profile but v0 team is interesting.
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6117204004 | Vercel | Security Software Engineer, Open Source Frameworks | Hybrid - San Francisco, CA | ★ 2.5/5 — Security + open-source frameworks. Hybrid SF. Security not core fit.
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5187881007?gh_jid=5187881007 | Anduril | Senior Software Engineer, Application Security | Seattle, WA | ★ 2.0/5 — Security-specific role; lower fit for data/platform engineering profile.
+
+---
+
 ## 2026-07-16 Scout Quickcheck (2nd pass)
 
 > Quick check 2nd pass: 28 Greenhouse API boards (PolyAI, Parloa, Intercom, HumeAI, Airtable, Vercel, ArizeAI, RunPod, Speechmatics, BlackForestLabs, Helsing, Celonis, Contentful, GetYourGuide, HelloFresh, N26, TradeRepublic, SumUp, Scandit, Wayve, IsomorphicLabs, PhysicsX, StabilityAI, Amplemarket, Nuro, Zipline/flyzipline, PlanetLabs, Vast). **Verification:** unconfirmed (batch mode). Dedup against 20,200+ history entries. **2 new matches** found. Report: [scout-quickcheck-2026-07-16.md](../reports/scout-quickcheck-2026-07-16.md)
