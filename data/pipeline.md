@@ -1,5 +1,19 @@
 # Pipeline — Pending Offers
 
+## 2026-07-16 Scout Quickcheck (2nd pass)
+
+> Quick check 2nd pass: 28 Greenhouse API boards (PolyAI, Parloa, Intercom, HumeAI, Airtable, Vercel, ArizeAI, RunPod, Speechmatics, BlackForestLabs, Helsing, Celonis, Contentful, GetYourGuide, HelloFresh, N26, TradeRepublic, SumUp, Scandit, Wayve, IsomorphicLabs, PhysicsX, StabilityAI, Amplemarket, Nuro, Zipline/flyzipline, PlanetLabs, Vast). **Verification:** unconfirmed (batch mode). Dedup against 20,200+ history entries. **2 new matches** found. Report: [scout-quickcheck-2026-07-16.md](../reports/scout-quickcheck-2026-07-16.md)
+
+#### Top Picks (4.0+)
+
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5187649007 | Temporal | Senior Software Engineer, Open Source Server | Remote US | ★ 4.0/5 — Core server-side work on Temporal's open-source workflow orchestration engine. Directly relevant to Patrick's Argo Workflows/Airflow experience. Fully remote US.
+
+#### Lower Priority (3.0–3.4)
+
+- [ ] https://www.zipline.com/open-roles?gh_jid=7805100003 | Zipline | Sr. Software Engineering Manager, Financial Platform | South San Francisco, CA | ★ 3.0/5 — EM role at drone delivery hardware-moat company. Financial platform focus is lower priority than core ops/logistics platform work. SF-adjacent location.
+
+---
+
 ## 2026-07-16 Scout Scan
 
 > Full scan: 35+ companies (Greenhouse API: Anthropic, Anduril, Temporal, ClickHouse, Databricks, Chainguard, Scale AI, Aurora, Fivetran, Samsara, Planet Labs, Figure AI, Vast, Wayve, Arize AI, Rocket Lab, Airtable, Dagster; WebSearch: Ashby/Greenhouse/Lever — Staff DE/SE/Platform, EM Data/ML/Infra). **Verification:** unconfirmed (batch mode — Playwright unavailable). Dedup against 20,134 history entries. **5 new matches** found. Report: [scout-2026-07-16.md](../reports/scout-2026-07-16.md)
