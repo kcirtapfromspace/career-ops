@@ -1,5 +1,15 @@
 # Pipeline — Pending Offers
 
+## 2026-07-17 Scout Scan
+
+> Full scan: 30+ companies (Greenhouse API: Anthropic, Anduril, Dagster, Fivetran, Chainguard, Scale AI, Databricks, Aurora, Rocket Lab, Planet Labs, Figure AI, Samsara, Temporal, Arize AI, ClickHouse, Glean, Vast, Zipline, Nuro, Vercel, Airtable, Stack AV, RunPod; WebSearch: Confluent, Prefect, Anyscale, Weights & Biases, MotherDuck, Weaviate, Shield AI). **Verification:** unconfirmed (batch mode). Dedup against 13,911 history entries. **0 new high-priority matches** — pipeline is current. 1 low-fit new find logged. Report: [scout-2026-07-17.md](../reports/scout-2026-07-17.md)
+
+#### Lower Priority (2.0–3.0)
+
+- [ ] https://job-boards.greenhouse.io/stackav/jobs/5164801007 | Stack AV | Staff Software Engineer, Machine Learning Inference Platform | Pittsburgh, PA (remote possible) | ★ 2.8/5 — GPU/CUDA inference stack (TensorRT, vLLM, NCCL). Fundamental stack mismatch with Patrick's data platform profile. Logged for completeness; skip unless GPU expertise is added.
+
+---
+
 ## 2026-07-16 Scout Quickcheck (3rd pass)
 
 > Quick check 3rd pass: 42 Greenhouse API boards — full sweep including Anduril retry (timed out in earlier passes), Vercel, Samsara, Scale AI, Databricks, Clickhouse. **Verification:** unconfirmed (batch mode). Dedup against 13,897 history entries. **9 new US matches** found (4 Clickhouse international-only roles excluded). Report: [scout-quickcheck-3rd-2026-07-16.md](../reports/scout-quickcheck-3rd-2026-07-16.md)
