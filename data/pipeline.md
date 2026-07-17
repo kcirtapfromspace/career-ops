@@ -5051,3 +5051,5 @@ _None — pipeline is current._
 - [ ] https://boards.greenhouse.io/vast/jobs/4696685006?gh_jid=4696685006  <!-- Vast: Software Engineer I, Mission Software | Long Beach, CA | quickcheck-2026-07-13b -->
 
 https://www.zipline.com/open-roles?gh_jid=7805110003
+
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5189896007?gh_jid=5189896007  <!-- Anduril: Senior Software Engineer, Realtime Imaging | Boulder, Colorado | quickcheck-2026-07-17 -->
