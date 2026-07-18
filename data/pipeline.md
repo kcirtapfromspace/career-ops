@@ -1,5 +1,13 @@
 # Pipeline — Pending Offers
 
+## 2026-07-18 — Scout Scan
+
+> Full scan: 39 Greenhouse API endpoints + 8 WebSearch queries (Databricks, Stripe, Snowflake, Notion, Vercel, Linear, Retool, Cohere, Atlassian/Loom). **Verification:** unconfirmed (batch mode). Dedup against 13,915 history entries. **0 new high-priority matches** — pipeline is current. 3 new location/title-filtered entries logged to scan-history. Report: [scout-2026-07-18.md](../reports/scout-2026-07-18.md)
+
+*No new matches. All companies recently covered on 2026-07-16. See active pipeline items below.*
+
+---
+
 ## 2026-07-17 Scout Scan
 
 > Full scan: 30+ companies (Greenhouse API: Anthropic, Anduril, Dagster, Fivetran, Chainguard, Scale AI, Databricks, Aurora, Rocket Lab, Planet Labs, Figure AI, Samsara, Temporal, Arize AI, ClickHouse, Glean, Vast, Zipline, Nuro, Vercel, Airtable, Stack AV, RunPod; WebSearch: Confluent, Prefect, Anyscale, Weights & Biases, MotherDuck, Weaviate, Shield AI). **Verification:** unconfirmed (batch mode). Dedup against 13,911 history entries. **0 new high-priority matches** — pipeline is current. 1 low-fit new find logged. Report: [scout-2026-07-17.md](../reports/scout-2026-07-17.md)
