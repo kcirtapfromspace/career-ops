@@ -5061,3 +5061,5 @@ _None — pipeline is current._
 https://www.zipline.com/open-roles?gh_jid=7805110003
 
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5189896007?gh_jid=5189896007  <!-- Anduril: Senior Software Engineer, Realtime Imaging | Boulder, Colorado | quickcheck-2026-07-17 -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5361472008  <!-- Anthropic: Engineering Manager, Growth | San Francisco, CA | New York City, NY | Seattle, WA | quickcheck-2026-07-18 -->
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4697551006  <!-- Chainguard: Staff Software Engineer (Repositories) | United States - Remote | quickcheck-2026-07-18 -->
