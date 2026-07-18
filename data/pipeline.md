@@ -1,5 +1,39 @@
 # Pipeline — Pending Offers
 
+
+## 2026-07-18 — Scout Quick-Check
+
+> Quick-check scan: 42 Greenhouse API endpoints. **Verification:** unconfirmed (batch mode). Dedup against 26274 history entries. **13 new US matches** (4 top-pick, 9 strong). 0 API errors. Report: [scout-quickcheck-2026-07-18.md](../reports/scout-quickcheck-2026-07-18.md)
+
+#### Top Picks (4.0+)
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5310731008 | Anthropic | Staff+ Software Engineer, Capacity Engineering | San Francisco, CA | Seattle, WA | ★ 4.5/5 — Staff+ Capacity Engineering at Anthropic. Dream company — infra/capacity focus at AI frontier. SF or Seattle.
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8635182002 | Databricks | Staff Software Engineer, Agentic Applications | Mountain View, CA | ★ 4.5/5 — Staff SWE building agentic app infrastructure at Databricks ($43B). Dream company. Mountain View.
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5184712007 | Temporal | Staff Software Engineer, AI Foundations (Agent Optimization) | United States / Canada - Remote | ★ 4.2/5 — Staff SWE on AI Foundations at Temporal — workflow orchestration directly in Patrick's stack. US Remote.
+- [ ] https://www.samsara.com/company/careers/roles/8039914?gh_jid=8039914 | Samsara | Senior Data Engineer II | Remote - US | ★ 4/5 — Senior Data Engineer at Samsara IoT platform. Remote US. Large-scale data infra fit.
+
+#### Strong Picks (3.5–3.9)
+
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8639477002 | Databricks | Staff Software Engineer, Technical Lead, Lakebase Manager (LBM) | Bellevue, WA | ★ 3.9/5 — Staff TL for Lakebase Manager at Databricks — serverless Postgres on Databricks. Bellevue near Seattle.
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5325909008 | Anthropic | Staff+ Software Engineer, Financial Fraud | San Francisco, CA | Seattle, WA | ★ 3.8/5 — Staff+ SWE on Financial Fraud systems at Anthropic. Security/fraud focus, less pure platform. SF or Seattle.
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4714527005 | Scale AI | Senior Machine Learning Engineer, Agent Oversight | San Francisco, CA | ★ 3.8/5 — Senior MLE building agent oversight infrastructure at Scale AI. SF-based. AI data infra mission.
+- [ ] https://www.zipline.com/open-roles?gh_jid=7801752003 | Zipline | Software Engineering Manager, Launch & Scale Platform | Remote in USA / South San Francisco, CA | ★ 3.8/5 — Engineering Manager for Launch & Scale platform at Zipline (drone delivery). Remote USA.
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4714509005 | Scale AI | Senior Software Engineer, Agent Oversight | San Francisco, CA | ★ 3.5/5 — Senior SWE on Agent Oversight at Scale AI. Pair with the MLE role above. SF.
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5324758008 | Anthropic | Software Security Engineering Manager, Secure Frameworks | San Francisco, CA | Seattle, WA | ★ 3.5/5 — Security Engineering Manager at Anthropic. Security focus (not pure platform), but Anthropic dream co.
+- [ ] https://aurora.tech/jobs/8633156002?gh_jid=8633156002 | Aurora Innovation | Senior Software Engineer, Calibration | San Francisco, CA | Seattle, WA | ★ 3.5/5 — Senior SWE, Calibration at Aurora AV. SF or Seattle. Hardware moat / AV stack.
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8635216002 | Databricks | Senior Software Engineer, AI Native Web Platform | Mountain View, CA | ★ 3.5/5 — Senior SWE on AI-native web platform at Databricks. Web/product focus, Mountain View.
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8635188002 | Databricks | Staff Software Engineer, AI Native Web Platform | Mountain View, CA | ★ 3.5/5 — Staff SWE on AI Native Web Platform at Databricks. Web focus but Staff-level.
+
+#### Good Picks (3.0–3.4)
+
+
+
+#### Lower Priority (<3.0)
+
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8635225002 | Databricks | Software Engineer, Web Products | Mountain View, CA | ★ 2.8/5 — SWE Web Products at Databricks. Non-staff, web products focus — lower infra fit.
+- [ ] https://nuro.ai/careersitem?gh_jid=6972272 | Nuro | Software Engineer, Performance - New Grad | Mountain View, CA | ★ 1.5/5 — New Grad role — entry level. Mountain View. Logged for completeness; skip.
+
+---
 ## 2026-07-18 — Scout Scan
 
 > Full scan: 39 Greenhouse API endpoints + 8 WebSearch queries (Databricks, Stripe, Snowflake, Notion, Vercel, Linear, Retool, Cohere, Atlassian/Loom). **Verification:** unconfirmed (batch mode). Dedup against 13,915 history entries. **0 new high-priority matches** — pipeline is current. 3 new location/title-filtered entries logged to scan-history. Report: [scout-2026-07-18.md](../reports/scout-2026-07-18.md)
