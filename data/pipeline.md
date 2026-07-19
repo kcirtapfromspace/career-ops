@@ -5097,3 +5097,13 @@ https://www.zipline.com/open-roles?gh_jid=7805110003
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5189896007?gh_jid=5189896007  <!-- Anduril: Senior Software Engineer, Realtime Imaging | Boulder, Colorado | quickcheck-2026-07-17 -->
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5361472008  <!-- Anthropic: Engineering Manager, Growth | San Francisco, CA | New York City, NY | Seattle, WA | quickcheck-2026-07-18 -->
 - [ ] https://job-boards.greenhouse.io/chainguard/jobs/4697551006  <!-- Chainguard: Staff Software Engineer (Repositories) | United States - Remote | quickcheck-2026-07-18 -->
+
+## 2026-07-19 — Scout Scan
+
+> Full scout scan: 33 companies checked via Greenhouse/Ashby/Lever APIs + WebSearch. 1 genuinely new match. Report: [scout-2026-07-19.md](../reports/scout-2026-07-19.md)
+
+### New Match
+
+#### Confluent — Staff Software Engineer II (Remote US, NEW)
+
+- [ ] https://careers.confluent.io/jobs/15361691-staff-software-engineer-ii | Confluent | Staff Software Engineer II | Remote, United States | ★ 4.5/5 estimated — Staff-level at the Kafka company. Patrick uses Kafka daily (Kafka + Kinesis + Debezium CDC pipelines). Remote US. Verify JD at careers.confluent.io — rate-limited during scan.
