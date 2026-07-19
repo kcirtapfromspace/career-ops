@@ -1,4 +1,10 @@
 # Pipeline — Pending Offers
+## 2026-07-19 — Scout Quick-Check
+
+> Quick-check scan: 42 Greenhouse API endpoints. **Verification:** unconfirmed (batch mode). Dedup against 27,920 history entries. **1 new US match**. 3 API errors (PolyAI/Parloa EU unreachable, RunPod 404). Report: [scout-quickcheck-2026-07-19.md](../reports/scout-quickcheck-2026-07-19.md)
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5305402008 | Anthropic | Software Engineer, Web Platform | San Francisco, CA
+
 
 
 ## 2026-07-18 — Scout Quick-Check
