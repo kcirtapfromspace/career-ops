@@ -5113,3 +5113,4 @@ https://www.zipline.com/open-roles?gh_jid=7805110003
 #### Confluent — Staff Software Engineer II (Remote US, NEW)
 
 - [ ] https://careers.confluent.io/jobs/15361691-staff-software-engineer-ii | Confluent | Staff Software Engineer II | Remote, United States | ★ 4.5/5 estimated — Staff-level at the Kafka company. Patrick uses Kafka daily (Kafka + Kinesis + Debezium CDC pipelines). Remote US. Verify JD at careers.confluent.io — rate-limited during scan.
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5185971007?gh_jid=5185971007  <!-- Anduril: Senior Software Engineer, Developer Platform | Seattle, Washington, United States | quickcheck-2026-07-19 -->
