@@ -1,4 +1,14 @@
 # Pipeline — Pending Offers
+## 2026-07-20 — Scout Quick-Check
+
+> Quick-check scan: 42 Greenhouse API endpoints. **Verification:** unconfirmed (batch mode). Dedup against 14,626 history entries. **3 new US matches** (1 false-positive filtered). 1 API error (RunPod 404). Report: [scout-quickcheck-2026-07-20.md](../reports/scout-quickcheck-2026-07-20.md)
+
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4716453005 | Scale AI | AI Infrastructure Engineer, Sandbox Platform | San Francisco, CA; Seattle, WA; New York, NY
+- [ ] https://www.zipline.com/open-roles?gh_jid=7809118003 | Zipline | Software Engineer, Test Infrastructure | South San Francisco, CA
+- [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/4932720101 | PhysicsX | Forward Deployed Software Engineer | New York, NY
+
+
+
 ## 2026-07-19 — Scout Quick-Check
 
 > Quick-check scan: 42 Greenhouse API endpoints. **Verification:** unconfirmed (batch mode). Dedup against 27,920 history entries. **1 new US match**. 3 API errors (PolyAI/Parloa EU unreachable, RunPod 404). Report: [scout-quickcheck-2026-07-19.md](../reports/scout-quickcheck-2026-07-19.md)
