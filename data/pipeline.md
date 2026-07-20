@@ -5114,3 +5114,17 @@ https://www.zipline.com/open-roles?gh_jid=7805110003
 
 - [ ] https://careers.confluent.io/jobs/15361691-staff-software-engineer-ii | Confluent | Staff Software Engineer II | Remote, United States | ★ 4.5/5 estimated — Staff-level at the Kafka company. Patrick uses Kafka daily (Kafka + Kinesis + Debezium CDC pipelines). Remote US. Verify JD at careers.confluent.io — rate-limited during scan.
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5185971007?gh_jid=5185971007  <!-- Anduril: Senior Software Engineer, Developer Platform | Seattle, Washington, United States | quickcheck-2026-07-19 -->
+
+## 2026-07-20 — Scout Scan
+
+> Full scout scan: 45+ companies checked via Greenhouse APIs + WebSearch. 2 genuinely new matches. Report: [scout-2026-07-20.md](../reports/scout-2026-07-20.md)
+
+### New Matches
+
+#### Stripe — Staff Software Engineer, Data Engineering Solutions ⭐⭐⭐ (NEW)
+
+- [ ] https://stripe.com/jobs/listing/staff-software-engineer-data-engineering-solutions/8013220  <!-- Stripe: Staff SWE, Data Engineering Solutions | Seattle WA / South San Francisco CA (hybrid) | Comp: $224K–$336K | scout-2026-07-20 | score:4.3 | Kafka+Flink+Iceberg+CDC+Go — near-perfect stack match; Seattle relocation-ok -->
+
+#### Confluent — Staff Software Engineer, Stream Governance ⭐⭐ (NEW)
+
+- [ ] https://careers.confluent.io/jobs/14915003-staff-software-engineer-stream-governance-remote-usa-and-canada  <!-- Confluent: Staff SWE, Stream Governance | Remote USA | scout-2026-07-20 | score:3.9 | Kafka streaming + data catalog + lineage infra; IBM acquisition context; 2nd Confluent track -->
