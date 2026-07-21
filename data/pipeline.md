@@ -5156,3 +5156,46 @@ https://www.zipline.com/open-roles?gh_jid=7805110003
 #### Fivetran — Senior R&D Software Engineer, Fivetran AI (Oakland)
 
 - [ ] https://www.fivetran.com/careers/job?gh_jid=7810218003  <!-- Fivetran: Senior R&D SWE, Fivetran AI | Oakland, CA | scout-2026-07-21 | score:3.3 | Same AI role as Denver but Oakland office. Pursue Denver listing first. -->
+
+## 2026-07-21 — Quick Check (Greenhouse API)
+
+> Greenhouse API scan across 42 companies. 9 new matches after strict ID-dedup. Report: [scout-quickcheck-2026-07-21.md](../reports/scout-quickcheck-2026-07-21.md)
+
+### New Matches
+
+#### Fivetran — Senior Staff R&D Software Engineer, Fivetran AI ⭐⭐⭐ (Denver — NEW, Staff+)
+
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7810450003  <!-- Fivetran: Senior Staff R&D SWE, Fivetran AI | Denver, CO | scout-2026-07-21-quickcheck | score:4.5 | Staff+ level (above the Senior already in pipeline), Denver HQ, Fivetran AI team building next-gen data context layer. Top priority alongside 7810467003. -->
+
+#### Fivetran — Staff R&D Software Engineer, Fivetran AI ⭐⭐⭐ (Denver — NEW)
+
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7812000003  <!-- Fivetran: Staff R&D SWE, Fivetran AI | Denver, CO | scout-2026-07-21-quickcheck | score:4.3 | Staff level, Denver, same Fivetran AI track (Agents Schema + Context Builder). Strong fit alongside existing Denver pipeline entry. -->
+
+#### Zipline — Senior Data Engineer, Data Platform ⭐⭐⭐ (SF — NEW)
+
+- [ ] https://www.zipline.com/open-roles?gh_jid=7810390003  <!-- Zipline: Senior Data Engineer - Data Platform | South San Francisco, CA | scout-2026-07-21-quickcheck | score:4.0 | Exact title match. Drone delivery with hardware moat. Data platform build for autonomous logistics. Strong technical fit. -->
+
+#### Airtable — Engineering Manager, AI Tooling ⭐⭐ (SF — NEW)
+
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8606309002  <!-- Airtable: Engineering Manager, AI Tooling | SF | scout-2026-07-21-quickcheck | score:4.0 | EM role for AI tooling team; Airtable no-code + AI platform; requires SF. EM archetype match. -->
+
+#### Aurora Innovation — Software Engineer, Maps Infra (Louisville, CO — NEW)
+
+- [ ] https://aurora.tech/jobs/8643038002?gh_jid=8643038002  <!-- Aurora Innovation: Software Engineer, Maps Infra | Louisville, CO (near Denver) | scout-2026-07-21-quickcheck | score:3.5 | Louisville CO = near Denver. Maps infra = pipeline/platform work. Aurora self-driving trucks has Denver office. Investigate if Maps Infra = data infra. -->
+
+#### Fivetran — Senior Staff R&D Software Engineer, Fivetran AI (Oakland)
+
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7810361003  <!-- Fivetran: Senior Staff R&D SWE, Fivetran AI | Oakland, CA | scout-2026-07-21-quickcheck | score:3.5 | Same Staff+ AI role as Denver variant. Oakland location less ideal. Apply Denver first. -->
+
+#### Airtable — Sr. Engineering Manager, Enterprise Platform (SF)
+
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8177765002  <!-- Airtable: Sr. Engineering Manager, Enterprise Platform | SF | scout-2026-07-21-quickcheck | score:3.5 | Senior EM for enterprise platform; SF required. Lower priority vs AI Tooling EM role. -->
+
+#### Fivetran — Senior Staff Software Engineer (Remote/NY)
+
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7791958003  <!-- Fivetran: Senior Staff Software Engineer | Remote, New York, AMER | scout-2026-07-21-quickcheck | score:3.5 | Staff+ level, remote-eligible but NY-anchored. Verify if truly US-remote or NY-only. -->
+
+#### Fivetran — Staff R&D Software Engineer, Fivetran AI (Oakland)
+
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7810220003  <!-- Fivetran: Staff R&D SWE, Fivetran AI | Oakland, CA | scout-2026-07-21-quickcheck | score:3.3 | Staff level, Oakland. Apply Denver variant first; track if Oakland is viable backup. -->
+
