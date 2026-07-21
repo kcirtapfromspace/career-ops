@@ -5138,3 +5138,21 @@ https://www.zipline.com/open-roles?gh_jid=7805110003
 #### Confluent — Staff Software Engineer, Stream Governance ⭐⭐ (NEW)
 
 - [ ] https://careers.confluent.io/jobs/14915003-staff-software-engineer-stream-governance-remote-usa-and-canada  <!-- Confluent: Staff SWE, Stream Governance | Remote USA | scout-2026-07-20 | score:3.9 | Kafka streaming + data catalog + lineage infra; IBM acquisition context; 2nd Confluent track -->
+
+## 2026-07-21 — Scout Scan
+
+> Incremental scan focused on Anthropic and Fivetran (most companies swept July 18–20). 3 new matches. Report: [scout-2026-07-21.md](../reports/scout-2026-07-21.md)
+
+### New Matches
+
+#### Fivetran — Senior R&D Software Engineer, Fivetran AI ⭐⭐⭐ (Denver — NEW)
+
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7810467003  <!-- Fivetran: Senior R&D SWE, Fivetran AI | Denver, CO | scout-2026-07-21 | score:4.2 | Denver HQ, building Agents Schema + Context Builder (AI-native data context layer), Fivetran+dbt merger. Exact data pipeline + AI infra overlap. Apply this week. -->
+
+#### Anthropic — Staff Software Engineer, Growth ⭐⭐ (NEW)
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5363469008  <!-- Anthropic: Staff SWE, Growth | SF | NYC | Seattle | scout-2026-07-21 | score:3.5 | Staff level (primary archetype match), SF/Seattle relocation-ok, Anthropic comp $280K+. Growth team = less infra-fit but evaluate JD closely. -->
+
+#### Fivetran — Senior R&D Software Engineer, Fivetran AI (Oakland)
+
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7810218003  <!-- Fivetran: Senior R&D SWE, Fivetran AI | Oakland, CA | scout-2026-07-21 | score:3.3 | Same AI role as Denver but Oakland office. Pursue Denver listing first. -->
