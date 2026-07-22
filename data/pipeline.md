@@ -1,4 +1,13 @@
 # Pipeline — Pending Offers
+## 2026-07-22 — Scout Quick-Check
+
+> Quick-check scan: 52 Greenhouse API endpoints. **Verification:** unconfirmed (batch mode). Dedup against 14,744 history entries. **2 new Staff+ Anthropic matches**. 1 API error (Anduril ENOBUFS). Report: [scout-quickcheck-2026-07-22.md](../reports/scout-quickcheck-2026-07-22.md)
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5368040008 | Anthropic | Staff+ Software Engineer, Claude Science | San Francisco, CA
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5368034008 | Anthropic | Staff+ Software Engineer, Enterprise AI Products | San Francisco, CA | New York City, NY
+
+
+
 ## 2026-07-20 — Scout Quick-Check
 
 > Quick-check scan: 42 Greenhouse API endpoints. **Verification:** unconfirmed (batch mode). Dedup against 14,626 history entries. **3 new US matches** (1 false-positive filtered). 1 API error (RunPod 404). Report: [scout-quickcheck-2026-07-20.md](../reports/scout-quickcheck-2026-07-20.md)
