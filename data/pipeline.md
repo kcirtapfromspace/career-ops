@@ -5199,3 +5199,50 @@ https://www.zipline.com/open-roles?gh_jid=7805110003
 
 - [ ] https://www.fivetran.com/careers/job?gh_jid=7810220003  <!-- Fivetran: Staff R&D SWE, Fivetran AI | Oakland, CA | scout-2026-07-21-quickcheck | score:3.3 | Staff level, Oakland. Apply Denver variant first; track if Oakland is viable backup. -->
 
+
+---
+
+## Scout: 2026-07-22 Quick Check (Greenhouse API)
+
+_8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineering PM role, 1 hardware test specialist)_
+
+---
+
+### Tier 1 — High Priority
+
+#### Anthropic — Machine Learning Infrastructure Engineer, Safeguards Research (SF or NYC)
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5364804008  <!-- Anthropic: Machine Learning Infrastructure Engineer, Safeguards Research | SF or NYC | scout-2026-07-22-quickcheck | score:4.5 | ML infra role at Anthropic focused on safeguards research. Dream company. Staff-equivalent scope. SF or NYC required. -->
+
+#### Anthropic — Data Engineer, Safeguards (SF or NYC)
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5247446008  <!-- Anthropic: Data Engineer, Safeguards | SF or NYC | scout-2026-07-22-quickcheck | score:4.0 | Data engineering at Anthropic for safety/safeguards team. Direct stack fit. SF or NYC required — verify if remote option exists. -->
+
+#### Zipline — Staff Platform Software Engineer, AI Enablement (South San Francisco)
+
+- [ ] https://www.zipline.com/open-roles?gh_jid=7812167003  <!-- Zipline: Staff Platform Software Engineer, AI Enablement | South San Francisco, CA | scout-2026-07-22-quickcheck | score:4.0 | Staff-level platform + AI enablement at hardware-moat drone delivery co. High relevance to data platform + AI infra background. -->
+
+---
+
+### Tier 2 — Strong Matches
+
+#### Anduril — Senior Software Engineer, C++ (Broomfield, CO — near Denver)
+
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5192909007?gh_jid=5192909007  <!-- Anduril: Senior Software Engineer, C++ | Broomfield, CO (near Denver) | scout-2026-07-22-quickcheck | score:3.5 | Dream company, Colorado location. C++ focus — review if systems-level C++ aligns or if Python/Go stack preferred. -->
+
+#### Anduril — Senior Software Engineer, Realtime Imaging (Boulder, CO — near Denver)
+
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5193759007?gh_jid=5193759007  <!-- Anduril: Senior Software Engineer, Realtime Imaging | Boulder, CO (near Denver) | scout-2026-07-22-quickcheck | score:3.5 | Dream company, Colorado location. Realtime imaging = specialized computer vision domain. Evaluate fit carefully. -->
+
+#### Figure AI — Helix AI Engineer, XR (San Jose, CA)
+
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4699095006  <!-- Figure AI: Helix AI Engineer, XR | San Jose, CA | scout-2026-07-22-quickcheck | score:3.5 | AI engineer on humanoid robot (Figure 02) XR interface. Unique intersection of AI infra + robotics. Hardware moat. -->
+
+#### Zipline — Senior Software Engineer (South San Francisco)
+
+- [ ] https://www.zipline.com/open-roles?gh_jid=7812135003  <!-- Zipline: Senior Software Engineer | South San Francisco, CA | scout-2026-07-22-quickcheck | score:3.5 | Senior SWE at drone delivery hardware-moat co. Broad role — review JD for backend/platform focus. -->
+
+#### Zipline — Software Engineer, Maps Routing (South San Francisco)
+
+- [ ] https://www.zipline.com/open-roles?gh_jid=7812206003  <!-- Zipline: Software Engineer, Maps Routing | South San Francisco, CA | scout-2026-07-22-quickcheck | score:3.5 | Maps/routing domain similar to Aurora Maps Infra role. Zipline = delivery drones, routing = core infra. -->
+
