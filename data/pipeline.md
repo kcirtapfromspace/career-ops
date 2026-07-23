@@ -1,4 +1,10 @@
 # Pipeline — Pending Offers
+## 2026-07-23 — Scout Scan
+
+> Full portal scan: 40+ companies, 37 Greenhouse API board sweeps, 2 Ashby boards. Dedup against ~14,760 history entries. **1 new high-priority match**. Report: [scout-2026-07-23.md](../reports/scout-2026-07-23.md)
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5367417008 | Anthropic | Evals Infrastructure Tech Lead / Manager | San Francisco, CA | ★ 4.5/5 — Python+Rust+distributed systems TLM; safety-critical AI infra; SF relocate-OK; apply now
+
 ## 2026-07-22 — Scout Quick-Check
 
 > Quick-check scan: 52 Greenhouse API endpoints. **Verification:** unconfirmed (batch mode). Dedup against 14,744 history entries. **2 new Staff+ Anthropic matches**. 1 API error (Anduril ENOBUFS). Report: [scout-quickcheck-2026-07-22.md](../reports/scout-quickcheck-2026-07-22.md)
