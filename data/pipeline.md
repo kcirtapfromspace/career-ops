@@ -5300,3 +5300,40 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 
 - [ ] https://www.zipline.com/open-roles?gh_jid=7812206003  <!-- Zipline: Software Engineer, Maps Routing | South San Francisco, CA | scout-2026-07-22-quickcheck | score:3.5 | Maps/routing domain similar to Aurora Maps Infra role. Zipline = delivery drones, routing = core infra. -->
 
+
+## 2026-07-23 — Scout Quick-Check (2nd pass)
+
+> Quick-check scan: 42 Greenhouse API boards, dedup against 14,793 history entries. **8 new matches** (after cross-referencing 1,789 job IDs already in pipeline). Databricks massive new-job push detected (80+ roles, most already tracked). Nuro board refresh (~40 roles, most already tracked). Report: [scout-quickcheck-2026-07-23b.md](../reports/scout-quickcheck-2026-07-23b.md)
+
+---
+#### Databricks — Engineering Manager, Foundation Model Inference (FMAPI) (Mountain View, CA)
+
+- [ ] https://job-boards.greenhouse.io/databricks/jobs/8643979002  <!-- Databricks: Engineering Manager, Foundation Model Inference (FMAPI) | Mountain View, CA | scout-quickcheck-2026-07-23b | score:4.5 | Dream company. EM for LLM inference infrastructure. Foundation model serving is core ML infra. -->
+
+#### Databricks — Sr Software Engineer, Agentic Applications (Mountain View, CA)
+
+- [ ] https://job-boards.greenhouse.io/databricks/jobs/8220814002  <!-- Databricks: Sr Software Engineer, Agentic Applications | Mountain View, CA | scout-quickcheck-2026-07-23b | score:4.0 | Dream company. Agentic application infrastructure — directly relevant AI engineering work. -->
+
+#### Anduril — Senior Software Engineer (Seattle, WA)
+
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5195030007  <!-- Anduril: Senior Software Engineer | Seattle, WA | scout-quickcheck-2026-07-23b | score:3.8 | Dream company. Seattle = acceptable relocation. Defense tech, hardware moat. Generic SWE title — verify JD for backend/platform focus. -->
+
+#### Fivetran — Senior Staff R&D Software Engineer, Fivetran AI (Austin, TX — dbt)
+
+- [ ] https://job-boards.greenhouse.io/fivetran/jobs/7810446003  <!-- Fivetran: Senior Staff R&D Software Engineer, Fivetran AI | Austin, TX (dbt office) | scout-quickcheck-2026-07-23b | score:3.7 | Fivetran AI division at dbt Labs Austin office. Senior Staff level. Direct stack fit. Austin = relocation consideration. -->
+
+#### Fivetran — Staff R&D Software Engineer, Fivetran AI (Austin, TX — dbt)
+
+- [ ] https://job-boards.greenhouse.io/fivetran/jobs/7811996003  <!-- Fivetran: Staff R&D Software Engineer, Fivetran AI | Austin, TX (dbt office) | scout-quickcheck-2026-07-23b | score:3.6 | Fivetran AI division at dbt Labs Austin office. Staff level. Direct fit. -->
+
+#### Fivetran — Senior R&D Software Engineer, Fivetran AI (Austin, TX — dbt)
+
+- [ ] https://job-boards.greenhouse.io/fivetran/jobs/7810466003  <!-- Fivetran: Senior R&D Software Engineer, Fivetran AI | Austin, TX (dbt office) | scout-quickcheck-2026-07-23b | score:3.5 | Fivetran AI R&D at dbt Austin. Senior level. Review if remote option available. -->
+
+#### Rocket Lab — Senior Ground Software Engineer II (Long Beach, CA)
+
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7814693003  <!-- Rocket Lab: Senior Ground Software Engineer II | Long Beach, CA | scout-quickcheck-2026-07-23b | score:3.2 | Aerospace hardware moat. Ground software = mission control systems. Domain-specific; review JD for platform/infra applicability. -->
+
+#### Rocket Lab — Senior Ground Software Engineer I (Long Beach, CA)
+
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7814686003  <!-- Rocket Lab: Senior Ground Software Engineer I | Long Beach, CA | scout-quickcheck-2026-07-23b | score:3.0 | Aerospace hardware moat. Level I = less senior than typical target. Same role as above; review both. -->
