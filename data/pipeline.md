@@ -5,6 +5,45 @@
 
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5367417008 | Anthropic | Evals Infrastructure Tech Lead / Manager | San Francisco, CA | ★ 4.5/5 — Python+Rust+distributed systems TLM; safety-critical AI infra; SF relocate-OK; apply now
 
+## 2026-07-23 — Scout Quick-Check
+
+> Quick-check scan: 42 Greenhouse API endpoints. **Verification:** unconfirmed (batch mode). Dedup against 14766 history entries. **25 new US/remote matches** (2 filtered as false-positive/junior). 1 API error (RunPod 404). Report: [scout-quickcheck-2026-07-23.md](../reports/scout-quickcheck-2026-07-23.md)
+
+#### Top Picks
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5368166008 | Anthropic | Staff Software Engineer, GTM Systems | San Francisco, CA
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8625370002 | Airtable | Engineering Manager, Admin & Governance | San Francisco, CA
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7812269003 | Fivetran | Principal Software Engineer, AI Tooling & Adoption | Oakland, California, United States, AMER
+- [ ] https://nuro.ai/careersitem?gh_jid=6516915 | Nuro | Senior Software Engineer, Perception, Machine Learning/Computer Vision | Mountain View, California (HQ)
+
+#### Strong Picks
+
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5193746007?gh_jid=5193746007 | Anduril | Senior Deployed Software Engineer | Lexington, Massachusetts, United States
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5193740007?gh_jid=5193740007 | Anduril | Senior Production Software Engineer | Lexington, Massachusetts, United States
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7812734003?gh_jid=7812734003 | Celonis |  Staff Software Engineer | Redwood City, US, California
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5778615004 | Clickhouse | Senior Cloud Data Infrastructure Engineer | Germany (remote)
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5778616004 | Clickhouse | Senior Cloud Data Infrastructure Engineer | Canada (Remote)
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/8068089 | Planet Labs | Senior Engineering Manager, D&I Analytics | Washington, D.C.
+
+#### Notable — Review Carefully
+
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5192574007?gh_jid=5192574007 | Anduril | Mission Software Engineer | Reston, Virginia, United States
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5193977007?gh_jid=5193977007 | Anduril | Scientific Senior Software Engineer | Broomfield, Colorado, United States; Fort Collins, Colorado, United States
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5193934007?gh_jid=5193934007 | Anduril | Scientific Software Engineer | Broomfield, Colorado, United States; Fort Collins, Colorado, United States
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5194570007?gh_jid=5194570007 | Anduril | Scientific Software Engineer | Broomfield, Colorado, United States; Fort Collins, Colorado, United States
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5193789007?gh_jid=5193789007 | Anduril | Senior Flight Software Engineer | Costa Mesa, California, United States
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5193748007?gh_jid=5193748007 | Anduril | Senior Mission Software Engineer | Lexington, Massachusetts, United States
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5193973007?gh_jid=5193973007 | Anduril | Senior Scientific Software Engineer | Broomfield, Colorado, United States; Fort Collins, Colorado, United States
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5193980007?gh_jid=5193980007 | Anduril | Senior Software Engineer, Air & Missile Defense | Broomfield, Colorado, United States; Fort Collins, Colorado, United States
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5193976007?gh_jid=5193976007 | Anduril | Senior Software Engineer, C++ | Broomfield, Colorado, United States; Fort Collins, Colorado, United States
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5193974007?gh_jid=5193974007 | Anduril | Senior Software Engineer, C++ | Broomfield, Colorado, United States; Fort Collins, Colorado, United States
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5194816007?gh_jid=5194816007 | Anduril | Senior Software Engineer, Design Review Tool | Costa Mesa, California, United States
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5193932007?gh_jid=5193932007 | Anduril | Software Engineer, Air & Missile Defense | Huntsville, Alabama, United States
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5194551007?gh_jid=5194551007 | Anduril | Software Engineer, Air & Missile Defense  | Broomfield, Colorado, United States; Fort Collins, Colorado, United States
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5194563007?gh_jid=5194563007 | Anduril | Software Engineer, C++ | Broomfield, Colorado, United States; Fort Collins, Colorado, United States
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5194560007?gh_jid=5194560007 | Anduril | Software Engineer, Sensor Fusion | Broomfield, Colorado, United States; Fort Collins, Colorado, United States
+
+
 ## 2026-07-22 — Scout Quick-Check
 
 > Quick-check scan: 52 Greenhouse API endpoints. **Verification:** unconfirmed (batch mode). Dedup against 14,744 history entries. **2 new Staff+ Anthropic matches**. 1 API error (Anduril ENOBUFS). Report: [scout-quickcheck-2026-07-22.md](../reports/scout-quickcheck-2026-07-22.md)
