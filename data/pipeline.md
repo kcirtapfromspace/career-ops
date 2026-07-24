@@ -5388,3 +5388,33 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 #### Rocket Lab — Senior Ground Software Engineer I (Long Beach, CA)
 
 - [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7814686003  <!-- Rocket Lab: Senior Ground Software Engineer I | Long Beach, CA | scout-quickcheck-2026-07-23b | score:3.0 | Aerospace hardware moat. Level I = less senior than typical target. Same role as above; review both. -->
+
+
+## 2026-07-24 — Scout Quick-Check (2nd pass)
+
+> Quick-check scan: 43 Greenhouse API boards, dedup against 19,217 history entries. **6 new pipeline matches** (1 skipped — Canada-only remote). RunPod API unavailable (board may have changed). Report: [scout-quickcheck-2026-07-24b.md](../reports/scout-quickcheck-2026-07-24b.md)
+
+---
+#### Anduril — Software Engineer, Battlespace Awareness (Broomfield/Fort Collins, CO)
+
+- [ ] https://job-boards.greenhouse.io/andurilindustries/jobs/5195728007  <!-- Anduril: Software Engineer, Battlespace Awareness | Broomfield/Fort Collins, CO | scout-quickcheck-2026-07-24b | score:4.2 | Dream company. Colorado (Denver metro) = home turf. Battlespace Awareness = sensor fusion + data pipelines for defense. New role since yesterday. -->
+
+#### Databricks — Staff Software Engineer, Foundation Model Inference (San Francisco, CA)
+
+- [ ] https://job-boards.greenhouse.io/databricks/jobs/8649279002  <!-- Databricks: Staff Software Engineer- Foundation Model Inference | San Francisco, CA | scout-quickcheck-2026-07-24b | score:4.0 | Dream company. Staff-level ML infra, foundation model serving = ML systems engineering. SF = acceptable location. -->
+
+#### Samsara — Senior Software Engineer II (Remote - US)
+
+- [ ] https://job-boards.greenhouse.io/samsara/jobs/8063736  <!-- Samsara: Senior Software Engineer II | Remote - US | scout-quickcheck-2026-07-24b | score:3.5 | IoT platform at scale. Remote-US. Generic SWE title — review JD for data/platform focus. Companion to today's full-scan picks. -->
+
+#### Rocket Lab — Senior Flight Software Engineer II (Long Beach, CA — Secret Clearance)
+
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7815786003  <!-- Rocket Lab: Senior Flight Software Engineer II | Long Beach, CA | scout-quickcheck-2026-07-24b | score:2.8 | Aerospace hardware moat. Secret clearance required. Flight software = avionics-adjacent. Long Beach on-site only. Low priority. -->
+
+#### Rocket Lab — Senior Flight Software Engineer I (Long Beach, CA — Secret Clearance)
+
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7815785003  <!-- Rocket Lab: Senior Flight Software Engineer I | Long Beach, CA | scout-quickcheck-2026-07-24b | score:2.5 | Aerospace hardware moat. Secret clearance required. Level I = more junior. Low priority. -->
+
+#### Rocket Lab — Software Engineer II (Long Beach, CA)
+
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7814843003  <!-- Rocket Lab: Software Engineer II | Long Beach, CA | scout-quickcheck-2026-07-24b | score:3.0 | Aerospace hardware moat. Generic title — review JD. Level II. Long Beach on-site only. -->
