@@ -1,4 +1,55 @@
 # Pipeline — Pending Offers
+## 2026-07-24 — Scout Scan
+
+> Full portal scan: 60+ companies — 35 Greenhouse boards, 15 Ashby boards, 7 Lever boards. Dedup against ~11,009 history entries + pipeline. **210 new matches** after filter; **18 top picks** (4.0+). Report: [scout-2026-07-24.md](../reports/scout-2026-07-24.md)
+
+#### Top Picks
+
+- [ ] https://www.samsara.com/company/careers/roles/7266357?gh_jid=7266357 | Samsara | Staff Machine Learning Engineer - Edge AI | Remote - US | ★ 4.5/5 — Staff ML + IoT at scale, K8s, remote-US, likely $240-270K
+- [ ] https://jobs.ashbyhq.com/langchain/33f6d721-f75f-4fcc-8df9-e2a13c018e1c | LangChain | Software Engineering Manager, AI Observability & Evals Platform | San Francisco, CA | ★ 4.3/5 — EM for LangSmith evals; perfect match for VA.gov Watchtower story + DORA metrics; SF relocate-OK
+- [ ] https://jobs.ashbyhq.com/cohere/6a6120d5-5e02-4811-99d9-6baf0b910e37 | Cohere | Engineering Manager, FDE Infrastructure (NORAM) | US Remote | ★ 4.3/5 — EM role, federal delivery background = differentiator, enterprise AI
+- [ ] https://jobs.ashbyhq.com/cohere/28239d75-5dd9-41fb-ba43-cb08b491be2b | Cohere | Engineering Manager, GPU Infrastructure | US/Canada Remote | ★ 4.3/5 — EM for ML infra, K8s/multi-cluster experience highly relevant
+- [ ] https://jobs.ashbyhq.com/langchain/d81c35c1-7243-45e4-bfe2-7fc8746c76b9 | LangChain | Software Engineering Manager, Database (SmithDB) | San Francisco, CA | ★ 4.2/5 — EM for LangSmith DB; CDC pipeline + data platform background maps directly; SF relocate-OK
+- [ ] https://www.samsara.com/company/careers/roles/7721193?gh_jid=7721193 | Samsara | Lead Machine Learning Engineer - ML Infrastructure | Remote - US | ★ 4.2/5 — Lead ML infra, MLOps + Argo Workflows experience is relevant
+- [ ] https://jobs.ashbyhq.com/deepgram/e90eefc1-88ec-4d3c-948b-b21c57ef6b18 | Deepgram | Engineering Manager, Console Team | USA Remote | ★ 4.1/5 — EM for developer console/PLG; HHS NLP + team leadership background
+- [ ] https://jobs.ashbyhq.com/confluent/8606dc2b-3ad7-4423-9cbb-c7e6df0a1ae5 | Confluent | Staff Software Engineer | Remote, US | ★ 4.1/5 — Staff at Kafka company; Patrick built CDC pipelines on Kafka/Debezium; rare direct domain expertise
+- [ ] https://jobs.ashbyhq.com/confluent/85107937-8f12-4336-abb8-e88f344c6bcc | Confluent | Principal Engineer, Engineering AI Productivity | Remote, US | ★ 4.1/5 — Principal IC for AI DevEx tooling; DORA metrics + observability story maps directly
+- [ ] https://www.samsara.com/company/careers/roles/7922530?gh_jid=7922530 | Samsara | Senior Software Engineer - Data Platform | Remote - US | ★ 4.1/5 — Data platform at petabyte IoT scale; CDC/lakehouse/Kafka expertise relevant
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4689673006 | Chainguard | Engineering Manager, Internal Developer Platform | US Remote | ★ 4.0/5 — EM for DevEx platform, federal/K8s background; supply chain security domain
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4689447006 | Chainguard | Staff Software Engineer (Athena) | US Remote | ★ 4.0/5 — Staff Go engineer; Chainguard Athena is enterprise security platform; federal domain match
+- [ ] https://jobs.ashbyhq.com/pinecone/7ef089cb-a721-4ad8-a6d0-c390e64991d2 | Pinecone | Senior/Staff Software Engineer, Search & Retrieval Infrastructure | US Remote | ★ 4.0/5 — Staff-flex at leading vector DB company; data infra background relevant
+- [ ] https://jobs.ashbyhq.com/modal/84467a68-6876-4730-9d80-6c6f3d0c2d71 | Modal | Member of Technical Staff - Platform Engineering | New York / Stockholm | ★ 4.0/5 — MTS at hot Rust/Python serverless compute platform; NYC remote-OK; Rust + K8s background
+- [ ] https://jobs.lever.co/spotify/76458bae-8a16-4c42-8780-f9452206f0e0 | Spotify | Staff Machine Learning Engineer - Content Intelligence | New York, NY | ★ 4.0/5 — Staff ML at Spotify; content/NLP; HHS BERT story relevant; NYC remote-only
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7790282003?gh_jid=7790282003 | Celonis | Staff Software Engineer | New York, US | ★ 4.0/5 — Staff at process intelligence unicorn; NYC remote-only
+- [ ] https://jobs.ashbyhq.com/deepgram/94ae2781-a85f-493a-86c1-ff85a9289355 | Deepgram | Applied ML Engineer | USA Remote | ★ 4.0/5 — Applied ML at voice AI co; HHS BERT sub-200ms inference story direct match
+- [ ] https://www.samsara.com/company/careers/roles/7964565?gh_jid=7964565 | Samsara | Senior Data Engineer | Remote - US | ★ 4.0/5 — Senior DE at IoT scale; multiple parallel openings = active growth
+
+#### Strong Picks
+
+- [ ] https://jobs.ashbyhq.com/cohere/41f23dad-9da2-451a-bd1e-a1800437cb64 | Cohere | Staff Software Engineer, Inference Infrastructure | SF/NY/Toronto
+- [ ] https://jobs.ashbyhq.com/cohere/6d499dbb-8209-4f02-ae57-a1f1efa9ecbb | Cohere | Senior/Staff Software Engineer, Developer Experience | US/Canada Remote
+- [ ] https://jobs.ashbyhq.com/cohere/6aa3cb2b-ee8b-4c92-b505-3a7509f80d7f | Cohere | Software Engineer, Data Infrastructure | US/Canada Remote
+- [ ] https://jobs.ashbyhq.com/deepgram/f424ef6a-c27f-4984-9e77-40a1ad16ae28 | Deepgram | Platform Engineer, AI/ML Infrastructure (K8s+Terraform) | USA Remote
+- [ ] https://jobs.ashbyhq.com/deepgram/68372d7d-b7a9-439e-a0a7-76690576aba4 | Deepgram | Software Engineer, Applied AI (Senior or Staff Level) | SF/NYC
+- [ ] https://jobs.ashbyhq.com/deepgram/4a873ede-8555-42ae-9ddc-ac89afdd7278 | Deepgram | Software Engineer, Voice Agents & AI (Sr/Staff) | SF/NYC
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4689477006 | Chainguard | Principal Software Engineer (Athena) | US Remote
+- [ ] https://jobs.ashbyhq.com/confluent/f6b05632-b694-49bf-9464-0af5430c8c6c | Confluent | Senior Engineering Manager, Flink Control Plane | Remote CA
+- [ ] https://jobs.ashbyhq.com/langchain/e1263bfe-b638-4019-b4d5-0aacca93b2b3 | LangChain | Software Engineering Manager, AI Observability & Evals (NYC) | New York, NY
+- [ ] https://jobs.ashbyhq.com/langchain/d3f8de08-2e2b-4c3f-be1f-e63ca51f1d93 | LangChain | Principal Software Engineer, AI Observability & Evals | Boston, MA
+- [ ] https://jobs.ashbyhq.com/langchain/cb61f821-d8c4-4ec5-940d-3fd83be63a5f | LangChain | Senior Backend Engineer, LangSmith Deployments | SF/NY
+- [ ] https://jobs.ashbyhq.com/pinecone/773e953d-8f53-4313-93b4-35a553bad1cb | Pinecone | Senior/Staff Software Engineer, Experience | US Remote
+- [ ] https://jobs.ashbyhq.com/modal/aa4c345a-66e1-45b7-8c75-b7b4a0662eaa | Modal | Systems Engineering Manager | New York
+- [ ] https://jobs.ashbyhq.com/ramp/bca0346c-b843-4795-96df-6091f51e421b | Ramp | Software Engineer, Data Platform | NYC HQ
+- [ ] https://jobs.ashbyhq.com/elevenlabs/6c4c57c1-ec72-42ba-af3a-eb7aebbde2e6 | ElevenLabs | Forward Deployed Engineer - Software Engineer | SF/NY
+- [ ] https://job-boards.eu.greenhouse.io/polyai/jobs/4796935101 | PolyAI | Forward Deployed AI Engineer (PST required) | US West Remote
+- [ ] https://nuro.ai/careersitem?gh_jid=7895640 | Nuro | Senior/Staff SWE, Data Platform | Mountain View CA
+- [ ] https://nuro.ai/careersitem?gh_jid=7895638 | Nuro | Senior/Staff SWE, ML Data Infrastructure | Mountain View CA
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5195030007?gh_jid=5195030007 | Anduril | Senior Software Engineer | Seattle, WA
+- [ ] https://jobs.lever.co/shieldai/db5d644a-6d56-46fa-bb49-83b144af0acd | Shield AI | Staff Engineer, HMS DevOps/DevEx | Washington DC
+- [ ] https://www.samsara.com/company/careers/roles/7356410?gh_jid=7356410 | Samsara | Senior Software Engineer II - Agent Foundations | Remote US
+- [ ] https://www.samsara.com/company/careers/roles/7491153?gh_jid=7491153 | Samsara | AI Engineer | Remote US
+- [ ] https://www.samsara.com/company/careers/roles/8039914?gh_jid=8039914 | Samsara | Senior Data Engineer II | Remote US
+
 ## 2026-07-23 — Scout Scan
 
 > Full portal scan: 40+ companies, 37 Greenhouse API board sweeps, 2 Ashby boards. Dedup against ~14,760 history entries. **1 new high-priority match**. Report: [scout-2026-07-23.md](../reports/scout-2026-07-23.md)
