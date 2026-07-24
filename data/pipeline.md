@@ -5418,3 +5418,96 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 #### Rocket Lab — Software Engineer II (Long Beach, CA)
 
 - [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7814843003  <!-- Rocket Lab: Software Engineer II | Long Beach, CA | scout-quickcheck-2026-07-24b | score:3.0 | Aerospace hardware moat. Generic title — review JD. Level II. Long Beach on-site only. -->
+
+---
+
+## 2026-07-24 — Scout Quick-Check (3rd pass)
+
+> Quick-check scan: 42 Greenhouse API boards, dedup against 19,961 history entries. **21 new pipeline matches**. RunPod 404 ongoing. Databricks response truncated (some roles may be missing). Report: [scout-quickcheck-2026-07-24c.md](../reports/scout-quickcheck-2026-07-24c.md)
+
+---
+
+#### Fivetran — Senior Platform Software Engineer, Transport (Remote, Colorado)
+
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7787903003  <!-- Fivetran: Senior Platform Software Engineer, Transport | Remote, Colorado, United States | scout-quickcheck-2026-07-24c | score:4.5 | Dream match. Fivetran = Denver/Remote local company, Patrick's stack. Platform software engineering for data transport = exact domain. Remote Colorado = home turf. HIGH PRIORITY. -->
+
+#### Databricks — Principal Engineer, AI/ML Infrastructure (San Francisco, CA)
+
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8642156002  <!-- Databricks: Principal Engineer, AI/ML Infrastructure | San Francisco, CA | scout-quickcheck-2026-07-24c | score:4.3 | Dream company ($43B). Principal-level AI/ML infrastructure. SF = acceptable location. Top-tier role. -->
+
+#### Chainguard — Senior Software Engineer, Developer Platform (United States - Remote)
+
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4699416006  <!-- Chainguard: Senior Software Engineer, Developer Platform | United States - Remote | scout-quickcheck-2026-07-24c | score:4.2 | US Remote. Developer platform = K8s/containers/Argo/Tekton. Patrick's supply chain security + cloud-native stack. Direct match. -->
+
+#### Databricks — Site Reliability Engineer (United States)
+
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8614521002  <!-- Databricks: Site Reliability Engineer | United States | scout-quickcheck-2026-07-24c | score:4.0 | Dream company. SRE at Databricks = large-scale distributed systems reliability. US location (likely remote). -->
+
+#### PhysicsX — Machine Learning Engineer (San Francisco, CA)
+
+- [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/4880947101  <!-- PhysicsX: Machine Learning Engineer | San Francisco, CA | scout-quickcheck-2026-07-24c | score:3.8 | Physics-informed ML for engineering simulation. SF location. London UK company with SF presence. Intersection of ML + physical systems. -->
+
+#### Fivetran — Principal Software Engineer - Data Lakes (Remote, Germany)
+
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7771684003  <!-- Fivetran: Principal Software Engineer - Data Lakes | Remote, Germany | scout-quickcheck-2026-07-24c | score:3.8 | Principal-level. Data lakes = Patrick's domain. Germany-remote (EU role for a US company). Fivetran = direct stack match. -->
+
+#### PhysicsX — Principal Machine Learning Infrastructure Engineer (London)
+
+- [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/4789202101  <!-- PhysicsX: Principal Machine Learning Infrastructure Engineer | London, United Kingdom | scout-quickcheck-2026-07-24c | score:3.7 | Principal-level ML infra. London. Physics-informed ML for aerospace/energy/automotive. Unique domain, strong infra focus. -->
+
+#### Isomorphic Labs — Senior Software Engineer (Inference Platform) (London)
+
+- [ ] https://job-boards.greenhouse.io/isomorphiclabs/jobs/5837899004  <!-- Isomorphic Labs: Senior Software Engineer (Inference Platform) | London | scout-quickcheck-2026-07-24c | score:3.7 | DeepMind spinout for drug discovery AI. Senior SWE building inference platform = ML systems engineering. London. -->
+
+#### Scale AI — AI Infrastructure Engineer, Serving Platform (London)
+
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4717977005  <!-- Scale AI: AI Infrastructure Engineer, Serving Platform | London, UK | scout-quickcheck-2026-07-24c | score:3.6 | Scale AI ($7.3B). AI infrastructure, model serving platform. London UK. Defense + enterprise AI data infrastructure. -->
+
+#### N26 — Engineering Manager, Runtime Platform (Barcelona)
+
+- [ ] https://n26.com/en-eu/careers/positions/8077056?gh_jid=8077056  <!-- N26: Engineering Manager - Runtime Platform | Barcelona | scout-quickcheck-2026-07-24c | score:3.5 | EM role at European neobank unicorn. Runtime platform = infrastructure/platform engineering. Barcelona. EU-friendly. -->
+
+#### N26 — Engineering Manager, Runtime Platform (Berlin)
+
+- [ ] https://n26.com/en-eu/careers/positions/8076631?gh_jid=8076631  <!-- N26: Engineering Manager - Runtime Platform | Berlin | scout-quickcheck-2026-07-24c | score:3.5 | Same EM role, Berlin location. N26 ~50 open roles, strong platform team. DACH target. -->
+
+#### Wayve — Machine Learning Engineer (Germany)
+
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8431120002  <!-- Wayve: Machine Learning Engineer | Germany | scout-quickcheck-2026-07-24c | score:3.4 | London AV company (hardware moat, embodied AI). ML engineering, Germany office. Autonomous vehicles = compelling domain. -->
+
+#### Isomorphic Labs — Software Engineer (Inference Platform) (London)
+
+- [ ] https://job-boards.greenhouse.io/isomorphiclabs/jobs/6108952004  <!-- Isomorphic Labs: Software Engineer (Inference Platform) | London | scout-quickcheck-2026-07-24c | score:3.4 | Companion to senior Inference Platform role above. SE-level (not senior). London. DeepMind spinout. -->
+
+#### Isomorphic Labs — Software Engineer (Data Services) (London)
+
+- [ ] https://job-boards.greenhouse.io/isomorphiclabs/jobs/5837883004  <!-- Isomorphic Labs: Software Engineer (Data Services) | London | scout-quickcheck-2026-07-24c | score:3.3 | Data services engineering at DeepMind drug-discovery spinout. London. Data pipelines for ML research. -->
+
+#### Wayve — Data Engineer (Germany)
+
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8644800002  <!-- Wayve: Data Engineer | Germany | scout-quickcheck-2026-07-24c | score:3.3 | Data engineering at autonomous vehicle company. Germany office. Hardware moat + large-scale sensor data. -->
+
+#### PhysicsX — Senior Machine Learning Software Engineer, Research (London)
+
+- [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/4851342101  <!-- PhysicsX: Senior Machine Learning Software Engineer, Research | London | scout-quickcheck-2026-07-24c | score:3.3 | Senior ML in a research-adjacent role at physics-informed AI company. London. Specialized domain. -->
+
+#### PhysicsX — Senior Simulation Data Engineer (London)
+
+- [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/4789254101  <!-- PhysicsX: Senior Simulation Data Engineer | London | scout-quickcheck-2026-07-24c | score:3.2 | Senior data engineering for simulation data pipelines. London. Specialized (simulation domain). -->
+
+#### PhysicsX — Software Engineer, Go & Python (Core Services) (London)
+
+- [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/4820418101  <!-- PhysicsX: Software Engineer - Go & Python (Core Services) | London | scout-quickcheck-2026-07-24c | score:3.1 | Core services SWE in Go + Python. London. Patrick uses both languages. Physics-informed ML platform infra. -->
+
+#### SumUp — Data Engineer (Berlin, Germany)
+
+- [ ] https://sumup.com/careers/positions/8364212002?gh_jid=8364212002  <!-- SumUp: Data Engineer | Berlin, Germany | scout-quickcheck-2026-07-24c | score:3.0 | Data engineering at Berlin fintech (payments). EU/LATAM hiring. Berlin. Standard data engineering, lower priority than platform roles. -->
+
+#### Isomorphic Labs — Security Engineering Manager (London/Lausanne)
+
+- [ ] https://job-boards.greenhouse.io/isomorphiclabs/jobs/6118868004  <!-- Isomorphic Labs: Security Engineering Manager | London or Lausanne | scout-quickcheck-2026-07-24c | score:2.8 | EM but security-specific. Not Patrick's primary domain. DeepMind spinout = interesting company. Evaluate if security infra focus. -->
+
+#### Fivetran — Senior Full Stack Engineer, Developer Productivity (Novi Sad, Serbia)
+
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7725857003  <!-- Fivetran: Senior Full Stack Engineer - Developer Productivity | Novi Sad, Serbia | scout-quickcheck-2026-07-24c | score:2.5 | Fivetran brand = strong match but Serbia = relocation required. Full stack (not Patrick's primary). Developer productivity = tooling focus. Low priority. -->
+
