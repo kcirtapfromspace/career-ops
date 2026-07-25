@@ -1,4 +1,27 @@
 # Pipeline — Pending Offers
+## 2026-07-25 — Scout Scan
+
+> Full portal scan: 40+ companies — Greenhouse API, Ashby (Confluent migration), Lever (Spotify). Dedup against 19,982 history entries. **29 new URLs** — primarily Confluent's platform migration to Ashby + 9 individual new roles. Report: [scout-2026-07-25.md](../reports/scout-2026-07-25.md)
+
+#### Top Picks
+
+- [ ] https://jobs.ashbyhq.com/confluent/0b2a4106-7f01-4205-813d-81e4fa1abdb4/application | Confluent | Staff Software Engineer I - SRE | US Remote | ★ 4.0/5 — Staff SRE at the Kafka company. VA.gov Watchtower/DORA metrics = direct proof point. Patrick's observability culture is the differentiator here.
+- [ ] https://jobs.ashbyhq.com/confluent/47920ccd-db54-4ed4-a865-70857e865fff/application | Confluent | Distributed Systems Software Engineer - WarpStream | Remote | ★ 3.9/5 — WarpStream is Confluent's cloud-native Kafka-compatible acquisition. Distributed systems + streaming = Patrick's stack.
+
+#### Strong Picks
+
+- [ ] https://jobs.ashbyhq.com/confluent/80a47c3e-a160-4277-a452-1eef9c689167/application | Confluent | Staff Software Engineer | US Remote | ★ 3.5/5 — Staff at Kafka company, remote. Generic title — check JD for team placement.
+- [ ] https://jobs.ashbyhq.com/confluent/a93ac05b-0ba3-41a9-aa42-a6258c5c5584/application | Confluent | Staff Software Engineer I - Confluent Platform | US (verify remote) | ★ 3.4/5 — Staff on core Confluent Platform. Streaming infra domain.
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5370690008 | Anthropic | Staff Software Engineer, Code RL | San Francisco / New York / Seattle | ★ 3.5/5 — Staff+ at Anthropic. Code RL = reinforcement learning for code gen infra. Seattle is accept-relocation.
+- [ ] https://jobs.lever.co/spotify/59cb83b1-e012-4839-ae90-6b671923408a | Spotify | Senior Engineering Manager, ML | US Remote | ★ 3.5/5 — EM primary target. ML-focused EM, fully remote. Streaming/music data at Spotify scale.
+
+#### Contextual Picks
+
+- [ ] https://jobs.ashbyhq.com/confluent/4218f1c2-3679-4aff-a458-20ef09817fc4/application | Confluent | Senior Software Engineer - Infrastructure | US Remote | ★ 3.2/5 — Senior (not staff) infra at Confluent. Remote. Worth evaluating if they consider Sr→Staff promotions.
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5367436008 | Anthropic | Staff Software Engineer, Environments Infrastructure | San Francisco / New York | ★ 3.1/5 — Staff+, environments/sandbox infra. SF or NY (accept relocation to SF).
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7810451003 | Fivetran | Senior Staff R&D Software Engineer, Fivetran AI | New York, NY | ★ 2.8/5 — Senior Staff at local company. AI/ML focus. NYC-only (accept as remote-only per profile).
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7812006003 | Fivetran | Staff R&D Software Engineer, Fivetran AI | New York, NY | ★ 2.7/5 — Staff at Fivetran. AI/ML focus. NYC-only.
+
 ## 2026-07-24 — Scout Scan
 
 > Full portal scan: 60+ companies — 35 Greenhouse boards, 15 Ashby boards, 7 Lever boards. Dedup against ~11,009 history entries + pipeline. **210 new matches** after filter; **18 top picks** (4.0+). Report: [scout-2026-07-24.md](../reports/scout-2026-07-24.md)
