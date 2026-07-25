@@ -5534,3 +5534,11 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 
 - [ ] https://www.fivetran.com/careers/job?gh_jid=7725857003  <!-- Fivetran: Senior Full Stack Engineer - Developer Productivity | Novi Sad, Serbia | scout-quickcheck-2026-07-24c | score:2.5 | Fivetran brand = strong match but Serbia = relocation required. Full stack (not Patrick's primary). Developer productivity = tooling focus. Low priority. -->
 
+
+#### Samsara — Sr. Software Engineer II, AI Platform (Remote - SF Bay Area)
+
+- [ ] https://www.samsara.com/company/careers/roles/8050373?gh_jid=8050373  <!-- Samsara: Sr. Software Engineer II, AI Platform | Remote - SF Bay Area | scout-quickcheck-2026-07-25 | AI Platform team at Samsara. IoT + AI at scale. SF Bay Area remote. Strong platform/infra fit. -->
+
+#### Databricks — Staff Software Engineer, Foundation Model Inference (San Francisco, CA)
+
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8649279002  <!-- Databricks: Staff Software Engineer - Foundation Model Inference | San Francisco, CA | scout-quickcheck-2026-07-25 | Staff-level ML inference infrastructure at Databricks ($43B). Foundation models + distributed systems. SF. High priority. -->
