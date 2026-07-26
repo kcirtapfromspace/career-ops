@@ -1,4 +1,30 @@
 # Pipeline — Pending Offers
+## 2026-07-26 — Scout Scan
+
+> Full portal scan: 65+ companies — Greenhouse API (40+ boards), Ashby API (30+ boards), Lever API (11 companies), WebSearch (OpenAI/Netflix/Airbnb). Dedup against 19,981 history entries. **16 new matches**. Report: [scout-2026-07-26.md](../reports/scout-2026-07-26.md)
+
+#### Top Picks (4.0+)
+
+- [ ] https://jobs.ashbyhq.com/decagon/3014316c-545f-43ea-a7f5-7dd909bc34ff | Decagon | Staff Software Engineer, Infrastructure | Remote | ★ 4.5/5 — AI agent company, staff infra role. K8s/platform/observability fits directly. Remote.
+- [ ] https://jobs.lever.co/shieldai/ac728f5a-f0cb-41f4-876a-9b368b350782 | Shield AI | Staff Engineer, AI Platform & Architecture | Remote | ★ 4.3/5 — Defense AI autonomy platform. Patrick's federal/government systems background = clearance-compatible. Staff + AI platform. Remote.
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4017544008 | Anthropic | Research Engineer, Agents | Remote-Friendly SF/Seattle/NYC | ★ 4.2/5 — Agent engineering at Anthropic. Remote-friendly, some travel. Strong mission fit.
+- [ ] https://jobs.ashbyhq.com/decagon/7df0a996-5a9f-496f-9f8b-c302983765b2 | Decagon | Staff Software Engineer, Agent Orchestration | Remote | ★ 4.2/5 — Orchestration = direct Argo Workflows parallel. AI-native company. Staff + remote.
+- [ ] https://jobs.ashbyhq.com/cohere/bb0c781f-b2ca-47fb-90bf-ee13dbf58718 | Cohere | Engineering Manager, FDE Agentic Platform | Remote | ★ 4.0/5 — EM role managing FDE team at LLM provider. Agentic platform focus. Remote.
+- [ ] https://jobs.ashbyhq.com/zapier/1767482d-de23-460c-80eb-6d0a3caa72ab | Zapier | Staff Backend Engineer, Revenue | Remote | ★ 4.0/5 — Automation platform leader, fully remote-first. Staff backend. Automation narrative = direct fit.
+
+#### Other Matches (3.5–3.9)
+
+- [ ] https://careers.airbnb.com/positions/8039723/ | Airbnb | Senior Staff Software Engineer, Host Pricing & Settings | Remote | ★ 3.9/5 — Dream company. Senior Staff + ML-backed pricing systems. Remote. Requires 12+ years.
+- [ ] https://jobs.ashbyhq.com/decagon/2351ca53-b7fd-4835-b967-4ae2b976b5b4 | Decagon | Staff Software Engineer, Voice Agent | Remote | ★ 3.8/5 — Voice AI infra at AI agent company. Staff + remote.
+- [ ] https://openai.com/careers/software-engineer-codex-core-agents-san-francisco/ | OpenAI | Software Engineer, Codex Core Agents | San Francisco, CA | ★ 3.8/5 — Codex agent platform engineering. SF in-office. Strong mission fit.
+- [ ] https://careers.airbnb.com/positions/7858738/ | Airbnb | Senior Staff Machine Learning Engineer, Post Training | Remote | ★ 3.7/5 — Senior Staff ML at dream company. Post-training = research-heavy; verify team structure.
+- [ ] https://jobs.ashbyhq.com/decagon/f83f5c1d-a4d7-4c63-beb5-611c97a9e11d | Decagon | Staff Software Engineer, Enterprise Product | Remote | ★ 3.7/5 — Enterprise product engineering at AI agent company. Staff + remote.
+- [ ] https://jobs.ashbyhq.com/zapier/6948a0e6-a580-4e9d-b109-20652d9a1507 | Zapier | Software Engineer, Release Engineering | Remote | ★ 3.7/5 — Release/developer experience engineering at automation platform. Remote.
+- [ ] https://jobs.ashbyhq.com/synthesia/e9c63d3d-13cc-4049-ae0a-5fef402c595b | Synthesia | Principal ML Platform Engineer | Remote | ★ 3.6/5 — ML platform at video AI company. Principal level. Verify: UK remote or global.
+- [ ] https://jobs.ashbyhq.com/synthesia/36ffd056-0141-487e-8f6c-83b52c074f62 | Synthesia | Principal Backend Engineer | Remote | ★ 3.6/5 — Principal backend at AI video company. Verify remote scope.
+- [ ] https://careers.airbnb.com/positions/6602436/ | Airbnb | Senior Software Engineer, Infrastructure | Remote | ★ 3.6/5 — Dream company, infra role. Senior (not staff) — still worth evaluating.
+- [ ] https://careers.airbnb.com/positions/8026849/ | Airbnb | Software Engineer, Quality Platform | Remote | ★ 3.5/5 — Platform engineering at Airbnb. Remote.
+
 ## 2026-07-25 — Scout Scan
 
 > Full portal scan: 40+ companies — Greenhouse API, Ashby (Confluent migration), Lever (Spotify). Dedup against 19,982 history entries. **29 new URLs** — primarily Confluent's platform migration to Ashby + 9 individual new roles. Report: [scout-2026-07-25.md](../reports/scout-2026-07-25.md)
