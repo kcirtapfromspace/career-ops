@@ -5568,3 +5568,7 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 #### Databricks — Staff Software Engineer, Foundation Model Inference (San Francisco, CA)
 
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8649279002  <!-- Databricks: Staff Software Engineer - Foundation Model Inference | San Francisco, CA | scout-quickcheck-2026-07-25 | Staff-level ML inference infrastructure at Databricks ($43B). Foundation models + distributed systems. SF. High priority. -->
+
+#### Anduril — Software Engineer, Battlespace Awareness (Broomfield, CO / Fort Collins, CO)
+
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5195728007?gh_jid=5195728007  <!-- Anduril: Software Engineer, Battlespace Awareness | Broomfield, CO / Fort Collins, CO | scout-quickcheck-2026-07-26 | Colorado-based defense tech. Anduril dream company. Battlespace awareness = sensor fusion, distributed data infra. Denver-adjacent locations. -->
