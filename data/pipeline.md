@@ -1,4 +1,28 @@
 # Pipeline — Pending Offers
+## 2026-07-27 — Scout Scan
+
+> Full portal scan: 65+ companies — Greenhouse API (40+ boards), Ashby (ElevenLabs, Deepgram, MotherDuck, Anyscale, Replicate, Ramp, Attio, Prefect, etc.), WebSearch (OpenAI, Spotify, Fly.io, Rivian, Tesla, Waymo, Shield AI, SpaceX, Synthesia, etc.). Dedup against 20,037 history entries. **14 new matches**. Report: [scout-2026-07-27.md](../reports/scout-2026-07-27.md)
+
+#### Top Picks (4.0+)
+
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5184712007 | Temporal | Staff Software Engineer, AI Foundations | US Remote | ★ 4.5/5 — $224-302K + equity. Workflow orchestration expert match. Argo/K8s background = textbook Temporal. Agentic AI focus. Remote.
+- [ ] https://fly.io/jobs/platform-machines/ | Fly.io | Platform Engineer: Fly Machines | Remote (UTC-8 to UTC-4, Denver MST qualifies) | ★ 4.2/5 — $190-225K. Edge compute infra in Rust/Go. VM orchestration layer. Small elite team. Remote-first.
+- [ ] https://openai.com/careers/software-engineer-distributed-data-systems-(sora)-san-francisco/ | OpenAI | Software Engineer, Distributed Data Systems (Sora) | San Francisco, CA | ★ 4.2/5 — Distributed data at frontier AI lab. Largest Spark fleets in production, Iceberg/Delta at exabyte scale. SF relocation OK.
+- [ ] https://jobs.ashbyhq.com/motherduck/ed355405-d983-4c53-abd3-b04fb72190e2 | MotherDuck | Software Engineer - Backend | Seattle / San Francisco / NYC (hybrid) | ★ 4.0/5 — DuckDB cloud platform. Patrick's database_thing project = direct proof point. Go + C++ + K8s. Seattle hub on relocation list.
+- [ ] https://jobs.ashbyhq.com/motherduck/8b553e31-c20a-49f3-87df-9e3029343645 | MotherDuck | Software Engineer - Database | Seattle / San Francisco / NYC (hybrid) | ★ 4.0/5 — DuckDB engine team. Database internals + Go/C++. Exceptional DuckDB brand. Seattle or SF hub.
+- [ ] https://jobs.ashbyhq.com/Deepgram/d1096291-24bb-48de-8d87-f3cc2769cf69 | Deepgram | Platform Engineer – AI/ML Infrastructure | US Remote | ★ 4.0/5 — $160-220K + 10% bonus + equity. Voice AI platform infra. K8s + GPU hybrid. Senior/Staff level. NVIDIA-backed.
+- [ ] https://jobs.lever.co/spotify/3707cd2f-202a-4aec-9de8-bf73a5a6e922 | Spotify | Software Engineer, Platform Infrastructure | US Remote | ★ 4.0/5 — $164-235K + equity. Platform infra at Spotify scale. US Remote. Backstage/data platform heritage.
+
+#### Good Matches (3.7–3.9)
+
+- [ ] https://job-boards.greenhouse.io/aurorasystems/jobs/8643038002 | Aurora Innovation | Software Engineer, Maps Infra | Louisville, CO (Denver metro) | 3.8/5 — Autonomous vehicle maps infrastructure. Louisville = ~10mi from Denver. C++ heavy. AV domain stretch.
+- [ ] https://jobs.ashbyhq.com/anyscale/316cf655-f3f1-40c2-823f-34f1fce54fdc | Anyscale | Software Engineer, Platform Infrastructure | San Francisco, CA | 3.8/5 — ML platform infra for Ray. SF relocation OK. $202-237K range. Distributed systems + K8s.
+- [ ] https://jobs.ashbyhq.com/replicate/34692407-5eeb-4e8e-9f0a-9611f26cd54c | Replicate | Infrastructure Engineer | Remote (PST preferred) | 3.8/5 — ML platform infra at accessible AI lab. Remote-first. Evaluate if Go/Rust in stack.
+- [ ] https://retool.com/careers/software-engineer-data-platform--engineering--san-francisco-united-states | Retool | Software Engineer, Data Platform | San Francisco, CA | 3.8/5 — Data platform at dev tools unicorn. SF OK. Strong infra fit.
+- [ ] https://jobs.ashbyhq.com/Deepgram/ae992d89-1bb3-4bea-ae91-0a07043e9756 | Deepgram | Senior Data Intelligence Engineer | US Remote | 3.8/5 — Data engineering at voice AI company. 5+ yr DE required. Remote.
+- [ ] https://www.pinecone.io/careers/?ashby_jid=6beffcfe-51f7-42b9-8259-f525863be85b | Pinecone | Software Engineer, Database Team | NYC / Remote | 3.7/5 — Database team at vector DB leader. Note: similar role already evaluated (013). New posting.
+- [ ] https://jobs.ashbyhq.com/replicate/c07b317f-e793-4efd-aae0-ace19fc96b15 | Replicate | Software Engineer, ML Platform | Remote (PST preferred) | 3.7/5 — ML platform SWE at Replicate. Remote.
+
 ## 2026-07-26 — Scout Scan
 
 > Full portal scan: 65+ companies — Greenhouse API (40+ boards), Ashby API (30+ boards), Lever API (11 companies), WebSearch (OpenAI/Netflix/Airbnb). Dedup against 19,981 history entries. **16 new matches**. Report: [scout-2026-07-26.md](../reports/scout-2026-07-26.md)
