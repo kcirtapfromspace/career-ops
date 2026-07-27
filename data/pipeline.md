@@ -5596,3 +5596,11 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 #### Anduril — Software Engineer, Battlespace Awareness (Broomfield, CO / Fort Collins, CO)
 
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5195728007?gh_jid=5195728007  <!-- Anduril: Software Engineer, Battlespace Awareness | Broomfield, CO / Fort Collins, CO | scout-quickcheck-2026-07-26 | Colorado-based defense tech. Anduril dream company. Battlespace awareness = sensor fusion, distributed data infra. Denver-adjacent locations. -->
+
+#### Chainguard — Software Engineer (Libraries Platform) (US Remote)
+
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4699210006  <!-- Chainguard: Software Engineer (Libraries Platform) | United States - Remote | scout-quickcheck-2026-07-27 | US Remote. Cloud-native supply chain security. K8s, containers, Argo/Tekton. Libraries platform team. Distributed systems at the OS layer. Strong infra fit. -->
+
+#### Zipline — Senior Software Engineer - Maps Routing (South San Francisco, CA)
+
+- [ ] https://www.zipline.com/open-roles?gh_jid=7816737003  <!-- Zipline: Senior Software Engineer - Maps Routing | South San Francisco, CA | scout-quickcheck-2026-07-27 | Drone delivery platform. Hardware moat company. Maps Routing = geospatial + distributed planning systems. SF Bay Area. Interesting domain. -->
