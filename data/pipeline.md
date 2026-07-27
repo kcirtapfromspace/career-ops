@@ -5604,3 +5604,43 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 #### Zipline — Senior Software Engineer - Maps Routing (South San Francisco, CA)
 
 - [ ] https://www.zipline.com/open-roles?gh_jid=7816737003  <!-- Zipline: Senior Software Engineer - Maps Routing | South San Francisco, CA | scout-quickcheck-2026-07-27 | Drone delivery platform. Hardware moat company. Maps Routing = geospatial + distributed planning systems. SF Bay Area. Interesting domain. -->
+
+#### Anduril — Software Engineer, Data Engineering, LOKI (Santa Ana, CA)
+
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5194568007?gh_jid=5194568007  <!-- Anduril: Software Engineer, Data Engineering, LOKI | Santa Ana, CA | scout-quickcheck-2026-07-27b | Data engineering at Anduril (dream company). LOKI = live-ops & intelligence platform. Direct DE domain fit. CA relocation. High value role. -->
+
+#### Anduril — Software Engineer - ML Infrastructure (Costa Mesa, CA)
+
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5195642007?gh_jid=5195642007  <!-- Anduril: Software Engineer - ML Infrastructure | Costa Mesa, CA | scout-quickcheck-2026-07-27b | ML infrastructure at Anduril (dream company). Training + serving infra for autonomous systems. Strong technical fit. CA relocation. -->
+
+#### Anduril — Senior Site Reliability Engineer, Fleet Infrastructure (Boston, MA / Washington, DC)
+
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5195822007?gh_jid=5195822007  <!-- Anduril: Senior Site Reliability Engineer, Fleet Infrastructure | Boston, MA / Washington, DC | scout-quickcheck-2026-07-27b | Senior SRE role at dream company. Fleet infra for autonomous systems. East Coast locations — relocation required. Anduril brand = strong motivation. -->
+
+#### Anduril — Site Reliability Engineer (Waltham, MA)
+
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5196517007?gh_jid=5196517007  <!-- Anduril: Site Reliability Engineer | Waltham, MA | scout-quickcheck-2026-07-27b | SRE at Anduril. Waltham = Boston metro. Relocation required. K8s + cloud-native infra in defense domain. -->
+
+#### Anduril — Software Engineer, Fleet Infrastructure (Boston, MA / Washington, DC)
+
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5195644007?gh_jid=5195644007  <!-- Anduril: Software Engineer, Fleet Infrastructure | Boston, MA / Washington, DC | scout-quickcheck-2026-07-27b | Fleet infrastructure SWE at Anduril (dream company). Relocation required. Distributed systems for autonomous platforms. -->
+
+#### Anduril — Robotics Software Engineer - Undersea Dominance (Costa Mesa, CA)
+
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5196757007?gh_jid=5196757007  <!-- Anduril: Robotics Software Engineer - Undersea Dominance | Costa Mesa, CA | scout-quickcheck-2026-07-27b | Robotics SWE at Anduril. Undersea autonomy domain. CA relocation. Dream company + hardware moat + defense = unique mission. Evaluate for domain interest. -->
+
+#### Anduril — Senior Software Engineer, VMS - Seabed Sentry (Quincy, MA)
+
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5183067007?gh_jid=5183067007  <!-- Anduril: Senior Software Engineer, VMS - Seabed Sentry | Quincy, MA | scout-quickcheck-2026-07-27b | Vehicle Management System for undersea drone. Quincy = Boston metro. Relocation required. Defense-specific domain. Anduril brand strong. -->
+
+#### Anduril — Senior Software Engineer, Anduril Cyber (Washington, DC)
+
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5196259007?gh_jid=5196259007  <!-- Anduril: Senior Software Engineer, Anduril Cyber | Washington, DC | scout-quickcheck-2026-07-27b | Cyber/security-focused SWE at Anduril. DC location. Less aligned to Patrick's infra/data domain. Evaluate if security infra overlap. -->
+
+#### Zipline — Director of Software Engineering – Marketplace (South San Francisco, CA)
+
+- [ ] https://www.zipline.com/open-roles?gh_jid=7815718003  <!-- Zipline: Director of Software Engineering – Marketplace | South San Francisco, CA | scout-quickcheck-2026-07-27b | Director-level eng leadership at drone delivery company (hardware moat). Marketplace = logistics software layer. SF Bay Area. Senior leadership track. -->
+
+#### Zipline — Software Engineering Sr. Manager – Marketplace (South San Francisco, CA)
+
+- [ ] https://www.zipline.com/open-roles?gh_jid=7815708003  <!-- Zipline: Software Engineering Sr. Manager – Marketplace | South San Francisco, CA | scout-quickcheck-2026-07-27b | Sr. Manager at Zipline. Marketplace team. SF Bay Area. Engineering manager track at hardware-moat company. Pairs well with Zipline Director role above. -->
