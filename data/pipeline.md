@@ -5669,3 +5669,9 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 #### Anduril — Software Engineering Manager, Simulation Platforms (Seattle / Costa Mesa / DC)
 
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5136836007?gh_jid=5136836007  <!-- Anduril: Software Engineering Manager, Simulation Platforms | Seattle, WA option (also Costa Mesa CA & DC) | scout-quickcheck-2026-07-28 | EM role at Anduril for simulation infra. Multi-location incl. Seattle. Req. Active TS Clearance — major filter. Dream company + hardware moat + defense. Evaluate clearance feasibility first. -->
+
+## 2026-07-28 — Quick-Check Scout
+
+> Greenhouse API quick-check (42 boards). 1 new match.
+
+- [ ] https://www.zipline.com/open-roles?gh_jid=7819774003 <!-- Zipline: Staff Motion Planning Software Engineer | South San Francisco, California, USA | scout:2026-07-28 -->
