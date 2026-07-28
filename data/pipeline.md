@@ -5665,3 +5665,7 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 #### Zipline — Software Engineering Sr. Manager – Marketplace (South San Francisco, CA)
 
 - [ ] https://www.zipline.com/open-roles?gh_jid=7815708003  <!-- Zipline: Software Engineering Sr. Manager – Marketplace | South San Francisco, CA | scout-quickcheck-2026-07-27b | Sr. Manager at Zipline. Marketplace team. SF Bay Area. Engineering manager track at hardware-moat company. Pairs well with Zipline Director role above. -->
+
+#### Anduril — Software Engineering Manager, Simulation Platforms (Seattle / Costa Mesa / DC)
+
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5136836007?gh_jid=5136836007  <!-- Anduril: Software Engineering Manager, Simulation Platforms | Seattle, WA option (also Costa Mesa CA & DC) | scout-quickcheck-2026-07-28 | EM role at Anduril for simulation infra. Multi-location incl. Seattle. Req. Active TS Clearance — major filter. Dream company + hardware moat + defense. Evaluate clearance feasibility first. -->
