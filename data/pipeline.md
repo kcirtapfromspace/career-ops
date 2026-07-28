@@ -1,4 +1,25 @@
 # Pipeline — Pending Offers
+## 2026-07-28 — Scout Scan
+
+> Greenhouse (41 boards, 5,418 jobs) + WebSearch (Confluent, MotherDuck, Modal, LangChain, Spotify, Anyscale, Ramp, Deepgram, Cohere, Zapier, Pinecone, Replicate, OpenAI, Airbnb, Decagon, Shield AI). Dedup against 20,084 history entries. **11 new matches**. Report: [scout-2026-07-28.md](../reports/scout-2026-07-28.md)
+
+#### Top Picks (4.0+)
+
+- [ ] https://jobs.ashbyhq.com/decagon/b295b323-3d01-4126-94c1-9fc7489ebdf0 | Decagon | Engineering Manager, Agent Orchestration | Remote | ★ 4.3/5 — Orchestration EM = direct Argo Workflows/K8s parallel. AI-native startup. Remote-first.
+- [ ] https://jobs.ashbyhq.com/decagon/0902f176-33a3-4233-be8a-1e22d1e8d23d | Decagon | Engineering Manager, Agents | Remote | ★ 4.0/5 — EM at leading AI agent company. 2nd EM opening signals rapid team growth.
+- [ ] https://openai.com/careers/software-engineer-workload-enablement-san-francisco/ | OpenAI | Software Engineer, Workload Enablement | San Francisco, CA | ★ 4.0/5 — Frontier AI lab. Workload infra for ML at scale. SF on accept list.
+- [ ] https://careers.airbnb.com/positions/7454348/ | Airbnb | Staff ML Engineer, Listings and Host Tools | Remote | ★ 4.0/5 — Staff ML at dream company. Data pipelines + ML models. Remote.
+
+#### Good Matches (3.5–3.9)
+
+- [ ] https://jobs.ashbyhq.com/zapier/91679def-adb6-4ac9-bbb9-0f61ebbdeeef | Zapier | Sr. Software Engineer, Product Platform Zone | US Remote | 3.8/5 — Backend-leaning Sr. SWE. New platform SDK. Automation narrative = direct fit.
+- [ ] https://careers.airbnb.com/positions/8070121/ | Airbnb | Senior Manager, Machine Learning Engineering | Remote | 3.8/5 — EM path at dream company. ML/Data Eng team. Remote.
+- [ ] https://jobs.ashbyhq.com/cohere/cb5d588c-5637-423a-968b-bf637ee2caf9 | Cohere | Senior Research Engineer, Model Evaluation | Remote | 3.7/5 — NLP eval work. BERT/HHS project = proof point.
+- [ ] https://jobs.ashbyhq.com/deepgram/1ab00006-f525-4e2d-a1a9-5cab4264637b | Deepgram | Backend Engineer, Inference Services | US Remote | 3.6/5 — AI inference infra. No explicit seniority but scope = senior-equiv.
+- [ ] https://jobs.ashbyhq.com/zapier/38434b88-086c-424b-8d18-8d006e0b71b8 | Zapier | Engineer, Applied AI | US Remote | 3.5/5 — AI Platform team infra at automation leader. No seniority title.
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/6126897004 | Clickhouse | Engineering Lead, Web Platform | US Remote | 3.5/5 — Lead-level at data company. Verify scope — web platform may be UI-adjacent.
+- [ ] https://aurora.tech/jobs/8618748002 | Aurora Innovation | Staff Software Engineer, Map Fusion | Mountain View, CA | 3.5/5 — Staff level. Map data infra. Mountain View not on explicit accept list — flag before applying.
+
 ## 2026-07-27 — Scout Scan
 
 > Full portal scan: 65+ companies — Greenhouse API (40+ boards), Ashby (ElevenLabs, Deepgram, MotherDuck, Anyscale, Replicate, Ramp, Attio, Prefect, etc.), WebSearch (OpenAI, Spotify, Fly.io, Rivian, Tesla, Waymo, Shield AI, SpaceX, Synthesia, etc.). Dedup against 20,037 history entries. **14 new matches**. Report: [scout-2026-07-27.md](../reports/scout-2026-07-27.md)
