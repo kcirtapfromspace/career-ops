@@ -5675,3 +5675,15 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 > Greenhouse API quick-check (42 boards). 1 new match.
 
 - [ ] https://www.zipline.com/open-roles?gh_jid=7819774003 <!-- Zipline: Staff Motion Planning Software Engineer | South San Francisco, California, USA | scout:2026-07-28 -->
+
+## 2026-07-29 — Quick-Check Scout
+
+> Greenhouse API quick-check (42 boards). 2 new matches.
+
+#### Chainguard — Senior Software Engineer (AI CICD) (Remote, US)
+
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4700937006  <!-- Chainguard: Senior Software Engineer (AI CICD) | United States - Remote | scout-quickcheck-2026-07-29 | New AI CI/CD role at Chainguard (cloud-native supply chain security). Remote US. K8s/containers/Argo overlap with Patrick's platform stack. Evaluate for infra/platform fit. -->
+
+#### Chainguard — Staff Software Engineer (AI CICD) (Remote, US)
+
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4700929006  <!-- Chainguard: Staff Software Engineer (AI CICD) | United States - Remote | scout-quickcheck-2026-07-29 | Staff-level AI CI/CD role at Chainguard. Supply chain security startup. Remote US. Strong domain fit for Patrick's infra/platform background. Paired with Senior above. -->
