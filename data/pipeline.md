@@ -1498,6 +1498,13 @@ _None — pipeline is current._
 
 ## Pendientes
 
+### Quick-Check Scan (2026-07-29)
+
+- [ ] https://www.zipline.com/open-roles?gh_jid=7819774003 | Zipline | Staff Motion Planning Software Engineer | South San Francisco, California, USA
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/6119757004 | Arize AI | Open Source AI Engineer (Typescript) | Remote (United States)
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4700937006 | Chainguard | Senior Software Engineer (AI CICD) | United States - Remote
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4700929006 | Chainguard | Staff Software Engineer (AI CICD) | United States - Remote
+
 ### Quick-Check Scan (2026-06-12)
 
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5245851008 | Anthropic | Staff + Senior Software Engineer, Inference | San Francisco, CA | New York City, NY | Seattle, WA
