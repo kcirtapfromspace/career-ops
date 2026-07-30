@@ -5710,3 +5710,77 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 #### Chainguard — Staff Software Engineer (AI CICD) (Remote, US)
 
 - [ ] https://job-boards.greenhouse.io/chainguard/jobs/4700929006  <!-- Chainguard: Staff Software Engineer (AI CICD) | United States - Remote | scout-quickcheck-2026-07-29 | Staff-level AI CI/CD role at Chainguard. Supply chain security startup. Remote US. Strong domain fit for Patrick's infra/platform background. Paired with Senior above. -->
+
+
+## 2026-07-30 — Quick-Check Scout
+
+> Greenhouse API quick-check (42 boards). 22 new matches. 8 APIs returned 503 (Anduril, Arize AI, Black Forest Labs, RunPod, Helsing, HelloFresh, Dagster, Rocket Lab).
+
+#### SumUp — Senior Platform Engineer (Boulder, Colorado)
+
+- [ ] https://sumup.com/careers/positions/8656544002?gh_jid=8656544002  <!-- SumUp: Senior Platform Engineer | Boulder, Colorado, United States | scout-quickcheck-2026-07-30 | Platform engineering role in Boulder (local!). SumUp is fintech/payments. Strong geographic fit for Patrick. Worth evaluating. -->
+
+#### Samsara — Senior Software Engineer II (Remote, US)
+
+- [ ] https://www.samsara.com/company/careers/roles/8021301?gh_jid=8021301  <!-- Samsara: Senior Software Engineer II | Remote - US | scout-quickcheck-2026-07-30 | Senior SWE at IoT+AI platform. Remote US. Large-scale data infra opportunity. -->
+
+#### Zipline — Forward Deployed AI Engineer, Operations (South San Francisco, CA)
+
+- [ ] https://www.zipline.com/open-roles?gh_jid=7764239003  <!-- Zipline: Forward Deployed AI Engineer, Operations | South San Francisco, California, USA | scout-quickcheck-2026-07-30 | FDE role at hardware-moat drone delivery company. Strong match for Patrick's applied AI + operations background. -->
+
+#### Zipline — Staff Platform Software Engineer, AI Enablement (South San Francisco, CA)
+
+- [ ] https://www.zipline.com/open-roles?gh_jid=7812167003  <!-- Zipline: Staff Platform Software Engineer, AI Enablement | South San Francisco, California, USA | scout-quickcheck-2026-07-30 | Staff-level platform SWE focused on AI enablement at Zipline. Excellent fit for Patrick's platform + AI background. Top pick. -->
+
+#### Zipline — Sr. Software Engineering Manager, Financial Platform (South San Francisco, CA)
+
+- [ ] https://www.zipline.com/open-roles?gh_jid=7805100003  <!-- Zipline: Sr. Software Engineering Manager, Financial Platform | South San Francisco, California, USA | scout-quickcheck-2026-07-30 | Engineering Manager at Zipline. Financial platform team. EM track at hardware-moat company. -->
+
+#### Zipline — Senior Data Engineer - Data Platform (South San Francisco, CA)
+
+- [ ] https://www.zipline.com/open-roles?gh_jid=7810390003  <!-- Zipline: Senior Data Engineer - Data Platform | South San Francisco, California, USA | scout-quickcheck-2026-07-30 | Data platform engineering at Zipline. Direct domain fit. Hardware moat company. -->
+
+#### Zipline — Staff Software Engineer, Healthcare (Remote US / EMEA)
+
+- [ ] https://www.zipline.com/open-roles?gh_jid=7811728003  <!-- Zipline: Staff Software Engineer, Healthcare | Remote in USA; Remote, EMEA | scout-quickcheck-2026-07-30 | Staff SWE in healthcare vertical at Zipline. Remote US eligible. -->
+
+#### Zipline — Senior Software Engineer, Enterprise Systems (South San Francisco, CA)
+
+- [ ] https://www.zipline.com/open-roles?gh_jid=7800774003  <!-- Zipline: Senior Software Engineer, Enterprise Systems | South San Francisco, California, USA | scout-quickcheck-2026-07-30 | Enterprise systems SWE at Zipline. -->
+
+#### Zipline — Senior Software Engineer - Marketplace (South San Francisco, CA)
+
+- [ ] https://www.zipline.com/open-roles?gh_jid=7808704003  <!-- Zipline: Senior Software Engineer - Marketplace | South San Francisco, California, USA | scout-quickcheck-2026-07-30 | Marketplace backend SWE at Zipline. Logistics software layer. -->
+
+#### Zipline — Sr. Software Engineer, Financial Platform (South San Francisco, CA)
+
+- [ ] https://www.zipline.com/open-roles?gh_jid=7805110003  <!-- Zipline: Sr. Software Engineer, Financial Platform | South San Francisco, California, USA | scout-quickcheck-2026-07-30 | Senior SWE on Financial Platform at Zipline. -->
+
+#### Zipline — Software Engineer, Test Infrastructure (South San Francisco, CA)
+
+- [ ] https://www.zipline.com/open-roles?gh_jid=7809118003  <!-- Zipline: Software Engineer, Test Infrastructure | South San Francisco, California, USA | scout-quickcheck-2026-07-30 | Test infrastructure SWE — platform-adjacent role at Zipline. -->
+
+#### Zipline — Senior Software Engineer, Autonomy Simulation & Validation (South San Francisco, CA)
+
+- [ ] https://www.zipline.com/open-roles?gh_jid=7812135003  <!-- Zipline: Senior Software Engineer, Autonomy Simulation & Validation | South San Francisco, California, USA | scout-quickcheck-2026-07-30 | Simulation & validation infra for drone autonomy. Interesting domain. -->
+
+#### Zipline — Senior Motion Planning Software Engineer (South San Francisco, CA)
+
+- [ ] https://www.zipline.com/open-roles?gh_jid=7802961003  <!-- Zipline: Senior Motion Planning Software Engineer | South San Francisco, California, USA | scout-quickcheck-2026-07-30 | Motion planning algorithms at Zipline. Domain-specific but interesting hardware-moat context. -->
+
+#### Zipline — Software Engineer - Maps Routing (South San Francisco, CA)
+
+- [ ] https://www.zipline.com/open-roles?gh_jid=7812206003  <!-- Zipline: Software Engineer - Maps Routing | South San Francisco, California, USA | scout-quickcheck-2026-07-30 | Maps & routing software for drone delivery. Distributed systems context. -->
+
+#### Zipline — Simulation Software Engineer (South San Francisco, CA)
+
+- [ ] https://www.zipline.com/open-roles?gh_jid=7802983003  <!-- Zipline: Simulation Software Engineer | South San Francisco, California, USA | scout-quickcheck-2026-07-30 | Simulation SWE at Zipline. Infra-adjacent (building simulation platforms). -->
+
+#### Zipline — Senior Integration and Test Software Engineer - Long Range Platform (South San Francisco, CA)
+
+- [ ] https://www.zipline.com/open-roles?gh_jid=7802156003  <!-- Zipline: Senior Integration and Test Software Engineer - Long Range Platform | South San Francisco, California, USA | scout-quickcheck-2026-07-30 | Integration & test SWE for Zipline's long range drone platform. -->
+
+#### Databricks — AI Engineer, GTM Analytics (United States)
+
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8638847002  <!-- Databricks: AI Engineer — GTM Analytics | United States | scout-quickcheck-2026-07-30 | AI Engineer on GTM Analytics team at Databricks. Data+AI giant. Remote US. -->
+
