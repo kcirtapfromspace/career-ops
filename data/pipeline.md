@@ -1,4 +1,20 @@
 # Pipeline — Pending Offers
+## 2026-07-30 — Scout Scan
+
+> ~28 companies — Greenhouse API (17 boards), Ashby/WebSearch (11). Dedup against ~20,107 history entries. **6 new matches**. Report: [scout-2026-07-30.md](../reports/scout-2026-07-30.md)
+
+#### Top Picks (4.0+)
+
+- [ ] https://careers.airbnb.com/positions/8078019/ | Airbnb | Staff Backend Engineer, Host Pricing & Availability | US Remote | ★ 4.0/5 — $212K-$265K. Dream company, staff-level remote backend. Pricing/availability systems at scale. Posted fresh. Comp clears target.
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4700933006 | Chainguard | Staff Software Engineer (AI CI/CD) | Remote US | ★ 4.0/5 — $205K-$231K. Go + K8s + containers + AI tooling = direct stack match. Staff level. Supply chain security niche.
+
+#### Good Matches (3.5–3.9)
+
+- [ ] https://jobs.ashbyhq.com/decagon/4203f138-c427-49b6-8201-4437db28e1de | Decagon | Senior Software Engineer, Cloud Infrastructure | Remote | 3.8/5 — K8s/networking/CI-CD at leading AI agent company. Senior not Staff.
+- [ ] https://jobs.ashbyhq.com/decagon/357ab345-40bc-413e-9f40-117205cd96e8 | Decagon | Senior Software Engineer, Platform Engineering | Remote | 3.7/5 — Platform/devtools/infra. Python + K8s. Senior level.
+- [ ] https://jobs.ashbyhq.com/decagon/834d9a8b-4f7f-416a-9953-05d93c326a5f | Decagon | Staff Software Engineer, Agents | San Francisco, CA (in-office) | 3.6/5 — $200K-$400K. Staff + exceptional comp but SF relocation + application-layer agents.
+- [ ] https://jobs.ashbyhq.com/decagon/c15c3dc8-6df7-43ca-aeeb-dc2beed2668e | Decagon | Senior Software Engineer, Developer Platform | Remote | 3.6/5 — Dev platform tooling at AI agent company. Senior level.
+
 ## 2026-07-28 — Scout Scan
 
 > Greenhouse (41 boards, 5,418 jobs) + WebSearch (Confluent, MotherDuck, Modal, LangChain, Spotify, Anyscale, Ramp, Deepgram, Cohere, Zapier, Pinecone, Replicate, OpenAI, Airbnb, Decagon, Shield AI). Dedup against 20,084 history entries. **11 new matches**. Report: [scout-2026-07-28.md](../reports/scout-2026-07-28.md)
