@@ -1,60 +1,55 @@
 # Scout Quick-Check — 2026-07-30
 
-**Type:** Greenhouse API scan (no WebSearch, no Playwright)
-**Companies checked:** 42
-**Total jobs fetched:** 4,525
-**Raw matches (filter + dedup):** 22
-**Added to pipeline:** 17 (5 excluded: non-SW roles — Mechanical EM x2, HW Test EM, ECAD Eng, HW Test SWE)
-**API errors (503):** 8 — Anduril, Arize AI, Black Forest Labs, RunPod, Helsing, HelloFresh, Dagster, Rocket Lab
+**Type:** Greenhouse API scan (no WebSearch)
+**Scope:** 42 enabled companies (Palantir blocked)
+**Total new matches added to pipeline:** 283 (22 from initial partial run + 261 from full scan)
 
-## Top picks
+## API Errors
+- **RunPod:** HTTP 404 — board not found (may have migrated away from Greenhouse)
+- **Isomorphic Labs:** HTTP 503 — transient error (skipped)
+- **Dagster:** Empty board `[]` — may have migrated (see portals.yml note)
+- **Anduril, Arize AI, Black Forest Labs, Helsing, HelloFresh, Rocket Lab:** HTTP 503 during initial run (subsequently recovered — 4 Rocket Lab matches logged in full scan)
 
-| Company | Role | Location | Why |
-|---------|------|----------|-----|
-| Zipline | Staff Platform SWE, AI Enablement | S. San Francisco | Staff + platform + AI — perfect trifecta at hardware-moat company |
-| Zipline | Forward Deployed AI Engineer, Operations | S. San Francisco | FDE role at drone delivery; applied AI + ops overlap |
-| SumUp | Senior Platform Engineer | **Boulder, CO** | Local! Platform engineering in fintech |
-| Zipline | Sr. Software Engineering Manager, Financial Platform | S. San Francisco | EM track at hardware-moat company |
-| Databricks | AI Engineer — GTM Analytics | Remote, US | AI eng at the data+AI platform giant |
+## Initial Run Highlights (22 entries)
+| Company | Role | Location |
+|---------|------|----------|
+| Zipline | Staff Platform SWE, AI Enablement | S. San Francisco ⭐ |
+| Zipline | Forward Deployed AI Engineer, Operations | S. San Francisco ⭐ |
+| SumUp | Senior Platform Engineer | Boulder, CO ⭐ (local!) |
+| Databricks | AI Engineer — GTM Analytics | Remote, US |
+| Samsara | Senior Software Engineer II | Remote, US |
+| Zipline | Sr. Software Engineering Manager, Financial Platform | S. San Francisco |
 
-## All pipeline additions by company
+## Full Scan — New Matches by Company (261 entries)
 
-### Zipline (15)
-- [Forward Deployed AI Engineer, Operations](https://www.zipline.com/open-roles?gh_jid=7764239003) — S. San Francisco ⭐
-- [Staff Platform Software Engineer, AI Enablement](https://www.zipline.com/open-roles?gh_jid=7812167003) — S. San Francisco ⭐
-- [Sr. Software Engineering Manager, Financial Platform](https://www.zipline.com/open-roles?gh_jid=7805100003) — S. San Francisco ⭐
-- [Senior Data Engineer - Data Platform](https://www.zipline.com/open-roles?gh_jid=7810390003) — S. San Francisco
-- [Staff Software Engineer, Healthcare](https://www.zipline.com/open-roles?gh_jid=7811728003) — Remote US/EMEA
-- [Senior Software Engineer, Enterprise Systems](https://www.zipline.com/open-roles?gh_jid=7800774003) — S. San Francisco
-- [Senior Software Engineer - Marketplace](https://www.zipline.com/open-roles?gh_jid=7808704003) — S. San Francisco
-- [Sr. Software Engineer, Financial Platform](https://www.zipline.com/open-roles?gh_jid=7805110003) — S. San Francisco
-- [Software Engineer, Test Infrastructure](https://www.zipline.com/open-roles?gh_jid=7809118003) — S. San Francisco
-- [Senior Software Engineer, Autonomy Simulation & Validation](https://www.zipline.com/open-roles?gh_jid=7812135003) — S. San Francisco
-- [Senior Motion Planning Software Engineer](https://www.zipline.com/open-roles?gh_jid=7802961003) — S. San Francisco
-- [Software Engineer - Maps Routing](https://www.zipline.com/open-roles?gh_jid=7812206003) — S. San Francisco
-- [Simulation Software Engineer](https://www.zipline.com/open-roles?gh_jid=7802983003) — S. San Francisco
-- [Senior Integration and Test Software Engineer - Long Range Platform](https://www.zipline.com/open-roles?gh_jid=7802156003) — S. San Francisco
+| Company | Count | Sample Roles |
+|---------|-------|-------------|
+| Databricks | 98 | Engineering Managers (Compute, SQL, IAM, Streaming, UI Platform), Senior ML Engineer - GenAI Platform, 80+ Senior SEs (Backend, AI, Distributed Systems, Infra) |
+| Anthropic | 41 | Data Engineers, Engineering Managers (GPU/ML, Product, Data Eng), Full-Stack Engineers, ML Infrastructure Engineers |
+| Scale AI | 22 | AI Infrastructure Engineers (Model Serving, Sandbox Platform), Deployment Engineering Manager, Deployment SEs |
+| Clickhouse | 16 | Cloud Database Infrastructure Engineer, Cloud SE Observability Platform, Core SE (C++), Backend SEs |
+| Figure AI | 13 | AI Training Infrastructure Engineer, Helix AI Engineers (Agentic Systems, Data Infra), Platform SRE |
+| Vercel | 13 | Engineering Manager CDN, SEs (AI Gateway, AI SDK, Backend, CDN, Deployment Infra, Workflows, Trust & Safety) |
+| Aurora Innovation | 12 | Senior EM Core Cloud Services, Senior SEs (Localization, Maps Infra), Behavior Planning SE |
+| Temporal | 10 | Senior SEs (Cloud Data Storage, Compute, Infrastructure Foundations, Server Infra) |
+| Glean | 6 | Lead SRE, SE AI Infrastructure, SE Data Foundations, Senior SEs |
+| Planet Labs | 6 | Senior EM AI Geospatial, Senior Forward Deployed Engineer, Senior SE Storage Infra, SEs (Compute, Missions, Platform Ops) |
+| Airtable | 5 | SE Compute (8+ YOE), SE Data, SE Infrastructure (4-8 YOE + 8+ YOE), SE Product Backend |
+| Rocket Lab | 4 | DevOps Engineer II/Senior, Principal Network SE (TS/SCI), Senior SE Digital Engineering |
+| Fivetran | 3 | Principal SE, Principal SE AI Tooling & Adoption, Senior SE |
+| Chainguard | 3 | Senior SE Containers, SE Libraries Platform, Staff SE Customer Platform |
+| Wayve | 3 | ML Engineer App SW, ML Engineering Manager App SW, Principal SE Robot Software |
+| PhysicsX | 3 | ML Engineer, Senior Forward Deployed SE, Senior ML Engineer |
+| Hume AI | 1 | Senior Platform Engineer |
+| Black Forest Labs | 1 | Member of Technical Staff - Model Serving / API Backend Engineer |
+| Zipline | 1 | Senior Software Engineer - Maps Routing |
 
-### SumUp (1)
-- [Senior Platform Engineer](https://sumup.com/careers/positions/8656544002?gh_jid=8656544002) — **Boulder, CO** ⭐
+## No New Matches (already in scan history)
+Samsara, PolyAI, Arize AI, Amplemarket, Nuro — all qualifying jobs already logged from previous scans.
 
-### Samsara (1)
-- [Senior Software Engineer II](https://www.samsara.com/company/careers/roles/8021301?gh_jid=8021301) — Remote, US
-
-### Databricks (1)
-- [AI Engineer — GTM Analytics](https://databricks.com/company/careers/open-positions/job?gh_jid=8638847002) — United States
-
-## Excluded from pipeline (in scan history, won't reappear)
-- Zipline: HW Test Engineering Manager, Dropbox (hardware, not software)
-- Zipline: Mechanical Engineering Manager, Dropbox (mechanical)
-- Zipline: Mechanical Test Engineering Manager (SMI) (mechanical)
-- Zipline: Senior ECAD Library & Engineering Data Engineer (electronic CAD)
-- Zipline: Software Engineer - Hardware Test (hardware testing)
-
-## Notes
-- Zipline had a major batch of new listings (19 raw hits) — may have had a hiring push or board refresh
-- SumUp's Boulder role is rare — local Colorado platform engineering opportunities don't appear often
-- 8 companies returned HTTP 503 — worth re-checking tomorrow (Anduril in particular is a dream company)
+## Next Steps
+Run `/career-ops pipeline` to evaluate high-priority matches.
+High-signal targets: Anthropic, Temporal, Glean, Chainguard, Black Forest Labs, Figure AI (AI infra), Vercel (AI SDK/Gateway).
 
 ---
 *Pipeline entries added to `data/pipeline.md`. Scan history updated in `data/scan-history.tsv`.*
