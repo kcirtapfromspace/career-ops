@@ -1541,6 +1541,12 @@ _None — pipeline is current._
 
 ## Pendientes
 
+### Quick-Check Scan (2026-07-31)
+
+- [ ] https://www.samsara.com/company/careers/roles/8099653?gh_jid=8099653 | Samsara | Senior Marketing Analytics Manager - BI & Data Architecture | Remote - Toronto
+- [ ] https://www.samsara.com/company/careers/roles/8021301?gh_jid=8021301 | Samsara | Senior Software Engineer II | Remote - US
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8638847002 | Databricks | AI Engineer — GTM Analytics | United States
+
 ### Quick-Check Scan (2026-07-29)
 
 - [ ] https://www.zipline.com/open-roles?gh_jid=7819774003 | Zipline | Staff Motion Planning Software Engineer | South San Francisco, California, USA
