@@ -1,4 +1,11 @@
 # Pipeline — Pending Offers
+## 2026-07-31 — Quick Check
+
+> Greenhouse API scan — 42 companies, 2 genuinely new matches (Anduril + Zipline).
+
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5199481007?gh_jid=5199481007 | Anduril | Sr. Realtime Software Engineer | Boulder, Colorado, United States
+- [ ] https://www.zipline.com/open-roles?gh_jid=7822379003 | Zipline | Staff Software Engineer – Marketplace Growth | South San Francisco, California, USA
+
 ## 2026-07-31 — Scout Scan
 
 > ~30 companies — Greenhouse API + Ashby + Lever + WebSearch. Dedup against ~20,400 history entries. **10 new matches**. Report: [scout-2026-07-31.md](../reports/scout-2026-07-31.md)
