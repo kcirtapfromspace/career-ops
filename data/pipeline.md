@@ -1,4 +1,24 @@
 # Pipeline — Pending Offers
+## 2026-07-31 — Scout Scan
+
+> ~30 companies — Greenhouse API + Ashby + Lever + WebSearch. Dedup against ~20,400 history entries. **10 new matches**. Report: [scout-2026-07-31.md](../reports/scout-2026-07-31.md)
+
+#### Top Picks (4.0+)
+
+- [ ] https://jobs.ashbyhq.com/confluent/80a47c3e-a160-4277-a452-1eef9c689167 | Confluent | Staff Software Engineer (AI) | Remote US | ★ 4.2/5 — ~$235-277K. AI/agents on Kafka streaming = Patrick's exact archetype. K8s + distributed systems. Comp in range.
+- [ ] https://jobs.ashbyhq.com/confluent/29920de0-8dfc-4ea4-a97e-9e4a2f4ec083 | Confluent | Staff Software Engineer I - SRE | Remote US | ★ 4.2/5 — ~$235-277K. VA.gov Watchtower = direct proof point. Multi-cloud Kafka observability at massive scale.
+- [ ] https://jobs.lever.co/spotify/0841fdc0-1702-4ef6-b665-8a825112696c | Spotify | Staff Engineer, Content Intelligence Infrastructure | New York, NY | ★ 4.0/5 — NYC = ACCEPT if remote option confirmed. Staff infra at 250M+ platform. ML infra + distributed systems.
+
+#### Good Matches (3.5–3.9)
+
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5765673004 | ClickHouse | Senior Software Engineer ClickPipes (CDC/Streaming) | Remote US | 3.9/5 — $141-230K. CDC lakehouse project = direct proof point. Go + K8s. Standard comp below $185K target.
+- [ ] https://jobs.ashbyhq.com/confluent/79c5035c-4266-40f0-86e1-84d067ed77b1 | Confluent | Staff Software Engineer - Flink SQL | Remote US | 3.8/5 — ~$235-277K. Core Flink SQL at Kafka company.
+- [ ] https://jobs.ashbyhq.com/confluent/a93ac05b-0ba3-41a9-aa42-a6258c5c5584 | Confluent | Staff Software Engineer I - Confluent Platform | Remote US | 3.8/5 — ~$235-277K. Core platform architecture at The Kafka company.
+- [ ] https://jobs.lever.co/shieldai/2058ba68-40fe-4a42-9d60-633dc7e4142a | Shield AI | Senior Staff Data Engineer, Databricks | San Diego/hybrid | 3.7/5 — Defense tech. Federal regulated env = proof point. Databricks/Unity Catalog gap.
+- [ ] https://jobs.lever.co/shieldai/ac728f5a-f0cb-41f4-876a-9b368b350782 | Shield AI | Staff Engineer, AI Platform & Architecture | San Diego | 3.7/5 — AI platform at autonomous defense hardware company.
+- [ ] https://jobs.lever.co/spotify/59cb83b1-e012-4839-ae90-6b671923408a | Spotify | Senior Engineering Manager - ML | TBD | 3.5/5 — EM at large consumer ML platform. Confirm location/remote.
+- [ ] https://careers.airbnb.com/positions/7826679/ | Airbnb | Principal Software Engineer, Performance | Remote US | 3.4/5 — $292-365K. Dream company comp. JVM gap; performance engineering not primary archetype.
+
 ## 2026-07-30 — Scout Scan
 
 > ~28 companies — Greenhouse API (17 boards), Ashby/WebSearch (11). Dedup against ~20,107 history entries. **6 new matches**. Report: [scout-2026-07-30.md](../reports/scout-2026-07-30.md)
