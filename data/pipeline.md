@@ -6078,3 +6078,4 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - https://job-boards.greenhouse.io/planetlabs/jobs/8008293
 - https://job-boards.greenhouse.io/planetlabs/jobs/8022265
 - https://job-boards.greenhouse.io/planetlabs/jobs/7555019
+- [ ] https://jobs.ashbyhq.com/ramp/1de95601-9ee9-4b7f-be12-f8efbca0a127 | Ramp | Senior Software Engineer, Data Platform | Remote (verify NYC) | ★ 3.8/5 — NEW 2026-08-01. Data platform SE at high-growth fintech ($10B+). Python/dbt stack likely; strong engineering culture; verify seniority band vs. Patrick's Staff target.
