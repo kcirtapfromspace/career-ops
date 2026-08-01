@@ -1,4 +1,12 @@
 # Pipeline — Pending Offers
+
+## 2026-08-01 — Quick Check
+
+> Greenhouse API scan — 41 companies, 3 valid new matches (16 Anduril entries filtered: wrong location — VA/DC/MA/CA non-remote).
+
+- [ ] https://nuro.ai/careersitem?gh_jid=8097555 | Nuro | Senior/Staff Software Engineer, AI Agent Infrastructure | Mountain View, California (HQ)
+- [ ] https://sumup.com/careers/positions/8656544002?gh_jid=8656544002 | SumUp | Senior Platform Engineer | Boulder, Colorado, United States
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5201033007?gh_jid=5201033007 | Anduril | Senior Software Engineer, Radar | Broomfield, Colorado, United States; Fort Collins, Colorado, United States
 ## 2026-07-31 — Quick Check
 
 > Greenhouse API scan — 42 companies, 2 genuinely new matches (Anduril + Zipline).
