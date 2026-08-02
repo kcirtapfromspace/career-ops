@@ -6088,3 +6088,31 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - https://job-boards.greenhouse.io/planetlabs/jobs/7555019
 - [ ] https://jobs.ashbyhq.com/ramp/1de95601-9ee9-4b7f-be12-f8efbca0a127 | Ramp | Senior Software Engineer, Data Platform | Remote (verify NYC) | ★ 3.8/5 — NEW 2026-08-01. Data platform SE at high-growth fintech ($10B+). Python/dbt stack likely; strong engineering culture; verify seniority band vs. Patrick's Staff target.
 - https://databricks.com/company/careers/open-positions/job?gh_jid=8663972002  <!-- Databricks | Staff Software Engineer - Streaming | Seattle, Washington | NEW 2026-08-01 -->
+
+## 2026-08-02
+
+- [ ] https://careers.airbnb.com/positions/7998356/ | Airbnb | Senior Staff Data Engineer, Data Stewardship | US Remote | ★★ 4.2/5 — NEW 2026-08-02. Dream company, senior-staff level, data governance/quality/lineage at 100M+ user scale. Java/Scala/Spark + Python/dbt. 12+ yrs required. $248K–$310K comp exceeds target ceiling. EVALUATE FIRST.
+
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5184712007 | Temporal | Staff Software Engineer, AI Foundations (Agent Optimization) | US/Canada Remote | ★ 4.0/5 — NEW 2026-08-02. Multi-language LLM agent optimization in Temporal's workflow engine. Argo Workflows overlap. $224K–$302K. New variant, not dup of 5125079007.
+
+- [ ] https://jobs.ashbyhq.com/confluent/29920de0-8dfc-4ea4-a97e-9e4a2f4ec083 | Confluent | Staff Software Engineer I - SRE | US Remote | ★ 3.9/5 — NEW 2026-08-02. Kafka SRE = Patrick's observability + K8s + incident management stack. $235.7K–$277K base confirmed. 10+ yrs. Strong fit.
+
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4697551006 | Chainguard | Staff Software Engineer, Repositories | US Remote | ★ 3.8/5 — NEW 2026-08-02. Go backend, highly-available OCI registries, K8s-native. $170K–$231K — comp floor below Patrick's minimum; negotiate up.
+
+- [ ] https://jobs.ashbyhq.com/confluent/a93ac05b-0ba3-41a9-aa42-a6258c5c5584 | Confluent | Staff Software Engineer I - Confluent Platform | US Remote | ★ 3.7/5 — NEW 2026-08-02. Go distributed systems, K8s controllers, hybrid USM management layer. $235.7K–$277K base. Evaluate alongside SRE role.
+
+- [ ] https://jobs.lever.co/wandb/06ec473c-9857-4f12-b61c-3de76ac29644 | Weights & Biases | Senior Software Engineer, ML Workflows | Remote (US) | ★ 3.6/5 — NEW 2026-08-02. MLOps workflow orchestration. Argo Workflows = direct proof point. Senior not Staff — downlevel concern; verify band.
+
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/7967527 | Planet Labs | Senior Software Engineer, Storage Infrastructure | US Remote | ★ 3.6/5 — NEW 2026-08-02. Petabyte-scale object storage, Elasticsearch. $160K–$228K — comp floor below minimum. Denver/DC office access a plus.
+
+- [ ] https://jobs.lever.co/wandb/91c343ca-df62-40e5-a54b-479743e5d27c | Weights & Biases | Senior Software Engineer, Registry | Remote (US) | ★ 3.5/5 — NEW 2026-08-02. Artifact registry infrastructure (model/dataset versioning at scale). Go/K8s. Senior not Staff — downlevel concern.
+
+- [ ] https://jobs.ashbyhq.com/cohere/8f49656d-76d3-4eb0-92c4-3c0ee5c86464 | Cohere | Software Engineer, Core Infrastructure | Toronto / SF / North America remote | ★ 3.5/5 — NEW 2026-08-02. Core infra at LLM company. K8s, distributed systems. North America remote-eligible.
+
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4720573005 | Scale AI | Frontier Agents Engineer (Applied AI) | SF / Seattle / NYC | ★ 3.5/5 — NEW 2026-08-02. Applied AI on agent evals and frontier data. $180K–$225K — below comp target; location requires SF/Seattle/NYC hub.
+
+- [ ] https://jobs.ashbyhq.com/langchain/e725293d-c27b-4a79-959d-19f5618f2f8e | LangChain | Developer Productivity (Infrastructure SE) | Remote (verify) | ★ 3.5/5 — NEW 2026-08-02. Dev platform infrastructure at LangSmith. CI/CD, observability, K8s. Verify remote eligibility.
+
+- https://jobs.ashbyhq.com/pinecone/af4c8c1e-77f8-4da8-9837-7fd2c0a4d582 <!-- Pinecone | Senior Data Platform Engineer | NYC (verify remote) | 3.5/5 — NEW 2026-08-02. Appears NYC in-office — Patrick's NYC = remote-only. Verify before evaluating. -->
+
+- https://jobs.ashbyhq.com/confluent/79c5035c-4266-40f0-86e1-84d067ed77b1 <!-- Confluent | Staff SWE - Flink SQL | US Remote | 3.4/5 — NEW 2026-08-02. $230.8K–$271.2K. US remote confirmed but requires Flink OSS contributions. BuiltIn flagged removed June 15 — verify still active. -->
