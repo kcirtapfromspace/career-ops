@@ -22,6 +22,14 @@
 - [ ] https://jobs.ashbyhq.com/MotherDuck/945a5f36-ed60-4008-a5fe-c35b4d36150c | MotherDuck | Software Engineer - Full Stack | US Remote | 3.2/5 — DuckDB + cloud analytics. Full stack / seniority unconfirmed.
 - [ ] https://jobs.ashbyhq.com/pinecone/d3c61395-a005-4df7-a5f9-4705e30a53cf | Pinecone | Software Engineer, Database Team | US (verify) | 3.0/5 — Database team at vector DB. Seniority/comp unverified.
 
+## 2026-08-03 — Quick Check
+
+> Greenhouse API only — 42 companies checked, 3 valid new matches (3 filtered: Costa Mesa non-remote, New Grad entry-level, marketing role). 40/42 boards returned jobs; RunPod and Aurora Innovation returning HTTP 404.
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5371065008 | Anthropic | Engineering Manager, Search | San Francisco / NYC — NEW 2026-08-03. EM role at Anthropic for search infrastructure (likely RAG/retrieval). Dream company. SF or NYC.
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5131779007?gh_jid=5131779007 | Anduril | Senior Software Engineer, PLM | Remote — NEW 2026-08-03. PLM (product lifecycle management) software engineering at defense tech leader. Remote. Senior band — verify seniority alignment.
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8656900002 | Databricks | Senior Applied ML Engineer - ML4Sys | San Francisco — NEW 2026-08-03. ML applied to systems optimization at Databricks. SF-based. Senior level — verify compensation band.
+
 ## 2026-08-01 — Quick Check
 
 > Greenhouse API scan — 41 companies, 3 valid new matches (16 Anduril entries filtered: wrong location — VA/DC/MA/CA non-remote).
