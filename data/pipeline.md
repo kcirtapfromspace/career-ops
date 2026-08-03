@@ -24,11 +24,14 @@
 
 ## 2026-08-03 — Quick Check
 
-> Greenhouse API only — 42 companies checked, 3 valid new matches (3 filtered: Costa Mesa non-remote, New Grad entry-level, marketing role). 40/42 boards returned jobs; RunPod and Aurora Innovation returning HTTP 404.
+> Greenhouse API only — 42 companies checked, 6 valid new matches across two runs (3+3 filtered). 40/42 boards returned jobs; RunPod and Aurora Innovation returning HTTP 404.
 
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5371065008 | Anthropic | Engineering Manager, Search | San Francisco / NYC — NEW 2026-08-03. EM role at Anthropic for search infrastructure (likely RAG/retrieval). Dream company. SF or NYC.
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5131779007?gh_jid=5131779007 | Anduril | Senior Software Engineer, PLM | Remote — NEW 2026-08-03. PLM (product lifecycle management) software engineering at defense tech leader. Remote. Senior band — verify seniority alignment.
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8656900002 | Databricks | Senior Applied ML Engineer - ML4Sys | San Francisco — NEW 2026-08-03. ML applied to systems optimization at Databricks. SF-based. Senior level — verify compensation band.
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5201924007?gh_jid=5201924007 | Anduril | Senior Software Engineer, Data Distribution | Seattle, WA — NEW 2026-08-03 (run 2). Data distribution systems at dream defense tech company. Seattle = accept. Strong data/platform fit.
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4711484005 | Glean | Machine Learning Engineer, Assistant Quality | San Francisco, CA — NEW 2026-08-03 (run 2). ML engineering for AI assistant quality at Glean (enterprise search). SF-based.
+- [ ] https://www.samsara.com/company/careers/roles/7578952?gh_jid=7578952 | Samsara | Lead AI Engineer, GTM Systems | Remote - US — NEW 2026-08-03 (run 2). AI engineering for GTM automation at large IoT/AI platform. Remote US. Lead band.
 
 ## 2026-08-01 — Quick Check
 
