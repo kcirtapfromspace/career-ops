@@ -1,5 +1,27 @@
 # Pipeline — Pending Offers
 
+## 2026-08-03 — Scout Scan
+
+> 30+ companies — Greenhouse API (17 boards), Ashby/Lever/WebSearch (13+ companies), broad discovery queries. Dedup against 19,420 history entries. **8 new matches**. Report: [scout-2026-08-03.md](../reports/scout-2026-08-03.md)
+
+#### Top Pick (4.0+)
+
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/7801694003 | Affirm | Staff Software Engineer, Backend (Lake Analytics Platform) | US Remote | ★ 4.2/5 — $204-290K. Apache Iceberg + Snowflake + Spark + dbt = Patrick's exact stack. Staff level, remote, comp above target.
+
+#### Good Matches (3.5–3.9)
+
+- [ ] https://careers.airbnb.com/positions/8074897/ | Airbnb | Staff Backend Engineer, Ads Platform | US Remote | 3.8/5 — $212-265K. Dream company + Staff level. ⚠️ Ads domain expertise required.
+- [ ] https://jobs.ashbyhq.com/depot/c303bf37-ee14-4593-9ac9-c2fb4c65253a | Depot | Staff Software Engineer | Remote | 3.7/5 — CI/CD/containers platform. K8s + infra archetype match. Small company.
+- [ ] https://job-boards.greenhouse.io/shift5/jobs/6104062004 | Shift5 | Staff Data Engineer | Rosslyn VA / Remote | 3.6/5 — $185-220K. Defense OT security. Airflow/Spark/K8s/AWS. Clearance eligibility preferred.
+- [ ] https://jobs.lever.co/spotify/9761af44-be41-43ca-8c01-79cdbb2aef93 | Spotify | Staff ML Engineer, Personalization | TBD (verify remote) | 3.5/5 — Staff at 250M+ platform. Verify US remote option.
+- [ ] https://www.okta.com/company/careers/opportunity/8045905?gh_jid=8045905 | Okta | Staff Software Engineer, Data Platform | US (verify remote) | 3.5/5 — Staff Data Platform at enterprise identity leader.
+
+#### Lower Priority (3.0–3.4)
+
+- [ ] https://jobs.ashbyhq.com/zapier/83ab14be-cd19-4091-84aa-2aa23833ab7d | Zapier | Applied AI Engineer | US Remote | 3.3/5 — Automation company fit; no seniority level.
+- [ ] https://jobs.ashbyhq.com/MotherDuck/945a5f36-ed60-4008-a5fe-c35b4d36150c | MotherDuck | Software Engineer - Full Stack | US Remote | 3.2/5 — DuckDB + cloud analytics. Full stack / seniority unconfirmed.
+- [ ] https://jobs.ashbyhq.com/pinecone/d3c61395-a005-4df7-a5f9-4705e30a53cf | Pinecone | Software Engineer, Database Team | US (verify) | 3.0/5 — Database team at vector DB. Seniority/comp unverified.
+
 ## 2026-08-01 — Quick Check
 
 > Greenhouse API scan — 41 companies, 3 valid new matches (16 Anduril entries filtered: wrong location — VA/DC/MA/CA non-remote).
