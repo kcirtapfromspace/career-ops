@@ -6157,3 +6157,9 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - https://jobs.ashbyhq.com/pinecone/af4c8c1e-77f8-4da8-9837-7fd2c0a4d582 <!-- Pinecone | Senior Data Platform Engineer | NYC (verify remote) | 3.5/5 — NEW 2026-08-02. Appears NYC in-office — Patrick's NYC = remote-only. Verify before evaluating. -->
 
 - https://jobs.ashbyhq.com/confluent/79c5035c-4266-40f0-86e1-84d067ed77b1 <!-- Confluent | Staff SWE - Flink SQL | US Remote | 3.4/5 — NEW 2026-08-02. $230.8K–$271.2K. US remote confirmed but requires Flink OSS contributions. BuiltIn flagged removed June 15 — verify still active. -->
+
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5203050007?gh_jid=5203050007 | Anduril | Scientific Software Engineer | Broomfield / Fort Collins, Colorado | NEW 2026-08-04. Colorado location (Denver metro). Anduril dream company. Evaluate for fit.
+
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5203172007?gh_jid=5203172007 | Anduril | Senior Software Engineer, Sensor Fusion | Broomfield / Fort Collins, Colorado | NEW 2026-08-04. Colorado location (Denver metro). Anduril dream company. Sensor fusion / autonomy domain.
+
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4686153006 | Chainguard | Senior Software Engineer (Guarded OS) | United States - Remote | NEW 2026-08-04. Remote. Guarded OS = container security. K8s-native supply chain security stack.
