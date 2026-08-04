@@ -1,5 +1,13 @@
 # Pipeline — Pending Offers
 
+## 2026-08-04 — Scout Scan
+
+> 25+ companies — Greenhouse API (17 boards), WebSearch (8+ companies). Dedup against 20,574 history entries. **1 new match**. Report: [scout-2026-08-04.md](../reports/scout-2026-08-04.md)
+
+#### Good Matches (3.5–3.9)
+
+- [ ] https://jobs.lever.co/spotify/d3a78ed1-9445-4554-b70d-411e2463c7c7 | Spotify | Senior ML Engineer, Content Intelligence | US Remote | 3.5/5 — Senior level at 250M+ platform. ML/NLP background (HHS BERT) directly relevant. Dream company.
+
 ## 2026-08-03 — Scout Scan
 
 > 30+ companies — Greenhouse API (17 boards), Ashby/Lever/WebSearch (13+ companies), broad discovery queries. Dedup against 19,420 history entries. **8 new matches**. Report: [scout-2026-08-03.md](../reports/scout-2026-08-03.md)
