@@ -378,8 +378,8 @@ tracked_companies:
   - name: RunPod
     careers_url: https://job-boards.greenhouse.io/runpod
     api: https://boards-api.greenhouse.io/v1/boards/runpod/jobs
-    notes: "GPU cloud for AI."
-    enabled: true
+    notes: "GPU cloud for AI. Greenhouse board 404 as of 2026-08-05 — may have migrated ATS."
+    enabled: false
 
   - name: Glean
     careers_url: https://job-boards.greenhouse.io/gleanwork

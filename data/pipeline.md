@@ -1,5 +1,46 @@
 # Pipeline — Pending Offers
 
+## 2026-08-05 — Quick Check (Greenhouse API)
+
+> 42 companies — Greenhouse API only (fast scan). Dedup against 20,591 history entries. **16 new matches** across 4 companies. RunPod board 404 (needs portals.yml update). Report: [scout-quickcheck-2026-08-05.md](../reports/scout-quickcheck-2026-08-05.md)
+
+#### Standout — High Priority
+
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5204483007 | Temporal | Staff Software Engineer, AI Foundations (AI Agent Optimization) | US Remote | NEW 2026-08-05. New variant of Temporal AI Foundations role (different ID from 5184712007). US remote confirmed. Workflow engine AI agent optimization — strong match.
+
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8673111002 | Databricks | Sr. Manager, Engineering - Artifact Distribution | Bellevue, WA (Seattle metro) | NEW 2026-08-05. EM role at Databricks ($43B). Bellevue = Seattle accept location. Artifact distribution infra at scale.
+
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7812734003 | Celonis | Staff Software Engineer | Redwood City, CA (SF Bay Area) | NEW 2026-08-05. Only open engineering role at Celonis US. Process intelligence + AI platform. Evaluate for stack fit.
+
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5204301007?gh_jid=5204301007 | Anduril | Senior Realtime Software Engineer | Boulder, CO (Denver metro) | NEW 2026-08-05. Colorado-based. Anduril dream company. Realtime systems / embedded-adjacent — check for Patrick's fit.
+
+#### Aurora Innovation Batch (Mountain View, CA — SF Bay Area)
+
+- [ ] https://jobs.ashbyhq.com/aurora-operations-inc/48e60b65-f6e2-47c8-8674-7c3f0a43adf0 | Aurora Innovation | Staff Software Engineer, Deep Learning Acceleration | Mountain View, CA | NEW 2026-08-05. ML acceleration stack at self-driving company. Closest to Patrick's ML infra background.
+
+- [ ] https://jobs.ashbyhq.com/aurora-operations-inc/8624caf6-91c7-4f27-a979-c3cab7877bca | Aurora Innovation | Software Engineer I, Data Eng Infra | Mountain View, CA | NEW 2026-08-05. Data engineering infra — direct domain fit. Likely underpaid for Patrick (Eng I).
+
+- [ ] https://jobs.ashbyhq.com/aurora-operations-inc/e51cb3c8-3266-48cd-826d-2e7048ea37a9 | Aurora Innovation | Senior Software Engineer, Corporate Engineering | Mountain View, CA | NEW 2026-08-05. Internal platform engineering. May be closer to Patrick's infra/tooling background.
+
+- [ ] https://jobs.ashbyhq.com/aurora-operations-inc/e371cbd1-ce0d-4934-8cc1-c86c31c1f594 | Aurora Innovation | Senior Staff Software Engineer (Security) | Mountain View, CA | NEW 2026-08-05. Senior Staff level — compensation likely strong. Security/platform crossover.
+
+- [ ] https://jobs.ashbyhq.com/aurora-operations-inc/3c43caf8-9e60-49e3-a96d-ea98942cb565 | Aurora Innovation | Senior Software Engineer, Perception | Mountain View, CA | NEW 2026-08-05. Perception ML at AV company. Specialized domain — evaluate fit.
+
+- [ ] https://jobs.ashbyhq.com/aurora-operations-inc/49dc19fe-fd6f-4708-bf6f-a0b595b24cf9 | Aurora Innovation | Staff Software Engineer, Online Maps | Mountain View, CA | NEW 2026-08-05. Map data infra at scale. Data engineering adjacent.
+
+- [ ] https://jobs.ashbyhq.com/aurora-operations-inc/ecb227b7-9806-410d-af7a-bfe72df8d531 | Aurora Innovation | Software Engineer II (Security) | Mountain View, CA | NEW 2026-08-05. Security eng. Level II may be underpaid.
+
+- [ ] https://jobs.ashbyhq.com/aurora-operations-inc/65a32061-3fac-48e7-922d-114f43a8af16 | Aurora Innovation | Software Engineer, Autonomy Controls | Mountain View, CA | NEW 2026-08-05. AV-specific. Specialized domain.
+
+- [ ] https://jobs.ashbyhq.com/aurora-operations-inc/f9fb3e3a-e5c1-418b-99c8-53e97b2f64f6 | Aurora Innovation | Senior Software Engineer, Localization | Mountain View, CA | NEW 2026-08-05. AV localization stack. Specialized domain.
+
+- [ ] https://jobs.ashbyhq.com/aurora-operations-inc/f7ed8769-39ea-40e9-b6ca-f87ff02b3997 | Aurora Innovation | Software Engineer II, Calibration | Mountain View, CA | NEW 2026-08-05. AV calibration. Specialized domain. Level may be too junior.
+
+- [ ] https://jobs.ashbyhq.com/aurora-operations-inc/877f468f-dabd-4c33-aced-99dcd7517e2c | Aurora Innovation | Behavior Planning Software Engineer | Mountain View, CA | NEW 2026-08-05. AV behavior planning. Specialized domain.
+
+- [ ] https://jobs.ashbyhq.com/aurora-operations-inc/a2141a15-52f7-47d0-aef6-cf713c5e01dd | Aurora Innovation | Staff Software Engineer, Connectivity | Mountain View, CA | NEW 2026-08-05. Vehicle connectivity platform — infra-adjacent.
+
+
 ## 2026-08-05 — Scout Scan
 
 > 28 companies — Greenhouse API (23 boards), WebSearch (5 companies: Affirm, Confluent, Modal, Zapier, Anyscale). Dedup against 20,589 history entries. **1 new match**. Report: [scout-2026-08-05.md](../reports/scout-2026-08-05.md)
