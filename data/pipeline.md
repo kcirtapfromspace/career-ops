@@ -1,5 +1,13 @@
 # Pipeline — Pending Offers
 
+## 2026-08-05 — Scout Scan
+
+> 28 companies — Greenhouse API (23 boards), WebSearch (5 companies: Affirm, Confluent, Modal, Zapier, Anyscale). Dedup against 20,589 history entries. **1 new match**. Report: [scout-2026-08-05.md](../reports/scout-2026-08-05.md)
+
+#### Good Matches (3.5–3.9)
+
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/7817804003 | Affirm | Engineering Manager, Machine Learning Platform | Remote US | 3.8/5 — NEW 2026-08-05. EM leading ML Training & Serving team. $204K–$264K (most states) / $230K–$290K (CA/WA/NY). Model training, serving, GPU infra. Direct EM+ML Platform archetype match. Affirm fintech scale.
+
 ## 2026-08-04 — Scout Scan
 
 > 25+ companies — Greenhouse API (17 boards), WebSearch (8+ companies). Dedup against 20,574 history entries. **1 new match**. Report: [scout-2026-08-04.md](../reports/scout-2026-08-04.md)
