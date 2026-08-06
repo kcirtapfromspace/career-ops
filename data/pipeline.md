@@ -28,6 +28,14 @@
 
 - [ ] https://www.samsara.com/company/careers/roles/8109358?gh_jid=8109358 | Samsara | Staff Software Engineer, DevEx | Remote - Canada | NEW 2026-08-06. Staff IC on developer experience team. Canada remote (lower priority vs US remote). DevEx adjacent to Patrick's platform background. Evaluate if Canada remote is viable.
 
+## 2026-08-06 — Quick Check #2 (Greenhouse API)
+
+> 41 Greenhouse API boards (Greenhouse APIs only). Dedup against 33,894 history entries. **2 new matches** (Anduril ×2). Aurora Innovation board 404. Report: [scout-quickcheck-2026-08-06b.md](../reports/scout-quickcheck-2026-08-06b.md)
+
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5205419007?gh_jid=5205419007 | Anduril | Platform Engineer, Battlespace Awareness | Fort Collins, Colorado | NEW 2026-08-06. Colorado location (Denver metro area). Anduril dream company. Platform engineering for battlespace awareness domain. Evaluate scope and clearance requirements.
+
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5205416007?gh_jid=5205416007 | Anduril | Software Engineer, Tooling | Fort Collins, Colorado | NEW 2026-08-06. Colorado location (Denver metro area). Anduril dream company. Software tooling engineering for defense tech. Evaluate tech stack and clearance requirements.
+
 ## 2026-08-05 — Quick Check (Greenhouse API)
 
 > 42 companies — Greenhouse API only (fast scan). Dedup against 20,591 history entries. **16 new matches** across 4 companies. RunPod board 404 (needs portals.yml update). Report: [scout-quickcheck-2026-08-05.md](../reports/scout-quickcheck-2026-08-05.md)
