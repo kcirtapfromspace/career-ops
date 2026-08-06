@@ -20,6 +20,14 @@
 
 - [ ] https://job-boards.greenhouse.io/affirm/jobs/7799631003 | Affirm | Senior Software Engineer, Backend (Lake Analytics Platform) | Remote US | 3.5/5 — $195K–$255K (CA/WA/NY/NJ/CT) / $173K–$233K (other). Lakehouse governance: RBAC, data masking, Snowflake/Databricks/BigQuery. Consider 7801694003 (Staff level, 4.2/5) in pipeline first.
 
+## 2026-08-06 — Quick Check (Greenhouse API)
+
+> 41 Greenhouse API boards. Dedup against 20,662 history URLs (pre-run). **2 new US/Canada-remote matches** (Samsara ×2). Anduril timed out — not checked. Aurora board 404 (migrated to Ashby). Dagster: 0 open roles. 855 lines logged to scan history. Report: [scout-quickcheck-2026-08-06.md](../reports/scout-quickcheck-2026-08-06.md)
+
+- [ ] https://www.samsara.com/company/careers/roles/7811931?gh_jid=7811931 | Samsara | Manager II, Data Platform | Remote - US | NEW 2026-08-06. Management role for the Data Platform org at Samsara. Remote US confirmed. Strong match: Patrick's EM + Data Platform background. Evaluate comp and scope.
+
+- [ ] https://www.samsara.com/company/careers/roles/8109358?gh_jid=8109358 | Samsara | Staff Software Engineer, DevEx | Remote - Canada | NEW 2026-08-06. Staff IC on developer experience team. Canada remote (lower priority vs US remote). DevEx adjacent to Patrick's platform background. Evaluate if Canada remote is viable.
+
 ## 2026-08-05 — Quick Check (Greenhouse API)
 
 > 42 companies — Greenhouse API only (fast scan). Dedup against 20,591 history entries. **16 new matches** across 4 companies. RunPod board 404 (needs portals.yml update). Report: [scout-quickcheck-2026-08-05.md](../reports/scout-quickcheck-2026-08-05.md)
