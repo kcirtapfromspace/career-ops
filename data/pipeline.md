@@ -1,5 +1,25 @@
 # Pipeline — Pending Offers
 
+## 2026-08-06 — Scout Scan
+
+> 43 companies — Greenhouse API (41 boards, 1×404 Factorial, 1×redirect Dropbox), WebSearch (W&B, MotherDuck). Dedup against 20,637 history entries. **6 new matches** across 2 companies (Affirm ×5, Dropbox ×1). Report: [scout-2026-08-06.md](../reports/scout-2026-08-06.md)
+
+#### Top Picks (4.0+)
+
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/7765112003 | Affirm | Manager, Software Engineering (Reliability Platform) | Remote US | ★ 4.5/5 — $230K–$290K (CA/WA/NY/NJ/CT) / $204K–$264K (other). SRE-adjacent EM: reliability, observability tooling, service ownership, incident response. Direct match to DORA/Four Golden Signals expertise. K8s + Python stack.
+
+- [ ] https://job-boards.greenhouse.io/dropbox/jobs/8090062 | Dropbox | Senior Manager, Data Engineering | Remote US | ★ 4.5/5 — $202K–$274K. Data quality, lineage, self-serve analytics, Spark/dbt/Airflow, Databricks/Snowflake/BigQuery. 8+ years data eng + 3+ years EM = Patrick's exact archetype. Dropbox remote-first engineering culture.
+
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/7730668003 | Affirm | Manager, Software Engineering (Developer Environments) | Remote US | 4.0/5 — $230K–$290K (CA/WA/NY/NJ/CT) / $204K–$264K (other). Dev productivity EM: ephemeral environments, K8s, CI/CD (Buildkite/Jenkins), AWS, Terraform/Helm. Infrastructure-first EM archetype match.
+
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/7785812003 | Affirm | Senior Software Engineer, Backend (Batch Infrastructure) | Remote US | 4.0/5 — $195K–$255K (CA/WA/NY/NJ/CT) / $173K–$233K (other). Workflow orchestration: Temporal ✓, Airflow, Flyte, Prefect, Luigi. Spark/Flink on K8s. Patrick's exact stack. Title step may be negotiable to Staff.
+
+#### Good Matches (3.5–3.9)
+
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/7705033003 | Affirm | Senior Engineering Manager, Machine Learning Platform | Remote US | 3.5/5 — $265K–$325K (CA/WA/NY/NJ/CT) / $236K–$296K (other). Best comp in batch. Deep ML infra focus (GPU, training, serving, transformers) — stretch for profile but exceptional comp warrants exploration.
+
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/7799631003 | Affirm | Senior Software Engineer, Backend (Lake Analytics Platform) | Remote US | 3.5/5 — $195K–$255K (CA/WA/NY/NJ/CT) / $173K–$233K (other). Lakehouse governance: RBAC, data masking, Snowflake/Databricks/BigQuery. Consider 7801694003 (Staff level, 4.2/5) in pipeline first.
+
 ## 2026-08-05 — Quick Check (Greenhouse API)
 
 > 42 companies — Greenhouse API only (fast scan). Dedup against 20,591 history entries. **16 new matches** across 4 companies. RunPod board 404 (needs portals.yml update). Report: [scout-quickcheck-2026-08-05.md](../reports/scout-quickcheck-2026-08-05.md)
