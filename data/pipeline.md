@@ -6260,3 +6260,15 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - [ ] https://job-boards.greenhouse.io/defenseunicorns/jobs/5151114007 | Defense Unicorns | Platform Engineer (FedD145) | Remote, United States | NEW 2026-08-07. 3.0/5. K8s/Helm/GitOps platform for defense. Strong technical fit but IC level (not Staff). Backup if EM pursuit stalls. Also open: /5165337007, /5175532007, /5203690007.
 
 - [ ] https://job-boards.greenhouse.io/defenseunicorns/jobs/5076453007 | Defense Unicorns | Data Engineer (FedD024) | United States - Remote | NEW 2026-08-07. 3.2/5. Federal data engineering. Kafka/dbt stack + VA.gov/HHS context applies. IC level, comp TBD.
+
+## 2026-08-07 — Quick Check (Greenhouse API)
+
+> 41 Greenhouse API boards checked. Dedup against 20,393 history URLs (pre-run). **4 new US-area matches** (Anduril ×2, Databricks ×1, Nuro ×1). 2 location false positives filtered post-hoc (SumUp Bulgaria, Databricks Nordics). Aurora Innovation 404 (still on Ashby). Dagster: 0 open roles. 459 lines logged to scan history. Report: [scout-quickcheck-2026-08-07.md](../reports/scout-quickcheck-2026-08-07.md)
+
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5197253007?gh_jid=5197253007 | Anduril | Applied LLM Systems Engineer | Costa Mesa, CA | NEW 2026-08-07. LLM systems engineering at Anduril HQ (dream company). Costa Mesa = Anduril's primary campus. Applied AI + defense autonomy stack.
+
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5206580007?gh_jid=5206580007 | Anduril | Senior Software Engineer, Video  | Seattle, WA | NEW 2026-08-07. Senior SWE on video/sensor pipeline. Seattle (accepted city). Dream company + hardware moat.
+
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8691490002 | Databricks | Staff Software Engineer - Access Management | Bellevue, WA | NEW 2026-08-07. Staff IC in access management / authz. Bellevue = Seattle metro (accepted). $43B company, strong Staff IC career track.
+
+- [ ] https://nuro.ai/careersitem?gh_jid=8114754 | Nuro | Staff/Lead Machine Learning Engineer, Behavior & Planning | Mountain View, CA | NEW 2026-08-07. Staff/Lead ML on autonomous vehicle behavior planning. Mountain View (Bay Area). Hardware moat company — evaluate scope + comp vs AV domain depth required.
