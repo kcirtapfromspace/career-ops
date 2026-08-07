@@ -6248,3 +6248,15 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5203172007?gh_jid=5203172007 | Anduril | Senior Software Engineer, Sensor Fusion | Broomfield / Fort Collins, Colorado | NEW 2026-08-04. Colorado location (Denver metro). Anduril dream company. Sensor fusion / autonomy domain.
 
 - [ ] https://job-boards.greenhouse.io/chainguard/jobs/4686153006 | Chainguard | Senior Software Engineer (Guarded OS) | United States - Remote | NEW 2026-08-04. Remote. Guarded OS = container security. K8s-native supply chain security stack.
+
+## 2026-08-07
+
+- [ ] https://job-boards.greenhouse.io/honeycomb/jobs/5366557008 | Honeycomb | Senior Software Engineer II, LLM Observability | Remote - United States | NEW 2026-08-07. ⭐️ 4.0/5 STRONG MATCH. Builds foundational AI/LLM observability layer (OpenTelemetry, spans, traces, token usage). Directly maps to Patrick's VA.gov Watchtower (Four Golden Signals, DORA metrics) + data pipeline expertise (Kafka/CDC/dbt). Fully distributed, Series D. Priority: evaluate and apply.
+
+- [ ] https://job-boards.greenhouse.io/honeycomb/jobs/5373987008 | Honeycomb | Senior Software Engineer II, Agentic Intelligence | Remote - United States | NEW 2026-08-07. 3.3/5. Canvas/MCP agent engineering at observability company. Strong company fit but needs deep agent framework experience. Stretch — evaluate alongside LLM Observability role.
+
+- [ ] https://job-boards.greenhouse.io/defenseunicorns/jobs/5169709007 | Defense Unicorns | Engineering Manager, Product (RD165) | Remote, United States | NEW 2026-08-07. 3.4/5. Product EM for K8s/GitOps defense software. Federal background (VA.gov, HHS) relevant. K8s/Argo expertise maps to UDS/ATO delivery. EM experience gap is risk. Borderline — review JD and comp before deciding.
+
+- [ ] https://job-boards.greenhouse.io/defenseunicorns/jobs/5151114007 | Defense Unicorns | Platform Engineer (FedD145) | Remote, United States | NEW 2026-08-07. 3.0/5. K8s/Helm/GitOps platform for defense. Strong technical fit but IC level (not Staff). Backup if EM pursuit stalls. Also open: /5165337007, /5175532007, /5203690007.
+
+- [ ] https://job-boards.greenhouse.io/defenseunicorns/jobs/5076453007 | Defense Unicorns | Data Engineer (FedD024) | United States - Remote | NEW 2026-08-07. 3.2/5. Federal data engineering. Kafka/dbt stack + VA.gov/HHS context applies. IC level, comp TBD.
