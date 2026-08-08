@@ -6296,3 +6296,15 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8691490002 | Databricks | Staff Software Engineer - Access Management | Bellevue, WA | NEW 2026-08-07. Staff IC in access management / authz. Bellevue = Seattle metro (accepted). $43B company, strong Staff IC career track.
 
 - [ ] https://nuro.ai/careersitem?gh_jid=8114754 | Nuro | Staff/Lead Machine Learning Engineer, Behavior & Planning | Mountain View, CA | NEW 2026-08-07. Staff/Lead ML on autonomous vehicle behavior planning. Mountain View (Bay Area). Hardware moat company — evaluate scope + comp vs AV domain depth required.
+
+## 2026-08-08 — Quick Check (Greenhouse API)
+
+> 41 Greenhouse API boards checked. Dedup against 20,868 history URLs (pre-run). **4 new US-area matches** (Anthropic ×3, Samsara ×1). 2 Canada remotes filtered post-hoc. Aurora Innovation 404. Dagster: 0 open roles. 42 lines logged to scan history. Report: [scout-quickcheck-2026-08-08.md](../reports/scout-quickcheck-2026-08-08.md)
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5383610008 | Anthropic | Staff Software Engineer, Claude Code | San Francisco, CA | Seattle, WA | NEW 2026-08-08. ⭐️ Staff SWE role on Claude Code itself — Anthropic's CLI and agentic coding product. Direct match: Patrick already uses and understands the product deeply. SF or Seattle (both accepted cities). Dream company + highest comp tier.
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4970314008 | Anthropic | Staff+ Software Engineer, Infrastructure (Distributed Systems) | San Francisco, CA | Seattle, WA | NEW 2026-08-08. ⭐️ Staff+ distributed systems infra at Anthropic. Maps directly to Patrick's large-scale data infrastructure experience (Kafka, Airflow, CDC pipelines). SF or Seattle. Top-tier comp. Priority evaluate.
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5383114008 | Anthropic | Staff+ Software Engineer, Privacy | San Francisco, CA | Seattle, WA | NEW 2026-08-08. Staff+ privacy engineering at Anthropic. Compliance/security-adjacent; VA.gov federal security background is relevant. SF or Seattle. Worth reviewing scope vs pure privacy infra.
+
+- [ ] https://www.samsara.com/company/careers/roles/8064742?gh_jid=8064742 | Samsara | Staff Software Engineer | Remote - US | NEW 2026-08-08. Staff IC, fully remote US. IoT + AI platform; large-scale infrastructure. Evaluate role specialization and team.
