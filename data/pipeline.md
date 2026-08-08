@@ -1,5 +1,29 @@
 # Pipeline — Pending Offers
 
+## 2026-08-08 — Scout Scan
+
+> 25+ companies — Greenhouse API (Airbnb, Databricks, Chainguard, Fivetran, ClickHouse, Arize, Dagster, Scale AI); WebSearch/WebFetch (Netflix, Waymo, LiveKit/Ashby, Estuary/HN). Dedup against ~22,009 history entries. **3 pipeline additions** (all 4.0+). Report: [scout-2026-08-08.md](../reports/scout-2026-08-08.md)
+
+#### Top Picks (4.0+)
+
+- [ ] careers@estuary.dev | Estuary | Senior Systems Engineer, Capture & Materializations | Remote US | ★ 4.2/5 — Go+Rust CDC replication platform. Sourced HN August 2026. Direct match: Postgres→CDC→Kafka→DuckDB stack. Email apply today.
+
+- [ ] https://explore.jobs.netflix.net/careers/job/790314432037 | Netflix | Engineering Manager, Data Platform Orchestration | Los Gatos, CA | ★ 4.0/5 — EM role for data platform orchestration (Maestro/Argo/Flink at Netflix scale). Relocation pre-approved. Elite comp (L6+ EM: ~$450K-$650K all-salary).
+
+- [ ] https://careers.airbnb.com/positions/8017277/ | Airbnb | Senior Staff Engineer, Communication & Connectivity | Remote US | ★ 4.0/5 — $248K-$310K. Staff+ IC, backend+AI, real-time comms platform at scale. 12+ yrs required.
+
+#### Good Matches (3.5–3.9)
+
+- [ ] https://jobs.ashbyhq.com/livekit/a1d10340 | LiveKit | Staff Rust SDK Engineer | Remote US/Canada | 3.8/5 — $200K-$300K + equity. Rust expertise, WebRTC/multi-platform SDKs. Queue for 2 weeks out.
+
+- [ ] https://explore.jobs.netflix.net/careers/job/790317589519 | Netflix | Software Engineer 5, Platform Data Products | Remote US | 3.7/5 — L5 IC (Staff equiv), internal data tooling for 100s of teams. Apply in parallel with EM role.
+
+- [ ] https://careers.airbnb.com/positions/7968034/ | Airbnb | Senior Engineering Manager, Media Foundation | Remote US | 3.5/5 — $248K-$310K. EM archetype, CDN/media infra, 6+ yrs EM. Domain stretch.
+
+- [ ] https://careers.airbnb.com/positions/8044558/ | Airbnb | Engineering Manager, Payments | Remote US | 3.5/5 — $212K-$265K. EM archetype, payments domain. Lower priority vs Media Foundation.
+
+- [ ] https://careers.airbnb.com/positions/8065789/ | Airbnb | Senior MLE, Relevance (Query Intelligence) | Remote US | 3.5/5 — $200K-$235K. NLP/Kafka/Spark/K8s match. Senior, not Staff — title negotiation needed.
+
 ## 2026-08-06 — Scout Scan
 
 > 43 companies — Greenhouse API (41 boards, 1×404 Factorial, 1×redirect Dropbox), WebSearch (W&B, MotherDuck). Dedup against 20,637 history entries. **6 new matches** across 2 companies (Affirm ×5, Dropbox ×1). Report: [scout-2026-08-06.md](../reports/scout-2026-08-06.md)
