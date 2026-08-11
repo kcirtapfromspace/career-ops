@@ -1,5 +1,16 @@
 # Pipeline — Pending Offers
 
+## 2026-08-11 — Scout Quick Check (Greenhouse API only)
+
+> 41 companies — Greenhouse API only. Dedup against 21,084 history entries. **3 new matches** (Anthropic ×2, Zipline ×1). No full evaluations — discovery only.
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5382750008 | Anthropic | AI Infrastructure Operations, Demand Planning | San Francisco, CA / New York City, NY — New posting. AI infra + ops focus. Evaluate.
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5367585008 | Anthropic | Software Engineer, Desktop | San Francisco, CA / New York City, NY — New posting. Desktop client eng at Anthropic. Evaluate fit.
+
+- [ ] https://www.zipline.com/open-roles?gh_jid=7850772003 | Zipline | Sr. IT Infrastructure Engineer | South San Francisco, CA — Infrastructure at drone delivery company. Evaluate.
+
+
 ## 2026-08-08 — Scout Scan
 
 > 25+ companies — Greenhouse API (Airbnb, Databricks, Chainguard, Fivetran, ClickHouse, Arize, Dagster, Scale AI); WebSearch/WebFetch (Netflix, Waymo, LiveKit/Ashby, Estuary/HN). Dedup against ~22,009 history entries. **3 pipeline additions** (all 4.0+). Report: [scout-2026-08-08.md](../reports/scout-2026-08-08.md)
