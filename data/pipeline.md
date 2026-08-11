@@ -6308,3 +6308,12 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5383114008 | Anthropic | Staff+ Software Engineer, Privacy | San Francisco, CA | Seattle, WA | NEW 2026-08-08. Staff+ privacy engineering at Anthropic. Compliance/security-adjacent; VA.gov federal security background is relevant. SF or Seattle. Worth reviewing scope vs pure privacy infra.
 
 - [ ] https://www.samsara.com/company/careers/roles/8064742?gh_jid=8064742 | Samsara | Staff Software Engineer | Remote - US | NEW 2026-08-08. Staff IC, fully remote US. IoT + AI platform; large-scale infrastructure. Evaluate role specialization and team.
+
+## 2026-08-11 — Quick Check (Greenhouse API)
+
+> 41 Greenhouse API boards checked. Dedup against 20,908 history URLs (pre-run). **2 new US-area matches** (Anthropic ×1, Fivetran ×1). Aurora Innovation 404 (board gone). Report: [scout-quickcheck-2026-08-11.md](../reports/scout-quickcheck-2026-08-11.md)
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5230394008 | Anthropic | Staff+ Site Reliability Engineer, Safeguards ML Infra | Remote-Friendly (SF, Seattle, NYC) | NEW 2026-08-11. ⭐️ Staff+ SRE role on Safeguards ML Infrastructure at Anthropic. "Safeguards" = AI safety / trust & safety infra team. Remote-friendly (travel required). All primary locations accepted. Dream company + highest comp tier + direct SRE/infra domain fit.
+
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7823193003 | Fivetran | Staff Software Engineer, Metadata | Remote, US (AMER) | NEW 2026-08-11. Staff SWE on Metadata at Fivetran — data integration platform. Denver-based company (local!), fully remote. Patrick's data pipeline expertise is a direct fit. Evaluate scope: metadata catalog vs connector metadata vs pipeline metadata.
+
