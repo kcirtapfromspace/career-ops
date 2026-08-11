@@ -6309,6 +6309,20 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 
 - [ ] https://www.samsara.com/company/careers/roles/8064742?gh_jid=8064742 | Samsara | Staff Software Engineer | Remote - US | NEW 2026-08-08. Staff IC, fully remote US. IoT + AI platform; large-scale infrastructure. Evaluate role specialization and team.
 
+## 2026-08-11 — Scout Scan (Full Run)
+
+> 15 companies via Greenhouse API + WebSearch sweeps. Dedup against 22,249 history entries. **3 net new additions** (Fivetran EM ×1, Affirm ×2). Plus 2 from today's quickcheck already listed below. Report: [scout-2026-08-11.md](../reports/scout-2026-08-11.md)
+
+#### Top Picks (4.0+)
+
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7823195003 | Fivetran | Engineering Manager, Metadata | Denver, Colorado | ★ 4.2/5 — LOCAL DENVER role. EM archetype (primary). Metadata team at data integration platform Patrick knows cold. CDC/Kafka/Postgres stack alignment. Comp needs verification (JD requires browser). Sister role to Staff SWE Metadata (7823193003) below.
+
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/7701909003 | Affirm | Manager, Software Engineering (Resilience Engineering) | Remote US | ★ 4.0/5 — $204K–$264K. Chaos engineering + resilience platform + K8s/AWS/Python. Direct match to DORA/Four Golden Signals/VA.gov Watchtower background. EM archetype. Apply within 48h.
+
+#### Good Matches (3.5–3.9)
+
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/7820306003 | Affirm | Senior Software Engineer, Backend (Reliability Platform) | Remote US | 3.5/5 — $173K–$233K (other states). Reliability platform, Python/Kotlin/K8s/AWS. Senior title (below Staff). Consider if EM role above doesn't proceed.
+
 ## 2026-08-11 — Quick Check (Greenhouse API)
 
 > 41 Greenhouse API boards checked. Dedup against 20,908 history URLs (pre-run). **2 new US-area matches** (Anthropic ×1, Fivetran ×1). Aurora Innovation 404 (board gone). Report: [scout-quickcheck-2026-08-11.md](../reports/scout-quickcheck-2026-08-11.md)
