@@ -6342,3 +6342,23 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 
 - [ ] https://www.fivetran.com/careers/job?gh_jid=7823193003 | Fivetran | Staff Software Engineer, Metadata | Remote, US (AMER) | NEW 2026-08-11. Staff SWE on Metadata at Fivetran — data integration platform. Denver-based company (local!), fully remote. Patrick's data pipeline expertise is a direct fit. Evaluate scope: metadata catalog vs connector metadata vs pipeline metadata.
 
+
+## 2026-08-11 — Quick Check #2 (Greenhouse API)
+
+> 41 Greenhouse API boards checked. Dedup against 21,087 history URLs (pre-run). **7 new US-area matches** (Anduril ×1 Boulder CO, Databricks ×1, Nuro ×5 ML Infra). Aurora Innovation 404 (board still gone). Report: [scout-quickcheck-2026-08-11b.md](../reports/scout-quickcheck-2026-08-11b.md)
+
+#### Highlights
+
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5209227007?gh_jid=5209227007 | Anduril | Senior Realtime Software Engineer | Boulder, Colorado | NEW 2026-08-11. ⭐️ LOCAL Colorado role at Anduril (defense AI unicorn). Boulder is 30mi from Denver. "Realtime" likely C++/embedded systems — check if infra/distributed systems experience qualifies. Dream company tier.
+
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8109902002 | Databricks | Senior Engineering Manager - Enzyme | Mountain View, California | NEW 2026-08-11. EM role at Databricks (top company, $43B valuation). "Enzyme" = code analysis/transformation tooling team. Mountain View office. EM archetype. Evaluate scope: product EM vs platform EM.
+
+- [ ] https://nuro.ai/careersitem?gh_jid=8122477 | Nuro | Senior Software Engineer, ML Infrastructure Platform | Mountain View, California | NEW 2026-08-11. Senior SWE on ML Infra Platform at Nuro (autonomous delivery). Direct match: ML infrastructure, hardware moat company, Bay Area. Part of a batch of 5 new Nuro ML Infra postings today.
+
+- [ ] https://nuro.ai/careersitem?gh_jid=8122528 | Nuro | Senior/Staff Software Engineer, ML Inference Platform | Mountain View, California | NEW 2026-08-11. Senior/Staff SWE on ML Inference Platform at Nuro. Higher-ceiling title (Staff option). ML inference infra — evaluate compute/serving stack overlap with Patrick's experience.
+
+- [ ] https://nuro.ai/careersitem?gh_jid=8122990 | Nuro | Software Engineer, Applied AI Infrastructure | Mountain View, California | NEW 2026-08-11. Applied AI Infrastructure at Nuro. Bridges AI application and infra layers. Evaluate seniority level (no Senior prefix — may be mid-level).
+
+- [ ] https://nuro.ai/careersitem?gh_jid=8122537 | Nuro | Software Engineer, ML Inference Platform | Mountain View, California | NEW 2026-08-11. ML Inference Platform at Nuro. Likely mid-level but confirm — Nuro may use "Software Engineer" for senior ICs. Sister role to Staff variant above.
+
+- [ ] https://nuro.ai/careersitem?gh_jid=8122483 | Nuro | Software Engineer, ML Infrastructure Platform | Mountain View, California | NEW 2026-08-11. ML Infrastructure Platform at Nuro. Mid-level title — evaluate vs Senior variant. Nuro is known for strong comp even at non-Staff levels.
