@@ -6555,3 +6555,134 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - [Senior Software Engineer, Maintenance Systems](https://www.zipline.com/open-roles?gh_jid=7676378003) — Dallas-Fort Worth, Texas, USA; South San Francisco, California, USA
 - [Software Engineer - Hardware Test](https://www.zipline.com/open-roles?gh_jid=7803261003) — South San Francisco, California, USA
 
+
+
+<!-- Scout quick-check 2026-08-12 -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5357961008 <!-- Anthropic: Manager, Infrastructure Capex Accounting (San Francisco, CA | Seattle, WA) | discovered 2026-08-12 -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5388612008 <!-- Anthropic: Software Engineer, Infrastructure, Interpretability (San Francisco, CA | New York City, NY) | discovered 2026-08-12 -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5387083008 <!-- Anthropic: Staff Software Engineer, Infrastructure (Distributed Systems) (London, UK) | discovered 2026-08-12 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5198230007?gh_jid=5198230007 <!-- Anduril: Flight Test Engineering Lead (Sydney, New South Wales, Australia) | discovered 2026-08-12 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5009341007?gh_jid=5009341007 <!-- Anduril: Lead Software Engineer, Manufacturing Test (Costa Mesa, California, United States) | discovered 2026-08-12 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5209997007?gh_jid=5209997007 <!-- Anduril: Senior Software Engineer (Atlanta, Georgia, United States) | discovered 2026-08-12 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5209996007?gh_jid=5209996007 <!-- Anduril: Senior Software Engineer (Boston, Massachusetts, United States) | discovered 2026-08-12 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5210930007?gh_jid=5210930007 <!-- Anduril: Software Engineer, Developer Platform (Boston, Massachusetts, United States) | discovered 2026-08-12 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5176536007?gh_jid=5176536007 <!-- Anduril: Staff Software Engineer (Atlanta, Georgia, United States) | discovered 2026-08-12 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5209998007?gh_jid=5209998007 <!-- Anduril: Staff Software Engineer (Boston, Massachusetts, United States) | discovered 2026-08-12 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5206672007?gh_jid=5206672007 <!-- Anduril: Technical Site Reliability Engineer (Abu Dhabi, United Arab Emirates; London, England, United Kingdom) | discovered 2026-08-12 -->
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4936108101 <!-- Parloa: Senior Frontend Platform Engineer (f/m/d)* (Berlin Office) | discovered 2026-08-12 -->
+- [ ] https://job-boards.greenhouse.io/getyourguide/jobs/8125740 <!-- GetYourGuide: Engineering Manager, Reviews  (Berlin) | discovered 2026-08-12 -->
+- [ ] https://job-boards.greenhouse.io/getyourguide/jobs/8121229 <!-- GetYourGuide: Senior Engineering Manager, Central Data Products (Berlin) | discovered 2026-08-12 -->
+- [ ] https://careers.hellofresh.com/global/en/job/8104373?gh_jid=8104373 <!-- HelloFresh: Area Manager I, Fulfillment (Goodyear, AZ, United States) | discovered 2026-08-12 -->
+- [ ] https://careers.hellofresh.com/global/en/job/8105178?gh_jid=8105178 <!-- HelloFresh: Backend Engineer, Operations Technology (Toronto, Ontario, Canada) | discovered 2026-08-12 -->
+- [ ] https://careers.hellofresh.com/global/en/job/8093855?gh_jid=8093855 <!-- HelloFresh: Engineering Manager, Consumer Alliance (m/f/x) (Berlin, Berlin, Germany) | discovered 2026-08-12 -->
+- [ ] https://careers.hellofresh.com/global/en/job/7553086?gh_jid=7553086 <!-- HelloFresh: Fulfillment Operations Specialist (Manila, Manila, Philippines) | discovered 2026-08-12 -->
+- [ ] https://careers.hellofresh.com/global/en/job/8112268?gh_jid=8112268 <!-- HelloFresh: Fulfillment Technology Analyst, Derby DC (f/m/x) (Derby, England, United Kingdom) | discovered 2026-08-12 -->
+- [ ] https://careers.hellofresh.com/global/en/job/8095933?gh_jid=8095933 <!-- HelloFresh: Fulfillment Technology Analyst, Lisses DC France (f/m/x) (Lisses, Essonne, France) | discovered 2026-08-12 -->
+- [ ] https://careers.hellofresh.com/global/en/job/8121142?gh_jid=8121142 <!-- HelloFresh: Senior Director of Machine Learning Engineering (Berlin, Berlin, Germany) | discovered 2026-08-12 -->
+- [ ] https://careers.hellofresh.com/global/en/job/8083230?gh_jid=8083230 <!-- HelloFresh: Staff Software Engineer, GenAI Enablement Squad, Foundations Alliance (Warszawa, Masovian Voivodeship, Poland) | discovered 2026-08-12 -->
+- [ ] https://n26.com/en-eu/careers/positions/8104979?gh_jid=8104979 <!-- N26: Lead Backend Engineer - Conversational Banking  (Berlin, Barcelona) | discovered 2026-08-12 -->
+- [ ] https://n26.com/en-eu/careers/positions/8108866?gh_jid=8108866 <!-- N26: Senior Backend Engineer - Agentic Platform (Barcelona) | discovered 2026-08-12 -->
+- [ ] https://n26.com/en-eu/careers/positions/7597686?gh_jid=7597686 <!-- N26: Senior Backend Engineer - Security Automation (Barcelona) | discovered 2026-08-12 -->
+- [ ] https://n26.com/en-eu/careers/positions/8002486?gh_jid=8002486 <!-- N26: Senior Site Reliability Engineer - Software Logistics (Barcelona) | discovered 2026-08-12 -->
+- [ ] https://sumup.com/careers/positions/8682228002?gh_jid=8682228002 <!-- SumUp: Backend Engineer - Balance Management (Vilnius, Lithuania) | discovered 2026-08-12 -->
+- [ ] https://sumup.com/careers/positions/8682238002?gh_jid=8682238002 <!-- SumUp: Backend Engineer (Golang) - Balance Management (Berlin, Germany) | discovered 2026-08-12 -->
+- [ ] https://sumup.com/careers/positions/8682293002?gh_jid=8682293002 <!-- SumUp: Backend Engineer - Money Transfers (Berlin, Germany) | discovered 2026-08-12 -->
+- [ ] https://sumup.com/careers/positions/8682297002?gh_jid=8682297002 <!-- SumUp: Backend Engineer - Money Transfers (Sofia, Bulgaria) | discovered 2026-08-12 -->
+- [ ] https://sumup.com/careers/positions/8682243002?gh_jid=8682243002 <!-- SumUp: Backend Engineer - Transfers Gateway (Vilnius, Lithuania) | discovered 2026-08-12 -->
+- [ ] https://sumup.com/careers/positions/8682251002?gh_jid=8682251002 <!-- SumUp: Backend Engineer - Transfers Gateway (Berlin, Germany) | discovered 2026-08-12 -->
+- [ ] https://sumup.com/careers/positions/8482965002?gh_jid=8482965002 <!-- SumUp: Engineering Manager - Website (Berlin, Germany) | discovered 2026-08-12 -->
+- [ ] https://sumup.com/careers/positions/8671401002?gh_jid=8671401002 <!-- SumUp: (Senior) Backend Engineer (São Paulo, Brazil) | discovered 2026-08-12 -->
+- [ ] https://sumup.com/careers/positions/8637377002?gh_jid=8637377002 <!-- SumUp: Senior Backend Engineer - Commercial Systems and Intelligence (Berlin, Germany) | discovered 2026-08-12 -->
+- [ ] https://sumup.com/careers/positions/8645259002?gh_jid=8645259002 <!-- SumUp: (Senior) Backend Engineer - Risk&Compliance (Sofia, Bulgaria) | discovered 2026-08-12 -->
+- [ ] https://sumup.com/careers/positions/8656544002?gh_jid=8656544002 <!-- SumUp: Senior Platform Engineer (Boulder, Colorado, United States) | discovered 2026-08-12 -->
+- [ ] https://sumup.com/careers/positions/8690241002?gh_jid=8690241002 <!-- SumUp: Senior Software Engineer (Golang)-  Payments Experience (Sofia, Bulgaria) | discovered 2026-08-12 -->
+- [ ] https://sumup.com/careers/positions/8518892002?gh_jid=8518892002 <!-- SumUp: Software Engineer (Berlin, Germany) | discovered 2026-08-12 -->
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8655859002 <!-- Wayve: Senior Machine Learning Engineer, AI Performance (London) | discovered 2026-08-12 -->
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7859203003 <!-- Fivetran: Engineering Manager, Metadata (Oakland, California, United States) | discovered 2026-08-12 -->
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7859285003 <!-- Fivetran: Engineering Manager, Metadata (USA - New York) | discovered 2026-08-12 -->
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7823195003 <!-- Fivetran: Engineering Manager, Metadata (Denver, Colorado, United States, AMER) | discovered 2026-08-12 -->
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7818324003 <!-- Fivetran: Manager, Software Engineering (Remote, India, APAC) | discovered 2026-08-12 -->
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7524543003 <!-- Fivetran: Senior Product Manager, Data & Integrations (Oakland, California, United States, AMER) | discovered 2026-08-12 -->
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7524547003 <!-- Fivetran: Senior Product Manager, Data & Integrations (Denver, Colorado, United States, AMER) | discovered 2026-08-12 -->
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7814036003 <!-- Fivetran: Senior Site Reliability Engineer (Dublin, Dublin, Ireland, EMEA) | discovered 2026-08-12 -->
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7810395003 <!-- Fivetran: Senior Software Engineer (Dublin, Dublin, Ireland, EMEA) | discovered 2026-08-12 -->
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7747138003 <!-- Fivetran: Senior Software Engineer (Bengaluru, Karnataka, India, APAC) | discovered 2026-08-12 -->
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7822402003 <!-- Fivetran: Senior Software Engineer - Core Databases (Novi Sad, South Bačka, Serbia, EMEA) | discovered 2026-08-12 -->
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7847762003 <!-- Fivetran: Senior Software Engineer - C Programmer (Novi Sad, South Bačka, Serbia, EMEA) | discovered 2026-08-12 -->
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7818306003 <!-- Fivetran: Senior Software Engineer - Developer Productivity (Bengaluru, Karnataka, India, APAC) | discovered 2026-08-12 -->
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7818368003 <!-- Fivetran: Senior Software Engineer - Pricing & Buying Experience (Novi Sad, South Bačka, Serbia, EMEA) | discovered 2026-08-12 -->
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7811889003 <!-- Fivetran: Software Engineer  (Oakland, California, United States, AMER) | discovered 2026-08-12 -->
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7818352003 <!-- Fivetran: Staff Software Engineer (Remote, India, APAC) | discovered 2026-08-12 -->
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7818252003 <!-- Fivetran: Staff Software Engineer - Developer Productivity (Bengaluru, Karnataka, India, APAC) | discovered 2026-08-12 -->
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7818294003 <!-- Fivetran: Staff Software Engineer - Infrastructure (Bengaluru, Karnataka, India, APAC) | discovered 2026-08-12 -->
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7823193003 <!-- Fivetran: Staff Software Engineer, Metadata (Remote, California, United States, AMER) | discovered 2026-08-12 -->
+- [ ] https://www.samsara.com/company/careers/roles/8113356?gh_jid=8113356 <!-- Samsara: Finance & Strategy AI Engineer (San Francisco - SF9) | discovered 2026-08-12 -->
+- [ ] https://www.samsara.com/company/careers/roles/7811931?gh_jid=7811931 <!-- Samsara: Manager II, Data Platform (Remote - US) | discovered 2026-08-12 -->
+- [ ] https://www.samsara.com/company/careers/roles/8126100?gh_jid=8126100 <!-- Samsara: Senior AI Data Engineer (Remote - Canada) | discovered 2026-08-12 -->
+- [ ] https://www.samsara.com/company/careers/roles/8091855?gh_jid=8091855 <!-- Samsara: Senior AI Data Engineer (Remote - US) | discovered 2026-08-12 -->
+- [ ] https://www.samsara.com/company/careers/roles/8099653?gh_jid=8099653 <!-- Samsara: Senior Marketing Analytics Manager - BI & Data Architecture (Remote - Toronto) | discovered 2026-08-12 -->
+- [ ] https://www.samsara.com/company/careers/roles/8055217?gh_jid=8055217 <!-- Samsara: Senior Software Engineer II - Web Experience (Remote - US) | discovered 2026-08-12 -->
+- [ ] https://www.samsara.com/company/careers/roles/8097345?gh_jid=8097345 <!-- Samsara: Software Engineer I (New Grad) (London - UK2) | discovered 2026-08-12 -->
+- [ ] https://www.samsara.com/company/careers/roles/8097343?gh_jid=8097343 <!-- Samsara: Software Engineer I - New Grad, SF (San Francisco - SF9) | discovered 2026-08-12 -->
+- [ ] https://www.samsara.com/company/careers/roles/8083352?gh_jid=8083352 <!-- Samsara: Sr. AI Engineer (Remote - CA) | discovered 2026-08-12 -->
+- [ ] https://www.samsara.com/company/careers/roles/8050373?gh_jid=8050373 <!-- Samsara: Sr. Software Engineer II, AI Platform (Remote - SF Bay Area) | discovered 2026-08-12 -->
+- [ ] https://www.samsara.com/company/careers/roles/8064742?gh_jid=8064742 <!-- Samsara: Staff Software Engineer (Remote - US) | discovered 2026-08-12 -->
+- [ ] https://www.samsara.com/company/careers/roles/8115078?gh_jid=8115078 <!-- Samsara: Staff Software Engineer (Remote - Canada) | discovered 2026-08-12 -->
+- [ ] https://www.samsara.com/company/careers/roles/8115102?gh_jid=8115102 <!-- Samsara: Staff Software Engineer - CAM (Remote - Canada) | discovered 2026-08-12 -->
+- [ ] https://www.samsara.com/company/careers/roles/8109358?gh_jid=8109358 <!-- Samsara: Staff Software Engineer, DevEx (Remote - Canada) | discovered 2026-08-12 -->
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4698959006 <!-- Chainguard: Principal Software Engineer (Libraries Platform)  (United Kingdom - Remote) | discovered 2026-08-12 -->
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4698958006 <!-- Chainguard: Principal Software Engineer (Libraries Platform)  (Canada - Remote) | discovered 2026-08-12 -->
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4673312005 <!-- Scale AI: Full-Stack Software Engineer, (Forward Deployed), GPS (London, UK) | discovered 2026-08-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8569392002 <!-- Databricks: AI Engineer - FDE (Forward Deployed Engineer) (Tokyo, Japan) | discovered 2026-08-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8638847002 <!-- Databricks: AI Engineer — GTM Analytics (United States) | discovered 2026-08-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8677627002 <!-- Databricks: Field Engineering Manager, Specialist Solutions Architects - Nordics (Sweden) | discovered 2026-08-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8686919002 <!-- Databricks: Pre-sales Engineering Manager (Retail & CPG) (London, United Kingdom) | discovered 2026-08-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8638646002 <!-- Databricks: Principal Event Marketing Manager, Data + AI World Tour (United States) | discovered 2026-08-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8656900002 <!-- Databricks: Senior Applied ML Engineer - ML4Sys  (San Francisco, California) | discovered 2026-08-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8109902002 <!-- Databricks: Senior Engineering Manager - Enzyme (Mountain View, California) | discovered 2026-08-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8210383002 <!-- Databricks: Senior Software Engineer (App-Framework) (Bengaluru, India) | discovered 2026-08-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7647369002 <!-- Databricks: Senior Software Engineer (Data Platform) (Bengaluru, India) | discovered 2026-08-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7619810002 <!-- Databricks: Senior Software Engineer - Networking Infra (Bengaluru, India) | discovered 2026-08-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8649971002 <!-- Databricks: Specialist Solutions Architect - Data Engineering & Warehousing (Digital Native Business) (United States) | discovered 2026-08-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8692962002 <!-- Databricks: Specialist Solutions Architect - Data Engineering & Warehousing (Financial Services) (United States) | discovered 2026-08-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8673111002 <!-- Databricks: Sr. Manager, Engineering - Artifact Distribution (Bellevue, Washington) | discovered 2026-08-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8379331002 <!-- Databricks: Sr. Software Engineer- Backend (New York City, New York) | discovered 2026-08-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8691490002 <!-- Databricks: Staff Software Engineer - Access Management (Bellevue, Washington) | discovered 2026-08-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8037500002 <!-- Databricks: Staff Software Engineer - Fullstack (Bengaluru, India) | discovered 2026-08-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8663972002 <!-- Databricks: Staff Software Engineer - Streaming (Seattle, Washington) | discovered 2026-08-12 -->
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7830196003 <!-- Rocket Lab: Flight Software Engineer I (Littleton, CO) | discovered 2026-08-12 -->
+- [ ] https://nuro.ai/careersitem?gh_jid=7902399 <!-- Nuro: Project Manager, Software Operations (Mountain View, California (HQ)) | discovered 2026-08-12 -->
+- [ ] https://nuro.ai/careersitem?gh_jid=8122477 <!-- Nuro: Senior Software Engineer, ML Infrastructure Platform (Mountain View, California (HQ)) | discovered 2026-08-12 -->
+- [ ] https://nuro.ai/careersitem?gh_jid=8097555 <!-- Nuro: Senior/Staff Software Engineer, AI Agent Infrastructure (Mountain View, California (HQ)) | discovered 2026-08-12 -->
+- [ ] https://nuro.ai/careersitem?gh_jid=8122528 <!-- Nuro: Senior/Staff Software Engineer, ML Inference Platform (Mountain View, California (HQ)) | discovered 2026-08-12 -->
+- [ ] https://nuro.ai/careersitem?gh_jid=8122990 <!-- Nuro: Software Engineer, Applied AI Infrastructure (Mountain View, California (HQ)) | discovered 2026-08-12 -->
+- [ ] https://nuro.ai/careersitem?gh_jid=8122537 <!-- Nuro: Software Engineer, ML Inference Platform (Mountain View, California (HQ)) | discovered 2026-08-12 -->
+- [ ] https://nuro.ai/careersitem?gh_jid=8122483 <!-- Nuro: Software Engineer, ML Infrastructure Platform (Mountain View, California (HQ)) | discovered 2026-08-12 -->
+- [ ] https://nuro.ai/careersitem?gh_jid=8114754 <!-- Nuro: Staff/Lead Machine Learning Engineer, Behavior & Planning (Mountain View, California (HQ)) | discovered 2026-08-12 -->
+- [ ] https://www.zipline.com/open-roles?gh_jid=7815718003 <!-- Zipline: Director of Software Engineering – Marketplace (South San Francisco, California, USA) | discovered 2026-08-12 -->
+- [ ] https://www.zipline.com/open-roles?gh_jid=7764239003 <!-- Zipline: Forward Deployed AI Engineer, Operations (South San Francisco, California, USA) | discovered 2026-08-12 -->
+- [ ] https://www.zipline.com/open-roles?gh_jid=7809943003 <!-- Zipline: Fulfillment Operations Specialist, Kaduna (Pambegua, Kaduna State, Nigeria) | discovered 2026-08-12 -->
+- [ ] https://www.zipline.com/open-roles?gh_jid=7802189003 <!-- Zipline: Fulfillment Supervisor  (Phoenix, Arizona, USA) | discovered 2026-08-12 -->
+- [ ] https://www.zipline.com/open-roles?gh_jid=7859841003 <!-- Zipline: Lead Software Engineer, Developer Productivity (South San Francisco, California, USA) | discovered 2026-08-12 -->
+- [ ] https://www.zipline.com/open-roles?gh_jid=7802184003 <!-- Zipline: Mechanical Engineering Manager, Dropbox (South San Francisco, California, USA) | discovered 2026-08-12 -->
+- [ ] https://www.zipline.com/open-roles?gh_jid=7809119003 <!-- Zipline: Mechanical Test Engineering Manager (SMI) (South San Francisco, California, USA) | discovered 2026-08-12 -->
+- [ ] https://www.zipline.com/open-roles?gh_jid=7810390003 <!-- Zipline: Senior Data Engineer - Data Platform (South San Francisco, California, USA) | discovered 2026-08-12 -->
+- [ ] https://www.zipline.com/open-roles?gh_jid=7810086003 <!-- Zipline: Senior ECAD Library & Engineering Data Engineer (South San Francisco, California, USA) | discovered 2026-08-12 -->
+- [ ] https://www.zipline.com/open-roles?gh_jid=7802156003 <!-- Zipline: Senior Integration and Test Software Engineer - Long Range Platform (South San Francisco, California, USA) | discovered 2026-08-12 -->
+- [ ] https://www.zipline.com/open-roles?gh_jid=7802961003 <!-- Zipline: Senior Motion Planning Software Engineer (South San Francisco, California, USA) | discovered 2026-08-12 -->
+- [ ] https://www.zipline.com/open-roles?gh_jid=7812135003 <!-- Zipline: Senior Software Engineer, Autonomy Simulation & Validation (South San Francisco, California, USA) | discovered 2026-08-12 -->
+- [ ] https://www.zipline.com/open-roles?gh_jid=7800774003 <!-- Zipline: Senior Software Engineer, Enterprise Systems (South San Francisco, California, USA) | discovered 2026-08-12 -->
+- [ ] https://www.zipline.com/open-roles?gh_jid=7816737003 <!-- Zipline: Senior Software Engineer - Maps Platform (South San Francisco, California, USA) | discovered 2026-08-12 -->
+- [ ] https://www.zipline.com/open-roles?gh_jid=7812206003 <!-- Zipline: Senior Software Engineer - Maps Routing (South San Francisco, California, USA) | discovered 2026-08-12 -->
+- [ ] https://www.zipline.com/open-roles?gh_jid=7802983003 <!-- Zipline: Simulation Software Engineer (South San Francisco, California, USA) | discovered 2026-08-12 -->
+- [ ] https://www.zipline.com/open-roles?gh_jid=7803261003 <!-- Zipline: Software Engineer - Hardware Test (South San Francisco, California, USA) | discovered 2026-08-12 -->
+- [ ] https://www.zipline.com/open-roles?gh_jid=7815708003 <!-- Zipline: Software Engineering Sr. Manager – Marketplace (South San Francisco, California, USA) | discovered 2026-08-12 -->
+- [ ] https://www.zipline.com/open-roles?gh_jid=7809118003 <!-- Zipline: Software Engineer, Test Infrastructure (South San Francisco, California, USA) | discovered 2026-08-12 -->
+- [ ] https://www.zipline.com/open-roles?gh_jid=7850772003 <!-- Zipline: Sr. IT Infrastructure Engineer (South San Francisco, California, USA) | discovered 2026-08-12 -->
+- [ ] https://www.zipline.com/open-roles?gh_jid=7805110003 <!-- Zipline: Sr. Software Engineer, Financial Platform  (South San Francisco, California, USA) | discovered 2026-08-12 -->
+- [ ] https://www.zipline.com/open-roles?gh_jid=7805100003 <!-- Zipline: Sr. Software Engineering Manager, Financial Platform (South San Francisco, California, USA) | discovered 2026-08-12 -->
+- [ ] https://www.zipline.com/open-roles?gh_jid=7819774003 <!-- Zipline: Staff Motion Planning Software Engineer (South San Francisco, California, USA) | discovered 2026-08-12 -->
+- [ ] https://www.zipline.com/open-roles?gh_jid=7812167003 <!-- Zipline: Staff Platform Software Engineer, AI Enablement (South San Francisco, California, USA) | discovered 2026-08-12 -->
+- [ ] https://www.zipline.com/open-roles?gh_jid=7811728003 <!-- Zipline: Staff Software Engineer, Healthcare (Remote in USA; Remote, EMEA) | discovered 2026-08-12 -->
+- [ ] https://www.zipline.com/open-roles?gh_jid=7808704003 <!-- Zipline: Staff Software Engineer – Marketplace (South San Francisco, California, USA) | discovered 2026-08-12 -->
+- [ ] https://www.zipline.com/open-roles?gh_jid=7822379003 <!-- Zipline: Staff Software Engineer – Marketplace Growth (South San Francisco, California, USA) | discovered 2026-08-12 -->
