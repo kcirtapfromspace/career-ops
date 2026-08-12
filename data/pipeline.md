@@ -6362,3 +6362,12 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - [ ] https://nuro.ai/careersitem?gh_jid=8122537 | Nuro | Software Engineer, ML Inference Platform | Mountain View, California | NEW 2026-08-11. ML Inference Platform at Nuro. Likely mid-level but confirm — Nuro may use "Software Engineer" for senior ICs. Sister role to Staff variant above.
 
 - [ ] https://nuro.ai/careersitem?gh_jid=8122483 | Nuro | Software Engineer, ML Infrastructure Platform | Mountain View, California | NEW 2026-08-11. ML Infrastructure Platform at Nuro. Mid-level title — evaluate vs Senior variant. Nuro is known for strong comp even at non-Staff levels.
+
+
+## 2026-08-12 — Scout Scan (Greenhouse + Ashby WebSearch)
+
+> ~40 boards checked. Dedup against 22,286 history URLs (pre-run). **2 new US-area matches** (Hinge Health ×2). Applied Intuition EM filtered (Sunnyvale on-site, not relocation-ok). Hinge Health Senior DE filtered (below comp minimum). Report: [scout-2026-08-12.md](../reports/scout-2026-08-12.md)
+
+- [ ] https://jobs.ashbyhq.com/hinge-health/eb9bdede-53fc-4a23-8227-9a740434c6ee | Hinge Health | Data Engineering Manager, Data & ML Platform | San Francisco, CA (hybrid 3d/week) | ⭐️ 3.8/5 — NEW 2026-08-12. EM archetype, exact stack match (dbt/Airflow/Kafka/Databricks/AWS), HIPAA compliance aligns with VA.gov background. SF is on relocation-ok list. Lead with 18M+ veterans observability platform as HIPAA compliance analog.
+
+- [ ] https://jobs.ashbyhq.com/hinge-health/de8d7cf5-6cd2-45ad-9f0b-a8ff1e102600 | Hinge Health | Senior Software Engineer, AI Platform | San Francisco, CA (hybrid 3d/week) | 3.0/5 — NEW 2026-08-12. $187K–$280K comp range. Senior title (below Staff target), Python/TypeScript/React stack leans frontend. Evaluate only if EM role above doesn't proceed.
