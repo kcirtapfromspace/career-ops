@@ -6371,3 +6371,187 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - [ ] https://jobs.ashbyhq.com/hinge-health/eb9bdede-53fc-4a23-8227-9a740434c6ee | Hinge Health | Data Engineering Manager, Data & ML Platform | San Francisco, CA (hybrid 3d/week) | ⭐️ 3.8/5 — NEW 2026-08-12. EM archetype, exact stack match (dbt/Airflow/Kafka/Databricks/AWS), HIPAA compliance aligns with VA.gov background. SF is on relocation-ok list. Lead with 18M+ veterans observability platform as HIPAA compliance analog.
 
 - [ ] https://jobs.ashbyhq.com/hinge-health/de8d7cf5-6cd2-45ad-9f0b-a8ff1e102600 | Hinge Health | Senior Software Engineer, AI Platform | San Francisco, CA (hybrid 3d/week) | 3.0/5 — NEW 2026-08-12. $187K–$280K comp range. Senior title (below Staff target), Python/TypeScript/React stack leans frontend. Evaluate only if EM role above doesn't proceed.
+
+## Scout Quick-Check — 2026-08-12
+
+> Auto-discovered via Greenhouse API scan. 146 new US-targeted roles.
+
+### Amplemarket (1)
+
+- [Engineering Manager](https://job-boards.eu.greenhouse.io/amplemarket/jobs/4087603101) — Remote, EMEA/LATAM/North America
+
+### Anduril (125)
+
+- [Flight Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5102166007?gh_jid=5102166007) — Costa Mesa, California, United States
+- [Fullstack Senior Software Engineer, ArsenalOS](https://boards.greenhouse.io/andurilindustries/jobs/5186859007?gh_jid=5186859007) — Costa Mesa, California, United States
+- [Ground Software Engineer, Space](https://boards.greenhouse.io/andurilindustries/jobs/4497427007?gh_jid=4497427007) — Costa Mesa, California, United States
+- [Manager, Security Software Engineering](https://boards.greenhouse.io/andurilindustries/jobs/5136167007?gh_jid=5136167007) — Costa Mesa, California, United States
+- [Manufacturing Software Engineer, Intelligence Systems](https://boards.greenhouse.io/andurilindustries/jobs/5111318007?gh_jid=5111318007) — Santa Ana, California, United States
+- [Mission Software Engineer, Air Vehicle Autonomy, Backend](https://boards.greenhouse.io/andurilindustries/jobs/4672848007?gh_jid=4672848007) — Costa Mesa, California, United States; Seattle, Washington, United States; Washington, District of Columbia, United States
+- [Mission Software Engineer, Air Vehicle Autonomy, Frontend](https://boards.greenhouse.io/andurilindustries/jobs/4673956007?gh_jid=4673956007) — Costa Mesa, California, United States; Seattle, Washington, United States; Washington, District of Columbia, United States
+- [Mission Software Engineer, Air Vehicle Autonomy, GenSWE](https://boards.greenhouse.io/andurilindustries/jobs/4800373007?gh_jid=4800373007) — Costa Mesa, California, United States; Seattle, Washington, United States; Washington, District of Columbia, United States
+- [Mission Software Engineer, Vehicle Software, Active Clearance](https://boards.greenhouse.io/andurilindustries/jobs/4672916007?gh_jid=4672916007) — Costa Mesa, California, United States
+- [Mission Software Engineer, Vehicle Software, C++](https://boards.greenhouse.io/andurilindustries/jobs/4672888007?gh_jid=4672888007) — Costa Mesa, California, United States
+- [Mission Software Engineer, Vehicle Software, Computer Vision](https://boards.greenhouse.io/andurilindustries/jobs/4734570007?gh_jid=4734570007) — Costa Mesa, California, United States
+- [Mission Software Engineer, Vehicle Software, GenSWE](https://boards.greenhouse.io/andurilindustries/jobs/4672868007?gh_jid=4672868007) — Costa Mesa, California, United States
+- [Orbital Software Engineer, Space](https://boards.greenhouse.io/andurilindustries/jobs/4872480007?gh_jid=4872480007) — Costa Mesa, California, United States
+- [Principal Engineer - DeviceOS](https://boards.greenhouse.io/andurilindustries/jobs/5191947007?gh_jid=5191947007) — Seattle, Washington, United States
+- [Principal Engineer - DeviceOS](https://boards.greenhouse.io/andurilindustries/jobs/5205815007?gh_jid=5205815007) — Costa Mesa, California, United States
+- [RFML Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5031495007?gh_jid=5031495007) — Costa Mesa, California, United States
+- [Robotic Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5183145007?gh_jid=5183145007) — Costa Mesa, California, United States
+- [Robotics Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5113524007?gh_jid=5113524007) — Costa Mesa, California, United States
+- [Robotics Software Engineer, Air Vehicle Autonomy](https://boards.greenhouse.io/andurilindustries/jobs/4673939007?gh_jid=4673939007) — Costa Mesa, California, United States; Seattle, Washington, United States; Washington, District of Columbia, United States
+- [Robotics Software Engineer, Behaviors](https://boards.greenhouse.io/andurilindustries/jobs/5121816007?gh_jid=5121816007) — Costa Mesa, California, United States
+- [Robotics Software Engineer, Maneuver Dominance](https://boards.greenhouse.io/andurilindustries/jobs/5113527007?gh_jid=5113527007) — Costa Mesa, California, United States
+- [Robotics Software Engineer, Maneuver Dominance ](https://boards.greenhouse.io/andurilindustries/jobs/5047469007?gh_jid=5047469007) — Costa Mesa, California, United States
+- [Robotics Software Engineer, Maritime](https://boards.greenhouse.io/andurilindustries/jobs/5051580007?gh_jid=5051580007) — Costa Mesa, California, United States
+- [Robotics Software Engineer, Omen](https://boards.greenhouse.io/andurilindustries/jobs/5183150007?gh_jid=5183150007) — Costa Mesa, California, United States
+- [Robotics Software Engineer, Sensor Integration ](https://boards.greenhouse.io/andurilindustries/jobs/5096506007?gh_jid=5096506007) — Costa Mesa, California, United States
+- [Robotics Software Engineer, Vehicle Software](https://boards.greenhouse.io/andurilindustries/jobs/4672892007?gh_jid=4672892007) — Costa Mesa, California, United States
+- [Security Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5134986007?gh_jid=5134986007) — Costa Mesa, California, United States
+- [Senior Data Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5180410007?gh_jid=5180410007) — Costa Mesa, California, United States
+- [Senior Full Stack Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5187616007?gh_jid=5187616007) — Costa Mesa, California, United States
+- [Senior Full-Stack Software Engineer, SIG ](https://boards.greenhouse.io/andurilindustries/jobs/5171012007?gh_jid=5171012007) — Santa Ana, California, United States
+- [Senior Ground Software Engineer, Space](https://boards.greenhouse.io/andurilindustries/jobs/4480975007?gh_jid=4480975007) — Costa Mesa, California, United States
+- [Senior Manager, Software Engineering](https://boards.greenhouse.io/andurilindustries/jobs/5186093007?gh_jid=5186093007) — Costa Mesa, California, United States
+- [Senior Mission Data Platform Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5042299007?gh_jid=5042299007) — Irvine, California, United States
+- [Senior Mission Software Engineer, Vehicle Software, Active Clearance](https://boards.greenhouse.io/andurilindustries/jobs/4926639007?gh_jid=4926639007) — Costa Mesa, California, United States
+- [Senior Mission Software Engineer, Vehicle Software, C++](https://boards.greenhouse.io/andurilindustries/jobs/4926644007?gh_jid=4926644007) — Costa Mesa, California, United States
+- [Senior Mission Software Engineer, Vehicle Software, GenSWE](https://boards.greenhouse.io/andurilindustries/jobs/4926663007?gh_jid=4926663007) — Costa Mesa, California, United States
+- [Senior Orbital Software Engineer, Space](https://boards.greenhouse.io/andurilindustries/jobs/4872454007?gh_jid=4872454007) — Costa Mesa, California, United States
+- [Senior Robotics Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5074293007?gh_jid=5074293007) — Costa Mesa, California, United States
+- [Senior Robotics Software Engineer, Maritime](https://boards.greenhouse.io/andurilindustries/jobs/5051589007?gh_jid=5051589007) — Costa Mesa, California, United States
+- [Senior Robotics Software Engineer, Sensor Fusion](https://boards.greenhouse.io/andurilindustries/jobs/5160042007?gh_jid=5160042007) — Costa Mesa, California, United States; Washington, District of Columbia, United States
+- [Senior Robotics Software Engineer, Sentry Tower](https://boards.greenhouse.io/andurilindustries/jobs/4927598007?gh_jid=4927598007) — Irvine, California, United States
+- [Senior Robotics Software Engineer, Vehicle Software](https://boards.greenhouse.io/andurilindustries/jobs/4926677007?gh_jid=4926677007) — Costa Mesa, California, United States
+- [Senior Site Reliability Engineer](https://boards.greenhouse.io/andurilindustries/jobs/4798433007?gh_jid=4798433007) — Costa Mesa, California, United States; Washington, District of Columbia, United States
+- [Senior Site Reliability Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5124136007?gh_jid=5124136007) — Costa Mesa, California, United States
+- [Senior Site Reliability Engineer, Space](https://boards.greenhouse.io/andurilindustries/jobs/4992186007?gh_jid=4992186007) — Costa Mesa, California, United States
+- [Senior Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5209995007?gh_jid=5209995007) — Costa Mesa, California, United States
+- [Senior Software Engineer, Active Clearance, Air Defense](https://boards.greenhouse.io/andurilindustries/jobs/4939556007?gh_jid=4939556007) — Irvine, California, United States
+- [Senior Software Engineer, Air Defense, Integrations](https://boards.greenhouse.io/andurilindustries/jobs/5184560007?gh_jid=5184560007) — Irvine, California, United States
+- [Senior Software Engineer, API/SDK](https://boards.greenhouse.io/andurilindustries/jobs/5181986007?gh_jid=5181986007) — Seattle, Washington, United States
+- [Senior Software Engineer, Bolt](https://boards.greenhouse.io/andurilindustries/jobs/4932886007?gh_jid=4932886007) — Costa Mesa, California, United States
+- [Senior Software Engineer, C++](https://boards.greenhouse.io/andurilindustries/jobs/5009226007?gh_jid=5009226007) — Costa Mesa, California, United States
+- [Senior Software Engineer, Dart](https://boards.greenhouse.io/andurilindustries/jobs/4993677007?gh_jid=4993677007) — Costa Mesa, California, United States
+- [Senior Software Engineer, Distributed Networks ](https://boards.greenhouse.io/andurilindustries/jobs/5202000007?gh_jid=5202000007) — Costa Mesa, California, United States
+- [Senior Software Engineer, Edge Compute and Communications (Active Clearance)](https://boards.greenhouse.io/andurilindustries/jobs/5114343007?gh_jid=5114343007) — Costa Mesa, California, United States
+- [Senior Software Engineer, Full Stack](https://boards.greenhouse.io/andurilindustries/jobs/4926796007?gh_jid=4926796007) — Irvine, California, United States
+- [Senior Software Engineer, Full Stack](https://boards.greenhouse.io/andurilindustries/jobs/5036672007?gh_jid=5036672007) — Costa Mesa, California, United States
+- [Senior Software Engineer, Generalist](https://boards.greenhouse.io/andurilindustries/jobs/5009118007?gh_jid=5009118007) — Irvine, California, United States
+- [Senior Software Engineer, Generalist](https://boards.greenhouse.io/andurilindustries/jobs/5009098007?gh_jid=5009098007) — Costa Mesa, California, United States
+- [Senior Software Engineering Manager, Simulation Platforms ](https://boards.greenhouse.io/andurilindustries/jobs/5171141007?gh_jid=5171141007) — Costa Mesa, California, United States; Washington, District of Columbia, United States
+- [Senior Software Engineer, Manufacturing Test](https://boards.greenhouse.io/andurilindustries/jobs/5161501007?gh_jid=5161501007) — Costa Mesa, California, United States
+- [Senior Software Engineer, Manufacturing Test](https://boards.greenhouse.io/andurilindustries/jobs/5161510007?gh_jid=5161510007) — Mountain View, California, United States
+- [Senior Software Engineer, Manufacturing Test](https://boards.greenhouse.io/andurilindustries/jobs/5161503007?gh_jid=5161503007) — Bellevue, Washington, United States
+- [Senior Software Engineer, Manufacturing Test (EagleEye)](https://boards.greenhouse.io/andurilindustries/jobs/5197698007?gh_jid=5197698007) — Costa Mesa, California, United States
+- [Senior Software Engineer, Manufacturing Test (Roadrunner)](https://boards.greenhouse.io/andurilindustries/jobs/5123249007?gh_jid=5123249007) — Costa Mesa, California, United States
+- [Senior Software Engineer, Maritime](https://boards.greenhouse.io/andurilindustries/jobs/5182752007?gh_jid=5182752007) — Costa Mesa, California, United States
+- [Senior Software Engineer, Maritime](https://boards.greenhouse.io/andurilindustries/jobs/5051552007?gh_jid=5051552007) — Costa Mesa, California, United States
+- [Senior Software Engineer, Nix ](https://boards.greenhouse.io/andurilindustries/jobs/4903335007?gh_jid=4903335007) — Costa Mesa, California, United States
+- [Senior Software Engineer, Perception](https://boards.greenhouse.io/andurilindustries/jobs/5124926007?gh_jid=5124926007) — Costa Mesa, California, United States
+- [Senior Software Engineer, Quality Integration ](https://boards.greenhouse.io/andurilindustries/jobs/5133681007?gh_jid=5133681007) — Seattle, Washington, United States
+- [Senior Software Engineer, Quality Integration ](https://boards.greenhouse.io/andurilindustries/jobs/5199073007?gh_jid=5199073007) — Costa Mesa, California, United States
+- [Senior Software Engineer, Robotics](https://boards.greenhouse.io/andurilindustries/jobs/5000127007?gh_jid=5000127007) — Irvine, California, United States
+- [Senior Software Engineer, Robotics ](https://boards.greenhouse.io/andurilindustries/jobs/4932882007?gh_jid=4932882007) — Costa Mesa, California, United States
+- [Senior Software Engineer, Satellite Command and Control](https://boards.greenhouse.io/andurilindustries/jobs/5182108007?gh_jid=5182108007) — Costa Mesa, California, United States
+- [Senior Software Engineer, Secure XR (Sand Table)](https://boards.greenhouse.io/andurilindustries/jobs/5180605007?gh_jid=5180605007) — Costa Mesa, California, United States
+- [Senior Software Engineer, Simulation Platform ](https://boards.greenhouse.io/andurilindustries/jobs/5088646007?gh_jid=5088646007) — Costa Mesa, California, United States
+- [Senior Software Engineer, Vehicle Software, V&V](https://boards.greenhouse.io/andurilindustries/jobs/4926678007?gh_jid=4926678007) — Costa Mesa, California, United States
+- [Senior Software Engineer, Video ](https://boards.greenhouse.io/andurilindustries/jobs/5133360007?gh_jid=5133360007) — Costa Mesa, California, United States
+- [Senior Tracking Software Engineer, Space](https://boards.greenhouse.io/andurilindustries/jobs/5121947007?gh_jid=5121947007) — Foothill Ranch, California, United States
+- [Site Reliability Engineer - Deployed, Connected Warfare](https://boards.greenhouse.io/andurilindustries/jobs/5050317007?gh_jid=5050317007) — Costa Mesa, California, United States; Honolulu, Hawaii, United States; Seattle, Washington, United States
+- [Software Engineer, Active Clearance, Air Defense](https://boards.greenhouse.io/andurilindustries/jobs/4939543007?gh_jid=4939543007) — Irvine, California, United States
+- [Software Engineer, Agentic Modeling & Simulation](https://boards.greenhouse.io/andurilindustries/jobs/5184726007?gh_jid=5184726007) — Costa Mesa, California, United States
+- [Software Engineer, Anvil](https://boards.greenhouse.io/andurilindustries/jobs/4932828007?gh_jid=4932828007) — Costa Mesa, California, United States
+- [Software Engineer, C++](https://boards.greenhouse.io/andurilindustries/jobs/5008367007?gh_jid=5008367007) — Costa Mesa, California, United States
+- [Software Engineer, Cloud OS](https://boards.greenhouse.io/andurilindustries/jobs/5130646007?gh_jid=5130646007) — Seattle, Washington, United States
+- [Software Engineer, Command Control Mission Autonomy  ](https://boards.greenhouse.io/andurilindustries/jobs/5161486007?gh_jid=5161486007) — Costa Mesa, California, United States; Seattle, Washington, United States; Washington, District of Columbia, United States
+- [Software Engineer, Connected Warfare](https://boards.greenhouse.io/andurilindustries/jobs/4776690007?gh_jid=4776690007) — Costa Mesa, California, United States
+- [Software Engineer, Connected Warfare (Active Clearance)](https://boards.greenhouse.io/andurilindustries/jobs/4263021007?gh_jid=4263021007) — Costa Mesa, California, United States
+- [Software Engineer, Full Stack](https://boards.greenhouse.io/andurilindustries/jobs/4836302007?gh_jid=4836302007) — Irvine, California, United States
+- [Software Engineer, Game Development](https://boards.greenhouse.io/andurilindustries/jobs/4975955007?gh_jid=4975955007) — Costa Mesa, California, United States
+- [Software Engineer, Generalist](https://boards.greenhouse.io/andurilindustries/jobs/5009117007?gh_jid=5009117007) — Irvine, California, United States
+- [Software Engineer, Ghost](https://boards.greenhouse.io/andurilindustries/jobs/4932891007?gh_jid=4932891007) — Costa Mesa, California, United States
+- [Software Engineer, Manufacturing Test](https://boards.greenhouse.io/andurilindustries/jobs/5161517007?gh_jid=5161517007) — Bellevue, Washington, United States
+- [Software Engineer, Manufacturing Test](https://boards.greenhouse.io/andurilindustries/jobs/5161512007?gh_jid=5161512007) — Costa Mesa, California, United States
+- [Software Engineer, Manufacturing Test](https://boards.greenhouse.io/andurilindustries/jobs/5161515007?gh_jid=5161515007) — Mountain View, California, United States
+- [Software Engineer, Maritime](https://boards.greenhouse.io/andurilindustries/jobs/5051550007?gh_jid=5051550007) — Costa Mesa, California, United States
+- [Software Engineer - Maritime Integrated Systems](https://boards.greenhouse.io/andurilindustries/jobs/5166602007?gh_jid=5166602007) — Costa Mesa, California, United States
+- [Software Engineer, Quality Integration  ](https://boards.greenhouse.io/andurilindustries/jobs/5133682007?gh_jid=5133682007) — Seattle, Washington, United States
+- [Software Engineer, Quality Integration  ](https://boards.greenhouse.io/andurilindustries/jobs/5199074007?gh_jid=5199074007) — Costa Mesa, California, United States
+- [Software Engineer, Robotics](https://boards.greenhouse.io/andurilindustries/jobs/5102393007?gh_jid=5102393007) — Irvine, California, United States
+- [Software Engineer, Robotics](https://boards.greenhouse.io/andurilindustries/jobs/4932360007?gh_jid=4932360007) — Irvine, California, United States
+- [Software Engineer, Satellite Command and Control](https://boards.greenhouse.io/andurilindustries/jobs/5179761007?gh_jid=5179761007) — Costa Mesa, California, United States
+- [Software Engineer, Sensor Simulation ](https://boards.greenhouse.io/andurilindustries/jobs/5160996007?gh_jid=5160996007) — Costa Mesa, California, United States
+- [Software Engineer, Space Systems Test](https://boards.greenhouse.io/andurilindustries/jobs/4992181007?gh_jid=4992181007) — Costa Mesa, California, United States
+- [Software Engineer, Vehicle Software, V&V](https://boards.greenhouse.io/andurilindustries/jobs/4673813007?gh_jid=4673813007) — Costa Mesa, California, United States
+- [Sr. Software Engineer - Maritime Integrated Systems](https://boards.greenhouse.io/andurilindustries/jobs/5182597007?gh_jid=5182597007) — Costa Mesa, California, United States
+- [Staff CAD Platform Engineer (NX / Teamcenter)](https://boards.greenhouse.io/andurilindustries/jobs/5192828007?gh_jid=5192828007) — Costa Mesa, California, United States
+- [Staff CAD Platform Engineer (NX / Teamcenter)](https://boards.greenhouse.io/andurilindustries/jobs/5192830007?gh_jid=5192830007) — Costa Mesa, California, United States; Santa Ana, California, United States
+- [Staff Engineer, Rapid Integration & Test](https://boards.greenhouse.io/andurilindustries/jobs/5129324007?gh_jid=5129324007) — Costa Mesa, California, United States
+- [Staff Full-Stack Software Engineer, Manufacturing Software](https://boards.greenhouse.io/andurilindustries/jobs/5172280007?gh_jid=5172280007) — Costa Mesa, California, United States
+- [Staff Robotics Software Engineer, Air Vehicle Autonomy](https://boards.greenhouse.io/andurilindustries/jobs/4928029007?gh_jid=4928029007) — Costa Mesa, California, United States
+- [Staff Robotics Software Engineer, Air Vehicle Autonomy](https://boards.greenhouse.io/andurilindustries/jobs/4946496007?gh_jid=4946496007) — Costa Mesa, California, United States; Washington, District of Columbia, United States
+- [Staff Robotics Software Engineer, Maritime](https://boards.greenhouse.io/andurilindustries/jobs/5051595007?gh_jid=5051595007) — Costa Mesa, California, United States
+- [Staff Site Reliability Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5201151007?gh_jid=5201151007) — Costa Mesa, California, United States
+- [Staff Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5209999007?gh_jid=5209999007) — Costa Mesa, California, United States
+- [Staff Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5130340007?gh_jid=5130340007) — Costa Mesa, California, United States
+- [Staff Software Engineer, Active Clearance, Air Defense](https://boards.greenhouse.io/andurilindustries/jobs/4946549007?gh_jid=4946549007) — Irvine, California, United States
+- [Staff Software Engineer, Connected Warfare](https://boards.greenhouse.io/andurilindustries/jobs/4644066007?gh_jid=4644066007) — Costa Mesa, California, United States
+- [Staff Software Engineer, Developer Platform ](https://boards.greenhouse.io/andurilindustries/jobs/4954897007?gh_jid=4954897007) — Costa Mesa, California, United States
+- [Staff Software Engineer, Ghost](https://boards.greenhouse.io/andurilindustries/jobs/4933722007?gh_jid=4933722007) — Costa Mesa, California, United States
+- [Staff Software Engineer, Maritime](https://boards.greenhouse.io/andurilindustries/jobs/5051557007?gh_jid=5051557007) — Costa Mesa, California, United States
+- [Staff Software Engineer, Quality Integration ](https://boards.greenhouse.io/andurilindustries/jobs/5199078007?gh_jid=5199078007) — Costa Mesa, California, United States
+- [Staff Software Engineer, Quality Integration ](https://boards.greenhouse.io/andurilindustries/jobs/5133683007?gh_jid=5133683007) — Seattle, Washington, United States
+- [Staff Software Engineer, Robotics](https://boards.greenhouse.io/andurilindustries/jobs/4932363007?gh_jid=4932363007) — Irvine, California, United States
+- [Staff Software Engineer, Security](https://boards.greenhouse.io/andurilindustries/jobs/4753186007?gh_jid=4753186007) — Costa Mesa, California, United States
+- [Tracking Software Engineer, Space](https://boards.greenhouse.io/andurilindustries/jobs/5111994007?gh_jid=5111994007) — Foothill Ranch, California, United States
+
+### Anthropic (4)
+
+- [IT Systems Engineer, Client Platform Engineer](https://job-boards.greenhouse.io/anthropic/jobs/5255853008) — Boston, MA; New York City, NY; Remote-Friendly (Travel-Required) |  Washington, DC
+- [Staff Engineer, Datacenter Server Lifecycle](https://job-boards.greenhouse.io/anthropic/jobs/5139038008) — San Francisco, CA | New York City, NY | Seattle, WA
+- [Staff+ Software Engineer, Identity & Access Controls](https://job-boards.greenhouse.io/anthropic/jobs/5270442008) — San Francisco, CA | New York City, NY | Seattle, WA
+- [Staff Software Engineer, People Products](https://job-boards.greenhouse.io/anthropic/jobs/5119468008) — Remote-Friendly (Travel Required) | San Francisco, CA
+
+### Chainguard (1)
+
+- [Principal Software Engineer (Libraries Platform) ](https://job-boards.greenhouse.io/chainguard/jobs/4698956006) — United States - Remote
+
+### Databricks (1)
+
+- [Engineering Manager, Foundation Model Inference (FMAPI)](https://databricks.com/company/careers/open-positions/job?gh_jid=8643979002) — San Francisco, California
+
+### Fivetran (3)
+
+- [Engineering Manager, Metadata](https://www.fivetran.com/careers/job?gh_jid=7859203003) — Oakland, California, United States
+- [Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7688580003) — Oakland, California, United States, AMER
+- [Software Engineer ](https://www.fivetran.com/careers/job?gh_jid=7811889003) — Oakland, California, United States, AMER
+
+### Planet Labs (1)
+
+- [Software Engineer](https://job-boards.greenhouse.io/planetlabs/jobs/8096079) — San Francisco, CA
+
+### Samsara (4)
+
+- [Senior AI Data Engineer](https://www.samsara.com/company/careers/roles/8091855?gh_jid=8091855) — Remote - US
+- [Senior Software Engineer II](https://www.samsara.com/company/careers/roles/8063736?gh_jid=8063736) — Remote - US
+- [Senior Software Engineer II - Web Experience](https://www.samsara.com/company/careers/roles/8055217?gh_jid=8055217) — Remote - US
+- [Sr. AI Engineer](https://www.samsara.com/company/careers/roles/8083352?gh_jid=8083352) — Remote - CA
+
+### Vast (1)
+
+- [Senior Software Engineer, Enterprise Applications](https://boards.greenhouse.io/vast/jobs/4702552006?gh_jid=4702552006) — Long Beach, California, United States
+
+### Vercel (1)
+
+- [Software Engineer, eve](https://job-boards.greenhouse.io/vercel/jobs/6098390004) — Hybrid - San Francisco, New York City
+
+### Zipline (4)
+
+- [Lead Software Engineer, Developer Productivity](https://www.zipline.com/open-roles?gh_jid=7859841003) — South San Francisco, California, USA
+- [Mechanical Test Engineering Manager (SMI)](https://www.zipline.com/open-roles?gh_jid=7809119003) — South San Francisco, California, USA
+- [Senior Software Engineer, Maintenance Systems](https://www.zipline.com/open-roles?gh_jid=7676378003) — Dallas-Fort Worth, Texas, USA; South San Francisco, California, USA
+- [Software Engineer - Hardware Test](https://www.zipline.com/open-roles?gh_jid=7803261003) — South San Francisco, California, USA
+
