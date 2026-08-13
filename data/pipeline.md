@@ -1,5 +1,13 @@
 # Pipeline — Pending Offers
 
+## 2026-08-13 — Full Portal Scan (Greenhouse API + WebSearch)
+
+> 70+ companies — Greenhouse API (41 boards) + WebSearch (30+ companies). Dedup against ~22,565 history entries. **3 new matches** (Temporal ×1, ClickHouse ×1, Fivetran ×1). Pipeline current from 08-12 comprehensive scan. Report: [scout-2026-08-13.md](../reports/scout-2026-08-13.md)
+
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5210998007 | Temporal | Senior Software Engineer, Infrastructure Foundations | US Remote | ★ 4.2/5 — New role at Temporal. Infrastructure Foundations = platform layer for workflow engine. Go + K8s. Patrick's Argo/Helm/multi-cluster background = direct fit. Senior IC (one step below Staff roles already in pipeline).
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/6142784004 | ClickHouse | Senior Cloud Software Engineer - Efficiency Engineering | US Remote | ★ 3.7/5 — Efficiency engineering at ClickHouse (cost optimization, resource utilization). Remote US. Senior level — comp may be below $185K target. Lower priority vs Staff roles.
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7859203003 | Fivetran | Engineering Manager, Metadata | Oakland, CA | ★ 3.9/5 — Oakland Bay Area variant of Denver EM Metadata role. Same team, SF adjacent. Apply if Denver variant accepted.
+
 ## 2026-08-11 — Scout Quick Check (Greenhouse API only)
 
 > 41 companies — Greenhouse API only. Dedup against 21,084 history entries. **3 new matches** (Anthropic ×2, Zipline ×1). No full evaluations — discovery only.
