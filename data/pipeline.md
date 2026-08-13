@@ -1,5 +1,17 @@
 # Pipeline — Pending Offers
 
+## 2026-08-13 — Scout Quick Check (Greenhouse API only)
+
+> 41 companies — Greenhouse API only. Dedup against ~22,568 history entries. **4 new matches** (Fivetran ×2, Scale AI ×1, Anthropic ×1). No full evaluations — discovery only.
+
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7865559003 | Fivetran | Senior Software Engineer - Metadata | Denver, CO | Same Metadata team as EM role already in pipeline. Senior IC track. Denver local company. Direct fit.
+
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7864598003 | Fivetran | Staff Software Engineer, Metadata | Denver, CO | Staff-level IC on Metadata team at Denver HQ. Evaluate alongside Senior variant.
+
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4722512005 | Scale AI | Software Engineer - AI Enablement | San Francisco, CA | AI tooling/enablement at Scale. SF HQ. Defense + enterprise AI data platform. $7.3B valuation.
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5389305008 | Anthropic | Staff Software Engineer, Education | San Francisco, CA / New York City, NY | Staff-level at Anthropic Education team. SF or NYC. Evaluate fit vs infra roles.
+
 ## 2026-08-13 — Full Portal Scan (Greenhouse API + WebSearch)
 
 > 70+ companies — Greenhouse API (41 boards) + WebSearch (30+ companies). Dedup against ~22,565 history entries. **3 new matches** (Temporal ×1, ClickHouse ×1, Fivetran ×1). Pipeline current from 08-12 comprehensive scan. Report: [scout-2026-08-13.md](../reports/scout-2026-08-13.md)
