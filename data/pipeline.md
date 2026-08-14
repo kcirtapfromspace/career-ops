@@ -6706,3 +6706,12 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - [ ] https://www.zipline.com/open-roles?gh_jid=7811728003 <!-- Zipline: Staff Software Engineer, Healthcare (Remote in USA; Remote, EMEA) | discovered 2026-08-12 -->
 - [ ] https://www.zipline.com/open-roles?gh_jid=7808704003 <!-- Zipline: Staff Software Engineer – Marketplace (South San Francisco, California, USA) | discovered 2026-08-12 -->
 - [ ] https://www.zipline.com/open-roles?gh_jid=7822379003 <!-- Zipline: Staff Software Engineer – Marketplace Growth (South San Francisco, California, USA) | discovered 2026-08-12 -->
+
+## 2026-08-14 (Scout Scan)
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5302966008 <!-- Anthropic: Forward Deployed Engineer (New York City, NY; San Francisco, CA; Seattle, WA) | discovered 2026-08-14 | score 4.5/5 -->
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5210552007 <!-- Temporal: Staff Solutions Architect, Growth - West (US Remote, Denver mentioned) | discovered 2026-08-14 | score 4.3/5 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8709386002 <!-- Databricks: Engineering Manager, CustomerLake Profile Agents (New York City, NY - verify remote) | discovered 2026-08-14 | score 3.9/5 -->
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5210771007 <!-- Temporal: Senior Professional Services Engineer - West (US Remote) | discovered 2026-08-14 | score 3.8/5 -->
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5210820007 <!-- Temporal: Senior Professional Services Engineer - East (US Remote) | discovered 2026-08-14 | score 3.7/5 -->
+- [ ] https://jobs.ashbyhq.com/prefect/3384defd-8bdf-4074-b621-b6983e95a7a1 <!-- Prefect: Senior Product Engineer (US Remote) | discovered 2026-08-14 | score 3.2/5 -->
