@@ -6721,3 +6721,10 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5210771007 <!-- Temporal: Senior Professional Services Engineer - West (US Remote) | discovered 2026-08-14 | score 3.8/5 -->
 - [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5210820007 <!-- Temporal: Senior Professional Services Engineer - East (US Remote) | discovered 2026-08-14 | score 3.7/5 -->
 - [ ] https://jobs.ashbyhq.com/prefect/3384defd-8bdf-4074-b621-b6983e95a7a1 <!-- Prefect: Senior Product Engineer (US Remote) | discovered 2026-08-14 | score 3.2/5 -->
+
+## 2026-08-14 (Quick Check Scan)
+
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5152584007?gh_jid=5152584007 <!-- Anduril: Senior Software Engineer, Nix (Remote) | discovered 2026-08-14 -->
+- [ ] https://www.samsara.com/company/careers/roles/7266439?gh_jid=7266439 <!-- Samsara: Senior Software Engineer (Remote - US) | discovered 2026-08-14 -->
+- [ ] https://www.samsara.com/company/careers/roles/8130819?gh_jid=8130819 <!-- Samsara: Senior Software Engineer (Remote - Canada) | discovered 2026-08-14 -->
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4705457006 <!-- Chainguard: Staff Software Engineer - Customer Platform (United Kingdom - Remote) | discovered 2026-08-14 -->
