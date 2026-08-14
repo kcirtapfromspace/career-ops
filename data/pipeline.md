@@ -1,5 +1,11 @@
 # Pipeline — Pending Offers
 
+## 2026-08-14 — Scout Quick Check (Greenhouse API only)
+
+> 41 companies — Greenhouse API only. Dedup against 22,591 history entries. **1 new match** (Chainguard ×1). Supplemental check after full 08-14 scan. No full evaluations — discovery only.
+
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4705456006 | Chainguard | Staff Software Engineer (Customer Platform) | United States - Remote | Cloud-native supply chain security platform. Customer Platform team = serving external developers. Remote US. K8s/containers background is exact match. Updated today (08-14). Previously only the Libraries Platform principal role was tracked.
+
 ## 2026-08-13 — Scout Quick Check (Greenhouse API only)
 
 > 41 companies — Greenhouse API only. Dedup against ~22,568 history entries. **4 new matches** (Fivetran ×2, Scale AI ×1, Anthropic ×1). No full evaluations — discovery only.
