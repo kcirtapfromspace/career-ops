@@ -1,5 +1,11 @@
 # Pipeline — Pending Offers
 
+## 2026-08-15 — Full Portal Scan (Greenhouse API + WebSearch)
+
+> 24 companies — Greenhouse API (20 boards) + WebSearch (4). Dedup against 22,596 history entries. **0 new high-fit matches** — pipeline is current from 08-14 quickcheck. 1 new low-fit discovery (filtered). Report: [scout-2026-08-15.md](../reports/scout-2026-08-15.md)
+
+_Pipeline current. All active top picks already tracked. Top action item: Fivetran Denver EM Metadata — apply immediately._
+
 ## 2026-08-14 — Scout Quick Check (Greenhouse API only)
 
 > 41 companies — Greenhouse API only. Dedup against 22,591 history entries. **1 new match** (Chainguard ×1). Supplemental check after full 08-14 scan. No full evaluations — discovery only.
