@@ -6772,3 +6772,5 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - https://careers.hellofresh.com/global/en/job/8121142?gh_jid=8121142 | HelloFresh — Senior Director of Machine Learning Engineering (Berlin, Berlin, Germany)
 - https://n26.com/en-eu/careers/positions/8129812?gh_jid=8129812 | N26 — Backend Engineer - Lending (Berlin)
 - https://wayve.firststage.co/jobs?gh_jid=8708581002 | Wayve — Engineering Manager, Runtime Platform, Robot Software (London)
+- https://job-boards.greenhouse.io/anthropic/jobs/5392335008 | Anthropic — Staff+ Software Engineer, Platform Ecosystem (San Francisco, CA | New York City, NY)
+- https://job-boards.greenhouse.io/anthropic/jobs/5379140008 | Anthropic — Staff+ Software Engineer, Safeguards Data (San Francisco, CA | New York City, NY)
