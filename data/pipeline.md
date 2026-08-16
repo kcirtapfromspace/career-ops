@@ -6782,3 +6782,5 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8511491002 <!-- Databricks: Delivery Solutions Architect - Retail (Denver, CO / West Coast) | discovered 2026-08-16 | score 3.8/5 -->
 - [ ] https://jobs.lever.co/shieldai/9fd0a58a-6bdc-465c-8d1e-0c152e13ba66 <!-- Shield AI: Senior Data & Analytics Engineer, Domain Enablement (R5536) (Remote) | discovered 2026-08-16 | score 3.7/5 -->
 - [ ] https://careers.rivian.com/careers-home/jobs/31219 <!-- Rivian: Senior Platform Engineer (Multiple Locations) | discovered 2026-08-16 | score 3.5/5 -->
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8697184002 <!-- Wayve: Senior Software Engineer - Sensor Systems, Robot Software (Sunnyvale, CA) | discovered 2026-08-16 | quick-check -->
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4705296006 <!-- Figure AI: Helix AI Engineer, Training Performance (San Jose, CA) | discovered 2026-08-16 | quick-check -->
