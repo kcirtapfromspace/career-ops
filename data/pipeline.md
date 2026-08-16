@@ -6774,3 +6774,11 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - https://wayve.firststage.co/jobs?gh_jid=8708581002 | Wayve — Engineering Manager, Runtime Platform, Robot Software (London)
 - https://job-boards.greenhouse.io/anthropic/jobs/5392335008 | Anthropic — Staff+ Software Engineer, Platform Ecosystem (San Francisco, CA | New York City, NY)
 - https://job-boards.greenhouse.io/anthropic/jobs/5379140008 | Anthropic — Staff+ Software Engineer, Safeguards Data (San Francisco, CA | New York City, NY)
+
+## 2026-08-16 (Scout Scan)
+
+- [ ] https://jobs.lever.co/shieldai/0395a275-3a5d-4454-b981-8f475092bc44 <!-- Shield AI: Sr. Staff Platform/Data Reliability Engineer, Databricks (R5537) (Remote) | discovered 2026-08-16 | score 4.3/5 -->
+- [ ] https://jobs.lever.co/shieldai/e6a2af74-61e4-44cd-95ac-3e2970631b51 <!-- Shield AI: Staff Analytics Engineer, Databricks (R5493) (Remote) | discovered 2026-08-16 | score 4.0/5 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8511491002 <!-- Databricks: Delivery Solutions Architect - Retail (Denver, CO / West Coast) | discovered 2026-08-16 | score 3.8/5 -->
+- [ ] https://jobs.lever.co/shieldai/9fd0a58a-6bdc-465c-8d1e-0c152e13ba66 <!-- Shield AI: Senior Data & Analytics Engineer, Domain Enablement (R5536) (Remote) | discovered 2026-08-16 | score 3.7/5 -->
+- [ ] https://careers.rivian.com/careers-home/jobs/31219 <!-- Rivian: Senior Platform Engineer (Multiple Locations) | discovered 2026-08-16 | score 3.5/5 -->
