@@ -6787,3 +6787,10 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 
 - https://job-boards.greenhouse.io/anthropic/jobs/5098092008 <!-- Anthropic: Software Engineering Manager, Network Security | San Francisco, CA | New York City, NY | scout-quickcheck 2026-08-18 -->
 - https://wayve.firststage.co/jobs?gh_jid=8716080002 <!-- Wayve: Data Engineer, Security Analytics | Sunnyvale | scout-quickcheck 2026-08-18 -->
+
+## 2026-08-18 (Scout Scan)
+
+> No new 4.0+ matches. Scan covered 30+ companies (Greenhouse APIs + WebSearch). Pipeline current from Aug-16 picks.
+> Top priority: review the two Shield AI 4.0+ entries from Aug-16 scout (Sr. Staff DRE and Staff Analytics Engineer).
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5098092008 <!-- Anthropic: Software Engineering Manager, Network Security (SF/NYC hybrid, 25% on-site) | discovered 2026-08-18 | score 3.0/5 — $405-485K base; 8+ yr mgmt requirement too high; network security specialization mismatch -->
