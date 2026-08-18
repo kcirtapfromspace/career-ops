@@ -6794,3 +6794,21 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 > Top priority: review the two Shield AI 4.0+ entries from Aug-16 scout (Sr. Staff DRE and Staff Analytics Engineer).
 
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5098092008 <!-- Anthropic: Software Engineering Manager, Network Security (SF/NYC hybrid, 25% on-site) | discovered 2026-08-18 | score 3.0/5 — $405-485K base; 8+ yr mgmt requirement too high; network security specialization mismatch -->
+
+- https://job-boards.greenhouse.io/anthropic/jobs/5357961008 | Anthropic — Manager, Infrastructure Capex Accounting | San Francisco, CA | Seattle, WA | added:2026-08-18
+- https://boards.greenhouse.io/andurilindustries/jobs/5210477007?gh_jid=5210477007 | Anduril — Director, Site Reliability Engineering | Costa Mesa, California, United States | added:2026-08-18
+- https://boards.greenhouse.io/andurilindustries/jobs/5213232007?gh_jid=5213232007 | Anduril — Senior GNC Software Engineer | Waltham, Massachusetts, United States | added:2026-08-18
+- https://boards.greenhouse.io/andurilindustries/jobs/5214396007?gh_jid=5214396007 | Anduril — Senior Realtime Software Engineer | Boulder, Colorado, United States | added:2026-08-18
+- https://boards.greenhouse.io/andurilindustries/jobs/4620033007?gh_jid=4620033007 | Anduril — Senior Software Engineer, Guidance, Navigation, & Controls - Tactical Reconnaissance and Strike Division | Atlanta, Georgia, United States | added:2026-08-18
+- https://boards.greenhouse.io/andurilindustries/jobs/5215086007?gh_jid=5215086007 | Anduril — Senior Software Engineer, Maritime Enabling Technology | Quincy, Massachusetts, United States | added:2026-08-18
+- https://boards.greenhouse.io/andurilindustries/jobs/5213223007?gh_jid=5213223007 | Anduril — Senior Software Engineer, Robotics Tracking and Fusion | Waltham, Massachusetts, United States | added:2026-08-18
+- https://boards.greenhouse.io/andurilindustries/jobs/5213225007?gh_jid=5213225007 | Anduril — Senior Software Engineer, Robotics Tracking and Fusion | Fort Collins, Colorado, United States | added:2026-08-18
+- https://boards.greenhouse.io/andurilindustries/jobs/5213224007?gh_jid=5213224007 | Anduril — Senior Software Engineer, Robotics Tracking and Fusion | Washington, District of Columbia, United States | added:2026-08-18
+- https://boards.greenhouse.io/andurilindustries/jobs/5213219007?gh_jid=5213219007 | Anduril — Software Engineer, Robotics Tracking and Fusion | Washington, District of Columbia, United States | added:2026-08-18
+- https://boards.greenhouse.io/andurilindustries/jobs/5213218007?gh_jid=5213218007 | Anduril — Software Engineer, Robotics Tracking and Fusion | Waltham, Massachusetts, United States | added:2026-08-18
+- https://boards.greenhouse.io/andurilindustries/jobs/5213220007?gh_jid=5213220007 | Anduril — Software Engineer, Robotics Tracking and Fusion | Fort Collins, Colorado, United States | added:2026-08-18
+- https://helsing.ai/jobs/4953562101?gh_jid=4953562101 | Helsing — Machine Learning Engineer, Detection and Tracking | Washington, DC | added:2026-08-18
+- https://helsing.ai/jobs/4953564101?gh_jid=4953564101 | Helsing — Software Engineer, DevSecOps | Washington, DC | added:2026-08-18
+- https://helsing.ai/jobs/4953565101?gh_jid=4953565101 | Helsing — Software Engineer, Platform Engineering | Washington, DC | added:2026-08-18
+- https://helsing.ai/jobs/4953558101?gh_jid=4953558101 | Helsing — Software Engineer, Rust | Washington, DC | added:2026-08-18
+- https://wayve.firststage.co/jobs?gh_jid=8724862002 | Wayve — Principal Machine Learning Engineer, Geometric Vision | Sunnyvale | added:2026-08-18

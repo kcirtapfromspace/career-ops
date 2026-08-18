@@ -1,66 +1,77 @@
 {
   "date": "2026-08-18",
-  "total_new": 5,
-  "by_company": {
-    "Anthropic": [
-      "Software Engineering Manager, Network Security",
-      "Staff + Senior Software Engineer, Inference"
-    ],
-    "Intercom": [
-      "Engineering Manager - AI Helpdesk"
-    ],
-    "HelloFresh": [
-      "Senior Machine Learning Engineer [GROWTH]"
-    ],
-    "Wayve": [
-      "Data Engineer, Security Analytics"
-    ]
-  },
-  "jobs": [
+  "scan_type": "greenhouse_api_only",
+  "companies_checked": 41,
+  "errors": ["Aurora Innovation"],
+  "new_jobs_total": 17,
+  "summary": "Best matches: Wayve Principal MLE Geometric Vision (Sunnyvale/Bay Area), Anduril Director SRE (Costa Mesa), Anduril Senior Realtime SWE (Boulder CO near Denver), Anduril Robotics SE x2 (Fort Collins CO near Denver). Helsing ramping DC cluster (4 roles, all DC). Note: Anthropic 'Manager Infrastructure Capex Accounting' is a false positive (finance role).",
+  "top_matches": [
     {
-      "id": "5098092008",
-      "title": "Software Engineering Manager, Network Security",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5098092008",
-      "location": "San Francisco, CA | New York City, NY",
-      "company": "Anthropic"
+      "rank": 1,
+      "company": "Wayve",
+      "title": "Principal Machine Learning Engineer, Geometric Vision",
+      "url": "https://wayve.firststage.co/jobs?gh_jid=8724862002",
+      "location": "Sunnyvale, CA",
+      "location_status": "accept",
+      "notes": "Bay Area. UK self-driving company US office. Principal-level MLE."
     },
     {
-      "id": "5385998008",
-      "title": "Staff + Senior Software Engineer, Inference",
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385998008",
-      "location": "Ontario, CAN",
-      "company": "Anthropic"
+      "rank": 2,
+      "company": "Anduril",
+      "title": "Director, Site Reliability Engineering",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5210477007",
+      "location": "Costa Mesa, California",
+      "location_status": "relocation",
+      "notes": "Dream company. SRE director leadership. SoCal."
     },
     {
-      "id": "5298461",
-      "title": "Engineering Manager - AI Helpdesk",
-      "url": "https://job-boards.greenhouse.io/intercom/jobs/5298461",
-      "location": "Dublin, Ireland",
-      "company": "Intercom"
+      "rank": 3,
+      "company": "Anduril",
+      "title": "Senior Realtime Software Engineer",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5214396007",
+      "location": "Boulder, Colorado",
+      "location_status": "near-denver",
+      "notes": "30min from Denver. Real-time systems. Dream company."
     },
     {
-      "id": "8119649",
-      "title": "Senior Machine Learning Engineer [GROWTH]",
-      "url": "https://careers.hellofresh.com/global/en/job/8119649?gh_jid=8119649",
-      "location": "Warszawa, Masovian Voivodeship, Poland",
-      "company": "HelloFresh"
+      "rank": 4,
+      "company": "Anduril",
+      "title": "Senior Software Engineer, Robotics Tracking and Fusion",
+      "url": "https://boards.greenhouse.io/andurilindustries/jobs/5213225007",
+      "location": "Fort Collins, Colorado",
+      "location_status": "near-denver",
+      "notes": "1hr from Denver. Robotics tracking/fusion."
     },
     {
-      "id": "8716080002",
-      "title": "Data Engineer, Security Analytics",
-      "url": "https://wayve.firststage.co/jobs?gh_jid=8716080002",
-      "location": "Sunnyvale",
-      "company": "Wayve"
+      "rank": 5,
+      "company": "Helsing",
+      "title": "Software Engineer, Platform Engineering",
+      "url": "https://helsing.ai/jobs/4953565101",
+      "location": "Washington, DC",
+      "location_status": "relocation",
+      "notes": "Defense AI unicorn (Munich). New DC cluster. Platform Engineering = strong fit if DC viable."
     }
   ],
-  "errors": [
+  "false_positives": [
     {
-      "company": "Anduril",
-      "error": "The operation was aborted due to timeout"
-    },
-    {
-      "company": "Aurora Innovation",
-      "error": "HTTP 404"
+      "company": "Anthropic",
+      "title": "Manager, Infrastructure Capex Accounting",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5357961008",
+      "reason": "Finance/accounting role. Filter matched on 'Infrastructure' keyword."
     }
+  ],
+  "location_filtered_out": [
+    "Anduril — Senior GNC Software Engineer (Waltham MA)",
+    "Anduril — Senior Software Engineer Maritime (Quincy MA)",
+    "Anduril — Senior Software Engineer GNC (Atlanta GA)",
+    "Anduril — Senior/Software Engineer Robotics (Waltham MA x2)",
+    "Anduril — Software Engineer Robotics (Washington DC x2)",
+    "Anduril — Senior Software Engineer Robotics (Washington DC)"
+  ],
+  "helsing_dc_cluster": [
+    "https://helsing.ai/jobs/4953562101",
+    "https://helsing.ai/jobs/4953564101",
+    "https://helsing.ai/jobs/4953565101",
+    "https://helsing.ai/jobs/4953558101"
   ]
 }
