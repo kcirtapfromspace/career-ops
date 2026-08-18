@@ -6784,3 +6784,6 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - [ ] https://careers.rivian.com/careers-home/jobs/31219 <!-- Rivian: Senior Platform Engineer (Multiple Locations) | discovered 2026-08-16 | score 3.5/5 -->
 - [ ] https://wayve.firststage.co/jobs?gh_jid=8697184002 <!-- Wayve: Senior Software Engineer - Sensor Systems, Robot Software (Sunnyvale, CA) | discovered 2026-08-16 | quick-check -->
 - [ ] https://job-boards.greenhouse.io/figureai/jobs/4705296006 <!-- Figure AI: Helix AI Engineer, Training Performance (San Jose, CA) | discovered 2026-08-16 | quick-check -->
+
+- https://job-boards.greenhouse.io/anthropic/jobs/5098092008 <!-- Anthropic: Software Engineering Manager, Network Security | San Francisco, CA | New York City, NY | scout-quickcheck 2026-08-18 -->
+- https://wayve.firststage.co/jobs?gh_jid=8716080002 <!-- Wayve: Data Engineer, Security Analytics | Sunnyvale | scout-quickcheck 2026-08-18 -->

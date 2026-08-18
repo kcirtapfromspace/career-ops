@@ -1,63 +1,41 @@
 #!/usr/bin/env node
-// Quick-check: Greenhouse APIs only, no browser, dedup against scan-history.tsv
-// Batched fetching to avoid rate limiting
-import { readFileSync, existsSync, writeFileSync, appendFileSync } from 'fs';
-import { join, dirname } from 'path';
+// Quick check scan - Greenhouse APIs only
+import fs from 'fs';
+import path from 'path';
 import { fileURLToPath } from 'url';
-import { execSync } from 'child_process';
 
-const __dir = dirname(fileURLToPath(import.meta.url));
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
-// --- Filters ---
-const POS_KEYWORDS = [
-  'Software Engineer', 'Data Engineer', 'Data Platform', 'Platform Engineer',
-  'Infrastructure Engineer', 'ML Engineer', 'Engineering Manager', 'SRE',
-  'Backend Engineer', 'Site Reliability', 'Machine Learning Engineer',
-  'ML Platform', 'MLOps', 'AI Engineer', 'AI Infrastructure', 'Data Architect',
-  'Data Infrastructure', 'DevOps',
+const TITLE_POSITIVE = [
+  'Software Engineer', 'Backend Engineer', 'Data Engineer', 'Data Platform',
+  'Platform Engineer', 'Infrastructure Engineer', 'ML Engineer',
+  'Engineering Manager', 'SRE', 'Site Reliability',
+  'Machine Learning Engineer', 'ML Platform', 'MLOps', 'AI Engineer',
+  'AI Infrastructure', 'LLM', 'NLP', 'DevOps', 'Full Stack Engineer',
+  'Data Architect', 'Data Infrastructure',
 ];
-const NEG_KEYWORDS = ['Junior', 'Intern', '.NET', 'Java ', 'iOS', 'Android', 'PHP', 'Ruby', 'Embedded'];
-const NYC_CHICAGO = [/new york/i, /\bnyc\b/i, /chicago/i];
 
-function titleMatches(title) {
-  if (NEG_KEYWORDS.some(k => title.toLowerCase().includes(k.toLowerCase()))) return false;
-  return POS_KEYWORDS.some(k => title.toLowerCase().includes(k.toLowerCase()));
-}
+const TITLE_NEGATIVE = [
+  'Junior', 'Intern', '.NET', 'Java ', 'iOS', 'Android', 'PHP', 'Ruby',
+  'Embedded', 'Firmware', 'FPGA', 'ASIC', 'Blockchain', 'Web3', 'Crypto',
+  'Salesforce Admin', 'SAP ', 'Oracle EBS', 'Mainframe', 'COBOL',
+];
 
-// Explicit non-US country suffixes that disqualify a "Remote" listing
-const FOREIGN_REMOTE = /\b(canada|uk|united kingdom|germany|france|spain|netherlands|sweden|finland|norway|denmark|austria|switzerland|australia|india|brazil|ireland|portugal|poland|mexico|singapore|japan|israel|argentina|south korea|korea|apj|emea|latam|europe|africa|middle east|pacific)\b/i;
+// Location filters — accept these
+const LOC_ACCEPT = [
+  'remote', 'us remote', 'denver', 'san francisco', 'sf', 'los gatos',
+  'seattle', 'bend', 'united states', 'usa', 'anywhere',
+];
+// NYC/Chicago only if remote in location
+const LOC_NYC_CHICAGO = ['new york', 'nyc', 'chicago'];
+// Reject these (relocation required, non-US)
+const LOC_REJECT_PATTERNS = [
+  'london', 'berlin', 'paris', 'munich', 'amsterdam', 'tokyo', 'toronto',
+  'sydney', 'singapore', 'bangalore', 'india', 'uk', 'germany', 'france',
+  'australia', 'canada', 'europe', 'emea', 'apac', 'latam',
+];
 
-function locationAccepted(location) {
-  if (!location) return false;
-  // Reject explicitly non-US remote postings
-  if (FOREIGN_REMOTE.test(location)) return false;
-  if (/remote/i.test(location)) return true;
-  if (/denver/i.test(location) || /san francisco/i.test(location) || /los gatos/i.test(location) ||
-      /seattle/i.test(location) || /\bbend\b/i.test(location)) return true;
-  if (NYC_CHICAGO.some(r => r.test(location))) return false;
-  if (/^united states$/i.test(location.trim()) || /^usa?$/i.test(location.trim())) return true;
-  return false;
-}
-
-// --- Load scan history ---
-const historyPath = join(__dir, 'data/scan-history.tsv');
-const seenUrls = new Set();
-if (existsSync(historyPath)) {
-  const lines = readFileSync(historyPath, 'utf8').split('\n');
-  for (const line of lines) {
-    const url = line.split('\t')[0].trim();
-    if (url) {
-      seenUrls.add(url);
-      // Also index without URL fragment to catch #open-roles variants
-      const noFrag = url.split('#')[0];
-      if (noFrag !== url) seenUrls.add(noFrag);
-    }
-  }
-}
-console.error(`Loaded ${seenUrls.size} known URLs from scan history.`);
-
-// --- Company API list (deduped) ---
-const companies = [
+const COMPANIES = [
   { name: 'Anthropic', api: 'https://boards-api.greenhouse.io/v1/boards/anthropic/jobs' },
   { name: 'Anduril', api: 'https://boards-api.greenhouse.io/v1/boards/andurilindustries/jobs' },
   { name: 'PolyAI', api: 'https://boards-api.greenhouse.io/v1/boards/polyai/jobs' },
@@ -68,7 +46,6 @@ const companies = [
   { name: 'Vercel', api: 'https://boards-api.greenhouse.io/v1/boards/vercel/jobs' },
   { name: 'Temporal', api: 'https://boards-api.greenhouse.io/v1/boards/temporaltechnologies/jobs' },
   { name: 'Arize AI', api: 'https://boards-api.greenhouse.io/v1/boards/arizeai/jobs' },
-  { name: 'RunPod', api: 'https://boards-api.greenhouse.io/v1/boards/runpod/jobs' },
   { name: 'Glean', api: 'https://boards-api.greenhouse.io/v1/boards/gleanwork/jobs' },
   { name: 'Speechmatics', api: 'https://boards-api.greenhouse.io/v1/boards/speechmatics/jobs' },
   { name: 'Black Forest Labs', api: 'https://boards-api.greenhouse.io/v1/boards/blackforestlabs/jobs' },
@@ -86,131 +63,204 @@ const companies = [
   { name: 'PhysicsX', api: 'https://boards-api.greenhouse.io/v1/boards/physicsx/jobs' },
   { name: 'Stability AI', api: 'https://boards-api.greenhouse.io/v1/boards/stabilityai/jobs' },
   { name: 'Amplemarket', api: 'https://boards-api.greenhouse.io/v1/boards/amplemarket/jobs' },
-  { name: 'Neon', api: 'https://boards-api.greenhouse.io/v1/boards/neondatabase/jobs' },
+  { name: 'Dagster', api: 'https://boards-api.greenhouse.io/v1/boards/dagsterlabs/jobs' },
+  { name: 'Fivetran', api: 'https://boards-api.greenhouse.io/v1/boards/fivetran/jobs' },
   { name: 'Samsara', api: 'https://boards-api.greenhouse.io/v1/boards/samsara/jobs' },
   { name: 'Chainguard', api: 'https://boards-api.greenhouse.io/v1/boards/chainguard/jobs' },
-  { name: 'Shield AI', api: 'https://boards-api.greenhouse.io/v1/boards/shieldai/jobs' },
-  { name: 'Skydio', api: 'https://boards-api.greenhouse.io/v1/boards/skydio/jobs' },
-  { name: 'Hadrian', api: 'https://boards-api.greenhouse.io/v1/boards/hadrian/jobs' },
-  { name: 'Hermeus', api: 'https://boards-api.greenhouse.io/v1/boards/hermeus/jobs' },
-  { name: 'Rocket Lab', api: 'https://boards-api.greenhouse.io/v1/boards/rocketlab/jobs' },
-  { name: 'Joby Aviation', api: 'https://boards-api.greenhouse.io/v1/boards/jobyaviation/jobs' },
-  { name: 'Archer Aviation', api: 'https://boards-api.greenhouse.io/v1/boards/archeraviation/jobs' },
-  { name: 'Vast', api: 'https://boards-api.greenhouse.io/v1/boards/vast/jobs' },
+  { name: 'Scale AI', api: 'https://boards-api.greenhouse.io/v1/boards/scaleai/jobs' },
+  { name: 'Databricks', api: 'https://boards-api.greenhouse.io/v1/boards/databricks/jobs' },
+  { name: 'Clickhouse', api: 'https://boards-api.greenhouse.io/v1/boards/clickhouse/jobs' },
   { name: 'Aurora Innovation', api: 'https://boards-api.greenhouse.io/v1/boards/aurorainnovation/jobs' },
   { name: 'Nuro', api: 'https://boards-api.greenhouse.io/v1/boards/nuro/jobs' },
   { name: 'Zipline', api: 'https://boards-api.greenhouse.io/v1/boards/flyzipline/jobs' },
   { name: 'Figure AI', api: 'https://boards-api.greenhouse.io/v1/boards/figureai/jobs' },
   { name: 'Planet Labs', api: 'https://boards-api.greenhouse.io/v1/boards/planetlabs/jobs' },
-  { name: 'Scale AI', api: 'https://boards-api.greenhouse.io/v1/boards/scaleai/jobs' },
-  { name: 'Databricks', api: 'https://boards-api.greenhouse.io/v1/boards/databricks/jobs' },
-  { name: 'Confluent', api: 'https://boards-api.greenhouse.io/v1/boards/confluent/jobs' },
-  { name: 'Snowflake', api: 'https://boards-api.greenhouse.io/v1/boards/snowflake/jobs' },
-  { name: 'ClickHouse', api: 'https://boards-api.greenhouse.io/v1/boards/clickhouse/jobs' },
-  { name: 'Fivetran', api: 'https://boards-api.greenhouse.io/v1/boards/fivetran/jobs' },
-  { name: 'Prefect', api: 'https://boards-api.greenhouse.io/v1/boards/prefect/jobs' },
-  { name: 'Dagster', api: 'https://boards-api.greenhouse.io/v1/boards/dagsterlabs/jobs' },
+  { name: 'Rocket Lab', api: 'https://boards-api.greenhouse.io/v1/boards/rocketlab/jobs' },
+  { name: 'Vast', api: 'https://boards-api.greenhouse.io/v1/boards/vast/jobs' },
 ];
 
-function extractLocation(job) {
-  if (job.location && job.location.name) return job.location.name;
-  if (job.offices && job.offices.length > 0) return job.offices.map(o => o.name).join(', ');
-  return '';
+function matchesTitle(title) {
+  const t = title.toLowerCase();
+  const hasPositive = TITLE_POSITIVE.some(p => t.includes(p.toLowerCase()));
+  const hasNegative = TITLE_NEGATIVE.some(n => t.includes(n.toLowerCase()));
+  return hasPositive && !hasNegative;
 }
 
-function sleep(ms) {
-  return new Promise(resolve => setTimeout(resolve, ms));
+function acceptLocation(location) {
+  if (!location) return true; // no location = assume remote/any
+  const loc = location.toLowerCase();
+  // Accept known good locations
+  if (LOC_ACCEPT.some(a => loc.includes(a))) return true;
+  // NYC/Chicago only if 'remote' is also in location string
+  if (LOC_NYC_CHICAGO.some(c => loc.includes(c))) {
+    return loc.includes('remote');
+  }
+  // Reject non-US
+  if (LOC_REJECT_PATTERNS.some(r => loc.includes(r))) return false;
+  // Default: keep it (might be US-based unlisted city)
+  return true;
 }
 
-// Use curl sequentially via execSync - slower but won't trigger rate limits
-function fetchJobsCurl(company) {
+async function fetchCompany(company) {
   try {
-    const out = execSync(
-      `curl -s --max-time 20 -H "Accept: application/json" "${company.api}"`,
-      { timeout: 25000, stdio: ['pipe', 'pipe', 'ignore'] }
-    ).toString();
-    if (!out.trim()) return [];
-    const data = JSON.parse(out);
-    return data.jobs || [];
-  } catch (e) {
-    console.error(`  [${company.name}] error: ${e.message?.slice(0, 60)}`);
-    return [];
-  }
-}
-
-// Batched parallel fetch - groups of 5 with 1s delay between batches
-async function fetchAll(companies) {
-  const BATCH = 5;
-  const results = [];
-  for (let i = 0; i < companies.length; i += BATCH) {
-    const batch = companies.slice(i, i + BATCH);
-    const batchResults = await Promise.all(batch.map(async company => {
-      const jobs = fetchJobsCurl(company);
-      return { company: company.name, jobs };
+    const res = await fetch(company.api, {
+      headers: { 'Accept': 'application/json', 'User-Agent': 'career-ops/1.0' },
+      signal: AbortSignal.timeout(15000),
+    });
+    if (!res.ok) {
+      console.error(`[${company.name}] HTTP ${res.status}`);
+      return { company: company.name, jobs: [], error: `HTTP ${res.status}` };
+    }
+    const data = await res.json();
+    const jobs = (data.jobs || []).filter(j => {
+      if (!matchesTitle(j.title)) return false;
+      const loc = j.location?.name || '';
+      if (!acceptLocation(loc)) return false;
+      return true;
+    }).map(j => ({
+      id: String(j.id),
+      title: j.title,
+      url: j.absolute_url || `https://boards.greenhouse.io/embed/job_app?for=${j.id}`,
+      location: j.location?.name || '',
+      company: company.name,
     }));
+    return { company: company.name, jobs };
+  } catch (e) {
+    console.error(`[${company.name}] Error: ${e.message}`);
+    return { company: company.name, jobs: [], error: e.message };
+  }
+}
+
+async function main() {
+  const historyPath = path.join(__dirname, 'data/scan-history.tsv');
+  const pipelinePath = path.join(__dirname, 'data/pipeline.md');
+
+  // Load seen IDs from scan history
+  const seenIds = new Set();
+  try {
+    // Read last 50000 chars to catch recent entries without loading 3MB
+    const stat = fs.statSync(historyPath);
+    const readSize = Math.min(stat.size, 200000);
+    const buf = Buffer.alloc(readSize);
+    const fd = fs.openSync(historyPath, 'r');
+    fs.readSync(fd, buf, 0, readSize, stat.size - readSize);
+    fs.closeSync(fd);
+    const text = buf.toString('utf8');
+    // Also read the first line for header
+    const lines = text.split('\n');
+    for (const line of lines) {
+      const parts = line.split('\t');
+      if (parts.length >= 2) {
+        seenIds.add(parts[1].trim()); // URL or ID in col 2
+        seenIds.add(parts[0].trim()); // Sometimes ID in col 0
+      }
+    }
+  } catch (e) {
+    console.error('Could not read scan history:', e.message);
+  }
+
+  // Also grep full file for greenhouse job IDs to ensure dedup
+  // We'll check URL patterns like /jobs/NNNNNNN
+  const fullHistoryText = fs.readFileSync(historyPath, 'utf8');
+  const idRegex = /\/jobs\/(\d+)/g;
+  let m;
+  while ((m = idRegex.exec(fullHistoryText)) !== null) {
+    seenIds.add(m[1]);
+  }
+  // Also match boards.greenhouse.io patterns
+  const boardRegex = /greenhouse\.io[^\s\t]*?(\d{7,})/g;
+  while ((m = boardRegex.exec(fullHistoryText)) !== null) {
+    seenIds.add(m[1]);
+  }
+
+  console.log(`Loaded ${seenIds.size} seen IDs from scan history`);
+
+  // Also check pipeline.md for already-queued jobs
+  try {
+    const pipelineText = fs.readFileSync(pipelinePath, 'utf8');
+    const pipelineIds = pipelineText.match(/\/jobs\/(\d+)/g) || [];
+    for (const id of pipelineIds) {
+      seenIds.add(id.replace('/jobs/', ''));
+    }
+    const pipelineUrls = pipelineText.match(/https:\/\/[^\s\)]+/g) || [];
+    for (const url of pipelineUrls) {
+      seenIds.add(url.trim());
+    }
+  } catch (e) {
+    console.error('Could not read pipeline:', e.message);
+  }
+
+  // Fetch all companies in parallel batches of 10
+  const results = [];
+  for (let i = 0; i < COMPANIES.length; i += 10) {
+    const batch = COMPANIES.slice(i, i + 10);
+    const batchResults = await Promise.all(batch.map(fetchCompany));
     results.push(...batchResults);
-    if (i + BATCH < companies.length) await sleep(1200);
+    console.log(`Fetched batch ${Math.floor(i/10)+1}/${Math.ceil(COMPANIES.length/10)}`);
   }
-  return results;
-}
 
-console.error(`Fetching ${companies.length} Greenhouse APIs (batches of 5)...`);
-const results = await fetchAll(companies);
+  // Collect new jobs
+  const newJobs = [];
+  const today = new Date().toISOString().split('T')[0];
 
-const TODAY = new Date().toISOString().slice(0, 10);
-const newMatches = [];
-let totalJobs = 0;
-let failedCompanies = 0;
-
-for (const result of results) {
-  if (result.jobs.length === 0) {
-    failedCompanies++;
-    continue;
+  for (const r of results) {
+    if (r.error) continue;
+    for (const job of r.jobs) {
+      // Check if already seen by ID or URL
+      if (seenIds.has(job.id) || seenIds.has(job.url)) continue;
+      // Also check for ID in URL
+      const urlMatch = job.url.match(/(\d{7,})/);
+      if (urlMatch && seenIds.has(urlMatch[1])) continue;
+      newJobs.push(job);
+    }
   }
-  totalJobs += result.jobs.length;
-  let fresh = 0;
-  for (const job of result.jobs) {
-    const title = job.title || '';
-    const location = extractLocation(job);
-    const url = (job.absolute_url || '').split('#')[0]; // strip URL fragments (e.g. #open-roles)
-    if (!url || seenUrls.has(url)) continue;
-    if (!titleMatches(title)) continue;
-    if (!locationAccepted(location)) continue;
-    seenUrls.add(url);
-    newMatches.push({ company: result.company, title, url, location });
-    fresh++;
+
+  console.log(`\nFound ${newJobs.length} new matching jobs`);
+
+  if (newJobs.length === 0) {
+    console.log('No new jobs to add.');
+    process.exit(0);
   }
-  console.error(`  ✓ ${result.company}: ${result.jobs.length} jobs, ${fresh} new`);
-}
 
-console.error(`\nCompanies fetched: ${results.length - failedCompanies}/${companies.length}`);
-console.error(`Total jobs scanned: ${totalJobs}`);
-console.error(`New matches: ${newMatches.length}`);
-
-if (newMatches.length > 0) {
-  // Append to scan-history.tsv
-  const tsvLines = newMatches.map(m =>
-    `${m.url}\t${TODAY}\tgreenhouse-api\t${m.title}\t${m.company}\tmatched`
+  // Append to pipeline.md
+  const pipelineAppend = newJobs.map(j =>
+    `- ${j.url} <!-- ${j.company}: ${j.title} | ${j.location} | scout-quickcheck ${today} -->`
   ).join('\n') + '\n';
-  appendFileSync(historyPath, tsvLines);
-  console.error(`Appended ${newMatches.length} entries to scan-history.tsv`);
 
-  // Prepend section to pipeline.md
-  const pipelinePath = join(__dir, 'data/pipeline.md');
-  const pipelineContent = readFileSync(pipelinePath, 'utf8');
-  const seniorKeywords = ['Senior', 'Staff', 'Principal', 'Lead', 'Head', 'Director'];
-  const sorted = [...newMatches].sort((a, b) => {
-    const aS = seniorKeywords.some(k => a.title.includes(k)) ? 1 : 0;
-    const bS = seniorKeywords.some(k => b.title.includes(k)) ? 1 : 0;
-    return bS - aS;
-  });
-  const pipelineLines = sorted.map(m =>
-    `- [ ] ${m.url} | ${m.company} | ${m.title} | ${m.location}`
-  ).join('\n');
-  const section = `\n### Quick-Check Scan (${TODAY})\n\n${pipelineLines}\n`;
-  const updated = pipelineContent.replace(/## Pendientes\n/, `## Pendientes\n${section}`);
-  writeFileSync(pipelinePath, updated);
-  console.error(`Updated pipeline.md`);
+  fs.appendFileSync(pipelinePath, '\n' + pipelineAppend);
+  console.log(`Appended ${newJobs.length} jobs to pipeline.md`);
+
+  // Append to scan-history.tsv
+  const historyAppend = newJobs.map(j =>
+    `${today}\t${j.url}\t${j.company}\t${j.title}\t${j.location}\tquickcheck`
+  ).join('\n') + '\n';
+
+  fs.appendFileSync(historyPath, historyAppend);
+  console.log(`Appended to scan-history.tsv`);
+
+  // Write results summary to stdout as JSON for report generation
+  const summary = {
+    date: today,
+    total_new: newJobs.length,
+    by_company: {},
+    jobs: newJobs,
+    errors: results.filter(r => r.error).map(r => ({ company: r.company, error: r.error })),
+  };
+
+  for (const job of newJobs) {
+    if (!summary.by_company[job.company]) summary.by_company[job.company] = [];
+    summary.by_company[job.company].push(job.title);
+  }
+
+  fs.writeFileSync(
+    path.join(__dirname, 'reports', `scout-quickcheck-${today}-results.json`),
+    JSON.stringify(summary, null, 2)
+  );
+
+  console.log(JSON.stringify(summary));
 }
 
-console.log(JSON.stringify(newMatches));
+main().catch(e => {
+  console.error('Fatal:', e);
+  process.exit(1);
+});

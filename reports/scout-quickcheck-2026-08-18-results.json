@@ -1,0 +1,66 @@
+{
+  "date": "2026-08-18",
+  "total_new": 5,
+  "by_company": {
+    "Anthropic": [
+      "Software Engineering Manager, Network Security",
+      "Staff + Senior Software Engineer, Inference"
+    ],
+    "Intercom": [
+      "Engineering Manager - AI Helpdesk"
+    ],
+    "HelloFresh": [
+      "Senior Machine Learning Engineer [GROWTH]"
+    ],
+    "Wayve": [
+      "Data Engineer, Security Analytics"
+    ]
+  },
+  "jobs": [
+    {
+      "id": "5098092008",
+      "title": "Software Engineering Manager, Network Security",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5098092008",
+      "location": "San Francisco, CA | New York City, NY",
+      "company": "Anthropic"
+    },
+    {
+      "id": "5385998008",
+      "title": "Staff + Senior Software Engineer, Inference",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385998008",
+      "location": "Ontario, CAN",
+      "company": "Anthropic"
+    },
+    {
+      "id": "5298461",
+      "title": "Engineering Manager - AI Helpdesk",
+      "url": "https://job-boards.greenhouse.io/intercom/jobs/5298461",
+      "location": "Dublin, Ireland",
+      "company": "Intercom"
+    },
+    {
+      "id": "8119649",
+      "title": "Senior Machine Learning Engineer [GROWTH]",
+      "url": "https://careers.hellofresh.com/global/en/job/8119649?gh_jid=8119649",
+      "location": "Warszawa, Masovian Voivodeship, Poland",
+      "company": "HelloFresh"
+    },
+    {
+      "id": "8716080002",
+      "title": "Data Engineer, Security Analytics",
+      "url": "https://wayve.firststage.co/jobs?gh_jid=8716080002",
+      "location": "Sunnyvale",
+      "company": "Wayve"
+    }
+  ],
+  "errors": [
+    {
+      "company": "Anduril",
+      "error": "The operation was aborted due to timeout"
+    },
+    {
+      "company": "Aurora Innovation",
+      "error": "HTTP 404"
+    }
+  ]
+}
