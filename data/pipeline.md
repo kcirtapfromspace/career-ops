@@ -1,5 +1,17 @@
 # Pipeline — Pending Offers
 
+## 2026-08-18 — Scout Quick Check (Greenhouse API only)
+
+> 41 companies — Greenhouse API only. Dedup against 22,707 history entries. **4 new matches** (Anthropic ×2, Temporal ×1, Databricks ×1). 2 Anduril roles found but rejected (Reston, VA — relocation required). No full evaluations — discovery only.
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5302966008 | Anthropic | Forward Deployed Engineer | New York City, NY / San Francisco, CA / Seattle, WA | FDE role at Anthropic — exactly the archetype. SF and Seattle both accepted. High priority.
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5098092008 | Anthropic | Software Engineering Manager, Network Security | San Francisco, CA / New York City, NY | EM in Network Security at Anthropic. SF location accepted. Evaluate fit vs infra/platform EM preference.
+
+- [ ] https://job-boards.greenhouse.io/temporaltechnologies/jobs/5214260007 | Temporal | Staff Software Engineer, Traffic | US Remote | Staff-level, remote. Temporal = workflow orchestration. Patrick's Argo/K8s background is direct fit. Traffic team = routing/load balancing layer.
+
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8657488002 | Databricks | Sr. Forward Deployed Engineer (FDE) - Public Sector | Remote - Virginia / Remote - DC | FDE at Databricks targeting public sector. Remote-eligible. Patrick's data platform depth + AI experience = strong match. Public sector = defense/government exposure.
+
 ## 2026-08-15 — Full Portal Scan (Greenhouse API + WebSearch)
 
 > 24 companies — Greenhouse API (20 boards) + WebSearch (4). Dedup against 22,596 history entries. **0 new high-fit matches** — pipeline is current from 08-14 quickcheck. 1 new low-fit discovery (filtered). Report: [scout-2026-08-15.md](../reports/scout-2026-08-15.md)
