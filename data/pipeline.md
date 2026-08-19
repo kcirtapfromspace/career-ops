@@ -6848,3 +6848,10 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - https://helsing.ai/jobs/4953565101?gh_jid=4953565101 | Helsing — Software Engineer, Platform Engineering | Washington, DC | added:2026-08-18
 - https://helsing.ai/jobs/4953558101?gh_jid=4953558101 | Helsing — Software Engineer, Rust | Washington, DC | added:2026-08-18
 - https://wayve.firststage.co/jobs?gh_jid=8724862002 | Wayve — Principal Machine Learning Engineer, Geometric Vision | Sunnyvale | added:2026-08-18
+
+## 2026-08-19 (Quick Check — Greenhouse APIs)
+
+- https://job-boards.greenhouse.io/anthropic/jobs/5392856008 <!-- Anthropic: DevOps / AgentOps Engineer, GTM Systems | San Francisco, CA | scout-quickcheck 2026-08-19 -->
+- https://job-boards.greenhouse.io/anthropic/jobs/5394948008 <!-- Anthropic: Staff+ Software Engineer, Platform Connectivity | SF / London | scout-quickcheck 2026-08-19 -->
+- https://job-boards.greenhouse.io/anthropic/jobs/5394943008 <!-- Anthropic: Staff+ Software Engineer, Product Sandboxing | SF / NYC / Seattle | scout-quickcheck 2026-08-19 -->
+- https://job-boards.greenhouse.io/vercel/jobs/5649459004 <!-- Vercel: Software Engineer, Trust & Safety | Hybrid SF/NYC | scout-quickcheck 2026-08-19 -->
