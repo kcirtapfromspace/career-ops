@@ -1,5 +1,29 @@
 # Pipeline — Pending Offers
 
+## 2026-08-19 — Full Portal Scan (Greenhouse API + WebSearch)
+
+> 25 companies — Greenhouse API (14 boards) + WebSearch (Confluent, Netflix, Prefect, Anduril) + cross-portal queries. Dedup against 22,707 history entries + pipeline.md review. **8 new matches** (Anthropic ×4, Planet Labs ×1, Confluent ×2, Anthropic-IC ×1). Report: [scout-2026-08-19.md](../reports/scout-2026-08-19.md)
+
+#### Top Picks (4.0+)
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5297059008 | Anthropic | Engineering Manager, Research Data Platform | San Francisco, CA / New York City, NY | ★ 4.4/5 — $405K–850K base. Build the data platform Anthropic's researchers depend on. "Platform as a product" framing = direct match to VA.gov Watchtower + Colorado Payroll. Influence-without-authority leadership = documented strength. Top-scoring role of this scan.
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5125387008 | Anthropic | Data Engineering Manager, Product | San Francisco, CA / New York City, NY / Seattle, WA | ★ 4.2/5 — $405K–485K base. Lead analytics engineering across 5 product pillars. dbt + data modeling + ETL leadership. HHS NLP data pipeline + Colorado Payroll are direct proof points. SF + Seattle accepted.
+
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/8016466 | Planet Labs | Senior Data Engineer | Denver, CO (Hybrid 3d/wk) | ★ 4.0/5 — $160,600–$200,800. Denver HQ, hybrid 3 days/week. Defense/intel satellite data pipelines = federal background match. Python/SQL/GCP/K8s stack match. Apply immediately — Denver local role.
+
+#### Good Matches (3.5–3.9)
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5371065008 | Anthropic | Engineering Manager, Search | San Francisco, CA / New York City, NY | ★ 3.8/5 — New Anthropic EM role, Search team. Comp at $405K+ band. EM archetype match; domain is search infrastructure.
+
+- [ ] https://jobs.ashbyhq.com/confluent/29920de0-8dfc-4ea4-a97e-9e4a2f4ec083 | Confluent | Staff Software Engineer I - SRE | Remote (verify) | ★ 3.8/5 — The Kafka company. Patrick uses Kafka daily. SRE Staff = observability/reliability background match. Confluent is remote-first.
+
+- [ ] https://jobs.ashbyhq.com/confluent/79c5035c-4266-40f0-86e1-84d067ed77b1 | Confluent | Staff Software Engineer - Flink SQL | Remote (verify) | ★ 3.7/5 — Flink SQL stream processing at Kafka company. Staff level. Adjacent to Patrick's streaming/CDC expertise.
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5240422008 | Anthropic | Data Engineer, Safeguards | San Francisco, CA / New York City, NY | ★ 3.7/5 — IC data engineering role at Anthropic Safeguards. Safety-critical = federal-adjacent framing. Lower priority vs EM roles.
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5361472008 | Anthropic | Engineering Manager, Growth | San Francisco, CA / New York City, NY / Seattle, WA | ★ 3.7/5 — Growth EM at Anthropic. More product/business metrics focused than data platform. SF + Seattle accepted.
+
 ## 2026-08-18 — Scout Quick Check (Greenhouse API only)
 
 > 41 companies — Greenhouse API only. Dedup against 22,707 history entries. **4 new matches** (Anthropic ×2, Temporal ×1, Databricks ×1). 2 Anduril roles found but rejected (Reston, VA — relocation required). No full evaluations — discovery only.
