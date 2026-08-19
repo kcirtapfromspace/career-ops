@@ -1,5 +1,15 @@
 # Pipeline — Pending Offers
 
+## 2026-08-19 — Scout Quick Check #2 (Greenhouse API only)
+
+> 42 companies — Greenhouse API only. Dedup against 22,800 history entries. **1 new match** (Anduril ×1). No full evaluations — discovery only.
+
+#### New Discovery
+
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5212860007?gh_jid=5212860007 | Anduril | Staff AI Infrastructure Engineer | Costa Mesa, CA / Seattle, WA / Washington, DC | ★ TBD — Staff-level AI infra at Anduril (dream company). Seattle is accepted location. Run full evaluation before applying.
+
+---
+
 ## 2026-08-19 — Full Portal Scan (Greenhouse API + WebSearch)
 
 > 25 companies — Greenhouse API (14 boards) + WebSearch (Confluent, Netflix, Prefect, Anduril) + cross-portal queries. Dedup against 22,707 history entries + pipeline.md review. **8 new matches** (Anthropic ×4, Planet Labs ×1, Confluent ×2, Anthropic-IC ×1). Report: [scout-2026-08-19.md](../reports/scout-2026-08-19.md)
