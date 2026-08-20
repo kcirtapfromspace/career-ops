@@ -1,5 +1,23 @@
 # Pipeline — Pending Offers
 
+## 2026-08-20 — Full Portal Scan (Greenhouse API + WebSearch + Ashby)
+
+> ~25 companies — Greenhouse API + WebSearch (Plaid, Abnormal Security, Built Technologies, Voleon) + Ashby boards. Dedup against 23,657 history entries. **4 new matches**. Report: [scout-2026-08-20.md](../reports/scout-2026-08-20.md)
+
+#### Top Picks (4.0+)
+
+- [ ] https://jobs.ashbyhq.com/plaid/127d31ff-3a16-488b-ba01-6e87dbb96957 | Plaid | Staff Software Engineer - Data Infrastructure | San Francisco, CA (relocation ok) | ★ 4.4/5 — $207,600–$273,600. Direct Spark/Lakehouse/Databricks data infra match. Billions of financial transactions = VA.gov/Colorado Payroll scale. SF on relocation list. Strong fintech-infra archetype fit.
+
+- [ ] https://abnormal.ai/careers/jobs/7679429003?gh_jid=7679429003 | Abnormal Security | Staff Software Engineer, Security & Privacy | Remote USA | ★ 4.0/5 — $210,400–$302,500. Golang + Python, fully remote, comp well above target. Distributed systems + backend scope. Evaluate for remote + comp upside.
+
+#### Good Matches (3.5–3.9)
+
+- [ ] https://job-boards.greenhouse.io/getbuilt/jobs/4706138005 | Built Technologies | Staff Software Engineer, Data Platform | Remote USA | ★ 3.6/5 — $170,000–$245,000. Kafka/dbt/Snowflake stack match, remote. TypeScript-heavy, real-estate fintech domain. Evaluate if queue is light.
+
+- [ ] https://jobs.ashbyhq.com/voleon/7d01eb5a-ca88-4c16-b2a2-4ec0a64b3a98 | The Voleon Group | Staff Software Engineer, Data Infrastructure | Berkeley, CA | ★ 3.4/5 — Comp unknown. Data infra at quantitative hedge fund. Opaque comp, finance domain not primary. Low priority.
+
+---
+
 ## 2026-08-19 — Scout Quick Check #2 (Greenhouse API only)
 
 > 42 companies — Greenhouse API only. Dedup against 22,800 history entries. **1 new match** (Anduril ×1). No full evaluations — discovery only.
