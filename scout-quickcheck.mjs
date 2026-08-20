@@ -5,7 +5,7 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const TODAY = '2026-06-16';
+const TODAY = '2026-08-20';
 const RUN_ID = `quickcheck-${TODAY}`;
 
 // Title filters (from portals.yml + task spec)

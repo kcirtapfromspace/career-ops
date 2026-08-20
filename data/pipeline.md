@@ -6883,3 +6883,14 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - https://job-boards.greenhouse.io/anthropic/jobs/5394948008 <!-- Anthropic: Staff+ Software Engineer, Platform Connectivity | SF / London | scout-quickcheck 2026-08-19 -->
 - https://job-boards.greenhouse.io/anthropic/jobs/5394943008 <!-- Anthropic: Staff+ Software Engineer, Product Sandboxing | SF / NYC / Seattle | scout-quickcheck 2026-08-19 -->
 - https://job-boards.greenhouse.io/vercel/jobs/5649459004 <!-- Vercel: Software Engineer, Trust & Safety | Hybrid SF/NYC | scout-quickcheck 2026-08-19 -->
+
+- [ ] [Anthropic — Staff+ Software Engineer, Claude Managed Agents](https://job-boards.greenhouse.io/anthropic/jobs/5395767008) <!-- San Francisco, CA | New York City, NY | scout 2026-08-20 -->
+- [ ] [Anthropic — Staff+ Software Engineer, Platform Distribution](https://job-boards.greenhouse.io/anthropic/jobs/5397005008) <!-- San Francisco, CA | New York City, NY | scout 2026-08-20 -->
+- [ ] [Anthropic — Staff+ Software Engineer, Platform Portability ](https://job-boards.greenhouse.io/anthropic/jobs/5397131008) <!-- San Francisco, CA | New York City, NY | Seattle, WA | scout 2026-08-20 -->
+- [ ] [Anduril — Staff Software Engineer, Maritime Enabling Technology](https://boards.greenhouse.io/andurilindustries/jobs/5217783007?gh_jid=5217783007) <!-- Quincy, Massachusetts, United States | scout 2026-08-20 -->
+- [ ] [HelloFresh — Backend Engineer, Operations Technology](https://careers.hellofresh.com/global/en/job/8105178?gh_jid=8105178) <!-- Toronto, Ontario, Canada | scout 2026-08-20 -->
+- [ ] [HelloFresh — [US-DC] Fulfillment Lead](https://careers.hellofresh.com/global/en/job/8144546?gh_jid=8144546) <!-- Lake Zurich, Illinois, United States | scout 2026-08-20 -->
+- [ ] [Wayve — Data Engineer, Security Analytics](https://wayve.firststage.co/jobs?gh_jid=8716080002) <!-- Sunnyvale | scout 2026-08-20 -->
+- [ ] [Wayve — Full Stack Software Engineer, Evaluation Tools](https://wayve.firststage.co/jobs?gh_jid=8733546002) <!-- Sunnyvale | scout 2026-08-20 -->
+- [ ] [Wayve — Senior Software Engineer, Fleet Management](https://wayve.firststage.co/jobs?gh_jid=8732317002) <!-- Sunnyvale | scout 2026-08-20 -->
+- [ ] [Zipline — Associate Maintenance Operations Engineering Lead, Test Sites](https://www.zipline.com/open-roles?gh_jid=7907661003) <!-- South San Francisco, California, USA | scout 2026-08-20 -->
