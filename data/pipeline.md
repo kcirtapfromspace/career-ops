@@ -1,5 +1,15 @@
 # Pipeline — Pending Offers
 
+## 2026-08-20 — Scout Quick Check #3 (Greenhouse API only)
+
+> 41 companies — Greenhouse API only. Dedup against 23,781 history entries. **1 new match** (Clickhouse ×1). Report: [scout-quickcheck-2026-08-20.md](../reports/scout-quickcheck-2026-08-20.md)
+
+#### New Discovery
+
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/6130197004 | Clickhouse | Cloud Software Engineer - Observability Platform | United States (remote) | ★ TBD — Staff-eligible SWE for observability platform at Clickhouse (fast OLAP DB). Remote US. Evaluate before applying.
+
+---
+
 ## 2026-08-20 — Full Portal Scan (Greenhouse API + WebSearch + Ashby)
 
 > ~25 companies — Greenhouse API + WebSearch (Plaid, Abnormal Security, Built Technologies, Voleon) + Ashby boards. Dedup against 23,657 history entries. **4 new matches**. Report: [scout-2026-08-20.md](../reports/scout-2026-08-20.md)
