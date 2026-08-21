@@ -6904,3 +6904,13 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - [ ] [Wayve — Full Stack Software Engineer, Evaluation Tools](https://wayve.firststage.co/jobs?gh_jid=8733546002) <!-- Sunnyvale | scout 2026-08-20 -->
 - [ ] [Wayve — Senior Software Engineer, Fleet Management](https://wayve.firststage.co/jobs?gh_jid=8732317002) <!-- Sunnyvale | scout 2026-08-20 -->
 - [ ] [Zipline — Associate Maintenance Operations Engineering Lead, Test Sites](https://www.zipline.com/open-roles?gh_jid=7907661003) <!-- South San Francisco, California, USA | scout 2026-08-20 -->
+
+## 2026-08-21 (Scout Scan)
+
+> 42 companies — Greenhouse API + Ashby/Lever WebSearch. Dedup against 23,783 history entries. **5 new matches**. Report: [scout-2026-08-21.md](../reports/scout-2026-08-21.md)
+
+- [ ] [Okta — Staff Software Engineer, Data Platform](https://job-boards.greenhouse.io/okta/jobs/8045905) <!-- US Remote (likely) | scout 2026-08-21 | score 5.0/5 -->
+- [ ] [Sonatype — Staff Data Engineer](https://jobs.lever.co/sonatype/3ed1d047-ed16-4b1e-a41a-e9071d6d5fc0) <!-- US Remote | scout 2026-08-21 | score 4.5/5 -->
+- [ ] [Temporal — Senior Software Engineer, Cloud Growth](https://job-boards.greenhouse.io/temporaltechnologies/jobs/5218240007) <!-- US Remote | scout 2026-08-21 | score 4.0/5 -->
+- [ ] [EnergyHub — Staff Software Engineer, Data and Partner Platform](https://job-boards.greenhouse.io/energyhub/jobs/8659800002) <!-- US (remote/NYC) | scout 2026-08-21 | score 4.0/5 -->
+- [ ] [SentiLink — Senior Software Engineer, Data Platform](https://jobs.ashbyhq.com/sentilink/a2463ea0-6585-429c-95f2-10dc4a8cdae8) <!-- US Remote | scout 2026-08-21 | score 4.0/5 -->
