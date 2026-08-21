@@ -6926,3 +6926,14 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - [ ] [Temporal — Senior Software Engineer, Cloud Growth](https://job-boards.greenhouse.io/temporaltechnologies/jobs/5218240007) <!-- US Remote | scout 2026-08-21 | score 4.0/5 -->
 - [ ] [EnergyHub — Staff Software Engineer, Data and Partner Platform](https://job-boards.greenhouse.io/energyhub/jobs/8659800002) <!-- US (remote/NYC) | scout 2026-08-21 | score 4.0/5 -->
 - [ ] [SentiLink — Senior Software Engineer, Data Platform](https://jobs.ashbyhq.com/sentilink/a2463ea0-6585-429c-95f2-10dc4a8cdae8) <!-- US Remote | scout 2026-08-21 | score 4.0/5 -->
+
+## 2026-08-21 (Quickcheck Scan)
+
+- [ ] [Wayve — Engineering Manager, Cloud Infrastructure ](https://wayve.firststage.co/jobs?gh_jid=8735504002) <!-- Sunnyvale | quickcheck 2026-08-21 -->
+- [ ] [Wayve — Software Engineer, Fleet Management](https://wayve.firststage.co/jobs?gh_jid=8735204002) <!-- Sunnyvale | quickcheck 2026-08-21 -->
+- [ ] [Rocket Lab — Senior Machine Learning Engineer I](https://job-boards.greenhouse.io/rocketlab/jobs/7918621003) <!-- Long Beach, CA | quickcheck 2026-08-21 -->
+- [ ] [Rocket Lab — Senior Machine Learning Engineer I](https://job-boards.greenhouse.io/rocketlab/jobs/7919024003) <!-- Tucson, AZ | quickcheck 2026-08-21 -->
+- [ ] [Rocket Lab — Senior Machine Learning Engineer I](https://job-boards.greenhouse.io/rocketlab/jobs/7918886003) <!-- Chantilly, VA | quickcheck 2026-08-21 -->
+- [ ] [Rocket Lab — Senior Machine Learning Engineer II](https://job-boards.greenhouse.io/rocketlab/jobs/7918761003) <!-- Chantilly, VA | quickcheck 2026-08-21 -->
+- [ ] [Rocket Lab — Senior Machine Learning Engineer II](https://job-boards.greenhouse.io/rocketlab/jobs/7919020003) <!-- Tucson, AZ | quickcheck 2026-08-21 -->
+- [ ] [Rocket Lab — Senior Machine Learning Engineer II](https://job-boards.greenhouse.io/rocketlab/jobs/7917743003) <!-- Long Beach, CA | quickcheck 2026-08-21 -->
