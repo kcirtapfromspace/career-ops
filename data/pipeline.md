@@ -1,5 +1,17 @@
 # Pipeline — Pending Offers
 
+## 2026-08-21 — Scout Quick Check #4 (Greenhouse API only)
+
+> 41 companies — Greenhouse API only. Dedup against scan history. **2 new matches** (Anthropic ×2). Report: [scout-quickcheck-2026-08-21.md](../reports/scout-quickcheck-2026-08-21.md)
+
+#### New Discovery
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5398227008 | Anthropic | Staff+ Software Engineer, Auth & Identity | San Francisco, CA (NYC also listed) | ★ TBD — Staff+ SWE for Auth & Identity at Anthropic (dream company). SF location accepted. High priority — evaluate before applying.
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5398218008 | Anthropic | Staff+ Software Engineer, Developer Experience | San Francisco, CA (NYC also listed) | ★ TBD — Staff+ SWE for Developer Experience at Anthropic (dream company). SF location accepted. High priority — evaluate before applying.
+
+---
+
 ## 2026-08-20 — Scout Quick Check #3 (Greenhouse API only)
 
 > 41 companies — Greenhouse API only. Dedup against 23,781 history entries. **1 new match** (Clickhouse ×1). Report: [scout-quickcheck-2026-08-20.md](../reports/scout-quickcheck-2026-08-20.md)
