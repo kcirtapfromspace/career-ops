@@ -1,5 +1,23 @@
 # Pipeline — Pending Offers
 
+## 2026-08-22 — Full Portal Scan (40+ companies + Cribl discovery)
+
+> 40+ companies — Greenhouse API + WebSearch cross-portal. Dedup against 23,801 history entries. **4 new matches** (all Cribl — new company not previously tracked). Report: [scout-2026-08-22.md](../reports/scout-2026-08-22.md)
+
+#### Top Picks (4.0+)
+
+- [ ] https://cribl.io/job-detail/?gh_jid=5818194004 | Cribl | Engineering Manager, Stream Integrations | Remote US | ★ 4.5/5 — $200K–$280K. Cribl Stream routes petabytes of telemetry data — Patrick's exact domain. FedRAMP experience is a differentiator (VA.gov/HHS background). Remote-first. Highest priority in this scan.
+
+#### Good Matches (3.5–3.9)
+
+- [ ] https://cribl.io/job-detail/?gh_jid=6105922004 | Cribl | Staff Software Engineer, Infrastructure | Remote US | ★ 3.8/5 — $185K–$245K. Distributed SaaS infra match but Node.js/Azure gaps.
+
+- [ ] https://cribl.io/job-detail/?gh_jid=6135124004 | Cribl | Staff Data Engineer | Remote US | ★ 3.5/5 — $170K–$220K. Snowflake expertise is #1 req (gap); dbt/Prefect/AWS match. Comp low end.
+
+- [ ] https://cribl.io/job-detail/?gh_jid=5992317004 | Cribl | Staff Software Engineer, Cribl AI | Remote US | ★ 3.5/5 — $225K–$265K. AI productionization + strong comp but TypeScript-heavy stack gap.
+
+---
+
 ## 2026-08-21 — Scout Quick Check #4 (Greenhouse API only)
 
 > 41 companies — Greenhouse API only. Dedup against scan history. **2 new matches** (Anthropic ×2). Report: [scout-quickcheck-2026-08-21.md](../reports/scout-quickcheck-2026-08-21.md)
