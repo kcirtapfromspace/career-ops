@@ -6965,3 +6965,495 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - [ ] [Rocket Lab — Senior Machine Learning Engineer II](https://job-boards.greenhouse.io/rocketlab/jobs/7918761003) <!-- Chantilly, VA | quickcheck 2026-08-21 -->
 - [ ] [Rocket Lab — Senior Machine Learning Engineer II](https://job-boards.greenhouse.io/rocketlab/jobs/7919020003) <!-- Tucson, AZ | quickcheck 2026-08-21 -->
 - [ ] [Rocket Lab — Senior Machine Learning Engineer II](https://job-boards.greenhouse.io/rocketlab/jobs/7917743003) <!-- Long Beach, CA | quickcheck 2026-08-21 -->
+
+## Quick-check scan 2026-08-23
+
+- [ ] Anthropic — AI Infrastructure Operations, Demand Planning | San Francisco, CA | New York City, NY | https://job-boards.greenhouse.io/anthropic/jobs/5382750008
+- [ ] Anthropic — Applied AI Engineer, Enterprise Tech | San Francisco, CA | New York City, NY | Seattle, WA | https://job-boards.greenhouse.io/anthropic/jobs/5057647008
+- [ ] Anthropic — Community Engagement Manager, Data Centers (Texas) | Austin, TX | Remote-Friendly, United States | https://job-boards.greenhouse.io/anthropic/jobs/5391983008
+- [ ] Anthropic — Community Engagement Manager, Data Centres (Australia) | Sydney, Australia | Remote-Friendly, Australia | https://job-boards.greenhouse.io/anthropic/jobs/5391999008
+- [ ] Anthropic — Community Engagement Manager, Data Centres (Canada) | Alberta, CAN | Remote-Friendly, Canada | https://job-boards.greenhouse.io/anthropic/jobs/5391974008
+- [ ] Anthropic — Data Engineer, Safeguards | San Francisco, CA | New York City, NY | https://job-boards.greenhouse.io/anthropic/jobs/5240422008
+- [ ] Anthropic — DevOps / AgentOps Engineer, GTM Systems | San Francisco, CA | https://job-boards.greenhouse.io/anthropic/jobs/5392856008
+- [ ] Anthropic — Engineering Manager, Cybersecurity Products | San Francisco, CA | New York City, NY | https://job-boards.greenhouse.io/anthropic/jobs/5236531008
+- [ ] Anthropic — Engineering Manager, Enterprise | San Francisco, CA | https://job-boards.greenhouse.io/anthropic/jobs/5255912008
+- [ ] Anthropic — Engineering Manager, Research Data Platform | San Francisco, CA | New York City, NY | https://job-boards.greenhouse.io/anthropic/jobs/5297059008
+- [ ] Anthropic — Engineering Manager, Research Productivity | San Francisco, CA | New York City, NY | https://job-boards.greenhouse.io/anthropic/jobs/5223093008
+- [ ] Anthropic — Engineering Manager, Safeguards Interventions | San Francisco, CA | https://job-boards.greenhouse.io/anthropic/jobs/5322723008
+- [ ] Anthropic — Engineering Manager, Safeguards Review Tooling | San Francisco, CA | https://job-boards.greenhouse.io/anthropic/jobs/5013366008
+- [ ] Anthropic — Engineering Manager, Search | San Francisco, CA | New York City, NY | https://job-boards.greenhouse.io/anthropic/jobs/5371065008
+- [ ] Anthropic — Engineering Manager, UI Platform | San Francisco, CA | New York City, NY | Seattle, WA | https://job-boards.greenhouse.io/anthropic/jobs/5117296008
+- [ ] Anthropic — Full Stack Engineer, Education Labs | San Francisco, CA | New York City, NY | https://job-boards.greenhouse.io/anthropic/jobs/5097186008
+- [ ] Anthropic — Manager, Applied AI Engineering,  Beneficial Deployments (Life Sciences) | San Francisco, CA | New York City, NY | https://job-boards.greenhouse.io/anthropic/jobs/5277834008
+- [ ] Anthropic — Manager, Infrastructure Capex Accounting | San Francisco, CA | Seattle, WA | https://job-boards.greenhouse.io/anthropic/jobs/5357961008
+- [ ] Anthropic — Software Engineer, Desktop | San Francisco, CA | New York City, NY | https://job-boards.greenhouse.io/anthropic/jobs/5367585008
+- [ ] Anthropic — Software Engineer, Infrastructure, Interpretability | San Francisco, CA | https://job-boards.greenhouse.io/anthropic/jobs/5388612008
+- [ ] Anthropic — Software Engineer, ML Networking | San Francisco, CA | New York City, NY | Seattle, WA | https://job-boards.greenhouse.io/anthropic/jobs/4926242008
+- [ ] Anthropic — Software Engineer, Research Data Platform | San Francisco, CA | New York City, NY | https://job-boards.greenhouse.io/anthropic/jobs/5191226008
+- [ ] Anthropic — Staff + Senior Software Engineer, Inference | San Francisco, CA | New York City, NY | Seattle, WA | https://job-boards.greenhouse.io/anthropic/jobs/5245851008
+- [ ] Anthropic — Staff+ Site Reliability Engineer, Safeguards ML Infra | Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY | https://job-boards.greenhouse.io/anthropic/jobs/5230394008
+- [ ] Anthropic — Staff+ Software Engineer, Auth & Identity | San Francisco, CA | New York City, NY | https://job-boards.greenhouse.io/anthropic/jobs/5398227008
+- [ ] Anthropic — Staff+ Software Engineer, Caching | San Francisco, CA | New York City, NY | Seattle, WA | https://job-boards.greenhouse.io/anthropic/jobs/5301737008
+- [ ] Anthropic — Staff Software Engineer, Claude Code | San Francisco, CA | New York City, NY | Seattle, WA | https://job-boards.greenhouse.io/anthropic/jobs/5383610008
+- [ ] Anthropic — Staff Software Engineer, Claude Design | San Francisco, CA | New York City, NY | Seattle, WA | https://job-boards.greenhouse.io/anthropic/jobs/5229345008
+- [ ] Anthropic — Staff+ Software Engineer, Claude Managed Agents | San Francisco, CA | New York City, NY | https://job-boards.greenhouse.io/anthropic/jobs/5395767008
+- [ ] Anthropic — Staff+ Software Engineer, Claude Science | San Francisco, CA | https://job-boards.greenhouse.io/anthropic/jobs/5368040008
+- [ ] Anthropic — Staff Software Engineer, Code RL | San Francisco, CA | New York City, NY | Seattle, WA | https://job-boards.greenhouse.io/anthropic/jobs/5370690008
+- [ ] Anthropic — Staff+ Software Engineer, Databases | San Francisco, CA | New York City, NY | Seattle, WA | https://job-boards.greenhouse.io/anthropic/jobs/5301750008
+- [ ] Anthropic — Staff+ Software Engineer, Developer Acceleration | San Francisco, CA | Seattle, WA | https://job-boards.greenhouse.io/anthropic/jobs/5290360008
+- [ ] Anthropic — Staff+ Software Engineer, Developer Experience | San Francisco, CA | New York City, NY | https://job-boards.greenhouse.io/anthropic/jobs/5398218008
+- [ ] Anthropic — Staff Software Engineer, Education | San Francisco, CA | New York City, NY | https://job-boards.greenhouse.io/anthropic/jobs/5389305008
+- [ ] Anthropic — Staff+ Software Engineer, Enterprise | San Francisco, CA | New York City, NY | https://job-boards.greenhouse.io/anthropic/jobs/5288742008
+- [ ] Anthropic — Staff+ Software Engineer, Enterprise AI Products | San Francisco, CA | New York City, NY | https://job-boards.greenhouse.io/anthropic/jobs/5368034008
+- [ ] Anthropic — Staff+ Software Engineer, Enterprise Knowledge Work | San Francisco, CA | New York City, NY | https://job-boards.greenhouse.io/anthropic/jobs/5289450008
+- [ ] Anthropic — Staff Software Engineer, Environments Infrastructure | San Francisco, CA | New York City, NY | https://job-boards.greenhouse.io/anthropic/jobs/5367436008
+- [ ] Anthropic — Staff+ Software Engineer, Experimentation | San Francisco, CA | Seattle, WA | https://job-boards.greenhouse.io/anthropic/jobs/5290468008
+- [ ] Anthropic — Staff Software Engineer, Growth  | San Francisco, CA | New York City, NY | Seattle, WA | https://job-boards.greenhouse.io/anthropic/jobs/5363469008
+- [ ] Anthropic — Staff+ Software Engineer, Inference Runtime | Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY | https://job-boards.greenhouse.io/anthropic/jobs/5257650008
+- [ ] Anthropic — Staff+ Software Engineer, Infrastructure (Distributed Systems) | San Francisco, CA | New York City, NY | Seattle, WA | https://job-boards.greenhouse.io/anthropic/jobs/4970314008
+- [ ] Anthropic — Staff Software Engineer, Labs: Applied AI | San Francisco, CA | New York City, NY | https://job-boards.greenhouse.io/anthropic/jobs/5304425008
+- [ ] Anthropic — Staff+ Software Engineer, Platform Connectivity | London, UK; San Francisco, CA | https://job-boards.greenhouse.io/anthropic/jobs/5394948008
+- [ ] Anthropic — Staff+ Software Engineer, Platform Distribution | San Francisco, CA | New York City, NY | https://job-boards.greenhouse.io/anthropic/jobs/5397005008
+- [ ] Anthropic — Staff+ Software Engineer, Platform Ecosystem | San Francisco, CA | New York City, NY | https://job-boards.greenhouse.io/anthropic/jobs/5392335008
+- [ ] Anthropic — Staff+ Software Engineer, Platform Portability  | San Francisco, CA | New York City, NY | Seattle, WA | https://job-boards.greenhouse.io/anthropic/jobs/5397131008
+- [ ] Anthropic — Staff+ Software Engineer, Privacy | San Francisco, CA | New York City, NY | Seattle, WA | https://job-boards.greenhouse.io/anthropic/jobs/5383114008
+- [ ] Anthropic — Staff+ Software Engineer, Product Sandboxing | San Francisco, CA | New York City, NY | Seattle, WA | https://job-boards.greenhouse.io/anthropic/jobs/5394943008
+- [ ] Anthropic — Staff+ Software Engineer, Safeguards Data  | San Francisco, CA | New York City, NY | https://job-boards.greenhouse.io/anthropic/jobs/5379140008
+- [ ] Anthropic — Staff+ Software Engineer, Safeguards Evals  | San Francisco, CA | New York City, NY | https://job-boards.greenhouse.io/anthropic/jobs/5251671008
+- [ ] Anthropic — Staff Software Engineer, Web Platform | San Francisco, CA | https://job-boards.greenhouse.io/anthropic/jobs/5305402008
+- [ ] Anthropic — Technical Program Manager, Databases | San Francisco, CA | Seattle, WA | https://job-boards.greenhouse.io/anthropic/jobs/5251612008
+- [ ] Anthropic — Technical Program Manager, Data Center Infrastructure | San Francisco, CA | New York City, NY | Seattle, WA | https://job-boards.greenhouse.io/anthropic/jobs/5013743008
+- [ ] Anthropic — Technical Program Manager, Infrastructure | San Francisco, CA | New York City, NY | Seattle, WA | https://job-boards.greenhouse.io/anthropic/jobs/5111783008
+- [ ] Anduril — 2026 Early Career Software Engineer | Atlanta, Georgia, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Seattle, Washington, United States | https://boards.greenhouse.io/andurilindustries/jobs/4802146007?gh_jid=4802146007
+- [ ] Anduril — 2027 Early Career Software Engineer  | Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States | https://boards.greenhouse.io/andurilindustries/jobs/5162263007?gh_jid=5162263007
+- [ ] Anduril — C++ Mission Software Engineer, Mission Autonomy | Costa Mesa, California, United States; Seattle, Washington, United States; Washington, District of Columbia, United States | https://boards.greenhouse.io/andurilindustries/jobs/5125189007?gh_jid=5125189007
+- [ ] Anduril — Digital Hardware Engineering Lead | Costa Mesa, California, United States | https://boards.greenhouse.io/andurilindustries/jobs/5179756007?gh_jid=5179756007
+- [ ] Anduril — Director, Site Reliability Engineering | Costa Mesa, California, United States | https://boards.greenhouse.io/andurilindustries/jobs/5210477007?gh_jid=5210477007
+- [ ] Anduril — Electrical Engineering Lead, Drones | Costa Mesa, California, United States | https://boards.greenhouse.io/andurilindustries/jobs/5093781007?gh_jid=5093781007
+- [ ] Anduril — Fielded Site Reliability Engineer | Waltham, Massachusetts, United States | https://boards.greenhouse.io/andurilindustries/jobs/5215942007?gh_jid=5215942007
+- [ ] Anduril — Flight Test Engineering Lead | Sydney, New South Wales, Australia | https://boards.greenhouse.io/andurilindustries/jobs/5198229007?gh_jid=5198229007
+- [ ] Anduril — Frontend Software Engineer | Costa Mesa, California, United States | https://boards.greenhouse.io/andurilindustries/jobs/5147775007?gh_jid=5147775007
+- [ ] Anduril — Full Stack Software Engineer | Washington, District of Columbia, United States | https://boards.greenhouse.io/andurilindustries/jobs/5089044007?gh_jid=5089044007
+- [ ] Anduril — Full-Stack Software Engineer, Mission Autonomy   | Costa Mesa, California, United States; Seattle, Washington, United States; Washington, District of Columbia, United States | https://boards.greenhouse.io/andurilindustries/jobs/5160360007?gh_jid=5160360007
+- [ ] Anduril — GNC Software Engineer | Waltham, Massachusetts, United States | https://boards.greenhouse.io/andurilindustries/jobs/5178086007?gh_jid=5178086007
+- [ ] Anduril — Ground Software Engineer, Space | Washington, District of Columbia, United States | https://boards.greenhouse.io/andurilindustries/jobs/4767772007?gh_jid=4767772007
+- [ ] Anduril — Ground Software Engineer, Space | Chantilly, Virginia, United States | https://boards.greenhouse.io/andurilindustries/jobs/5199990007?gh_jid=5199990007
+- [ ] Anduril — Ground Software Engineer, Space | Chantilly, Virginia, United States | https://boards.greenhouse.io/andurilindustries/jobs/5197127007?gh_jid=5197127007
+- [ ] Anduril — Ground Software Engineer, Space | Colorado Springs, Colorado, United States | https://boards.greenhouse.io/andurilindustries/jobs/5143734007?gh_jid=5143734007
+- [ ] Anduril — Infrastructure Engineer, Kubernetes | Reston, Virginia, United States | https://boards.greenhouse.io/andurilindustries/jobs/5177879007?gh_jid=5177879007
+- [ ] Anduril — Infrastructure Software Engineer, Active Clearance | Costa Mesa, California, United States; Seattle, Washington, United States; Washington, District of Columbia, United States | https://boards.greenhouse.io/andurilindustries/jobs/5160667007?gh_jid=5160667007
+- [ ] Anduril — Lead Mission Software Engineer, EW | Costa Mesa, California, United States | https://boards.greenhouse.io/andurilindustries/jobs/5178534007?gh_jid=5178534007
+- [ ] Anduril — Lead Software Engineer, API/SDK | Seattle, Washington, United States | https://boards.greenhouse.io/andurilindustries/jobs/4754841007?gh_jid=4754841007
+- [ ] Anduril — Lead Software Engineer, Manufacturing Test | Costa Mesa, California, United States | https://boards.greenhouse.io/andurilindustries/jobs/5009341007?gh_jid=5009341007
+- [ ] Anduril — Manager, Software Engineering | Sydney, New South Wales, Australia | https://boards.greenhouse.io/andurilindustries/jobs/4950096007?gh_jid=4950096007
+- [ ] Anduril — Manager, Software Engineering | Melbourne, Victoria, Australia | https://boards.greenhouse.io/andurilindustries/jobs/4950095007?gh_jid=4950095007
+- [ ] Anduril — Manufacturing Engineering Manager, Roadrunner | Ashville, Ohio, United States | https://boards.greenhouse.io/andurilindustries/jobs/5116835007?gh_jid=5116835007
+- [ ] Anduril — Manufacturing Software Engineer, Intelligence Systems | Ashville, Ohio, United States | https://boards.greenhouse.io/andurilindustries/jobs/5080387007?gh_jid=5080387007
+- [ ] Anduril — Mission Software Engineer | Reston, Virginia, United States | https://boards.greenhouse.io/andurilindustries/jobs/5192574007?gh_jid=5192574007
+- [ ] Anduril — Mission Software Engineer | Reston, Virginia, United States | https://boards.greenhouse.io/andurilindustries/jobs/5214858007?gh_jid=5214858007
+- [ ] Anduril — Mission Software Engineer, Air Vehicle Autonomy, C++ | Costa Mesa, California, United States; Seattle, Washington, United States; Washington, District of Columbia, United States | https://boards.greenhouse.io/andurilindustries/jobs/4673932007?gh_jid=4673932007
+- [ ] Anduril — Mission Software Engineer, EW | Costa Mesa, California, United States | https://boards.greenhouse.io/andurilindustries/jobs/5161108007?gh_jid=5161108007
+- [ ] Anduril — Mission Software Engineer, Senior | Reston, Virginia, United States | https://boards.greenhouse.io/andurilindustries/jobs/5215609007?gh_jid=5215609007
+- [ ] Anduril — Mission Software Engineer, Vehicle Software, Communications | Boston, Massachusetts, United States; Costa Mesa, California, United States | https://boards.greenhouse.io/andurilindustries/jobs/5176751007?gh_jid=5176751007
+- [ ] Anduril — Mission Software Engineer, Vehicle Software, Consensus | Boston, Massachusetts, United States; Costa Mesa, California, United States | https://boards.greenhouse.io/andurilindustries/jobs/5176752007?gh_jid=5176752007
+- [ ] Anduril — Mission Software Engineer, Vehicle Software, Frontend | Costa Mesa, California, United States; Seattle, Washington, United States; Washington, District of Columbia, United States | https://boards.greenhouse.io/andurilindustries/jobs/4672911007?gh_jid=4672911007
+- [ ] Anduril — Mission Software Infrastructure Engineer, Active Clearance  | Costa Mesa, California, United States; Seattle, Washington, United States; Washington, District of Columbia, United States | https://boards.greenhouse.io/andurilindustries/jobs/5158245007?gh_jid=5158245007
+- [ ] Anduril — Optimization Software Engineer | Washington, District of Columbia, United States | https://boards.greenhouse.io/andurilindustries/jobs/5089067007?gh_jid=5089067007
+- [ ] Anduril — Platform Engineer, Battlespace Awareness | Fort Collins, Colorado, United States | https://boards.greenhouse.io/andurilindustries/jobs/5205419007?gh_jid=5205419007
+- [ ] Anduril — Platform Engineer / DevOps Engineer / Infrastructure Engineer / Site Reliability Engineer | Sydney, New South Wales, Australia | https://boards.greenhouse.io/andurilindustries/jobs/5176775007?gh_jid=5176775007
+- [ ] Anduril — Product Data Engineer | Costa Mesa, California, United States | https://boards.greenhouse.io/andurilindustries/jobs/5114654007?gh_jid=5114654007
+- [ ] Anduril — Product Data Engineer | Irvine, California, United States | https://boards.greenhouse.io/andurilindustries/jobs/5150089007?gh_jid=5150089007
+- [ ] Anduril — Product Data Engineer | Costa Mesa, California, United States | https://boards.greenhouse.io/andurilindustries/jobs/5114652007?gh_jid=5114652007
+- [ ] Anduril — Product Data Engineer | Costa Mesa, California, United States | https://boards.greenhouse.io/andurilindustries/jobs/5123282007?gh_jid=5123282007
+- [ ] Anduril — Quantum Software Engineer | Washington, District of Columbia, United States | https://boards.greenhouse.io/andurilindustries/jobs/5089054007?gh_jid=5089054007
+- [ ] Anduril — Robotics Software Engineer | Boston, Massachusetts, United States | https://boards.greenhouse.io/andurilindustries/jobs/5179580007?gh_jid=5179580007
+- [ ] Anduril — Robotics Software Engineer | Costa Mesa, California, United States | https://boards.greenhouse.io/andurilindustries/jobs/5136146007?gh_jid=5136146007
+- [ ] Anduril — Robotics Software Engineer  | Atlanta, Georgia, United States | https://boards.greenhouse.io/andurilindustries/jobs/5078772007?gh_jid=5078772007
+- [ ] Anduril — Robotics Software Engineer  | Atlanta, Georgia, United States | https://boards.greenhouse.io/andurilindustries/jobs/4968127007?gh_jid=4968127007
+- [ ] Anduril — Robotics Software Engineer - Undersea Dominance  | Costa Mesa, California, United States | https://boards.greenhouse.io/andurilindustries/jobs/5196757007?gh_jid=5196757007
+- [ ] Anduril — Robotics Software Engineer, Verification & Validation | Costa Mesa, California, United States | https://boards.greenhouse.io/andurilindustries/jobs/5083521007?gh_jid=5083521007
+- [ ] Anduril — Rust Software Engineer, Air Vehicle Autonomy | Costa Mesa, California, United States; Seattle, Washington, United States; Washington, District of Columbia, United States | https://boards.greenhouse.io/andurilindustries/jobs/5125172007?gh_jid=5125172007
+- [ ] Anduril — Scientific Software Engineer | Broomfield, Colorado, United States; Fort Collins, Colorado, United States | https://boards.greenhouse.io/andurilindustries/jobs/5207733007?gh_jid=5207733007
+- [ ] Anduril — Scientific Software Engineer | Broomfield, Colorado, United States; Fort Collins, Colorado, United States | https://boards.greenhouse.io/andurilindustries/jobs/5203050007?gh_jid=5203050007
+- [ ] Anduril — Senior Cloud Infrastructure Engineer | Washington, District of Columbia, United States | https://boards.greenhouse.io/andurilindustries/jobs/5174687007?gh_jid=5174687007
+- [ ] Anduril — Senior Deployed Software Engineer | Lexington, Massachusetts, United States | https://boards.greenhouse.io/andurilindustries/jobs/5215944007?gh_jid=5215944007
+- [ ] Anduril — Senior Director, Software Engineering | Bellevue, Washington, United States | https://boards.greenhouse.io/andurilindustries/jobs/5166628007?gh_jid=5166628007
+- [ ] Anduril — Senior Flight Software Engineer | Costa Mesa, California, United States | https://boards.greenhouse.io/andurilindustries/jobs/5193789007?gh_jid=5193789007
+- [ ] Anduril — Senior Front End Software Engineer, React | Seattle, Washington, United States | https://boards.greenhouse.io/andurilindustries/jobs/5165989007?gh_jid=5165989007
+- [ ] Anduril — Senior Front End Software Engineer, React | Washington, District of Columbia, United States | https://boards.greenhouse.io/andurilindustries/jobs/4975884007?gh_jid=4975884007
+- [ ] Anduril — Senior GNC Software Engineer | Waltham, Massachusetts, United States | https://boards.greenhouse.io/andurilindustries/jobs/5213232007?gh_jid=5213232007
+- [ ] Anduril — Senior Ground Software Engineer, Space | Chantilly, Virginia, United States | https://boards.greenhouse.io/andurilindustries/jobs/5197128007?gh_jid=5197128007
+- [ ] Anduril — Senior Ground Software Engineer, Space | Washington, District of Columbia, United States | https://boards.greenhouse.io/andurilindustries/jobs/4767773007?gh_jid=4767773007
+- [ ] Anduril — Senior Ground Software Engineer, Space | Colorado Springs, Colorado, United States | https://boards.greenhouse.io/andurilindustries/jobs/5143736007?gh_jid=5143736007
+- [ ] Anduril — Senior Machine Learning Engineer | Sydney, New South Wales, Australia | https://boards.greenhouse.io/andurilindustries/jobs/5016403007?gh_jid=5016403007
+- [ ] Anduril — Senior Machine Learning Engineer, Sentry Tower | Irvine, California, United States; Remote | https://boards.greenhouse.io/andurilindustries/jobs/4927589007?gh_jid=4927589007
+- [ ] Anduril — Senior Manager, Software Engineering | Melbourne, Victoria, Australia | https://boards.greenhouse.io/andurilindustries/jobs/4950091007?gh_jid=4950091007
+- [ ] Anduril — Senior Manager, Software Engineering | Sydney, New South Wales, Australia | https://boards.greenhouse.io/andurilindustries/jobs/4950090007?gh_jid=4950090007
+- [ ] Anduril — Senior Manufacturing Software Engineer | Lexington, Massachusetts, United States | https://boards.greenhouse.io/andurilindustries/jobs/5215946007?gh_jid=5215946007
+- [ ] Anduril — Senior Mission Software Engineer | Lexington, Massachusetts, United States | https://boards.greenhouse.io/andurilindustries/jobs/5215945007?gh_jid=5215945007
+- [ ] Anduril — Senior Mission Software Engineer, EW | Costa Mesa, California, United States | https://boards.greenhouse.io/andurilindustries/jobs/5178546007?gh_jid=5178546007
+- [ ] Anduril — Senior Platform Engineer / Senior DevOps Engineer / Senior Infrastructure Engineer / Senior Site Reliability Engineer | Sydney, New South Wales, Australia | https://boards.greenhouse.io/andurilindustries/jobs/5176778007?gh_jid=5176778007
+- [ ] Anduril — Senior Production Software Engineer | Lexington, Massachusetts, United States | https://boards.greenhouse.io/andurilindustries/jobs/5215947007?gh_jid=5215947007
+- [ ] Anduril — Senior Realtime Software Engineer | Boulder, Colorado, United States | https://boards.greenhouse.io/andurilindustries/jobs/5214396007?gh_jid=5214396007
+- [ ] Anduril — Senior Robotics Software Engineer, Behaviors | Costa Mesa, California, United States | https://boards.greenhouse.io/andurilindustries/jobs/5202347007?gh_jid=5202347007
+- [ ] Anduril — Senior Robotics Software Engineer, Generalist | Boston, Massachusetts, United States | https://boards.greenhouse.io/andurilindustries/jobs/5038216007?gh_jid=5038216007
+- [ ] Anduril — Senior Robotics Software Engineer, Payload Integration | Brussels, Brussels-Capital, Belgium | https://boards.greenhouse.io/andurilindustries/jobs/5201428007?gh_jid=5201428007
+- [ ] Anduril — Senior Robotics Software Engineer, Payload Integration | Sydney, New South Wales, Australia | https://boards.greenhouse.io/andurilindustries/jobs/5201424007?gh_jid=5201424007
+- [ ] Anduril — Senior Robotics Software Engineer, Sentry Tower | Irvine, California, United States | https://boards.greenhouse.io/andurilindustries/jobs/5216136007?gh_jid=5216136007
+- [ ] Anduril — Senior Scientific Software Engineer | Broomfield, Colorado, United States; Fort Collins, Colorado, United States | https://boards.greenhouse.io/andurilindustries/jobs/5207726007?gh_jid=5207726007
+- [ ] Anduril — Senior Scientific Software Engineer | Broomfield, Colorado, United States; Fort Collins, Colorado, United States | https://boards.greenhouse.io/andurilindustries/jobs/5193977007?gh_jid=5193977007
+- [ ] Anduril — Senior Site Reliability Engineer | Sydney, New South Wales, Australia | https://boards.greenhouse.io/andurilindustries/jobs/5172478007?gh_jid=5172478007
+- [ ] Anduril — Senior Site Reliability Engineer, Fleet Infrastructure | Boston, Massachusetts, United States; Washington, District of Columbia, United States | https://boards.greenhouse.io/andurilindustries/jobs/5195822007?gh_jid=5195822007
+- [ ] Anduril — Senior Site Reliability Engineer, TS Clearance | Costa Mesa, California, United States; Washington, District of Columbia, United States | https://boards.greenhouse.io/andurilindustries/jobs/5170617007?gh_jid=5170617007
+- [ ] Anduril — Senior Site Reliability Engineer - Undersea Dominance | Costa Mesa, California, United States | https://boards.greenhouse.io/andurilindustries/jobs/5205184007?gh_jid=5205184007
+- [ ] Anduril — Senior Software Engineer | Boston, Massachusetts, United States | https://boards.greenhouse.io/andurilindustries/jobs/5209996007?gh_jid=5209996007
+- [ ] Anduril — Senior Software Engineer | Melbourne, Victoria, Australia | https://boards.greenhouse.io/andurilindustries/jobs/4948336007?gh_jid=4948336007
+- [ ] Anduril — Senior Software Engineer | Sydney, New South Wales, Australia | https://boards.greenhouse.io/andurilindustries/jobs/4950086007?gh_jid=4950086007
+- [ ] Anduril — Senior Software Engineer | Seattle, Washington, United States | https://boards.greenhouse.io/andurilindustries/jobs/5037473007?gh_jid=5037473007
+- [ ] Anduril — Senior Software Engineer | Atlanta, Georgia, United States | https://boards.greenhouse.io/andurilindustries/jobs/5209997007?gh_jid=5209997007
+- [ ] Anduril — Senior Software Engineer, Air Defense | Irvine, California, United States | https://boards.greenhouse.io/andurilindustries/jobs/5151649007?gh_jid=5151649007
+- [ ] Anduril — Senior Software Engineer, Air Defense | Huntsville, Alabama, United States | https://boards.greenhouse.io/andurilindustries/jobs/5184546007?gh_jid=5184546007
+- [ ] Anduril — Senior Software Engineer, Air & Missile Defense | Broomfield, Colorado, United States; Fort Collins, Colorado, United States | https://boards.greenhouse.io/andurilindustries/jobs/5193980007?gh_jid=5193980007
+- [ ] Anduril — Senior Software Engineer, ArsenalOS | Costa Mesa, California, United States | https://boards.greenhouse.io/andurilindustries/jobs/5168961007?gh_jid=5168961007
+- [ ] Anduril — Senior Software Engineer, Battlespace Awareness  | Waltham, Massachusetts, United States | https://boards.greenhouse.io/andurilindustries/jobs/5178107007?gh_jid=5178107007
+- [ ] Anduril — Senior Software Engineer, Battlespace Awareness  | Broomfield, Colorado, United States | https://boards.greenhouse.io/andurilindustries/jobs/5178100007?gh_jid=5178100007
+- [ ] Anduril — Senior Software Engineer, C++ | Boston, Massachusetts, United States | https://boards.greenhouse.io/andurilindustries/jobs/5042838007?gh_jid=5042838007
+- [ ] Anduril — Senior Software Engineer, C++ | Broomfield, Colorado, United States; Fort Collins, Colorado, United States | https://boards.greenhouse.io/andurilindustries/jobs/5207728007?gh_jid=5207728007
+- [ ] Anduril — Senior Software Engineer, C++ | Broomfield, Colorado, United States; Fort Collins, Colorado, United States | https://boards.greenhouse.io/andurilindustries/jobs/5193974007?gh_jid=5193974007
+- [ ] Anduril — Senior Software Engineer, Compute Platform Integration | Irvine, California, United States | https://boards.greenhouse.io/andurilindustries/jobs/5215583007?gh_jid=5215583007
+- [ ] Anduril — Senior Software Engineer - Connected Factory  | Costa Mesa, California, United States | https://boards.greenhouse.io/andurilindustries/jobs/5165323007?gh_jid=5165323007
+- [ ] Anduril — Senior Software Engineer, Data Engineering | Santa Ana, California, United States | https://boards.greenhouse.io/andurilindustries/jobs/5194568007?gh_jid=5194568007
+- [ ] Anduril — Senior Software Engineer, Deepview | Boston, Massachusetts, United States | https://boards.greenhouse.io/andurilindustries/jobs/5111090007?gh_jid=5111090007
+- [ ] Anduril — Senior Software Engineer, Design Review Tool | Costa Mesa, California, United States | https://boards.greenhouse.io/andurilindustries/jobs/5194816007?gh_jid=5194816007
+- [ ] Anduril — Senior Software Engineer, Developer Platform | Washington, District of Columbia, United States | https://boards.greenhouse.io/andurilindustries/jobs/5185974007?gh_jid=5185974007
+- [ ] Anduril — Senior Software Engineer, Developer Platform | Boston, Massachusetts, United States | https://boards.greenhouse.io/andurilindustries/jobs/5185972007?gh_jid=5185972007
+- [ ] Anduril — Senior Software Engineer, Developer Platform | Costa Mesa, California, United States | https://boards.greenhouse.io/andurilindustries/jobs/5185886007?gh_jid=5185886007
+- [ ] Anduril — Senior Software Engineer, Discovery | Washington, District of Columbia, United States | https://boards.greenhouse.io/andurilindustries/jobs/5188527007?gh_jid=5188527007
+- [ ] Anduril — Senior Software Engineer, Discovery | Seattle, Washington, United States | https://boards.greenhouse.io/andurilindustries/jobs/5188525007?gh_jid=5188525007
+- [ ] Anduril — Senior Software Engineer, Distributed Networks | Seattle, Washington, United States | https://boards.greenhouse.io/andurilindustries/jobs/5201924007?gh_jid=5201924007
+- [ ] Anduril — Senior Software Engineer (Flight Software) | Sydney, New South Wales, Australia | https://boards.greenhouse.io/andurilindustries/jobs/5161842007?gh_jid=5161842007
+- [ ] Anduril — Senior Software Engineer (Flight Software) | Melbourne, Victoria, Australia | https://boards.greenhouse.io/andurilindustries/jobs/5092677007?gh_jid=5092677007
+- [ ] Anduril — Senior Software Engineer - Forge Factory Automation  | Seattle, Washington, United States | https://boards.greenhouse.io/andurilindustries/jobs/5152747007?gh_jid=5152747007
+- [ ] Anduril — Senior Software Engineer - Forge Factory Automation  | Costa Mesa, California, United States | https://boards.greenhouse.io/andurilindustries/jobs/5152746007?gh_jid=5152746007
+- [ ] Anduril — Senior Software Engineer (Full Stack), Intelligence Systems  | Reston, Virginia, United States | https://boards.greenhouse.io/andurilindustries/jobs/5088314007?gh_jid=5088314007
+- [ ] Anduril — Senior Software Engineer, Generalist (Active Clearance) | Washington, District of Columbia, United States | https://boards.greenhouse.io/andurilindustries/jobs/5009134007?gh_jid=5009134007
+- [ ] Anduril — Senior Software Engineer, Guidance, Navigation, & Controls - Tactical Reconnaissance and Strike Division | Atlanta, Georgia, United States | https://boards.greenhouse.io/andurilindustries/jobs/4620033007?gh_jid=4620033007
+- [ ] Anduril — Senior Software Engineer - Manufacturing Automation  | Costa Mesa, California, United States | https://boards.greenhouse.io/andurilindustries/jobs/5165949007?gh_jid=5165949007
+- [ ] Anduril — Senior Software Engineer, Manufacturing Test | Atlanta, Georgia, United States | https://boards.greenhouse.io/andurilindustries/jobs/5161509007?gh_jid=5161509007
+- [ ] Anduril — Senior Software Engineer, Maritime App  | Costa Mesa, California, United States; Seattle, Washington, United States | https://boards.greenhouse.io/andurilindustries/jobs/4780617007?gh_jid=4780617007
+- [ ] Anduril — Senior Software Engineer, Maritime Enabling Technology | Quincy, Massachusetts, United States | https://boards.greenhouse.io/andurilindustries/jobs/5215086007?gh_jid=5215086007
+- [ ] Anduril — Senior Software Engineer - Maritime Integrated Solutions | Costa Mesa, California, United States | https://boards.greenhouse.io/andurilindustries/jobs/5205934007?gh_jid=5205934007
+- [ ] Anduril — Senior Software Engineer, Nix | Remote | https://boards.greenhouse.io/andurilindustries/jobs/5152584007?gh_jid=5152584007
+- [ ] Anduril — Senior Software Engineer, Quality Integration  | Boston, Massachusetts, United States | https://boards.greenhouse.io/andurilindustries/jobs/5199072007?gh_jid=5199072007
+- [ ] Anduril — Senior Software Engineer, Robotics | Boston, Massachusetts, United States | https://boards.greenhouse.io/andurilindustries/jobs/5009089007?gh_jid=5009089007
+- [ ] Anduril — Senior Software Engineer, Robotics | Irvine, California, United States | https://boards.greenhouse.io/andurilindustries/jobs/5009095007?gh_jid=5009095007
+- [ ] Anduril — Senior Software Engineer, Robotics | Costa Mesa, California, United States | https://boards.greenhouse.io/andurilindustries/jobs/5009085007?gh_jid=5009085007
+- [ ] Anduril — Senior Software Engineer, Robotics Data Foundation (Cloud) | Boston, Massachusetts, United States | https://boards.greenhouse.io/andurilindustries/jobs/5186322007?gh_jid=5186322007
+- [ ] Anduril — Senior Software Engineer, Robotics Tracking and Fusion | Fort Collins, Colorado, United States | https://boards.greenhouse.io/andurilindustries/jobs/5213225007?gh_jid=5213225007
+- [ ] Anduril — Senior Software Engineer, Robotics Tracking and Fusion | Waltham, Massachusetts, United States | https://boards.greenhouse.io/andurilindustries/jobs/5213223007?gh_jid=5213223007
+- [ ] Anduril — Senior Software Engineer, Robotics Tracking and Fusion | Washington, District of Columbia, United States | https://boards.greenhouse.io/andurilindustries/jobs/5213224007?gh_jid=5213224007
+- [ ] Anduril — Senior Software Engineer, Rust  | Waltham, Massachusetts, United States | https://boards.greenhouse.io/andurilindustries/jobs/5209412007?gh_jid=5209412007
+- [ ] Anduril — Senior Software Engineer, Rust  | Broomfield, Colorado, United States | https://boards.greenhouse.io/andurilindustries/jobs/5178093007?gh_jid=5178093007
+- [ ] Anduril — Senior Software Engineer, Sensor Fusion | Broomfield, Colorado, United States; Fort Collins, Colorado, United States | https://boards.greenhouse.io/andurilindustries/jobs/5203172007?gh_jid=5203172007
+- [ ] Anduril — Senior Software Engineer, Site Reliability | Sydney, New South Wales, Australia | https://boards.greenhouse.io/andurilindustries/jobs/5077999007?gh_jid=5077999007
+- [ ] Anduril — Senior Software Engineer, State Estimation  | Broomfield, Colorado, United States | https://boards.greenhouse.io/andurilindustries/jobs/5178098007?gh_jid=5178098007
+- [ ] Anduril — Senior Software Engineer, Target Tracking | Broomfield, Colorado, United States; Fort Collins, Colorado, United States | https://boards.greenhouse.io/andurilindustries/jobs/5207727007?gh_jid=5207727007
+- [ ] Anduril — Senior Software Engineer, Tasking  | Costa Mesa, California, United States; Seattle, Washington, United States | https://boards.greenhouse.io/andurilindustries/jobs/4937265007?gh_jid=4937265007
+- [ ] Anduril — Senior Software Engineer - Undersea Dominance | Costa Mesa, California, United States | https://boards.greenhouse.io/andurilindustries/jobs/5172098007?gh_jid=5172098007
+- [ ] Anduril — Senior Software Engineer, Vehicle Management Systems | Quincy, Massachusetts, United States | https://boards.greenhouse.io/andurilindustries/jobs/5183927007?gh_jid=5183927007
+- [ ] Anduril — Senior Software Engineer, Vehicle Management Systems | Costa Mesa, California, United States | https://boards.greenhouse.io/andurilindustries/jobs/5071581007?gh_jid=5071581007
+- [ ] Anduril — Senior Software Engineer, Vehicle Management Systems | Boston, Massachusetts, United States | https://boards.greenhouse.io/andurilindustries/jobs/5187454007?gh_jid=5187454007
+- [ ] Anduril — Senior Software Engineer, Video  | Seattle, Washington, United States | https://boards.greenhouse.io/andurilindustries/jobs/5206580007?gh_jid=5206580007
+- [ ] Anduril — Senior Software Engineer, VMS - Seabed Sentry | Quincy, Massachusetts, United States | https://boards.greenhouse.io/andurilindustries/jobs/5183067007?gh_jid=5183067007
+- [ ] Anduril — Senior Tracking Software Engineer, Space | Washington, District of Columbia, United States | https://boards.greenhouse.io/andurilindustries/jobs/5121948007?gh_jid=5121948007
+- [ ] Anduril — Site Reliability Engineer | Waltham, Massachusetts, United States | https://boards.greenhouse.io/andurilindustries/jobs/5215941007?gh_jid=5215941007
+- [ ] Anduril — Site Reliability Engineer, Intelligence Systems | Reston, Virginia, United States | https://boards.greenhouse.io/andurilindustries/jobs/5177893007?gh_jid=5177893007
+- [ ] Anduril — Software Engineer | Sydney, New South Wales, Australia | https://boards.greenhouse.io/andurilindustries/jobs/4948307007?gh_jid=4948307007
+- [ ] Anduril — Software Engineer | Melbourne, Victoria, Australia | https://boards.greenhouse.io/andurilindustries/jobs/4948330007?gh_jid=4948330007
+- [ ] Anduril — Software Engineer (Active Clearance), Intelligence Systems | Reston, Virginia, United States | https://boards.greenhouse.io/andurilindustries/jobs/4961005007?gh_jid=4961005007
+- [ ] Anduril — Software Engineer, Agentic Modeling & Simulation | Washington, District of Columbia, United States | https://boards.greenhouse.io/andurilindustries/jobs/5112335007?gh_jid=5112335007
+- [ ] Anduril — Software Engineer, Agent Platform | Washington, District of Columbia, United States | https://boards.greenhouse.io/andurilindustries/jobs/5174717007?gh_jid=5174717007
+- [ ] Anduril — Software Engineer, Air Defense | Irvine, California, United States | https://boards.greenhouse.io/andurilindustries/jobs/5151652007?gh_jid=5151652007
+- [ ] Anduril — Software Engineer, Air Defense | Broomfield, Colorado, United States | https://boards.greenhouse.io/andurilindustries/jobs/5134169007?gh_jid=5134169007
+- [ ] Anduril — Software Engineer, Air & Missile Defense | Huntsville, Alabama, United States | https://boards.greenhouse.io/andurilindustries/jobs/5203040007?gh_jid=5203040007
+- [ ] Anduril — Software Engineer, Air & Missile Defense  | Broomfield, Colorado, United States; Fort Collins, Colorado, United States | https://boards.greenhouse.io/andurilindustries/jobs/5194551007?gh_jid=5194551007
+- [ ] Anduril — Software Engineer, Battlespace Awareness | Broomfield, Colorado, United States; Fort Collins, Colorado, United States | https://boards.greenhouse.io/andurilindustries/jobs/5207734007?gh_jid=5207734007
+- [ ] Anduril — Software Engineer, Battlespace Awareness | Broomfield, Colorado, United States; Fort Collins, Colorado, United States | https://boards.greenhouse.io/andurilindustries/jobs/5215627007?gh_jid=5215627007
+- [ ] Anduril — Software Engineer, Battlespace Awareness  | Waltham, Massachusetts, United States | https://boards.greenhouse.io/andurilindustries/jobs/5178108007?gh_jid=5178108007
+- [ ] Anduril — Software Engineer, Battlespace Awareness  | Broomfield, Colorado, United States | https://boards.greenhouse.io/andurilindustries/jobs/5178090007?gh_jid=5178090007
+- [ ] Anduril — Software Engineer, Battlespace Awareness  | Waltham, Massachusetts, United States | https://boards.greenhouse.io/andurilindustries/jobs/5178113007?gh_jid=5178113007
+- [ ] Anduril — Software Engineer, Battlespace Awareness  | Broomfield, Colorado, United States | https://boards.greenhouse.io/andurilindustries/jobs/5178105007?gh_jid=5178105007
+- [ ] Anduril — Software Engineer (C#) | Costa Mesa, California, United States | https://boards.greenhouse.io/andurilindustries/jobs/5211022007?gh_jid=5211022007
+- [ ] Anduril — Software Engineer, C++ | Broomfield, Colorado, United States; Fort Collins, Colorado, United States | https://boards.greenhouse.io/andurilindustries/jobs/5194563007?gh_jid=5194563007
+- [ ] Anduril — Software Engineer, C++ | Boston, Massachusetts, United States | https://boards.greenhouse.io/andurilindustries/jobs/5042843007?gh_jid=5042843007
+- [ ] Anduril — Software Engineer, C++ | Washington, District of Columbia, United States | https://boards.greenhouse.io/andurilindustries/jobs/5100176007?gh_jid=5100176007
+- [ ] Anduril — Software Engineer, C++ | Broomfield, Colorado, United States; Fort Collins, Colorado, United States | https://boards.greenhouse.io/andurilindustries/jobs/5207735007?gh_jid=5207735007
+- [ ] Anduril — Software Engineer, C++ | Bellevue, Washington, United States | https://boards.greenhouse.io/andurilindustries/jobs/5009240007?gh_jid=5009240007
+- [ ] Anduril — Software Engineer, Connected Warfare | Washington, District of Columbia, United States | https://boards.greenhouse.io/andurilindustries/jobs/4596297007?gh_jid=4596297007
+- [ ] Anduril — Software Engineer, Connected Warfare | Seattle, Washington, United States | https://boards.greenhouse.io/andurilindustries/jobs/4541903007?gh_jid=4541903007
+- [ ] Anduril — Software Engineer, Connected Warfare (Active Clearance) | Honolulu, Hawaii, United States | https://boards.greenhouse.io/andurilindustries/jobs/5155536007?gh_jid=5155536007
+- [ ] Anduril — Software Engineer, Connected Warfare (Active Clearance) | Washington, District of Columbia, United States | https://boards.greenhouse.io/andurilindustries/jobs/4263023007?gh_jid=4263023007
+- [ ] Anduril — Software Engineer, Connected Warfare (Active Clearance) | Seattle, Washington, United States | https://boards.greenhouse.io/andurilindustries/jobs/4263030007?gh_jid=4263030007
+- [ ] Anduril — Software Engineer, Developer Platform | Boston, Massachusetts, United States | https://boards.greenhouse.io/andurilindustries/jobs/5210930007?gh_jid=5210930007
+- [ ] Anduril — Software Engineer, Dev Infra, Air Defense | Irvine, California, United States | https://boards.greenhouse.io/andurilindustries/jobs/5150887007?gh_jid=5150887007
+- [ ] Anduril — Software Engineer, Discovery | Seattle, Washington, United States; Washington, District of Columbia, United States | https://boards.greenhouse.io/andurilindustries/jobs/4980592007?gh_jid=4980592007
+- [ ] Anduril — Software Engineer, Factory Systems  | Costa Mesa, California, United States | https://boards.greenhouse.io/andurilindustries/jobs/5135811007?gh_jid=5135811007
+- [ ] Anduril — Software Engineer, Fleet Infrastructure | Boston, Massachusetts, United States; Washington, District of Columbia, United States | https://boards.greenhouse.io/andurilindustries/jobs/5195644007?gh_jid=5195644007
+- [ ] Anduril — Software Engineer, Front End | Reston, Virginia, United States | https://boards.greenhouse.io/andurilindustries/jobs/5177896007?gh_jid=5177896007
+- [ ] Anduril — Software Engineer, Game Development | Seattle, Washington, United States | https://boards.greenhouse.io/andurilindustries/jobs/5178957007?gh_jid=5178957007
+- [ ] Anduril — Software Engineering Manager, Simulation Platforms (Active TS Clearance) | Costa Mesa, California, United States; Seattle, Washington, United States; Washington, District of Columbia, United States | https://boards.greenhouse.io/andurilindustries/jobs/5136836007?gh_jid=5136836007
+- [ ] Anduril — Software Engineer, Intelligence Systems | Reston, Virginia, United States | https://boards.greenhouse.io/andurilindustries/jobs/5064165007?gh_jid=5064165007
+- [ ] Anduril — Software Engineer, Manufacturing Test | Atlanta, Georgia, United States | https://boards.greenhouse.io/andurilindustries/jobs/5161520007?gh_jid=5161520007
+- [ ] Anduril — Software Engineer - Maritime Integrated Systems | Quincy, Massachusetts, United States | https://boards.greenhouse.io/andurilindustries/jobs/5167630007?gh_jid=5167630007
+- [ ] Anduril — Software Engineer - Maritime Integrated Systems | Boston, Massachusetts, United States | https://boards.greenhouse.io/andurilindustries/jobs/5185389007?gh_jid=5185389007
+- [ ] Anduril — Software Engineer - ML Infrastructure | Costa Mesa, California, United States | https://boards.greenhouse.io/andurilindustries/jobs/5195642007?gh_jid=5195642007
+- [ ] Anduril — Software Engineer, Modeling and Simulation, Space | Colorado Springs, Colorado, United States | https://boards.greenhouse.io/andurilindustries/jobs/5145750007?gh_jid=5145750007
+- [ ] Anduril — Software Engineer - Modeling & Simulation | Costa Mesa, California, United States | https://boards.greenhouse.io/andurilindustries/jobs/5062357007?gh_jid=5062357007
+- [ ] Anduril — Software Engineer, Perception | Costa Mesa, California, United States | https://boards.greenhouse.io/andurilindustries/jobs/5165250007?gh_jid=5165250007
+- [ ] Anduril — Software Engineer, Quality Integration   | Boston, Massachusetts, United States | https://boards.greenhouse.io/andurilindustries/jobs/5199077007?gh_jid=5199077007
+- [ ] Anduril — Software Engineer, Robotics | Costa Mesa, California, United States | https://boards.greenhouse.io/andurilindustries/jobs/4959625007?gh_jid=4959625007
+- [ ] Anduril — Software Engineer, Robotics Data Foundation (Cloud) | Boston, Massachusetts, United States | https://boards.greenhouse.io/andurilindustries/jobs/5185965007?gh_jid=5185965007
+- [ ] Anduril — Software Engineer, Robotics Tracking and Fusion | Waltham, Massachusetts, United States | https://boards.greenhouse.io/andurilindustries/jobs/5213218007?gh_jid=5213218007
+- [ ] Anduril — Software Engineer, Robotics Tracking and Fusion | Fort Collins, Colorado, United States | https://boards.greenhouse.io/andurilindustries/jobs/5213220007?gh_jid=5213220007
+- [ ] Anduril — Software Engineer, Robotics Tracking and Fusion | Washington, District of Columbia, United States | https://boards.greenhouse.io/andurilindustries/jobs/5213219007?gh_jid=5213219007
+- [ ] Anduril — Software Engineer, Rust  | Waltham, Massachusetts, United States | https://boards.greenhouse.io/andurilindustries/jobs/5209409007?gh_jid=5209409007
+- [ ] Anduril — Software Engineer, Rust  | Broomfield, Colorado, United States | https://boards.greenhouse.io/andurilindustries/jobs/5178094007?gh_jid=5178094007
+- [ ] Anduril — Software Engineer, Sensor Fusion | Broomfield, Colorado, United States; Fort Collins, Colorado, United States | https://boards.greenhouse.io/andurilindustries/jobs/5194560007?gh_jid=5194560007
+- [ ] Anduril — Software Engineer, Sensor Simulation  | Seattle, Washington, United States | https://boards.greenhouse.io/andurilindustries/jobs/5152591007?gh_jid=5152591007
+- [ ] Anduril — Software Engineer, Space | Chantilly, Virginia, United States; Herndon, Virginia, United States | https://boards.greenhouse.io/andurilindustries/jobs/5208795007?gh_jid=5208795007
+- [ ] Anduril — Software Engineer, Target Tracking | Broomfield, Colorado, United States; Fort Collins, Colorado, United States | https://boards.greenhouse.io/andurilindustries/jobs/5207736007?gh_jid=5207736007
+- [ ] Anduril — Software Engineer, Tooling | Fort Collins, Colorado, United States | https://boards.greenhouse.io/andurilindustries/jobs/5205416007?gh_jid=5205416007
+- [ ] Anduril — Software Engineer, Tracking | Broomfield, Colorado, United States; Fort Collins, Colorado, United States | https://boards.greenhouse.io/andurilindustries/jobs/5215629007?gh_jid=5215629007
+- [ ] Anduril — Software Engineer - Undersea Dominance | Costa Mesa, California, United States | https://boards.greenhouse.io/andurilindustries/jobs/5171114007?gh_jid=5171114007
+- [ ] Anduril — Sr. Software Engineer - Maritime Integrated Systems | Boston, Massachusetts, United States | https://boards.greenhouse.io/andurilindustries/jobs/5185390007?gh_jid=5185390007
+- [ ] Anduril — Sr. Software Engineer - Maritime Integrated Systems | Quincy, Massachusetts, United States | https://boards.greenhouse.io/andurilindustries/jobs/5182048007?gh_jid=5182048007
+- [ ] Anduril — Staff AI Infrastructure Engineer | Costa Mesa, California, United States; Seattle, Washington, United States; Washington, District of Columbia, United States | https://boards.greenhouse.io/andurilindustries/jobs/5212860007?gh_jid=5212860007
+- [ ] Anduril — Staff DevOps Engineer  | Costa Mesa, California, United States | https://boards.greenhouse.io/andurilindustries/jobs/5211809007?gh_jid=5211809007
+- [ ] Anduril — Staff Platform Engineer / Staff Site Reliability Engineer | Sydney, New South Wales, Australia | https://boards.greenhouse.io/andurilindustries/jobs/5176769007?gh_jid=5176769007
+- [ ] Anduril — Staff Robotics Software Engineer, Air Vehicle Autonomy | Washington, District of Columbia, United States | https://boards.greenhouse.io/andurilindustries/jobs/4946495007?gh_jid=4946495007
+- [ ] Anduril — Staff Software Engineer | Melbourne, Victoria, Australia | https://boards.greenhouse.io/andurilindustries/jobs/4950075007?gh_jid=4950075007
+- [ ] Anduril — Staff Software Engineer | Sydney, New South Wales, Australia | https://boards.greenhouse.io/andurilindustries/jobs/4950085007?gh_jid=4950085007
+- [ ] Anduril — Staff Software Engineer | Washington, District of Columbia, United States | https://boards.greenhouse.io/andurilindustries/jobs/5149050007?gh_jid=5149050007
+- [ ] Anduril — Staff Software Engineer | Atlanta, Georgia, United States | https://boards.greenhouse.io/andurilindustries/jobs/5149052007?gh_jid=5149052007
+- [ ] Anduril — Staff Software Engineer | Boston, Massachusetts, United States | https://boards.greenhouse.io/andurilindustries/jobs/5209998007?gh_jid=5209998007
+- [ ] Anduril — Staff Software Engineer | Seattle, Washington, United States | https://boards.greenhouse.io/andurilindustries/jobs/5130341007?gh_jid=5130341007
+- [ ] Anduril — Staff Software Engineer | Atlanta, Georgia, United States | https://boards.greenhouse.io/andurilindustries/jobs/5176536007?gh_jid=5176536007
+- [ ] Anduril — Staff Software Engineer | Costa Mesa, California, United States | https://boards.greenhouse.io/andurilindustries/jobs/5176538007?gh_jid=5176538007
+- [ ] Anduril — Staff Software Engineer | Boston, Massachusetts, United States | https://boards.greenhouse.io/andurilindustries/jobs/5111673007?gh_jid=5111673007
+- [ ] Anduril — Staff Software Engineer, Air Defense | Irvine, California, United States | https://boards.greenhouse.io/andurilindustries/jobs/5151653007?gh_jid=5151653007
+- [ ] Anduril — Staff Software Engineer, Connected Warfare | Washington, District of Columbia, United States | https://boards.greenhouse.io/andurilindustries/jobs/4644069007?gh_jid=4644069007
+- [ ] Anduril — Staff Software Engineer, Connected Warfare | Seattle, Washington, United States | https://boards.greenhouse.io/andurilindustries/jobs/4644068007?gh_jid=4644068007
+- [ ] Anduril — Staff Software Engineer, Developer Platform  | Boston, Massachusetts, United States | https://boards.greenhouse.io/andurilindustries/jobs/4954854007?gh_jid=4954854007
+- [ ] Anduril — Staff Software Engineer, Developer Platform  | Seattle, Washington, United States | https://boards.greenhouse.io/andurilindustries/jobs/4954894007?gh_jid=4954894007
+- [ ] Anduril — Staff Software Engineer, Maritime Enabling Technology | Quincy, Massachusetts, United States | https://boards.greenhouse.io/andurilindustries/jobs/5217783007?gh_jid=5217783007
+- [ ] Anduril — Staff Software Engineer, Quality Integration  | Boston, Massachusetts, United States | https://boards.greenhouse.io/andurilindustries/jobs/5199079007?gh_jid=5199079007
+- [ ] Anduril — Staff Software Engineer, Security | Seattle, Washington, United States | https://boards.greenhouse.io/andurilindustries/jobs/4925157007?gh_jid=4925157007
+- [ ] Anduril — Staff Software Engineer, Vehicle Software, C++ | Costa Mesa, California, United States | https://boards.greenhouse.io/andurilindustries/jobs/5218845007?gh_jid=5218845007
+- [ ] Anduril — Systems Engineering Lead, Air Vehicle Systems | Costa Mesa, California, United States | https://boards.greenhouse.io/andurilindustries/jobs/4801617007?gh_jid=4801617007
+- [ ] Anduril — Tracking Software Engineer, Space | Washington, District of Columbia, United States | https://boards.greenhouse.io/andurilindustries/jobs/5114861007?gh_jid=5114861007
+- [ ] Hume AI — Senior Software Engineer - Backend & Machine Learning | New York, New York, United States | https://job-boards.greenhouse.io/humeai/jobs/4816209008
+- [ ] Airtable — Engineering Manager, Enterprise Product | San Francisco, CA; New York, NY | https://job-boards.greenhouse.io/airtable/jobs/8397665002
+- [ ] Airtable — Software Engineer, Product Backend (4-8 YOE) | San Francisco, CA; New York, NY | https://job-boards.greenhouse.io/airtable/jobs/8397515002
+- [ ] Vercel — Security Software Engineer, IAM | Remote - United States | https://job-boards.greenhouse.io/vercel/jobs/6093255004
+- [ ] Vercel — Software Engineer, CDN Content | Hybrid - San Francisco | https://job-boards.greenhouse.io/vercel/jobs/6105394004
+- [ ] Vercel — Software Engineer, Observability | Hybrid - San Francisco, New York City, London | https://job-boards.greenhouse.io/vercel/jobs/5428982004
+- [ ] Vercel — Software Engineer, Trust & Safety | Hybrid - San Francisco, New York City | https://job-boards.greenhouse.io/vercel/jobs/5649459004
+- [ ] Temporal — Senior Software Engineer, Cloud Growth | United States  - Remote Opportunity | https://job-boards.greenhouse.io/temporaltechnologies/jobs/5218240007
+- [ ] Temporal — Senior Software Engineer, Infrastructure Foundations | United States, Remote Opportunity | https://job-boards.greenhouse.io/temporaltechnologies/jobs/5210998007
+- [ ] Temporal — Senior Software Engineer, Nexus SDK | United States - Remote Opportunity | https://job-boards.greenhouse.io/temporaltechnologies/jobs/5178158007
+- [ ] Temporal — Senior Software Engineer, Open Source Server | United States - Remote Opportunity | https://job-boards.greenhouse.io/temporaltechnologies/jobs/5187649007
+- [ ] Temporal — Staff Software Engineer, AI Foundations (AI Agent Optimization) | United States or Canada, Remote Opportunity | https://job-boards.greenhouse.io/temporaltechnologies/jobs/5204483007
+- [ ] Temporal — Staff Software Engineer, Traffic | United States, Remote Opportunity | https://job-boards.greenhouse.io/temporaltechnologies/jobs/5214260007
+- [ ] Arize AI — Forward Deployed AI Engineer, East | Remote (New York) | https://job-boards.greenhouse.io/arizeai/jobs/5993755004
+- [ ] Arize AI — Forward Deployed AI Engineer, West | Remote (San Francisco) | https://job-boards.greenhouse.io/arizeai/jobs/6030953004
+- [ ] Arize AI — Open Source AI Engineer (Typescript) | Remote (United States) | https://job-boards.greenhouse.io/arizeai/jobs/6119757004
+- [ ] Glean — Machine Learning Engineer, Assistant Quality | San Francisco, CA | https://job-boards.greenhouse.io/gleanwork/jobs/4711484005
+- [ ] Glean — Senior Technical Program Manager, Infrastructure | San Francisco, CA | https://job-boards.greenhouse.io/gleanwork/jobs/4628714005
+- [ ] Glean — Software Engineer, Cloud Deployment Infrastructure | San Francisco, CA | https://job-boards.greenhouse.io/gleanwork/jobs/4711861005
+- [ ] Glean — Software Engineer, Cloud Infrastructure | San Francisco, CA | https://job-boards.greenhouse.io/gleanwork/jobs/4709327005
+- [ ] Celonis — Senior Applied AI Engineer - Technology Consultant | New York, US, New York | https://job-boards.greenhouse.io/celonis/jobs/7765659003?gh_jid=7765659003
+- [ ] Celonis —  Staff Software Engineer | Redwood City, US, California | https://job-boards.greenhouse.io/celonis/jobs/7812734003?gh_jid=7812734003
+- [ ] Celonis — Staff Software Engineer | New York, US, New York | https://job-boards.greenhouse.io/celonis/jobs/7790282003?gh_jid=7790282003
+- [ ] HelloFresh — Staff Backend Engineer, Customer Value Optimization | New York, NY, United States | https://careers.hellofresh.com/global/en/job/7845008?gh_jid=7845008
+- [ ] SumUp — Backend Engineer - Balance Management | Vilnius, Lithuania | https://sumup.com/careers/positions/8682228002?gh_jid=8682228002
+- [ ] SumUp — Backend Engineer - Transfers Gateway | Vilnius, Lithuania | https://sumup.com/careers/positions/8682243002?gh_jid=8682243002
+- [ ] SumUp — Senior Backend Engineer (Golang) | Vilnius, Lithuania | https://sumup.com/careers/positions/7480776002?gh_jid=7480776002
+- [ ] Isomorphic Labs — Security Engineering Manager, London or Lausanne | Lausanne; London | https://job-boards.greenhouse.io/isomorphiclabs/jobs/6118868004
+- [ ] PhysicsX — Forward Deployed DevOps Lead | New York, United States | https://job-boards.eu.greenhouse.io/physicsx/jobs/4907382101
+- [ ] PhysicsX — Machine Learning Engineer | San Francisco, CA | https://job-boards.eu.greenhouse.io/physicsx/jobs/4880947101
+- [ ] Amplemarket — Frontend Software Engineer | Remote, EMEA/LATAM | https://job-boards.eu.greenhouse.io/amplemarket/jobs/4488062101
+- [ ] Amplemarket — Fullstack Software Engineer | Remote, EMEA/LATAM | https://job-boards.eu.greenhouse.io/amplemarket/jobs/4066973101
+- [ ] Amplemarket — Senior Backend Software Engineer | Remote, EMEA/LATAM/North America | https://job-boards.eu.greenhouse.io/amplemarket/jobs/4066899101
+- [ ] Amplemarket — Spontaneous Application - Data Engineer | Remote, EMEA/LATAM | https://job-boards.eu.greenhouse.io/amplemarket/jobs/4108094101
+- [ ] Amplemarket — Spontaneous Application - Infrastructure Engineer | Remote, EMEA/LATAM | https://job-boards.eu.greenhouse.io/amplemarket/jobs/4066888101
+- [ ] Fivetran — Engineering Manager, Metadata | Denver, Colorado, United States, AMER | https://www.fivetran.com/careers/job?gh_jid=7823195003
+- [ ] Fivetran — Global Technology Alliance Manager, Databricks | Oakland, California, United States, AMER | https://www.fivetran.com/careers/job?gh_jid=7850882003
+- [ ] Fivetran — Manager, Software Engineering | Remote, India, APAC | https://www.fivetran.com/careers/job?gh_jid=7818324003
+- [ ] Fivetran — Principal Software Engineer - Data Lakes | Remote, Germany, EMEA | https://www.fivetran.com/careers/job?gh_jid=7771684003
+- [ ] Fivetran — Senior Product Manager, Data & Integrations | Denver, Colorado, United States, AMER | https://www.fivetran.com/careers/job?gh_jid=7524547003
+- [ ] Fivetran — Senior Product Manager, Data & Integrations | Oakland, California, United States, AMER | https://www.fivetran.com/careers/job?gh_jid=7524543003
+- [ ] Fivetran — Senior R&D Software Engineer, Fivetran AI | Denver, Colorado, United States, AMER | https://www.fivetran.com/careers/job?gh_jid=7810467003
+- [ ] Fivetran — Senior R&D Software Engineer, Fivetran AI | USA - Austin (dbt) | https://www.fivetran.com/careers/job?gh_jid=7810466003
+- [ ] Fivetran — Senior R&D Software Engineer, Fivetran AI | Oakland, California, United States, AMER | https://www.fivetran.com/careers/job?gh_jid=7810218003
+- [ ] Fivetran — Senior R&D Software Engineer, Fivetran AI | USA - New York | https://www.fivetran.com/careers/job?gh_jid=7810468003
+- [ ] Fivetran — Senior Software Engineer - Metadata | Oakland, California, United States | https://www.fivetran.com/careers/job?gh_jid=7865591003
+- [ ] Fivetran — Senior Software Engineer - Metadata | Denver, Colorado, United States, AMER | https://www.fivetran.com/careers/job?gh_jid=7865559003
+- [ ] Fivetran — Senior Staff R&D Software Engineer, Fivetran AI | Oakland, California, United States, AMER | https://www.fivetran.com/careers/job?gh_jid=7810361003
+- [ ] Fivetran — Senior Staff R&D Software Engineer, Fivetran AI | USA - Austin (dbt) | https://www.fivetran.com/careers/job?gh_jid=7810446003
+- [ ] Fivetran — Senior Staff R&D Software Engineer, Fivetran AI | Denver, Colorado, United States, AMER | https://www.fivetran.com/careers/job?gh_jid=7810450003
+- [ ] Fivetran — Senior Staff R&D Software Engineer, Fivetran AI | USA - New York | https://www.fivetran.com/careers/job?gh_jid=7810451003
+- [ ] Fivetran — Software Engineer  | Oakland, California, United States, AMER | https://www.fivetran.com/careers/job?gh_jid=7778979003
+- [ ] Fivetran — Staff R&D Software Engineer, Fivetran AI | USA - New York | https://www.fivetran.com/careers/job?gh_jid=7812006003
+- [ ] Fivetran — Staff R&D Software Engineer, Fivetran AI | Oakland, California, United States, AMER | https://www.fivetran.com/careers/job?gh_jid=7810220003
+- [ ] Fivetran — Staff R&D Software Engineer, Fivetran AI | USA - Austin (dbt) | https://www.fivetran.com/careers/job?gh_jid=7811996003
+- [ ] Fivetran — Staff R&D Software Engineer, Fivetran AI | Denver, Colorado, United States, AMER | https://www.fivetran.com/careers/job?gh_jid=7812000003
+- [ ] Fivetran — Staff Software Engineer_dbt core | Remote, India, APAC | https://www.fivetran.com/careers/job?gh_jid=7818352003
+- [ ] Fivetran — Staff Software Engineer, Metadata | Denver, Colorado, United States, AMER | https://www.fivetran.com/careers/job?gh_jid=7864598003
+- [ ] Fivetran — Staff Software Engineer, Metadata | Oakland, California, United States | https://www.fivetran.com/careers/job?gh_jid=7823193003
+- [ ] Samsara — Finance & Strategy AI Engineer | San Francisco - SF9 | https://www.samsara.com/company/careers/roles/8113356?gh_jid=8113356
+- [ ] Samsara — Lead Machine Learning Engineer - ML Infrastructure | Remote - Canada | https://www.samsara.com/company/careers/roles/7746586?gh_jid=7746586
+- [ ] Samsara — Lead Machine Learning Engineer - ML Infrastructure  | Remote - US | https://www.samsara.com/company/careers/roles/7721193?gh_jid=7721193
+- [ ] Samsara — Manager II, Data Platform | Remote - US | https://www.samsara.com/company/careers/roles/7811931?gh_jid=7811931
+- [ ] Samsara — People Analytics AI Engineer | Remote - Seattle | https://www.samsara.com/company/careers/roles/7858719?gh_jid=7858719
+- [ ] Samsara — Senior AI Data Engineer | Remote - Canada | https://www.samsara.com/company/careers/roles/8126100?gh_jid=8126100
+- [ ] Samsara — Senior Data Engineer | Remote - Canada | https://www.samsara.com/company/careers/roles/7997311?gh_jid=7997311
+- [ ] Samsara — Senior Data Engineer | Remote - Canada | https://www.samsara.com/company/careers/roles/8025794?gh_jid=8025794
+- [ ] Samsara — Senior Data Engineer | Remote - US | https://www.samsara.com/company/careers/roles/7859702?gh_jid=7859702
+- [ ] Samsara — Senior Data Engineer | Remote - US | https://www.samsara.com/company/careers/roles/7964565?gh_jid=7964565
+- [ ] Samsara — Senior Marketing Analytics Manager - BI & Data Architecture | Remote - Toronto | https://www.samsara.com/company/careers/roles/8099653?gh_jid=8099653
+- [ ] Samsara — Senior Marketing Analytics Manager - BI & Data Architecture | Remote - US | https://www.samsara.com/company/careers/roles/7917475?gh_jid=7917475
+- [ ] Samsara — Senior Software Engineer | Remote - US | https://www.samsara.com/company/careers/roles/7266439?gh_jid=7266439
+- [ ] Samsara — Senior Software Engineer | Remote - Canada | https://www.samsara.com/company/careers/roles/8130819?gh_jid=8130819
+- [ ] Samsara — Senior Software Engineer- Agentic Platform & Integrations (Full Stack) | Remote - Poland | https://www.samsara.com/company/careers/roles/8052685?gh_jid=8052685
+- [ ] Samsara — Senior Software Engineer - Connected Workflows | Remote - US | https://www.samsara.com/company/careers/roles/7847219?gh_jid=7847219
+- [ ] Samsara — Senior Software Engineer - Data Platform | Remote - Canada | https://www.samsara.com/company/careers/roles/7992889?gh_jid=7992889
+- [ ] Samsara — Senior Software Engineer - Data Platform | Remote - US | https://www.samsara.com/company/careers/roles/7922530?gh_jid=7922530
+- [ ] Samsara — Senior Software Engineer II | Remote - Canada | https://www.samsara.com/company/careers/roles/8083934?gh_jid=8083934
+- [ ] Samsara — Senior Software Engineer II | Remote - Canada | https://www.samsara.com/company/careers/roles/8129161?gh_jid=8129161
+- [ ] Samsara — Senior Software Engineer II, Developer Experience / Operational Excellence | Remote - UK | https://www.samsara.com/company/careers/roles/7717540?gh_jid=7717540
+- [ ] Samsara — Senior Software Engineer II, DevEx, OPX | Remote - Canada; Remote - US | https://www.samsara.com/company/careers/roles/8044126?gh_jid=8044126
+- [ ] Samsara — Software Engineer II | Remote - US | https://www.samsara.com/company/careers/roles/8036387?gh_jid=8036387
+- [ ] Samsara — Software Engineer I - New Grad, SF | San Francisco - SF9 | https://www.samsara.com/company/careers/roles/8097343?gh_jid=8097343
+- [ ] Samsara — Sr. Software Engineer, Cloud Platform  | Remote - UK | https://www.samsara.com/company/careers/roles/8042387?gh_jid=8042387
+- [ ] Samsara — Sr. Software Engineer II, AI Platform | Remote - SF Bay Area | https://www.samsara.com/company/careers/roles/8050373?gh_jid=8050373
+- [ ] Samsara — Sr. Software Engineer II - IAM | Remote - Canada | https://www.samsara.com/company/careers/roles/7997916?gh_jid=7997916
+- [ ] Samsara — Sr. Software Engineer II - IAM | Remote - SF Bay Area | https://www.samsara.com/company/careers/roles/7892022?gh_jid=7892022
+- [ ] Samsara — Staff Machine Learning Engineer - Edge AI | Remote - US | https://www.samsara.com/company/careers/roles/7266357?gh_jid=7266357
+- [ ] Samsara — Staff Machine Learning Engineer - Edge AI | Remote - Canada | https://www.samsara.com/company/careers/roles/7431070?gh_jid=7431070
+- [ ] Samsara — Staff Software Engineer | Remote - US | https://www.samsara.com/company/careers/roles/8064742?gh_jid=8064742
+- [ ] Samsara — Staff Software Engineer | Remote - US | https://www.samsara.com/company/careers/roles/7588828?gh_jid=7588828
+- [ ] Samsara — Staff Software Engineer | Remote - Canada | https://www.samsara.com/company/careers/roles/8115078?gh_jid=8115078
+- [ ] Samsara — Staff Software Engineer | Remote - Canada | https://www.samsara.com/company/careers/roles/8115102?gh_jid=8115102
+- [ ] Samsara — Staff Software Engineer, DevEx | Remote - Canada | https://www.samsara.com/company/careers/roles/8109358?gh_jid=8109358
+- [ ] Samsara — Staff Software Engineer, DevEx | Remote - CA | https://www.samsara.com/company/careers/roles/7752678?gh_jid=7752678
+- [ ] Samsara — Staff Software Engineer - Platform | Remote - SF Bay Area | https://www.samsara.com/company/careers/roles/7266385?gh_jid=7266385
+- [ ] Chainguard — Manager, Software Engineering (Libraries Automation) | United Kingdom - Remote | https://job-boards.greenhouse.io/chainguard/jobs/4702085006
+- [ ] Chainguard — Principal Software Engineer (Libraries Platform)  | United Kingdom - Remote | https://job-boards.greenhouse.io/chainguard/jobs/4698959006
+- [ ] Chainguard — Principal Software Engineer (Libraries Platform)  | Canada - Remote | https://job-boards.greenhouse.io/chainguard/jobs/4698958006
+- [ ] Chainguard — Senior Software Engineer (AI CICD) | Europe - Remote; United Kingdom - Remote; United States - Remote | https://job-boards.greenhouse.io/chainguard/jobs/4700937006
+- [ ] Chainguard — Senior Software Engineer (Customer Platform)  | United States - Remote | https://job-boards.greenhouse.io/chainguard/jobs/4688378006
+- [ ] Chainguard — Senior Software Engineer, Developer Platform  | United States - Remote | https://job-boards.greenhouse.io/chainguard/jobs/4699416006
+- [ ] Chainguard — Software Engineer (Libraries Platform)  | United Kingdom - Remote | https://job-boards.greenhouse.io/chainguard/jobs/4699213006
+- [ ] Chainguard — Staff Software Engineer (AI CICD) | Europe - Remote; United Kingdom - Remote; United States - Remote | https://job-boards.greenhouse.io/chainguard/jobs/4700929006
+- [ ] Chainguard — Staff Software Engineer (AI CICD) | Europe - Remote; United Kingdom - Remote; United States - Remote | https://job-boards.greenhouse.io/chainguard/jobs/4700933006
+- [ ] Chainguard — Staff Software Engineer (Customer Platform) | United States - Remote | https://job-boards.greenhouse.io/chainguard/jobs/4705456006
+- [ ] Chainguard — Staff Software Engineer (Customer Platform) | United Kingdom - Remote | https://job-boards.greenhouse.io/chainguard/jobs/4705457006
+- [ ] Chainguard — Staff Software Engineer (Guarded Containers) | United States - Remote | https://job-boards.greenhouse.io/chainguard/jobs/4688854006
+- [ ] Chainguard — Staff Software Engineer (Repositories) | United Kingdom - Remote | https://job-boards.greenhouse.io/chainguard/jobs/4697556006
+- [ ] Chainguard — Staff Software Engineer (Repositories) | Canada - Remote | https://job-boards.greenhouse.io/chainguard/jobs/4697557006
+- [ ] Scale AI — Forward Deployed Software Engineer, Public Sector | Austin, TX; Colorado Springs, CO; Honolulu, HI; St. Louis, MO; Washington, DC | https://job-boards.greenhouse.io/scaleai/jobs/4481921005
+- [ ] Scale AI — Senior Mission Software Engineer, Public Sector | Austin, TX; Colorado Springs, CO; Honolulu, HI; St. Louis, MO; Washington, DC | https://job-boards.greenhouse.io/scaleai/jobs/4720422005
+- [ ] Scale AI — Senior Software Engineer, Identity | San Francisco, CA; New York, NY; Washington, DC | https://job-boards.greenhouse.io/scaleai/jobs/4711898005
+- [ ] Scale AI — Software Engineer - AI Enablement | San Francisco, CA | https://job-boards.greenhouse.io/scaleai/jobs/4722512005
+- [ ] Scale AI — Software Engineer, Gen AI | San Francisco, CA; New York, NY | https://job-boards.greenhouse.io/scaleai/jobs/4591300005
+- [ ] Scale AI — Software Engineer, Identity | San Francisco, CA; New York, NY; Washington, DC | https://job-boards.greenhouse.io/scaleai/jobs/4710484005
+- [ ] Scale AI — Staff Software Engineer, Full Stack - Gen AI  | New York, NY; San Francisco, CA; Seattle, WA; New York, NY | https://job-boards.greenhouse.io/scaleai/jobs/4713608005
+- [ ] Scale AI — Technical Program Manager, Platform  | San Francisco, CA; New York, NY | https://job-boards.greenhouse.io/scaleai/jobs/4703275005
+- [ ] Databricks — AI Engineer - FDE (Forward Deployed Engineer) | United States | https://databricks.com/company/careers/open-positions/job?gh_jid=8546367002
+- [ ] Databricks — AI Engineer - FDE (Forward Deployed Engineer) | Remote - United Kingdom | https://databricks.com/company/careers/open-positions/job?gh_jid=8593713002
+- [ ] Databricks — Principal Event Marketing Manager, Data + AI World Tour | United States | https://databricks.com/company/careers/open-positions/job?gh_jid=8638646002
+- [ ] Databricks — Senior Applied ML Engineer - ML4Sys  | San Francisco, California | https://databricks.com/company/careers/open-positions/job?gh_jid=8656900002
+- [ ] Databricks — Senior Manager, Infrastructure Data Science | San Francisco, California | https://databricks.com/company/careers/open-positions/job?gh_jid=7734812002
+- [ ] Databricks — Senior Staff Software Engineer - Delta | Aarhus, Denmark | https://databricks.com/company/careers/open-positions/job?gh_jid=8303014002
+- [ ] Databricks — Senior Staff Software Engineer - Unity Catalog Runtime Enforcement  | Aarhus, Denmark | https://databricks.com/company/careers/open-positions/job?gh_jid=8422484002
+- [ ] Databricks — Specialist Solutions Architect - Data Engineering & Warehousing (Financial Services) | United States | https://databricks.com/company/careers/open-positions/job?gh_jid=8692962002
+- [ ] Databricks — Sr. Engineering Manager, AI Runtime | Mountain View, California; San Francisco, California | https://databricks.com/company/careers/open-positions/job?gh_jid=8621706002
+- [ ] Databricks — Sr. Product Manager, Databricks AI | San Francisco, California | https://databricks.com/company/careers/open-positions/job?gh_jid=8136071002
+- [ ] Databricks — Sr. Product Manager, Databricks AI | Seattle, Washington | https://databricks.com/company/careers/open-positions/job?gh_jid=8136204002
+- [ ] Databricks — Sr. Product Manager, Databricks Free Edition | San Francisco, California | https://databricks.com/company/careers/open-positions/job?gh_jid=7680573002
+- [ ] Databricks — Sr. Product Manager, Databricks Free Edition | Seattle, Washington | https://databricks.com/company/careers/open-positions/job?gh_jid=8235785002
+- [ ] Databricks — Sr. Product Manager, Databricks Repos | Seattle, Washington | https://databricks.com/company/careers/open-positions/job?gh_jid=8326570002
+- [ ] Databricks — Sr. Product Manager, Databricks Repos | San Francisco, California | https://databricks.com/company/careers/open-positions/job?gh_jid=8326513002
+- [ ] Databricks — Sr. Product Manager, Data Governance | Seattle, Washington | https://databricks.com/company/careers/open-positions/job?gh_jid=7863522002
+- [ ] Databricks — Sr. Product Manager, Data Governance | San Francisco, California | https://databricks.com/company/careers/open-positions/job?gh_jid=7863365002
+- [ ] Databricks — Sr. Software Engineer - Backend | Aarhus, Denmark | https://databricks.com/company/careers/open-positions/job?gh_jid=7643201002
+- [ ] Databricks — Sr. Staff Software Engineer — Observability, Insights & Governance | Mountain View, California; San Francisco, California | https://databricks.com/company/careers/open-positions/job?gh_jid=8575248002
+- [ ] Databricks — Sr. Staff Software Engineer — Observability, Insights & Governance | Bellevue, Washington; Seattle, Washington | https://databricks.com/company/careers/open-positions/job?gh_jid=8575251002
+- [ ] Databricks — Staff Security Software Engineer, AI Security | Remote - California | https://databricks.com/company/careers/open-positions/job?gh_jid=8026634002
+- [ ] Databricks — Staff Security Software Engineer, AI Security Engineering  | Remote - California | https://databricks.com/company/careers/open-positions/job?gh_jid=7882009002
+- [ ] Databricks — Staff Software Engineer - AI Research Infrastructure | New York City, New York; San Francisco, California | https://databricks.com/company/careers/open-positions/job?gh_jid=8552484002
+- [ ] Databricks — Staff Software Engineer - Backend   | Aarhus, Denmark | https://databricks.com/company/careers/open-positions/job?gh_jid=7642799002
+- [ ] Databricks — Staff Software Engineer - Streaming | Seattle, Washington | https://databricks.com/company/careers/open-positions/job?gh_jid=8663972002
+- [ ] Clickhouse — Cloud Software Engineer - Observability Platform | United States (remote) | https://job-boards.greenhouse.io/clickhouse/jobs/6130197004
+- [ ] Clickhouse — Cloud Software Engineer - Observability Platform | Canada (remote) | https://job-boards.greenhouse.io/clickhouse/jobs/6130195004
+- [ ] Clickhouse — Core Software Engineer (C++) - Remote | Netherlands (remote) | https://job-boards.greenhouse.io/clickhouse/jobs/5755090004
+- [ ] Clickhouse — Core Software Engineer (C++) - Remote | United Kingdom (remote) | https://job-boards.greenhouse.io/clickhouse/jobs/5755091004
+- [ ] Clickhouse — Core Software Engineer (C++) - Remote | Germany (remote) | https://job-boards.greenhouse.io/clickhouse/jobs/5755092004
+- [ ] Clickhouse — Core Software Engineer (C++) - Remote | India (remote) | https://job-boards.greenhouse.io/clickhouse/jobs/5767816004
+- [ ] Clickhouse — Engineering Lead, Web Platform | United States (Remote) | https://job-boards.greenhouse.io/clickhouse/jobs/6126897004
+- [ ] Clickhouse — Engineering Manager - China | Mainland China (remote) | https://job-boards.greenhouse.io/clickhouse/jobs/5720674004
+- [ ] Clickhouse — Full Stack Software Engineer - Control Plane | Netherlands (remote) | https://job-boards.greenhouse.io/clickhouse/jobs/5587664004
+- [ ] Clickhouse — Full Stack Software Engineer - Control Plane | Germany (remote) | https://job-boards.greenhouse.io/clickhouse/jobs/5587665004
+- [ ] Clickhouse — Principal Software Engineer - Postgres | United States | https://job-boards.greenhouse.io/clickhouse/jobs/6001254004
+- [ ] Clickhouse — Principal Software Engineer - Postgres | India (remote) | https://job-boards.greenhouse.io/clickhouse/jobs/6001255004
+- [ ] Clickhouse — Senior Backend Engineer - ClickStack | Netherlands (remote) | https://job-boards.greenhouse.io/clickhouse/jobs/5838221004
+- [ ] Clickhouse — Senior Backend Engineer - ClickStack | Canada (remote) | https://job-boards.greenhouse.io/clickhouse/jobs/5838220004
+- [ ] Clickhouse — Senior Backend Engineer - ClickStack | Germany (remote) | https://job-boards.greenhouse.io/clickhouse/jobs/5838219004
+- [ ] Clickhouse — Senior Backend Engineer - ClickStack | United Kingdom (remote) | https://job-boards.greenhouse.io/clickhouse/jobs/5838218004
+- [ ] Clickhouse — Senior Backend Engineer - Infrastructure (ClickPipes) | Canada (remote) | https://job-boards.greenhouse.io/clickhouse/jobs/5776994004
+- [ ] Clickhouse — Senior Cloud Data Infrastructure Engineer | Canada (Remote) | https://job-boards.greenhouse.io/clickhouse/jobs/5778616004
+- [ ] Clickhouse — Senior Cloud Data Infrastructure Engineer | Germany (remote) | https://job-boards.greenhouse.io/clickhouse/jobs/5778615004
+- [ ] Clickhouse — Senior Cloud Software Engineer - Efficiency Engineering | United States(Remote) | https://job-boards.greenhouse.io/clickhouse/jobs/6142784004
+- [ ] Clickhouse — Senior Cloud Software Engineer - Efficiency Engineering | Canada(Remote) | https://job-boards.greenhouse.io/clickhouse/jobs/6142785004
+- [ ] Clickhouse — Senior Full Stack Engineer - ClickStack | Germany (remote) | https://job-boards.greenhouse.io/clickhouse/jobs/5748779004
+- [ ] Clickhouse — Senior Full Stack Engineer - ClickStack | United Kingdom (remote) | https://job-boards.greenhouse.io/clickhouse/jobs/5748778004
+- [ ] Clickhouse — Senior Full Stack Engineer - ClickStack | Canada (remote) | https://job-boards.greenhouse.io/clickhouse/jobs/5748780004
+- [ ] Clickhouse — Senior Full Stack Engineer - ClickStack | Netherlands (remote) | https://job-boards.greenhouse.io/clickhouse/jobs/5748782004
+- [ ] Clickhouse — Senior Full Stack Software Engineer - ClickPipes Platform | Netherlands (remote) | https://job-boards.greenhouse.io/clickhouse/jobs/5777062004
+- [ ] Clickhouse — Senior Full Stack Software Engineer - ClickPipes Platform | United Kingdom (remote) | https://job-boards.greenhouse.io/clickhouse/jobs/5777061004
+- [ ] Clickhouse — Senior Infrastructure Engineer - Postgres | India (remote) | https://job-boards.greenhouse.io/clickhouse/jobs/5717944004
+- [ ] Clickhouse — Senior Site Reliability Engineer- EMEA(Remote) | EMEA(Remote) | https://job-boards.greenhouse.io/clickhouse/jobs/6114708004
+- [ ] Clickhouse — Senior Site Reliability Engineer- Remote  | Singapore(Remote) | https://job-boards.greenhouse.io/clickhouse/jobs/5819755004
+- [ ] Clickhouse — Senior Site Reliability Engineer- Remote  | Canada(remote) | https://job-boards.greenhouse.io/clickhouse/jobs/5819757004
+- [ ] Clickhouse — Senior Software Engineer - Cloud Infrastructure | Canada(Remote) | https://job-boards.greenhouse.io/clickhouse/jobs/5819679004
+- [ ] Clickhouse — Senior Software Engineer - Cloud Infrastructure | UK (Remote) | https://job-boards.greenhouse.io/clickhouse/jobs/5819677004
+- [ ] Clickhouse — Senior Software Engineer - Cloud Infrastructure | Amsterdam(Remote) | https://job-boards.greenhouse.io/clickhouse/jobs/5819678004
+- [ ] Clickhouse — Senior Software Engineer - Cloud Infrastructure | Singapore (Remote) | https://job-boards.greenhouse.io/clickhouse/jobs/5819676004
+- [ ] Clickhouse — Senior Software Engineer - Cloud Partner Integrations | Canada (remote) | https://job-boards.greenhouse.io/clickhouse/jobs/6115276004
+- [ ] Clickhouse — Senior Software Engineer - Cloud Partner Integrations | Germany (remote) | https://job-boards.greenhouse.io/clickhouse/jobs/6115275004
+- [ ] Clickhouse — Senior Software Engineer - Cloud Partner Integrations | Spain (remote) | https://job-boards.greenhouse.io/clickhouse/jobs/6115280004
+- [ ] Clickhouse — Senior Software Engineer - Cloud Partner Integrations | UK (remote) | https://job-boards.greenhouse.io/clickhouse/jobs/6116420004
+- [ ] Clickhouse — Senior Software Engineer - Identity & Authorization Platform | United States (remote) | https://job-boards.greenhouse.io/clickhouse/jobs/6018899004
+- [ ] Clickhouse — Senior Software Engineer - Identity & Authorization Platform | Canada (remote) | https://job-boards.greenhouse.io/clickhouse/jobs/6018901004
+- [ ] Clickhouse — Senior Software Engineer - Integrations - AI/ML | Germany (remote) | https://job-boards.greenhouse.io/clickhouse/jobs/6107516004
+- [ ] Clickhouse — Senior Software Engineer - Integrations - AI/ML | Canada (Remote) | https://job-boards.greenhouse.io/clickhouse/jobs/6107515004
+- [ ] Clickhouse — Senior Software Engineer - Integrations - AI/ML | Israel (remote) | https://job-boards.greenhouse.io/clickhouse/jobs/6107518004
+- [ ] Clickhouse — Senior Software Engineer - Integrations - AI/ML | UK (remote) | https://job-boards.greenhouse.io/clickhouse/jobs/6107517004
+- [ ] Clickhouse — Senior Software Engineer - Integrations - AI/ML  | United States (Remote) | https://job-boards.greenhouse.io/clickhouse/jobs/6107514004
+- [ ] Clickhouse — Senior Software Engineer - Postgres | India (remote) | https://job-boards.greenhouse.io/clickhouse/jobs/5989606004
+- [ ] Clickhouse — Senior Software Engineer - Postgres | Canada (remote) | https://job-boards.greenhouse.io/clickhouse/jobs/5989605004
+- [ ] Clickhouse — Senior Software Engineer (Typescript / FrontEnd) - AI/ML | United States (remote) | https://job-boards.greenhouse.io/clickhouse/jobs/5996876004
+- [ ] Zipline — Associate Maintenance Operations Engineering Lead, Test Sites | Esparto, California, USA | https://www.zipline.com/open-roles?gh_jid=7907661003
+- [ ] Zipline — Director of Software Engineering – Marketplace | South San Francisco, California, USA | https://www.zipline.com/open-roles?gh_jid=7815718003
+- [ ] Zipline — Senior Software Engineer - Motor Controls | South San Francisco, California, USA | https://www.zipline.com/open-roles?gh_jid=6641068003
+- [ ] Zipline — Sr. IT Infrastructure Engineer | South San Francisco, California, USA | https://www.zipline.com/open-roles?gh_jid=7850772003
+- [ ] Zipline — Staff Motion Planning Software Engineer | South San Francisco, California, USA | https://www.zipline.com/open-roles?gh_jid=7819774003
+- [ ] Zipline — Staff Software Engineer – Marketplace Growth | South San Francisco, California, USA | https://www.zipline.com/open-roles?gh_jid=7822379003
+- [ ] Planet Labs — Senior Data Engineer | Washington DC; Denver, CO | https://job-boards.greenhouse.io/planetlabs/jobs/8016466
+- [ ] Planet Labs — Software Engineer, Missions Software | United States, Remote; Canada, Remote | https://job-boards.greenhouse.io/planetlabs/jobs/8008355
+- [ ] Planet Labs — Software Engineer, Platform Operations | Canada, Remote | https://job-boards.greenhouse.io/planetlabs/jobs/7593419
+- [ ] Vast — Senior Software Engineer, Backend | Long Beach, California, United States | https://boards.greenhouse.io/vast/jobs/4677084006?gh_jid=4677084006
+- [ ] Vast — Staff Data Architect | Long Beach, California, United States | https://boards.greenhouse.io/vast/jobs/4668548006?gh_jid=4668548006
+- [ ] Vast — Staff DevOps Engineer | Long Beach, California, United States | https://boards.greenhouse.io/vast/jobs/4682089006?gh_jid=4682089006
+- [ ] Vast — Staff Flight Software Engineer | Long Beach, California, United States | https://boards.greenhouse.io/vast/jobs/4350635006?gh_jid=4350635006
+- [ ] Vast — Staff Software Engineer, AI Tooling | Long Beach, California, United States | https://boards.greenhouse.io/vast/jobs/4669157006?gh_jid=4669157006
