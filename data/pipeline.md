@@ -1,5 +1,15 @@
 # Pipeline — Pending Offers
 
+## 2026-08-23 — Full Portal Scan (35+ companies)
+
+> 35+ companies — Greenhouse API (Anthropic, Anduril, Dagster, Temporal, Fivetran, Samsara, Scale AI, Chainguard, Figure AI, Databricks, ClickHouse, Glean, Rocket Lab) + WebSearch (Confluent, Anyscale, MotherDuck, Reddit, Grafana Labs, Hinge Health, Vanta, Okta + cross-portal staff/data discovery). Dedup against ~23,800+ history entries. **1 new match**. Pipeline current from 08-22 comprehensive scan. Report: [scout-2026-08-23.md](../reports/scout-2026-08-23.md)
+
+#### Top Picks (4.0+)
+
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/6369927 | Reddit | Staff Software Engineer, Messaging Platform | Remote US | ★ 4.0/5 — Kafka platform engineering on multi-cloud K8s: exact Patrick stack (CDC pipelines, K8s multi-cluster, Argo Workflows). Consumer internet scale (100M+ DAU). Est. $205K–$265K (Reddit Staff range). Verify JD still active + confirm comp before applying.
+
+---
+
 ## 2026-08-22 — Full Portal Scan (40+ companies + Cribl discovery)
 
 > 40+ companies — Greenhouse API + WebSearch cross-portal. Dedup against 23,801 history entries. **4 new matches** (all Cribl — new company not previously tracked). Report: [scout-2026-08-22.md](../reports/scout-2026-08-22.md)
