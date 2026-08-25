@@ -7457,3 +7457,8 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - [ ] Vast — Staff DevOps Engineer | Long Beach, California, United States | https://boards.greenhouse.io/vast/jobs/4682089006?gh_jid=4682089006
 - [ ] Vast — Staff Flight Software Engineer | Long Beach, California, United States | https://boards.greenhouse.io/vast/jobs/4350635006?gh_jid=4350635006
 - [ ] Vast — Staff Software Engineer, AI Tooling | Long Beach, California, United States | https://boards.greenhouse.io/vast/jobs/4669157006?gh_jid=4669157006
+
+## 2026-08-25 — Scout Scan
+
+- [x] Estuary — Senior Systems Engineer, Capture & Materializations | US Remote | https://estuary.dev/about/ | ⭐️ 4.2/5 — NEW 2026-08-25 (HN Aug 2026 thread). CDC pipelines in Rust: exact match for Patrick's Modern Data Stack Demo stack. Apply via careers@estuary.dev. Comp unspecified, Senior not Staff.
+- [ ] Estuary — Senior Systems Engineer, Control & Data Plane | US Remote | https://estuary.dev/about/ | 3.8/5 — NEW 2026-08-25. Distributed control/data plane, Go/Rust, K8s. Apply via careers@estuary.dev alongside Capture role.
