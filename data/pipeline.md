@@ -7480,3 +7480,11 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 
 - [x] Estuary — Senior Systems Engineer, Capture & Materializations | US Remote | https://estuary.dev/about/ | ⭐️ 4.2/5 — NEW 2026-08-25 (HN Aug 2026 thread). CDC pipelines in Rust: exact match for Patrick's Modern Data Stack Demo stack. Apply via careers@estuary.dev. Comp unspecified, Senior not Staff.
 - [ ] Estuary — Senior Systems Engineer, Control & Data Plane | US Remote | https://estuary.dev/about/ | 3.8/5 — NEW 2026-08-25. Distributed control/data plane, Go/Rust, K8s. Apply via careers@estuary.dev alongside Capture role.
+
+## 2026-08-25 — Quick Check (Greenhouse API)
+
+- [ ] Anthropic — Applied AI Engineer, Beneficial Deployments (Life Sciences) | San Francisco, CA | https://job-boards.greenhouse.io/anthropic/jobs/5021015008 | AI engineer role at Anthropic. Life sciences vertical. SF-based.
+- [ ] Anthropic — IT Systems Engineer, Mobile Client Platform Engineer | Remote-Friendly (Travel-Required) | SF, Seattle, NYC | https://job-boards.greenhouse.io/anthropic/jobs/5396384008 | Platform engineer for mobile/IT systems. Remote-friendly but travel required. Verify fit.
+- [ ] Anthropic — Software Engineer, Business Technology | Seattle, WA | San Francisco, CA | https://job-boards.greenhouse.io/anthropic/jobs/5400153008 | SWE on business technology systems at Anthropic. Seattle or SF.
+- [ ] Anthropic — Staff + Sr. Software Engineer, Scaling | San Francisco, CA | Seattle, WA | https://job-boards.greenhouse.io/anthropic/jobs/5400012008 | Staff/Senior SWE on scaling infra at Anthropic. SF or Seattle. Strong fit.
+- [ ] Fivetran — Senior Staff Software Engineer | Oakland, California, United States | https://www.fivetran.com/careers/job?gh_jid=7976827003 | Senior Staff SWE at Fivetran (Denver/Remote company). Oakland listed — verify remote option.
