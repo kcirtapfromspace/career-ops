@@ -1,5 +1,23 @@
 # Pipeline — Pending Offers
 
+## 2026-08-25 — Quick Check (Greenhouse API, 41 companies)
+
+> Greenhouse API-only quick check. 39 companies fetched (Anthropic timed out, Aurora Innovation 404). 7,345 total jobs, 1,150 title-matched, **6 new location-qualified matches** after dedup against 22,222 history entries. Report: [scout-quickcheck-2026-08-25.md](../reports/scout-quickcheck-2026-08-25.md)
+
+#### Remote / SF Picks
+
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6161129004 | Vercel | Software Engineer, Data Platform | Hybrid SF/NYC — data pipeline & platform role at Vercel. Fast-moving AI infra company (v0.dev, AI SDK). Hybrid SF/NYC; confirm if Denver remote OK.
+- [ ] https://www.samsara.com/company/careers/roles/8153269?gh_jid=8153269 | Samsara | Staff Software Engineer, Maps Services | Remote US — distributed geo services at IoT/fleet scale. Python/Go, large-scale data infra.
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4707850006 | Chainguard | Staff Software Engineer, Developer Platform | Remote US — cloud-native supply chain security, K8s/containers/Argo. Patrick's stack.
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/8155646 | Planet Labs | Senior Software Engineer, GMS App Team | Remote US — Earth observation data platform. Satellite imagery at scale.
+
+#### SF/Hybrid (may require relocation consideration)
+
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5914474004 | Vercel | Senior Data Engineer - Finance | Hybrid SF/NYC — finance data pipelines at Vercel. Strong data infra fit.
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5914473004 | Vercel | Senior Data Engineer - GTM | Hybrid SF/NYC — GTM data engineering. Growth analytics focus.
+
+---
+
 ## 2026-08-23 — Full Portal Scan (35+ companies)
 
 > 35+ companies — Greenhouse API (Anthropic, Anduril, Dagster, Temporal, Fivetran, Samsara, Scale AI, Chainguard, Figure AI, Databricks, ClickHouse, Glean, Rocket Lab) + WebSearch (Confluent, Anyscale, MotherDuck, Reddit, Grafana Labs, Hinge Health, Vanta, Okta + cross-portal staff/data discovery). Dedup against ~23,800+ history entries. **1 new match**. Pipeline current from 08-22 comprehensive scan. Report: [scout-2026-08-23.md](../reports/scout-2026-08-23.md)
