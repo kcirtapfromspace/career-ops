@@ -7512,3 +7512,9 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - [ ] Fivetran — Senior Staff Software Engineer | Oakland, California, United States | https://www.fivetran.com/careers/job?gh_jid=7976827003 | Senior Staff SWE at Fivetran (Denver/Remote company). Oakland listed — verify remote option.
 
 - [ ] Planet Labs — Senior Site Reliability Engineer | US, Remote | https://job-boards.greenhouse.io/planetlabs/jobs/8106198 | SRE role at Planet Labs. Fully remote US. Satellite data platform company.
+
+## 2026-08-26 — Quick Check (Greenhouse API)
+
+- [ ] Planet Labs — Senior Data Engineer | Denver, CO | https://job-boards.greenhouse.io/planetlabs/jobs/8160759 | Data engineer role at Planet Labs in Denver! Satellite data infrastructure. Direct location + title match.
+- [ ] Temporal — Staff Software Engineer - Test Systems & Tooling | US Remote | https://job-boards.greenhouse.io/temporaltechnologies/jobs/5223128007 | Staff SWE on test systems at Temporal (workflow orchestration). Fully US remote.
+- [ ] Temporal — Senior Engineering Manager - Test Systems & Tooling | United States | https://job-boards.greenhouse.io/temporaltechnologies/jobs/5222955007 | Engineering Manager for test systems at Temporal. US-based, likely remote-eligible.
