@@ -7510,3 +7510,5 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - [ ] Anthropic — Software Engineer, Business Technology | Seattle, WA | San Francisco, CA | https://job-boards.greenhouse.io/anthropic/jobs/5400153008 | SWE on business technology systems at Anthropic. Seattle or SF.
 - [ ] Anthropic — Staff + Sr. Software Engineer, Scaling | San Francisco, CA | Seattle, WA | https://job-boards.greenhouse.io/anthropic/jobs/5400012008 | Staff/Senior SWE on scaling infra at Anthropic. SF or Seattle. Strong fit.
 - [ ] Fivetran — Senior Staff Software Engineer | Oakland, California, United States | https://www.fivetran.com/careers/job?gh_jid=7976827003 | Senior Staff SWE at Fivetran (Denver/Remote company). Oakland listed — verify remote option.
+
+- [ ] Planet Labs — Senior Site Reliability Engineer | US, Remote | https://job-boards.greenhouse.io/planetlabs/jobs/8106198 | SRE role at Planet Labs. Fully remote US. Satellite data platform company.
