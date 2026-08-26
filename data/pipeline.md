@@ -1,5 +1,27 @@
 # Pipeline — Pending Offers
 
+## 2026-08-26 — Full Portal Scan (12 companies)
+
+> Greenhouse API (Anthropic, Anduril, Fivetran, Dagster, Databricks, Scale AI, Samsara, Chainguard, Rocket Lab) + WebSearch (Confluent/Ashby, Netflix). Dedup against 24,336 history entries + 7,490-line pipeline. **10 new matches**. Report: [scout-2026-08-26.md](../reports/scout-2026-08-26.md)
+
+#### Top Picks (4.0+)
+
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7823195003 | Fivetran | Engineering Manager, Metadata | Denver, CO ★ 4.3/5 — Local Denver EM role managing metadata/data catalog team. Fivetran is in Patrick's stack (data integration). Highest priority this scan.
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4700929006 | Chainguard | Staff Software Engineer (AI CICD) | Remote US ★ 4.2/5 — $205-231K, Go/K8s/Argo Workflows/containers. Builds secure AI pipelines. Patrick's exact stack. Staff level.
+- [ ] https://jobs.ashbyhq.com/confluent/a93ac05b-0ba3-41a9-aa42-a6258c5c5584 | Confluent | Staff Software Engineer I - Confluent Platform | Remote US ★ 4.0/5 — Kafka is Patrick's daily tool. Staff platform engineering at the Kafka company. Post-Ashby migration, no prior eval.
+- [ ] https://jobs.ashbyhq.com/confluent/29920de0-8dfc-4ea4-a97e-9e4a2f4ec083 | Confluent | Staff Software Engineer I - SRE | Remote US ★ 4.0/5 — SRE on Kafka infra = DORA metrics + Four Golden Signals = Patrick's stated superpowers. Staff level.
+
+#### Strong Matches (3.5–3.9)
+
+- [ ] https://www.samsara.com/company/careers/roles/7721193 | Samsara | Lead Machine Learning Engineer - ML Infrastructure | Remote US | 3.8/5 — $200-357K comp. Ray + K8s ML platform over 2M+ IoT devices. Confirm ML infra depth alignment.
+- [ ] https://jobs.ashbyhq.com/confluent/a3b2c5df-be05-40c6-9012-b881b7f507f0 | Confluent | Senior Manager, Engineering | Remote US | 3.8/5 — EM track on Kafka platform. Direct Kafka experience = exceptional narrative fit.
+- [ ] https://jobs.netflix.com/jobs/287587684 | Netflix | Engineering Manager, Ads Platform Engineering | Remote/US | 3.7/5 — Dream company top comp. Ads Platform EM. Strong referral recommended.
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8324875002 | Databricks | Engineering Manager, Streaming | Bellevue, WA | 3.6/5 — Streaming = Kafka/Debezium. Seattle relocation ok. $43B platform company.
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390966008 | Anthropic | AI Engineer, GTM Claudification | Remote-Friendly (travel req.) | 3.6/5 — Enterprise Claude integration engineer. Travel required; verify remote feasibility.
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4716453005 | Scale AI | AI Infrastructure Engineer, Sandbox Platform | SF/Seattle/NY | 3.5/5 — Seattle option. AI infrastructure + platform engineering match.
+
+---
+
 ## 2026-08-25 — Quick Check (Greenhouse API, 41 companies)
 
 > Greenhouse API-only quick check. 39 companies fetched (Anthropic timed out, Aurora Innovation 404). 7,345 total jobs, 1,150 title-matched, **6 new location-qualified matches** after dedup against 22,222 history entries. Report: [scout-quickcheck-2026-08-25.md](../reports/scout-quickcheck-2026-08-25.md)
