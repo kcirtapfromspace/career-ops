@@ -6955,3 +6955,55 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - [ ] [Rocket Lab — Senior Machine Learning Engineer II](https://job-boards.greenhouse.io/rocketlab/jobs/7918761003) <!-- Chantilly, VA | quickcheck 2026-08-21 -->
 - [ ] [Rocket Lab — Senior Machine Learning Engineer II](https://job-boards.greenhouse.io/rocketlab/jobs/7919020003) <!-- Tucson, AZ | quickcheck 2026-08-21 -->
 - [ ] [Rocket Lab — Senior Machine Learning Engineer II](https://job-boards.greenhouse.io/rocketlab/jobs/7917743003) <!-- Long Beach, CA | quickcheck 2026-08-21 -->
+
+## 2026-08-27 (Quickcheck Scan)
+
+- [ ] [Anthropic — Staff+ Research Engineer, RL Data Platform](https://job-boards.greenhouse.io/anthropic/jobs/5404725008) <!-- San Francisco | quickcheck 2026-08-27 -->
+- [ ] [Anthropic — Staff+ Software Engineer, RL Data Platform](https://job-boards.greenhouse.io/anthropic/jobs/5404730008) <!-- San Francisco | quickcheck 2026-08-27 -->
+- [ ] [Anduril — C++ Mission Software Engineer, Mission Autonomy](https://job-boards.greenhouse.io/andurilindustries/jobs/5125189007) <!-- Costa Mesa | quickcheck 2026-08-27 -->
+- [ ] [Anduril — Full-Stack Software Engineer, Mission Autonomy](https://job-boards.greenhouse.io/andurilindustries/jobs/5160360007) <!-- Costa Mesa | quickcheck 2026-08-27 -->
+- [ ] [Anduril — Infrastructure Software Engineer, Active Clearance](https://job-boards.greenhouse.io/andurilindustries/jobs/5160667007) <!-- Costa Mesa | quickcheck 2026-08-27 -->
+- [ ] [Anduril — Lead Software Engineer, API/SDK](https://job-boards.greenhouse.io/andurilindustries/jobs/4754841007) <!-- Seattle | quickcheck 2026-08-27 -->
+- [ ] [Anduril — Mission Software Engineer, Air Vehicle Autonomy, C++](https://job-boards.greenhouse.io/andurilindustries/jobs/4673932007) <!-- Costa Mesa | quickcheck 2026-08-27 -->
+- [ ] [Anduril — Mission Software Engineer, Vehicle Software, Frontend](https://job-boards.greenhouse.io/andurilindustries/jobs/4672911007) <!-- Costa Mesa | quickcheck 2026-08-27 -->
+- [ ] [Anduril — Mission Software Infrastructure Engineer, Active Clearance](https://job-boards.greenhouse.io/andurilindustries/jobs/5158245007) <!-- Costa Mesa | quickcheck 2026-08-27 -->
+- [ ] [Anduril — Rust Software Engineer, Air Vehicle Autonomy](https://job-boards.greenhouse.io/andurilindustries/jobs/5125172007) <!-- Costa Mesa | quickcheck 2026-08-27 -->
+- [ ] [Anduril — Senior Front End Software Engineer, React](https://job-boards.greenhouse.io/andurilindustries/jobs/5165989007) <!-- Seattle | quickcheck 2026-08-27 -->
+- [ ] [Anduril — Senior Machine Learning Engineer, Sentry Tower](https://job-boards.greenhouse.io/andurilindustries/jobs/4927589007) <!-- Irvine | quickcheck 2026-08-27 -->
+- [ ] [Anduril — Senior Software Engineer](https://job-boards.greenhouse.io/andurilindustries/jobs/5037473007) <!-- Seattle | quickcheck 2026-08-27 -->
+- [ ] [Anduril — Senior Software Engineer, API/SDK](https://job-boards.greenhouse.io/andurilindustries/jobs/5181986007) <!-- Seattle | quickcheck 2026-08-27 -->
+- [ ] [Anduril — Senior Software Engineer, Developer Platform](https://job-boards.greenhouse.io/andurilindustries/jobs/5185971007) <!-- Seattle | quickcheck 2026-08-27 -->
+- [ ] [Anduril — Senior Software Engineer, Discovery](https://job-boards.greenhouse.io/andurilindustries/jobs/5188525007) <!-- Seattle | quickcheck 2026-08-27 -->
+- [ ] [Anduril — Senior Software Engineer, Distributed Networks](https://job-boards.greenhouse.io/andurilindustries/jobs/5201924007) <!-- Seattle | quickcheck 2026-08-27 -->
+- [ ] [Anduril — Senior Software Engineer - Forge Factory Automation](https://job-boards.greenhouse.io/andurilindustries/jobs/5152747007) <!-- Seattle | quickcheck 2026-08-27 -->
+- [ ] [Anduril — Senior Software Engineer, Maritime App](https://job-boards.greenhouse.io/andurilindustries/jobs/4780617007) <!-- Costa Mesa | quickcheck 2026-08-27 -->
+- [ ] [Anduril — Senior Software Engineer, Nix](https://job-boards.greenhouse.io/andurilindustries/jobs/5152584007) <!-- Remote | quickcheck 2026-08-27 -->
+- [ ] [Anduril — Senior Software Engineer, Quality Integration](https://job-boards.greenhouse.io/andurilindustries/jobs/5133681007) <!-- Seattle | quickcheck 2026-08-27 -->
+- [ ] [Anduril — Senior Software Engineer, Video](https://job-boards.greenhouse.io/andurilindustries/jobs/5206580007) <!-- Seattle | quickcheck 2026-08-27 -->
+- [ ] [Anduril — Software Engineer, Cloud OS](https://job-boards.greenhouse.io/andurilindustries/jobs/5130646007) <!-- Seattle | quickcheck 2026-08-27 -->
+- [ ] [Anduril — Software Engineer, Command Control Mission Autonomy](https://job-boards.greenhouse.io/andurilindustries/jobs/5161486007) <!-- Costa Mesa | quickcheck 2026-08-27 -->
+- [ ] [Anduril — Software Engineer, Connected Warfare](https://job-boards.greenhouse.io/andurilindustries/jobs/4541903007) <!-- Seattle | quickcheck 2026-08-27 -->
+- [ ] [Anduril — Software Engineer, Connected Warfare (Active Clearance)](https://job-boards.greenhouse.io/andurilindustries/jobs/4263030007) <!-- Seattle | quickcheck 2026-08-27 -->
+- [ ] [Anduril — Software Engineer, Discovery](https://job-boards.greenhouse.io/andurilindustries/jobs/4980592007) <!-- Seattle | quickcheck 2026-08-27 -->
+- [ ] [Anduril — Software Engineer, Sensor Simulation](https://job-boards.greenhouse.io/andurilindustries/jobs/5152591007) <!-- Seattle | quickcheck 2026-08-27 -->
+- [ ] [Anduril — Staff AI Infrastructure Engineer](https://job-boards.greenhouse.io/andurilindustries/jobs/5212860007) <!-- Costa Mesa | quickcheck 2026-08-27 -->
+- [ ] [Anduril — Staff Software Engineer, Quality Integration](https://job-boards.greenhouse.io/andurilindustries/jobs/5133683007) <!-- Seattle | quickcheck 2026-08-27 -->
+- [ ] [Anduril — Staff Software Engineer, Security](https://job-boards.greenhouse.io/andurilindustries/jobs/4925157007) <!-- Seattle | quickcheck 2026-08-27 -->
+- [ ] [Wayve — Data Engineer, Security Analytics](https://job-boards.greenhouse.io/wayve/jobs/8716080002) <!-- Sunnyvale | quickcheck 2026-08-27 -->
+- [ ] [Wayve — Engineering Manager, Cloud Infrastructure](https://job-boards.greenhouse.io/wayve/jobs/8735504002) <!-- Sunnyvale | quickcheck 2026-08-27 -->
+- [ ] [Wayve — Engineering Manager, OS, Robot Software](https://job-boards.greenhouse.io/wayve/jobs/8747666002) <!-- Sunnyvale | quickcheck 2026-08-27 -->
+- [ ] [Wayve — Full Stack Software Engineer, Evaluation Tools](https://job-boards.greenhouse.io/wayve/jobs/8733546002) <!-- Sunnyvale | quickcheck 2026-08-27 -->
+- [ ] [Wayve — Full-Stack Software Engineer, Model Development Platform](https://job-boards.greenhouse.io/wayve/jobs/8725207002) <!-- London | quickcheck 2026-08-27 -->
+- [ ] [Wayve — Principal Machine Learning Engineer, Geometric Vision](https://job-boards.greenhouse.io/wayve/jobs/8724862002) <!-- Sunnyvale | quickcheck 2026-08-27 -->
+- [ ] [Wayve — Senior Machine Learning Engineer, Vision Models](https://job-boards.greenhouse.io/wayve/jobs/8728757002) <!-- Sunnyvale | quickcheck 2026-08-27 -->
+- [ ] [Wayve — Senior Software Engineer, Fleet Management](https://job-boards.greenhouse.io/wayve/jobs/8732317002) <!-- Sunnyvale | quickcheck 2026-08-27 -->
+- [ ] [Wayve — Senior Software Engineer - Sensor Systems, Robot Software](https://job-boards.greenhouse.io/wayve/jobs/8697184002) <!-- Sunnyvale | quickcheck 2026-08-27 -->
+- [ ] [Wayve — Site Reliability Engineering Manager, Vehicle Software](https://job-boards.greenhouse.io/wayve/jobs/8728803002) <!-- Sunnyvale | quickcheck 2026-08-27 -->
+- [ ] [Wayve — Software Engineer, Fleet Management](https://job-boards.greenhouse.io/wayve/jobs/8735204002) <!-- Sunnyvale | quickcheck 2026-08-27 -->
+- [ ] [Wayve — Staff Machine Learning Engineer, Emergency Trajectory Models](https://job-boards.greenhouse.io/wayve/jobs/8747065002) <!-- Sunnyvale | quickcheck 2026-08-27 -->
+- [ ] [PhysicsX — Machine Learning Engineer](https://job-boards.greenhouse.io/physicsx/jobs/4880947101) <!-- San Francisco | quickcheck 2026-08-27 -->
+- [ ] [Fivetran — Engineering Manager, Metadata](https://job-boards.greenhouse.io/fivetran/jobs/7823195003) <!-- Denver | quickcheck 2026-08-27 -->
+- [ ] [Fivetran — Senior Software Engineer - Metadata](https://job-boards.greenhouse.io/fivetran/jobs/7865559003) <!-- Denver | quickcheck 2026-08-27 -->
+- [ ] [Fivetran — Staff Software Engineer, Metadata](https://job-boards.greenhouse.io/fivetran/jobs/7864598003) <!-- Denver | quickcheck 2026-08-27 -->
+- [ ] [Rocket Lab — Senior Software Engineer I/II - Simulation Engineering](https://job-boards.greenhouse.io/rocketlab/jobs/7893884003) <!-- Littleton | quickcheck 2026-08-27 -->
+- [ ] [Zipline — Software Engineer, Airspace Platform](https://www.zipline.com/open-roles?gh_jid=7978812003) <!-- South San Francisco | quickcheck 2026-08-27 -->
