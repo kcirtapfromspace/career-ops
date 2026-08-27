@@ -1,5 +1,27 @@
 # Pipeline — Pending Offers
 
+## 2026-08-27 — Targeted Scan (ClickHouse comprehensive + Anthropic/Chainguard/Databricks/MotherDuck/Snowflake updates)
+
+> Greenhouse API (ClickHouse comprehensive, Anthropic new-postings check, Chainguard, Databricks, Snowflake) + WebFetch Ashby (MotherDuck). Dedup against 24,400+ history entries + pipeline. **10 new matches**. Snowflake Streaming role returned 410 (closed). Report: [scout-2026-08-27.md](../reports/scout-2026-08-27.md)
+
+#### Top Picks (4.0+)
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5125387008 | Anthropic | Data Engineering Manager, Product | SF/NYC/Seattle (25% hybrid) ★ 4.2/5 — $405K-485K total comp. Analytics engineering team management (dbt/SQL/Python). 8+ years data eng management required. SF/NYC/Seattle acceptable relocations. Dream comp ceiling.
+
+#### Strong Matches (3.5–3.9)
+
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5778617004 | ClickHouse | Cloud Database Infrastructure Engineer | Remote US | 3.8/5 — Go/distributed systems on fastest OLAP DB. Cloud infra K8s/observability patterns. Pure remote.
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5776991004 | ClickHouse | Senior Backend Engineer - Infrastructure (ClickPipes) | Remote US | 3.8/5 — ClickPipes = managed Kafka connectors. Patrick's Debezium/Kafka stack is direct match. Go backend data ingestion.
+- [ ] https://jobs.ashbyhq.com/motherduck/9bf5467c-dfe1-4248-9df5-c43974172057 | MotherDuck | Software Engineer - Storage | Remote US | 3.8/5 — DuckDB cloud storage layer. Patrick uses DuckDB in Modern Data Stack Demo. Verify JD (Ashby JS-rendered).
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5843425004 | ClickHouse | Database Reliability Engineer - Core Team | Remote US | 3.7/5 — DRE = DORA metrics + Four Golden Signals at ClickHouse scale. Patrick's observability superpower.
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5819754004 | ClickHouse | Senior Site Reliability Engineer | Remote US | 3.7/5 — SRE on distributed OLAP DB. K8s + observability + reliability. Remote.
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4696736006 | Chainguard | Staff Vulnerability Management Engineer | Remote US | 3.6/5 — Supply chain security + vuln tracking at Staff level. Federal/security background differentiator.
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/6142784004 | ClickHouse | Senior Cloud Software Engineer - Efficiency Engineering | Remote US | 3.6/5 — Cloud cost/efficiency on ClickHouse Cloud. K8s resource optimization, Go.
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4698956006 | Chainguard | Principal Software Engineer (Libraries Platform) | Remote US | 3.5/5 — OSS library vuln scanning platform. Second Chainguard role this scan.
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8511491002 | Databricks | Delivery Solutions Architect - Retail | Denver, CO | 3.5/5 — Local Denver. SA/consulting role; archetype mismatch but local Databricks brand worth noting.
+
+---
+
 ## 2026-08-26 — Full Portal Scan (12 companies)
 
 > Greenhouse API (Anthropic, Anduril, Fivetran, Dagster, Databricks, Scale AI, Samsara, Chainguard, Rocket Lab) + WebSearch (Confluent/Ashby, Netflix). Dedup against 24,336 history entries + 7,490-line pipeline. **10 new matches**. Report: [scout-2026-08-26.md](../reports/scout-2026-08-26.md)
