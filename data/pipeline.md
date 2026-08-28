@@ -1,5 +1,34 @@
 # Pipeline — Pending Offers
 
+## 2026-08-28 — Full Portal Scan (45+ companies: Greenhouse API + WebSearch)
+
+> Greenhouse API (Anthropic, Anduril, Fivetran, Databricks, Scale AI, Samsara, Chainguard, ClickHouse, Aurora, Figure AI, Planet Labs, Rocket Lab, Zipline, Temporal, Airtable, Arize AI, Glean, Vercel, Wayve, PhysicsX, Celonis, Helsing, Discord, Faire, Okta, Honor, Nuro, Vast + WebSearch broad). Dedup against 24,500+ history entries + pipeline. **17 new matches**. Report: [scout-2026-08-28.md](../reports/scout-2026-08-28.md)
+
+#### Top Picks (3.7+)
+
+- [ ] https://job-boards.greenhouse.io/faire/jobs/8731172002 | Faire | Senior Staff ML Platform Engineer | Remote US (incl CO) ★ 3.9/5 — $295K-$405K. Own Faire's ML platform: Kafka/Spark/Databricks/K8s/MLFlow/Airflow. Patrick's Argo/K8s/Kafka distributed stack is direct match. Reach role (Senior Staff) but strong infra DNA fit. Uses Claude Sonnet.
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5129967008 | Anthropic | Engineering Manager, API Enterprise and Multicloud | SF/NYC/Seattle ★ 3.8/5 — Make Claude API cloud-native across AWS/GCP/Azure and on-prem. Patrick's multi-cluster K8s + enterprise federal infra (VA.gov, HHS). Dream company EM.
+- [ ] https://job-boards.greenhouse.io/honor/jobs/8582881002 | Honor | Staff Data Platform Engineer | Remote US ★ 3.7/5 — $194K-$220K. Exact stack: AWS/Redshift/Airflow/Fivetran/dbt/Python. Healthcare-scale data platform. Patrick's federal health data work (HHS, VA.gov) = narrative differentiator.
+
+#### Strong Matches (3.4–3.6)
+
+- [ ] https://job-boards.greenhouse.io/discord/jobs/8691572002 | Discord | Staff Data Engineer - Data Infrastructure | SF Bay Area | 3.6/5 — $245K-$279K base. dbt/BigQuery/SQL data infra at Discord scale. SF relocation ok.
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5121920008 | Anthropic | Engineering Manager, Accelerator Platform | SF/NYC/Seattle | 3.6/5 — GPU/ML acceleration infra EM. Anthropic dream company. Strong infra management background applies.
+- [ ] https://www.okta.com/company/careers/opportunity/8064889?gh_jid=8064889 | Okta | Staff Platform Engineer (FedRAMP) | Bellevue, WA | 3.6/5 — FedRAMP compliance engineering. Patrick's VA.gov/federal platform work is rare differentiator. Seattle area = relocation ok.
+- [ ] https://boards.greenhouse.io/faire/jobs/8612420002?gh_jid=8612420002 | Faire | Senior Staff Data Engineer - Platform Data | Remote? | 3.6/5 — Senior Staff data engineering at Faire unicorn. dbt/Kafka/Spark tech stack overlaps.
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5117311008 | Anthropic | Engineering Manager, UI Platform | SF/NYC/Seattle | 3.5/5 — Leads Claude.ai UI reliability + BFF APIs. Dream company EM; less direct fit than API Enterprise role.
+- [ ] https://boards.greenhouse.io/honor/jobs/8297124002?gh_jid=8297124002 | Honor | Staff Platform Engineer - Infra + DevOps | Remote US | 3.5/5 — Remote K8s/DevOps infra at Staff level. Good fallback remote match.
+- [ ] https://www.okta.com/company/careers/opportunity/8160050?gh_jid=8160050 | Okta | Staff SRE - Kubernetes | Bellevue, WA | 3.5/5 — K8s SRE at Okta. Patrick's multi-cluster K8s + Four Golden Signals experience. Seattle area.
+- [ ] https://job-boards.greenhouse.io/discord/jobs/8722538002 | Discord | Engineering Manager, ML (Safety) | SF Bay Area | 3.4/5 — EM for ML Safety team. Patrick's ML/data background applies.
+- [ ] https://job-boards.greenhouse.io/discord/jobs/8700605002 | Discord | Staff Software Engineer, Experimentation Platform | SF Bay Area | 3.4/5 — A/B testing infrastructure platform at Discord scale.
+- [ ] https://job-boards.greenhouse.io/discord/jobs/8537955002 | Discord | Engineering Manager, Notifications | Remote | 3.4/5 — Remote EM at Discord. Distributed systems + reliability patterns.
+- [ ] https://www.okta.com/company/careers/opportunity/8081732?gh_jid=8081732 | Okta | Staff Software Engineer, Core Infrastructure | SF | 3.4/5 — Core infra at Okta. Identity platform engineering.
+- [ ] https://job-boards.greenhouse.io/discord/jobs/8649856002 | Discord | Engineering Manager, Platform Security | SF Bay Area | 3.3/5 — EM for Platform Security. Federal security governance background applies.
+- [ ] https://www.okta.com/company/careers/opportunity/8097489?gh_jid=8097489 | Okta | Staff SRE, Federal (TS/SCI) | Washington, DC | 3.3/5 — Requires TS/SCI clearance. Strong background fit but active clearance needed.
+- [ ] https://www.okta.com/company/careers/opportunity/8160475?gh_jid=8160475 | Okta | Manager, SRE (Auth0) | New York | 3.3/5 — SRE Manager at Okta Auth0. NYC = remote ok per profile. Identity SRE management.
+
+---
+
 ## 2026-08-27 — Targeted Scan (ClickHouse comprehensive + Anthropic/Chainguard/Databricks/MotherDuck/Snowflake updates)
 
 > Greenhouse API (ClickHouse comprehensive, Anthropic new-postings check, Chainguard, Databricks, Snowflake) + WebFetch Ashby (MotherDuck). Dedup against 24,400+ history entries + pipeline. **10 new matches**. Snowflake Streaming role returned 410 (closed). Report: [scout-2026-08-27.md](../reports/scout-2026-08-27.md)
