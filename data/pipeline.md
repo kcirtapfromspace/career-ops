@@ -7660,3 +7660,13 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - [ ] [Fivetran — Senior Software Engineer - Metadata](https://job-boards.greenhouse.io/fivetran/jobs/7865559003) <!-- Denver | quickcheck 2026-08-27 -->
 - [ ] [Fivetran — Staff Software Engineer, Metadata](https://job-boards.greenhouse.io/fivetran/jobs/7864598003) <!-- Denver | quickcheck 2026-08-27 -->
 - [ ] [Rocket Lab — Senior Software Engineer I/II - Simulation Engineering](https://job-boards.greenhouse.io/rocketlab/jobs/7893884003) <!-- Littleton | quickcheck 2026-08-27 -->
+- [ ] [Anthropic — Engineering Manager, Hardware Platform Security](https://job-boards.greenhouse.io/anthropic/jobs/5405548008) <!-- San Francisco/Seattle | quickcheck 2026-08-28 -->
+- [ ] [Vercel — Staff Data Platform Engineer - Finance](https://job-boards.greenhouse.io/vercel/jobs/5895013004) <!-- Hybrid SF/NYC | quickcheck 2026-08-28 -->
+- [ ] [Databricks — Senior Engineering Manager for Self-Serve (Learning)](https://databricks.com/company/careers/open-positions/job?gh_jid=7987657002) <!-- Mountain View | quickcheck 2026-08-28 -->
+- [ ] [Nuro — Senior Software Engineer, Devices Platform](https://nuro.ai/careersitem?gh_jid=8163202) <!-- Mountain View | quickcheck 2026-08-28 -->
+- [ ] [Nuro — Senior Software Engineer, Networking & Real-Time Systems](https://nuro.ai/careersitem?gh_jid=8163209) <!-- Mountain View | quickcheck 2026-08-28 -->
+- [ ] [Nuro — Senior Software Engineer, Sensor Platform](https://nuro.ai/careersitem?gh_jid=8163195) <!-- Mountain View | quickcheck 2026-08-28 -->
+- [ ] [Nuro — Senior Software Engineer, Video Streaming](https://nuro.ai/careersitem?gh_jid=8163218) <!-- Mountain View | quickcheck 2026-08-28 -->
+- [ ] [Nuro — Software Engineer, Sensor Platform](https://nuro.ai/careersitem?gh_jid=8163179) <!-- Mountain View | quickcheck 2026-08-28 -->
+- [ ] [Nuro — Software Engineer, Video Streaming](https://nuro.ai/careersitem?gh_jid=8164473) <!-- Mountain View | quickcheck 2026-08-28 -->
+- [ ] [Nuro — Tech Lead Software Engineer, Fleet Connectivity](https://nuro.ai/careersitem?gh_jid=8160091) <!-- Mountain View | quickcheck 2026-08-28 -->
