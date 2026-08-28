@@ -7670,3 +7670,7 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - [ ] [Nuro — Software Engineer, Sensor Platform](https://nuro.ai/careersitem?gh_jid=8163179) <!-- Mountain View | quickcheck 2026-08-28 -->
 - [ ] [Nuro — Software Engineer, Video Streaming](https://nuro.ai/careersitem?gh_jid=8164473) <!-- Mountain View | quickcheck 2026-08-28 -->
 - [ ] [Nuro — Tech Lead Software Engineer, Fleet Connectivity](https://nuro.ai/careersitem?gh_jid=8160091) <!-- Mountain View | quickcheck 2026-08-28 -->
+- [ ] [Anduril — Senior Realtime Software Engineer](https://job-boards.greenhouse.io/andurilindustries/jobs/5223714007) <!-- Boulder, CO | quickcheck 2026-08-28 -->
+- [ ] [Anduril — Senior Software Engineer, Satellite Command and Control](https://job-boards.greenhouse.io/andurilindustries/jobs/5225306007) <!-- Colorado Springs, CO | quickcheck 2026-08-28 -->
+- [ ] [Anduril — Software Engineer, Satellite Command and Control](https://job-boards.greenhouse.io/andurilindustries/jobs/5225303007) <!-- Colorado Springs, CO | quickcheck 2026-08-28 -->
+- [ ] [Rocket Lab — Senior Network Software Engineer I/II -Secret Clearance](https://job-boards.greenhouse.io/rocketlab/jobs/7979966003) <!-- Littleton, CO | quickcheck 2026-08-28 -->
