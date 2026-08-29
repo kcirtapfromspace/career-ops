@@ -7674,3 +7674,10 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - [ ] [Anduril — Senior Software Engineer, Satellite Command and Control](https://job-boards.greenhouse.io/andurilindustries/jobs/5225306007) <!-- Colorado Springs, CO | quickcheck 2026-08-28 -->
 - [ ] [Anduril — Software Engineer, Satellite Command and Control](https://job-boards.greenhouse.io/andurilindustries/jobs/5225303007) <!-- Colorado Springs, CO | quickcheck 2026-08-28 -->
 - [ ] [Rocket Lab — Senior Network Software Engineer I/II -Secret Clearance](https://job-boards.greenhouse.io/rocketlab/jobs/7979966003) <!-- Littleton, CO | quickcheck 2026-08-28 -->
+
+## 2026-08-29 (Scout Scan)
+
+- [ ] [Google — Software Engineering Manager, SRE, Gemini Enterprise Agent Platform](https://www.google.com/about/careers/applications/jobs/results/89872784502465222-software-engineering-manager-site-reliability-engineering-gemini-enterprise-agent-platform-google-cloud) <!-- Sunnyvale, CA | scout 2026-08-29 | 3.3/5 | GKE SRE EM for enterprise AI platform -->
+- [ ] [Google — Staff Software Engineer, ML Data Infrastructure](https://www.google.com/about/careers/applications/jobs/results/88712676154188486-staff-software-engineer/) <!-- Sunnyvale/multi-site | scout 2026-08-29 | 3.2/5 | ML data pipelines, feature engineering, Staff IC -->
+- [ ] [Airbnb — Staff Analytics Engineer](https://careers.airbnb.com/positions/7733495/) <!-- US Remote | scout 2026-08-29 | 3.1/5 | dbt/SQL analytics engineering at Airbnb scale -->
+- [ ] [Airbnb — Staff Machine Learning Engineer, Traffic Intelligence](https://careers.airbnb.com/positions/8129371/) <!-- San Francisco | scout 2026-08-29 | 3.0/5 | ML infra for fraud/traffic detection -->
