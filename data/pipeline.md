@@ -7681,3 +7681,10 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - [ ] [Google — Staff Software Engineer, ML Data Infrastructure](https://www.google.com/about/careers/applications/jobs/results/88712676154188486-staff-software-engineer/) <!-- Sunnyvale/multi-site | scout 2026-08-29 | 3.2/5 | ML data pipelines, feature engineering, Staff IC -->
 - [ ] [Airbnb — Staff Analytics Engineer](https://careers.airbnb.com/positions/7733495/) <!-- US Remote | scout 2026-08-29 | 3.1/5 | dbt/SQL analytics engineering at Airbnb scale -->
 - [ ] [Airbnb — Staff Machine Learning Engineer, Traffic Intelligence](https://careers.airbnb.com/positions/8129371/) <!-- San Francisco | scout 2026-08-29 | 3.0/5 | ML infra for fraud/traffic detection -->
+
+## 2026-08-30 (Scout Scan)
+
+- [ ] [Chainguard — Staff Software Engineer, Developer Platform](https://job-boards.greenhouse.io/chainguard/jobs/4707850006) <!-- US Remote | scout 2026-08-30 | 4.5/5 | Go+Argo+K8s monorepo CI/CD, $205-231K, exact stack match -->
+- [ ] [Spotify — Staff Machine Learning Engineer, Music Mission](https://jobs.lever.co/spotify/cb45b193-9f92-4e9b-b936-8a738eed5fdc) <!-- NYC/remote-flex | scout 2026-08-30 | 3.5/5 | Staff MLE for artist tools, flexible location, posted Aug 26 -->
+- [ ] [Rivian — Staff Platform Engineer](https://careers.rivian.com/careers-home/jobs/31222) <!-- Multiple Locations (check CO) | scout 2026-08-30 | 3.3/5 | hardware-moat EV platform eng, possibly Lakewood CO -->
+- [ ] [Rivian — Staff Software Engineer, Enterprise Services](https://careers.rivian.com/careers-home/jobs/29677) <!-- Multiple Locations | scout 2026-08-30 | 3.0/5 | enterprise SaaS internal tooling at Rivian -->
