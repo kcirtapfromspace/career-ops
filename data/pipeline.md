@@ -7688,3 +7688,4 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - [ ] [Spotify — Staff Machine Learning Engineer, Music Mission](https://jobs.lever.co/spotify/cb45b193-9f92-4e9b-b936-8a738eed5fdc) <!-- NYC/remote-flex | scout 2026-08-30 | 3.5/5 | Staff MLE for artist tools, flexible location, posted Aug 26 -->
 - [ ] [Rivian — Staff Platform Engineer](https://careers.rivian.com/careers-home/jobs/31222) <!-- Multiple Locations (check CO) | scout 2026-08-30 | 3.3/5 | hardware-moat EV platform eng, possibly Lakewood CO -->
 - [ ] [Rivian — Staff Software Engineer, Enterprise Services](https://careers.rivian.com/careers-home/jobs/29677) <!-- Multiple Locations | scout 2026-08-30 | 3.0/5 | enterprise SaaS internal tooling at Rivian -->
+- [ ] [Wayve — Software Engineer, Data Flywheel Platform](https://wayve.firststage.co/jobs?gh_jid=8752578002) <!-- Sunnyvale | quickcheck 2026-08-30 | data infra for autonomous vehicle training pipeline -->
