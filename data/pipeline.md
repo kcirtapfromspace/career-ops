@@ -7689,3 +7689,22 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - [ ] [Rivian — Staff Platform Engineer](https://careers.rivian.com/careers-home/jobs/31222) <!-- Multiple Locations (check CO) | scout 2026-08-30 | 3.3/5 | hardware-moat EV platform eng, possibly Lakewood CO -->
 - [ ] [Rivian — Staff Software Engineer, Enterprise Services](https://careers.rivian.com/careers-home/jobs/29677) <!-- Multiple Locations | scout 2026-08-30 | 3.0/5 | enterprise SaaS internal tooling at Rivian -->
 - [ ] [Wayve — Software Engineer, Data Flywheel Platform](https://wayve.firststage.co/jobs?gh_jid=8752578002) <!-- Sunnyvale | quickcheck 2026-08-30 | data infra for autonomous vehicle training pipeline -->
+
+## 2026-08-31 (Scout Scan)
+
+> WebSearch + Greenhouse API supplement (Calendly, Webflow, Grafana Labs, Checkr, OpenSesame discovery). Dedup against 29,117+ history entries + pipeline. **5 new matches**. Report: [scout-2026-08-31.md](../reports/scout-2026-08-31.md)
+
+#### Top Picks (4.0+)
+
+- [ ] https://job-boards.greenhouse.io/calendly/jobs/8628979002 | Calendly | Staff Platform Engineer | Denver Tier 2 / US Remote ★ 4.2/5 — $263-319K (Denver). Go/K8s controllers/operators/GCP/Datadog. Building self-service developer platform. Exact stack, home city, top comp.
+- [ ] https://job-boards.greenhouse.io/webflow/jobs/8165290 | Webflow | Staff Data Engineer | US Remote ★ 4.0/5 — $186-255K. Kafka/CDC/Spark/Iceberg/Airflow. Near-exact stack match; federal compliance experience at VA.gov/HHS is differentiator.
+
+#### Strong Matches (3.5–3.9)
+
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/6108292004 | Grafana Labs | Staff Software Engineer - Platform, SysEng | US Remote | 3.6/5 — $175-210K (check total comp). Observability-native platform engineering culture. Comp may be below target floor.
+
+#### Other Matches (3.0–3.4)
+
+- [ ] https://job-boards.greenhouse.io/checkr/jobs/7921643 | Checkr | Senior Engineering Manager, Data Engineering | Denver hub | 3.3/5 — Denver location, EM role. Review JD for stack + comp details.
+- [ ] https://job-boards.greenhouse.io/opensesame/jobs/8152723 | OpenSesame | Data Engineering Manager | US Remote | 3.2/5 — $180-208K, dbt/Fivetran/Snowflake stack but comp below target and smaller scale.
+
