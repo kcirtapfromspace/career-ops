@@ -7713,3 +7713,59 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 
 - [ ] **Wayve** — Machine Learning Engineer, Performance Tooling | London; Sunnyvale (Bay Area) | https://wayve.firststage.co/jobs?gh_jid=8763509002
 - [ ] **Wayve** — Site Reliability Engineer, Vehicle Software | Sunnyvale (Bay Area) | https://wayve.firststage.co/jobs?gh_jid=8758604002
+- [ ] **Anthropic** — Data Engineer | San Francisco / New York / Remote | https://job-boards.greenhouse.io/anthropic/jobs/4956672008
+- [ ] **Anthropic** — Data Engineering Manager, Product | San Francisco | https://job-boards.greenhouse.io/anthropic/jobs/5125387008
+- [ ] **Anthropic** — Data Engineer, Safeguards | San Francisco | https://job-boards.greenhouse.io/anthropic/jobs/5240422008
+- [ ] **Anthropic** — Engineering Manager, Cybersecurity Products | San Francisco | https://job-boards.greenhouse.io/anthropic/jobs/5236531008
+- [ ] **Anthropic** — Engineering Manager, Enterprise | San Francisco | https://job-boards.greenhouse.io/anthropic/jobs/5255912008
+- [ ] **Anthropic** — Engineering Manager, GPU (ML Accelerator) | San Francisco | https://job-boards.greenhouse.io/anthropic/jobs/4741104008
+- [ ] **Anthropic** — Engineering Manager, GRC Platform | San Francisco | https://job-boards.greenhouse.io/anthropic/jobs/4980335008
+- [ ] **Anthropic** — Engineering Manager, Growth | San Francisco | https://job-boards.greenhouse.io/anthropic/jobs/5361472008
+- [ ] **Anthropic** — Engineering Manager, Hardware Platform Security | San Francisco | https://job-boards.greenhouse.io/anthropic/jobs/5405548008
+- [ ] **Anthropic** — Engineering Manager, Inference | San Francisco | https://job-boards.greenhouse.io/anthropic/jobs/4741102008
+- [ ] **Anthropic** — Engineering Manager, Research Data Platform | San Francisco | https://job-boards.greenhouse.io/anthropic/jobs/5297059008
+- [ ] **Anthropic** — Engineering Manager, Research Productivity | San Francisco | https://job-boards.greenhouse.io/anthropic/jobs/5223093008
+- [ ] **Anthropic** — Engineering Manager, Safeguards Review Tooling | San Francisco | https://job-boards.greenhouse.io/anthropic/jobs/5013366008
+- [ ] **Anthropic** — Engineering Manager, Search | San Francisco | https://job-boards.greenhouse.io/anthropic/jobs/5371065008
+- [ ] **Glean** — Machine Learning Engineer, Assistant Quality | San Francisco | https://job-boards.greenhouse.io/gleanwork/jobs/4711484005
+- [ ] **Glean** — Software Engineer, Cloud Deployment Infrastructure | San Francisco | https://job-boards.greenhouse.io/gleanwork/jobs/4711861005
+- [ ] **Glean** — Software Engineer, Cloud Infrastructure | San Francisco | https://job-boards.greenhouse.io/gleanwork/jobs/4709327005
+- [ ] **Glean** — Software Engineer, Data Foundations | San Francisco | https://job-boards.greenhouse.io/gleanwork/jobs/4637208005
+- [ ] **Fivetran** — Engineering Manager, Metadata | Denver CO | https://www.fivetran.com/careers/job?gh_jid=7823195003
+- [ ] **Databricks** — Engineering Manager - Compute Infra | San Francisco / Seattle | https://databricks.com/company/careers/open-positions/job?gh_jid=6736119002
+- [ ] **Databricks** — Engineering Manager - UI Platform | San Francisco / Seattle | https://databricks.com/company/careers/open-positions/job?gh_jid=8013809002
+- [ ] **Scale AI** — AI Infrastructure Engineer, Sandbox Platform | San Francisco / Seattle | https://job-boards.greenhouse.io/scaleai/jobs/4716453005
+- [ ] **Scale AI** — Engineering Manager, Agent Oversight | San Francisco / Seattle | https://job-boards.greenhouse.io/scaleai/jobs/4625271005
+- [ ] **Scale AI** — Infrastructure Software Engineer, Enterprise GenAI | San Francisco / Seattle | https://job-boards.greenhouse.io/scaleai/jobs/4665557005
+- [ ] **Samsara** — Data Engineer | US Remote | https://www.samsara.com/company/careers/roles/7859702
+- [ ] **Samsara** — Lead Machine Learning Engineer - ML Infrastructure | US Remote | https://www.samsara.com/company/careers/roles/7721193
+- [ ] **Chainguard** — Principal Software Engineer (Libraries Platform) | US Remote | https://job-boards.greenhouse.io/chainguard/jobs/4698956006
+- [ ] **Chainguard** — Software Engineer (Libraries Platform) | US Remote | https://job-boards.greenhouse.io/chainguard/jobs/4699210006
+- [ ] **Chainguard** — Senior Software Engineer, Developer Platform | US Remote | https://job-boards.greenhouse.io/chainguard/jobs/4699416006
+- [ ] **Chainguard** — Senior Software Engineer (AI CICD) | US Remote | https://job-boards.greenhouse.io/chainguard/jobs/4700937006
+- [ ] **Chainguard** — Senior Software Engineer (Containers) | US Remote | https://job-boards.greenhouse.io/chainguard/jobs/4675043006
+- [ ] **Chainguard** — Senior Software Engineer (Customer Platform) | US Remote | https://job-boards.greenhouse.io/chainguard/jobs/4688378006
+- [ ] **Chainguard** — Staff Software Engineer, Developer Platform | US Remote | https://job-boards.greenhouse.io/chainguard/jobs/4707850006
+- [ ] **Chainguard** — Staff Software Engineer (Guarded Containers) | US Remote | https://job-boards.greenhouse.io/chainguard/jobs/4688854006
+- [ ] **Chainguard** — Staff Software Engineer (Customer Platform) | US Remote | https://job-boards.greenhouse.io/chainguard/jobs/4705456006
+- [ ] **ClickHouse** — Core Software Engineer (C++) | US Remote | https://job-boards.greenhouse.io/clickhouse/jobs/5755093004
+- [ ] **ClickHouse** — Cloud Database Infrastructure Engineer | US Remote | https://job-boards.greenhouse.io/clickhouse/jobs/5778617004
+- [ ] **ClickHouse** — Cloud Software Engineer - Observability Platform | US Remote | https://job-boards.greenhouse.io/clickhouse/jobs/6130197004
+- [ ] **ClickHouse** — Full Stack Software Engineer - Control Plane | US Remote | https://job-boards.greenhouse.io/clickhouse/jobs/5587666004
+- [ ] **ClickHouse** — Senior Software Engineer - Cloud Infrastructure | US Remote | https://job-boards.greenhouse.io/clickhouse/jobs/5819674004
+- [ ] **ClickHouse** — Senior Software Engineer - Cloud Partner Integrations | US Remote | https://job-boards.greenhouse.io/clickhouse/jobs/6115277004
+- [ ] **ClickHouse** — Senior Software Engineer - Identity & Authorization Platform | US Remote | https://job-boards.greenhouse.io/clickhouse/jobs/6018899004
+- [ ] **ClickHouse** — Senior Software Engineer - Integrations - AI/ML | US Remote | https://job-boards.greenhouse.io/clickhouse/jobs/6107514004
+- [ ] **ClickHouse** — Senior Software Engineer - Postgres | US Remote | https://job-boards.greenhouse.io/clickhouse/jobs/5989607004
+- [ ] **ClickHouse** — Senior Software Engineer (Typescript / FrontEnd) - AI/ML | US Remote | https://job-boards.greenhouse.io/clickhouse/jobs/5996876004
+- [ ] **Arize AI** — Senior AI Product Engineer, Backend | US Remote | https://job-boards.greenhouse.io/arizeai/jobs/5396396004
+- [ ] **Vercel** — Software Engineer, Backend | US Remote | https://job-boards.greenhouse.io/vercel/jobs/5430088004
+- [ ] **Vercel** — Software Engineer, Data Platform | US Remote / San Francisco | https://job-boards.greenhouse.io/vercel/jobs/6161129004
+- [ ] **Vercel** — Engineering Manager, CDN | US Remote / San Francisco | https://job-boards.greenhouse.io/vercel/jobs/5701765004
+- [ ] **Airtable** — Engineering Manager, Enterprise Product | San Francisco / Seattle | https://job-boards.greenhouse.io/airtable/jobs/8397665002
+- [ ] **Airtable** — Software Engineer, Data | San Francisco / Seattle | https://job-boards.greenhouse.io/airtable/jobs/8124953002
+- [ ] **Airtable** — Software Engineer, Infrastructure (4-8 YOE) | San Francisco / Seattle | https://job-boards.greenhouse.io/airtable/jobs/8400373002
+- [ ] **Airtable** — Software Engineer, Product Backend (4-8 YOE) | San Francisco / Seattle | https://job-boards.greenhouse.io/airtable/jobs/8397515002
+- [ ] **Zipline** — Autonomy Droid Perception SWE - Offboard Systems | South San Francisco | https://www.zipline.com/open-roles?gh_jid=7805425003
+- [ ] **Zipline** — Autonomy Droid Perception SWE - Onboard Systems | South San Francisco | https://www.zipline.com/open-roles?gh_jid=7811676003
+- [ ] **Zipline** — Autonomy Zip Perception SWE | South San Francisco | https://www.zipline.com/open-roles?gh_jid=7918303003
