@@ -7708,3 +7708,8 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - [ ] https://job-boards.greenhouse.io/checkr/jobs/7921643 | Checkr | Senior Engineering Manager, Data Engineering | Denver hub | 3.3/5 — Denver location, EM role. Review JD for stack + comp details.
 - [ ] https://job-boards.greenhouse.io/opensesame/jobs/8152723 | OpenSesame | Data Engineering Manager | US Remote | 3.2/5 — $180-208K, dbt/Fivetran/Snowflake stack but comp below target and smaller scale.
 
+
+## Scout Quick-Check 2026-08-31
+
+- [ ] **Wayve** — Machine Learning Engineer, Performance Tooling | London; Sunnyvale (Bay Area) | https://wayve.firststage.co/jobs?gh_jid=8763509002
+- [ ] **Wayve** — Site Reliability Engineer, Vehicle Software | Sunnyvale (Bay Area) | https://wayve.firststage.co/jobs?gh_jid=8758604002
