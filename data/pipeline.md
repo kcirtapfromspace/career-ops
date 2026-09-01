@@ -7769,3 +7769,22 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - [ ] **Zipline** — Autonomy Droid Perception SWE - Offboard Systems | South San Francisco | https://www.zipline.com/open-roles?gh_jid=7805425003
 - [ ] **Zipline** — Autonomy Droid Perception SWE - Onboard Systems | South San Francisco | https://www.zipline.com/open-roles?gh_jid=7811676003
 - [ ] **Zipline** — Autonomy Zip Perception SWE | South San Francisco | https://www.zipline.com/open-roles?gh_jid=7918303003
+
+---
+
+## 2026-09-01 — Delta Scan (24h check after 2026-08-31 full scan)
+
+> Greenhouse API (Anthropic, Chainguard, Fivetran, Scale AI, Databricks) + WebSearch discovery. Dedup against 29,100+ history entries + pipeline. **3 new matches** — all from Garner Health (new company, not previously tracked). Report: [scout-2026-09-01.md](../reports/scout-2026-09-01.md)
+
+#### Top Picks (4.0+)
+
+- [ ] https://job-boards.greenhouse.io/garnerhealth/jobs/6147544004 | Garner Health | Staff Site Reliability Engineer | Remote US ★ 4.0/5 — $241K–$270K. AWS/K8s/Terraform/Istio/Go/Datadog. Patrick's observability + incident-response superpower = exact fit. Healthcare domain matches HHS/VA.gov background.
+
+#### Strong Matches (3.5–3.9)
+
+- [ ] https://job-boards.greenhouse.io/garnerhealth/jobs/6013546004 | Garner Health | Staff Software Engineer (Developer Experience) | Remote US | 3.5/5 — Developer platform/tooling at Staff level. Remote US. Comp TBD — verify before applying.
+
+#### Other Matches (location review needed)
+
+- [ ] https://job-boards.greenhouse.io/garnerhealth/jobs/6001628004 | Garner Health | Manager, Engineering (Data Platform) | NYC (3 days/wk in-office) | 3.2/5 — $310K–$385K, Spark/Kafka/dbt. LOCATION BLOCKER: NYC requires 3 days in office. Override if comp justifies relocation discussion.
+
