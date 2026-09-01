@@ -7788,3 +7788,20 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 
 - [ ] https://job-boards.greenhouse.io/garnerhealth/jobs/6001628004 | Garner Health | Manager, Engineering (Data Platform) | NYC (3 days/wk in-office) | 3.2/5 — $310K–$385K, Spark/Kafka/dbt. LOCATION BLOCKER: NYC requires 3 days in office. Override if comp justifies relocation discussion.
 
+
+---
+
+## 2026-09-01 — Quick-Check Scan (Greenhouse API only)
+
+> 41 Greenhouse API endpoints checked. 4 new matches (2 Anthropic EM roles, 2 Zipline Staff SWE). Report: [scout-quickcheck-2026-09-01.md](../reports/scout-quickcheck-2026-09-01.md)
+> API failures noted: Anduril (timeout), PolyAI/Parloa (EU subdomain unreachable), Temporal/Black Forest Labs/ClickHouse/Aurora Innovation (404 — ATS migration suspected).
+
+#### Anthropic (Dream Company ★)
+
+- [ ] **Anthropic** — Engineering Manager, Inference Infrastructure | San Francisco / NYC / Seattle | https://job-boards.greenhouse.io/anthropic/jobs/5411560008
+- [ ] **Anthropic** — Engineering Manager, Scheduler and Fleet Efficiency | San Francisco / NYC | https://job-boards.greenhouse.io/anthropic/jobs/5411267008
+
+#### Zipline (Remote US)
+
+- [ ] **Zipline** — Staff Software Engineer, Healthcare — Customer Experience | Remote US / EMEA | https://www.zipline.com/open-roles?gh_jid=7983305003
+- [ ] **Zipline** — Staff Software Engineer, Healthcare — Systems & Integrations | Remote US / EMEA | https://www.zipline.com/open-roles?gh_jid=7983316003
