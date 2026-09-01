@@ -7,7 +7,7 @@
 
 import { readFileSync, appendFileSync, writeFileSync, existsSync } from 'fs';
 
-const TODAY = '2026-07-30';
+const TODAY = new Date().toISOString().slice(0, 10);
 
 // ── Filters ──────────────────────────────────────────────────────────────────
 

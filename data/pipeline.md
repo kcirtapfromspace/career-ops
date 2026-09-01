@@ -7805,3 +7805,26 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 
 - [ ] **Zipline** — Staff Software Engineer, Healthcare — Customer Experience | Remote US / EMEA | https://www.zipline.com/open-roles?gh_jid=7983305003
 - [ ] **Zipline** — Staff Software Engineer, Healthcare — Systems & Integrations | Remote US / EMEA | https://www.zipline.com/open-roles?gh_jid=7983316003
+
+<!-- scout-quickcheck 2026-09-01 — 21 new -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5227576007?gh_jid=5227576007   <!-- Anduril: Platform Engineer, Battlespace Awareness | Broomfield, Colorado, United States; Fort Collins, Colorado, United States -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5226942007?gh_jid=5226942007   <!-- Anduril: Scientific Software Engineer | Broomfield, Colorado, United States; Fort Collins, Colorado, United States -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5226927007?gh_jid=5226927007   <!-- Anduril: Senior Realtime Software Engineer | Boulder, Colorado, United States -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5226933007?gh_jid=5226933007   <!-- Anduril: Senior Scientific Software Engineer | Broomfield, Colorado, United States; Fort Collins, Colorado, United States -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5226937007?gh_jid=5226937007   <!-- Anduril: Senior Software Engineer, C++ | Broomfield, Colorado, United States; Fort Collins, Colorado, United States -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5226950007?gh_jid=5226950007   <!-- Anduril: Senior Software Engineer, Estimation & Filtering | Broomfield, Colorado, United States; Fort Collins, Colorado, United States -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5226936007?gh_jid=5226936007   <!-- Anduril: Senior Software Engineer, Target Tracking | Broomfield, Colorado, United States; Fort Collins, Colorado, United States -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5226943007?gh_jid=5226943007   <!-- Anduril: Software Engineer, C++ | Broomfield, Colorado, United States; Fort Collins, Colorado, United States -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5131066007?gh_jid=5131066007   <!-- Anduril: Software Engineer, Geospatial Platform (Terra) | Seattle, Washington, United States -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5226944007?gh_jid=5226944007   <!-- Anduril: Software Engineer, Target Tracking | Broomfield, Colorado, United States; Fort Collins, Colorado, United States -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5227588007?gh_jid=5227588007   <!-- Anduril: Software Engineer, Tooling | Broomfield, Colorado, United States; Fort Collins, Colorado, United States -->
+- https://job-boards.greenhouse.io/planetlabs/jobs/8143129   <!-- Planet Labs: Senior Software Engineer, Front-end - D&I Solutions | United States, Remote -->
+- https://databricks.com/company/careers/open-positions/job?gh_jid=8760282002   <!-- Databricks: AI Engineer - FDE (Forward Deployed Engineer) | Bellevue, Washington; Seattle, Washington -->
+- https://databricks.com/company/careers/open-positions/job?gh_jid=8760281002   <!-- Databricks: AI Engineer - FDE (Forward Deployed Engineer) | Berkeley, California; Los Angeles, California; Mountain View, California; Sacramento, California; San Diego, California; San Francisco, California -->
+- https://databricks.com/company/careers/open-positions/job?gh_jid=8099751002   <!-- Databricks: AI Engineer - FDE (Forward Deployed Engineer) | Remote - India -->
+- https://databricks.com/company/careers/open-positions/job?gh_jid=8760299002   <!-- Databricks: AI Engineer - FDE (Forward Deployed Engineer) | Denver, Colorado -->
+- https://databricks.com/company/careers/open-positions/job?gh_jid=8638847002   <!-- Databricks: AI Engineer — GTM Analytics | United States -->
+- https://databricks.com/company/careers/open-positions/job?gh_jid=8638646002   <!-- Databricks: Principal Event Marketing Manager, Data + AI World Tour | United States -->
+- https://databricks.com/company/careers/open-positions/job?gh_jid=8656900002   <!-- Databricks: Senior Applied ML Engineer - ML4Sys  | San Francisco, California -->
+- https://databricks.com/company/careers/open-positions/job?gh_jid=8692962002   <!-- Databricks: Specialist Solutions Architect - Data Engineering & Warehousing | United States -->
+- https://databricks.com/company/careers/open-positions/job?gh_jid=8663972002   <!-- Databricks: Staff Software Engineer - Streaming | Seattle, Washington -->
