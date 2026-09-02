@@ -1,5 +1,28 @@
 # Pipeline — Pending Offers
 
+## 2026-09-02 — Full Portal Scan (18 companies: Greenhouse API + WebSearch + Lever)
+
+> Greenhouse API (Calendly, Garner Health, Webflow, Grafana Labs, Checkr, OpenSesame, Anduril, Zipline, Anthropic) + Lever (Spotify) + WebSearch. Dedup against 29,229+ history entries + pipeline. **9 new matches** (2 × 4.0+, 1 × 3.8, 1 × 3.7, 3 × 3.5, 1 × 3.4, 1 × 3.2). Report: [scout-2026-09-02.md](../reports/scout-2026-09-02.md)
+
+#### Top Picks (4.0+)
+
+- [ ] https://job-boards.greenhouse.io/calendly/jobs/8628979002 | Calendly | Staff Platform Engineer | Remote US ★★ 4.0/5 — $262K-$318K (Denver tier). Go/K8s/Datadog/Temporal/GCP. Patrick's observability+K8s+Go profile is direct match. Temporal stack differentiator.
+- [ ] https://job-boards.greenhouse.io/garnerhealth/jobs/6147544004 | Garner Health | Staff Site Reliability Engineer | Remote US ★★ 4.0/5 — $241K-$270K. K8s/Terraform/AWS/SLO/HIPAA. VA.gov federal health observability = rare narrative match. Health mission alignment.
+
+#### Strong Matches (3.5–3.9)
+
+- [ ] https://job-boards.greenhouse.io/webflow/jobs/8165290 | Webflow | Staff Data Engineer | Remote US | 3.8/5 — $200K-$255K. Kafka/Iceberg/EMR on EKS. Patrick's Kafka+EKS expertise direct match. Spark gap manageable at Staff level.
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/6108292004 | Grafana Labs | Staff Software Engineer, Platform/SysEng | Remote US | 3.7/5 (est) — Observability company = Patrick's core superpower. Go/K8s/distributed systems. JD not fully fetched — verify link.
+- [ ] https://job-boards.greenhouse.io/garnerhealth/jobs/6013546004 | Garner Health | Staff Software Engineer, Developer Experience | Remote US | 3.5/5 (est) — Developer platform/tooling. CI/CD and platform engineering background applies. JD not fully fetched.
+- [ ] https://job-boards.greenhouse.io/checkr/jobs/7921643 | Checkr | Senior Engineering Manager, Data Engineering | Denver, CO | 3.5/5 (est) — Local Denver EM data engineering. Data Eng Manager archetype match. JD not fully fetched.
+
+#### Other Matches (3.0–3.4)
+
+- [ ] https://job-boards.greenhouse.io/opensesame/jobs/8152723 | OpenSesame | Data Engineering Manager | Remote US | 3.4/5 (est) — Remote DE Manager at eLearning platform. Small company. Archetype match moderate. JD not fully fetched.
+- [ ] https://job-boards.greenhouse.io/andurilindustries/jobs/5227576007 | Anduril | Platform Engineer, Battlespace Awareness | Broomfield/Fort Collins CO | 3.2/5 — $165K-$218K BELOW $185K floor; C++ gap; TS/SCI clearance required. Listed for completeness — recommend skip.
+
+---
+
 ## 2026-08-28 — Full Portal Scan (45+ companies: Greenhouse API + WebSearch)
 
 > Greenhouse API (Anthropic, Anduril, Fivetran, Databricks, Scale AI, Samsara, Chainguard, ClickHouse, Aurora, Figure AI, Planet Labs, Rocket Lab, Zipline, Temporal, Airtable, Arize AI, Glean, Vercel, Wayve, PhysicsX, Celonis, Helsing, Discord, Faire, Okta, Honor, Nuro, Vast + WebSearch broad). Dedup against 24,500+ history entries + pipeline. **17 new matches**. Report: [scout-2026-08-28.md](../reports/scout-2026-08-28.md)
