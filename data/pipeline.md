@@ -1,5 +1,19 @@
 # Pipeline — Pending Offers
 
+## 2026-09-02 — Quick Check (Greenhouse APIs: 41 companies)
+
+> Lightweight API-only scan. Dedup against 27,029 history entries. **5 new matches**. Report: [scout-quickcheck-2026-09-02.md](../reports/scout-quickcheck-2026-09-02.md)
+
+#### New Discoveries (needs full evaluation)
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5411560008 | Anthropic | Engineering Manager, Inference Infrastructure | SF / NYC / Seattle | — EM role at Anthropic infra. High priority.
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5411267008 | Anthropic | Engineering Manager, Scheduler and Fleet Efficiency | SF / NYC | — EM fleet/scheduler at Anthropic. High priority.
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4729820005 | Scale AI | Staff Software Engineer, RL Environments | SF / NYC | — Staff SWE building RL training environments.
+- [ ] https://www.zipline.com/open-roles?gh_jid=7983316003 | Zipline | Staff Software Engineer, Healthcare — Systems & Integrations | Remote US / EMEA | — Remote Staff SWE, healthcare integrations.
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/8143129 | Planet Labs | Senior Software Engineer, Front-end - D&I Solutions | Remote US | — Front-end focus; review before applying.
+
+---
+
 ## 2026-09-02 — Full Portal Scan (18 companies: Greenhouse API + WebSearch + Lever)
 
 > Greenhouse API (Calendly, Garner Health, Webflow, Grafana Labs, Checkr, OpenSesame, Anduril, Zipline, Anthropic) + Lever (Spotify) + WebSearch. Dedup against 29,229+ history entries + pipeline. **9 new matches** (2 × 4.0+, 1 × 3.8, 1 × 3.7, 3 × 3.5, 1 × 3.4, 1 × 3.2). Report: [scout-2026-09-02.md](../reports/scout-2026-09-02.md)
