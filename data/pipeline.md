@@ -7865,3 +7865,27 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - https://databricks.com/company/careers/open-positions/job?gh_jid=8656900002   <!-- Databricks: Senior Applied ML Engineer - ML4Sys  | San Francisco, California -->
 - https://databricks.com/company/careers/open-positions/job?gh_jid=8692962002   <!-- Databricks: Specialist Solutions Architect - Data Engineering & Warehousing | United States -->
 - https://databricks.com/company/careers/open-positions/job?gh_jid=8663972002   <!-- Databricks: Staff Software Engineer - Streaming | Seattle, Washington -->
+
+<!-- scout-quickcheck 2026-09-02 — 22 new -->
+- https://job-boards.greenhouse.io/airtable/jobs/8397665002   <!-- Airtable: Engineering Manager, Enterprise Product | San Francisco, CA; New York, NY -->
+- https://job-boards.greenhouse.io/airtable/jobs/8124953002   <!-- Airtable: Software Engineer, Data | San Francisco, CA; Austin, TX; New York, NY -->
+- https://job-boards.greenhouse.io/airtable/jobs/8400373002   <!-- Airtable: Software Engineer, Infrastructure (4-8 YOE) | San Francisco, CA; New York, NY; Seattle, WA -->
+- https://job-boards.greenhouse.io/airtable/jobs/8397515002   <!-- Airtable: Software Engineer, Product Backend (4-8 YOE) | San Francisco, CA; New York, NY -->
+- https://job-boards.greenhouse.io/vercel/jobs/5701765004   <!-- Vercel: Engineering Manager, CDN | Hybrid - San Francisco -->
+- https://job-boards.greenhouse.io/vercel/jobs/5430088004   <!-- Vercel: Software Engineer, Backend | Remote - United States -->
+- https://job-boards.greenhouse.io/vercel/jobs/5798406004   <!-- Vercel: Software Engineer, AI Gateway | Hybrid - San Francisco, New York City -->
+- https://job-boards.greenhouse.io/vercel/jobs/5474915004   <!-- Vercel: Software Engineer, AI SDK | Hybrid - San Francisco, New York City -->
+- https://job-boards.greenhouse.io/vercel/jobs/5179639004   <!-- Vercel: Software Engineer, CDN | Hybrid - San Francisco, New York City -->
+- https://job-boards.greenhouse.io/vercel/jobs/6105394004   <!-- Vercel: Software Engineer, CDN Content | Hybrid - San Francisco -->
+- https://job-boards.greenhouse.io/vercel/jobs/6161129004   <!-- Vercel: Software Engineer, Data Platform | Hybrid - San Francisco, New York City -->
+- https://job-boards.greenhouse.io/vercel/jobs/5633880004   <!-- Vercel: Software Engineer, Deployment Infrastructure | Hybrid - San Francisco, New York City -->
+- https://job-boards.greenhouse.io/vercel/jobs/6098390004   <!-- Vercel: Software Engineer, eve | Hybrid - San Francisco, New York City -->
+- https://job-boards.greenhouse.io/vercel/jobs/5428982004   <!-- Vercel: Software Engineer, Observability | Hybrid - San Francisco, New York City -->
+- https://job-boards.greenhouse.io/vercel/jobs/5649459004   <!-- Vercel: Software Engineer, Trust & Safety | Hybrid - San Francisco, New York City -->
+- https://job-boards.greenhouse.io/vercel/jobs/5798416004   <!-- Vercel: Software Engineer, Workflows | Hybrid - San Francisco, New York City -->
+- https://job-boards.greenhouse.io/vercel/jobs/5914474004   <!-- Vercel: Senior Data Engineer - Finance | Hybrid - San Francisco, New York City -->
+- https://job-boards.greenhouse.io/vercel/jobs/5914473004   <!-- Vercel: Senior Data Engineer - GTM | Hybrid - San Francisco, New York City -->
+- https://job-boards.greenhouse.io/vercel/jobs/5895013004   <!-- Vercel: Staff Data Platform Engineer - Finance | Hybrid - San Francisco, New York City -->
+- https://job-boards.greenhouse.io/arizeai/jobs/5396396004   <!-- Arize AI: Senior AI Product Engineer, Backend | Remote (United States) -->
+- https://job-boards.eu.greenhouse.io/amplemarket/jobs/4087603101   <!-- Amplemarket: Engineering Manager | Remote, EMEA/LATAM/North America -->
+- https://job-boards.eu.greenhouse.io/amplemarket/jobs/4066899101   <!-- Amplemarket: Senior Backend Software Engineer | Remote, EMEA/LATAM/North America -->
