@@ -29282,3 +29282,33 @@ https://boards-api.greenhouse.io/v1/boards/databricks/jobs	2026-09-03	scout-2026
 https://boards-api.greenhouse.io/v1/boards/figureai/jobs	2026-09-03	scout-2026-09-03	(API scan)	Figure AI	all_san_jose_filtered
 https://boards-api.greenhouse.io/v1/boards/clickhouse/jobs	2026-09-03	scout-2026-09-03	(API scan — 404)	ClickHouse	error_404_board_migrated
 https://job-boards.greenhouse.io/anthropic/jobs/5411560008	2026-09-03	scout-2026-09-03	Engineering Manager, Inference Infrastructure	Anthropic	evaluated_3.8
+https://boards-api.greenhouse.io/v1/boards/anduril/jobs	2026-09-03	scout-2026-09-03	(API scan — all early_career/intern)	Anduril	no_match
+https://boards-api.greenhouse.io/v1/boards/polyai/jobs	2026-09-03	scout-2026-09-03	(API scan)	PolyAI	no_match
+https://boards-api.greenhouse.io/v1/boards/intercom/jobs	2026-09-03	scout-2026-09-03	(API scan — all EU)	Intercom	no_us_remote
+https://boards-api.greenhouse.io/v1/boards/airtable/jobs	2026-09-03	scout-2026-09-03	(API scan)	Airtable	all_seen
+https://boards-api.greenhouse.io/v1/boards/temporaltechnologies/jobs	2026-09-03	scout-2026-09-03	(API scan — 404)	Temporal Technologies	error_404
+https://boards-api.greenhouse.io/v1/boards/arizeai/jobs	2026-09-03	scout-2026-09-03	(API scan)	Arize AI	all_seen
+https://boards-api.greenhouse.io/v1/boards/vercel/jobs	2026-09-03	scout-2026-09-03	(API scan)	Vercel	all_seen
+https://boards-api.greenhouse.io/v1/boards/helsing/jobs	2026-09-03	scout-2026-09-03	(API scan — all EU/DC)	Helsing	no_us_remote
+https://boards-api.greenhouse.io/v1/boards/parloa/jobs	2026-09-03	scout-2026-09-03	(API scan — all EU)	Parloa	no_us_remote
+https://boards-api.greenhouse.io/v1/boards/humeai/jobs	2026-09-03	scout-2026-09-03	(API scan)	Hume AI	all_seen
+https://boards-api.greenhouse.io/v1/boards/celonis/jobs	2026-09-03	scout-2026-09-03	(API scan — NYC office only)	Celonis	no_us_remote
+https://boards-api.greenhouse.io/v1/boards/contentful/jobs	2026-09-03	scout-2026-09-03	(API scan — board empty)	Contentful	no_jobs
+https://boards-api.greenhouse.io/v1/boards/getyourguide/jobs	2026-09-03	scout-2026-09-03	(API scan — all EU)	GetYourGuide	no_us_remote
+https://boards-api.greenhouse.io/v1/boards/hellofresh/jobs	2026-09-03	scout-2026-09-03	(API scan — all EU)	HelloFresh	no_us_remote
+https://boards-api.greenhouse.io/v1/boards/n26/jobs	2026-09-03	scout-2026-09-03	(API scan — all EU)	N26	no_us_remote
+https://boards-api.greenhouse.io/v1/boards/traderepublic/jobs	2026-09-03	scout-2026-09-03	(API scan — all EU)	Trade Republic	no_us_remote
+https://boards-api.greenhouse.io/v1/boards/sumup/jobs	2026-09-03	scout-2026-09-03	(API scan — all EU)	SumUp	no_us_remote
+https://boards-api.greenhouse.io/v1/boards/scandit/jobs	2026-09-03	scout-2026-09-03	(API scan — no title match)	Scandit	no_match
+https://boards-api.greenhouse.io/v1/boards/wayve/jobs	2026-09-03	scout-2026-09-03	(API scan)	Wayve	all_seen
+https://boards-api.greenhouse.io/v1/boards/stabilityai/jobs	2026-09-03	scout-2026-09-03	(API scan — no title match)	Stability AI	no_match
+https://boards-api.greenhouse.io/v1/boards/amplemarket/jobs	2026-09-03	scout-2026-09-03	(API scan)	Amplemarket	all_seen
+https://boards-api.greenhouse.io/v1/boards/aurorainnovation/jobs	2026-09-03	scout-2026-09-03	(API scan — 404)	Aurora Innovation	error_404
+https://boards-api.greenhouse.io/v1/boards/nuro/jobs	2026-09-03	scout-2026-09-03	(API scan — Mountain View only)	Nuro	no_us_locations
+https://boards-api.greenhouse.io/v1/boards/flyzipline/jobs	2026-09-03	scout-2026-09-03	(API scan)	Zipline	all_seen
+https://boards-api.greenhouse.io/v1/boards/isomorphiclabs/jobs	2026-09-03	scout-2026-09-03	(API scan — all EU/Cambridge MA non-SW)	Isomorphic Labs	no_us_remote
+https://job-boards.eu.greenhouse.io/physicsx/jobs	2026-09-03	scout-2026-09-03	(API scan — EU board)	PhysicsX	all_seen
+https://boards-api.greenhouse.io/v1/boards/vast/jobs	2026-09-03	scout-2026-09-03	(API scan — aerospace Long Beach only)	Vast	no_match
+https://boards-api.greenhouse.io/v1/boards/planetlabs/jobs	2026-09-03	scout-2026-09-03	(API scan)	Planet Labs	all_seen
+https://boards-api.greenhouse.io/v1/boards/blackforestlabs/jobs	2026-09-03	scout-2026-09-03	(API scan — 404)	Black Forest Labs	error_404
+https://boards-api.greenhouse.io/v1/boards/speechmatics/jobs	2026-09-03	scout-2026-09-03	(API scan — all UK)	Speechmatics	no_us_remote
