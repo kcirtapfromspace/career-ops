@@ -29270,3 +29270,15 @@ https://job-boards.greenhouse.io/vercel/jobs/5895013004	2026-09-02
 https://job-boards.greenhouse.io/arizeai/jobs/5396396004	2026-09-02
 https://job-boards.eu.greenhouse.io/amplemarket/jobs/4087603101	2026-09-02
 https://job-boards.eu.greenhouse.io/amplemarket/jobs/4066899101	2026-09-02
+https://boards-api.greenhouse.io/v1/boards/fivetran/jobs	2026-09-03	scout-2026-09-03	(API scan)	Fivetran	all_seen
+https://boards-api.greenhouse.io/v1/boards/dagsterlabs/jobs	2026-09-03	scout-2026-09-03	(API scan — board empty)	Dagster	no_jobs
+https://boards-api.greenhouse.io/v1/boards/chainguard/jobs	2026-09-03	scout-2026-09-03	(API scan)	Chainguard	all_seen
+https://boards-api.greenhouse.io/v1/boards/anthropic/jobs	2026-09-03	scout-2026-09-03	(API scan)	Anthropic	all_seen
+https://boards-api.greenhouse.io/v1/boards/rocketlab/jobs	2026-09-03	scout-2026-09-03	(API scan)	Rocket Lab	no_sw_roles
+https://boards-api.greenhouse.io/v1/boards/scaleai/jobs	2026-09-03	scout-2026-09-03	(API scan)	Scale AI	all_seen
+https://boards-api.greenhouse.io/v1/boards/samsara/jobs	2026-09-03	scout-2026-09-03	(API scan)	Samsara	all_seen
+https://boards-api.greenhouse.io/v1/boards/gleanwork/jobs	2026-09-03	scout-2026-09-03	(API scan)	Glean	all_seen
+https://boards-api.greenhouse.io/v1/boards/databricks/jobs	2026-09-03	scout-2026-09-03	(API scan)	Databricks	all_seen
+https://boards-api.greenhouse.io/v1/boards/figureai/jobs	2026-09-03	scout-2026-09-03	(API scan)	Figure AI	all_san_jose_filtered
+https://boards-api.greenhouse.io/v1/boards/clickhouse/jobs	2026-09-03	scout-2026-09-03	(API scan — 404)	ClickHouse	error_404_board_migrated
+https://job-boards.greenhouse.io/anthropic/jobs/5411560008	2026-09-03	scout-2026-09-03	Engineering Manager, Inference Infrastructure	Anthropic	evaluated_3.8
