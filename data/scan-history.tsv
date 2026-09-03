@@ -29312,3 +29312,5 @@ https://boards-api.greenhouse.io/v1/boards/vast/jobs	2026-09-03	scout-2026-09-03
 https://boards-api.greenhouse.io/v1/boards/planetlabs/jobs	2026-09-03	scout-2026-09-03	(API scan)	Planet Labs	all_seen
 https://boards-api.greenhouse.io/v1/boards/blackforestlabs/jobs	2026-09-03	scout-2026-09-03	(API scan — 404)	Black Forest Labs	error_404
 https://boards-api.greenhouse.io/v1/boards/speechmatics/jobs	2026-09-03	scout-2026-09-03	(API scan — all UK)	Speechmatics	no_us_remote
+https://boards-api.greenhouse.io/v1/boards/andurilindustries/jobs	2026-09-03	scout-2026-09-03	(API scan — all Early Career/Intern)	Anduril	no_match
+https://boards-api.greenhouse.io/v1/boards/traderepublicbank/jobs	2026-09-03	scout-2026-09-03	(API scan — ML Platform EU only)	Trade Republic	no_us_remote
