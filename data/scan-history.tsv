@@ -29314,3 +29314,24 @@ https://boards-api.greenhouse.io/v1/boards/blackforestlabs/jobs	2026-09-03	scout
 https://boards-api.greenhouse.io/v1/boards/speechmatics/jobs	2026-09-03	scout-2026-09-03	(API scan — all UK)	Speechmatics	no_us_remote
 https://boards-api.greenhouse.io/v1/boards/andurilindustries/jobs	2026-09-03	scout-2026-09-03	(API scan — all Early Career/Intern)	Anduril	no_match
 https://boards-api.greenhouse.io/v1/boards/traderepublicbank/jobs	2026-09-03	scout-2026-09-03	(API scan — ML Platform EU only)	Trade Republic	no_us_remote
+https://job-boards.greenhouse.io/figma/jobs/6135721004	2026-09-04	scout-2026-09-04	Manager, Software Engineering - Data Platform | US Remote | $258K-$376K	Figma	match_4.3
+https://jobs.ashbyhq.com/ramp/8feea132-de95-4dbe-8f0c-783f225ec7f3	2026-09-04	scout-2026-09-04	Staff Machine Learning Engineer | NYC (verify remote)	Ramp	match_3.7
+https://job-boards.greenhouse.io/gitlab/jobs/8773381002	2026-09-04	scout-2026-09-04	Staff Backend Engineer, AMER | US Remote | $152K-$259K	GitLab	match_3.5
+https://jobs.ashbyhq.com/MotherDuck/464356b0-c414-436d-b17a-43e73f4c8f1c	2026-09-04	scout-2026-09-04	Software Engineer, Backend | US Remote | DuckDB	MotherDuck	match_3.5
+https://jobs.ashbyhq.com/motherduck/111fd8f5-a8ad-4aa4-937f-79da7c2184db	2026-09-04	scout-2026-09-04	Software Engineer, Database | US Remote | C++ database internals	MotherDuck	match_2.8
+https://job-boards.greenhouse.io/vercel/jobs/6137958004	2026-09-04	scout-2026-09-04	Member of Technical Staff, Next.js | Hybrid SF/NYC | frontend	Vercel	no_match_frontend
+https://job-boards.greenhouse.io/anthropic/jobs/5406367008	2026-09-04	scout-2026-09-04	Cyber Evaluations Engineer | SF/DC only	Anthropic	no_us_remote
+https://boards-api.greenhouse.io/v1/boards/anthropic/jobs	2026-09-04	scout-2026-09-04	(API scan)	Anthropic	all_seen
+https://boards-api.greenhouse.io/v1/boards/databricks/jobs	2026-09-04	scout-2026-09-04	(API scan)	Databricks	all_seen
+https://boards-api.greenhouse.io/v1/boards/chainguard/jobs	2026-09-04	scout-2026-09-04	(API scan)	Chainguard	all_seen
+https://boards-api.greenhouse.io/v1/boards/fivetran/jobs	2026-09-04	scout-2026-09-04	(API scan — no eng matches)	Fivetran	no_match
+https://boards-api.greenhouse.io/v1/boards/scaleai/jobs	2026-09-04	scout-2026-09-04	(API scan)	Scale AI	all_seen
+https://boards-api.greenhouse.io/v1/boards/gleanwork/jobs	2026-09-04	scout-2026-09-04	(API scan)	Glean	all_seen
+https://boards-api.greenhouse.io/v1/boards/samsara/jobs	2026-09-04	scout-2026-09-04	(API scan)	Samsara	all_seen
+https://boards-api.greenhouse.io/v1/boards/vercel/jobs	2026-09-04	scout-2026-09-04	(API scan)	Vercel	all_seen
+https://boards-api.greenhouse.io/v1/boards/airtable/jobs	2026-09-04	scout-2026-09-04	(API scan)	Airtable	all_seen
+https://boards-api.greenhouse.io/v1/boards/arizeai/jobs	2026-09-04	scout-2026-09-04	(API scan)	Arize AI	all_seen
+https://boards-api.greenhouse.io/v1/boards/figureai/jobs	2026-09-04	scout-2026-09-04	(API scan — hardware only)	Figure AI	no_match
+https://boards-api.greenhouse.io/v1/boards/dagsterlabs/jobs	2026-09-04	scout-2026-09-04	(API scan — empty board)	Dagster Labs	no_match
+https://boards-api.greenhouse.io/v1/boards/clickhouse/jobs	2026-09-04	scout-2026-09-04	(API scan — 404)	ClickHouse	error_404
+https://boards-api.greenhouse.io/v1/boards/rocketlab/jobs	2026-09-04	scout-2026-09-04	(API scan — no title matches)	Rocket Lab	no_match

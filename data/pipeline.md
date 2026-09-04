@@ -1,5 +1,21 @@
 # Pipeline — Pending Offers
 
+## 2026-09-04 — Full Portal Scan (30+ companies: Greenhouse API + WebSearch)
+
+> Greenhouse API (Anthropic, Databricks, Chainguard, Fivetran, Scale AI, Glean, Samsara, Vercel, Airtable, Arize AI, Figure AI) + WebSearch (Confluent, MotherDuck, Zapier, Ramp, Spotify, Figma, GitLab + cross-portal). Dedup against 29,316+ history entries. **5 new matches** (1 × 4.3, 1 × 3.7, 2 × 3.5, 1 × 2.8). Report: [scout-2026-09-04.md](../reports/scout-2026-09-04.md)
+
+#### Top Picks (4.0+)
+
+- [ ] https://job-boards.greenhouse.io/figma/jobs/6135721004 | Figma | Manager, Software Engineering - Data Platform | US Remote ★★ 4.3/5 — $258K–$376K. Data platform EM archetype = perfect fit. Leads eng team for Figma's core data/ML infra. Batch+streaming, ML workloads, cross-functional. Patrick's Workiva EM + VA.gov data platform background = direct match.
+
+#### Strong Matches (3.5–3.9)
+
+- [ ] https://jobs.ashbyhq.com/ramp/8feea132-de95-4dbe-8f0c-783f225ec7f3 | Ramp | Staff Machine Learning Engineer | NYC (verify remote) | 3.7/5 — Top-of-market fintech comp ~$200K–$250K. Patrick's ML/observability background fits. VERIFY: confirm remote option before applying (NYC primary company).
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8773381002 | GitLab | Staff Backend Engineer, AMER | US Remote | 3.5/5 — $152K–$259K. Go/K8s/PostgreSQL at scale, monolith modernization = maps to Patrick's mainframe-to-cloud expertise. CAUTION: comp floor $152K is below $185K minimum — actual Staff offer should land higher.
+- [ ] https://jobs.ashbyhq.com/MotherDuck/464356b0-c414-436d-b17a-43e73f4c8f1c | MotherDuck | Software Engineer, Backend | US Remote | 3.5/5 — Patrick uses DuckDB in Modern Data Stack demo. Cloud DuckDB distributed analytics. Verify leveling (SE vs Staff IC track).
+
+---
+
 ## 2026-09-02 — Quick Check (Greenhouse APIs: 41 companies)
 
 > Lightweight API-only scan. Dedup against 27,029 history entries. **5 new matches**. Report: [scout-quickcheck-2026-09-02.md](../reports/scout-quickcheck-2026-09-02.md)
