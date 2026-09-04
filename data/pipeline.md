@@ -7905,3 +7905,27 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - https://job-boards.greenhouse.io/arizeai/jobs/5396396004   <!-- Arize AI: Senior AI Product Engineer, Backend | Remote (United States) -->
 - https://job-boards.eu.greenhouse.io/amplemarket/jobs/4087603101   <!-- Amplemarket: Engineering Manager | Remote, EMEA/LATAM/North America -->
 - https://job-boards.eu.greenhouse.io/amplemarket/jobs/4066899101   <!-- Amplemarket: Senior Backend Software Engineer | Remote, EMEA/LATAM/North America -->
+
+## 2026-09-04 — Quick Check (Greenhouse APIs: 38 companies)
+
+> Lighthouse API-only scan. Dedup against 27,040 history entries. **10 new pipeline entries** from 39 raw matches (4 companies with API errors: Temporal, Black Forest Labs, Aurora Innovation, Clickhouse). Report: [scout-quickcheck-2026-09-04.md](../reports/scout-quickcheck-2026-09-04.md)
+
+#### Top Picks (4.0+)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5416709008 | Anthropic | Staff+ Site Reliability Engineer, Safeguards ML Infra | Remote-Friendly / SF / Seattle / NYC | ★★★ Staff+ SRE at Anthropic building ML safety infra. Remote-friendly. Top priority.
+
+#### Strong Matches (3.5–3.9)
+
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/8154780 | Planet Labs | Senior Software Engineer, Storage Infrastructure | US Remote | ★★ Remote US. Storage infra at satellite imaging platform. Patrick's distributed infra background fits.
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5228337007?gh_jid=5228337007 | Anduril | Software Engineer, Distributed Simulation | Seattle, WA | ★★ Dream company. Distributed systems at Anduril. Seattle office.
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5131066007?gh_jid=5131066007 | Anduril | Software Engineer, Geospatial Platform (Terra) | Seattle, WA | ★★ Dream company. Platform engineering at Anduril's geospatial stack. Seattle office.
+- [ ] https://www.zipline.com/open-roles/7810390003?gh_jid=7810390003 | Zipline | Senior Data Engineer - Data Platform | South San Francisco, CA | ★★ Data Platform archetype = direct match. Zipline is dream company (hardware moat + real-world impact). On-site South SF.
+- [ ] https://www.zipline.com/open-roles/7812167003?gh_jid=7812167003 | Zipline | Staff Platform Software Engineer, AI Enablement | South San Francisco, CA | ★★ Staff-level platform + AI at Zipline. Strong archetype fit. On-site South SF.
+- [ ] https://www.zipline.com/open-roles/7983305003?gh_jid=7983305003 | Zipline | Staff Software Engineer, Healthcare — Customer Experience | Remote US / EMEA | ★★ Remote US. Staff SWE at Zipline healthcare vertical. Systems integration focus.
+
+#### For Review
+
+- [ ] https://www.zipline.com/open-roles/7859841003?gh_jid=7859841003 | Zipline | Software Engineering Manager – Developer Productivity | South San Francisco, CA | ★ EM archetype. Developer productivity org at Zipline. On-site South SF.
+- [ ] https://www.zipline.com/open-roles/7805100003?gh_jid=7805100003 | Zipline | Sr. Software Engineering Manager, Financial Platform | South San Francisco, CA | ★ Sr. EM for financial platform at Zipline. On-site South SF.
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4730512005 | Scale AI | Senior Software Engineer, Platform | SF / NYC | ★ Platform engineering at Scale AI. SF/NYC offices. Verify remote option.
+
+---
