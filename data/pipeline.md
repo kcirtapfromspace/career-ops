@@ -7937,3 +7937,47 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 <!-- scout-fullscan 2026-09-05 — 0 new -->
 
 ---
+
+---
+
+## 2026-09-05 — Quick-Check (Greenhouse API)
+
+> Quick-check: Greenhouse API-only scan across 37/41 companies. Dedup against 27,088 history entries. **29 new matches** from 31 raw results (4 API 404s: Black Forest Labs, Temporal, Aurora Innovation, Clickhouse).
+
+#### Top Picks
+
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5227576007?gh_jid=5227576007 | Anduril | Platform Engineer, Battlespace Awareness | Broomfield, CO / Fort Collins, Colorado, United States | ★★★ Anduril. Colorado location + dream company. High priority.
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5226927007?gh_jid=5226927007 | Anduril | Senior Realtime Software Engineer | Boulder, CO | ★★★ Anduril. Colorado location + dream company. High priority.
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5228642007?gh_jid=5228642007 | Anduril | Senior Software Engineer, Air & Missile Defense | Broomfield, CO | ★★★ Anduril. Colorado location + dream company. High priority.
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5227588007?gh_jid=5227588007 | Anduril | Software Engineer, Tooling | Broomfield, CO / Fort Collins, Colorado, United States | ★★★ Anduril. Colorado location + dream company. High priority.
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5226933007?gh_jid=5226933007 | Anduril | Senior Scientific Software Engineer | Broomfield, CO / Fort Collins, Colorado, United States | ★★★ Anduril. Colorado location + dream company. High priority.
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5228636007?gh_jid=5228636007 | Anduril | Senior Scientific Software Engineer | Broomfield, CO | ★★★ Anduril. Colorado location + dream company. High priority.
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5226937007?gh_jid=5226937007 | Anduril | Senior Software Engineer, C++ | Broomfield, CO / Fort Collins, Colorado, United States | ★★★ Anduril. Colorado location + dream company. High priority.
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5228643007?gh_jid=5228643007 | Anduril | Senior Software Engineer, C++ | Broomfield, CO | ★★★ Anduril. Colorado location + dream company. High priority.
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5226950007?gh_jid=5226950007 | Anduril | Senior Software Engineer, Estimation & Filtering | Broomfield, CO / Fort Collins, Colorado, United States | ★★★ Anduril. Colorado location + dream company. High priority.
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5228644007?gh_jid=5228644007 | Anduril | Senior Software Engineer, Sensor Fusion | Broomfield, CO | ★★★ Anduril. Colorado location + dream company. High priority.
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5226936007?gh_jid=5226936007 | Anduril | Senior Software Engineer, Target Tracking | Broomfield, CO / Fort Collins, Colorado, United States | ★★★ Anduril. Colorado location + dream company. High priority.
+
+#### Strong Matches
+
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5226942007?gh_jid=5226942007 | Anduril | Scientific Software Engineer | Broomfield, CO / Fort Collins, Colorado, United States | ★★ Anduril. Software engineering role.
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5227989007?gh_jid=5227989007 | Anduril | Senior AI Infrastructure Engineer, Physical Infrastructure | Costa Mesa, CA | ★★ Anduril. Software engineering role.
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5226943007?gh_jid=5226943007 | Anduril | Software Engineer, C++ | Broomfield, CO / Fort Collins, Colorado, United States | ★★ Anduril. Software engineering role.
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5226944007?gh_jid=5226944007 | Anduril | Software Engineer, Target Tracking | Broomfield, CO / Fort Collins, Colorado, United States | ★★ Anduril. Software engineering role.
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8761732002 | Databricks | Specialist Solutions Architect - Data Engineering & Warehousing (Digital Native Business)  | United States | ★★ Databricks. Data Engineering SA role at Databricks.
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8755425002 | Wayve | Senior Machine Learning Engineer, Search & Index | Sunnyvale | ★★ Wayve. ML engineering role.
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5226928007?gh_jid=5226928007 | Anduril | Senior Production Software Engineer | Lexington, MA | ★ Anduril. Software engineering role.
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5226926007?gh_jid=5226926007 | Anduril | Site Reliability Engineer | Waltham, MA | ★ Anduril. SRE role.
+
+#### For Review
+
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5226925007?gh_jid=5226925007 | Anduril | Senior Mission Software Engineer | Lexington, MA | ★ Anduril. Software engineering role.
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5226948007?gh_jid=5226948007 | Anduril | Senior Software Engineer, Estimation & Filtering | Waltham, MA | ★ Anduril. Software engineering role.
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5226949007?gh_jid=5226949007 | Anduril | Senior Software Engineer, Estimation & Filtering | Washington, DC | ★ Anduril. Software engineering role.
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8758604002 | Wayve | Site Reliability Engineer, Vehicle Software | Sunnyvale | ★ Wayve. SRE role.
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5208852007?gh_jid=5208852007 | Anduril | Mission Software Engineer | Costa Mesa, CA | ★ Anduril. Software engineering role.
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5226472007?gh_jid=5226472007 | Anduril | Sr. Mission Software Engineer - Undersea Reconnaissance & Strike | Boston, MA | ★ Anduril. Software engineering role.
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5226466007?gh_jid=5226466007 | Anduril | Sr. Mission Software Engineer - Undersea Reconnaissance & Strike | Quincy, MA | ★ Anduril. Software engineering role.
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5226471007?gh_jid=5226471007 | Anduril | Mission Software Engineer - Undersea Reconnaissance & Strike | Boston, MA | ★ Anduril. Software engineering role.
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5226473007?gh_jid=5226473007 | Anduril | Mission Software Engineer - Undersea Reconnaissance & Strike | Washington, DC | ★ Anduril. Software engineering role.
+- [ ] https://boards.greenhouse.io/vast/jobs/4709600006?gh_jid=4709600006 | Vast | Software Engineer II, Enterprise Applications | Long Beach, CA | ★ Vast. Software engineering role.
