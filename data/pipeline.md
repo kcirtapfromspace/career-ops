@@ -7929,3 +7929,11 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - [ ] https://job-boards.greenhouse.io/scaleai/jobs/4730512005 | Scale AI | Senior Software Engineer, Platform | SF / NYC | ★ Platform engineering at Scale AI. SF/NYC offices. Verify remote option.
 
 ---
+
+## 2026-09-05 — Full Greenhouse Scan
+
+> Greenhouse API scan: 13 companies. Dedup against 29,376 history entries. **0 new matches** — all candidates already in pipeline from 09-02/09-04 scans. 4 API 404s (Aurora Innovation, Clickhouse, Temporal, Dagster empty). Report: [scout-2026-09-05.md](../reports/scout-2026-09-05.md)
+
+<!-- scout-fullscan 2026-09-05 — 0 new -->
+
+---
