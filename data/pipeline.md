@@ -7990,3 +7990,31 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 
 - [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5166545007 | True Anomaly | Staff Platform Engineer, AI | Denver, CO (hybrid) | ★★★ 3.9/5 — $225K–$310K Denver. LLM/RAG/agents platform + enterprise AI infra. Federal background (VA.gov/HHS) = ITAR/clearance differentiator. Python/AWS/GCP. TS clearance eligibility required (not active). LOCAL Denver.
 - [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5230702007 | True Anomaly | Staff Platform Engineer, Security | Denver, CO | ★★ 3.5/5 — $205K–$295K Colorado. Go/Python/Terraform/Vault/PKI. Multi-cloud security platform. Active clearance preferred. LOCAL Denver.
+
+---
+
+## 2026-09-06 — Quick Check (Greenhouse APIs: 43 companies)
+
+> Lightweight API-only scan. Dedup against 29,422 history entries. **12 new matches** (all True Anomaly — Denver/Long Beach). Report: [scout-quickcheck-2026-09-06.md](../reports/scout-quickcheck-2026-09-06.md)
+> Errors: Aurora Innovation (404), Temporal (404), Clickhouse (404), Black Forest Labs (404). All other companies already in history or no matches.
+
+#### Platform & Data Engineering (High Priority — Denver LOCAL)
+
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5182480007 | True Anomaly | Staff Platform Engineer, Infrastructure | Denver, CO or Long Beach, CA | — Infra-focused Staff PE. Pair with AI role already in pipeline.
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5166543007 | True Anomaly | Senior Platform Engineer, AI | Denver, CO or Long Beach, CA | — Senior AI platform role. LLM/RAG infra at defense scale.
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5166540007 | True Anomaly | Platform Engineer, AI (Levels I, II, III) | Denver, CO or Long Beach, CA | — Multi-level posting; verify target level before applying.
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5182446007 | True Anomaly | Senior Platform Engineer, Infrastructure | Denver, CO or Long Beach, CA | — Infrastructure-focused PE role. K8s/cloud at space-defense scale.
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5220130007 | True Anomaly | Principal Data Engineer | Denver, CO or Long Beach, CA | — Principal-level DE. Space telemetry + ML data pipelines.
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5223279007 | True Anomaly | Data Engineer I | Denver, CO or Long Beach, CA | — Level I (entry); likely too junior for Patrick. Verify before applying.
+
+#### Engineering Manager Roles (Denver)
+
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5224053007 | True Anomaly | Engineering Manager, Autonomy | Denver, CO or Long Beach, CA | — EM for autonomy software team. Defense AI. TS clearance context helpful.
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5142446007 | True Anomaly | Engineering Manager, Ground Software | Denver, CO | — EM for ground station software. Infrastructure + reliability focus.
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5140156007 | True Anomaly | Engineering Manager, Software (Modeling and Simulation) | Denver, CO or Long Beach, CA | — EM for M&S team. Simulation infrastructure.
+
+#### Staff Software Engineer (Denver)
+
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5091489007 | True Anomaly | Staff Software Engineer, Full Stack | Denver, CO or Long Beach, CA | — Staff FSE; review stack fit before applying.
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5091384007 | True Anomaly | Staff Software Engineer, Elixir | Denver, CO or Long Beach, CA | — Elixir stack; niche fit. Skip unless interested.
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5091767007 | True Anomaly | Principal Software Engineer, Spacecraft Simulation | Denver, CO or Long Beach, CA | — Highly specialized; review domain fit.
