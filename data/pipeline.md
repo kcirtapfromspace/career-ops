@@ -7981,3 +7981,12 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5226471007?gh_jid=5226471007 | Anduril | Mission Software Engineer - Undersea Reconnaissance & Strike | Boston, MA | ★ Anduril. Software engineering role.
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5226473007?gh_jid=5226473007 | Anduril | Mission Software Engineer - Undersea Reconnaissance & Strike | Washington, DC | ★ Anduril. Software engineering role.
 - [ ] https://boards.greenhouse.io/vast/jobs/4709600006?gh_jid=4709600006 | Vast | Software Engineer II, Enterprise Applications | Long Beach, CA | ★ Vast. Software engineering role.
+
+## 2026-09-06 — Scout Scan (True Anomaly Discovery)
+
+> Full Greenhouse API scan (15+ boards) + WebSearch discovery. Dedup against 29,420+ history entries. **2 new matches** (1 × 3.9, 1 × 3.5). True Anomaly (Centennial, CO) surfaced as new company not previously in portals.yml. Report: [scout-2026-09-06.md](../reports/scout-2026-09-06.md)
+
+#### Top Picks (3.5+)
+
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5166545007 | True Anomaly | Staff Platform Engineer, AI | Denver, CO (hybrid) | ★★★ 3.9/5 — $225K–$310K Denver. LLM/RAG/agents platform + enterprise AI infra. Federal background (VA.gov/HHS) = ITAR/clearance differentiator. Python/AWS/GCP. TS clearance eligibility required (not active). LOCAL Denver.
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5230702007 | True Anomaly | Staff Platform Engineer, Security | Denver, CO | ★★ 3.5/5 — $205K–$295K Colorado. Go/Python/Terraform/Vault/PKI. Multi-cloud security platform. Active clearance preferred. LOCAL Denver.

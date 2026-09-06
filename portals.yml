@@ -288,6 +288,12 @@ tracked_companies:
     notes: "Dream company. Defense tech. Costa Mesa/Denver/DC. Strong platform engineering."
     enabled: true
 
+  - name: True Anomaly
+    careers_url: https://job-boards.greenhouse.io/trueanomalyinc
+    api: https://boards-api.greenhouse.io/v1/boards/trueanomalyinc/jobs
+    notes: "Space defense. Centennial, CO (Denver metro). Staff Platform Engineer AI + Security roles. $205K-$325K. TS clearance eligibility required. Discovered 2026-09-06."
+    enabled: true
+
   # -- Voice AI & Conversational AI --
 
   - name: PolyAI
