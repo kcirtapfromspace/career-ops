@@ -8018,3 +8018,27 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5091489007 | True Anomaly | Staff Software Engineer, Full Stack | Denver, CO or Long Beach, CA | — Staff FSE; review stack fit before applying.
 - [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5091384007 | True Anomaly | Staff Software Engineer, Elixir | Denver, CO or Long Beach, CA | — Elixir stack; niche fit. Skip unless interested.
 - [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5091767007 | True Anomaly | Principal Software Engineer, Spacecraft Simulation | Denver, CO or Long Beach, CA | — Highly specialized; review domain fit.
+
+## 2026-09-06 — Quick Check #2 (Greenhouse APIs: 42 companies)
+
+> Second scheduled API-only scan. Dedup against 29,434 history entries. **11 new software roles** at True Anomaly (Denver). Skipped 7 New Grad roles + 5 hardware EM roles. Errors: Temporal (404), Black Forest Labs (404), Clickhouse (404), Aurora Innovation (404) — same as prior run.
+
+#### Infrastructure & DevOps (High Priority — Denver LOCAL)
+
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5099702007 | True Anomaly | Senior Manager, Infrastructure Engineering | Denver, CO or Long Beach, CA or SF Bay Area | ★★★ — Infra leadership role at space-defense scale. K8s/cloud/platform. Denver local. Strong match for Patrick's background.
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5224739007 | True Anomaly | Senior DevOps Engineer | Denver, CO or Long Beach, CA | ★★★ — SRE/DevOps at space-defense scale. Terraform/K8s/CI-CD. Denver local. Direct fit.
+
+#### Flight Software Engineering (Specialized — Denver)
+
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5089129007 | True Anomaly | Staff Flight Software Engineer | Denver, CO or Long Beach, CA | — Staff-level FSE. Spacecraft software (C++/Python). Requires domain interest in aerospace.
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5089134007 | True Anomaly | Principal Flight Software Engineer | Denver, CO or Long Beach, CA | — Principal FSE. Spacecraft real-time systems. Review domain fit.
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5082183007 | True Anomaly | Senior Flight Software Engineer | Denver, CO or Long Beach, CA | — Senior FSE. Aerospace embedded software. Review domain fit.
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5090448007 | True Anomaly | Flight Software Engineer III | Denver, CO or Long Beach, CA | — Level III FSE. Verify seniority mapping before applying.
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5090445007 | True Anomaly | Flight Software Engineer II | Denver, CO or Long Beach, CA | — Level II (mid); likely too junior for Patrick. Verify before applying.
+
+#### General Software Engineering (Denver)
+
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5092038007 | True Anomaly | Senior Software Engineer, Full Stack | Denver, CO or Long Beach, CA | — Senior FSE full stack. Elixir/Phoenix or React. Review tech stack fit.
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5091329007 | True Anomaly | Senior Software Engineer, Spacecraft Simulation | Denver, CO or Long Beach, CA | — Senior SE for simulation. Specialized domain. Review fit.
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/4992652007 | True Anomaly | Software Engineer II, Spacecraft Simulation | Denver, CO or Long Beach, CA | — Level II (mid); likely too junior. Verify before applying.
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5090419007 | True Anomaly | Senior Software Engineer, Elixir | Denver, CO or Long Beach, CA | — Elixir/Phoenix stack. Niche fit; skip unless Elixir interest.
