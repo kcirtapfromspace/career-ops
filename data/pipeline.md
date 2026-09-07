@@ -1,5 +1,21 @@
 # Pipeline — Pending Offers
 
+## 2026-09-07 — Scout Scan (16 companies: Greenhouse API + WebSearch)
+
+> Greenhouse API (True Anomaly, Anthropic, Anduril, Databricks, Fivetran, Scale AI, Samsara, Chainguard, Rocket Lab, Dagster) + WebSearch (Netflix, Confluent, MotherDuck, Aurora, Prefect). Dedup against 29,457+ history entries. **4 new matches** (1 × 4.3, 2 × 3.8, 1 × 3.7). Report: [scout-2026-09-07.md](../reports/scout-2026-09-07.md)
+
+#### Top Pick (4.0+)
+
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5208701007 | True Anomaly | Principal Mission Cloud Engineer | Denver, CO or Long Beach, CA ★★ 4.3/5 — $205K-$325K range. K8s cloud infra for space/defense mission systems in Denver. Patrick's Argo Workflows + VA.gov observability + federal mission-critical background = rare narrative fit. Verify TS clearance requirement.
+
+#### Strong Matches (3.5–3.9)
+
+- [ ] https://jobs.netflix.com/jobs/319429286 | Netflix | Software Engineer (L5), Consumer ML Model Serving Systems | Los Gatos/Remote | 3.8/5 — Dream company. ML serving infrastructure, L5 comp. Los Gatos acceptable. Verify remote option + infra vs. ML research ratio.
+- [ ] https://jobs.netflix.com/jobs/124290991 | Netflix | Senior Software Engineer, Playback Data Systems | Los Gatos/Remote | 3.8/5 — Dream company. Playback data pipeline = better data platform fit than ML serving. Top-of-market comp. Verify remote.
+- [ ] https://jobs.netflix.com/jobs/302480396 | Netflix | Software Engineer (L5), Customer Service Engineering | Los Gatos/Remote | 3.7/5 — Platform/backend for Netflix CS infra. L5 comp strong. Verify JD before applying.
+
+---
+
 ## 2026-09-04 — Full Portal Scan (30+ companies: Greenhouse API + WebSearch)
 
 > Greenhouse API (Anthropic, Databricks, Chainguard, Fivetran, Scale AI, Glean, Samsara, Vercel, Airtable, Arize AI, Figure AI) + WebSearch (Confluent, MotherDuck, Zapier, Ramp, Spotify, Figma, GitLab + cross-portal). Dedup against 29,316+ history entries. **5 new matches** (1 × 4.3, 1 × 3.7, 2 × 3.5, 1 × 2.8). Report: [scout-2026-09-04.md](../reports/scout-2026-09-04.md)
