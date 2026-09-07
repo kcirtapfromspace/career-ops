@@ -16,6 +16,62 @@
 
 ---
 
+## 2026-09-07 — Quick Check Scan (Greenhouse API: 42 companies)
+
+> Greenhouse API-only lightweight scan. Dedup against 1,392+ history entries. **44 new matches** across 6 companies. Report: [scout-quickcheck-2026-09-07.md](../reports/scout-quickcheck-2026-09-07.md)
+
+#### New Discoveries (needs full evaluation)
+
+**Anduril** (2)
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5195030007?gh_jid=5195030007 | Anduril | Senior Software Engineer | Seattle, Washington, United States
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5228337007?gh_jid=5228337007 | Anduril | Software Engineer, Distributed Simulation | Seattle, Washington, United States
+**Anthropic** (4)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4973067008 | Anthropic | Data Infrastructure Engineer, Pre-training | San Francisco, CA
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5405548008 | Anthropic | Engineering Manager, Hardware Platform Security | San Francisco, CA | Seattle, WA
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5416709008 | Anthropic | Staff+ Site Reliability Engineer, Safeguards ML Infra | Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5412734008 | Anthropic | Staff+ Software Engineer, Claude Science | San Francisco, CA
+**Planet Labs** (2)
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/8155646 | Planet Labs | Senior Software Engineer, GMS App Team | United States, Remote
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/8154780 | Planet Labs | Senior Software Engineer, Storage Infrastructure | United States, Remote
+- [ ] https://www.samsara.com/company/careers/roles/8024110?gh_jid=8024110 | Samsara | AI Engineer, Customer Success | Remote - US
+**True Anomaly** (17)
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5224053007 | True Anomaly | Engineering Manager, Autonomy | Denver, CO or Long Beach, CA 
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5091655007 | True Anomaly | Engineering Manager, Electrical Engineering | Denver, CO
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5142446007 | True Anomaly | Engineering Manager, Ground Software | Denver, CO
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5140156007 | True Anomaly | Engineering Manager, Software (Modeling and Simulation) | Denver, CO or Long Beach, CA
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5166540007 | True Anomaly | Platform Engineer, AI (Levels I, II, III) | Denver, CO or Long Beach, CA
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5220130007 | True Anomaly | Principal Data Engineer | Denver, CO or Long Beach, CA
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5224739007 | True Anomaly | Senior DevOps Engineer  | Denver, CO or Long Beach, CA
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5099702007 | True Anomaly | Senior Manager, Infrastructure Engineering    | Denver, CO or Long Beach, CA or SF Bay Area, CA
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5166543007 | True Anomaly | Senior Platform Engineer, AI | Denver, CO or Long Beach, CA
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5182446007 | True Anomaly | Senior Platform Engineer, Infrastructure | Denver, CO or Long Beach, CA
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5090419007 | True Anomaly | Senior Software Engineer, Elixir  | Denver, CO or Long Beach, CA 
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5092038007 | True Anomaly | Senior Software Engineer, Full Stack | Denver, CO or Long Beach, CA 
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5166545007 | True Anomaly | Staff Platform Engineer, AI | Denver, CO or Long Beach, CA
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5182480007 | True Anomaly | Staff Platform Engineer, Infrastructure | Denver, CO or Long Beach, CA 
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5230702007 | True Anomaly | Staff Platform Engineer, Security | Denver, CO or Long Beach, CA or SF Bay Area
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5091384007 | True Anomaly | Staff Software Engineer, Elixir  | Denver, CO or Long Beach, CA 
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5091489007 | True Anomaly | Staff Software Engineer, Full Stack | Denver, CO or Long Beach, CA 
+**Zipline** (18)
+- [ ] https://www.zipline.com/open-roles/7815718003?gh_jid=7815718003 | Zipline | Director of Software Engineering – Marketplace | South San Francisco, California, USA
+- [ ] https://www.zipline.com/open-roles/7764239003?gh_jid=7764239003 | Zipline | Forward Deployed AI Engineer, Operations | South San Francisco, California, USA
+- [ ] https://www.zipline.com/open-roles/7810390003?gh_jid=7810390003 | Zipline | Senior Data Engineer - Data Platform | South San Francisco, California, USA
+- [ ] https://www.zipline.com/open-roles/7812135003?gh_jid=7812135003 | Zipline | Senior Software Engineer, Autonomy Simulation & Validation | South San Francisco, California, USA
+- [ ] https://www.zipline.com/open-roles/7800774003?gh_jid=7800774003 | Zipline | Senior Software Engineer, Enterprise Systems | South San Francisco, California, USA
+- [ ] https://www.zipline.com/open-roles/7816737003?gh_jid=7816737003 | Zipline | Senior Software Engineer - Maps Platform | South San Francisco, California, USA
+- [ ] https://www.zipline.com/open-roles/7812206003?gh_jid=7812206003 | Zipline | Senior Software Engineer - Maps Routing | South San Francisco, California, USA
+- [ ] https://www.zipline.com/open-roles/7802983003?gh_jid=7802983003 | Zipline | Simulation Software Engineer | South San Francisco, California, USA
+- [ ] https://www.zipline.com/open-roles/7978812003?gh_jid=7978812003 | Zipline | Software Engineer, Airspace Platform | South San Francisco, California, USA
+- [ ] https://www.zipline.com/open-roles/7859841003?gh_jid=7859841003 | Zipline | Software Engineering Manager – Developer Productivity | South San Francisco, California, USA
+- [ ] https://www.zipline.com/open-roles/7809118003?gh_jid=7809118003 | Zipline | Software Engineer, Test Infrastructure | South San Francisco, California, USA
+- [ ] https://www.zipline.com/open-roles/7805110003?gh_jid=7805110003 | Zipline | Sr. Software Engineer, Financial Platform  | South San Francisco, California, USA
+- [ ] https://www.zipline.com/open-roles/7805100003?gh_jid=7805100003 | Zipline | Sr. Software Engineering Manager, Financial Platform | South San Francisco, California, USA
+- [ ] https://www.zipline.com/open-roles/7812167003?gh_jid=7812167003 | Zipline | Staff Platform Software Engineer, AI Enablement | South San Francisco, California, USA
+- [ ] https://www.zipline.com/open-roles/7983305003?gh_jid=7983305003 | Zipline | Staff Software Engineer, Healthcare — Customer Experience | Remote in USA; Remote, EMEA
+- [ ] https://www.zipline.com/open-roles/7983316003?gh_jid=7983316003 | Zipline | Staff Software Engineer, Healthcare — Systems & Integrations | Remote in USA; Remote, EMEA
+- [ ] https://www.zipline.com/open-roles/7808704003?gh_jid=7808704003 | Zipline | Staff Software Engineer – Marketplace | South San Francisco, California, USA
+- [ ] https://www.zipline.com/open-roles/7822379003?gh_jid=7822379003 | Zipline | Staff Software Engineer – Marketplace Growth | South San Francisco, California, USA
+
 ## 2026-09-04 — Full Portal Scan (30+ companies: Greenhouse API + WebSearch)
 
 > Greenhouse API (Anthropic, Databricks, Chainguard, Fivetran, Scale AI, Glean, Samsara, Vercel, Airtable, Arize AI, Figure AI) + WebSearch (Confluent, MotherDuck, Zapier, Ramp, Spotify, Figma, GitLab + cross-portal). Dedup against 29,316+ history entries. **5 new matches** (1 × 4.3, 1 × 3.7, 2 × 3.5, 1 × 2.8). Report: [scout-2026-09-04.md](../reports/scout-2026-09-04.md)
