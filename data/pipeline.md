@@ -1,5 +1,17 @@
 # Pipeline — Pending Offers
 
+## 2026-09-08 — Scout Scan (16 companies: Greenhouse API + Ashby/WebSearch)
+
+> Greenhouse API (Anthropic, Anduril, True Anomaly, Databricks, Fivetran, Chainguard, Scale AI, Planet Labs, Zipline) + Ashby/WebSearch (Ramp, Confluent, MotherDuck, Prefect, Shield AI, broad Staff Data Engineer sweep). Dedup against 29,538 history entries. **2 new matches** (both sub-4.0). Report: [scout-2026-09-08.md](../reports/scout-2026-09-08.md)
+> Note: Aurora Innovation and ClickHouse Greenhouse API slugs returned 404 — may need portals.yml update.
+
+#### Matches (sub-4.0, verify before deciding)
+
+- [ ] https://www.zipline.com/open-roles/7981819003 | Zipline | Manager, Data Operations & Annotations (Autonomy Data) | Detroit, MI / Remote USA | 3.5/5 — Remote-eligible data ops manager role. Verify JD for build vs. pure ops and comp ceiling.
+- [ ] https://jobs.ashbyhq.com/ramp/17ad9012 | Ramp | Senior Software Engineer, Forward Deployed | New York, NY | 3.4/5 — NYC fintech FDE, top-of-market comp possible. Low priority unless remote confirmed.
+
+---
+
 ## 2026-09-07 — Scout Scan (16 companies: Greenhouse API + WebSearch)
 
 > Greenhouse API (True Anomaly, Anthropic, Anduril, Databricks, Fivetran, Scale AI, Samsara, Chainguard, Rocket Lab, Dagster) + WebSearch (Netflix, Confluent, MotherDuck, Aurora, Prefect). Dedup against 29,457+ history entries. **4 new matches** (1 × 4.3, 2 × 3.8, 1 × 3.7). Report: [scout-2026-09-07.md](../reports/scout-2026-09-07.md)
