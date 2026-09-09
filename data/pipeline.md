@@ -1,5 +1,17 @@
 # Pipeline — Pending Offers
 
+## 2026-09-09 — Scout Scan (20 companies: Greenhouse API + WebSearch)
+
+> Greenhouse API (Anthropic, Anduril, True Anomaly, Fivetran, Chainguard, Scale AI, Planet Labs, Glean, Vercel, Airtable, Samsara, Arize AI, Figure AI, Rocket Lab, Databricks) + WebSearch (AllTrails, YC startups, Built In Colorado, broad Staff Data/Platform sweep). Dedup against 29,542 history entries. **2 new matches** (0 × 4.0+, 1 × 3.6, 1 × 3.0). Report: [scout-2026-09-09.md](../reports/scout-2026-09-09.md)
+> Note: Aurora Innovation, Temporal, ClickHouse Greenhouse API slugs still 404. Dagster has 0 jobs posted.
+
+#### Matches (sub-4.0, verify before deciding)
+
+- [ ] https://jobs.lever.co/alltrails/8c957e15-b4a8-4b7f-af20-a5982835546b | AllTrails | Data Science & Engineering Manager | US Remote (Denver preferred) | 3.6/5 — EM for DS/ML/DE teams at well-funded hiking app. Denver location = strong fit. GCP/Airflow stack. Verify comp clears $185K floor.
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5418610008 | Anthropic | Data Engineer, GTM | SF/NYC hybrid | 3.0/5 — GTM analytics (Salesforce/CPQ focus), hybrid location, mid-level framing. Two better Anthropic EM roles already in pipeline. SKIP.
+
+---
+
 ## 2026-09-08 — Scout Scan (16 companies: Greenhouse API + Ashby/WebSearch)
 
 > Greenhouse API (Anthropic, Anduril, True Anomaly, Databricks, Fivetran, Chainguard, Scale AI, Planet Labs, Zipline) + Ashby/WebSearch (Ramp, Confluent, MotherDuck, Prefect, Shield AI, broad Staff Data Engineer sweep). Dedup against 29,538 history entries. **2 new matches** (both sub-4.0). Report: [scout-2026-09-08.md](../reports/scout-2026-09-08.md)
