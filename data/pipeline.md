@@ -8157,3 +8157,28 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5091329007 | True Anomaly | Senior Software Engineer, Spacecraft Simulation | Denver, CO or Long Beach, CA | — Senior SE for simulation. Specialized domain. Review fit.
 - [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/4992652007 | True Anomaly | Software Engineer II, Spacecraft Simulation | Denver, CO or Long Beach, CA | — Level II (mid); likely too junior. Verify before applying.
 - [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5090419007 | True Anomaly | Senior Software Engineer, Elixir | Denver, CO or Long Beach, CA | — Elixir/Phoenix stack. Niche fit; skip unless Elixir interest.
+
+## 2026-09-09 — Quick Check #3 (Greenhouse APIs: 42 companies)
+
+> Scheduled API-only scan. 15 new engineering roles across Anthropic, Speechmatics, Wayve, Isomorphic Labs, Scale AI, Databricks, Anduril. Errors: Temporal (404), Black Forest Labs (404), Aurora Innovation (404), Clickhouse (404) — persistent API issues, same as prior runs.
+
+#### High Priority (Staff/Senior + Direct Fit)
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5420115008 | Anthropic | Staff Software Engineer: Compute | San Francisco, CA | New York City, NY | Seattle, WA | — ★★★ Staff-level compute infra at Anthropic. SF/Seattle eligible. Direct fit for Patrick's platform engineering background.
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5412272008 | Anthropic | Staff Software Engineer, Observability & Profiling | London, UK | — ★★★ Staff observability/profiling at Anthropic London. Dream company. Evaluate remote/relocation options.
+- [ ] https://job-boards.eu.greenhouse.io/speechmatics/jobs/4950383101 | Speechmatics | ML Data & Platform Engineer | Cambridge, UK | — ★★★ ML data platform engineering at leading speech AI company. Platform + ML infra = direct fit.
+- [ ] https://job-boards.eu.greenhouse.io/speechmatics/jobs/4950400101 | Speechmatics | ML Data & Platform Engineer | London, UK | — ★★★ Same role as Cambridge posting, London location. Evaluate which office preferred.
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8785464002 | Wayve | Platform Engineer, AI Enablement | London | — ★★★ Platform engineering with AI enablement focus at Wayve. Strong fit — hardware+AI moat.
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8755402002 | Wayve | Senior Software Engineer, Data & Orchestration | London | — ★★★ Data orchestration at Wayve. Direct stack match (Airflow/Argo experience).
+- [ ] https://job-boards.greenhouse.io/isomorphiclabs/jobs/6184829004 | Isomorphic Labs | Research Engineer (LLM Performance), London | London | — ★★★ LLM performance engineering at DeepMind spinout. LLM + infra overlap. Top-tier AI research company.
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4729979005 | Scale AI | Infrastructure Software Engineer, Apps Platform | London, UK | — ★★★ Apps platform infra at Scale AI London. Strong fit — infra + AI scale.
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8786930002 | Databricks | Engineering Manager, App Traffic | Mountain View, CA | — ★★★ EM for App Traffic at Databricks. Traffic/infra management at $43B data platform leader. Bay Area.
+
+#### Secondary (Review Before Applying)
+
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8745282002 | Wayve | DevOps Engineer | London | — ★★ DevOps at UK autonomous vehicle AI company. Platform/infra focus.
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8731884002 | Wayve | Senior Software Engineer - OS, Robot Software | Sunnyvale, CA | — ★★ Robot OS software at Wayve Sunnyvale (Bay Area). Hardware moat + US location.
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4732365005 | Scale AI | Engineering Manager, Frontier AI Infrastructure - Public Sector | Washington, DC | — ★★ EM role at Scale AI for public sector infra. DC location but defense/gov adjacency relevant.
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4731630005 | Scale AI | Software Engineer, Platform | London, UK | — ★★ Platform SE at Scale AI London. Evaluate scope vs senior/staff expectations.
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8692516002 | Databricks | Staff Software Engineer – Genie One Mobile & Desktop | Mountain View, CA | San Francisco, CA | — ★★ Staff SE on Genie (AI assistant) desktop/mobile at Databricks. Staff-level, Bay Area, evaluate product vs platform fit.
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5232738007?gh_jid=5232738007 | Anduril | Site Reliability Engineer | Waltham, MA | — ★★ SRE at Anduril (dream company). Waltham MA; check for remote flexibility given defense clearance context.
