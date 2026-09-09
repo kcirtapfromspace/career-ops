@@ -1,5 +1,24 @@
 # Pipeline — Pending Offers
 
+## 2026-09-09 — Quick-Check (42 companies: Greenhouse API only)
+
+> Greenhouse API only scan (42 companies). Dedup against 29,545 history entries. **6 new matches**. Report: [scout-quickcheck-2026-09-09.md](../reports/scout-quickcheck-2026-09-09.md)
+> Errors (404 slugs): Aurora Innovation, Temporal, Black Forest Labs, Clickhouse — portals.yml may need update.
+
+#### High Priority
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5419869008 | Anthropic | Staff+ Software Engineer, ML Inference Path | San Francisco, CA | — Staff+ MLE at Anthropic. Inference path = core product. Top-tier signal.
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5419868008 | Anthropic | Staff+ Software Engineer, ML Sampling Path | San Francisco, CA | — Staff+ MLE at Anthropic. Sampling path = model behavior core. Top-tier signal.
+- [ ] https://www.zipline.com/open-roles/7989516003 | Zipline | ML Infrastructure Engineer | South San Francisco, CA | — ML infra at drone delivery company. Hardware moat + infra overlap.
+
+#### Standard Queue
+
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5138856007 | True Anomaly | Machine Learning Engineer (II-III), Space Agentic AI | Denver, CO or Long Beach, CA | — MLE at Denver space-defense company. Level II-III (verify seniority fit). Agentic AI focus.
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5228067007 | True Anomaly | Machine Learning Engineer (II-III), Space Edge Deployment | Denver, CO or Long Beach, CA | — MLE edge deployment at True Anomaly. Denver. Verify level mapping.
+- [ ] https://www.samsara.com/company/careers/roles/8186992 | Samsara | Senior Software Engineer | Remote - SF Bay Area | — Senior SWE at IoT/AI platform. Generic title — evaluate JD for infra/data fit.
+
+---
+
 ## 2026-09-09 — Scout Scan (20 companies: Greenhouse API + WebSearch)
 
 > Greenhouse API (Anthropic, Anduril, True Anomaly, Fivetran, Chainguard, Scale AI, Planet Labs, Glean, Vercel, Airtable, Samsara, Arize AI, Figure AI, Rocket Lab, Databricks) + WebSearch (AllTrails, YC startups, Built In Colorado, broad Staff Data/Platform sweep). Dedup against 29,542 history entries. **2 new matches** (0 × 4.0+, 1 × 3.6, 1 × 3.0). Report: [scout-2026-09-09.md](../reports/scout-2026-09-09.md)
