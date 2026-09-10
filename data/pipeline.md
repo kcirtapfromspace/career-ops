@@ -8191,3 +8191,15 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 
 - [ ] https://ats.rippling.com/parsyl/jobs/44a3ef35-a875-4a22-8a4a-30a1b0ad151c | Parsyl | Staff Data Platform Engineer | Denver, CO | 3.7/5 — Denver local (no relocation), Staff-level data platform. Insurance/supply chain domain. $180-205K slightly below target floor; strong role archetype match.
 - [ ] https://www.crowdstrike.com/en-us/jobs/ | CrowdStrike | Manager, Engineering - Infrastructure Foundations | Remote (US) | 3.6/5 — Remote infra EM at major cybersecurity co. IaC/SRE/K8s stack. Not primary sector. Workday ATS; search directly on careers page.
+
+## 2026-09-10 — Quick Check (Greenhouse API)
+
+> Lightweight Greenhouse API scan (40+ companies). 2 new matches from Rocket Lab and Wayve passing title + location filters.
+
+#### High Priority (Staff/Senior + Direct Fit)
+
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8795692002 | Wayve | Staff / Senior ML Engineer, Reinforcement Learning | Sunnyvale, CA | — ★★★ RL-focused MLE at Wayve's US office. Autonomous driving AI, Staff/Senior level. Bay Area (Sunnyvale). Strong domain fit.
+
+#### Secondary (Review Before Applying)
+
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7983815003 | Rocket Lab | Flight Software Engineer II | Littleton, CO | — ★★ Flight software at Rocket Lab. Littleton, CO = Denver metro (local for Patrick). Aerospace domain niche but SE skills transferable.
