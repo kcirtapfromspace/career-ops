@@ -8203,3 +8203,60 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 #### Secondary (Review Before Applying)
 
 - [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7983815003 | Rocket Lab | Flight Software Engineer II | Littleton, CO | — ★★ Flight software at Rocket Lab. Littleton, CO = Denver metro (local for Patrick). Aerospace domain niche but SE skills transferable.
+- https://boards.greenhouse.io/andurilindustries/jobs/5232200007?gh_jid=5232200007 | Anduril — Hardware Test Engineering Manager | Irvine, California, United States
+- https://boards.greenhouse.io/andurilindustries/jobs/5232202007?gh_jid=5232202007 | Anduril — Manufacturing Test Engineering Manager | Irvine, California, United States
+- https://boards.greenhouse.io/andurilindustries/jobs/5232201007?gh_jid=5232201007 | Anduril — Production Test Engineering Manager | Irvine, California, United States
+- https://boards.greenhouse.io/andurilindustries/jobs/5229357007?gh_jid=5229357007 | Anduril — Reliability Engineering Manager | Costa Mesa, California, United States
+- https://boards.greenhouse.io/andurilindustries/jobs/5232514007?gh_jid=5232514007 | Anduril — Senior Manufacturing Software Engineer | Lexington, Massachusetts, United States
+- https://boards.greenhouse.io/andurilindustries/jobs/5232805007?gh_jid=5232805007 | Anduril — Senior Mission Software Engineer | Costa Mesa, California, United States
+- https://boards.greenhouse.io/andurilindustries/jobs/5232513007?gh_jid=5232513007 | Anduril — Senior Production Software Engineer | Lexington, Massachusetts, United States
+- https://boards.greenhouse.io/andurilindustries/jobs/5229957007?gh_jid=5229957007 | Anduril — Senior Robotics Software Engineer  | Costa Mesa, California, United States
+- https://boards.greenhouse.io/andurilindustries/jobs/5229930007?gh_jid=5229930007 | Anduril — Senior Robotics Software Engineer, Omen | Costa Mesa, California, United States
+- https://boards.greenhouse.io/andurilindustries/jobs/5232402007?gh_jid=5232402007 | Anduril — Senior Software Engineer, Manufacturing Test | Atlanta, Georgia, United States
+- https://boards.greenhouse.io/andurilindustries/jobs/5152227007?gh_jid=5152227007 | Anduril — Senior Software Engineer (Python), Intelligence Systems | Reston, Virginia, United States
+- https://boards.greenhouse.io/andurilindustries/jobs/5232810007?gh_jid=5232810007 | Anduril — Senior Software Platform Engineer, Intelligence Systems | Reston, Virginia, United States
+- https://boards.greenhouse.io/andurilindustries/jobs/5232395007?gh_jid=5232395007 | Anduril — Software Engineer, Manufacturing Test | Atlanta, Georgia, United States
+- https://boards.greenhouse.io/andurilindustries/jobs/5234789007?gh_jid=5234789007 | Anduril — Software Engineer, Strategic Defense | Washington, District of Columbia, United States
+- https://boards.greenhouse.io/andurilindustries/jobs/5234791007?gh_jid=5234791007 | Anduril — Software Engineer, Strategic Defense | Seattle, Washington, United States
+- https://boards.greenhouse.io/andurilindustries/jobs/5234788007?gh_jid=5234788007 | Anduril — Software Engineer, Strategic Defense | Costa Mesa, California, United States
+- https://job-boards.greenhouse.io/trueanomalyinc/jobs/5140261007 | True Anomaly — Electrical Engineering Manager, eGSE | Long Beach, CA
+- https://job-boards.greenhouse.io/celonis/jobs/7989093003?gh_jid=7989093003 | Celonis — Senior Software Engineer | Munich, Germany
+- https://job-boards.greenhouse.io/celonis/jobs/7791283003?gh_jid=7791283003 | Celonis — Software Engineer | Bangalore, India
+- https://job-boards.greenhouse.io/getyourguide/jobs/8088221 | GetYourGuide — Senior Software Engineer, GraphQL - API Platform | Berlin
+- https://careers.hellofresh.com/global/en/job/8170849?gh_jid=8170849 | HelloFresh — Data Engineer, Operations Technology (all genders) | Warszawa, Masovian Voivodeship, Poland
+- https://careers.hellofresh.com/global/en/job/8159697?gh_jid=8159697 | HelloFresh — Senior Data Engineer [GROWTH] | Toronto, Ontario, Canada
+- https://careers.hellofresh.com/global/en/job/8176698?gh_jid=8176698 | HelloFresh — Senior GenAI Engineer, Inteligent Platforms | Warszawa, Masovian Voivodeship, Poland
+- https://careers.hellofresh.com/global/en/job/8105156?gh_jid=8105156 | HelloFresh — Staff Backend Engineer Consumer  | Warszawa, Masovian Voivodeship, Poland
+- https://n26.com/en-eu/careers/positions/8170936?gh_jid=8170936 | N26 — Backend Engineer | Barcelona
+- https://n26.com/en-eu/careers/positions/8169118?gh_jid=8169118 | N26 — Backend Engineer - Cards & Digital Wallets | Berlin
+- https://n26.com/en-eu/careers/positions/8172906?gh_jid=8172906 | N26 — Backend Engineer - Memberships | Barcelona 
+- https://n26.com/en-eu/careers/positions/8171135?gh_jid=8171135 | N26 — Senior Backend Engineer - Engagement | Berlin, Barcelona
+- https://sumup.com/careers/positions/8785333002?gh_jid=8785333002 | SumUp — Backend Engineer (Golang) - Bank Balance | Berlin, Germany
+- https://sumup.com/careers/positions/8785611002?gh_jid=8785611002 | SumUp — Backend Engineer (Golang) - Bank Balance | Vilnius, Lithuania
+- https://sumup.com/careers/positions/8785999002?gh_jid=8785999002 | SumUp — Backend Engineer (Golang) - Transfers EU | Vilnius, Lithuania
+- https://sumup.com/careers/positions/8789067002?gh_jid=8789067002 | SumUp — Backend Engineer (Golang) - Transfers EU | Berlin, Germany
+- https://sumup.com/careers/positions/8773682002?gh_jid=8773682002 | SumUp — Senior Backend Engineer | London, England, United Kingdom
+- https://sumup.com/careers/positions/8785374002?gh_jid=8785374002 | SumUp — (Senior) Backend Engineer (Golang) - Bank | Vilnius, Lithuania
+- https://sumup.com/careers/positions/8659018002?gh_jid=8659018002 | SumUp — Senior Backend Engineer - Identity Lifecycle | Berlin, Germany
+- https://sumup.com/careers/positions/8769169002?gh_jid=8769169002 | SumUp — Senior Software Engineer (Lending Team) | São Paulo, São Paulo, Brazil
+- https://www.scandit.com/careers/job-description/?gh_jid=8179821 | Scandit — Senior Backend Engineer - Shelfview | Tampere
+- https://wayve.firststage.co/jobs?gh_jid=8780872002 | Wayve — Engineering Manager, SRE – AV Fleet, Japan | Japan
+- https://wayve.firststage.co/jobs?gh_jid=8781421002 | Wayve — Software Engineer, Simulation  | London
+- https://www.fivetran.com/careers/job?gh_jid=7983207003 | Fivetran — Senior Software Engineer - SaaS Connectors | Novi Sad, South Bačka, Serbia, EMEA
+- https://www.samsara.com/company/careers/roles/8055245?gh_jid=8055245 | Samsara — Senior Machine Learning Engineer | Remote - US
+- https://job-boards.greenhouse.io/scaleai/jobs/4732394005 | Scale AI — Senior Full-Stack Software Engineer, (Forward deployed), GPS | Riyadh, Saudi Arabia
+- https://job-boards.greenhouse.io/scaleai/jobs/4732798005 | Scale AI — Senior Machine Learning Engineer, Public Sector | Denver, CO; Honolulu, HI; Washington, DC
+- https://job-boards.greenhouse.io/scaleai/jobs/4732430005 | Scale AI — Staff Full-Stack Software Engineer, (Forward Deployed), GPS | Riyadh, Saudi Arabia
+- https://job-boards.greenhouse.io/scaleai/jobs/4654382005 | Scale AI — Staff Machine Learning Engineer, Public Sector | Denver, CO; Honolulu, HI; Washington, DC
+- https://databricks.com/company/careers/open-positions/job?gh_jid=8785065002 | Databricks — Field Engineering Manager, Specialist Solutions Architects | Seoul, South Korea
+- https://databricks.com/company/careers/open-positions/job?gh_jid=7651346002 | Databricks — Staff Software Engineer  | Bengaluru, India
+- https://databricks.com/company/careers/open-positions/job?gh_jid=7841778002 | Databricks — Staff Software Engineer - Search Platform | Bengaluru, India
+- https://job-boards.greenhouse.io/rocketlab/jobs/7991348003 | Rocket Lab — Senior Flight Software Engineer I | Littleton, CO
+- https://job-boards.greenhouse.io/rocketlab/jobs/7991303003 | Rocket Lab — Senior Ground Software Engineer I  | Littleton, CO
+- https://job-boards.greenhouse.io/rocketlab/jobs/7987630003 | Rocket Lab — Senior Software Engineer II | Tucson, AZ
+- https://job-boards.greenhouse.io/rocketlab/jobs/7987628003 | Rocket Lab — Senior Software Engineer II  | Chantilly, VA
+- https://job-boards.greenhouse.io/rocketlab/jobs/7929946003 | Rocket Lab — Software Engineer II - Robotics | Pasadena, CA
+- https://www.zipline.com/open-roles/7907661003?gh_jid=7907661003 | Zipline — Associate Maintenance Operations Engineering Lead, Test Sites | Esparto, California, USA
+- https://www.zipline.com/open-roles/7652331003?gh_jid=7652331003 | Zipline — Full Stack Software Engineer - Mapping | Kigali, Rwanda
+- https://www.zipline.com/open-roles/6322727003?gh_jid=6322727003 | Zipline — Senior Full Stack Software Engineer | Kigali, Rwanda
+- https://www.zipline.com/open-roles/7989538003?gh_jid=7989538003 | Zipline — Test Maintenance Engineering Lead | Esparto, California, USA
