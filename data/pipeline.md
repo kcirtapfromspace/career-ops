@@ -8182,3 +8182,12 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - [ ] https://job-boards.greenhouse.io/scaleai/jobs/4731630005 | Scale AI | Software Engineer, Platform | London, UK | — ★★ Platform SE at Scale AI London. Evaluate scope vs senior/staff expectations.
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8692516002 | Databricks | Staff Software Engineer – Genie One Mobile & Desktop | Mountain View, CA | San Francisco, CA | — ★★ Staff SE on Genie (AI assistant) desktop/mobile at Databricks. Staff-level, Bay Area, evaluate product vs platform fit.
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5232738007?gh_jid=5232738007 | Anduril | Site Reliability Engineer | Waltham, MA | — ★★ SRE at Anduril (dream company). Waltham MA; check for remote flexibility given defense clearance context.
+
+## 2026-09-10 — Scout Scan
+
+> Full Greenhouse API scan (60+ companies) + Ashby/Lever/WebSearch. 29,566 scan history entries at start. All tracked APIs returned already-seen results — system current after near-daily scans since May 2026. 2 new below-threshold leads from extended search. 0 new 4.0+ matches.
+
+#### Secondary (Review Before Applying)
+
+- [ ] https://ats.rippling.com/parsyl/jobs/44a3ef35-a875-4a22-8a4a-30a1b0ad151c | Parsyl | Staff Data Platform Engineer | Denver, CO | 3.7/5 — Denver local (no relocation), Staff-level data platform. Insurance/supply chain domain. $180-205K slightly below target floor; strong role archetype match.
+- [ ] https://www.crowdstrike.com/en-us/jobs/ | CrowdStrike | Manager, Engineering - Infrastructure Foundations | Remote (US) | 3.6/5 — Remote infra EM at major cybersecurity co. IaC/SRE/K8s stack. Not primary sector. Workday ATS; search directly on careers page.
