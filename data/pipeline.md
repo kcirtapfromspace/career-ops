@@ -8286,3 +8286,8 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - https://www.zipline.com/open-roles/7652331003?gh_jid=7652331003 | Zipline — Full Stack Software Engineer - Mapping | Kigali, Rwanda
 - https://www.zipline.com/open-roles/6322727003?gh_jid=6322727003 | Zipline — Senior Full Stack Software Engineer | Kigali, Rwanda
 - https://www.zipline.com/open-roles/7989538003?gh_jid=7989538003 | Zipline — Test Maintenance Engineering Lead | Esparto, California, USA
+- https://boards.greenhouse.io/andurilindustries/jobs/5189514007?gh_jid=5189514007 | Anduril — Production Software Engineer | Fort Collins, Colorado, United States
+- https://job-boards.greenhouse.io/chainguard/jobs/4712233006 | Chainguard — Senior Software Engineer | United States - Remote
+- https://job-boards.greenhouse.io/chainguard/jobs/4712228006 | Chainguard — Staff Software Engineer, Sustaining | United States - Remote
+- https://www.fivetran.com/careers/job?gh_jid=7990752003 | Fivetran — Senior Staff Site Reliability Engineer | Oakland, California, United States
+- https://www.zipline.com/open-roles/7993020003?gh_jid=7993020003 | Zipline — Senior Software Engineer, ASW Launch Ops | Remote in USA
