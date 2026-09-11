@@ -1,5 +1,17 @@
 # Pipeline — Pending Offers
 
+## 2026-09-11 — Quick-Check #2 (42 companies: Greenhouse API only)
+
+> Greenhouse API only scan (42 companies). Dedup against 29,637 history entries. **2 new matches**. Report: [scout-quickcheck-2026-09-11.md](../reports/scout-quickcheck-2026-09-11.md)
+> Errors (API timeouts/404): Anduril (timeout), Temporal (404), Black Forest Labs (404), Aurora Innovation (404), Clickhouse (404).
+
+#### Standard Queue
+
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8798198002 | Databricks | Staff Software Engineer, Lakeflow Pipelines DR | SF/Mountain View | — Staff SWE on Lakeflow streaming pipelines (disaster recovery / data reliability). Core infra at top-tier data company. Direct stack fit.
+- [ ] https://www.samsara.com/company/careers/roles/7892026?gh_jid=7892026 | Samsara | Senior Software Engineer - Commercial Navigation | Remote - US | — Senior SWE for commercial navigation at IoT/AI fleet platform. Remote US. Verify if infra/platform component in JD.
+
+---
+
 ## 2026-09-11 — Scout Scan (18 companies: Greenhouse API + WebSearch)
 
 > Greenhouse API (Anthropic, Anduril, True Anomaly, Databricks, Fivetran, Scale AI, Chainguard, Zipline, Dagster, Samsara, Rocket Lab, Figure AI) + WebSearch (Confluent, Ashby broad, ClickUp, Blackpoint Cyber). Dedup against 29,629 history entries. **2 new matches** (1 × 4.2, 1 × 3.6). Report: [scout-2026-09-11.md](../reports/scout-2026-09-11.md)
