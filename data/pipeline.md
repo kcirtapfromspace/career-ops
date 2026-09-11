@@ -1,5 +1,19 @@
 # Pipeline — Pending Offers
 
+## 2026-09-11 — Scout Scan (18 companies: Greenhouse API + WebSearch)
+
+> Greenhouse API (Anthropic, Anduril, True Anomaly, Databricks, Fivetran, Scale AI, Chainguard, Zipline, Dagster, Samsara, Rocket Lab, Figure AI) + WebSearch (Confluent, Ashby broad, ClickUp, Blackpoint Cyber). Dedup against 29,629 history entries. **2 new matches** (1 × 4.2, 1 × 3.6). Report: [scout-2026-09-11.md](../reports/scout-2026-09-11.md)
+
+#### Top Pick (4.0+)
+
+- [ ] https://jobs.ashbyhq.com/clickup/e8c4b937-621a-47c1-b71c-f36073a62ec2 | ClickUp | Staff Data Engineer | Remote | 4.2/5 — Staff DE archetype, remote, exact stack match (dbt/Snowflake/AWS serverless), own the data platform architecture. Verify comp floor.
+
+#### Standard Queue
+
+- [ ] https://jobs.ashbyhq.com/Blackpoint%20Cyber/9dadec76-3ee5-4452-afa3-f97689afb488 | Blackpoint Cyber | Staff Data Engineer | Remote | 3.6/5 — Right archetype, multi-cloud (Azure/AWS/GCP), Medallion arch. Comp ceiling $187K (barely clears $185K floor). Verify if negotiable.
+
+---
+
 ## 2026-09-09 — Quick-Check (42 companies: Greenhouse API only)
 
 > Greenhouse API only scan (42 companies). Dedup against 29,545 history entries. **6 new matches**. Report: [scout-quickcheck-2026-09-09.md](../reports/scout-quickcheck-2026-09-09.md)
