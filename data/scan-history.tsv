@@ -29657,3 +29657,36 @@ https://boards-api.greenhouse.io/v1/boards/samsara/jobs	2026-09-12	scout-2026-09
 https://boards-api.greenhouse.io/v1/boards/anthropic/jobs	2026-09-12	scout-2026-09-12	(API scan)	Anthropic	all_seen
 https://boards-api.greenhouse.io/v1/boards/trueanomalyinc/jobs	2026-09-12	scout-2026-09-12	(API scan)	True Anomaly	all_seen
 https://boards-api.greenhouse.io/v1/boards/fivetran/jobs	2026-09-12	scout-2026-09-12	(API scan)	Fivetran	all_seen
+https://boards-api.greenhouse.io/v1/boards/databricks/jobs	2026-09-12	scout-quickcheck-2026-09-12	(API scan)	Databricks	all_seen
+https://boards-api.greenhouse.io/v1/boards/scaleai/jobs	2026-09-12	scout-quickcheck-2026-09-12	(API scan)	Scale AI	all_seen
+https://boards-api.greenhouse.io/v1/boards/chainguard/jobs	2026-09-12	scout-quickcheck-2026-09-12	(API scan)	Chainguard	all_seen
+https://boards-api.greenhouse.io/v1/boards/vercel/jobs	2026-09-12	scout-quickcheck-2026-09-12	(API scan)	Vercel	all_seen
+https://boards-api.greenhouse.io/v1/boards/planetlabs/jobs	2026-09-12	scout-quickcheck-2026-09-12	(API scan)	Planet Labs	all_seen
+https://boards-api.greenhouse.io/v1/boards/arizeai/jobs	2026-09-12	scout-quickcheck-2026-09-12	(API scan)	Arize AI	all_seen
+https://boards-api.greenhouse.io/v1/boards/amplemarket/jobs	2026-09-12	scout-quickcheck-2026-09-12	(API scan)	Amplemarket	all_seen
+https://boards-api.greenhouse.io/v1/boards/humeai/jobs	2026-09-12	scout-quickcheck-2026-09-12	(API scan)	Hume AI	all_seen
+https://boards-api.greenhouse.io/v1/boards/wayve/jobs	2026-09-12	scout-quickcheck-2026-09-12	(API scan)	Wayve	all_seen
+https://boards-api.greenhouse.io/v1/boards/stabilityai/jobs	2026-09-12	scout-quickcheck-2026-09-12	(API scan)	Stability AI	all_seen
+https://boards-api.greenhouse.io/v1/boards/helsing/jobs	2026-09-12	scout-quickcheck-2026-09-12	(API scan)	Helsing	no_match
+https://boards-api.greenhouse.io/v1/boards/physicsxai/jobs	2026-09-12	scout-quickcheck-2026-09-12	(API scan)	PhysicsX	all_seen
+https://boards-api.greenhouse.io/v1/boards/figureai/jobs	2026-09-12	scout-quickcheck-2026-09-12	(API scan)	Figure AI	no_match
+https://boards-api.greenhouse.io/v1/boards/nuro/jobs	2026-09-12	scout-quickcheck-2026-09-12	(API scan)	Nuro	no_match
+https://boards-api.greenhouse.io/v1/boards/vastdata/jobs	2026-09-12	scout-quickcheck-2026-09-12	(API scan)	Vast	no_match
+https://boards-api.greenhouse.io/v1/boards/contentful/jobs	2026-09-12	scout-quickcheck-2026-09-12	(API scan)	Contentful	no_match
+https://boards-api.greenhouse.io/v1/boards/polyai/jobs	2026-09-12	scout-quickcheck-2026-09-12	(API scan)	PolyAI	no_match
+https://boards-api.greenhouse.io/v1/boards/scandit/jobs	2026-09-12	scout-quickcheck-2026-09-12	(API scan)	Scandit	no_match
+https://boards-api.greenhouse.io/v1/boards/getyourguide/jobs	2026-09-12	scout-quickcheck-2026-09-12	(API scan)	GetYourGuide	no_match
+https://boards-api.greenhouse.io/v1/boards/isomorphiclabs/jobs	2026-09-12	scout-quickcheck-2026-09-12	(API scan)	Isomorphic Labs	no_match
+https://boards-api.greenhouse.io/v1/boards/intercom/jobs	2026-09-12	scout-quickcheck-2026-09-12	(API scan)	Intercom	no_match
+https://boards-api.greenhouse.io/v1/boards/speechmatics/jobs	2026-09-12	scout-quickcheck-2026-09-12	(API scan)	Speechmatics	no_match
+https://boards-api.greenhouse.io/v1/boards/celonis/jobs	2026-09-12	scout-quickcheck-2026-09-12	(API scan)	Celonis	no_match
+https://boards-api.greenhouse.io/v1/boards/rocketlab/jobs	2026-09-12	scout-quickcheck-2026-09-12	(API scan)	Rocket Lab	no_match
+https://boards-api.greenhouse.io/v1/boards/zipline/jobs	2026-09-12	scout-quickcheck-2026-09-12	(API scan)	Zipline	all_seen
+https://boards-api.greenhouse.io/v1/boards/parloa/jobs	2026-09-12	scout-quickcheck-2026-09-12	(API scan)	Parloa	no_match
+https://boards-api.greenhouse.io/v1/boards/aurorainnovation/jobs	2026-09-12	scout-quickcheck-2026-09-12	(API scan)	Aurora Innovation	404_migrated
+https://boards-api.greenhouse.io/v1/boards/blackforestlabs/jobs	2026-09-12	scout-quickcheck-2026-09-12	(API scan)	Black Forest Labs	404_migrated
+https://boards-api.greenhouse.io/v1/boards/clickhouse/jobs	2026-09-12	scout-quickcheck-2026-09-12	(API scan)	Clickhouse	404_migrated
+https://boards-api.greenhouse.io/v1/boards/hellofresh/jobs	2026-09-12	scout-quickcheck-2026-09-12	(API scan)	HelloFresh	no_match
+https://boards-api.greenhouse.io/v1/boards/n26/jobs	2026-09-12	scout-quickcheck-2026-09-12	(API scan)	N26	no_match
+https://boards-api.greenhouse.io/v1/boards/traderepublicbank/jobs	2026-09-12	scout-quickcheck-2026-09-12	(API scan)	Trade Republic	no_match
+https://boards-api.greenhouse.io/v1/boards/sumup/jobs	2026-09-12	scout-quickcheck-2026-09-12	(API scan)	SumUp	no_match
