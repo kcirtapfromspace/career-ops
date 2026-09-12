@@ -1,5 +1,16 @@
 # Pipeline — Pending Offers
 
+## 2026-09-12 — Quick-Check #3 (42 companies: Greenhouse API only)
+
+> Greenhouse API scan (42 companies). Dedup against 29,692 history entries. **2 new matches** (Anthropic). Errors: Anduril (timeout), Temporal/Clickhouse/Black Forest Labs/Aurora Innovation (404 migrated). Report: [scout-quickcheck-2026-09-12b.md](../reports/scout-quickcheck-2026-09-12b.md)
+
+#### Standard Queue
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5363210008 | Anthropic | Senior Engineering Manager, Capacity Engineering | SF / NYC / Seattle | — EM role at Anthropic leading Capacity Engineering. Top-tier AI lab. Infra/platform EM archetype — direct fit.
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5422684008 | Anthropic | Staff Software Engineer, Search | SF / NYC | — Staff SWE on Anthropic's Search team. Top-tier AI lab, cutting-edge infra, SF/NYC hybrid.
+
+---
+
 ## 2026-09-12 — Full Scout Scan (18 companies: Greenhouse API + Lever + WebSearch x3)
 
 > Greenhouse API (Anthropic, Anduril, True Anomaly, Fivetran, Samsara, Dagster, Glean, Airtable) + Lever (Shield AI) + WebSearch (Ashby/Lever staff roles, greenhouse.io broad). Dedup against 29,645 history entries. **0 new matches** — all roles previously seen in 09-06 through 09-11 window. 6 boards returning 404 (Confluent, ClickHouse, Temporal, W&B, Anyscale, Aurora — migration alerts). Report: [scout-2026-09-12.md](../reports/scout-2026-09-12.md)
