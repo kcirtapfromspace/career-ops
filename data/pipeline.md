@@ -1,5 +1,9 @@
 # Pipeline — Pending Offers
 
+## 2026-09-12 — Full Scout Scan (18 companies: Greenhouse API + Lever + WebSearch x3)
+
+> Greenhouse API (Anthropic, Anduril, True Anomaly, Fivetran, Samsara, Dagster, Glean, Airtable) + Lever (Shield AI) + WebSearch (Ashby/Lever staff roles, greenhouse.io broad). Dedup against 29,645 history entries. **0 new matches** — all roles previously seen in 09-06 through 09-11 window. 6 boards returning 404 (Confluent, ClickHouse, Temporal, W&B, Anyscale, Aurora — migration alerts). Report: [scout-2026-09-12.md](../reports/scout-2026-09-12.md)
+
 ## 2026-09-11 — Quick-Check #2 (42 companies: Greenhouse API only)
 
 > Greenhouse API only scan (42 companies). Dedup against 29,637 history entries. **2 new matches**. Report: [scout-quickcheck-2026-09-11.md](../reports/scout-quickcheck-2026-09-11.md)

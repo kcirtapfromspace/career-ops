@@ -29643,3 +29643,17 @@ https://job-boards.greenhouse.io/chainguard/jobs/4712233006	2026-09-11
 https://job-boards.greenhouse.io/chainguard/jobs/4712228006	2026-09-11
 https://www.fivetran.com/careers/job?gh_jid=7990752003	2026-09-11
 https://www.zipline.com/open-roles/7993020003?gh_jid=7993020003	2026-09-11
+https://boards-api.greenhouse.io/v1/boards/dagsterlabs/jobs	2026-09-12	scout-2026-09-12	(API scan)	Dagster Labs	empty_board
+https://boards-api.greenhouse.io/v1/boards/confluentinc/jobs	2026-09-12	scout-2026-09-12	(API scan)	Confluent	404_migrated
+https://boards-api.greenhouse.io/v1/boards/temporaltechnologies/jobs	2026-09-12	scout-2026-09-12	(API scan)	Temporal	404_migrated
+https://boards-api.greenhouse.io/v1/boards/weights-biases/jobs	2026-09-12	scout-2026-09-12	(API scan)	Weights & Biases	404_migrated
+https://boards-api.greenhouse.io/v1/boards/anyscale/jobs	2026-09-12	scout-2026-09-12	(API scan)	Anyscale	404_migrated
+https://boards-api.greenhouse.io/v1/boards/gleanwork/jobs	2026-09-12	scout-2026-09-12	(API scan)	Glean	no_match
+https://boards-api.greenhouse.io/v1/boards/airtable/jobs	2026-09-12	scout-2026-09-12	(API scan)	Airtable	no_match
+https://boards-api.greenhouse.io/v1/boards/hinge/jobs	2026-09-12	scout-2026-09-12	(API scan)	Hinge Health	404_migrated
+https://api.lever.co/v0/postings/shieldai	2026-09-12	scout-2026-09-12	(API scan)	Shield AI	no_match
+https://boards-api.greenhouse.io/v1/boards/andurilindustries/jobs	2026-09-12	scout-2026-09-12	(API scan)	Anduril	all_seen
+https://boards-api.greenhouse.io/v1/boards/samsara/jobs	2026-09-12	scout-2026-09-12	(API scan)	Samsara	all_seen
+https://boards-api.greenhouse.io/v1/boards/anthropic/jobs	2026-09-12	scout-2026-09-12	(API scan)	Anthropic	all_seen
+https://boards-api.greenhouse.io/v1/boards/trueanomalyinc/jobs	2026-09-12	scout-2026-09-12	(API scan)	True Anomaly	all_seen
+https://boards-api.greenhouse.io/v1/boards/fivetran/jobs	2026-09-12	scout-2026-09-12	(API scan)	Fivetran	all_seen
