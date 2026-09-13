@@ -1,5 +1,51 @@
 # Pipeline — Pending Offers
 
+## 2026-09-13 — Scout Scan (60+ companies: Greenhouse API + Ashby/Lever WebSearch)
+
+> Full scan: Greenhouse API (40+ boards) + WebSearch (Ashby, Lever, broad Greenhouse discovery). 29,694 history entries at start. **7 new matches** (0 × 4.0+, 4 scored 3.0–3.9, 3 unscored leads). All top tracked companies returned all-seen. Report: [scout-2026-09-13.md](../reports/scout-2026-09-13.md)
+
+#### Secondary (3.0–3.9 — Review Before Applying)
+
+- [ ] https://job-boards.greenhouse.io/sovrn/jobs/8095474 | Sovrn | Senior/Staff Software Engineer, Data Platform | Boulder, CO (hybrid) | ★★★ 3.6/5 — Stack match: Spark/Databricks/Kafka/Airflow/AWS/Terraform. Denver-adjacent. Comp $170-200K Staff (borderline). In-person default.
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5150285007 | True Anomaly | Senior Compliance Automation Engineer | Denver, CO | ★★ 3.3/5 — Greenfield compliance automation platform. Python/Go/Terraform/K8s/OPA. Comp $140-220K (likely below floor). Denver local.
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5165020007 | True Anomaly | Staff Mission Cloud Engineer | Denver, CO | ★★ 3.2/5 — $205-295K CO. Multi-cloud classified infra (IL-4/5/6+). Requires Active Secret clearance + DoD 8140 IAT Level III. Skip unless pursuing clearance.
+- [ ] https://job-boards.greenhouse.io/simplesense/jobs/4184654009 | Simplesense | Staff Platform Engineer, Connectivity | Denver, CO (hybrid) | ★★ 3.0/5 — Denver local Staff PE, cloud networking focus. Comp unknown — review JD directly.
+
+#### Unscored Leads
+
+- [ ] https://jobs.ashbyhq.com/avantos/4b2dc531-155c-4d8a-97b7-d89e27a59c12 | Avantos AI | Senior Data and Platform Engineer | Remote US | — AI workflow platform. JS-rendered page, no details extracted. Verify comp/stack/seniority before actioning.
+- [ ] https://jobs.ashbyhq.com/ready/d7ada023-ac2b-42bb-8196-0836f97d6440 | Ready | Senior Data Engineer | Unknown | — Senior level (not Staff). Verify location, comp, stack.
+- [ ] https://jobs.ashbyhq.com/infinity-constellation/8dd8dc6b-a82d-4802-87b0-206bcfb2bf87 | Infinity (Paradox Machines) | Senior Data Engineer | Unknown | — Data + AI company. Senior level. Verify comp and location.
+
+---
+
+## 2026-09-12 — Quick-Check #3 (42 companies: Greenhouse API only)
+
+> Greenhouse API scan (42 companies). Dedup against 29,692 history entries. **2 new matches** (Anthropic). Errors: Anduril (timeout), Temporal/Clickhouse/Black Forest Labs/Aurora Innovation (404 migrated). Report: [scout-quickcheck-2026-09-12b.md](../reports/scout-quickcheck-2026-09-12b.md)
+
+#### Standard Queue
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5363210008 | Anthropic | Senior Engineering Manager, Capacity Engineering | SF / NYC / Seattle | — EM role at Anthropic leading Capacity Engineering. Top-tier AI lab. Infra/platform EM archetype — direct fit.
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5422684008 | Anthropic | Staff Software Engineer, Search | SF / NYC | — Staff SWE on Anthropic's Search team. Top-tier AI lab, cutting-edge infra, SF/NYC hybrid.
+
+---
+
+## 2026-09-12 — Full Scout Scan (18 companies: Greenhouse API + Lever + WebSearch x3)
+
+> Greenhouse API (Anthropic, Anduril, True Anomaly, Fivetran, Samsara, Dagster, Glean, Airtable) + Lever (Shield AI) + WebSearch (Ashby/Lever staff roles, greenhouse.io broad). Dedup against 29,645 history entries. **0 new matches** — all roles previously seen in 09-06 through 09-11 window. 6 boards returning 404 (Confluent, ClickHouse, Temporal, W&B, Anyscale, Aurora — migration alerts). Report: [scout-2026-09-12.md](../reports/scout-2026-09-12.md)
+
+## 2026-09-11 — Quick-Check #2 (42 companies: Greenhouse API only)
+
+> Greenhouse API only scan (42 companies). Dedup against 29,637 history entries. **2 new matches**. Report: [scout-quickcheck-2026-09-11.md](../reports/scout-quickcheck-2026-09-11.md)
+> Errors (API timeouts/404): Anduril (timeout), Temporal (404), Black Forest Labs (404), Aurora Innovation (404), Clickhouse (404).
+
+#### Standard Queue
+
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8798198002 | Databricks | Staff Software Engineer, Lakeflow Pipelines DR | SF/Mountain View | — Staff SWE on Lakeflow streaming pipelines (disaster recovery / data reliability). Core infra at top-tier data company. Direct stack fit.
+- [ ] https://www.samsara.com/company/careers/roles/7892026?gh_jid=7892026 | Samsara | Senior Software Engineer - Commercial Navigation | Remote - US | — Senior SWE for commercial navigation at IoT/AI fleet platform. Remote US. Verify if infra/platform component in JD.
+
+---
+
 ## 2026-09-11 — Scout Scan (18 companies: Greenhouse API + WebSearch)
 
 > Greenhouse API (Anthropic, Anduril, True Anomaly, Databricks, Fivetran, Scale AI, Chainguard, Zipline, Dagster, Samsara, Rocket Lab, Figure AI) + WebSearch (Confluent, Ashby broad, ClickUp, Blackpoint Cyber). Dedup against 29,629 history entries. **2 new matches** (1 × 4.2, 1 × 3.6). Report: [scout-2026-09-11.md](../reports/scout-2026-09-11.md)
@@ -8274,3 +8320,8 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - https://www.zipline.com/open-roles/7652331003?gh_jid=7652331003 | Zipline — Full Stack Software Engineer - Mapping | Kigali, Rwanda
 - https://www.zipline.com/open-roles/6322727003?gh_jid=6322727003 | Zipline — Senior Full Stack Software Engineer | Kigali, Rwanda
 - https://www.zipline.com/open-roles/7989538003?gh_jid=7989538003 | Zipline — Test Maintenance Engineering Lead | Esparto, California, USA
+- https://boards.greenhouse.io/andurilindustries/jobs/5189514007?gh_jid=5189514007 | Anduril — Production Software Engineer | Fort Collins, Colorado, United States
+- https://job-boards.greenhouse.io/chainguard/jobs/4712233006 | Chainguard — Senior Software Engineer | United States - Remote
+- https://job-boards.greenhouse.io/chainguard/jobs/4712228006 | Chainguard — Staff Software Engineer, Sustaining | United States - Remote
+- https://www.fivetran.com/careers/job?gh_jid=7990752003 | Fivetran — Senior Staff Site Reliability Engineer | Oakland, California, United States
+- https://www.zipline.com/open-roles/7993020003?gh_jid=7993020003 | Zipline — Senior Software Engineer, ASW Launch Ops | Remote in USA

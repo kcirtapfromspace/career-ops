@@ -29635,3 +29635,81 @@ https://job-boards.greenhouse.io/trueanomalyinc/jobs/5218560007	2026-09-11	scout
 https://www.fivetran.com/careers/job?gh_jid=7985884003	2026-09-11	scout-2026-09-11	Resident Solutions Architect CO	Fivetran	seen-wrong-archetype
 https://jobs.ashbyhq.com/hinge-health/ca8b6c73-f88e-4e4c-b782-ece3ca3ad4e7	2026-09-11	scout-2026-09-11	Senior Staff Data Engineer ML Platform	Hinge Health	seen
 https://jobs.ashbyhq.com/hinge-health/d635a9d3-c04d-48e5-a53d-cb9ecf665350	2026-09-11	scout-2026-09-11	Staff Data Engineer ML Platform	Hinge Health	seen
+https://databricks.com/company/careers/open-positions/job?gh_jid=8798198002	2026-09-11	scout-quickcheck-2026-09-11	Staff Software Engineer Lakeflow Pipelines DR	Databricks	new
+https://www.samsara.com/company/careers/roles/7892026?gh_jid=7892026	2026-09-11	scout-quickcheck-2026-09-11	Senior Software Engineer - Commercial Navigation	Samsara	new
+https://boards.greenhouse.io/andurilindustries/jobs/5189514007?gh_jid=5189514007	2026-09-11
+https://boards.greenhouse.io/andurilindustries/jobs/5234802007?gh_jid=5234802007	2026-09-11
+https://job-boards.greenhouse.io/chainguard/jobs/4712233006	2026-09-11
+https://job-boards.greenhouse.io/chainguard/jobs/4712228006	2026-09-11
+https://www.fivetran.com/careers/job?gh_jid=7990752003	2026-09-11
+https://www.zipline.com/open-roles/7993020003?gh_jid=7993020003	2026-09-11
+https://boards-api.greenhouse.io/v1/boards/dagsterlabs/jobs	2026-09-12	scout-2026-09-12	(API scan)	Dagster Labs	empty_board
+https://boards-api.greenhouse.io/v1/boards/confluentinc/jobs	2026-09-12	scout-2026-09-12	(API scan)	Confluent	404_migrated
+https://boards-api.greenhouse.io/v1/boards/temporaltechnologies/jobs	2026-09-12	scout-2026-09-12	(API scan)	Temporal	404_migrated
+https://boards-api.greenhouse.io/v1/boards/weights-biases/jobs	2026-09-12	scout-2026-09-12	(API scan)	Weights & Biases	404_migrated
+https://boards-api.greenhouse.io/v1/boards/anyscale/jobs	2026-09-12	scout-2026-09-12	(API scan)	Anyscale	404_migrated
+https://boards-api.greenhouse.io/v1/boards/gleanwork/jobs	2026-09-12	scout-2026-09-12	(API scan)	Glean	no_match
+https://boards-api.greenhouse.io/v1/boards/airtable/jobs	2026-09-12	scout-2026-09-12	(API scan)	Airtable	no_match
+https://boards-api.greenhouse.io/v1/boards/hinge/jobs	2026-09-12	scout-2026-09-12	(API scan)	Hinge Health	404_migrated
+https://api.lever.co/v0/postings/shieldai	2026-09-12	scout-2026-09-12	(API scan)	Shield AI	no_match
+https://boards-api.greenhouse.io/v1/boards/andurilindustries/jobs	2026-09-12	scout-2026-09-12	(API scan)	Anduril	all_seen
+https://boards-api.greenhouse.io/v1/boards/samsara/jobs	2026-09-12	scout-2026-09-12	(API scan)	Samsara	all_seen
+https://boards-api.greenhouse.io/v1/boards/anthropic/jobs	2026-09-12	scout-2026-09-12	(API scan)	Anthropic	all_seen
+https://boards-api.greenhouse.io/v1/boards/trueanomalyinc/jobs	2026-09-12	scout-2026-09-12	(API scan)	True Anomaly	all_seen
+https://boards-api.greenhouse.io/v1/boards/fivetran/jobs	2026-09-12	scout-2026-09-12	(API scan)	Fivetran	all_seen
+https://boards-api.greenhouse.io/v1/boards/databricks/jobs	2026-09-12	scout-quickcheck-2026-09-12	(API scan)	Databricks	all_seen
+https://boards-api.greenhouse.io/v1/boards/scaleai/jobs	2026-09-12	scout-quickcheck-2026-09-12	(API scan)	Scale AI	all_seen
+https://boards-api.greenhouse.io/v1/boards/chainguard/jobs	2026-09-12	scout-quickcheck-2026-09-12	(API scan)	Chainguard	all_seen
+https://boards-api.greenhouse.io/v1/boards/vercel/jobs	2026-09-12	scout-quickcheck-2026-09-12	(API scan)	Vercel	all_seen
+https://boards-api.greenhouse.io/v1/boards/planetlabs/jobs	2026-09-12	scout-quickcheck-2026-09-12	(API scan)	Planet Labs	all_seen
+https://boards-api.greenhouse.io/v1/boards/arizeai/jobs	2026-09-12	scout-quickcheck-2026-09-12	(API scan)	Arize AI	all_seen
+https://boards-api.greenhouse.io/v1/boards/amplemarket/jobs	2026-09-12	scout-quickcheck-2026-09-12	(API scan)	Amplemarket	all_seen
+https://boards-api.greenhouse.io/v1/boards/humeai/jobs	2026-09-12	scout-quickcheck-2026-09-12	(API scan)	Hume AI	all_seen
+https://boards-api.greenhouse.io/v1/boards/wayve/jobs	2026-09-12	scout-quickcheck-2026-09-12	(API scan)	Wayve	all_seen
+https://boards-api.greenhouse.io/v1/boards/stabilityai/jobs	2026-09-12	scout-quickcheck-2026-09-12	(API scan)	Stability AI	all_seen
+https://boards-api.greenhouse.io/v1/boards/helsing/jobs	2026-09-12	scout-quickcheck-2026-09-12	(API scan)	Helsing	no_match
+https://boards-api.greenhouse.io/v1/boards/physicsxai/jobs	2026-09-12	scout-quickcheck-2026-09-12	(API scan)	PhysicsX	all_seen
+https://boards-api.greenhouse.io/v1/boards/figureai/jobs	2026-09-12	scout-quickcheck-2026-09-12	(API scan)	Figure AI	no_match
+https://boards-api.greenhouse.io/v1/boards/nuro/jobs	2026-09-12	scout-quickcheck-2026-09-12	(API scan)	Nuro	no_match
+https://boards-api.greenhouse.io/v1/boards/vastdata/jobs	2026-09-12	scout-quickcheck-2026-09-12	(API scan)	Vast	no_match
+https://boards-api.greenhouse.io/v1/boards/contentful/jobs	2026-09-12	scout-quickcheck-2026-09-12	(API scan)	Contentful	no_match
+https://boards-api.greenhouse.io/v1/boards/polyai/jobs	2026-09-12	scout-quickcheck-2026-09-12	(API scan)	PolyAI	no_match
+https://boards-api.greenhouse.io/v1/boards/scandit/jobs	2026-09-12	scout-quickcheck-2026-09-12	(API scan)	Scandit	no_match
+https://boards-api.greenhouse.io/v1/boards/getyourguide/jobs	2026-09-12	scout-quickcheck-2026-09-12	(API scan)	GetYourGuide	no_match
+https://boards-api.greenhouse.io/v1/boards/isomorphiclabs/jobs	2026-09-12	scout-quickcheck-2026-09-12	(API scan)	Isomorphic Labs	no_match
+https://boards-api.greenhouse.io/v1/boards/intercom/jobs	2026-09-12	scout-quickcheck-2026-09-12	(API scan)	Intercom	no_match
+https://boards-api.greenhouse.io/v1/boards/speechmatics/jobs	2026-09-12	scout-quickcheck-2026-09-12	(API scan)	Speechmatics	no_match
+https://boards-api.greenhouse.io/v1/boards/celonis/jobs	2026-09-12	scout-quickcheck-2026-09-12	(API scan)	Celonis	no_match
+https://boards-api.greenhouse.io/v1/boards/rocketlab/jobs	2026-09-12	scout-quickcheck-2026-09-12	(API scan)	Rocket Lab	no_match
+https://boards-api.greenhouse.io/v1/boards/zipline/jobs	2026-09-12	scout-quickcheck-2026-09-12	(API scan)	Zipline	all_seen
+https://boards-api.greenhouse.io/v1/boards/parloa/jobs	2026-09-12	scout-quickcheck-2026-09-12	(API scan)	Parloa	no_match
+https://boards-api.greenhouse.io/v1/boards/aurorainnovation/jobs	2026-09-12	scout-quickcheck-2026-09-12	(API scan)	Aurora Innovation	404_migrated
+https://boards-api.greenhouse.io/v1/boards/blackforestlabs/jobs	2026-09-12	scout-quickcheck-2026-09-12	(API scan)	Black Forest Labs	404_migrated
+https://boards-api.greenhouse.io/v1/boards/clickhouse/jobs	2026-09-12	scout-quickcheck-2026-09-12	(API scan)	Clickhouse	404_migrated
+https://boards-api.greenhouse.io/v1/boards/hellofresh/jobs	2026-09-12	scout-quickcheck-2026-09-12	(API scan)	HelloFresh	no_match
+https://boards-api.greenhouse.io/v1/boards/n26/jobs	2026-09-12	scout-quickcheck-2026-09-12	(API scan)	N26	no_match
+https://boards-api.greenhouse.io/v1/boards/traderepublicbank/jobs	2026-09-12	scout-quickcheck-2026-09-12	(API scan)	Trade Republic	no_match
+https://boards-api.greenhouse.io/v1/boards/sumup/jobs	2026-09-12	scout-quickcheck-2026-09-12	(API scan)	SumUp	no_match
+https://job-boards.greenhouse.io/anthropic/jobs/5363210008	Anthropic	Senior Engineering Manager, Capacity Engineering	2026-09-12
+https://job-boards.greenhouse.io/anthropic/jobs/5422684008	Anthropic	Staff Software Engineer, Search	2026-09-12
+https://boards-api.greenhouse.io/v1/boards/anthropic/jobs	2026-09-13	scout-2026-09-13	(API scan)	Anthropic	all_seen
+https://boards-api.greenhouse.io/v1/boards/andurilindustries/jobs	2026-09-13	scout-2026-09-13	(API scan)	Anduril	all_seen
+https://boards-api.greenhouse.io/v1/boards/trueanomalyinc/jobs	2026-09-13	scout-2026-09-13	(API scan)	True Anomaly	new_matches
+https://job-boards.greenhouse.io/trueanomalyinc/jobs/5165020007	2026-09-13	scout-2026-09-13	Staff Mission Cloud Engineer	True Anomaly	new-match-3.2
+https://job-boards.greenhouse.io/trueanomalyinc/jobs/5150285007	2026-09-13	scout-2026-09-13	Senior Compliance Automation Engineer	True Anomaly	new-match-3.3
+https://job-boards.greenhouse.io/trueanomalyinc/jobs/5227469007	2026-09-13	scout-2026-09-13	Chief Engineer Ground Software	True Anomaly	seen-over-leveled
+https://job-boards.greenhouse.io/trueanomalyinc/jobs/5235307007	2026-09-13	scout-2026-09-13	Machine Shop Production Engineer	True Anomaly	seen-wrong-archetype
+https://boards-api.greenhouse.io/v1/boards/databricks/jobs	2026-09-13	scout-2026-09-13	(API scan)	Databricks	all_seen
+https://boards-api.greenhouse.io/v1/boards/fivetran/jobs	2026-09-13	scout-2026-09-13	(API scan)	Fivetran	all_seen
+https://boards-api.greenhouse.io/v1/boards/samsara/jobs	2026-09-13	scout-2026-09-13	(API scan)	Samsara	all_seen
+https://boards-api.greenhouse.io/v1/boards/scaleai/jobs	2026-09-13	scout-2026-09-13	(API scan)	Scale AI	all_seen
+https://boards-api.greenhouse.io/v1/boards/rocketlab/jobs	2026-09-13	scout-2026-09-13	(API scan)	Rocket Lab	all_seen
+https://boards-api.greenhouse.io/v1/boards/chainguard/jobs	2026-09-13	scout-2026-09-13	(API scan)	Chainguard	new_seen
+https://job-boards.greenhouse.io/chainguard/jobs/4711370006	2026-09-13	scout-2026-09-13	Senior Analytics Engineer	Chainguard	seen-wrong-archetype
+https://job-boards.greenhouse.io/sovrn/jobs/8095474	2026-09-13	scout-2026-09-13	Senior/Staff Software Engineer Data Platform	Sovrn	new-match-3.6
+https://job-boards.greenhouse.io/simplesense/jobs/4157874009	2026-09-13	scout-2026-09-13	Staff Platform Engineer Platform Development	Simplesense	new-match-3.0
+https://job-boards.greenhouse.io/simplesense/jobs/4184654009	2026-09-13	scout-2026-09-13	Staff Platform Engineer Connectivity	Simplesense	new-match-3.0
+https://jobs.ashbyhq.com/avantos/4b2dc531-155c-4d8a-97b7-d89e27a59c12	2026-09-13	scout-2026-09-13	Senior Data and Platform Engineer	Avantos AI	new-unscored
+https://jobs.ashbyhq.com/ready/d7ada023-ac2b-42bb-8196-0836f97d6440	2026-09-13	scout-2026-09-13	Senior Data Engineer	Ready	new-unscored
+https://jobs.ashbyhq.com/infinity-constellation/8dd8dc6b-a82d-4802-87b0-206bcfb2bf87	2026-09-13	scout-2026-09-13	Senior Data Engineer Paradox Machines	Infinity	new-unscored
+https://jobs.lever.co/spotify/0d82639f-54c4-4e44-984e-4c9de7e8fffe	2026-09-13	scout-2026-09-13	Senior MLE Artist-First AI Music Lab	Spotify	seen-location-filtered
