@@ -8337,3 +8337,12 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - https://boards.greenhouse.io/andurilindustries/jobs/5236475007?gh_jid=5236475007 | Anduril — Software Engineer, Battlespace Awareness | Broomfield, Colorado, United States
 - https://boards.greenhouse.io/andurilindustries/jobs/5236495007?gh_jid=5236495007 | Anduril — Software Engineer, Robotics Tracking and Fusion | Fort Collins, Colorado, United States
 - https://boards.greenhouse.io/andurilindustries/jobs/5236477007?gh_jid=5236477007 | Anduril — Software Engineer, Rust | Broomfield, Colorado, United States
+
+## 2026-09-13b — Quick Check #2 (Greenhouse API only)
+
+> Follow-up API scan covering remaining 33 Greenhouse companies not in earlier today's check. 33 companies, **4 new Zipline matches** (3 remote-US, 1 Bay Area on-site). 4 boards returned 404 (Temporal, Black Forest Labs, Aurora Innovation, Clickhouse — slugs may have changed). Report: [scout-quickcheck-2026-09-13b.md](../reports/scout-quickcheck-2026-09-13b.md)
+
+- https://job-boards.greenhouse.io/flyzipline/jobs/7989516003 | Zipline — ML Infrastructure Engineer | Ann Arbor, MI + South San Francisco, CA (⚠️ no remote)
+- https://job-boards.greenhouse.io/flyzipline/jobs/7993020003 | Zipline — Senior Software Engineer, ASW Launch Ops | Remote in USA
+- https://job-boards.greenhouse.io/flyzipline/jobs/7983305003 | Zipline — Staff Software Engineer, Healthcare — Customer Experience | Remote in USA
+- https://job-boards.greenhouse.io/flyzipline/jobs/7983316003 | Zipline — Staff Software Engineer, Healthcare — Systems & Integrations | Remote in USA
