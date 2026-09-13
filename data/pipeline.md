@@ -8325,3 +8325,15 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - https://job-boards.greenhouse.io/chainguard/jobs/4712228006 | Chainguard — Staff Software Engineer, Sustaining | United States - Remote
 - https://www.fivetran.com/careers/job?gh_jid=7990752003 | Fivetran — Senior Staff Site Reliability Engineer | Oakland, California, United States
 - https://www.zipline.com/open-roles/7993020003?gh_jid=7993020003 | Zipline — Senior Software Engineer, ASW Launch Ops | Remote in USA
+
+## 2026-09-13 — Quick Check (Greenhouse API only)
+
+> Lightweight API-only scan. 42 companies checked, 8,266 jobs scanned. **7 new matches** — all Anduril Colorado (Broomfield + Fort Collins). 4 boards returned 404 (Temporal, Black Forest Labs, Clickhouse, Aurora Innovation). Report: [scout-quickcheck-2026-09-13.md](../reports/scout-quickcheck-2026-09-13.md)
+
+- https://boards.greenhouse.io/andurilindustries/jobs/5236466007?gh_jid=5236466007 | Anduril — Senior Software Engineer, Battlespace Awareness | Broomfield, Colorado, United States
+- https://boards.greenhouse.io/andurilindustries/jobs/5236502007?gh_jid=5236502007 | Anduril — Senior Software Engineer, Robotics Tracking and Fusion | Fort Collins, Colorado, United States
+- https://boards.greenhouse.io/andurilindustries/jobs/5236470007?gh_jid=5236470007 | Anduril — Senior Software Engineer, Rust | Broomfield, Colorado, United States
+- https://boards.greenhouse.io/andurilindustries/jobs/5236474007?gh_jid=5236474007 | Anduril — Senior Software Engineer, State Estimation | Broomfield, Colorado, United States
+- https://boards.greenhouse.io/andurilindustries/jobs/5236475007?gh_jid=5236475007 | Anduril — Software Engineer, Battlespace Awareness | Broomfield, Colorado, United States
+- https://boards.greenhouse.io/andurilindustries/jobs/5236495007?gh_jid=5236495007 | Anduril — Software Engineer, Robotics Tracking and Fusion | Fort Collins, Colorado, United States
+- https://boards.greenhouse.io/andurilindustries/jobs/5236477007?gh_jid=5236477007 | Anduril — Software Engineer, Rust | Broomfield, Colorado, United States
