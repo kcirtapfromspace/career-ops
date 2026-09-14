@@ -8346,3 +8346,23 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - https://job-boards.greenhouse.io/flyzipline/jobs/7993020003 | Zipline — Senior Software Engineer, ASW Launch Ops | Remote in USA
 - https://job-boards.greenhouse.io/flyzipline/jobs/7983305003 | Zipline — Staff Software Engineer, Healthcare — Customer Experience | Remote in USA
 - https://job-boards.greenhouse.io/flyzipline/jobs/7983316003 | Zipline — Staff Software Engineer, Healthcare — Systems & Integrations | Remote in USA
+
+## 2026-09-14 — Daily Scout
+
+> Full portal scan across 60+ tracked companies (Greenhouse API, Lever, Ashby, web search). Deduped against 29,759 history entries. **15 new matches** across 10 companies. Report: [scout-2026-09-14.md](../reports/scout-2026-09-14.md)
+
+- https://netflix.wd108.myworkdayjobs.com/Netflix/job/USA---Remote/Staff-Data-Engineer--L6----Ads_JR42273 | Netflix — Staff Data Engineer (L6) – Ads | USA Remote | ⭐ 4.5/5
+- https://www.anthropic.com/careers/jobs/4970314008 | Anthropic — Staff+ Software Engineer, Infrastructure (Distributed Systems) | San Francisco (hybrid) | ⭐ 4.3/5
+- https://openai.com/careers/staff-senior-staff-backend-software-engineer-san-francisco/ | OpenAI — Staff / Senior Staff Backend Software Engineer | San Francisco | ⭐ 4.2/5
+- https://careers.google.com/jobs/results/118572156379374278-tech-lead-manager/ | Google — Tech Lead Manager, Kubernetes AI Infrastructure | Seattle / Kirkland, WA | ⭐ 4.2/5
+- https://www.anthropic.com/careers/jobs/5022851008 | Anthropic — Engineering Manager, Enterprise Foundations | San Francisco (hybrid) | ⭐ 4.0/5
+- https://www.databricks.com/company/careers/engineering---pipeline/staff-software-engineer---backend-6779232002 | Databricks — Staff Software Engineer, Backend | Seattle / Bellevue | ⭐ 3.8/5
+- https://careers.google.com/jobs/results/140438338199790278-software-engineering-manager/ | Google — Software Engineering Manager, Google Beam | Mountain View / Seattle / SF | ⭐ 3.8/5
+- https://jobs.ashbyhq.com/anyscale/c7b78c30-5df7-4351-a136-f9e9f1486b19 | Anyscale — Engineering Manager, Platform Infrastructure | San Francisco | ⭐ 3.7/5
+- https://jobs.ashbyhq.com/anyscale/5104d34f-d58a-4165-bb30-9a96c8ff311c | Anyscale — Staff Software Engineer, Ray Data | San Francisco | ⭐ 3.5/5
+- https://careers.airbnb.com/positions/7609100/ | Airbnb — Staff Software Engineer, Guest & Host | USA Remote | ⭐ 3.5/5
+- https://www.databricks.com/company/careers/engineering---pipeline/staff-software-engineer---genai-inference-8202698002 | Databricks — Staff Software Engineer, GenAI Inference | San Francisco | ⭐ 3.5/5
+- https://careers.google.com/jobs/results/129105477236597446-senior-software-engineering-manager/ | Google — Senior Software Engineering Manager | San Francisco / Seattle | ⭐ 3.5/5
+- https://jobs.lever.co/shield-ai/R5368 | Shield AI — Staff Software Engineer, Autonomy Capabilities (R5368) | TBD — verify | ⭐ 3.3/5
+- https://boards.greenhouse.io/andurilindustries/jobs/5226940007 | Anduril — Algorithm Developer, Tracking Systems | Broomfield / Fort Collins, CO | ⭐ 3.0/5
+- https://boards.greenhouse.io/andurilindustries/jobs/5226941007 | Anduril — Algorithm Engineer, Tracking Systems | Broomfield / Fort Collins, CO | ⭐ 3.0/5
