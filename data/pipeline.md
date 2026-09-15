@@ -8403,3 +8403,566 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - https://www.samsara.com/company/careers/roles/8180373?gh_jid=8180373 | Samsara — IT Engineering Manager II | Remote - US ⚠️ IT ops, verify fit
 - https://job-boards.greenhouse.io/chainguard/jobs/4713466006 | Chainguard — Staff Software Engineer (Malware Detection) | United States - Remote
 - https://job-boards.greenhouse.io/scaleai/jobs/4733702005 | Scale AI — Engineering Manager, Connectivity | San Francisco / New York
+
+- [ ] [Anthropic — Data Engineer, GTM](https://job-boards.greenhouse.io/anthropic/jobs/5418610008) | San Francisco, CA | New York City, NY | Discovered 2026-09-15
+- [ ] [Anthropic — Data Infrastructure Engineer, Pre-training](https://job-boards.greenhouse.io/anthropic/jobs/4973067008) | San Francisco, CA | Discovered 2026-09-15
+- [ ] [Anthropic — Engineering Manager, Hardware Platform Security](https://job-boards.greenhouse.io/anthropic/jobs/5405548008) | San Francisco, CA | Seattle, WA | Discovered 2026-09-15
+- [ ] [Anthropic — Engineering Manager, Inference Infrastructure](https://job-boards.greenhouse.io/anthropic/jobs/5411560008) | San Francisco, CA | New York City, NY | Seattle, WA | Discovered 2026-09-15
+- [ ] [Anthropic — Engineering Manager, Scheduler and Fleet Efficiency](https://job-boards.greenhouse.io/anthropic/jobs/5411267008) | San Francisco, CA | New York City, NY | Discovered 2026-09-15
+- [ ] [Anthropic — New Product Introduction (NPI) Sourcing Manager, Data Center Power & Cooling](https://job-boards.greenhouse.io/anthropic/jobs/5409569008) | Remote-Friendly, United States | Discovered 2026-09-15
+- [ ] [Anthropic — Product Marketing Manager, Platform](https://job-boards.greenhouse.io/anthropic/jobs/5424078008) | San Francisco, CA | New York City, NY | Discovered 2026-09-15
+- [ ] [Anthropic — Recruiting Analytics Data Engineer ](https://job-boards.greenhouse.io/anthropic/jobs/5424111008) | New York City, NY; San Francisco, CA | New York City, NY | Seattle, WA; Seattle, WA | Discovered 2026-09-15
+- [ ] [Anthropic — Senior Engineering Manager, Capacity Engineering](https://job-boards.greenhouse.io/anthropic/jobs/5363210008) | San Francisco, CA | New York City, NY | Seattle, WA | Discovered 2026-09-15
+- [ ] [Anthropic — Senior Manager, Infrastructure Asset Accounting](https://job-boards.greenhouse.io/anthropic/jobs/5357949008) | San Francisco, CA | Seattle, WA | Discovered 2026-09-15
+- [ ] [Anthropic — Senior Manager, Infrastructure Lease Accounting](https://job-boards.greenhouse.io/anthropic/jobs/5357951008) | San Francisco, CA | Seattle, WA | Discovered 2026-09-15
+- [ ] [Anthropic — Senior Manager, Infrastructure Tax](https://job-boards.greenhouse.io/anthropic/jobs/5358116008) | San Francisco, CA | New York City, NY | Seattle, WA | Discovered 2026-09-15
+- [ ] [Anthropic — Software Engineer, Research Infrastructure](https://job-boards.greenhouse.io/anthropic/jobs/5283063008) | San Francisco, CA | New York City, NY | Discovered 2026-09-15
+- [ ] [Anthropic — Staff + Senior Software Engineer, Inference](https://job-boards.greenhouse.io/anthropic/jobs/5385998008) | Ontario, CAN | Discovered 2026-09-15
+- [ ] [Anthropic — Staff+ Site Reliability Engineer, Safeguards ML Infra](https://job-boards.greenhouse.io/anthropic/jobs/5416709008) | Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY | Discovered 2026-09-15
+- [ ] [Anthropic — Staff+ Software Engineer, Claude Science](https://job-boards.greenhouse.io/anthropic/jobs/5412734008) | San Francisco, CA | Discovered 2026-09-15
+- [ ] [Anthropic — Staff Software Engineer: Compute](https://job-boards.greenhouse.io/anthropic/jobs/5420115008) | San Francisco, CA | New York City, NY | Seattle, WA | Discovered 2026-09-15
+- [ ] [Anthropic — Staff+ Software Engineer, Distributed Systems ](https://job-boards.greenhouse.io/anthropic/jobs/5424404008) | New York City, NY; San Francisco, CA | Discovered 2026-09-15
+- [ ] [Anthropic — Staff+ Software Engineer, ML Inference Path](https://job-boards.greenhouse.io/anthropic/jobs/5419869008) | San Francisco, CA | Discovered 2026-09-15
+- [ ] [Anthropic — Staff+ Software Engineer, ML Sampling Path](https://job-boards.greenhouse.io/anthropic/jobs/5419868008) | San Francisco, CA | Discovered 2026-09-15
+- [ ] [Anthropic — Staff Software Engineer, Search](https://job-boards.greenhouse.io/anthropic/jobs/5422684008) | San Francisco, CA | New York City, NY | Discovered 2026-09-15
+- [ ] [Anthropic — Supply Chain Delivery Manager, Data Center Power & Cooling OFE](https://job-boards.greenhouse.io/anthropic/jobs/5399225008) | Remote-Friendly, United States | Discovered 2026-09-15
+- [ ] [Anthropic — TPM Manager, Infrastructure ](https://job-boards.greenhouse.io/anthropic/jobs/5416059008) | San Francisco, CA | New York City, NY | Discovered 2026-09-15
+- [ ] [Anduril — 2027 Early Career Flight Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5228868007?gh_jid=5228868007) | Costa Mesa, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Agentic AI Engineer, Automation](https://boards.greenhouse.io/andurilindustries/jobs/5219383007?gh_jid=5219383007) | Costa Mesa, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Applied LLM Systems Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5197253007?gh_jid=5197253007) | Costa Mesa, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Flight Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5102166007?gh_jid=5102166007) | Costa Mesa, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Fullstack Senior Software Engineer, ArsenalOS](https://boards.greenhouse.io/andurilindustries/jobs/5186859007?gh_jid=5186859007) | Costa Mesa, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — GNC Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5236464007?gh_jid=5236464007) | Waltham, Massachusetts, United States | Discovered 2026-09-15
+- [ ] [Anduril — Ground Software Engineer, Space](https://boards.greenhouse.io/andurilindustries/jobs/4497427007?gh_jid=4497427007) | Costa Mesa, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Hardware Test Engineering Manager](https://boards.greenhouse.io/andurilindustries/jobs/5232200007?gh_jid=5232200007) | Irvine, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Manager, Security Software Engineering](https://boards.greenhouse.io/andurilindustries/jobs/5136167007?gh_jid=5136167007) | Costa Mesa, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Manufacturing Software Engineer, Intelligence Systems](https://boards.greenhouse.io/andurilindustries/jobs/5111318007?gh_jid=5111318007) | Santa Ana, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Manufacturing Test Engineering Manager](https://boards.greenhouse.io/andurilindustries/jobs/5232202007?gh_jid=5232202007) | Irvine, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Mission Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5208852007?gh_jid=5208852007) | Costa Mesa, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Mission Software Engineer - Undersea Reconnaissance & Strike](https://boards.greenhouse.io/andurilindustries/jobs/5221253007?gh_jid=5221253007) | Quincy, Massachusetts, United States | Discovered 2026-09-15
+- [ ] [Anduril — Mission Software Engineer - Undersea Reconnaissance & Strike](https://boards.greenhouse.io/andurilindustries/jobs/5226473007?gh_jid=5226473007) | Washington, District of Columbia, United States | Discovered 2026-09-15
+- [ ] [Anduril — Mission Software Engineer - Undersea Reconnaissance & Strike](https://boards.greenhouse.io/andurilindustries/jobs/5226471007?gh_jid=5226471007) | Boston, Massachusetts, United States | Discovered 2026-09-15
+- [ ] [Anduril — Mission Software Engineer, Vehicle Software, Active Clearance](https://boards.greenhouse.io/andurilindustries/jobs/4672916007?gh_jid=4672916007) | Costa Mesa, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Mission Software Engineer, Vehicle Software, C++](https://boards.greenhouse.io/andurilindustries/jobs/4672888007?gh_jid=4672888007) | Costa Mesa, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Mission Software Engineer, Vehicle Software, Computer Vision](https://boards.greenhouse.io/andurilindustries/jobs/4734570007?gh_jid=4734570007) | Costa Mesa, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Mission Software Engineer, Vehicle Software, GenSWE](https://boards.greenhouse.io/andurilindustries/jobs/4672868007?gh_jid=4672868007) | Costa Mesa, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Orbital Software Engineer, Space](https://boards.greenhouse.io/andurilindustries/jobs/4872480007?gh_jid=4872480007) | Costa Mesa, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Production Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5189514007?gh_jid=5189514007) | Fort Collins, Colorado, United States | Discovered 2026-09-15
+- [ ] [Anduril — Production Test Engineering Manager](https://boards.greenhouse.io/andurilindustries/jobs/5232201007?gh_jid=5232201007) | Irvine, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Reliability Engineering Manager](https://boards.greenhouse.io/andurilindustries/jobs/5229357007?gh_jid=5229357007) | Costa Mesa, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — RFML Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5031495007?gh_jid=5031495007) | Costa Mesa, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Robotic Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5183145007?gh_jid=5183145007) | Costa Mesa, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Robotics Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5113524007?gh_jid=5113524007) | Costa Mesa, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Robotics Software Engineer, Maneuver Dominance](https://boards.greenhouse.io/andurilindustries/jobs/5113527007?gh_jid=5113527007) | Costa Mesa, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Robotics Software Engineer, Maneuver Dominance ](https://boards.greenhouse.io/andurilindustries/jobs/5047469007?gh_jid=5047469007) | Costa Mesa, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Robotics Software Engineer, Omen](https://boards.greenhouse.io/andurilindustries/jobs/5183150007?gh_jid=5183150007) | Costa Mesa, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Robotics Software Engineer, Sensor Integration ](https://boards.greenhouse.io/andurilindustries/jobs/5096506007?gh_jid=5096506007) | Costa Mesa, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Robotics Software Engineer, Vehicle Software](https://boards.greenhouse.io/andurilindustries/jobs/4672892007?gh_jid=4672892007) | Costa Mesa, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior AI Infrastructure Engineer, Physical Infrastructure](https://boards.greenhouse.io/andurilindustries/jobs/5227989007?gh_jid=5227989007) | Costa Mesa, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior Data Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5180410007?gh_jid=5180410007) | Costa Mesa, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior Flight Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5102222007?gh_jid=5102222007) | Atlanta, Georgia, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior Front End Software Engineer, React](https://boards.greenhouse.io/andurilindustries/jobs/5238276007?gh_jid=5238276007) | Arlington, Virginia, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior Full-Stack Software Engineer, SIG ](https://boards.greenhouse.io/andurilindustries/jobs/5171012007?gh_jid=5171012007) | Santa Ana, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior GNC Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5236465007?gh_jid=5236465007) | Waltham, Massachusetts, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior Ground Software Engineer, Space](https://boards.greenhouse.io/andurilindustries/jobs/4480975007?gh_jid=4480975007) | Costa Mesa, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior Machine Learning Engineer, Applied Intelligence ](https://boards.greenhouse.io/andurilindustries/jobs/5207613007?gh_jid=5207613007) | Santa Ana, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior Manager, Software Engineering](https://boards.greenhouse.io/andurilindustries/jobs/5186093007?gh_jid=5186093007) | Costa Mesa, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior Manager, Software Engineering, Intelligence Systems ](https://boards.greenhouse.io/andurilindustries/jobs/5234802007?gh_jid=5234802007) | Reston, Virginia, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior Manufacturing Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5232514007?gh_jid=5232514007) | Lexington, Massachusetts, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior Mission Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5238563007?gh_jid=5238563007) | Lexington, Massachusetts, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior Mission Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5232805007?gh_jid=5232805007) | Costa Mesa, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior Mission Software Engineer, Vehicle Software, Active Clearance](https://boards.greenhouse.io/andurilindustries/jobs/4926639007?gh_jid=4926639007) | Costa Mesa, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior Mission Software Engineer, Vehicle Software, C++](https://boards.greenhouse.io/andurilindustries/jobs/4926644007?gh_jid=4926644007) | Costa Mesa, California, United States; Washington, District of Columbia, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior Mission Software Engineer, Vehicle Software, GenSWE](https://boards.greenhouse.io/andurilindustries/jobs/4926663007?gh_jid=4926663007) | Costa Mesa, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior ML Engineer, Core Development](https://boards.greenhouse.io/andurilindustries/jobs/5216691007?gh_jid=5216691007) | Costa Mesa, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior Orbital Software Engineer, Space](https://boards.greenhouse.io/andurilindustries/jobs/4872454007?gh_jid=4872454007) | Costa Mesa, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior Production Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5232513007?gh_jid=5232513007) | Lexington, Massachusetts, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior Production Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5238586007?gh_jid=5238586007) | Lexington, Massachusetts, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior Robotics Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5074293007?gh_jid=5074293007) | Costa Mesa, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior Robotics Software Engineer ](https://boards.greenhouse.io/andurilindustries/jobs/5229957007?gh_jid=5229957007) | Costa Mesa, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior Robotics Software Engineer, Omen](https://boards.greenhouse.io/andurilindustries/jobs/5229930007?gh_jid=5229930007) | Costa Mesa, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior Robotics Software Engineer, Payload Integration](https://boards.greenhouse.io/andurilindustries/jobs/5175329007?gh_jid=5175329007) | Abu Dhabi, United Arab Emirates | Discovered 2026-09-15
+- [ ] [Anduril — Senior Robotics Software Engineer, Payload Integration](https://boards.greenhouse.io/andurilindustries/jobs/5192153007?gh_jid=5192153007) | Abu Dhabi, United Arab Emirates | Discovered 2026-09-15
+- [ ] [Anduril — Senior Robotics Software Engineer, Sensor Fusion](https://boards.greenhouse.io/andurilindustries/jobs/5160042007?gh_jid=5160042007) | Costa Mesa, California, United States; Washington, District of Columbia, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior Robotics Software Engineer, Sentry Tower](https://boards.greenhouse.io/andurilindustries/jobs/4927598007?gh_jid=4927598007) | Irvine, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior Robotics Software Engineer, Vehicle Software](https://boards.greenhouse.io/andurilindustries/jobs/4926677007?gh_jid=4926677007) | Costa Mesa, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior Scientific Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5228636007?gh_jid=5228636007) | Broomfield, Colorado, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior Site Reliability Engineer](https://boards.greenhouse.io/andurilindustries/jobs/4798433007?gh_jid=4798433007) | Costa Mesa, California, United States; Washington, District of Columbia, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior Site Reliability Engineer, Space](https://boards.greenhouse.io/andurilindustries/jobs/4992186007?gh_jid=4992186007) | Costa Mesa, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5209995007?gh_jid=5209995007) | Costa Mesa, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5195030007?gh_jid=5195030007) | Seattle, Washington, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5193350007?gh_jid=5193350007) | Costa Mesa, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior Software Engineer, Active Clearance, Air Defense](https://boards.greenhouse.io/andurilindustries/jobs/4939556007?gh_jid=4939556007) | Irvine, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior Software Engineer, Air Defense, Integrations](https://boards.greenhouse.io/andurilindustries/jobs/5184560007?gh_jid=5184560007) | Irvine, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior Software Engineer, Air & Missile Defense](https://boards.greenhouse.io/andurilindustries/jobs/5228642007?gh_jid=5228642007) | Broomfield, Colorado, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior Software Engineer, Backend - SIG](https://boards.greenhouse.io/andurilindustries/jobs/5225023007?gh_jid=5225023007) | Santa Ana, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior Software Engineer, Battlespace Awareness ](https://boards.greenhouse.io/andurilindustries/jobs/5236469007?gh_jid=5236469007) | Waltham, Massachusetts, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior Software Engineer, Battlespace Awareness ](https://boards.greenhouse.io/andurilindustries/jobs/5236466007?gh_jid=5236466007) | Broomfield, Colorado, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior Software Engineer, Bolt](https://boards.greenhouse.io/andurilindustries/jobs/4932886007?gh_jid=4932886007) | Costa Mesa, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior Software Engineer, C++](https://boards.greenhouse.io/andurilindustries/jobs/5009226007?gh_jid=5009226007) | Costa Mesa, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior Software Engineer, C++](https://boards.greenhouse.io/andurilindustries/jobs/5228643007?gh_jid=5228643007) | Broomfield, Colorado, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior Software Engineer, Dart](https://boards.greenhouse.io/andurilindustries/jobs/4993677007?gh_jid=4993677007) | Costa Mesa, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior Software Engineer, Distributed Networks ](https://boards.greenhouse.io/andurilindustries/jobs/5202000007?gh_jid=5202000007) | Costa Mesa, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior Software Engineer, Estimation & Filtering](https://boards.greenhouse.io/andurilindustries/jobs/5226948007?gh_jid=5226948007) | Waltham, Massachusetts, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior Software Engineer, Estimation & Filtering](https://boards.greenhouse.io/andurilindustries/jobs/5226949007?gh_jid=5226949007) | Washington, District of Columbia, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior Software Engineer, Full Stack](https://boards.greenhouse.io/andurilindustries/jobs/5036672007?gh_jid=5036672007) | Costa Mesa, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior Software Engineer, Full Stack](https://boards.greenhouse.io/andurilindustries/jobs/4926796007?gh_jid=4926796007) | Irvine, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior Software Engineer, Generalist](https://boards.greenhouse.io/andurilindustries/jobs/5009098007?gh_jid=5009098007) | Costa Mesa, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior Software Engineer, Generalist](https://boards.greenhouse.io/andurilindustries/jobs/5009118007?gh_jid=5009118007) | Irvine, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior Software Engineering Manager, Simulation Platforms ](https://boards.greenhouse.io/andurilindustries/jobs/5171141007?gh_jid=5171141007) | Costa Mesa, California, United States; Washington, District of Columbia, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior Software Engineer, Manufacturing Test](https://boards.greenhouse.io/andurilindustries/jobs/5232402007?gh_jid=5232402007) | Atlanta, Georgia, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior Software Engineer, Manufacturing Test](https://boards.greenhouse.io/andurilindustries/jobs/5161501007?gh_jid=5161501007) | Costa Mesa, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior Software Engineer, Manufacturing Test](https://boards.greenhouse.io/andurilindustries/jobs/5161503007?gh_jid=5161503007) | Bellevue, Washington, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior Software Engineer, Manufacturing Test](https://boards.greenhouse.io/andurilindustries/jobs/5161510007?gh_jid=5161510007) | Mountain View, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior Software Engineer, Manufacturing Test (EagleEye)](https://boards.greenhouse.io/andurilindustries/jobs/5197698007?gh_jid=5197698007) | Costa Mesa, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior Software Engineer, Maritime](https://boards.greenhouse.io/andurilindustries/jobs/5182752007?gh_jid=5182752007) | Costa Mesa, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior Software Engineer - Maritime Integrated Systems](https://boards.greenhouse.io/andurilindustries/jobs/5219858007?gh_jid=5219858007) | Boston, Massachusetts, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior Software Engineer - Maritime Integrated Systems](https://boards.greenhouse.io/andurilindustries/jobs/5171110007?gh_jid=5171110007) | Quincy, Massachusetts, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior Software Engineer, Perception](https://boards.greenhouse.io/andurilindustries/jobs/5124926007?gh_jid=5124926007) | Costa Mesa, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior Software Engineer (Python), Intelligence Systems](https://boards.greenhouse.io/andurilindustries/jobs/5152227007?gh_jid=5152227007) | Reston, Virginia, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior Software Engineer, Quality Integration ](https://boards.greenhouse.io/andurilindustries/jobs/5199073007?gh_jid=5199073007) | Costa Mesa, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior Software Engineer, Robotics](https://boards.greenhouse.io/andurilindustries/jobs/5000127007?gh_jid=5000127007) | Irvine, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior Software Engineer, Robotics ](https://boards.greenhouse.io/andurilindustries/jobs/4932882007?gh_jid=4932882007) | Costa Mesa, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior Software Engineer, Robotics Tracking and Fusion](https://boards.greenhouse.io/andurilindustries/jobs/5236498007?gh_jid=5236498007) | Waltham, Massachusetts, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior Software Engineer, Robotics Tracking and Fusion](https://boards.greenhouse.io/andurilindustries/jobs/5236499007?gh_jid=5236499007) | Washington, District of Columbia, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior Software Engineer, Robotics Tracking and Fusion](https://boards.greenhouse.io/andurilindustries/jobs/5236502007?gh_jid=5236502007) | Fort Collins, Colorado, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior Software Engineer, Rust ](https://boards.greenhouse.io/andurilindustries/jobs/5236473007?gh_jid=5236473007) | Waltham, Massachusetts, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior Software Engineer, Rust ](https://boards.greenhouse.io/andurilindustries/jobs/5236470007?gh_jid=5236470007) | Broomfield, Colorado, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior Software Engineer, Satellite Command and Control](https://boards.greenhouse.io/andurilindustries/jobs/5182108007?gh_jid=5182108007) | Costa Mesa, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior Software Engineer, Satellite Command and Control](https://boards.greenhouse.io/andurilindustries/jobs/5225306007?gh_jid=5225306007) | Colorado Springs, Colorado, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior Software Engineer, Sensor Fusion](https://boards.greenhouse.io/andurilindustries/jobs/5228644007?gh_jid=5228644007) | Broomfield, Colorado, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior Software Engineer, Simulation Platform ](https://boards.greenhouse.io/andurilindustries/jobs/5088646007?gh_jid=5088646007) | Costa Mesa, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior Software Engineer, State Estimation ](https://boards.greenhouse.io/andurilindustries/jobs/5236474007?gh_jid=5236474007) | Broomfield, Colorado, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior Software Engineer, Tactical Networking](https://boards.greenhouse.io/andurilindustries/jobs/5118980007?gh_jid=5118980007) | Costa Mesa, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior Software Engineer, Tactical Networking](https://boards.greenhouse.io/andurilindustries/jobs/5237960007?gh_jid=5237960007) | Seattle, Washington, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior Software Engineer, Vehicle Software, V&V](https://boards.greenhouse.io/andurilindustries/jobs/4926678007?gh_jid=4926678007) | Costa Mesa, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior Software Engineer, Video ](https://boards.greenhouse.io/andurilindustries/jobs/5133360007?gh_jid=5133360007) | Costa Mesa, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior Software Engineer, Warfighter Systems ](https://boards.greenhouse.io/andurilindustries/jobs/5117558007?gh_jid=5117558007) | Bellevue, Washington, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior Software Platform Engineer, Intelligence Systems](https://boards.greenhouse.io/andurilindustries/jobs/5232810007?gh_jid=5232810007) | Reston, Virginia, United States | Discovered 2026-09-15
+- [ ] [Anduril — Senior Tracking Software Engineer, Space](https://boards.greenhouse.io/andurilindustries/jobs/5121947007?gh_jid=5121947007) | Foothill Ranch, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Site Reliability Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5236881007?gh_jid=5236881007) | Waltham, Massachusetts, United States | Discovered 2026-09-15
+- [ ] [Anduril — Site Reliability Engineer, Cyber](https://boards.greenhouse.io/andurilindustries/jobs/5236936007?gh_jid=5236936007) | Arlington, Virginia, United States | Discovered 2026-09-15
+- [ ] [Anduril — Software Engineer, Active Clearance, Air Defense](https://boards.greenhouse.io/andurilindustries/jobs/4939543007?gh_jid=4939543007) | Irvine, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Software Engineer, Agentic Modeling & Simulation](https://boards.greenhouse.io/andurilindustries/jobs/5184726007?gh_jid=5184726007) | Costa Mesa, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Software Engineer, Anvil](https://boards.greenhouse.io/andurilindustries/jobs/4932828007?gh_jid=4932828007) | Costa Mesa, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Software Engineer, Battlespace Awareness ](https://boards.greenhouse.io/andurilindustries/jobs/5236476007?gh_jid=5236476007) | Waltham, Massachusetts, United States | Discovered 2026-09-15
+- [ ] [Anduril — Software Engineer, Battlespace Awareness ](https://boards.greenhouse.io/andurilindustries/jobs/5236475007?gh_jid=5236475007) | Broomfield, Colorado, United States | Discovered 2026-09-15
+- [ ] [Anduril — Software Engineer, C++](https://boards.greenhouse.io/andurilindustries/jobs/5008367007?gh_jid=5008367007) | Costa Mesa, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Software Engineer, Connected Warfare (Active Clearance)](https://boards.greenhouse.io/andurilindustries/jobs/4263021007?gh_jid=4263021007) | Costa Mesa, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Software Engineer, Distributed Simulation](https://boards.greenhouse.io/andurilindustries/jobs/5228337007?gh_jid=5228337007) | Seattle, Washington, United States | Discovered 2026-09-15
+- [ ] [Anduril — Software Engineer (Frontend), Space](https://boards.greenhouse.io/andurilindustries/jobs/5138370007?gh_jid=5138370007) | Costa Mesa, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Software Engineer, Full Stack](https://boards.greenhouse.io/andurilindustries/jobs/4836302007?gh_jid=4836302007) | Irvine, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Software Engineer, Generalist](https://boards.greenhouse.io/andurilindustries/jobs/5009117007?gh_jid=5009117007) | Irvine, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Software Engineer, Ghost](https://boards.greenhouse.io/andurilindustries/jobs/4932891007?gh_jid=4932891007) | Costa Mesa, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Software Engineer, Manufacturing Test](https://boards.greenhouse.io/andurilindustries/jobs/5161517007?gh_jid=5161517007) | Bellevue, Washington, United States | Discovered 2026-09-15
+- [ ] [Anduril — Software Engineer, Manufacturing Test](https://boards.greenhouse.io/andurilindustries/jobs/5161512007?gh_jid=5161512007) | Costa Mesa, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Software Engineer, Manufacturing Test](https://boards.greenhouse.io/andurilindustries/jobs/5232395007?gh_jid=5232395007) | Atlanta, Georgia, United States | Discovered 2026-09-15
+- [ ] [Anduril — Software Engineer, Manufacturing Test](https://boards.greenhouse.io/andurilindustries/jobs/5161515007?gh_jid=5161515007) | Mountain View, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Software Engineer - Maritime](https://boards.greenhouse.io/andurilindustries/jobs/5131034007?gh_jid=5131034007) | Costa Mesa, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Software Engineer - Maritime Integrated Solutions](https://boards.greenhouse.io/andurilindustries/jobs/5220095007?gh_jid=5220095007) | Costa Mesa, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Software Engineer, Robotics](https://boards.greenhouse.io/andurilindustries/jobs/5102393007?gh_jid=5102393007) | Irvine, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Software Engineer, Robotics](https://boards.greenhouse.io/andurilindustries/jobs/4932360007?gh_jid=4932360007) | Irvine, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Software Engineer, Robotics Tracking and Fusion](https://boards.greenhouse.io/andurilindustries/jobs/5236493007?gh_jid=5236493007) | Waltham, Massachusetts, United States | Discovered 2026-09-15
+- [ ] [Anduril — Software Engineer, Robotics Tracking and Fusion](https://boards.greenhouse.io/andurilindustries/jobs/5236494007?gh_jid=5236494007) | Washington, District of Columbia, United States | Discovered 2026-09-15
+- [ ] [Anduril — Software Engineer, Robotics Tracking and Fusion](https://boards.greenhouse.io/andurilindustries/jobs/5236495007?gh_jid=5236495007) | Fort Collins, Colorado, United States | Discovered 2026-09-15
+- [ ] [Anduril — Software Engineer, Rust ](https://boards.greenhouse.io/andurilindustries/jobs/5236480007?gh_jid=5236480007) | Waltham, Massachusetts, United States | Discovered 2026-09-15
+- [ ] [Anduril — Software Engineer, Rust ](https://boards.greenhouse.io/andurilindustries/jobs/5236477007?gh_jid=5236477007) | Broomfield, Colorado, United States | Discovered 2026-09-15
+- [ ] [Anduril — Software Engineer, Satellite Command and Control](https://boards.greenhouse.io/andurilindustries/jobs/5225303007?gh_jid=5225303007) | Colorado Springs, Colorado, United States | Discovered 2026-09-15
+- [ ] [Anduril — Software Engineer, Satellite Command and Control](https://boards.greenhouse.io/andurilindustries/jobs/5179761007?gh_jid=5179761007) | Costa Mesa, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Software Engineer, Space Systems Test](https://boards.greenhouse.io/andurilindustries/jobs/4992181007?gh_jid=4992181007) | Costa Mesa, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Software Engineer, Strategic Defense](https://boards.greenhouse.io/andurilindustries/jobs/5234789007?gh_jid=5234789007) | Washington, District of Columbia, United States | Discovered 2026-09-15
+- [ ] [Anduril — Software Engineer, Strategic Defense](https://boards.greenhouse.io/andurilindustries/jobs/5234791007?gh_jid=5234791007) | Seattle, Washington, United States | Discovered 2026-09-15
+- [ ] [Anduril — Software Engineer, Strategic Defense](https://boards.greenhouse.io/andurilindustries/jobs/5234788007?gh_jid=5234788007) | Costa Mesa, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Software Engineer, Vehicle Software, V&V](https://boards.greenhouse.io/andurilindustries/jobs/4673813007?gh_jid=4673813007) | Costa Mesa, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Sr. Mission Software Engineer - Undersea Reconnaissance & Strike](https://boards.greenhouse.io/andurilindustries/jobs/5226472007?gh_jid=5226472007) | Boston, Massachusetts, United States | Discovered 2026-09-15
+- [ ] [Anduril — Sr. Mission Software Engineer - Undersea Reconnaissance & Strike](https://boards.greenhouse.io/andurilindustries/jobs/5226466007?gh_jid=5226466007) | Quincy, Massachusetts, United States | Discovered 2026-09-15
+- [ ] [Anduril — Staff CAD Platform Engineer (NX / Teamcenter)](https://boards.greenhouse.io/andurilindustries/jobs/5192830007?gh_jid=5192830007) | Costa Mesa, California, United States; Santa Ana, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Staff CAD Platform Engineer (NX / Teamcenter)](https://boards.greenhouse.io/andurilindustries/jobs/5192828007?gh_jid=5192828007) | Costa Mesa, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Staff Full-Stack Software Engineer, ArsenalOS Deployment](https://boards.greenhouse.io/andurilindustries/jobs/5172280007?gh_jid=5172280007) | Costa Mesa, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Staff Robotics Software Engineer, Air Vehicle Autonomy](https://boards.greenhouse.io/andurilindustries/jobs/4928029007?gh_jid=4928029007) | Costa Mesa, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Staff Robotics Software Engineer, Air Vehicle Autonomy](https://boards.greenhouse.io/andurilindustries/jobs/4946496007?gh_jid=4946496007) | Costa Mesa, California, United States; Washington, District of Columbia, United States | Discovered 2026-09-15
+- [ ] [Anduril — Staff Robotics Software Engineer, Tracking & Fusion](https://boards.greenhouse.io/andurilindustries/jobs/5121816007?gh_jid=5121816007) | Costa Mesa, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Staff Site Reliability Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5201151007?gh_jid=5201151007) | Costa Mesa, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Staff Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5209999007?gh_jid=5209999007) | Costa Mesa, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Staff Software Engineer, Active Clearance, Air Defense](https://boards.greenhouse.io/andurilindustries/jobs/4946549007?gh_jid=4946549007) | Irvine, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Staff Software Engineer, AI Platform ](https://boards.greenhouse.io/andurilindustries/jobs/4954897007?gh_jid=4954897007) | Costa Mesa, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Staff Software Engineer, Ghost](https://boards.greenhouse.io/andurilindustries/jobs/4933722007?gh_jid=4933722007) | Costa Mesa, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Staff Software Engineer, Quality Integration ](https://boards.greenhouse.io/andurilindustries/jobs/5199078007?gh_jid=5199078007) | Costa Mesa, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Staff Software Engineer, Robotics](https://boards.greenhouse.io/andurilindustries/jobs/4932363007?gh_jid=4932363007) | Irvine, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Staff Software Engineer, Security](https://boards.greenhouse.io/andurilindustries/jobs/4753186007?gh_jid=4753186007) | Costa Mesa, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Staff Software Engineer, Space Special Programs](https://boards.greenhouse.io/andurilindustries/jobs/5223371007?gh_jid=5223371007) | Chantilly, Virginia, United States; Herndon, Virginia, United States | Discovered 2026-09-15
+- [ ] [Anduril — Tracking Software Engineer, Space](https://boards.greenhouse.io/andurilindustries/jobs/5111994007?gh_jid=5111994007) | Foothill Ranch, California, United States | Discovered 2026-09-15
+- [ ] [Anduril — Winter 2027 Software Engineer Co-op](https://boards.greenhouse.io/andurilindustries/jobs/5236563007?gh_jid=5236563007) | Quincy, Massachusetts, United States | Discovered 2026-09-15
+- [ ] [True Anomaly — Data Engineer I](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5223279007) | Denver, CO or Long Beach, CA | Discovered 2026-09-15
+- [ ] [True Anomaly — DevOps Engineer I (New Grad)](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5218935007) | Denver, CO or Long Beach, CA. | Discovered 2026-09-15
+- [ ] [True Anomaly — Electrical Engineering Manager, eGSE](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5140261007) | Long Beach, CA | Discovered 2026-09-15
+- [ ] [True Anomaly — Engineering Manager, Autonomy](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5224053007) | Denver, CO or Long Beach, CA  | Discovered 2026-09-15
+- [ ] [True Anomaly — Engineering Manager, Electrical Engineering](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5091655007) | Denver, CO | Discovered 2026-09-15
+- [ ] [True Anomaly — Engineering Manager, Electro-Optical Systems](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5091641007) | Denver, CO or Long Beach, CA | Discovered 2026-09-15
+- [ ] [True Anomaly — Engineering Manager, Ground Software](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5142446007) | Denver, CO | Discovered 2026-09-15
+- [ ] [True Anomaly — Engineering Manager, Mechanisms ](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5091669007) | Denver, CO or Long Beach, CA | Discovered 2026-09-15
+- [ ] [True Anomaly — Engineering Manager, Propulsion Development and Test](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5217822007) | Denver, CO | Discovered 2026-09-15
+- [ ] [True Anomaly — Engineering Manager, Software (Modeling and Simulation)](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5140156007) | Denver, CO or Long Beach, CA | Discovered 2026-09-15
+- [ ] [True Anomaly — Flight Software Engineer II](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5090445007) | Denver, CO or Long Beach, CA  | Discovered 2026-09-15
+- [ ] [True Anomaly — Flight Software Engineer III](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5090448007) | Denver, CO or Long Beach, CA  | Discovered 2026-09-15
+- [ ] [True Anomaly — Flight Software Engineer I (New Grad)](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221572007) | Denver, CO or Long Beach, CA  | Discovered 2026-09-15
+- [ ] [True Anomaly — Machine Learning Engineer (II-III), Space Agentic AI](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5138856007) | Denver, CO or Long Beach, CA | Discovered 2026-09-15
+- [ ] [True Anomaly — Machine Learning Engineer (II-III), Space Edge Deployment](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5228067007) | Denver, Colorado or Long Beach, California | Discovered 2026-09-15
+- [ ] [True Anomaly — Platform Engineer, AI (Levels I, II, III)](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5166540007) | Denver, CO or Long Beach, CA | Discovered 2026-09-15
+- [ ] [True Anomaly — Principal Data Engineer](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5220130007) | Denver, CO or Long Beach, CA | Discovered 2026-09-15
+- [ ] [True Anomaly — Principal Flight Software Engineer](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5089134007) | Denver, CO or Long Beach, CA  | Discovered 2026-09-15
+- [ ] [True Anomaly — Principal Software Engineer, Spacecraft Simulation ](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5091767007) | Denver, CO or Long Beach, CA | Discovered 2026-09-15
+- [ ] [True Anomaly — Senior DevOps Engineer ](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5224739007) | Denver, CO or Long Beach, CA | Discovered 2026-09-15
+- [ ] [True Anomaly — Senior Flight Software Engineer](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5082183007) | Denver, CO or Long Beach, CA  | Discovered 2026-09-15
+- [ ] [True Anomaly — Senior Manager, Infrastructure Engineering   ](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5099702007) | Denver, CO or Long Beach, CA or SF Bay Area, CA | Discovered 2026-09-15
+- [ ] [True Anomaly — Senior Platform Engineer, AI](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5166543007) | Denver, CO or Long Beach, CA | Discovered 2026-09-15
+- [ ] [True Anomaly — Senior Platform Engineer, Infrastructure](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5182446007) | Denver, CO or Long Beach, CA | Discovered 2026-09-15
+- [ ] [True Anomaly — Senior Software Engineer, Elixir ](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5090419007) | Denver, CO or Long Beach, CA  | Discovered 2026-09-15
+- [ ] [True Anomaly — Senior Software Engineer, Full Stack](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5092038007) | Denver, CO or Long Beach, CA  | Discovered 2026-09-15
+- [ ] [True Anomaly — Senior Software Engineer, Spacecraft Simulation](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5091329007) | Denver, CO or Long Beach, CA | Discovered 2026-09-15
+- [ ] [True Anomaly —  Software Engineer I, Data Science (New Grad)](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221560007) | Denver, CO or Long Beach, CA | Discovered 2026-09-15
+- [ ] [True Anomaly — Software Engineer I, Elixir (New Grad)](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5232802007) | Denver, CO or Long Beach, CA  | Discovered 2026-09-15
+- [ ] [True Anomaly — Software Engineer I, Full Stack (New Grad)](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5092069007) | Denver, CO or Long Beach, CA  | Discovered 2026-09-15
+- [ ] [True Anomaly — Software Engineer II, Spacecraft Simulation ](https://job-boards.greenhouse.io/trueanomalyinc/jobs/4992652007) | Denver, CO or Long Beach, CA | Discovered 2026-09-15
+- [ ] [True Anomaly — Software Engineer I, Perception (New Grad)](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221970007) | Denver, CO or Long Beach, CA | Discovered 2026-09-15
+- [ ] [True Anomaly — Software Engineer I, QA (New Grad)](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5219057007) | Denver, CO or Long Beach, CA | Discovered 2026-09-15
+- [ ] [True Anomaly — Software Engineer I, Spacecraft Simulation (New Grad)](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221555007) | Denver, CO or Long Beach, CA | Discovered 2026-09-15
+- [ ] [True Anomaly — Staff Flight Software Engineer](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5089129007) | Denver, CO or Long Beach, CA  | Discovered 2026-09-15
+- [ ] [True Anomaly — Staff Platform Engineer, AI](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5166545007) | Denver, CO or Long Beach, CA | Discovered 2026-09-15
+- [ ] [True Anomaly — Staff Platform Engineer, Infrastructure](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5182480007) | Denver, CO or Long Beach, CA  | Discovered 2026-09-15
+- [ ] [True Anomaly — Staff Platform Engineer, Security](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5230702007) | Denver, CO or Long Beach, CA or SF Bay Area | Discovered 2026-09-15
+- [ ] [True Anomaly — Staff Software Engineer, Elixir ](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5091384007) | Denver, CO or Long Beach, CA  | Discovered 2026-09-15
+- [ ] [True Anomaly — Staff Software Engineer, Full Stack](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5091489007) | Denver, CO or Long Beach, CA  | Discovered 2026-09-15
+- [ ] [True Anomaly — Test Engineering Manager](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5099544007) | Denver, CO | Discovered 2026-09-15
+- [ ] [Vercel — Member of the Technical Staff, Financial Data Platform](https://job-boards.greenhouse.io/vercel/jobs/5895013004) | Hybrid - San Francisco, New York City | Discovered 2026-09-15
+- [ ] [Glean — Machine Learning Engineer, Search Quality](https://job-boards.greenhouse.io/gleanwork/jobs/4006735005) | Mountain View, CA | Discovered 2026-09-15
+- [ ] [Glean — Senior Technical Program Manager, Infrastructure](https://job-boards.greenhouse.io/gleanwork/jobs/4694770005) | Mountain View, CA | Discovered 2026-09-15
+- [ ] [Glean — Software Engineer, AI & Security](https://job-boards.greenhouse.io/gleanwork/jobs/4605446005) | Mountain View, CA | Discovered 2026-09-15
+- [ ] [Glean — Software Engineer, APIs & Context Platform](https://job-boards.greenhouse.io/gleanwork/jobs/4696752005) | Mountain View, CA | Discovered 2026-09-15
+- [ ] [Glean — Software Engineer, Billing & Revenue Platform](https://job-boards.greenhouse.io/gleanwork/jobs/4656281005) | Mountain View, CA | Discovered 2026-09-15
+- [ ] [Glean — Software Engineer, Storage](https://job-boards.greenhouse.io/gleanwork/jobs/4610281005) | Mountain View, CA | Discovered 2026-09-15
+- [ ] [Speechmatics — ML Data & Platform Engineer](https://job-boards.eu.greenhouse.io/speechmatics/jobs/4950383101) | Cambridge, England, United Kingdom | Discovered 2026-09-15
+- [ ] [Helsing — Machine Learning Engineer, Detection and Tracking](https://helsing.ai/jobs/4953562101?gh_jid=4953562101) | Washington, DC | Discovered 2026-09-15
+- [ ] [Helsing — Software Engineer, DevSecOps](https://helsing.ai/jobs/4953564101?gh_jid=4953564101) | Washington, DC | Discovered 2026-09-15
+- [ ] [Helsing — Software Engineer, Platform Engineering](https://helsing.ai/jobs/4953565101?gh_jid=4953565101) | Washington, DC | Discovered 2026-09-15
+- [ ] [Helsing — Software Engineer, Rust](https://helsing.ai/jobs/4953558101?gh_jid=4953558101) | Washington, DC | Discovered 2026-09-15
+- [ ] [HelloFresh — Area Manager I, Fulfillment](https://careers.hellofresh.com/global/en/job/8104373?gh_jid=8104373) | Goodyear, AZ, United States | Discovered 2026-09-15
+- [ ] [HelloFresh — Data Engineer, Operations Technology (all genders)](https://careers.hellofresh.com/global/en/job/8170849?gh_jid=8170849) | Warszawa, Masovian Voivodeship, Poland | Discovered 2026-09-15
+- [ ] [HelloFresh — Director, Global WMS Software Engineering and Product Design](https://careers.hellofresh.com/global/en/job/8125694?gh_jid=8125694) | Warszawa, Masovian Voivodeship, Poland | Discovered 2026-09-15
+- [ ] [HelloFresh — Fulfillment Associate](https://careers.hellofresh.com/global/en/job/8159938?gh_jid=8159938) | Lake Zurich, Illinois, United States | Discovered 2026-09-15
+- [ ] [HelloFresh — Fulfillment Operations Specialist](https://careers.hellofresh.com/global/en/job/7553086?gh_jid=7553086) | Manila, Manila, Philippines | Discovered 2026-09-15
+- [ ] [HelloFresh — Fulfillment Technology Analyst, Barleben DC (f/m/x)](https://careers.hellofresh.com/global/en/job/8095933?gh_jid=8095933) | Barleben, Saxony-Anhalt, Germany | Discovered 2026-09-15
+- [ ] [HelloFresh — Fulfillment Technology Analyst, Derby DC (f/m/x)](https://careers.hellofresh.com/global/en/job/8112268?gh_jid=8112268) | Derby, England, United Kingdom | Discovered 2026-09-15
+- [ ] [HelloFresh — Operations Manager, Fulfillment](https://careers.hellofresh.com/global/en/job/8137980?gh_jid=8137980) | Goodyear, AZ, United States | Discovered 2026-09-15
+- [ ] [HelloFresh — Senior GenAI Engineer, Inteligent Platforms](https://careers.hellofresh.com/global/en/job/8176698?gh_jid=8176698) | Warszawa, Masovian Voivodeship, Poland | Discovered 2026-09-15
+- [ ] [HelloFresh — Senior Staff Machine Learning Engineer, Menu Personalisation](https://careers.hellofresh.com/global/en/job/7988923?gh_jid=7988923) | Warszawa, Masovian Voivodeship, Poland | Discovered 2026-09-15
+- [ ] [HelloFresh — Staff Backend Engineer Consumer ](https://careers.hellofresh.com/global/en/job/8105156?gh_jid=8105156) | Warszawa, Masovian Voivodeship, Poland | Discovered 2026-09-15
+- [ ] [HelloFresh — Staff Software Engineer, Supply Chain Management Technology (all genders) ](https://careers.hellofresh.com/global/en/job/7988614?gh_jid=7988614) | Saarbrücken, Germany | Discovered 2026-09-15
+- [ ] [HelloFresh — Werksreiniger (m/w/d/x)](https://careers.hellofresh.com/global/en/job/8045980?gh_jid=8045980) | Verden, Niedersachsen, Germany | Discovered 2026-09-15
+- [ ] [SumUp — Backend Engineer - Cards](https://sumup.com/careers/positions/8583427002?gh_jid=8583427002) | Sofia, Bulgaria | Discovered 2026-09-15
+- [ ] [SumUp — Backend Engineer- Global Bank](https://sumup.com/careers/positions/6651430002?gh_jid=6651430002) | Sofia, Bulgaria | Discovered 2026-09-15
+- [ ] [SumUp — Backend Engineer (Golang) - Bank Balance](https://sumup.com/careers/positions/8785611002?gh_jid=8785611002) | Vilnius, Lithuania | Discovered 2026-09-15
+- [ ] [SumUp — Backend Engineer (Golang) - Transfers Europe](https://sumup.com/careers/positions/8785999002?gh_jid=8785999002) | Vilnius, Lithuania | Discovered 2026-09-15
+- [ ] [SumUp — Backend Engineer (Kotlin) - Money Transfers](https://sumup.com/careers/positions/8682297002?gh_jid=8682297002) | Sofia, Bulgaria | Discovered 2026-09-15
+- [ ] [SumUp — Engineering Manager - Payments Tribe ](https://sumup.com/careers/positions/8063881002?gh_jid=8063881002) | Sofia, Bulgaria | Discovered 2026-09-15
+- [ ] [SumUp — Engineering Manager - Verification](https://sumup.com/careers/positions/8507674002?gh_jid=8507674002) | Sofia, Bulgaria | Discovered 2026-09-15
+- [ ] [SumUp — (Senior) Backend Engineer](https://sumup.com/careers/positions/8671401002?gh_jid=8671401002) | São Paulo, Brazil | Discovered 2026-09-15
+- [ ] [SumUp — Senior Backend Engineer](https://sumup.com/careers/positions/8586092002?gh_jid=8586092002) | Florianópolis, Santa Catarina, Brazil | Discovered 2026-09-15
+- [ ] [SumUp — Senior Backend Engineer - Commercial Systems and Intelligence](https://sumup.com/careers/positions/8754667002?gh_jid=8754667002) | Cologne, Germany | Discovered 2026-09-15
+- [ ] [SumUp — (Senior) Backend Engineer - Golang ](https://sumup.com/careers/positions/8645259002?gh_jid=8645259002) | Sofia, Bulgaria | Discovered 2026-09-15
+- [ ] [SumUp — (Senior) Backend Engineer - Golang ](https://sumup.com/careers/positions/8745286002?gh_jid=8745286002) | Vilnius, Lithuania | Discovered 2026-09-15
+- [ ] [SumUp — (Senior) Backend Engineer (Golang) - Bank](https://sumup.com/careers/positions/8785374002?gh_jid=8785374002) | Vilnius, Lithuania | Discovered 2026-09-15
+- [ ] [SumUp — (Senior/Mid) Software Engineer, Golang - Payments Platform](https://sumup.com/careers/positions/8520784002?gh_jid=8520784002) | Sofia, Bulgaria | Discovered 2026-09-15
+- [ ] [SumUp — Senior Software Engineer (Golang)-  Payments Experience](https://sumup.com/careers/positions/8690241002?gh_jid=8690241002) | Sofia, Bulgaria | Discovered 2026-09-15
+- [ ] [SumUp — Senior Software Engineer (Golang) – Pricing Domain](https://sumup.com/careers/positions/8749656002?gh_jid=8749656002) | Sofia, Bulgaria | Discovered 2026-09-15
+- [ ] [SumUp — Senior Software Engineer (Lending Team)](https://sumup.com/careers/positions/8769169002?gh_jid=8769169002) | São Paulo, São Paulo, Brazil | Discovered 2026-09-15
+- [ ] [Scandit — Senior Backend Engineer - Shelfview](https://www.scandit.com/careers/job-description/?gh_jid=8179821) | Tampere | Discovered 2026-09-15
+- [ ] [Wayve — Application Software Engineer](https://wayve.firststage.co/jobs?gh_jid=8632691002) | Israel | Discovered 2026-09-15
+- [ ] [Wayve — Application Software Engineer](https://wayve.firststage.co/jobs?gh_jid=8431122002) | Germany | Discovered 2026-09-15
+- [ ] [Wayve — Applied Scientist / Machine Learning Engineer](https://wayve.firststage.co/jobs?gh_jid=8614636002) | Sunnyvale | Discovered 2026-09-15
+- [ ] [Wayve — Data Engineer](https://wayve.firststage.co/jobs?gh_jid=8644800002) | Germany | Discovered 2026-09-15
+- [ ] [Wayve — Data Engineer, Application Software](https://wayve.firststage.co/jobs?gh_jid=8804208002) | Japan | Discovered 2026-09-15
+- [ ] [Wayve — Data Engineer, Security Analytics](https://wayve.firststage.co/jobs?gh_jid=8716080002) | Sunnyvale | Discovered 2026-09-15
+- [ ] [Wayve — Engineering Manager, Cloud Infrastructure ](https://wayve.firststage.co/jobs?gh_jid=8735504002) | Sunnyvale | Discovered 2026-09-15
+- [ ] [Wayve — Engineering Manager, OS, Robot Software](https://wayve.firststage.co/jobs?gh_jid=8747666002) | Sunnyvale | Discovered 2026-09-15
+- [ ] [Wayve — Engineering Manager, SRE – AV Fleet, Japan](https://wayve.firststage.co/jobs?gh_jid=8780872002) | Japan | Discovered 2026-09-15
+- [ ] [Wayve — Full Stack Software Engineer, Evaluation Tools](https://wayve.firststage.co/jobs?gh_jid=8733546002) | Sunnyvale | Discovered 2026-09-15
+- [ ] [Wayve — Lead Technical Program Manager, Data ](https://wayve.firststage.co/jobs?gh_jid=8625514002) | Sunnyvale | Discovered 2026-09-15
+- [ ] [Wayve — Machine Learning Engineer](https://wayve.firststage.co/jobs?gh_jid=8431120002) | Germany | Discovered 2026-09-15
+- [ ] [Wayve — Machine Learning Engineer](https://wayve.firststage.co/jobs?gh_jid=8809685002) | Japan | Discovered 2026-09-15
+- [ ] [Wayve — Machine Learning Engineer, ADAS](https://wayve.firststage.co/jobs?gh_jid=8622133002) | Israel | Discovered 2026-09-15
+- [ ] [Wayve — Machine Learning Engineer, App SW](https://wayve.firststage.co/jobs?gh_jid=8568694002) | Detroit | Discovered 2026-09-15
+- [ ] [Wayve — Machine Learning Engineering Manager, App SW](https://wayve.firststage.co/jobs?gh_jid=8568364002) | Detroit | Discovered 2026-09-15
+- [ ] [Wayve — Principal Machine Learning Engineer, Geometric Vision](https://wayve.firststage.co/jobs?gh_jid=8724862002) | Sunnyvale | Discovered 2026-09-15
+- [ ] [Wayve — Senior Machine Learning Engineer, Search & Index](https://wayve.firststage.co/jobs?gh_jid=8755425002) | Sunnyvale | Discovered 2026-09-15
+- [ ] [Wayve — Senior Machine Learning Engineer, Vision Models](https://wayve.firststage.co/jobs?gh_jid=8728757002) | Sunnyvale | Discovered 2026-09-15
+- [ ] [Wayve — Senior Network & Infrastructure Engineer ](https://wayve.firststage.co/jobs?gh_jid=8745604002) | Israel | Discovered 2026-09-15
+- [ ] [Wayve — Senior Site Reliability Engineer, Vehicle SW](https://wayve.firststage.co/jobs?gh_jid=8615440002) | Germany | Discovered 2026-09-15
+- [ ] [Wayve — Senior Software Engineer, Fleet Management](https://wayve.firststage.co/jobs?gh_jid=8732317002) | Sunnyvale | Discovered 2026-09-15
+- [ ] [Wayve — Senior Software Engineer - OS, Robot Software](https://wayve.firststage.co/jobs?gh_jid=8731884002) | Sunnyvale | Discovered 2026-09-15
+- [ ] [Wayve — Senior Software Engineer - Sensor Systems, Robot Software](https://wayve.firststage.co/jobs?gh_jid=8697184002) | Sunnyvale | Discovered 2026-09-15
+- [ ] [Wayve — Site Reliability Engineering Manager, Vehicle Software](https://wayve.firststage.co/jobs?gh_jid=8728803002) | Sunnyvale | Discovered 2026-09-15
+- [ ] [Wayve — Site Reliability Engineer, Vehicle Software](https://wayve.firststage.co/jobs?gh_jid=8758604002) | Sunnyvale | Discovered 2026-09-15
+- [ ] [Wayve — Software Engineer, Data Flywheel Platform](https://wayve.firststage.co/jobs?gh_jid=8752578002) | Sunnyvale | Discovered 2026-09-15
+- [ ] [Wayve — Software Engineer, Fleet Management](https://wayve.firststage.co/jobs?gh_jid=8735204002) | Sunnyvale | Discovered 2026-09-15
+- [ ] [Wayve — Staff Machine Learning Engineer, Vision Models](https://wayve.firststage.co/jobs?gh_jid=8614457002) | Sunnyvale | Discovered 2026-09-15
+- [ ] [Wayve — Staff / Senior Machine Learning Engineer, AV Core](https://wayve.firststage.co/jobs?gh_jid=8562545002) | Sunnyvale | Discovered 2026-09-15
+- [ ] [Wayve — Staff / Senior Machine Learning Engineer, Reinforcement Learning](https://wayve.firststage.co/jobs?gh_jid=8795692002) | Sunnyvale | Discovered 2026-09-15
+- [ ] [PhysicsX — Devops Engineer](https://job-boards.eu.greenhouse.io/physicsx/jobs/4975926101) | New York, United States | Discovered 2026-09-15
+- [ ] [Fivetran — Engineering Manager, Metadata](https://www.fivetran.com/careers/job?gh_jid=7859203003) | Oakland, California, United States | Discovered 2026-09-15
+- [ ] [Fivetran — Global Technology Alliance Manager, Databricks](https://www.fivetran.com/careers/job?gh_jid=7996531003) | Remote, Texas, United States, AMER | Discovered 2026-09-15
+- [ ] [Fivetran — Global Technology Alliance Manager, Databricks](https://www.fivetran.com/careers/job?gh_jid=7985859003) | Remote, Colorado, United States, AMER | Discovered 2026-09-15
+- [ ] [Fivetran — Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7688580003) | Oakland, California, United States, AMER | Discovered 2026-09-15
+- [ ] [Fivetran — Senior Software Engineer](https://www.fivetran.com/careers/job?gh_jid=7809452003) | Bengaluru, Karnataka, India, APAC | Discovered 2026-09-15
+- [ ] [Fivetran — Senior Software Engineer](https://www.fivetran.com/careers/job?gh_jid=7780075003) | Bengaluru, Karnataka, India, APAC | Discovered 2026-09-15
+- [ ] [Fivetran — Senior Software Engineer - Connectors](https://www.fivetran.com/careers/job?gh_jid=7893975003) | Bengaluru, Karnataka, India, APAC | Discovered 2026-09-15
+- [ ] [Fivetran — Senior Software Engineer - Developer Productivity](https://www.fivetran.com/careers/job?gh_jid=7818306003) | Bengaluru, Karnataka, India, APAC | Discovered 2026-09-15
+- [ ] [Fivetran — Senior Software Engineer - Metadata](https://www.fivetran.com/careers/job?gh_jid=7818374003) | Ontario, Canada | Discovered 2026-09-15
+- [ ] [Fivetran — Senior Staff Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7990752003) | Oakland, California, United States, AMER | Discovered 2026-09-15
+- [ ] [Fivetran — Senior Staff Software Engineer](https://www.fivetran.com/careers/job?gh_jid=7976827003) | Oakland, California, United States | Discovered 2026-09-15
+- [ ] [Fivetran — Software Engineer ](https://www.fivetran.com/careers/job?gh_jid=7811889003) | Oakland, California, United States, AMER | Discovered 2026-09-15
+- [ ] [Fivetran — Staff Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7723267003) | Bengaluru, Karnataka, India, APAC | Discovered 2026-09-15
+- [ ] [Fivetran — Staff Software Engineer - Developer Productivity](https://www.fivetran.com/careers/job?gh_jid=7818252003) | Bengaluru, Karnataka, India, APAC | Discovered 2026-09-15
+- [ ] [Fivetran — Staff Software Engineer - Full Stack](https://www.fivetran.com/careers/job?gh_jid=7818226003) | Bengaluru, Karnataka, India, APAC | Discovered 2026-09-15
+- [ ] [Fivetran — Staff Software Engineer_Fusion Adapters](https://www.fivetran.com/careers/job?gh_jid=7818250003) | Bengaluru, Karnataka, India, APAC | Discovered 2026-09-15
+- [ ] [Fivetran — Staff Software Engineer - Infrastructure](https://www.fivetran.com/careers/job?gh_jid=7818294003) | Bengaluru, Karnataka, India, APAC | Discovered 2026-09-15
+- [ ] [Samsara — AI Engineer, Customer Success](https://www.samsara.com/company/careers/roles/8024110?gh_jid=8024110) | Remote - US | Discovered 2026-09-15
+- [ ] [Samsara — AI Engineering Manager](https://www.samsara.com/company/careers/roles/8020028?gh_jid=8020028) | Bengaluru - BLR1 | Discovered 2026-09-15
+- [ ] [Samsara — IT Engineering Manager II](https://www.samsara.com/company/careers/roles/8180373?gh_jid=8180373) | Remote - US | Discovered 2026-09-15
+- [ ] [Samsara — Senior Machine Learning Engineer](https://www.samsara.com/company/careers/roles/8055245?gh_jid=8055245) | Remote - US | Discovered 2026-09-15
+- [ ] [Samsara — Senior Software Engineer - AI Safety Detection Precision](https://www.samsara.com/company/careers/roles/7966918?gh_jid=7966918) | London - UK2; Remote - UK | Discovered 2026-09-15
+- [ ] [Samsara — Senior Software Engineer - Commercial Navigation](https://www.samsara.com/company/careers/roles/7892026?gh_jid=7892026) | Remote - US | Discovered 2026-09-15
+- [ ] [Samsara — Senior Software Engineer II](https://www.samsara.com/company/careers/roles/8063736?gh_jid=8063736) | Remote - US | Discovered 2026-09-15
+- [ ] [Samsara — Staff Software Engineer - Platform and Infrastructure](https://www.samsara.com/company/careers/roles/7266287?gh_jid=7266287) | Bengaluru - BLR1 | Discovered 2026-09-15
+- [ ] [Chainguard — Senior Software Engineer (Athena)](https://job-boards.greenhouse.io/chainguard/jobs/4713200006) | United States - Remote | Discovered 2026-09-15
+- [ ] [Chainguard — Senior Software Engineer, Sustaining Automation ](https://job-boards.greenhouse.io/chainguard/jobs/4712233006) | Canada - Remote; United States - Remote | Discovered 2026-09-15
+- [ ] [Chainguard — Staff Software Engineer (Malware Detection)](https://job-boards.greenhouse.io/chainguard/jobs/4713466006) | United States - Remote | Discovered 2026-09-15
+- [ ] [Chainguard — Staff Software Engineer (Malware Detection)](https://job-boards.greenhouse.io/chainguard/jobs/4713469006) | Canada - Remote | Discovered 2026-09-15
+- [ ] [Chainguard — Staff Software Engineer, Sustaining Automation ](https://job-boards.greenhouse.io/chainguard/jobs/4712228006) | United States - Remote | Discovered 2026-09-15
+- [ ] [Scale AI — DevOps Engineer, Infrastructure & Security](https://job-boards.greenhouse.io/scaleai/jobs/4674863005) | Washington, DC | Discovered 2026-09-15
+- [ ] [Scale AI — Engineering Manager, Connectivity](https://job-boards.greenhouse.io/scaleai/jobs/4733702005) | San Francisco, CA; New York, NY | Discovered 2026-09-15
+- [ ] [Scale AI — Engineering Manager, Frontier AI Infrastructure - Public Sector ](https://job-boards.greenhouse.io/scaleai/jobs/4732365005) | Washington, DC | Discovered 2026-09-15
+- [ ] [Scale AI — Engineering Manager, Saudi Arabia](https://job-boards.greenhouse.io/scaleai/jobs/4709132005) | Riyadh, Saudi Arabia | Discovered 2026-09-15
+- [ ] [Scale AI — Machine Learning Engineer, Public Sector](https://job-boards.greenhouse.io/scaleai/jobs/4631848005) | Denver, CO; Honolulu, HI; Washington, DC | Discovered 2026-09-15
+- [ ] [Scale AI — Senior Full-Stack Software Engineer, (Forward deployed), GPS](https://job-boards.greenhouse.io/scaleai/jobs/4732394005) | Riyadh, Saudi Arabia | Discovered 2026-09-15
+- [ ] [Scale AI — Senior Full-Stack Software Engineer, (Forward Deployed), GPS](https://job-boards.greenhouse.io/scaleai/jobs/4676606005) | Doha, Qatar  | Discovered 2026-09-15
+- [ ] [Scale AI — Senior Machine Learning Engineer, Public Sector](https://job-boards.greenhouse.io/scaleai/jobs/4732798005) | Denver, CO; Honolulu, HI; Washington, DC | Discovered 2026-09-15
+- [ ] [Scale AI — Senior Software Engineer, AI Operations, GPS](https://job-boards.greenhouse.io/scaleai/jobs/4725133005) | Doha, Qatar  | Discovered 2026-09-15
+- [ ] [Scale AI — Senior Software Engineer, Platform](https://job-boards.greenhouse.io/scaleai/jobs/4730512005) | San Francisco, CA; New York, NY | Discovered 2026-09-15
+- [ ] [Scale AI — Software Engineer (Backend), Enterprise](https://job-boards.greenhouse.io/scaleai/jobs/4630032005) | Budapest, Hungary | Discovered 2026-09-15
+- [ ] [Scale AI — Software Engineer - New Grad](https://job-boards.greenhouse.io/scaleai/jobs/4730836005) | San Francisco, CA | Discovered 2026-09-15
+- [ ] [Scale AI — Software Engineer - New Grad](https://job-boards.greenhouse.io/scaleai/jobs/4730851005) | Doha, Qatar  | Discovered 2026-09-15
+- [ ] [Scale AI — Software Engineer, Robotics](https://job-boards.greenhouse.io/scaleai/jobs/4612282005) | Argentina; Uruguay | Discovered 2026-09-15
+- [ ] [Scale AI — Staff Full-Stack Software Engineer, (Forward Deployed), GPS](https://job-boards.greenhouse.io/scaleai/jobs/4732430005) | Riyadh, Saudi Arabia | Discovered 2026-09-15
+- [ ] [Scale AI — Staff FullStack Software Engineer, (Forward Deployed), GPS](https://job-boards.greenhouse.io/scaleai/jobs/4673314005) | Doha, Qatar  | Discovered 2026-09-15
+- [ ] [Scale AI — Staff Machine Learning Engineer, Public Sector](https://job-boards.greenhouse.io/scaleai/jobs/4654382005) | Denver, CO; Washington, DC | Discovered 2026-09-15
+- [ ] [Scale AI — Staff Software Engineer, RL Environments  ](https://job-boards.greenhouse.io/scaleai/jobs/4729820005) | San Francisco, CA; New York, NY | Discovered 2026-09-15
+- [ ] [Scale AI — Team Lead, ARC Software Engineering Team](https://job-boards.greenhouse.io/scaleai/jobs/4717701005) | Washington, DC | Discovered 2026-09-15
+- [ ] [Databricks — AI Engineer - FDE (Forward Deployed Engineer)](https://databricks.com/company/careers/open-positions/job?gh_jid=8574655002) | Seoul, South Korea | Discovered 2026-09-15
+- [ ] [Databricks — AI Engineer - FDE (Forward Deployed Engineer) - U.S. Federal Sector](https://databricks.com/company/careers/open-positions/job?gh_jid=8760167002) | Maryland; Virginia; Washington, D.C. | Discovered 2026-09-15
+- [ ] [Databricks — Director of Engineering (Data Infrastructure)](https://databricks.com/company/careers/open-positions/job?gh_jid=8290810002) | Bengaluru, India | Discovered 2026-09-15
+- [ ] [Databricks — Engineering Manager, App Traffic](https://databricks.com/company/careers/open-positions/job?gh_jid=8786930002) | Mountain View, California | Discovered 2026-09-15
+- [ ] [Databricks — Engineering Manager - Backend](https://databricks.com/company/careers/open-positions/job?gh_jid=7439442002) | Bengaluru, India | Discovered 2026-09-15
+- [ ] [Databricks — Engineering Manager - Core Experiences ](https://databricks.com/company/careers/open-positions/job?gh_jid=7006090002) | Bengaluru, India | Discovered 2026-09-15
+- [ ] [Databricks — Engineering Manager - Data Visualization Platform](https://databricks.com/company/careers/open-positions/job?gh_jid=8578093002) | Bellevue, Washington | Discovered 2026-09-15
+- [ ] [Databricks — Engineering Manager (Ingestion)](https://databricks.com/company/careers/open-positions/job?gh_jid=8357216002) | Bengaluru, India | Discovered 2026-09-15
+- [ ] [Databricks — Field Engineering Manager, Specialist Solutions Architects](https://databricks.com/company/careers/open-positions/job?gh_jid=8785065002) | Seoul, South Korea | Discovered 2026-09-15
+- [ ] [Databricks — Field Engineering Manager, Specialist Solutions Architects - Nordics](https://databricks.com/company/careers/open-positions/job?gh_jid=8677627002) | Sweden | Discovered 2026-09-15
+- [ ] [Databricks — Manager, Engineering - AI/BI](https://databricks.com/company/careers/open-positions/job?gh_jid=8176503002) | Vancouver, Canada | Discovered 2026-09-15
+- [ ] [Databricks — Senior Applied AI Engineer](https://databricks.com/company/careers/open-positions/job?gh_jid=8091041002) | Belgrade, Serbia | Discovered 2026-09-15
+- [ ] [Databricks — Senior Engineering Manager - Backend ](https://databricks.com/company/careers/open-positions/job?gh_jid=7495457002) | Bengaluru, India | Discovered 2026-09-15
+- [ ] [Databricks — Senior Engineering Manager - Enzyme](https://databricks.com/company/careers/open-positions/job?gh_jid=8109902002) | Mountain View, California | Discovered 2026-09-15
+- [ ] [Databricks — Senior Engineering Manager for Self-Serve (Learning)](https://databricks.com/company/careers/open-positions/job?gh_jid=7987657002) | Mountain View, California | Discovered 2026-09-15
+- [ ] [Databricks — Senior Manager, Infrastructure Data Science](https://databricks.com/company/careers/open-positions/job?gh_jid=7641390002) | Mountain View, California | Discovered 2026-09-15
+- [ ] [Databricks — Senior Software Engineer (App-Framework)](https://databricks.com/company/careers/open-positions/job?gh_jid=8294304002) | Bengaluru, India | Discovered 2026-09-15
+- [ ] [Databricks — Senior Software Engineer (App-Framework)](https://databricks.com/company/careers/open-positions/job?gh_jid=8210383002) | Bengaluru, India | Discovered 2026-09-15
+- [ ] [Databricks — Senior Software Engineer - Backend](https://databricks.com/company/careers/open-positions/job?gh_jid=8320183002) | Bengaluru, India | Discovered 2026-09-15
+- [ ] [Databricks — Senior Software Engineer - Backend](https://databricks.com/company/careers/open-positions/job?gh_jid=8012803002) | Belgrade, Serbia | Discovered 2026-09-15
+- [ ] [Databricks — Senior Software Engineer - Backend](https://databricks.com/company/careers/open-positions/job?gh_jid=8093295002) | Vancouver, Canada | Discovered 2026-09-15
+- [ ] [Databricks — Senior Software Engineer (Backend)](https://databricks.com/company/careers/open-positions/job?gh_jid=6709301002) | Bengaluru, India | Discovered 2026-09-15
+- [ ] [Databricks — Senior Software Engineer, Compute Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=8806934002) | Mountain View, California | Discovered 2026-09-15
+- [ ] [Databricks — Senior Software Engineer - Data + AI Observability](https://databricks.com/company/careers/open-positions/job?gh_jid=7897431002) | Bengaluru, India | Discovered 2026-09-15
+- [ ] [Databricks — Senior Software Engineer (Data Platform)](https://databricks.com/company/careers/open-positions/job?gh_jid=7647369002) | Bengaluru, India | Discovered 2026-09-15
+- [ ] [Databricks — Senior Software Engineer - Distributed Data Systems](https://databricks.com/company/careers/open-positions/job?gh_jid=8012800002) | Belgrade, Serbia | Discovered 2026-09-15
+- [ ] [Databricks — Senior Software Engineer - Fullstack](https://databricks.com/company/careers/open-positions/job?gh_jid=8099342002) | Vancouver, Canada | Discovered 2026-09-15
+- [ ] [Databricks — Senior Software Engineer (Infra)](https://databricks.com/company/careers/open-positions/job?gh_jid=7619810002) | Bengaluru, India | Discovered 2026-09-15
+- [ ] [Databricks — Senior Software Engineer - Ingestion](https://databricks.com/company/careers/open-positions/job?gh_jid=7934782002) | Bengaluru, India | Discovered 2026-09-15
+- [ ] [Databricks — Senior Software Engineer (Money)](https://databricks.com/company/careers/open-positions/job?gh_jid=7654347002) | Bengaluru, India | Discovered 2026-09-15
+- [ ] [Databricks — Senior Software Engineer - Multi Cloud Efficiency](https://databricks.com/company/careers/open-positions/job?gh_jid=8602402002) | Bengaluru, India | Discovered 2026-09-15
+- [ ] [Databricks — Senior Software Engineer- Networking](https://databricks.com/company/careers/open-positions/job?gh_jid=7647353002) | Bengaluru, India | Discovered 2026-09-15
+- [ ] [Databricks — Senior Software Engineer - Observability](https://databricks.com/company/careers/open-positions/job?gh_jid=7619811002) | Bengaluru, India | Discovered 2026-09-15
+- [ ] [Databricks — Senior Software Engineer - Partner Ecosystem](https://databricks.com/company/careers/open-positions/job?gh_jid=7938410002) | Bengaluru, India | Discovered 2026-09-15
+- [ ] [Databricks — Senior Software Engineer - Search](https://databricks.com/company/careers/open-positions/job?gh_jid=7841782002) | Bengaluru, India | Discovered 2026-09-15
+- [ ] [Databricks — Senior Staff Software Engineer - Backend](https://databricks.com/company/careers/open-positions/job?gh_jid=8421894002) | Bengaluru, India | Discovered 2026-09-15
+- [ ] [Databricks — Senior Staff Software Engineer (Backend)](https://databricks.com/company/careers/open-positions/job?gh_jid=7651326002) | Bengaluru, India | Discovered 2026-09-15
+- [ ] [Databricks — Senior Staff Software Engineer (Backend)](https://databricks.com/company/careers/open-positions/job?gh_jid=7651345002) | Bengaluru, India | Discovered 2026-09-15
+- [ ] [Databricks — Senior Staff Software Engineer - Delta](https://databricks.com/company/careers/open-positions/job?gh_jid=8303017002) | Zürich, Switzerland | Discovered 2026-09-15
+- [ ] [Databricks — Senior Staff Software Engineer- Networking](https://databricks.com/company/careers/open-positions/job?gh_jid=8433583002) | Bengaluru, India | Discovered 2026-09-15
+- [ ] [Databricks — Senior Staff Software Engineer- Search Quality](https://databricks.com/company/careers/open-positions/job?gh_jid=8439350002) | Bengaluru, India | Discovered 2026-09-15
+- [ ] [Databricks — Senior Staff Software Engineer - Unity Catalog Runtime Enforcement ](https://databricks.com/company/careers/open-positions/job?gh_jid=8422483002) | Zürich, Switzerland | Discovered 2026-09-15
+- [ ] [Databricks — Software Engineer - Backend](https://databricks.com/company/careers/open-positions/job?gh_jid=7737233002) | Aarhus, Denmark | Discovered 2026-09-15
+- [ ] [Databricks — Software Engineer - Backend](https://databricks.com/company/careers/open-positions/job?gh_jid=8012650002) | Belgrade, Serbia | Discovered 2026-09-15
+- [ ] [Databricks — Software Engineer - Distributed Data Systems](https://databricks.com/company/careers/open-positions/job?gh_jid=8012691002) | Belgrade, Serbia | Discovered 2026-09-15
+- [ ] [Databricks — Specialist Solutions Architect - Data Engineering & Warehousing (Digital Native Business) ](https://databricks.com/company/careers/open-positions/job?gh_jid=8761732002) | United States | Discovered 2026-09-15
+- [ ] [Databricks — Sr. IT Site Reliability Software Engineer](https://databricks.com/company/careers/open-positions/job?gh_jid=8493168002) | Costa Rica | Discovered 2026-09-15
+- [ ] [Databricks — Sr. Manager, Engineering  Configuration Platform Team](https://databricks.com/company/careers/open-positions/job?gh_jid=8567602002) | Bellevue, Washington | Discovered 2026-09-15
+- [ ] [Databricks — Sr. Manager, Engineering - Search](https://databricks.com/company/careers/open-positions/job?gh_jid=7959180002) | Mountain View, California | Discovered 2026-09-15
+- [ ] [Databricks — Sr Software Engineer, Agentic Applications](https://databricks.com/company/careers/open-positions/job?gh_jid=8220814002) | Mountain View, California | Discovered 2026-09-15
+- [ ] [Databricks — Sr Software Engineer - Backend](https://databricks.com/company/careers/open-positions/job?gh_jid=7955601002) | Bengaluru, India | Discovered 2026-09-15
+- [ ] [Databricks — Sr. Software Engineer - Observability](https://databricks.com/company/careers/open-positions/job?gh_jid=7925560002) | Bengaluru, India | Discovered 2026-09-15
+- [ ] [Databricks — Sr Software Engineer -Public Sector](https://databricks.com/company/careers/open-positions/job?gh_jid=8512856002) | McLean, Virginia | Discovered 2026-09-15
+- [ ] [Databricks — Sr Staff Software Engineer (Backend)](https://databricks.com/company/careers/open-positions/job?gh_jid=7630152002) | Bengaluru, India | Discovered 2026-09-15
+- [ ] [Databricks — Sr.Staff Software Engineer- Network Platform](https://databricks.com/company/careers/open-positions/job?gh_jid=8462811002) | Bengaluru, India | Discovered 2026-09-15
+- [ ] [Databricks — Staff Software Engineer ](https://databricks.com/company/careers/open-positions/job?gh_jid=7651346002) | Bengaluru, India | Discovered 2026-09-15
+- [ ] [Databricks — Staff Software Engineer - Access Management](https://databricks.com/company/careers/open-positions/job?gh_jid=8691490002) | Bellevue, Washington | Discovered 2026-09-15
+- [ ] [Databricks — Staff Software Engineer, AI Native Web Platform](https://databricks.com/company/careers/open-positions/job?gh_jid=8560783002) | Mountain View, California | Discovered 2026-09-15
+- [ ] [Databricks — Staff Software Engineer - Backend](https://databricks.com/company/careers/open-positions/job?gh_jid=8012814002) | Belgrade, Serbia | Discovered 2026-09-15
+- [ ] [Databricks — Staff Software Engineer - Backend](https://databricks.com/company/careers/open-positions/job?gh_jid=8320187002) | Bengaluru, India | Discovered 2026-09-15
+- [ ] [Databricks — Staff Software Engineer - Backend ](https://databricks.com/company/careers/open-positions/job?gh_jid=8093293002) | Vancouver, Canada | Discovered 2026-09-15
+- [ ] [Databricks — Staff Software Engineer (Core Experiences) ](https://databricks.com/company/careers/open-positions/job?gh_jid=6716344002) | Bengaluru, India | Discovered 2026-09-15
+- [ ] [Databricks — Staff Software Engineer - Databases](https://databricks.com/company/careers/open-positions/job?gh_jid=7601565002) | Bengaluru, India | Discovered 2026-09-15
+- [ ] [Databricks — Staff Software Engineer - Data Platform](https://databricks.com/company/careers/open-positions/job?gh_jid=7601572002) | Bengaluru, India | Discovered 2026-09-15
+- [ ] [Databricks — Staff Software Engineer (Data Platform)](https://databricks.com/company/careers/open-positions/job?gh_jid=7652016002) | Bengaluru, India | Discovered 2026-09-15
+- [ ] [Databricks — Staff Software Engineer - Distributed Data Systems](https://databricks.com/company/careers/open-positions/job?gh_jid=8012831002) | Belgrade, Serbia | Discovered 2026-09-15
+- [ ] [Databricks — Staff Software Engineer - Fullstack](https://databricks.com/company/careers/open-positions/job?gh_jid=8037500002) | Bengaluru, India | Discovered 2026-09-15
+- [ ] [Databricks — Staff Software Engineer - Fullstack](https://databricks.com/company/careers/open-positions/job?gh_jid=8099343002) | Vancouver, Canada | Discovered 2026-09-15
+- [ ] [Databricks — Staff Software Engineer – Genie One Mobile & Desktop](https://databricks.com/company/careers/open-positions/job?gh_jid=8692516002) | Mountain View, California; San Francisco, California | Discovered 2026-09-15
+- [ ] [Databricks — Staff Software Engineer (Infrastructure)](https://databricks.com/company/careers/open-positions/job?gh_jid=7648674002) | Bengaluru, India | Discovered 2026-09-15
+- [ ] [Databricks — Staff Software Engineer - Ingestion](https://databricks.com/company/careers/open-positions/job?gh_jid=8201686002) | Bengaluru, India | Discovered 2026-09-15
+- [ ] [Databricks — Staff Software Engineer - Ingestion](https://databricks.com/company/careers/open-positions/job?gh_jid=8200692002) | Bengaluru, India | Discovered 2026-09-15
+- [ ] [Databricks — Staff Software Engineer, Lakeflow Pipelines DR](https://databricks.com/company/careers/open-positions/job?gh_jid=8798198002) | Mountain View, California; San Francisco, California | Discovered 2026-09-15
+- [ ] [Databricks — Staff Software Engineer - Machine Learning (Search)](https://databricks.com/company/careers/open-positions/job?gh_jid=7958982002) | Bengaluru, India | Discovered 2026-09-15
+- [ ] [Databricks — Staff Software Engineer (Money)](https://databricks.com/company/careers/open-positions/job?gh_jid=7654349002) | Bengaluru, India | Discovered 2026-09-15
+- [ ] [Databricks — Staff Software Engineer - Multi Cloud Efficiency](https://databricks.com/company/careers/open-positions/job?gh_jid=8593107002) | Bengaluru, India | Discovered 2026-09-15
+- [ ] [Databricks — Staff Software Engineer- Networking](https://databricks.com/company/careers/open-positions/job?gh_jid=7648669002) | Bengaluru, India | Discovered 2026-09-15
+- [ ] [Databricks — Staff Software Engineer  - Partner Ecosystem](https://databricks.com/company/careers/open-positions/job?gh_jid=8476582002) | Bengaluru, India | Discovered 2026-09-15
+- [ ] [Databricks — Staff Software Engineer- Public Sector](https://databricks.com/company/careers/open-positions/job?gh_jid=8517555002) | Virginia | Discovered 2026-09-15
+- [ ] [Databricks — Staff Software Engineer - Search Platform](https://databricks.com/company/careers/open-positions/job?gh_jid=7841778002) | Bengaluru, India | Discovered 2026-09-15
+- [ ] [Databricks — Staff Software Engineer- Search Quality](https://databricks.com/company/careers/open-positions/job?gh_jid=8439348002) | Bengaluru, India | Discovered 2026-09-15
+- [ ] [Databricks — Staff Software Engineer  (Search Ranking)](https://databricks.com/company/careers/open-positions/job?gh_jid=7958688002) | Bengaluru, India | Discovered 2026-09-15
+- [ ] [Rocket Lab — Director of Planning & Fulfillment](https://job-boards.greenhouse.io/rocketlab/jobs/7748984003) | Long Beach, CA | Discovered 2026-09-15
+- [ ] [Rocket Lab — Flight Software Engineer I](https://job-boards.greenhouse.io/rocketlab/jobs/7985939003) | Auckland, NZ | Discovered 2026-09-15
+- [ ] [Rocket Lab — Flight Software Engineer I](https://job-boards.greenhouse.io/rocketlab/jobs/7992129003) | Littleton, CO | Discovered 2026-09-15
+- [ ] [Rocket Lab — Flight Software Engineer II](https://job-boards.greenhouse.io/rocketlab/jobs/7983815003) | Littleton, CO | Discovered 2026-09-15
+- [ ] [Rocket Lab — Flight Software Engineer II](https://job-boards.greenhouse.io/rocketlab/jobs/7993343003) | Long Beach, CA | Discovered 2026-09-15
+- [ ] [Rocket Lab — Lead, Planning & Fulfillment](https://job-boards.greenhouse.io/rocketlab/jobs/7836467003) | Long Beach, CA | Discovered 2026-09-15
+- [ ] [Rocket Lab — Principal Network Software Engineer - TS/SCI](https://job-boards.greenhouse.io/rocketlab/jobs/7626792003) | Long Beach, CA | Discovered 2026-09-15
+- [ ] [Rocket Lab — Principal Software Engineer  - TS/SCI](https://job-boards.greenhouse.io/rocketlab/jobs/7816179003) | Long Beach, CA | Discovered 2026-09-15
+- [ ] [Rocket Lab — Senior Flight Software Engineer](https://job-boards.greenhouse.io/rocketlab/jobs/7763296003) | Auckland, NZ | Discovered 2026-09-15
+- [ ] [Rocket Lab — Senior Flight Software Engineer I](https://job-boards.greenhouse.io/rocketlab/jobs/7850062003) | Long Beach, CA | Discovered 2026-09-15
+- [ ] [Rocket Lab — Senior Flight Software Engineer I](https://job-boards.greenhouse.io/rocketlab/jobs/7991348003) | Littleton, CO | Discovered 2026-09-15
+- [ ] [Rocket Lab — Senior Flight Software Engineer II](https://job-boards.greenhouse.io/rocketlab/jobs/7850072003) | Long Beach, CA | Discovered 2026-09-15
+- [ ] [Rocket Lab — Senior Flight Software Engineer II - Secret Clearance](https://job-boards.greenhouse.io/rocketlab/jobs/7815786003) | Long Beach, CA | Discovered 2026-09-15
+- [ ] [Rocket Lab — Senior Flight Software Engineer I - Secret Clearance](https://job-boards.greenhouse.io/rocketlab/jobs/7815785003) | Long Beach, CA | Discovered 2026-09-15
+- [ ] [Rocket Lab — Senior Ground Software Engineer I ](https://job-boards.greenhouse.io/rocketlab/jobs/7991303003) | Littleton, CO | Discovered 2026-09-15
+- [ ] [Rocket Lab — Senior Ground Software Engineer I](https://job-boards.greenhouse.io/rocketlab/jobs/7814686003) | Long Beach, CA | Discovered 2026-09-15
+- [ ] [Rocket Lab — Senior Ground Software Engineer II](https://job-boards.greenhouse.io/rocketlab/jobs/7814693003) | Long Beach, CA | Discovered 2026-09-15
+- [ ] [Rocket Lab — Senior Network Software Engineer II -Secret Clearance](https://job-boards.greenhouse.io/rocketlab/jobs/7979963003) | Long Beach, CA | Discovered 2026-09-15
+- [ ] [Rocket Lab — Senior Network Software Engineer I -Secret Clearance](https://job-boards.greenhouse.io/rocketlab/jobs/7979961003) | Long Beach, CA | Discovered 2026-09-15
+- [ ] [Rocket Lab — Senior Principal Software Engineer  - TS/SCI](https://job-boards.greenhouse.io/rocketlab/jobs/7816180003) | Long Beach, CA | Discovered 2026-09-15
+- [ ] [Rocket Lab — Senior Software Engineer I](https://job-boards.greenhouse.io/rocketlab/jobs/7737069003) | Albuquerque, NM | Discovered 2026-09-15
+- [ ] [Rocket Lab — Senior Software Engineer I - Data Engineering](https://job-boards.greenhouse.io/rocketlab/jobs/7822244003) | Long Beach, CA | Discovered 2026-09-15
+- [ ] [Rocket Lab — Senior Software Engineer I - Digital Engineering](https://job-boards.greenhouse.io/rocketlab/jobs/7893882003) | Littleton, CO | Discovered 2026-09-15
+- [ ] [Rocket Lab — Senior Software Engineer II](https://job-boards.greenhouse.io/rocketlab/jobs/7987630003) | Tucson, AZ | Discovered 2026-09-15
+- [ ] [Rocket Lab — Senior Software Engineer II ](https://job-boards.greenhouse.io/rocketlab/jobs/7987628003) | Chantilly, VA | Discovered 2026-09-15
+- [ ] [Rocket Lab — Senior Software Engineer II - Digital Engineering](https://job-boards.greenhouse.io/rocketlab/jobs/7994336003) | Littleton, CO | Discovered 2026-09-15
+- [ ] [Rocket Lab — Senior Software Engineer II - Simulation Engineering ](https://job-boards.greenhouse.io/rocketlab/jobs/7994350003) | Littleton, CO | Discovered 2026-09-15
+- [ ] [Rocket Lab — Senior Software Engineer I - Simulation Engineering ](https://job-boards.greenhouse.io/rocketlab/jobs/7893884003) | Littleton, CO | Discovered 2026-09-15
+- [ ] [Rocket Lab — Senior Software Engineer - Operations Software](https://job-boards.greenhouse.io/rocketlab/jobs/7687007003) | Auckland, NZ | Discovered 2026-09-15
+- [ ] [Rocket Lab — Software Engineer II - MES](https://job-boards.greenhouse.io/rocketlab/jobs/7737073003) | Long Beach, CA | Discovered 2026-09-15
+- [ ] [Rocket Lab — Software Engineer II - Robotics](https://job-boards.greenhouse.io/rocketlab/jobs/7929946003) | Pasadena, CA | Discovered 2026-09-15
+- [ ] [Rocket Lab — Team Lead - Data Engineering](https://job-boards.greenhouse.io/rocketlab/jobs/7813422003) | Auckland, NZ | Discovered 2026-09-15
+- [ ] [Vast — Senior Software Engineer, Enterprise Applications](https://boards.greenhouse.io/vast/jobs/4702552006?gh_jid=4702552006) | Long Beach, California, United States | Discovered 2026-09-15
+- [ ] [Vast — Senior Software Engineer, Mission Software](https://boards.greenhouse.io/vast/jobs/4362676006?gh_jid=4362676006) | Long Beach, California, United States | Discovered 2026-09-15
+- [ ] [Vast — Software Engineer II, Enterprise Applications](https://boards.greenhouse.io/vast/jobs/4709600006?gh_jid=4709600006) | Long Beach, California, United States | Discovered 2026-09-15
+- [ ] [Vast — Staff Software Engineer, Mission Software](https://boards.greenhouse.io/vast/jobs/4361481006?gh_jid=4361481006) | Long Beach, California, United States | Discovered 2026-09-15
+- [ ] [Nuro — Full Stack Software Engineer, Fleet Platform and Operations Tooling](https://nuro.ai/careersitem?gh_jid=7917839) | Mountain View, California (HQ) | Discovered 2026-09-15
+- [ ] [Nuro — Principal Software Engineer, Onboard Infrastructure](https://nuro.ai/careersitem?gh_jid=7974966) | Mountain View, California (HQ) | Discovered 2026-09-15
+- [ ] [Nuro — Project Manager, Software Operations](https://nuro.ai/careersitem?gh_jid=7902399) | Mountain View, California (HQ) | Discovered 2026-09-15
+- [ ] [Nuro — Senior Software Engineer, Autonomy Visualization](https://nuro.ai/careersitem?gh_jid=7896065) | Mountain View, California (HQ) | Discovered 2026-09-15
+- [ ] [Nuro — Senior Software Engineer, Behavior Planning](https://nuro.ai/careersitem?gh_jid=6953540) | Mountain View, California (HQ) | Discovered 2026-09-15
+- [ ] [Nuro — Senior Software Engineer, Collision Avoidance Testing](https://nuro.ai/careersitem?gh_jid=7736159) | Mountain View, California (HQ) | Discovered 2026-09-15
+- [ ] [Nuro — Senior Software Engineer, Devices Platform](https://nuro.ai/careersitem?gh_jid=8163202) | Mountain View, California (HQ) | Discovered 2026-09-15
+- [ ] [Nuro — Senior Software Engineer, ML Infrastructure](https://nuro.ai/careersitem?gh_jid=8011527) | Mountain View, California (HQ) | Discovered 2026-09-15
+- [ ] [Nuro — Senior Software Engineer, ML Infrastructure Platform](https://nuro.ai/careersitem?gh_jid=8122477) | Mountain View, California (HQ) | Discovered 2026-09-15
+- [ ] [Nuro — Senior Software Engineer, Networking & Real-Time Systems](https://nuro.ai/careersitem?gh_jid=8163209) | Mountain View, California (HQ) | Discovered 2026-09-15
+- [ ] [Nuro — Senior Software Engineer, Onboard Autonomy](https://nuro.ai/careersitem?gh_jid=7701096) | Mountain View, California (HQ) | Discovered 2026-09-15
+- [ ] [Nuro — Senior Software Engineer, Perception Data Infrastructure](https://nuro.ai/careersitem?gh_jid=7736012) | Mountain View, California (HQ) | Discovered 2026-09-15
+- [ ] [Nuro — Senior Software Engineer, Perception, Machine Learning/Computer Vision](https://nuro.ai/careersitem?gh_jid=6516915) | Mountain View, California (HQ) | Discovered 2026-09-15
+- [ ] [Nuro — Senior Software Engineer, Perception ML Data](https://nuro.ai/careersitem?gh_jid=7389868) | Mountain View, California (HQ) | Discovered 2026-09-15
+- [ ] [Nuro — Senior Software Engineer, Performance Tooling and Infrastructure](https://nuro.ai/careersitem?gh_jid=7786596) | Mountain View, California (HQ) | Discovered 2026-09-15
+- [ ] [Nuro — Senior Software Engineer, Ride-Hailing Product](https://nuro.ai/careersitem?gh_jid=7078804) | Mountain View, California (HQ) | Discovered 2026-09-15
+- [ ] [Nuro — Senior Software Engineer, Routing](https://nuro.ai/careersitem?gh_jid=6832319) | Mountain View, California (HQ) | Discovered 2026-09-15
+- [ ] [Nuro — Senior Software Engineer, Sensor Platform](https://nuro.ai/careersitem?gh_jid=8163195) | Mountain View, California (HQ) | Discovered 2026-09-15
+- [ ] [Nuro — Senior Software Engineer, Simulation](https://nuro.ai/careersitem?gh_jid=5401358) | Mountain View, California (HQ) | Discovered 2026-09-15
+- [ ] [Nuro — Senior Software Engineer, Video Streaming](https://nuro.ai/careersitem?gh_jid=8163218) | Mountain View, California (HQ) | Discovered 2026-09-15
+- [ ] [Nuro — Senior/Staff Machine Learning Engineer, Sensor Simulation](https://nuro.ai/careersitem?gh_jid=8049931) | Mountain View, California (HQ) | Discovered 2026-09-15
+- [ ] [Nuro — Senior/Staff Software Engineer, AI Agent Infrastructure](https://nuro.ai/careersitem?gh_jid=8097555) | Mountain View, California (HQ) | Discovered 2026-09-15
+- [ ] [Nuro — Senior/Staff Software Engineer,  Behavior Verification](https://nuro.ai/careersitem?gh_jid=7243150) | Mountain View, California (HQ) | Discovered 2026-09-15
+- [ ] [Nuro — Senior/Staff Software Engineer, Data Platform](https://nuro.ai/careersitem?gh_jid=7895640) | Mountain View, California (HQ) | Discovered 2026-09-15
+- [ ] [Nuro — Senior/Staff Software Engineer, Labeling Platform](https://nuro.ai/careersitem?gh_jid=7895639) | Mountain View, California (HQ) | Discovered 2026-09-15
+- [ ] [Nuro — Senior/Staff Software Engineer, ML Data Infrastructure](https://nuro.ai/careersitem?gh_jid=7895638) | Mountain View, California (HQ) | Discovered 2026-09-15
+- [ ] [Nuro — Senior/Staff Software Engineer, ML Inference Platform](https://nuro.ai/careersitem?gh_jid=8122528) | Mountain View, California (HQ) | Discovered 2026-09-15
+- [ ] [Nuro — Senior/Staff Software Engineer, ML Infrastructure, Optimization](https://nuro.ai/careersitem?gh_jid=8011514) | Mountain View, California (HQ) | Discovered 2026-09-15
+- [ ] [Nuro — Software Engineer, AI Platform - New Grad](https://nuro.ai/careersitem?gh_jid=7351066) | Mountain View, California (HQ) | Discovered 2026-09-15
+- [ ] [Nuro — Software Engineer, Applied AI Infrastructure](https://nuro.ai/careersitem?gh_jid=8122990) | Mountain View, California (HQ) | Discovered 2026-09-15
+- [ ] [Nuro — Software Engineer, Autonomy Visualization](https://nuro.ai/careersitem?gh_jid=7896063) | Mountain View, California (HQ) | Discovered 2026-09-15
+- [ ] [Nuro — Software Engineer, Data Platform](https://nuro.ai/careersitem?gh_jid=7895644) | Mountain View, California (HQ) | Discovered 2026-09-15
+- [ ] [Nuro — Software Engineer, ML Data Infrastructure](https://nuro.ai/careersitem?gh_jid=7895818) | Mountain View, California (HQ) | Discovered 2026-09-15
+- [ ] [Nuro — Software Engineer, ML Inference Platform](https://nuro.ai/careersitem?gh_jid=8122537) | Mountain View, California (HQ) | Discovered 2026-09-15
+- [ ] [Nuro — Software Engineer, ML Infrastructure](https://nuro.ai/careersitem?gh_jid=6909931) | Mountain View, California (HQ) | Discovered 2026-09-15
+- [ ] [Nuro — Software Engineer, ML Infrastructure, Optimization](https://nuro.ai/careersitem?gh_jid=6916236) | Mountain View, California (HQ) | Discovered 2026-09-15
+- [ ] [Nuro — Software Engineer, ML Infrastructure Platform](https://nuro.ai/careersitem?gh_jid=8122483) | Mountain View, California (HQ) | Discovered 2026-09-15
+- [ ] [Nuro — Software Engineer, Offboard Infrastructure](https://nuro.ai/careersitem?gh_jid=7638789) | Mountain View, California (HQ) | Discovered 2026-09-15
+- [ ] [Nuro — Software Engineer, Onboard Platform](https://nuro.ai/careersitem?gh_jid=7998328) | Mountain View, California (HQ) | Discovered 2026-09-15
+- [ ] [Nuro — Software Engineer, Performance Tooling and Infrastructure](https://nuro.ai/careersitem?gh_jid=7786521) | Mountain View, California (HQ) | Discovered 2026-09-15
+- [ ] [Nuro — Software Engineer, Routing](https://nuro.ai/careersitem?gh_jid=7482347) | Mountain View, California (HQ) | Discovered 2026-09-15
+- [ ] [Nuro — Software Engineer, Sensor Platform](https://nuro.ai/careersitem?gh_jid=8163179) | Mountain View, California (HQ) | Discovered 2026-09-15
+- [ ] [Nuro — Software Engineer, Video Streaming](https://nuro.ai/careersitem?gh_jid=8164473) | Mountain View, California (HQ) | Discovered 2026-09-15
+- [ ] [Nuro — Staff/Lead Machine Learning Engineer, Behavior & Planning](https://nuro.ai/careersitem?gh_jid=8114754) | Mountain View, California (HQ) | Discovered 2026-09-15
+- [ ] [Nuro — Staff/Senior Software Engineer, Offboard Infrastructure](https://nuro.ai/careersitem?gh_jid=7238934) | Mountain View, California (HQ) | Discovered 2026-09-15
+- [ ] [Nuro — Staff/Senior Software Engineer, Onboard Infrastructure](https://nuro.ai/careersitem?gh_jid=7998327) | Mountain View, California (HQ) | Discovered 2026-09-15
+- [ ] [Nuro — Staff Software Engineer, Behavior ML Data](https://nuro.ai/careersitem?gh_jid=7137941) | Mountain View, California (HQ) | Discovered 2026-09-15
+- [ ] [Nuro — Staff Software Engineer, Routing](https://nuro.ai/careersitem?gh_jid=7196037) | Mountain View, California (HQ) | Discovered 2026-09-15
+- [ ] [Nuro — Tech Lead Software Engineer, Fleet Connectivity](https://nuro.ai/careersitem?gh_jid=8160091) | Mountain View, California (HQ) | Discovered 2026-09-15
+- [ ] [Zipline — Associate Maintenance Operations Engineering Lead, Test Sites](https://www.zipline.com/open-roles/7907661003?gh_jid=7907661003) | Esparto, California, USA | Discovered 2026-09-15
+- [ ] [Zipline — Director of Software Engineering – Marketplace](https://www.zipline.com/open-roles/7815718003?gh_jid=7815718003) | South San Francisco, California, USA | Discovered 2026-09-15
+- [ ] [Zipline — Forward Deployed AI Engineer, Operations](https://www.zipline.com/open-roles/7764239003?gh_jid=7764239003) | South San Francisco, California, USA | Discovered 2026-09-15
+- [ ] [Zipline — Fulfillment Supervisor ](https://www.zipline.com/open-roles/7802189003?gh_jid=7802189003) | Phoenix, Arizona, USA | Discovered 2026-09-15
+- [ ] [Zipline — Full Stack Software Engineer - Mapping](https://www.zipline.com/open-roles/7652331003?gh_jid=7652331003) | Kigali, Rwanda | Discovered 2026-09-15
+- [ ] [Zipline — Mechanical Engineering Manager, Dropbox](https://www.zipline.com/open-roles/7802184003?gh_jid=7802184003) | South San Francisco, California, USA | Discovered 2026-09-15
+- [ ] [Zipline — ML Infrastructure Engineer](https://www.zipline.com/open-roles/7989516003?gh_jid=7989516003) | South San Francisco, California, USA | Discovered 2026-09-15
+- [ ] [Zipline — Senior Data Engineer - Data Platform](https://www.zipline.com/open-roles/7810390003?gh_jid=7810390003) | South San Francisco, California, USA | Discovered 2026-09-15
+- [ ] [Zipline — Senior ECAD Library & Engineering Data Engineer](https://www.zipline.com/open-roles/7810086003?gh_jid=7810086003) | South San Francisco, California, USA | Discovered 2026-09-15
+- [ ] [Zipline — Senior Full Stack Software Engineer](https://www.zipline.com/open-roles/6322727003?gh_jid=6322727003) | Kigali, Rwanda | Discovered 2026-09-15
+- [ ] [Zipline — Senior Integration and Test Software Engineer - Long Range Platform](https://www.zipline.com/open-roles/7802156003?gh_jid=7802156003) | South San Francisco, California, USA | Discovered 2026-09-15
+- [ ] [Zipline — Senior Motion Planning Software Engineer](https://www.zipline.com/open-roles/7802961003?gh_jid=7802961003) | Ann Arbor, Michigan USA; South San Francisco, California, USA | Discovered 2026-09-15
+- [ ] [Zipline — Senior Software Engineer, ASW Launch Ops](https://www.zipline.com/open-roles/7993020003?gh_jid=7993020003) | Remote in USA; South San Francisco, California, USA | Discovered 2026-09-15
+- [ ] [Zipline — Senior Software Engineer, Autonomy Simulation & Validation](https://www.zipline.com/open-roles/7812135003?gh_jid=7812135003) | Ann Arbor, Michigan USA; South San Francisco, California, USA | Discovered 2026-09-15
+- [ ] [Zipline — Senior Software Engineer, Enterprise Systems](https://www.zipline.com/open-roles/7800774003?gh_jid=7800774003) | South San Francisco, California, USA | Discovered 2026-09-15
+- [ ] [Zipline — Senior Software Engineer, Maintenance Systems](https://www.zipline.com/open-roles/7676378003?gh_jid=7676378003) | Dallas-Fort Worth, Texas, USA; South San Francisco, California, USA | Discovered 2026-09-15
+- [ ] [Zipline — Senior Software Engineer - Maps Platform](https://www.zipline.com/open-roles/7816737003?gh_jid=7816737003) | Ann Arbor, Michigan USA; South San Francisco, California, USA | Discovered 2026-09-15
+- [ ] [Zipline — Senior Software Engineer - Maps Routing](https://www.zipline.com/open-roles/7812206003?gh_jid=7812206003) | Ann Arbor, Michigan USA; South San Francisco, California, USA | Discovered 2026-09-15
+- [ ] [Zipline — Senior Software Engineer - Motor Controls](https://www.zipline.com/open-roles/6641068003?gh_jid=6641068003) | South San Francisco, California, USA | Discovered 2026-09-15
+- [ ] [Zipline — Simulation Software Engineer](https://www.zipline.com/open-roles/7802983003?gh_jid=7802983003) | Ann Arbor, Michigan USA; South San Francisco, California, USA | Discovered 2026-09-15
+- [ ] [Zipline — Software Engineer, Airspace Platform](https://www.zipline.com/open-roles/7978812003?gh_jid=7978812003) | South San Francisco, California, USA | Discovered 2026-09-15
+- [ ] [Zipline — Software Engineer - Hardware Test](https://www.zipline.com/open-roles/7803261003?gh_jid=7803261003) | South San Francisco, California, USA | Discovered 2026-09-15
+- [ ] [Zipline — Software Engineering Manager – Developer Productivity](https://www.zipline.com/open-roles/7859841003?gh_jid=7859841003) | South San Francisco, California, USA | Discovered 2026-09-15
+- [ ] [Zipline — Software Engineer, Test Infrastructure](https://www.zipline.com/open-roles/7809118003?gh_jid=7809118003) | South San Francisco, California, USA | Discovered 2026-09-15
+- [ ] [Zipline — Sr. IT Infrastructure Engineer](https://www.zipline.com/open-roles/7850772003?gh_jid=7850772003) | South San Francisco, California, USA | Discovered 2026-09-15
+- [ ] [Zipline — Sr. Software Engineer, Financial Platform ](https://www.zipline.com/open-roles/7805110003?gh_jid=7805110003) | South San Francisco, California, USA | Discovered 2026-09-15
+- [ ] [Zipline — Staff Motion Planning Software Engineer](https://www.zipline.com/open-roles/7819774003?gh_jid=7819774003) | South San Francisco, California, USA | Discovered 2026-09-15
+- [ ] [Zipline — Staff Platform Software Engineer, AI Enablement](https://www.zipline.com/open-roles/7812167003?gh_jid=7812167003) | South San Francisco, California, USA | Discovered 2026-09-15
+- [ ] [Zipline — Staff Software Engineer, Healthcare — Customer Experience](https://www.zipline.com/open-roles/7983305003?gh_jid=7983305003) | Remote in USA; Remote, EMEA | Discovered 2026-09-15
+- [ ] [Zipline — Staff Software Engineer, Healthcare — Systems & Integrations](https://www.zipline.com/open-roles/7983316003?gh_jid=7983316003) | Remote in USA; Remote, EMEA | Discovered 2026-09-15
+- [ ] [Zipline — Staff Software Engineer – Marketplace](https://www.zipline.com/open-roles/7808704003?gh_jid=7808704003) | South San Francisco, California, USA | Discovered 2026-09-15
+- [ ] [Zipline — Staff Software Engineer – Marketplace Growth](https://www.zipline.com/open-roles/7822379003?gh_jid=7822379003) | South San Francisco, California, USA | Discovered 2026-09-15
+- [ ] [Zipline — Test Maintenance Engineering Lead](https://www.zipline.com/open-roles/7989538003?gh_jid=7989538003) | Esparto, California, USA | Discovered 2026-09-15
+- [ ] [Figure AI — Helix AI Engineer, Backend ](https://job-boards.greenhouse.io/figureai/jobs/4685172006) | San Jose, CA | Discovered 2026-09-15
+- [ ] [Figure AI — Helix AI Engineer, Localization and Mapping](https://job-boards.greenhouse.io/figureai/jobs/4696533006) | San Jose, CA | Discovered 2026-09-15
+- [ ] [Figure AI — Helix AI Engineer, Perception](https://job-boards.greenhouse.io/figureai/jobs/4007375006) | San Jose, CA | Discovered 2026-09-15
+- [ ] [Figure AI — Helix AI Engineer, Training Performance](https://job-boards.greenhouse.io/figureai/jobs/4705296006) | San Jose, CA | Discovered 2026-09-15
+- [ ] [Planet Labs — Senior Machine Learning Engineer](https://job-boards.greenhouse.io/planetlabs/jobs/8142914) | Arlington, VA | Discovered 2026-09-15
+- [ ] [Planet Labs — Senior Software Engineer, GMS App Team](https://job-boards.greenhouse.io/planetlabs/jobs/8155646) | United States, Remote | Discovered 2026-09-15
+- [ ] [Planet Labs — Senior Software Engineer, Storage Infrastructure](https://job-boards.greenhouse.io/planetlabs/jobs/8154780) | United States, Remote | Discovered 2026-09-15
+- [ ] [Planet Labs — Senior Software Engineer, Storage Infrastructure](https://job-boards.greenhouse.io/planetlabs/jobs/8160294) | Canada, Remote | Discovered 2026-09-15
