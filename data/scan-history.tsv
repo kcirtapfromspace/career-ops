@@ -29829,3 +29829,103 @@ https://boards-api.greenhouse.io/v1/boards/planetlabs/jobs	2026-09-14	quickcheck
 https://boards-api.greenhouse.io/v1/boards/scaleai/jobs	2026-09-14	quickcheck-2026-09-14	(API scan)	Scale AI	all_seen
 https://boards-api.greenhouse.io/v1/boards/databricks/jobs	2026-09-14	quickcheck-2026-09-14	(API scan)	Databricks	all_seen
 https://boards-api.greenhouse.io/v1/boards/clickhouse/jobs	2026-09-14	quickcheck-2026-09-14	(API scan)	Clickhouse	error-404
+https://boards-api.greenhouse.io/v1/boards/anthropic/jobs	2026-09-15	scout-2026-09-15	(API scan)	Anthropic	scanned
+https://job-boards.greenhouse.io/anthropic/jobs/5411560008	2026-09-15	scout-2026-09-15	Engineering Manager, Inference Infrastructure	Anthropic	match-3.9
+https://job-boards.greenhouse.io/anthropic/jobs/5297059008	2026-09-15	scout-2026-09-15	Engineering Manager, Research Data Platform	Anthropic	no_match
+https://job-boards.greenhouse.io/anthropic/jobs/5411267008	2026-09-15	scout-2026-09-15	Engineering Manager, Scheduler and Fleet	Anthropic	no_match
+https://job-boards.greenhouse.io/anthropic/jobs/5371065008	2026-09-15	scout-2026-09-15	Engineering Manager, Search	Anthropic	no_match
+https://job-boards.greenhouse.io/anthropic/jobs/5418610008	2026-09-15	scout-2026-09-15	Data Engineer, GTM	Anthropic	no_match
+https://job-boards.greenhouse.io/anthropic/jobs/5405548008	2026-09-15	scout-2026-09-15	Engineering Manager, Hardware Platform Security	Anthropic	no_match
+https://job-boards.greenhouse.io/anthropic/jobs/5361472008	2026-09-15	scout-2026-09-15	Engineering Manager, Growth	Anthropic	no_match
+https://job-boards.greenhouse.io/anthropic/jobs/4956672008	2026-09-15	scout-2026-09-15	Data Engineer	Anthropic	no_match
+https://job-boards.greenhouse.io/anthropic/jobs/5240422008	2026-09-15	scout-2026-09-15	Data Engineer, Safeguards	Anthropic	no_match
+https://job-boards.greenhouse.io/anthropic/jobs/4973067008	2026-09-15	scout-2026-09-15	Data Infrastructure Engineer, Pre-training	Anthropic	no_match
+https://job-boards.greenhouse.io/anthropic/jobs/5223093008	2026-09-15	scout-2026-09-15	Engineering Manager, Research Productivity	Anthropic	no_match
+https://boards-api.greenhouse.io/v1/boards/andurilindustries/jobs	2026-09-15	scout-2026-09-15	(API scan)	Anduril	scanned
+https://boards.greenhouse.io/andurilindustries/jobs/5219383007	2026-09-15	scout-2026-09-15	Agentic AI Engineer, Automation	Anduril	no_match
+https://boards-api.greenhouse.io/v1/boards/trueanomalyinc/jobs	2026-09-15	scout-2026-09-15	(API scan)	True Anomaly	scanned
+https://job-boards.greenhouse.io/trueanomalyinc/jobs/5220130007	2026-09-15	scout-2026-09-15	Principal Data Engineer	True Anomaly	match-4.5
+https://job-boards.greenhouse.io/trueanomalyinc/jobs/5224053007	2026-09-15	scout-2026-09-15	Engineering Manager, Autonomy	True Anomaly	match-3.7
+https://job-boards.greenhouse.io/trueanomalyinc/jobs/5142446007	2026-09-15	scout-2026-09-15	Engineering Manager, Ground Software	True Anomaly	match-3.7
+https://job-boards.greenhouse.io/trueanomalyinc/jobs/5166543007	2026-09-15	scout-2026-09-15	Senior Platform Engineer, AI	True Anomaly	match-4.0
+https://job-boards.greenhouse.io/trueanomalyinc/jobs/5166540007	2026-09-15	scout-2026-09-15	Platform Engineer AI (I-III)	True Anomaly	no_match
+https://job-boards.greenhouse.io/trueanomalyinc/jobs/5182446007	2026-09-15	scout-2026-09-15	Senior Platform Engineer, Infrastructure	True Anomaly	match-4.2
+https://job-boards.greenhouse.io/trueanomalyinc/jobs/5138856007	2026-09-15	scout-2026-09-15	ML Engineer Space Agentic AI	True Anomaly	match-3.6
+https://job-boards.greenhouse.io/trueanomalyinc/jobs/5228067007	2026-09-15	scout-2026-09-15	ML Engineer Space Edge Deployment	True Anomaly	no_match
+https://job-boards.greenhouse.io/trueanomalyinc/jobs/5224739007	2026-09-15	scout-2026-09-15	Senior DevOps Engineer	True Anomaly	no_match
+https://job-boards.greenhouse.io/trueanomalyinc/jobs/5223279007	2026-09-15	scout-2026-09-15	Data Engineer I	True Anomaly	no_match
+https://job-boards.greenhouse.io/trueanomalyinc/jobs/5218935007	2026-09-15	scout-2026-09-15	DevOps Engineer I New Grad	True Anomaly	no_match
+https://job-boards.greenhouse.io/trueanomalyinc/jobs/5228007007	2026-09-15	scout-2026-09-15	Data Scientist Manufacturing Analytics	True Anomaly	no_match
+https://job-boards.greenhouse.io/trueanomalyinc/jobs/5228130007	2026-09-15	scout-2026-09-15	Data Scientist Ops and Reliability	True Anomaly	no_match
+https://boards-api.greenhouse.io/v1/boards/fivetran/jobs	2026-09-15	scout-2026-09-15	(API scan)	Fivetran	scanned
+https://www.fivetran.com/careers/job?gh_jid=7823195003	2026-09-15	scout-2026-09-15	Engineering Manager, Metadata	Fivetran	match-4.0
+https://www.fivetran.com/careers/job?gh_jid=7810467003	2026-09-15	scout-2026-09-15	Senior R&D Software Engineer Fivetran AI	Fivetran	match-3.7
+https://www.fivetran.com/careers/job?gh_jid=7812269003	2026-09-15	scout-2026-09-15	Principal Software Engineer AI Tooling	Fivetran	no_match
+https://www.fivetran.com/careers/job?gh_jid=7711200003	2026-09-15	scout-2026-09-15	Principal Software Engineer	Fivetran	no_match
+https://www.fivetran.com/careers/job?gh_jid=7810468003	2026-09-15	scout-2026-09-15	Senior R&D SWE Fivetran AI NYC	Fivetran	no_match
+https://www.fivetran.com/careers/job?gh_jid=7810466003	2026-09-15	scout-2026-09-15	Senior R&D SWE Fivetran AI Austin	Fivetran	no_match
+https://www.fivetran.com/careers/job?gh_jid=7810218003	2026-09-15	scout-2026-09-15	Senior R&D SWE Fivetran AI Oakland	Fivetran	no_match
+https://www.fivetran.com/careers/job?gh_jid=7688580003	2026-09-15	scout-2026-09-15	Senior Site Reliability Engineer	Fivetran	no_match
+https://www.fivetran.com/careers/job?gh_jid=7818372003	2026-09-15	scout-2026-09-15	Engineering Manager Automations Serbia	Fivetran	no_match
+https://www.fivetran.com/careers/job?gh_jid=7859203003	2026-09-15	scout-2026-09-15	Engineering Manager Metadata Oakland	Fivetran	no_match
+https://www.fivetran.com/careers/job?gh_jid=7865037003	2026-09-15	scout-2026-09-15	Engineering Manager Metadata Toronto	Fivetran	no_match
+https://www.fivetran.com/careers/job?gh_jid=7818324003	2026-09-15	scout-2026-09-15	Manager Software Engineering India	Fivetran	no_match
+https://boards-api.greenhouse.io/v1/boards/scaleai/jobs	2026-09-15	scout-2026-09-15	(API scan)	Scale AI	scanned
+https://job-boards.greenhouse.io/scaleai/jobs/4716453005	2026-09-15	scout-2026-09-15	AI Infrastructure Engineer Sandbox Platform	Scale AI	no_match
+https://job-boards.greenhouse.io/scaleai/jobs/4631848005	2026-09-15	scout-2026-09-15	ML Engineer Public Sector	Scale AI	no_match
+https://job-boards.greenhouse.io/scaleai/jobs/4625271005	2026-09-15	scout-2026-09-15	Engineering Manager Agent Oversight	Scale AI	no_match
+https://job-boards.greenhouse.io/scaleai/jobs/4665557005	2026-09-15	scout-2026-09-15	Infrastructure Software Engineer Enterprise GenAI	Scale AI	no_match
+https://job-boards.greenhouse.io/scaleai/jobs/4720573005	2026-09-15	scout-2026-09-15	Frontier Agents Engineer Applied AI	Scale AI	no_match
+https://job-boards.greenhouse.io/scaleai/jobs/4694863005	2026-09-15	scout-2026-09-15	Senior Frontier Agents Engineer FDE	Scale AI	no_match
+https://job-boards.greenhouse.io/scaleai/jobs/4732365005	2026-09-15	scout-2026-09-15	Engineering Manager Frontier AI Infra Public Sector	Scale AI	no_match
+https://job-boards.greenhouse.io/scaleai/jobs/4720478005	2026-09-15	scout-2026-09-15	Senior Frontier Agents Engineer Applied AI	Scale AI	no_match
+https://boards-api.greenhouse.io/v1/boards/databricks/jobs	2026-09-15	scout-2026-09-15	(API scan)	Databricks	scanned
+https://databricks.com/company/careers/open-positions/job?gh_jid=8603361002	2026-09-15	scout-2026-09-15	Engineering Manager Serverless Compute Platform	Databricks	no_match
+https://databricks.com/company/careers/open-positions/job?gh_jid=8324875002	2026-09-15	scout-2026-09-15	Engineering Manager Streaming	Databricks	no_match
+https://databricks.com/company/careers/open-positions/job?gh_jid=8578093002	2026-09-15	scout-2026-09-15	Engineering Manager Data Visualization Platform	Databricks	no_match
+https://databricks.com/company/careers/open-positions/job?gh_jid=8709386002	2026-09-15	scout-2026-09-15	Engineering Manager CustomerLake Profile Agents	Databricks	no_match
+https://boards-api.greenhouse.io/v1/boards/chainguard/jobs	2026-09-15	scout-2026-09-15	(API scan)	Chainguard	scanned
+https://job-boards.greenhouse.io/chainguard/jobs/4707850006	2026-09-15	scout-2026-09-15	Staff Software Engineer Developer Platform	Chainguard	match-4.8
+https://job-boards.greenhouse.io/chainguard/jobs/4688854006	2026-09-15	scout-2026-09-15	Staff Software Engineer Guarded Containers	Chainguard	match-3.8
+https://job-boards.greenhouse.io/chainguard/jobs/4697551006	2026-09-15	scout-2026-09-15	Staff Software Engineer Repositories	Chainguard	no_match
+https://job-boards.greenhouse.io/chainguard/jobs/4712228006	2026-09-15	scout-2026-09-15	Staff Software Engineer Sustaining	Chainguard	no_match
+https://job-boards.greenhouse.io/chainguard/jobs/4713200006	2026-09-15	scout-2026-09-15	Senior Software Engineer Athena	Chainguard	no_match
+https://job-boards.greenhouse.io/chainguard/jobs/4712233006	2026-09-15	scout-2026-09-15	Senior Software Engineer	Chainguard	no_match
+https://job-boards.greenhouse.io/chainguard/jobs/4700937006	2026-09-15	scout-2026-09-15	Senior Software Engineer AI CICD	Chainguard	no_match
+https://job-boards.greenhouse.io/chainguard/jobs/4688378006	2026-09-15	scout-2026-09-15	Senior Software Engineer Customer Platform	Chainguard	no_match
+https://job-boards.greenhouse.io/chainguard/jobs/4699416006	2026-09-15	scout-2026-09-15	Senior Software Engineer Developer Platform	Chainguard	no_match
+https://job-boards.greenhouse.io/chainguard/jobs/4700281006	2026-09-15	scout-2026-09-15	Security Engineer	Chainguard	no_match
+https://boards-api.greenhouse.io/v1/boards/samsara/jobs	2026-09-15	scout-2026-09-15	(API scan)	Samsara	scanned
+https://www.samsara.com/company/careers/roles/7859702	2026-09-15	scout-2026-09-15	Data Engineer Remote US	Samsara	no_match
+https://boards-api.greenhouse.io/v1/boards/planetlabs/jobs	2026-09-15	scout-2026-09-15	(API scan)	Planet Labs	scanned
+https://job-boards.greenhouse.io/planetlabs/jobs/8160759	2026-09-15	scout-2026-09-15	Senior Data Engineer Denver	Planet Labs	match-3.8
+https://job-boards.greenhouse.io/planetlabs/jobs/8022265	2026-09-15	scout-2026-09-15	Software Engineer Platform Mission Systems	Planet Labs	no_match
+https://job-boards.greenhouse.io/planetlabs/jobs/7555019	2026-09-15	scout-2026-09-15	Software Engineer Platform Operations	Planet Labs	no_match
+https://job-boards.greenhouse.io/planetlabs/jobs/7967527	2026-09-15	scout-2026-09-15	Senior Software Engineer Storage Infrastructure	Planet Labs	no_match
+https://job-boards.greenhouse.io/planetlabs/jobs/8154780	2026-09-15	scout-2026-09-15	Senior Software Engineer Storage Infrastructure 2	Planet Labs	no_match
+https://job-boards.greenhouse.io/planetlabs/jobs/8143129	2026-09-15	scout-2026-09-15	Senior Software Engineer DI Solutions	Planet Labs	no_match
+https://job-boards.greenhouse.io/planetlabs/jobs/8106198	2026-09-15	scout-2026-09-15	Senior Site Reliability Engineer	Planet Labs	no_match
+https://job-boards.greenhouse.io/planetlabs/jobs/8016466	2026-09-15	scout-2026-09-15	Senior Data Engineer Arlington VA	Planet Labs	no_match
+https://boards-api.greenhouse.io/v1/boards/gleanwork/jobs	2026-09-15	scout-2026-09-15	(API scan)	Glean	scanned
+https://job-boards.greenhouse.io/gleanwork/jobs/4711484005	2026-09-15	scout-2026-09-15	ML Engineer Assistant Quality	Glean	no_match
+https://job-boards.greenhouse.io/gleanwork/jobs/4654833005	2026-09-15	scout-2026-09-15	Lead SRE	Glean	no_match
+https://job-boards.greenhouse.io/gleanwork/jobs/4501783005	2026-09-15	scout-2026-09-15	Software Engineer AI ML Infrastructure	Glean	no_match
+https://job-boards.greenhouse.io/gleanwork/jobs/4728513005	2026-09-15	scout-2026-09-15	Application Security Engineer Remote	Glean	no_match
+https://boards-api.greenhouse.io/v1/boards/arizeai/jobs	2026-09-15	scout-2026-09-15	(API scan)	Arize AI	scanned
+https://job-boards.greenhouse.io/arizeai/jobs/5396396004	2026-09-15	scout-2026-09-15	Senior AI Product Engineer Backend	Arize AI	match-3.5
+https://job-boards.greenhouse.io/arizeai/jobs/5396420004	2026-09-15	scout-2026-09-15	Senior AI Product Engineer Fullstack	Arize AI	no_match
+https://boards-api.greenhouse.io/v1/boards/rocketlab/jobs	2026-09-15	scout-2026-09-15	(API scan)	Rocket Lab	no_match
+https://boards-api.greenhouse.io/v1/boards/figureai/jobs	2026-09-15	scout-2026-09-15	(API scan)	Figure AI	scanned
+https://job-boards.greenhouse.io/figureai/jobs/4614747006	2026-09-15	scout-2026-09-15	Staff Infrastructure Engineer San Jose	Figure AI	no_match
+https://boards-api.greenhouse.io/v1/boards/vercel/jobs	2026-09-15	scout-2026-09-15	(API scan)	Vercel	scanned
+https://job-boards.greenhouse.io/vercel/jobs/5430088004	2026-09-15	scout-2026-09-15	Software Engineer Backend Remote US	Vercel	no_match
+https://jobs.ashbyhq.com/confluent/0b2a4106-7f01-4205-813d-81e4fa1abdb4	2026-09-15	scout-2026-09-15	Staff Software Engineer SRE	Confluent	match-4.2
+https://jobs.ashbyhq.com/confluent/a93ac05b-0ba3-41a9-aa42-a6258c5c5584	2026-09-15	scout-2026-09-15	Staff Software Engineer Confluent Platform	Confluent	match-3.8
+https://jobs.ashbyhq.com/confluent/79c5035c-4266-40f0-86e1-84d067ed77b1	2026-09-15	scout-2026-09-15	Staff Software Engineer Flink SQL	Confluent	match-3.6
+https://jobs.ashbyhq.com/confluent/bef7f6a5-2481-4eb6-a760-86e3746600bb	2026-09-15	scout-2026-09-15	Staff Software Engineer I	Confluent	no_match
+https://jobs.ashbyhq.com/confluent/80a47c3e-a160-4277-a452-1eef9c689167	2026-09-15	scout-2026-09-15	Staff Software Engineer I	Confluent	no_match
+https://jobs.ashbyhq.com/confluent/406d4c74-8ebd-4f51-ab1b-1db71018d387	2026-09-15	scout-2026-09-15	Senior Software Engineer	Confluent	no_match
+https://jobs.ashbyhq.com/confluent/4218f1c2-3679-4aff-a458-20ef09817fc4	2026-09-15	scout-2026-09-15	Senior Software Engineer Infrastructure	Confluent	no_match
+https://jobs.ashbyhq.com/confluent/ce64fe49-184c-44b1-9abf-dc5ce0dc9381	2026-09-15	scout-2026-09-15	Senior Software Engineer Streaming AI	Confluent	no_match
+https://jobs.ashbyhq.com/confluent/0b65c19f-c804-4f79-b1e3-c3ea035c3d76	2026-09-15	scout-2026-09-15	Senior Software Engineer II	Confluent	no_match
+https://jobs.ashbyhq.com/confluent/47920ccd-db54-4ed4-a865-70857e865fff	2026-09-15	scout-2026-09-15	Distributed Systems SWE WarpStream	Confluent	no_match

@@ -1,5 +1,31 @@
 # Pipeline — Pending Offers
 
+## 2026-09-15 — Scout Scan (28 companies: Greenhouse API + WebSearch)
+
+> 22 new matches found (7 × 4.0+, 8 secondary 3.5–3.9). Heavy Denver day — True Anomaly opened multiple roles. Chainguard is exceptional Argo/DORA fit. Report: [scout-2026-09-15.md](../reports/scout-2026-09-15.md)
+
+#### Top Picks (4.0+ — Apply Soon)
+
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4707850006 | Chainguard | Staff Software Engineer, Developer Platform | Remote US | ★★★★★ 4.8/5 — Go + Argo Workflows + DORA + agentic CI/CD. $205-231K. Exact match for Workiva platform work.
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5220130007 | True Anomaly | Principal Data Engineer | Denver, CO | ★★★★ 4.5/5 — Snowflake/Databricks/dbt/Airflow/Kafka/AWS stack. $200-280K Denver. Patrick's exact tools. ITAR/US citizen required.
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5182446007 | True Anomaly | Senior Platform Engineer, Infrastructure | Denver, CO | ★★★★ 4.2/5 — Terraform/K8s/AWS-Azure multi-cloud/CI-CD self-service. $175-250K Denver. Clearance eligibility required.
+- [ ] https://jobs.ashbyhq.com/confluent/0b2a4106-7f01-4205-813d-81e4fa1abdb4 | Confluent | Staff Software Engineer I - SRE | Remote US | ★★★★ 4.2/5 — The Kafka company. Staff SRE. Patrick's direct domain. Verify comp.
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5166543007 | True Anomaly | Senior Platform Engineer, AI | Denver, CO | ★★★★ 4.0/5 — LLM APIs/RAG/agents/gov cloud. $190-270K Denver. More app than infra. Clearance eligibility.
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7823195003 | Fivetran | Engineering Manager, Metadata | Denver, CO | ★★★★ 4.0/5 — Denver local, data integration domain. EM of schema/lineage/catalog infra. Verify comp (JD JS-rendered).
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5411560008 | Anthropic | Engineering Manager, Inference Infrastructure | SF/NYC/Seattle | ★★★ 3.9/5 — EM for Claude inference infra. K8s/reliability culture fit. No Denver. Verify comp.
+
+#### Secondary (3.5–3.9 — Review Before Applying)
+
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/8160759 | Planet Labs | Senior Data Engineer | Denver, CO (hybrid 3d/wk) | ★★★ 3.8/5 — GCP/K8s/dbt/Terraform. $172-215K. Deadline Oct 1 — URGENT.
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4688854006 | Chainguard | Staff Software Engineer (Guarded Containers) | Remote US | ★★★ 3.8/5 — K8s/containers. Supply chain security. Verify comp.
+- [ ] https://jobs.ashbyhq.com/confluent/a93ac05b-0ba3-41a9-aa42-a6258c5c5584 | Confluent | Staff Software Engineer I - Confluent Platform | Remote US | ★★★ 3.8/5 — Core Kafka platform. Patrick's stack. Verify comp.
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5224053007 | True Anomaly | Engineering Manager, Autonomy | Denver, CO | ★★★ 3.7/5 — $205-315K but needs deep RL/autonomy expertise. Onsite required.
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5142446007 | True Anomaly | Engineering Manager, Ground Software | Denver, CO | ★★★ 3.7/5 — Ops/platform leadership for ground mission software. Verify comp.
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7810467003 | Fivetran | Senior R&D Software Engineer, Fivetran AI | Denver, CO | ★★★ 3.7/5 — AI features on data integration platform. Verify comp and stack.
+- [ ] https://jobs.ashbyhq.com/confluent/79c5035c-4266-40f0-86e1-84d067ed77b1 | Confluent | Staff Software Engineer - Flink SQL | Remote US | ★★★ 3.6/5 — Stream processing, Kafka-native. Patrick has Kafka depth. Verify comp.
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5138856007 | True Anomaly | ML Engineer (II-III), Space Agentic AI | Denver, CO | ★★★ 3.6/5 — Multi-agent AI for spacecraft autonomy. Comp TBD. ITAR.
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5396396004 | Arize AI | Senior AI Product Engineer, Backend | Remote US | ★★★ 3.5/5 — AI observability platform. LLMOps adjacent. Verify comp.
+
 ## 2026-09-13 — Scout Scan (60+ companies: Greenhouse API + Ashby/Lever WebSearch)
 
 > Full scan: Greenhouse API (40+ boards) + WebSearch (Ashby, Lever, broad Greenhouse discovery). 29,694 history entries at start. **7 new matches** (0 × 4.0+, 4 scored 3.0–3.9, 3 unscored leads). All top tracked companies returned all-seen. Report: [scout-2026-09-13.md](../reports/scout-2026-09-13.md)
