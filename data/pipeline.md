@@ -8392,3 +8392,14 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - https://jobs.lever.co/shield-ai/R5368 | Shield AI — Staff Software Engineer, Autonomy Capabilities (R5368) | TBD — verify | ⭐ 3.3/5
 - https://boards.greenhouse.io/andurilindustries/jobs/5226940007 | Anduril — Algorithm Developer, Tracking Systems | Broomfield / Fort Collins, CO | ⭐ 3.0/5
 - https://boards.greenhouse.io/andurilindustries/jobs/5226941007 | Anduril — Algorithm Engineer, Tracking Systems | Broomfield / Fort Collins, CO | ⭐ 3.0/5
+
+## 2026-09-15 — Quick Check (Greenhouse API only)
+
+> Lightweight API-only scan. 42 companies checked (4 boards returned 404: Temporal, Black Forest Labs, Clickhouse, Aurora Innovation — slugs stale), 8,260 jobs scanned against 27,329 history entries. **6 new matches** across 4 companies (1 marketing false-positive and 1 Canada-Remote dropped). Report: [scout-quickcheck-2026-09-15.md](../reports/scout-quickcheck-2026-09-15.md)
+
+- https://job-boards.greenhouse.io/anthropic/jobs/5424404008 | Anthropic — Staff+ Software Engineer, Distributed Systems | San Francisco / New York
+- https://job-boards.greenhouse.io/anthropic/jobs/5424111008 | Anthropic — Recruiting Analytics Data Engineer | NYC / SF / Seattle ⚠️ verify remote
+- https://boards.greenhouse.io/andurilindustries/jobs/5237960007?gh_jid=5237960007 | Anduril — Senior Software Engineer, Tactical Networking | Seattle, WA
+- https://www.samsara.com/company/careers/roles/8180373?gh_jid=8180373 | Samsara — IT Engineering Manager II | Remote - US ⚠️ IT ops, verify fit
+- https://job-boards.greenhouse.io/chainguard/jobs/4713466006 | Chainguard — Staff Software Engineer (Malware Detection) | United States - Remote
+- https://job-boards.greenhouse.io/scaleai/jobs/4733702005 | Scale AI — Engineering Manager, Connectivity | San Francisco / New York
