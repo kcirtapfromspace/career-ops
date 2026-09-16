@@ -8980,3 +8980,17 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - [ ] [Planet Labs — Senior Software Engineer, GMS App Team](https://job-boards.greenhouse.io/planetlabs/jobs/8155646) | United States, Remote | Discovered 2026-09-15
 - [ ] [Planet Labs — Senior Software Engineer, Storage Infrastructure](https://job-boards.greenhouse.io/planetlabs/jobs/8154780) | United States, Remote | Discovered 2026-09-15
 - [ ] [Planet Labs — Senior Software Engineer, Storage Infrastructure](https://job-boards.greenhouse.io/planetlabs/jobs/8160294) | Canada, Remote | Discovered 2026-09-15
+
+<!-- scout-quickcheck 2026-09-16 — 12 new -->
+- https://job-boards.greenhouse.io/anthropic/jobs/5421263008   <!-- Anthropic: Software Engineer, Tokens and Prompt Structures | San Francisco, CA | New York City, NY -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5239442007?gh_jid=5239442007   <!-- Anduril: Principal Technical Program Manager, Infrastructure Engineering | Seattle, Washington, United States -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5240161007?gh_jid=5240161007   <!-- Anduril: Scientific Software Engineer | Broomfield, Colorado, United States; Fort Collins, Colorado, United States -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5240142007?gh_jid=5240142007   <!-- Anduril: Senior Scientific Software Engineer | Broomfield, Colorado, United States -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5240146007?gh_jid=5240146007   <!-- Anduril: Senior Software Engineer, Air & Missile Defense | Broomfield, Colorado, United States -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5240147007?gh_jid=5240147007   <!-- Anduril: Senior Software Engineer, C++ | Broomfield, Colorado, United States -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5240148007?gh_jid=5240148007   <!-- Anduril: Senior Software Engineer, Sensor Fusion | Broomfield, Colorado, United States -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5240164007?gh_jid=5240164007   <!-- Anduril: Software Engineer, Air & Missile Defense  | Broomfield, Colorado, United States; Fort Collins, Colorado, United States -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5240165007?gh_jid=5240165007   <!-- Anduril: Software Engineer, Battlespace Awareness | Broomfield, Colorado, United States; Fort Collins, Colorado, United States -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5240168007?gh_jid=5240168007   <!-- Anduril: Software Engineer, C++ | Broomfield, Colorado, United States; Fort Collins, Colorado, United States -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5240169007?gh_jid=5240169007   <!-- Anduril: Software Engineer, Sensor Fusion | Broomfield, Colorado, United States; Fort Collins, Colorado, United States -->
+- https://job-boards.greenhouse.io/vercel/jobs/6195280004   <!-- Vercel: Software Engineer, Platform  | Hybrid - San Francisco, New York City -->
