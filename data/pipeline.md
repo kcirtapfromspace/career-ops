@@ -8994,3 +8994,9 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - https://boards.greenhouse.io/andurilindustries/jobs/5240168007?gh_jid=5240168007   <!-- Anduril: Software Engineer, C++ | Broomfield, Colorado, United States; Fort Collins, Colorado, United States -->
 - https://boards.greenhouse.io/andurilindustries/jobs/5240169007?gh_jid=5240169007   <!-- Anduril: Software Engineer, Sensor Fusion | Broomfield, Colorado, United States; Fort Collins, Colorado, United States -->
 - https://job-boards.greenhouse.io/vercel/jobs/6195280004   <!-- Vercel: Software Engineer, Platform  | Hybrid - San Francisco, New York City -->
+
+<!-- scout-quickcheck 2026-09-16b — 4 new -->
+- [ ] [True Anomaly — Engineering Manager, Perception AI](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5240091007) | Denver, CO OR Long Beach, CA | Discovered 2026-09-16
+- [ ] [True Anomaly — Engineering Manager Test and Launch Site](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5136303007) | Long Beach, CA | Discovered 2026-09-16
+- [ ] [Vercel — Member of the Technical Staff - Data Platform](https://job-boards.greenhouse.io/vercel/jobs/6188400004) | Remote - United States | Discovered 2026-09-16
+- [ ] [Figure AI — Software Engineer, Service & Operations](https://job-boards.greenhouse.io/figureai/jobs/4713838006) | San Jose, CA | Discovered 2026-09-16
