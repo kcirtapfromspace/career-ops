@@ -1,5 +1,19 @@
 # Pipeline — Pending Offers
 
+## 2026-09-16 — Scout Scan (25 companies: Greenhouse API + WebSearch)
+
+> 2 new matches. Light scan — 1 day after the Sept 15 major scan. Most boards unchanged. Report: [scout-2026-09-16.md](../reports/scout-2026-09-16.md)
+
+#### Secondary (3.5–3.9 — Review Before Applying)
+
+- [ ] https://jobs.lever.co/verygoodsecurity/ecd731b0-e635-4073-ab32-3c26063f3535 | VGS | Staff Infrastructure Engineer | Remote US | ★★★ 3.7/5 — Multi-region AWS/EKS/Terraform/GitOps/Prometheus/OpenTelemetry. "Golden Paths" platform infra. $145-260K + equity. 7+ yrs. Payments tokenization domain (new for Patrick).
+
+#### Unscored Leads
+
+- [ ] https://job-boards.greenhouse.io/addepar1/jobs/8376079002 | Addepar | Staff Software Engineer, Data Intelligence | Remote US / NYC | — Wealth management AI platform. JD not extractable (generic board page returned). Verify comp/stack manually.
+
+---
+
 ## 2026-09-15 — Scout Scan (28 companies: Greenhouse API + WebSearch)
 
 > 22 new matches found (7 × 4.0+, 8 secondary 3.5–3.9). Heavy Denver day — True Anomaly opened multiple roles. Chainguard is exceptional Argo/DORA fit. Report: [scout-2026-09-15.md](../reports/scout-2026-09-15.md)
