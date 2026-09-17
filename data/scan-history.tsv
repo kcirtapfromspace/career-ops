@@ -30517,3 +30517,19 @@ https://job-boards.greenhouse.io/scaleai/jobs/4733702005	2026-09-15
 2026-09-16	True Anomaly	https://job-boards.greenhouse.io/trueanomalyinc/jobs/5136303007	Engineering Manager Test and Launch Site	Long Beach, CA
 2026-09-16	Vercel	https://job-boards.greenhouse.io/vercel/jobs/6188400004	Member of the Technical Staff - Data Platform	Remote - United States
 2026-09-16	Figure AI	https://job-boards.greenhouse.io/figureai/jobs/4713838006	Software Engineer, Service & Operations	San Jose, CA
+2026-09-17	(scout run)	https://boards-api.greenhouse.io/v1/boards/anthropic/jobs	Anthropic API scan	all_seen
+2026-09-17	(scout run)	https://boards-api.greenhouse.io/v1/boards/andurilindustries/jobs	Anduril API scan	all_seen
+2026-09-17	(scout run)	https://boards-api.greenhouse.io/v1/boards/trueanomalyinc/jobs	True Anomaly API scan	all_seen
+2026-09-17	(scout run)	https://boards-api.greenhouse.io/v1/boards/fivetran/jobs	Fivetran API scan	all_seen
+2026-09-17	(scout run)	https://boards-api.greenhouse.io/v1/boards/scaleai/jobs	Scale AI API scan	all_seen
+2026-09-17	(scout run)	https://boards-api.greenhouse.io/v1/boards/databricks/jobs	Databricks API scan	all_seen
+2026-09-17	(scout run)	https://boards-api.greenhouse.io/v1/boards/chainguard/jobs	Chainguard API scan	all_seen
+2026-09-17	(scout run)	https://boards-api.greenhouse.io/v1/boards/samsara/jobs	Samsara API scan	no_new_matches
+2026-09-17	(scout run)	https://boards-api.greenhouse.io/v1/boards/vercel/jobs	Vercel API scan	all_seen
+2026-09-17	(scout run)	https://boards-api.greenhouse.io/v1/boards/rocketlab/jobs	Rocket Lab API scan	all_seen
+2026-09-17	(scout run)	https://boards-api.greenhouse.io/v1/boards/dagsterlabs/jobs	Dagster API scan	404_board_missing
+2026-09-17	(scout run)	https://boards-api.greenhouse.io/v1/boards/aurorainnovation/jobs	Aurora Innovation API scan	404_board_missing
+2026-09-17	(scout run)	https://boards-api.greenhouse.io/v1/boards/clickhouse/jobs	Clickhouse API scan	404_board_missing
+2026-09-17	(scout run)	https://jobs.ashbyhq.com/confluent	Confluent Ashby scan	all_seen
+2026-09-17	(scout run)	https://jobs.ashbyhq.com/prefect	Prefect Ashby scan	all_seen
+2026-09-17	(scout run)	https://jobs.ashbyhq.com/motherduck	MotherDuck Ashby scan	all_seen
