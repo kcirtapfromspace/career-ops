@@ -9000,3 +9000,23 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - [ ] [True Anomaly — Engineering Manager Test and Launch Site](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5136303007) | Long Beach, CA | Discovered 2026-09-16
 - [ ] [Vercel — Member of the Technical Staff - Data Platform](https://job-boards.greenhouse.io/vercel/jobs/6188400004) | Remote - United States | Discovered 2026-09-16
 - [ ] [Figure AI — Software Engineer, Service & Operations](https://job-boards.greenhouse.io/figureai/jobs/4713838006) | San Jose, CA | Discovered 2026-09-16
+
+<!-- scout-quickcheck 2026-09-17 — 18 new -->
+- [ ] [Helsing — Software Engineer (Early Careers)](https://helsing.ai/jobs/4972043101?gh_jid=4972043101) | Berlin; London; Munich | Discovered 2026-09-17 ⚠️ early-careers seniority
+- [ ] [HelloFresh — Backend Engineer, Consumer](https://careers.hellofresh.com/global/en/job/8197895?gh_jid=8197895) | Toronto, Ontario, Canada | Discovered 2026-09-17
+- [ ] [HelloFresh — Senior Data Engineer, Analytical Data Platform](https://careers.hellofresh.com/global/en/job/8167329?gh_jid=8167329) | Berlin, Germany | Discovered 2026-09-17
+- [ ] [HelloFresh — Staff Backend Engineer, Customer Value Optimization](https://careers.hellofresh.com/global/en/job/8204585?gh_jid=8204585) | Toronto, Ontario, Canada | Discovered 2026-09-17
+- [ ] [Wayve — Data Engineer, Data Quality & Provenance](https://wayve.firststage.co/jobs?gh_jid=8809617002) | Germany | Discovered 2026-09-17
+- [ ] [Wayve — Machine Learning Engineer, Driving Product](https://wayve.firststage.co/jobs?gh_jid=8785371002) | Israel; London; Mountain View | Discovered 2026-09-17
+- [ ] [Wayve — Machine Learning Engineer, Performance Tooling](https://wayve.firststage.co/jobs?gh_jid=8763509002) | London; Sunnyvale | Discovered 2026-09-17
+- [ ] [Wayve — Machine Learning Engineer, Performance Tooling](https://wayve.firststage.co/jobs?gh_jid=8752478002) | London; Sunnyvale | Discovered 2026-09-17
+- [ ] [Wayve — Platform Engineer](https://wayve.firststage.co/jobs?gh_jid=8805659002) | Tokyo | Discovered 2026-09-17
+- [ ] [Wayve — Platform Engineer (SDO)](https://wayve.firststage.co/jobs?gh_jid=8790002002) | Sunnyvale | Discovered 2026-09-17
+- [ ] [Wayve — Senior Machine Learning Engineer - AV Core](https://wayve.firststage.co/jobs?gh_jid=8749971002) | London | Discovered 2026-09-17
+- [ ] [Wayve — Senior Software Engineer - Platform Integration, Robot Software](https://wayve.firststage.co/jobs?gh_jid=8814668002) | Sunnyvale | Discovered 2026-09-17
+- [ ] [Wayve — Staff ML Engineer Gaia](https://wayve.firststage.co/jobs?gh_jid=8809540002) | London | Discovered 2026-09-17
+- [ ] [Wayve — Staff Software Engineer, Data Enrichment Platform](https://wayve.firststage.co/jobs?gh_jid=8810783002) | London | Discovered 2026-09-17
+- [ ] [Wayve — Staff Software Engineer - OS, Robot Software](https://wayve.firststage.co/jobs?gh_jid=8802868002) | Sunnyvale | Discovered 2026-09-17
+- [ ] [Planet Labs — Senior Site Reliability Engineer](https://job-boards.greenhouse.io/planetlabs/jobs/8185816) | Berlin; Netherlands; Slovenia | Discovered 2026-09-17
+- [ ] [Planet Labs — Senior Software Engineer](https://job-boards.greenhouse.io/planetlabs/jobs/8190771) | Berlin; Netherlands; Slovenia | Discovered 2026-09-17
+- [ ] [Planet Labs — Software Engineer](https://job-boards.greenhouse.io/planetlabs/jobs/8190766) | Berlin; Netherlands; Slovenia | Discovered 2026-09-17

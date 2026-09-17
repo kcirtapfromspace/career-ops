@@ -30533,3 +30533,50 @@ https://job-boards.greenhouse.io/scaleai/jobs/4733702005	2026-09-15
 2026-09-17	(scout run)	https://jobs.ashbyhq.com/confluent	Confluent Ashby scan	all_seen
 2026-09-17	(scout run)	https://jobs.ashbyhq.com/prefect	Prefect Ashby scan	all_seen
 2026-09-17	(scout run)	https://jobs.ashbyhq.com/motherduck	MotherDuck Ashby scan	all_seen
+2026-09-17	(scout run)	https://boards-api.greenhouse.io/v1/boards/polyai/jobs	PolyAI API scan	no_matching_titles
+2026-09-17	(scout run)	https://boards-api.greenhouse.io/v1/boards/parloa/jobs	Parloa API scan	all_seen
+2026-09-17	(scout run)	https://boards-api.greenhouse.io/v1/boards/intercom/jobs	Intercom API scan	all_seen
+2026-09-17	(scout run)	https://boards-api.greenhouse.io/v1/boards/humeai/jobs	Hume AI API scan	all_seen
+2026-09-17	(scout run)	https://boards-api.greenhouse.io/v1/boards/airtable/jobs	Airtable API scan	all_seen
+2026-09-17	(scout run)	https://boards-api.greenhouse.io/v1/boards/temporaltechnologies/jobs	Temporal API scan	404_board_missing
+2026-09-17	(scout run)	https://boards-api.greenhouse.io/v1/boards/arizeai/jobs	Arize AI API scan	all_seen
+2026-09-17	(scout run)	https://boards-api.greenhouse.io/v1/boards/gleanwork/jobs	Glean API scan	all_seen
+2026-09-17	(scout run)	https://boards-api.greenhouse.io/v1/boards/speechmatics/jobs	Speechmatics API scan	all_seen
+2026-09-17	(scout run)	https://boards-api.greenhouse.io/v1/boards/blackforestlabs/jobs	Black Forest Labs API scan	404_board_missing
+2026-09-17	(scout run)	https://boards-api.greenhouse.io/v1/boards/helsing/jobs	Helsing API scan	1_new
+2026-09-17	(scout run)	https://boards-api.greenhouse.io/v1/boards/celonis/jobs	Celonis API scan	all_seen
+2026-09-17	(scout run)	https://boards-api.greenhouse.io/v1/boards/contentful/jobs	Contentful API scan	no_matching_titles
+2026-09-17	(scout run)	https://boards-api.greenhouse.io/v1/boards/getyourguide/jobs	GetYourGuide API scan	all_seen
+2026-09-17	(scout run)	https://boards-api.greenhouse.io/v1/boards/hellofresh/jobs	HelloFresh API scan	3_new
+2026-09-17	(scout run)	https://boards-api.greenhouse.io/v1/boards/n26/jobs	N26 API scan	all_seen
+2026-09-17	(scout run)	https://boards-api.greenhouse.io/v1/boards/traderepublicbank/jobs	Trade Republic API scan	all_seen
+2026-09-17	(scout run)	https://boards-api.greenhouse.io/v1/boards/sumup/jobs	SumUp API scan	all_seen
+2026-09-17	(scout run)	https://boards-api.greenhouse.io/v1/boards/wayve/jobs	Wayve API scan	11_new
+2026-09-17	(scout run)	https://boards-api.greenhouse.io/v1/boards/isomorphiclabs/jobs	Isomorphic Labs API scan	all_seen
+2026-09-17	(scout run)	https://boards-api.greenhouse.io/v1/boards/physicsx/jobs	PhysicsX API scan	all_seen
+2026-09-17	(scout run)	https://boards-api.greenhouse.io/v1/boards/stabilityai/jobs	Stability AI API scan	no_matching_titles
+2026-09-17	(scout run)	https://boards-api.greenhouse.io/v1/boards/amplemarket/jobs	Amplemarket API scan	all_seen
+2026-09-17	(scout run)	https://boards-api.greenhouse.io/v1/boards/scandit/jobs	Scandit API scan	all_seen
+2026-09-17	(scout run)	https://boards-api.greenhouse.io/v1/boards/figureai/jobs	Figure AI API scan	all_seen
+2026-09-17	(scout run)	https://boards-api.greenhouse.io/v1/boards/planetlabs/jobs	Planet Labs API scan	3_new
+2026-09-17	(scout run)	https://boards-api.greenhouse.io/v1/boards/nuro/jobs	Nuro API scan	all_seen
+2026-09-17	(scout run)	https://boards-api.greenhouse.io/v1/boards/flyzipline/jobs	Zipline API scan	all_seen
+2026-09-17	(scout run)	https://boards-api.greenhouse.io/v1/boards/vast/jobs	Vast API scan	all_seen
+https://helsing.ai/jobs/4972043101?gh_jid=4972043101	2026-09-17
+https://careers.hellofresh.com/global/en/job/8197895?gh_jid=8197895	2026-09-17
+https://careers.hellofresh.com/global/en/job/8167329?gh_jid=8167329	2026-09-17
+https://careers.hellofresh.com/global/en/job/8204585?gh_jid=8204585	2026-09-17
+https://wayve.firststage.co/jobs?gh_jid=8809617002	2026-09-17
+https://wayve.firststage.co/jobs?gh_jid=8785371002	2026-09-17
+https://wayve.firststage.co/jobs?gh_jid=8763509002	2026-09-17
+https://wayve.firststage.co/jobs?gh_jid=8752478002	2026-09-17
+https://wayve.firststage.co/jobs?gh_jid=8805659002	2026-09-17
+https://wayve.firststage.co/jobs?gh_jid=8790002002	2026-09-17
+https://wayve.firststage.co/jobs?gh_jid=8749971002	2026-09-17
+https://wayve.firststage.co/jobs?gh_jid=8814668002	2026-09-17
+https://wayve.firststage.co/jobs?gh_jid=8809540002	2026-09-17
+https://wayve.firststage.co/jobs?gh_jid=8810783002	2026-09-17
+https://wayve.firststage.co/jobs?gh_jid=8802868002	2026-09-17
+https://job-boards.greenhouse.io/planetlabs/jobs/8185816	2026-09-17
+https://job-boards.greenhouse.io/planetlabs/jobs/8190771	2026-09-17
+https://job-boards.greenhouse.io/planetlabs/jobs/8190766	2026-09-17
