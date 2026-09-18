@@ -9020,3 +9020,8 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - [ ] [Planet Labs — Senior Site Reliability Engineer](https://job-boards.greenhouse.io/planetlabs/jobs/8185816) | Berlin; Netherlands; Slovenia | Discovered 2026-09-17
 - [ ] [Planet Labs — Senior Software Engineer](https://job-boards.greenhouse.io/planetlabs/jobs/8190771) | Berlin; Netherlands; Slovenia | Discovered 2026-09-17
 - [ ] [Planet Labs — Software Engineer](https://job-boards.greenhouse.io/planetlabs/jobs/8190766) | Berlin; Netherlands; Slovenia | Discovered 2026-09-17
+
+<!-- scout-scan 2026-09-18 — 3 new matches -->
+- [ ] [Estuary — Head of Engineering](https://estuary.dev/about/) | Remote US (NYC priority) | ★ 4.0/5 — Perfect domain match: CDC/streaming platform in Go/Rust. Patrick's exact stack from Modern Data Stack Demo. Apply: careers@estuary.dev. Discovered 2026-09-18
+- [ ] [Tubi — Staff Software Engineer, ML Infra & Distributed Systems](https://job-boards.greenhouse.io/tubitv/jobs/7255621) | Remote USA | 3.7/5 — $227K-$324K, Kafka/K8s/AWS, Scala gap. Exceptional comp, Staff level. Discovered 2026-09-18
+- [ ] [Tiberius Aerospace — Senior Software Engineer, Internal Platforms](https://jobs.lever.co/tiberius/1be33200-057e-4599-8924-02601d871d50) | Remote USA | 3.5/5 — Go/Rust/K8s exact match, $175K-$250K, Senior (not Staff), aerospace. US citizenship required. Discovered 2026-09-18
