@@ -1,5 +1,34 @@
 # Pipeline — Pending Offers
 
+## 2026-09-18 — Quick Check (38 companies: Greenhouse API only)
+
+> 14 curated leads (5 top picks, 6 secondary, 3 unscored). 192 new URLs added to history. Notable: Databricks Streaming+SA roles, Vercel remote data platform, True Anomaly Denver EM, Rocket Lab Littleton CO cluster. 4 stale API boards flagged. Report: [scout-quickcheck-2026-09-18.md](../reports/scout-quickcheck-2026-09-18.md)
+
+#### Top Picks (4.0+ — Apply Soon)
+
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6188400004 | Vercel | Member of the Technical Staff - Data Platform | Remote US | Staff data platform role, fully remote, direct domain fit
+- [ ] https://job-boards.greenhouse.io/databricks/jobs/8663972002 | Databricks | Staff Software Engineer - Streaming | Seattle, WA | Kafka/streaming infra, Staff level at $43B data platform leader
+- [ ] https://job-boards.greenhouse.io/databricks/jobs/8761732002 | Databricks | Specialist Solutions Architect - Data Engineering & Warehousing (Digital Native Business) | United States | Patrick's exact stack as customer-facing SA
+- [ ] https://job-boards.greenhouse.io/databricks/jobs/8692962002 | Databricks | Specialist Solutions Architect - Data Engineering & Warehousing (Financial Services) | United States | Same as above, FinServ vertical
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5240091007 | True Anomaly | Engineering Manager, Perception AI | Denver, CO OR Long Beach, CA | Denver EM at dream company, clearance eligibility likely required
+
+#### Secondary (3.5–3.9 — Review Before Applying)
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5428950008 | Anthropic | Staff+ Software Engineer, Storage + Transfer | SF/NYC | Staff+ infra at dream company, SF location accepted
+- [ ] https://job-boards.greenhouse.io/samsara/jobs/8055245 | Samsara | Senior Machine Learning Engineer | Remote US | Remote US ML role, verify comp and stack
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7994336003 | Rocket Lab | Senior Software Engineer II - Digital Engineering | Littleton, CO | Denver metro aerospace, verify comp vs tech benchmarks
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7998854003 | Rocket Lab | Senior Software Engineer I - Customer Solutions | Littleton, CO | Denver metro aerospace, mission-facing software
+- [ ] https://job-boards.greenhouse.io/databricks/jobs/8815669002 | Databricks | Sr. Software Engineer - Ingestion Core team | San Francisco, CA | Data ingestion core, SF location, verify remote-ok
+- [ ] https://job-boards.greenhouse.io/databricks/jobs/8798198002 | Databricks | Staff Software Engineer, Lakeflow Pipelines DR | Mountain View/SF | Pipeline DR infra, Databricks Lakeflow product
+
+#### Unscored Leads
+
+- [ ] https://job-boards.greenhouse.io/andurilindustries/jobs/5189514007 | Anduril | Production Software Engineer | Fort Collins, CO | Fort Collins = N. Colorado, Anduril dream company — verify if production = manufacturing systems or platform
+- [ ] https://job-boards.greenhouse.io/nuro/jobs/8097555 | Nuro | Senior/Staff Software Engineer, AI Agent Infrastructure | Mountain View, CA | AI Agent infra title is exact fit — on-site only, assess if Bay Area relocation viable
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6195280004 | Vercel | Software Engineer, Platform | Hybrid SF/NYC | Vercel platform team — SF hybrid may be acceptable, NYC hybrid is not
+
+---
+
 ## 2026-09-16 — Scout Scan (25 companies: Greenhouse API + WebSearch)
 
 > 2 new matches. Light scan — 1 day after the Sept 15 major scan. Most boards unchanged. Report: [scout-2026-09-16.md](../reports/scout-2026-09-16.md)
