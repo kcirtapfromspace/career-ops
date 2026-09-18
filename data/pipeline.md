@@ -9025,3 +9025,11 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - [ ] [Estuary — Head of Engineering](https://estuary.dev/about/) | Remote US (NYC priority) | ★ 4.0/5 — Perfect domain match: CDC/streaming platform in Go/Rust. Patrick's exact stack from Modern Data Stack Demo. Apply: careers@estuary.dev. Discovered 2026-09-18
 - [ ] [Tubi — Staff Software Engineer, ML Infra & Distributed Systems](https://job-boards.greenhouse.io/tubitv/jobs/7255621) | Remote USA | 3.7/5 — $227K-$324K, Kafka/K8s/AWS, Scala gap. Exceptional comp, Staff level. Discovered 2026-09-18
 - [ ] [Tiberius Aerospace — Senior Software Engineer, Internal Platforms](https://jobs.lever.co/tiberius/1be33200-057e-4599-8924-02601d871d50) | Remote USA | 3.5/5 — Go/Rust/K8s exact match, $175K-$250K, Senior (not Staff), aerospace. US citizenship required. Discovered 2026-09-18
+
+<!-- scout-quickcheck 2026-09-18b — 6 new -->
+- [ ] [Anthropic — Engineering Manager, Labs](https://job-boards.greenhouse.io/anthropic/jobs/5369102008) | San Francisco, CA | New role at dream company — EM role for Labs team. Discovered 2026-09-18
+- [ ] [Anduril — Senior Software Engineer, Battlespace Awareness](https://boards.greenhouse.io/andurilindustries/jobs/5241033007?gh_jid=5241033007) | Broomfield, CO | Dream company. Colorado location. Defense tech. Discovered 2026-09-18
+- [ ] [Anduril — Senior Software Engineer, Distributed Simulation (C++)](https://boards.greenhouse.io/andurilindustries/jobs/5231054007?gh_jid=5231054007) | Seattle, WA | Dream company. C++ distributed systems at scale. Discovered 2026-09-18
+- [ ] [Vercel — Software Engineer, Agentic Infrastructure](https://job-boards.greenhouse.io/vercel/jobs/6199608004) | Hybrid SF/NYC | AI infra for agentic workflows. Discovered 2026-09-18
+- [ ] [Wayve — Staff Machine Learning Software Engineer](https://wayve.firststage.co/jobs?gh_jid=8816473002) | Sunnyvale, CA | Staff ML role at AV company. Discovered 2026-09-18
+- [ ] [Databricks — Sr. Software Engineer, Ingestion Core](https://databricks.com/company/careers/open-positions/job?gh_jid=8815669002) | San Francisco, CA | Ingestion infra at dream data platform company. Discovered 2026-09-18
