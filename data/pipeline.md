@@ -9079,3 +9079,5 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - [ ] [Vercel — Software Engineer, Agentic Infrastructure](https://job-boards.greenhouse.io/vercel/jobs/6199608004) | Hybrid SF/NYC | AI infra for agentic workflows. Discovered 2026-09-18
 - [ ] [Wayve — Staff Machine Learning Software Engineer](https://wayve.firststage.co/jobs?gh_jid=8816473002) | Sunnyvale, CA | Staff ML role at AV company. Discovered 2026-09-18
 - [ ] [Databricks — Sr. Software Engineer, Ingestion Core](https://databricks.com/company/careers/open-positions/job?gh_jid=8815669002) | San Francisco, CA | Ingestion infra at dream data platform company. Discovered 2026-09-18
+
+- https://www.samsara.com/company/careers/roles/8148638?gh_jid=8148638 <!-- Manager II, Software Engineering, Infrastructure | Remote - SF Bay Area | Samsara | found 2026-09-19 -->
