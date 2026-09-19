@@ -1,5 +1,22 @@
 # Pipeline — Pending Offers
 
+## 2026-09-19 — Scout Scan (~30 companies: Greenhouse API + WebSearch)
+
+> 5 new matches (2 top picks, 3 secondary). Confluent opened new AI-focused Staff SWE role — direct stack match. Toast Voice AI Platform role is greenfield Staff opportunity. All previously tracked boards are stable; 3 API boards returned 404 (Clickhouse, Aurora, Temporal — migrated). Report: [scout-2026-09-19.md](../reports/scout-2026-09-19.md)
+
+#### Top Picks (4.0+ — Apply Soon)
+
+- [ ] https://jobs.ashbyhq.com/confluent/80a47c3e-a160-4277-a452-1eef9c689167 | Confluent | Staff Software Engineer (AI) | Remote US | ★★★★ 4.2/5 — Kafka + AI agents; build real-time AI capabilities for Confluent Cloud; Patrick's exact stack; expect $200-270K Staff comp
+- [ ] https://jobs.ashbyhq.com/confluent/a93ac05b-0ba3-41a9-aa42-a6258c5c5584 | Confluent | Staff Software Engineer I - Confluent Platform | Remote US | ★★★★ 4.0/5 — Core Kafka platform, technical direction, distributed messaging; complements Sept 15 pipeline entries
+
+#### Secondary (3.5–3.9 — Review Before Applying)
+
+- [ ] https://jobs.ashbyhq.com/confluent/29920de0-8dfc-4ea4-a97e-9e4a2f4ec083 | Confluent | Staff Software Engineer I - SRE | Remote US | ★★★ 3.8/5 — New posting (possibly reopened from Sept 15); Confluent Cloud SRE at scale; AWS/GCP/Azure multi-cloud
+- [ ] https://jobs.ashbyhq.com/confluent/bef7f6a5-2481-4eb6-a760-86e3746600bb | Confluent | Staff Software Engineer I (Kora Storage) | Remote US | ★★★ 3.8/5 — Distributed storage for Kora next-gen Kafka storage layer; systems engineering depth
+- [ ] https://job-boards.greenhouse.io/toast/jobs/8131117 | Toast | Staff Software Engineer, Voice AI Platform | Remote US | ★★★ 3.6/5 — Greenfield voice AI platform; Staff + full ownership; restaurant tech is new domain but platform engineering is direct fit
+
+---
+
 ## 2026-09-18 — Quick Check (38 companies: Greenhouse API only)
 
 > 14 curated leads (5 top picks, 6 secondary, 3 unscored). 192 new URLs added to history. Notable: Databricks Streaming+SA roles, Vercel remote data platform, True Anomaly Denver EM, Rocket Lab Littleton CO cluster. 4 stale API boards flagged. Report: [scout-quickcheck-2026-09-18.md](../reports/scout-quickcheck-2026-09-18.md)
