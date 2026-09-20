@@ -9081,3 +9081,12 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - [ ] [Databricks — Sr. Software Engineer, Ingestion Core](https://databricks.com/company/careers/open-positions/job?gh_jid=8815669002) | San Francisco, CA | Ingestion infra at dream data platform company. Discovered 2026-09-18
 
 - https://www.samsara.com/company/careers/roles/8148638?gh_jid=8148638 <!-- Manager II, Software Engineering, Infrastructure | Remote - SF Bay Area | Samsara | found 2026-09-19 -->
+
+## 2026-09-20
+
+- [ ] [Temporal — Staff Software Engineer, Observability](https://temporal.io/careers/ab6f8a80-5800-4f29-9c7a-ac2df3e1fe66) | Remote US | $212K–$278K + equity. VA.gov Watchtower fit. Go/K8s/ClickHouse/Prometheus. **Score 4.8/5 — Apply ASAP.** Discovered 2026-09-20
+- [ ] [Temporal — Staff Software Engineer, Cloud Data Storage](https://temporal.io/careers/ceb3ae3d-3a72-4067-b13d-44350a143195) | Remote US | $212K–$278K + equity. Workflow persistence at petabyte scale. Go + distributed systems. Score 4.2/5. Discovered 2026-09-20
+- [ ] [Temporal — Staff Software Engineer, AI Foundations](https://temporal.io/careers/4ee99986-77ad-4113-8058-891d5cc7284a) | Remote US | $212K–$278K + equity. AI agent optimization + distributed systems. Python/Go/TypeScript. Score 4.2/5. Discovered 2026-09-20
+- [ ] [Temporal — Staff Software Engineer, Open Source Server](https://temporal.io/careers/f40a7b70-71c0-49f6-ba9f-1df2de9b46d9) | Remote US | Temporal engine server-side. Go. Score 3.8/5. Discovered 2026-09-20
+- [ ] [Temporal — Senior Engineering Manager, Test Systems & Tooling](https://temporal.io/careers/b656400a-bc30-4fc3-a117-b803ef42634f) | Remote US | EM track, CI/CD platform. Score 3.7/5. Discovered 2026-09-20
+- [ ] [Temporal — Staff Software Engineer, Traffic](https://temporal.io/careers/05507d71-51c9-455c-80b4-2da9699a0e77) | Seattle, WA | Traffic layer at Temporal Cloud. Score 3.7/5. Discovered 2026-09-20
