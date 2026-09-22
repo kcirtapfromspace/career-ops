@@ -9115,3 +9115,10 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 
 <!-- scout-quickcheck 2026-09-22 — 1 new (29 Greenhouse APIs checked) -->
 - [ ] [Arize AI — DevOps Engineer](https://job-boards.greenhouse.io/arizeai/jobs/6203635004) | Remote US | LLMOps/AI observability platform. New DevOps role since last scan. Discovered 2026-09-22
+- [ ] [Anthropic — Engineering Manager, Business Technology](https://job-boards.greenhouse.io/anthropic/jobs/5418402008) | San Francisco, CA | EM role at Anthropic covering business technology. Discovered 2026-09-22
+- [ ] [Anthropic — Engineering Manager, Data Infrastructure](https://job-boards.greenhouse.io/anthropic/jobs/5426135008) | San Francisco, CA | EM for data infrastructure at top AI lab. Discovered 2026-09-22
+- [ ] [Vercel — Engineering Manager, Dashboard](https://job-boards.greenhouse.io/vercel/jobs/6115908004) | Hybrid - San Francisco | EM for dashboard product at Vercel. Discovered 2026-09-22
+- [ ] [Samsara — Manager II, Software Engineering, Infrastructure](https://www.samsara.com/company/careers/roles/8148638) | Remote - US | EM-equivalent for infra team at IoT/AI platform. Discovered 2026-09-22
+- [ ] [Chainguard — Senior Software Engineer (AI CICD)](https://job-boards.greenhouse.io/chainguard/jobs/4712509006) | United States - Remote | AI-assisted CICD pipelines at container security company. Discovered 2026-09-22
+- [ ] [Anduril — 2027 Early Career Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5162263007) | Broomfield, CO; Fort Collins, CO; Seattle, WA | Note: early career level. Discovered 2026-09-22
+- [ ] [Anduril — 2026 Early Career Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/4802146007) | Colorado Springs, CO; Fort Collins, CO; Seattle, WA | Note: early career level. Discovered 2026-09-22
