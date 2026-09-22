@@ -30848,3 +30848,26 @@ https://temporal.io/careers/b656400a-bc30-4fc3-a117-b803ef42634f	2026-09-20	scou
 https://temporal.io/careers/7365a59d-554e-41f4-9163-2fdd528a42ca	2026-09-20	scout-2026-09-20	Staff Software Engineer, Test Systems and Tooling	Temporal	match-3.6
 https://temporal.io/careers/7b63cf37-2bdb-462c-858c-473167563623	2026-09-20	scout-2026-09-20	Software Engineer, Cloud Enablement	Temporal	match-3.4
 https://temporal.io/careers/ddbc1916-39a0-47ff-b868-c9e8b90569f1	2026-09-20	scout-2026-09-20	Senior Software Engineer, Cloud Platform Foundations	Temporal	match-3.6
+https://job-boards.greenhouse.io/scaleai/jobs/4732798005	2026-09-22	scout-2026-09-22	Senior Machine Learning Engineer, Public Sector	Scale AI	match-4.3
+https://job-boards.greenhouse.io/scaleai/jobs/4631848005	2026-09-22	scout-2026-09-22	Machine Learning Engineer, Public Sector	Scale AI	match-4.2
+https://job-boards.greenhouse.io/trueanomalyinc/jobs/5228067007	2026-09-22	scout-2026-09-22	Machine Learning Engineer (II-III), Space Edge Deployment	True Anomaly	match-3.8
+https://job-boards.greenhouse.io/chainguard/jobs/4713466006	2026-09-22	scout-2026-09-22	Staff Software Engineer (Malware Detection)	Chainguard	match-3.7
+https://jobs.ashbyhq.com/confluent/f6b05632-b694-49bf-9464-0af5430c8c6c	2026-09-22	scout-2026-09-22	Senior Engineering Manager, Flink Control Plane	Confluent	match-3.7
+https://job-boards.greenhouse.io/chainguard/jobs/4715303006	2026-09-22	scout-2026-09-22	Senior Manager, Engineering (Container Product Engineering)	Chainguard	match-3.6
+https://job-boards.greenhouse.io/chainguard/jobs/4712228006	2026-09-22	scout-2026-09-22	Staff Software Engineer, Sustaining Automation	Chainguard	match-3.5
+https://job-boards.greenhouse.io/planetlabs/jobs/8106198	2026-09-22	scout-2026-09-22	Senior Site Reliability Engineer	Planet Labs	match-3.5
+https://job-boards.greenhouse.io/chainguard/jobs/4697551006	2026-09-22	scout-2026-09-22	Staff Software Engineer (Repositories)	Chainguard	filtered-secondary
+https://boards-api.greenhouse.io/v1/boards/scaleai/jobs	2026-09-22	(scout run)	Scale AI API scan	2_matches
+https://boards-api.greenhouse.io/v1/boards/trueanomalyinc/jobs	2026-09-22	(scout run)	True Anomaly API scan	1_match
+https://boards-api.greenhouse.io/v1/boards/chainguard/jobs	2026-09-22	(scout run)	Chainguard API scan	4_matches
+https://boards-api.greenhouse.io/v1/boards/databricks/jobs	2026-09-22	(scout run)	Databricks API scan	all_seen
+https://boards-api.greenhouse.io/v1/boards/samsara/jobs	2026-09-22	(scout run)	Samsara API scan	all_seen
+https://boards-api.greenhouse.io/v1/boards/fivetran/jobs	2026-09-22	(scout run)	Fivetran API scan	all_seen
+https://boards-api.greenhouse.io/v1/boards/rocketlab/jobs	2026-09-22	(scout run)	Rocket Lab API scan	no_match
+https://boards-api.greenhouse.io/v1/boards/dagsterlabs/jobs	2026-09-22	(scout run)	Dagster API scan	no_match_empty_board
+https://boards-api.greenhouse.io/v1/boards/planetlabs/jobs	2026-09-22	(scout run)	Planet Labs API scan	1_match
+https://boards-api.greenhouse.io/v1/boards/anthropic/jobs	2026-09-22	(scout run)	Anthropic API scan	all_seen
+https://boards-api.greenhouse.io/v1/boards/andurilindustries/jobs	2026-09-22	(scout run)	Anduril API scan	no_new_sw_match
+https://aurora.tech/careers/9c39a037-8558-4464-800c-110532ca9ac6	2026-09-22	scout-2026-09-22	Senior Software Engineer - Cloud Platform	Aurora Innovation	filtered-hybrid-onsite
+https://aurora.tech/careers/8624caf6-91c7-4f27-a979-c3cab7877bca	2026-09-22	scout-2026-09-22	Software Engineer I (Data Eng infra)	Aurora Innovation	filtered-level-new-grad
+https://aurora.tech/careers/8390484002	2026-09-22	scout-2026-09-22	Senior Software Engineering Manager - Core Cloud Services	Aurora Innovation	filtered-hybrid-onsite

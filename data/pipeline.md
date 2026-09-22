@@ -1,5 +1,25 @@
 # Pipeline — Pending Offers
 
+## 2026-09-22 — Scout Scan (14 companies: Greenhouse API + WebSearch)
+
+> 10 new matches (2 top picks, 5 secondary). **Scale AI opened two Public Sector ML Engineer roles in Denver** — both new, strong government AI fit ($196-294K). True Anomaly added ML Edge Deployment role. 3 new Chainguard Staff/EM roles. Dagster board went empty. Planet Labs Denver Data Engineer deadline Oct 1 — urgent. Report: [scout-2026-09-22.md](../reports/scout-2026-09-22.md)
+
+#### Top Picks (4.0+ — Apply Soon)
+
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4732798005 | Scale AI | Senior Machine Learning Engineer, Public Sector | Denver, CO | ★★★★ 4.3/5 — $235-294K, Denver, federal AI deployment (Donovan/Thunderforge), Patrick's gov background is direct match
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4631848005 | Scale AI | Machine Learning Engineer, Public Sector | Denver, CO | ★★★★ 4.2/5 — $196-245K, Denver, same public sector AI team, agentic AI + LLMs, US citizenship required
+
+#### Secondary (3.5–3.9 — Review Before Applying)
+
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5228067007 | True Anomaly | Machine Learning Engineer (II-III), Space Edge Deployment | Denver, CO | ★★★ 3.8/5 — New role; ML deployment for autonomous spacecraft; $125-220K (comp lower end below floor); ITAR
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4713466006 | Chainguard | Staff Software Engineer (Malware Detection) | US Remote | ★★★ 3.7/5 — New Staff SWE at Chainguard; K8s/containers security; supply chain domain
+- [ ] https://jobs.ashbyhq.com/confluent/f6b05632-b694-49bf-9464-0af5430c8c6c | Confluent | Senior Engineering Manager, Flink Control Plane | Remote US | ★★★ 3.7/5 — New EM posting; Kafka+Flink domain match; verify comp
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4715303006 | Chainguard | Senior Manager, Engineering (Container Product Engineering) | US Remote | ★★★ 3.6/5 — New EM at Chainguard; K8s containers product; verify comp
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4712228006 | Chainguard | Staff Software Engineer, Sustaining Automation | US Remote | ★★★ 3.5/5 — New Staff SWE; supply chain CI/CD automation; GitOps/Argo fit
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/8106198 | Planet Labs | Senior Site Reliability Engineer | US Remote | ★★★ 3.5/5 — Remote US SRE; Senior not Staff; satellite data platform domain
+
+---
+
 ## 2026-09-19 — Scout Scan (~30 companies: Greenhouse API + WebSearch)
 
 > 5 new matches (2 top picks, 3 secondary). Confluent opened new AI-focused Staff SWE role — direct stack match. Toast Voice AI Platform role is greenfield Staff opportunity. All previously tracked boards are stable; 3 API boards returned 404 (Clickhouse, Aurora, Temporal — migrated). Report: [scout-2026-09-19.md](../reports/scout-2026-09-19.md)
