@@ -9110,3 +9110,8 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - [ ] [Temporal — Staff Software Engineer, Open Source Server](https://temporal.io/careers/f40a7b70-71c0-49f6-ba9f-1df2de9b46d9) | Remote US | Temporal engine server-side. Go. Score 3.8/5. Discovered 2026-09-20
 - [ ] [Temporal — Senior Engineering Manager, Test Systems & Tooling](https://temporal.io/careers/b656400a-bc30-4fc3-a117-b803ef42634f) | Remote US | EM track, CI/CD platform. Score 3.7/5. Discovered 2026-09-20
 - [ ] [Temporal — Staff Software Engineer, Traffic](https://temporal.io/careers/05507d71-51c9-455c-80b4-2da9699a0e77) | Seattle, WA | Traffic layer at Temporal Cloud. Score 3.7/5. Discovered 2026-09-20
+
+## 2026-09-22
+
+<!-- scout-quickcheck 2026-09-22 — 1 new (29 Greenhouse APIs checked) -->
+- [ ] [Arize AI — DevOps Engineer](https://job-boards.greenhouse.io/arizeai/jobs/6203635004) | Remote US | LLMOps/AI observability platform. New DevOps role since last scan. Discovered 2026-09-22
