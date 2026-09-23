@@ -9136,3 +9136,161 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - [ ] [Fivetran — Senior Software Engineer - Orchestration](https://www.fivetran.com/careers/job?gh_jid=8003720003) | Denver, Colorado | Denver-local data integration. Orchestration directly relevant to Argo/Airflow background. Discovered 2026-09-23
 - [ ] [Samsara — Senior Platform Engineer, Growth Product Engineering](https://www.samsara.com/company/careers/roles/8223367?gh_jid=8223367) | Remote - CA | Platform engineering at IoT/AI platform. Remote-CA (likely California). Discovered 2026-09-23
 - [ ] [Scale AI — Software Engineer, Public Sector - New Grad](https://job-boards.greenhouse.io/scaleai/jobs/4736426005) | San Francisco, CA | ⚠️ New Grad level — public sector / defense-adjacent at Scale AI. Low fit likely. Discovered 2026-09-23
+
+- https://job-boards.greenhouse.io/anthropic/jobs/4942024008 <!-- Anthropic: Software Engineer, Beneficial Deployments  | San Francisco, CA | New York City, NY | 2026-09-23 -->
+- https://job-boards.greenhouse.io/anthropic/jobs/5017202008 <!-- Anthropic: Software Engineer, Labs | San Francisco, CA | New York City, NY | Seattle, WA | 2026-09-23 -->
+- https://job-boards.greenhouse.io/anthropic/jobs/5432558008 <!-- Anthropic: Staff Software Engineer: Compute | San Francisco, CA | New York City, NY | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5242927007?gh_jid=5242927007 <!-- Anduril: Digital Hardware Engineering Lead | Costa Mesa, California, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5236464007?gh_jid=5236464007 <!-- Anduril: GNC Software Engineer | Waltham, Massachusetts, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5239687007?gh_jid=5239687007 <!-- Anduril: Mission Software Engineer | Lexington, Massachusetts, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5239701007?gh_jid=5239701007 <!-- Anduril: Production Software Engineer | Lexington, Massachusetts, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5243954007?gh_jid=5243954007 <!-- Anduril: Robotics Software Engineer, Test Infrastructure (SITL/HITL) | Irvine, California, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5240161007?gh_jid=5240161007 <!-- Anduril: Scientific Software Engineer | Broomfield, Colorado, United States; Fort Collins, Colorado, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5241683007?gh_jid=5241683007 <!-- Anduril: Senior Cyber Software Engineer | Irvine, California, United States; Washington, District of Columbia, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5238276007?gh_jid=5238276007 <!-- Anduril: Senior Front End Software Engineer, React | Arlington, Virginia, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5236465007?gh_jid=5236465007 <!-- Anduril: Senior GNC Software Engineer | Waltham, Massachusetts, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5238563007?gh_jid=5238563007 <!-- Anduril: Senior Mission Software Engineer | Lexington, Massachusetts, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5238586007?gh_jid=5238586007 <!-- Anduril: Senior Production Software Engineer | Lexington, Massachusetts, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5200318007?gh_jid=5200318007 <!-- Anduril: Senior Robotics Software Engineer, Thunder | Costa Mesa, California, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5244795007?gh_jid=5244795007 <!-- Anduril: Senior Scientific Software Engineer | Broomfield, Colorado, United States; Fort Collins, Colorado, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5240142007?gh_jid=5240142007 <!-- Anduril: Senior Scientific Software Engineer | Broomfield, Colorado, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5240146007?gh_jid=5240146007 <!-- Anduril: Senior Software Engineer, Air & Missile Defense | Broomfield, Colorado, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5244797007?gh_jid=5244797007 <!-- Anduril: Senior Software Engineer, Battlespace Awareness | Broomfield, Colorado, United States; Fort Collins, Colorado, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5236469007?gh_jid=5236469007 <!-- Anduril: Senior Software Engineer, Battlespace Awareness  | Waltham, Massachusetts, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5240147007?gh_jid=5240147007 <!-- Anduril: Senior Software Engineer, C++ | Broomfield, Colorado, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5244796007?gh_jid=5244796007 <!-- Anduril: Senior Software Engineer, C++ | Broomfield, Colorado, United States; Fort Collins, Colorado, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5241519007?gh_jid=5241519007 <!-- Anduril: Senior Software Engineer,  Discovery | Boston, Massachusetts, United States; Costa Mesa, California, United States; Washington, District of Columbia, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5247298007?gh_jid=5247298007 <!-- Anduril: Senior Software Engineer, Robotics Data Foundation (Cloud) | Seattle, Washington, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5236498007?gh_jid=5236498007 <!-- Anduril: Senior Software Engineer, Robotics Tracking and Fusion | Waltham, Massachusetts, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5236499007?gh_jid=5236499007 <!-- Anduril: Senior Software Engineer, Robotics Tracking and Fusion | Washington, District of Columbia, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5236473007?gh_jid=5236473007 <!-- Anduril: Senior Software Engineer, Rust  | Waltham, Massachusetts, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5240148007?gh_jid=5240148007 <!-- Anduril: Senior Software Engineer, Sensor Fusion | Broomfield, Colorado, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5217318007?gh_jid=5217318007 <!-- Anduril: Senior Software Engineer, Simulation Infrastructure | Costa Mesa, California, United States; Washington, District of Columbia, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5118980007?gh_jid=5118980007 <!-- Anduril: Senior Software Engineer, Tactical Networking | Costa Mesa, California, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5244798007?gh_jid=5244798007 <!-- Anduril: Senior Software Engineer, Target Tracking | Broomfield, Colorado, United States; Fort Collins, Colorado, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5228141007?gh_jid=5228141007 <!-- Anduril: Senior Software Engineer, VMS | Quincy, Massachusetts, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5241955007?gh_jid=5241955007 <!-- Anduril: Senior Software Engineer, VMS | Boston, Massachusetts, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5247140007?gh_jid=5247140007 <!-- Anduril: Senior Telecom Infrastructure Engineer | Boston, Massachusetts, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5247141007?gh_jid=5247141007 <!-- Anduril: Senior Telecom Infrastructure Engineer | Ashville, Ohio, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5241090007?gh_jid=5241090007 <!-- Anduril: Senior Telecom Infrastructure Engineer | Washington, District of Columbia, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5247148007?gh_jid=5247148007 <!-- Anduril: Site Reliability Engineer | Waltham, Massachusetts, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5236936007?gh_jid=5236936007 <!-- Anduril: Site Reliability Engineer, Discovery | Arlington, Virginia, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5240173007?gh_jid=5240173007 <!-- Anduril: Software Engineer, Air & Missile Defense | Huntsville, Alabama, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5240164007?gh_jid=5240164007 <!-- Anduril: Software Engineer, Air & Missile Defense  | Broomfield, Colorado, United States; Fort Collins, Colorado, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5240165007?gh_jid=5240165007 <!-- Anduril: Software Engineer, Battlespace Awareness | Broomfield, Colorado, United States; Fort Collins, Colorado, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5236476007?gh_jid=5236476007 <!-- Anduril: Software Engineer, Battlespace Awareness  | Waltham, Massachusetts, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5240168007?gh_jid=5240168007 <!-- Anduril: Software Engineer, C++ | Broomfield, Colorado, United States; Fort Collins, Colorado, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5242907007?gh_jid=5242907007 <!-- Anduril:  Software Engineer, Discovery | Boston, Massachusetts, United States; Costa Mesa, California, United States; Washington, District of Columbia, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5131034007?gh_jid=5131034007 <!-- Anduril: Software Engineer - Maritime | Costa Mesa, California, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5247292007?gh_jid=5247292007 <!-- Anduril: Software Engineer, Robotics Data Foundation (Cloud) | Boston, Massachusetts, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5236493007?gh_jid=5236493007 <!-- Anduril: Software Engineer, Robotics Tracking and Fusion | Waltham, Massachusetts, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5236494007?gh_jid=5236494007 <!-- Anduril: Software Engineer, Robotics Tracking and Fusion | Washington, District of Columbia, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5236480007?gh_jid=5236480007 <!-- Anduril: Software Engineer, Rust  | Waltham, Massachusetts, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5240169007?gh_jid=5240169007 <!-- Anduril: Software Engineer, Sensor Fusion | Broomfield, Colorado, United States; Fort Collins, Colorado, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5244590007?gh_jid=5244590007 <!-- Anduril: Software Engineer, Space Systems Test | Costa Mesa, California, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5244366007?gh_jid=5244366007 <!-- Anduril: Software Engineer, Strategic Defense | Costa Mesa, California, United States; Reston, Virginia, United States; Seattle, Washington, United States; Washington, District of Columbia, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5244194007?gh_jid=5244194007 <!-- Anduril: Software Engineer - Surface Dominance | Costa Mesa, California, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5239515007?gh_jid=5239515007 <!-- Anduril: Software Engineer - Underseas Recon & Strike | Boston, Massachusetts, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5236563007?gh_jid=5236563007 <!-- Anduril: Winter 2027 Software Engineer Co-op | Quincy, Massachusetts, United States | 2026-09-23 -->
+- https://job-boards.greenhouse.io/arizeai/jobs/6203648004 <!-- Arize AI: DevOps Support Engineer (Argentina) | Remote (Buenos Aires) | 2026-09-23 -->
+- https://careers.hellofresh.com/global/en/job/8104381?gh_jid=8104381 <!-- HelloFresh: Area Manager I, Fulfillment | Goodyear, AZ, United States | 2026-09-23 -->
+- https://careers.hellofresh.com/global/en/job/8186071?gh_jid=8186071 <!-- HelloFresh: [TECH] Engineering Manager [CONSUMER] | Warszawa, Masovian Voivodeship, Poland | 2026-09-23 -->
+- https://careers.hellofresh.com/global/en/job/8213552?gh_jid=8213552 <!-- HelloFresh: [US-DC] Director, Fulfillment | Goodyear, Arizona, United States | 2026-09-23 -->
+- https://sumup.com/careers/positions/8827465002?gh_jid=8827465002 <!-- SumUp: Senior Software Engineer, EU Own Acquiring | Sofia, Bulgaria | 2026-09-23 -->
+- https://wayve.firststage.co/jobs?gh_jid=8804208002 <!-- Wayve: Data Engineer, Application Software | Japan | 2026-09-23 -->
+- https://wayve.firststage.co/jobs?gh_jid=8809685002 <!-- Wayve: Machine Learning Engineer | Japan | 2026-09-23 -->
+- https://wayve.firststage.co/jobs?gh_jid=8721392002 <!-- Wayve: Senior Software Engineer - Runtime Platform, Robot Software | Sunnyvale | 2026-09-23 -->
+- https://www.fivetran.com/careers/job?gh_jid=7996531003 <!-- Fivetran: Global Technology Alliance Manager, Databricks | Remote, Texas, United States, AMER | 2026-09-23 -->
+- https://www.fivetran.com/careers/job?gh_jid=8000571003 <!-- Fivetran: Senior Site Reliability Engineer | Novi Sad, South Bačka, Serbia, EMEA | 2026-09-23 -->
+- https://www.fivetran.com/careers/job?gh_jid=7980977003 <!-- Fivetran: Senior Software Engineer - Orchestration | Ontario, Canada | 2026-09-23 -->
+- https://www.fivetran.com/careers/job?gh_jid=8003725003 <!-- Fivetran: Senior Software Engineer - Orchestration | Oakland, California, United States | 2026-09-23 -->
+- https://www.fivetran.com/careers/job?gh_jid=7818380003 <!-- Fivetran: Senior Staff Software Engineer | Oakland, California, United States | 2026-09-23 -->
+- https://www.fivetran.com/careers/job?gh_jid=7992270003 <!-- Fivetran: Staff Site Reliability Engineer | Dublin, Dublin, Ireland, EMEA | 2026-09-23 -->
+- https://www.samsara.com/company/careers/roles/8221852?gh_jid=8221852 <!-- Samsara: Manager II, Software Engineering, Infrastructure | Remote - Canada | 2026-09-23 -->
+- https://www.samsara.com/company/careers/roles/8210695?gh_jid=8210695 <!-- Samsara: Software Engineer I, External Platform EMEA (Poland, Remote, B2B) | Remote - Poland | 2026-09-23 -->
+- https://www.samsara.com/company/careers/roles/8210697?gh_jid=8210697 <!-- Samsara: Sr. Software Engineer II / Tech lead, External Platform (Poland, Remote, B2B) | Remote - Poland | 2026-09-23 -->
+- https://databricks.com/company/careers/open-positions/job?gh_jid=8806934002 <!-- Databricks: Senior Software Engineer, Compute Infrastructure | Mountain View, California | 2026-09-23 -->
+- https://job-boards.greenhouse.io/rocketlab/jobs/8003751003 <!-- Rocket Lab: Principal Software Engineer  - TS/SCI | Littleton, CO | 2026-09-23 -->
+- https://job-boards.greenhouse.io/rocketlab/jobs/7862983003 <!-- Rocket Lab: Software Engineer - Neutron Flight Safety Systems | Auckland, NZ | 2026-09-23 -->
+- https://boards.greenhouse.io/vast/jobs/4715944006?gh_jid=4715944006 <!-- Vast: Software Engineer, Mission Software | Long Beach, California, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/vast/jobs/4714392006?gh_jid=4714392006 <!-- Vast: Staff HPC Infrastructure Engineer | Long Beach, California, United States | 2026-09-23 -->
+- https://nuro.ai/careersitem?gh_jid=8227399 <!-- Nuro: Software Engineer, Performance Tooling and Infrastructure New Grad | Mountain View, California (HQ) | 2026-09-23 -->
+
+- https://job-boards.greenhouse.io/anthropic/jobs/4942024008 <!-- Anthropic: Software Engineer, Beneficial Deployments  | San Francisco, CA | New York City, NY | 2026-09-23 -->
+- https://job-boards.greenhouse.io/anthropic/jobs/5017202008 <!-- Anthropic: Software Engineer, Labs | San Francisco, CA | New York City, NY | Seattle, WA | 2026-09-23 -->
+- https://job-boards.greenhouse.io/anthropic/jobs/5432558008 <!-- Anthropic: Staff Software Engineer: Compute | San Francisco, CA | New York City, NY | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5242927007?gh_jid=5242927007 <!-- Anduril: Digital Hardware Engineering Lead | Costa Mesa, California, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5236464007?gh_jid=5236464007 <!-- Anduril: GNC Software Engineer | Waltham, Massachusetts, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5239687007?gh_jid=5239687007 <!-- Anduril: Mission Software Engineer | Lexington, Massachusetts, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5239701007?gh_jid=5239701007 <!-- Anduril: Production Software Engineer | Lexington, Massachusetts, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5243954007?gh_jid=5243954007 <!-- Anduril: Robotics Software Engineer, Test Infrastructure (SITL/HITL) | Irvine, California, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5240161007?gh_jid=5240161007 <!-- Anduril: Scientific Software Engineer | Broomfield, Colorado, United States; Fort Collins, Colorado, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5241683007?gh_jid=5241683007 <!-- Anduril: Senior Cyber Software Engineer | Irvine, California, United States; Washington, District of Columbia, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5238276007?gh_jid=5238276007 <!-- Anduril: Senior Front End Software Engineer, React | Arlington, Virginia, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5236465007?gh_jid=5236465007 <!-- Anduril: Senior GNC Software Engineer | Waltham, Massachusetts, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5238563007?gh_jid=5238563007 <!-- Anduril: Senior Mission Software Engineer | Lexington, Massachusetts, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5238586007?gh_jid=5238586007 <!-- Anduril: Senior Production Software Engineer | Lexington, Massachusetts, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5200318007?gh_jid=5200318007 <!-- Anduril: Senior Robotics Software Engineer, Thunder | Costa Mesa, California, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5244795007?gh_jid=5244795007 <!-- Anduril: Senior Scientific Software Engineer | Broomfield, Colorado, United States; Fort Collins, Colorado, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5240142007?gh_jid=5240142007 <!-- Anduril: Senior Scientific Software Engineer | Broomfield, Colorado, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5240146007?gh_jid=5240146007 <!-- Anduril: Senior Software Engineer, Air & Missile Defense | Broomfield, Colorado, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5244797007?gh_jid=5244797007 <!-- Anduril: Senior Software Engineer, Battlespace Awareness | Broomfield, Colorado, United States; Fort Collins, Colorado, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5236469007?gh_jid=5236469007 <!-- Anduril: Senior Software Engineer, Battlespace Awareness  | Waltham, Massachusetts, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5240147007?gh_jid=5240147007 <!-- Anduril: Senior Software Engineer, C++ | Broomfield, Colorado, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5244796007?gh_jid=5244796007 <!-- Anduril: Senior Software Engineer, C++ | Broomfield, Colorado, United States; Fort Collins, Colorado, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5241519007?gh_jid=5241519007 <!-- Anduril: Senior Software Engineer,  Discovery | Boston, Massachusetts, United States; Costa Mesa, California, United States; Washington, District of Columbia, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5247298007?gh_jid=5247298007 <!-- Anduril: Senior Software Engineer, Robotics Data Foundation (Cloud) | Seattle, Washington, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5236498007?gh_jid=5236498007 <!-- Anduril: Senior Software Engineer, Robotics Tracking and Fusion | Waltham, Massachusetts, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5236499007?gh_jid=5236499007 <!-- Anduril: Senior Software Engineer, Robotics Tracking and Fusion | Washington, District of Columbia, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5236473007?gh_jid=5236473007 <!-- Anduril: Senior Software Engineer, Rust  | Waltham, Massachusetts, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5240148007?gh_jid=5240148007 <!-- Anduril: Senior Software Engineer, Sensor Fusion | Broomfield, Colorado, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5217318007?gh_jid=5217318007 <!-- Anduril: Senior Software Engineer, Simulation Infrastructure | Costa Mesa, California, United States; Washington, District of Columbia, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5118980007?gh_jid=5118980007 <!-- Anduril: Senior Software Engineer, Tactical Networking | Costa Mesa, California, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5244798007?gh_jid=5244798007 <!-- Anduril: Senior Software Engineer, Target Tracking | Broomfield, Colorado, United States; Fort Collins, Colorado, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5228141007?gh_jid=5228141007 <!-- Anduril: Senior Software Engineer, VMS | Quincy, Massachusetts, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5241955007?gh_jid=5241955007 <!-- Anduril: Senior Software Engineer, VMS | Boston, Massachusetts, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5247140007?gh_jid=5247140007 <!-- Anduril: Senior Telecom Infrastructure Engineer | Boston, Massachusetts, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5247141007?gh_jid=5247141007 <!-- Anduril: Senior Telecom Infrastructure Engineer | Ashville, Ohio, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5241090007?gh_jid=5241090007 <!-- Anduril: Senior Telecom Infrastructure Engineer | Washington, District of Columbia, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5247148007?gh_jid=5247148007 <!-- Anduril: Site Reliability Engineer | Waltham, Massachusetts, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5236936007?gh_jid=5236936007 <!-- Anduril: Site Reliability Engineer, Discovery | Arlington, Virginia, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5240173007?gh_jid=5240173007 <!-- Anduril: Software Engineer, Air & Missile Defense | Huntsville, Alabama, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5240164007?gh_jid=5240164007 <!-- Anduril: Software Engineer, Air & Missile Defense  | Broomfield, Colorado, United States; Fort Collins, Colorado, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5240165007?gh_jid=5240165007 <!-- Anduril: Software Engineer, Battlespace Awareness | Broomfield, Colorado, United States; Fort Collins, Colorado, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5236476007?gh_jid=5236476007 <!-- Anduril: Software Engineer, Battlespace Awareness  | Waltham, Massachusetts, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5240168007?gh_jid=5240168007 <!-- Anduril: Software Engineer, C++ | Broomfield, Colorado, United States; Fort Collins, Colorado, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5242907007?gh_jid=5242907007 <!-- Anduril:  Software Engineer, Discovery | Boston, Massachusetts, United States; Costa Mesa, California, United States; Washington, District of Columbia, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5131034007?gh_jid=5131034007 <!-- Anduril: Software Engineer - Maritime | Costa Mesa, California, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5247292007?gh_jid=5247292007 <!-- Anduril: Software Engineer, Robotics Data Foundation (Cloud) | Boston, Massachusetts, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5236493007?gh_jid=5236493007 <!-- Anduril: Software Engineer, Robotics Tracking and Fusion | Waltham, Massachusetts, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5236494007?gh_jid=5236494007 <!-- Anduril: Software Engineer, Robotics Tracking and Fusion | Washington, District of Columbia, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5236480007?gh_jid=5236480007 <!-- Anduril: Software Engineer, Rust  | Waltham, Massachusetts, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5240169007?gh_jid=5240169007 <!-- Anduril: Software Engineer, Sensor Fusion | Broomfield, Colorado, United States; Fort Collins, Colorado, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5244590007?gh_jid=5244590007 <!-- Anduril: Software Engineer, Space Systems Test | Costa Mesa, California, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5244366007?gh_jid=5244366007 <!-- Anduril: Software Engineer, Strategic Defense | Costa Mesa, California, United States; Reston, Virginia, United States; Seattle, Washington, United States; Washington, District of Columbia, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5244194007?gh_jid=5244194007 <!-- Anduril: Software Engineer - Surface Dominance | Costa Mesa, California, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5239515007?gh_jid=5239515007 <!-- Anduril: Software Engineer - Underseas Recon & Strike | Boston, Massachusetts, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5236563007?gh_jid=5236563007 <!-- Anduril: Winter 2027 Software Engineer Co-op | Quincy, Massachusetts, United States | 2026-09-23 -->
+- https://job-boards.greenhouse.io/arizeai/jobs/6203648004 <!-- Arize AI: DevOps Support Engineer (Argentina) | Remote (Buenos Aires) | 2026-09-23 -->
+- https://careers.hellofresh.com/global/en/job/8104381?gh_jid=8104381 <!-- HelloFresh: Area Manager I, Fulfillment | Goodyear, AZ, United States | 2026-09-23 -->
+- https://careers.hellofresh.com/global/en/job/8186071?gh_jid=8186071 <!-- HelloFresh: [TECH] Engineering Manager [CONSUMER] | Warszawa, Masovian Voivodeship, Poland | 2026-09-23 -->
+- https://careers.hellofresh.com/global/en/job/8213552?gh_jid=8213552 <!-- HelloFresh: [US-DC] Director, Fulfillment | Goodyear, Arizona, United States | 2026-09-23 -->
+- https://sumup.com/careers/positions/8827465002?gh_jid=8827465002 <!-- SumUp: Senior Software Engineer, EU Own Acquiring | Sofia, Bulgaria | 2026-09-23 -->
+- https://wayve.firststage.co/jobs?gh_jid=8804208002 <!-- Wayve: Data Engineer, Application Software | Japan | 2026-09-23 -->
+- https://wayve.firststage.co/jobs?gh_jid=8809685002 <!-- Wayve: Machine Learning Engineer | Japan | 2026-09-23 -->
+- https://wayve.firststage.co/jobs?gh_jid=8721392002 <!-- Wayve: Senior Software Engineer - Runtime Platform, Robot Software | Sunnyvale | 2026-09-23 -->
+- https://www.fivetran.com/careers/job?gh_jid=7996531003 <!-- Fivetran: Global Technology Alliance Manager, Databricks | Remote, Texas, United States, AMER | 2026-09-23 -->
+- https://www.fivetran.com/careers/job?gh_jid=8000571003 <!-- Fivetran: Senior Site Reliability Engineer | Novi Sad, South Bačka, Serbia, EMEA | 2026-09-23 -->
+- https://www.fivetran.com/careers/job?gh_jid=7980977003 <!-- Fivetran: Senior Software Engineer - Orchestration | Ontario, Canada | 2026-09-23 -->
+- https://www.fivetran.com/careers/job?gh_jid=8003725003 <!-- Fivetran: Senior Software Engineer - Orchestration | Oakland, California, United States | 2026-09-23 -->
+- https://www.fivetran.com/careers/job?gh_jid=7818380003 <!-- Fivetran: Senior Staff Software Engineer | Oakland, California, United States | 2026-09-23 -->
+- https://www.fivetran.com/careers/job?gh_jid=7992270003 <!-- Fivetran: Staff Site Reliability Engineer | Dublin, Dublin, Ireland, EMEA | 2026-09-23 -->
+- https://www.samsara.com/company/careers/roles/8221852?gh_jid=8221852 <!-- Samsara: Manager II, Software Engineering, Infrastructure | Remote - Canada | 2026-09-23 -->
+- https://www.samsara.com/company/careers/roles/8210695?gh_jid=8210695 <!-- Samsara: Software Engineer I, External Platform EMEA (Poland, Remote, B2B) | Remote - Poland | 2026-09-23 -->
+- https://www.samsara.com/company/careers/roles/8210697?gh_jid=8210697 <!-- Samsara: Sr. Software Engineer II / Tech lead, External Platform (Poland, Remote, B2B) | Remote - Poland | 2026-09-23 -->
+- https://databricks.com/company/careers/open-positions/job?gh_jid=8806934002 <!-- Databricks: Senior Software Engineer, Compute Infrastructure | Mountain View, California | 2026-09-23 -->
+- https://job-boards.greenhouse.io/rocketlab/jobs/8003751003 <!-- Rocket Lab: Principal Software Engineer  - TS/SCI | Littleton, CO | 2026-09-23 -->
+- https://job-boards.greenhouse.io/rocketlab/jobs/7862983003 <!-- Rocket Lab: Software Engineer - Neutron Flight Safety Systems | Auckland, NZ | 2026-09-23 -->
+- https://boards.greenhouse.io/vast/jobs/4715944006?gh_jid=4715944006 <!-- Vast: Software Engineer, Mission Software | Long Beach, California, United States | 2026-09-23 -->
+- https://boards.greenhouse.io/vast/jobs/4714392006?gh_jid=4714392006 <!-- Vast: Staff HPC Infrastructure Engineer | Long Beach, California, United States | 2026-09-23 -->
+- https://nuro.ai/careersitem?gh_jid=8227399 <!-- Nuro: Software Engineer, Performance Tooling and Infrastructure New Grad | Mountain View, California (HQ) | 2026-09-23 -->
