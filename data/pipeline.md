@@ -9122,3 +9122,9 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - [ ] [Chainguard — Senior Software Engineer (AI CICD)](https://job-boards.greenhouse.io/chainguard/jobs/4712509006) | United States - Remote | AI-assisted CICD pipelines at container security company. Discovered 2026-09-22
 - [ ] [Anduril — 2027 Early Career Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5162263007) | Broomfield, CO; Fort Collins, CO; Seattle, WA | Note: early career level. Discovered 2026-09-22
 - [ ] [Anduril — 2026 Early Career Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/4802146007) | Colorado Springs, CO; Fort Collins, CO; Seattle, WA | Note: early career level. Discovered 2026-09-22
+
+## 2026-09-23
+
+<!-- scout 2026-09-23 — 2 new matches (21 Greenhouse APIs + 5 WebSearch) -->
+- [ ] [Anthropic — [DH] Engineering Manager, AI Observability](https://job-boards.greenhouse.io/anthropic/jobs/5429202008) | San Francisco, CA (hybrid 25%) | $405K–$850K. VA.gov Watchtower is direct proof point (unified observability, 40+ teams, 18M veterans). EM reqs achievable. AI observability focus. **Score 4.2/5.** Discovered 2026-09-23
+- [ ] [Chainguard — Staff Platform Database Engineer](https://job-boards.greenhouse.io/chainguard/jobs/4713044006) | United States - Remote | $205K–$231K in target range. PostgreSQL/Go/K8s/AWS all match. Staff level. CDC pipelines + K8s stateful experience directly applicable. **Score 4.0/5.** Discovered 2026-09-23
