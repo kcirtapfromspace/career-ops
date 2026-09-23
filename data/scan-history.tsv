@@ -30913,3 +30913,45 @@ https://job-boards.greenhouse.io/chainguard/jobs/4713044006	2026-09-23	scout-202
 https://job-boards.greenhouse.io/dagster/jobs	2026-09-23	scout-2026-09-23	Dagster API scan	empty_board
 https://job-boards.greenhouse.io/clickhouse/jobs	2026-09-23	scout-2026-09-23	ClickHouse API scan	404
 https://job-boards.greenhouse.io/blackforestlabs/jobs	2026-09-23	scout-2026-09-23	Black Forest Labs API scan	404
+https://boards-api.greenhouse.io/v1/boards/anthropic/jobs	2026-09-23	(scout quickcheck-b)	Anthropic API scan	no_new
+https://boards-api.greenhouse.io/v1/boards/andurilindustries/jobs	2026-09-23	(scout quickcheck-b)	Anduril API scan	no_new
+https://boards-api.greenhouse.io/v1/boards/trueanomalyinc/jobs	2026-09-23	(scout quickcheck-b)	True Anomaly API scan	no_new
+https://boards-api.greenhouse.io/v1/boards/polyai/jobs	2026-09-23	(scout quickcheck-b)	PolyAI API scan	no_new
+https://boards-api.greenhouse.io/v1/boards/parloa/jobs	2026-09-23	(scout quickcheck-b)	Parloa API scan	no_new
+https://boards-api.greenhouse.io/v1/boards/intercom/jobs	2026-09-23	(scout quickcheck-b)	Intercom API scan	no_new
+https://boards-api.greenhouse.io/v1/boards/humeai/jobs	2026-09-23	(scout quickcheck-b)	Hume AI API scan	no_new
+https://boards-api.greenhouse.io/v1/boards/airtable/jobs	2026-09-23	(scout quickcheck-b)	Airtable API scan	no_new
+https://boards-api.greenhouse.io/v1/boards/vercel/jobs	2026-09-23	(scout quickcheck-b)	Vercel API scan	no_new
+https://boards-api.greenhouse.io/v1/boards/arizeai/jobs	2026-09-23	(scout quickcheck-b)	Arize AI API scan	1_new_match_non_us_filtered
+https://boards-api.greenhouse.io/v1/boards/gleanwork/jobs	2026-09-23	(scout quickcheck-b)	Glean API scan	no_new
+https://boards-api.greenhouse.io/v1/boards/helsing/jobs	2026-09-23	(scout quickcheck-b)	Helsing API scan	no_new
+https://boards-api.greenhouse.io/v1/boards/celonis/jobs	2026-09-23	(scout quickcheck-b)	Celonis API scan	no_new
+https://boards-api.greenhouse.io/v1/boards/contentful/jobs	2026-09-23	(scout quickcheck-b)	Contentful API scan	no_new
+https://boards-api.greenhouse.io/v1/boards/getyourguide/jobs	2026-09-23	(scout quickcheck-b)	GetYourGuide API scan	no_new
+https://boards-api.greenhouse.io/v1/boards/hellofresh/jobs	2026-09-23	(scout quickcheck-b)	HelloFresh API scan	no_new
+https://boards-api.greenhouse.io/v1/boards/n26/jobs	2026-09-23	(scout quickcheck-b)	N26 API scan	no_new
+https://boards-api.greenhouse.io/v1/boards/traderepublicbank/jobs	2026-09-23	(scout quickcheck-b)	Trade Republic API scan	no_new
+https://boards-api.greenhouse.io/v1/boards/sumup/jobs	2026-09-23	(scout quickcheck-b)	SumUp API scan	no_new
+https://boards-api.greenhouse.io/v1/boards/scandit/jobs	2026-09-23	(scout quickcheck-b)	Scandit API scan	no_new
+https://boards-api.greenhouse.io/v1/boards/wayve/jobs	2026-09-23	(scout quickcheck-b)	Wayve API scan	no_new
+https://boards-api.greenhouse.io/v1/boards/isomorphiclabs/jobs	2026-09-23	(scout quickcheck-b)	Isomorphic Labs API scan	no_new
+https://boards-api.greenhouse.io/v1/boards/physicsx/jobs	2026-09-23	(scout quickcheck-b)	PhysicsX API scan	no_new
+https://boards-api.greenhouse.io/v1/boards/stabilityai/jobs	2026-09-23	(scout quickcheck-b)	Stability AI API scan	no_new
+https://boards-api.greenhouse.io/v1/boards/amplemarket/jobs	2026-09-23	(scout quickcheck-b)	Amplemarket API scan	no_new
+https://boards-api.greenhouse.io/v1/boards/speechmatics/jobs	2026-09-23	(scout quickcheck-b)	Speechmatics API scan	no_new
+https://boards-api.greenhouse.io/v1/boards/dagsterlabs/jobs	2026-09-23	(scout quickcheck-b)	Dagster API scan	empty_board
+https://boards-api.greenhouse.io/v1/boards/fivetran/jobs	2026-09-23	(scout quickcheck-b)	Fivetran API scan	3_new_1_match_us
+https://boards-api.greenhouse.io/v1/boards/samsara/jobs	2026-09-23	(scout quickcheck-b)	Samsara API scan	4_new_1_us_match
+https://boards-api.greenhouse.io/v1/boards/chainguard/jobs	2026-09-23	(scout quickcheck-b)	Chainguard API scan	1_new_match
+https://boards-api.greenhouse.io/v1/boards/scaleai/jobs	2026-09-23	(scout quickcheck-b)	Scale AI API scan	1_new_match
+https://boards-api.greenhouse.io/v1/boards/databricks/jobs	2026-09-23	(scout quickcheck-b)	Databricks API scan	no_new
+https://boards-api.greenhouse.io/v1/boards/nuro/jobs	2026-09-23	(scout quickcheck-b)	Nuro API scan	no_new
+https://boards-api.greenhouse.io/v1/boards/flyzipline/jobs	2026-09-23	(scout quickcheck-b)	Zipline API scan	no_new
+https://boards-api.greenhouse.io/v1/boards/figureai/jobs	2026-09-23	(scout quickcheck-b)	Figure AI API scan	no_new
+https://boards-api.greenhouse.io/v1/boards/vast/jobs	2026-09-23	(scout quickcheck-b)	Vast API scan	2_new_long_beach_filtered
+https://boards-api.greenhouse.io/v1/boards/planetlabs/jobs	2026-09-23	(scout quickcheck-b)	Planet Labs API scan	no_new
+https://boards-api.greenhouse.io/v1/boards/rocketlab/jobs	2026-09-23	(scout quickcheck-b)	Rocket Lab API scan	no_new
+https://job-boards.greenhouse.io/chainguard/jobs/4715630006	2026-09-23	scout-quickcheck-b-2026-09-23	Chainguard API scan	new-match
+https://www.fivetran.com/careers/job?gh_jid=8003720003	2026-09-23	scout-quickcheck-b-2026-09-23	Fivetran API scan	new-match
+https://www.samsara.com/company/careers/roles/8223367?gh_jid=8223367	2026-09-23	scout-quickcheck-b-2026-09-23	Samsara API scan	new-match
+https://job-boards.greenhouse.io/scaleai/jobs/4736426005	2026-09-23	scout-quickcheck-b-2026-09-23	Scale AI API scan	new-match-new-grad

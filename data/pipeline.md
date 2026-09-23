@@ -9128,3 +9128,11 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 <!-- scout 2026-09-23 — 2 new matches (21 Greenhouse APIs + 5 WebSearch) -->
 - [ ] [Anthropic — [DH] Engineering Manager, AI Observability](https://job-boards.greenhouse.io/anthropic/jobs/5429202008) | San Francisco, CA (hybrid 25%) | $405K–$850K. VA.gov Watchtower is direct proof point (unified observability, 40+ teams, 18M veterans). EM reqs achievable. AI observability focus. **Score 4.2/5.** Discovered 2026-09-23
 - [ ] [Chainguard — Staff Platform Database Engineer](https://job-boards.greenhouse.io/chainguard/jobs/4713044006) | United States - Remote | $205K–$231K in target range. PostgreSQL/Go/K8s/AWS all match. Staff level. CDC pipelines + K8s stateful experience directly applicable. **Score 4.0/5.** Discovered 2026-09-23
+
+## 2026-09-23 (quickcheck-b)
+
+<!-- scout-quickcheck-b 2026-09-23 — 4 new (37 Greenhouse APIs checked) -->
+- [ ] [Chainguard — Senior Software Engineer (Repository)](https://job-boards.greenhouse.io/chainguard/jobs/4715630006) | United States - Remote | Distributed storage/repository systems at container security company. Discovered 2026-09-23
+- [ ] [Fivetran — Senior Software Engineer - Orchestration](https://www.fivetran.com/careers/job?gh_jid=8003720003) | Denver, Colorado | Denver-local data integration. Orchestration directly relevant to Argo/Airflow background. Discovered 2026-09-23
+- [ ] [Samsara — Senior Platform Engineer, Growth Product Engineering](https://www.samsara.com/company/careers/roles/8223367?gh_jid=8223367) | Remote - CA | Platform engineering at IoT/AI platform. Remote-CA (likely California). Discovered 2026-09-23
+- [ ] [Scale AI — Software Engineer, Public Sector - New Grad](https://job-boards.greenhouse.io/scaleai/jobs/4736426005) | San Francisco, CA | ⚠️ New Grad level — public sector / defense-adjacent at Scale AI. Low fit likely. Discovered 2026-09-23
