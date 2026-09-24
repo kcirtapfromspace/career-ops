@@ -1,5 +1,76 @@
 # Pipeline — Pending Offers
 
+## 2026-09-24 — Scout Scan
+
+<!-- scout 2026-09-24 — 0 new matches (3 new URLs found, all location-filtered) -->
+*No new pipeline entries. 3 new URLs found: 2× Anthropic London (international) + 1× Shield AI on-site (San Diego/San Mateo). Score update: Anthropic EM Data Infrastructure (2026-09-22) → 4.3/5. Report: [scout-2026-09-24.md](../reports/scout-2026-09-24.md)*
+
+## 2026-09-22 — Scout Scan (14 companies: Greenhouse API + WebSearch)
+
+> 10 new matches (2 top picks, 5 secondary). **Scale AI opened two Public Sector ML Engineer roles in Denver** — both new, strong government AI fit ($196-294K). True Anomaly added ML Edge Deployment role. 3 new Chainguard Staff/EM roles. Dagster board went empty. Planet Labs Denver Data Engineer deadline Oct 1 — urgent. Report: [scout-2026-09-22.md](../reports/scout-2026-09-22.md)
+
+#### Top Picks (4.0+ — Apply Soon)
+
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4732798005 | Scale AI | Senior Machine Learning Engineer, Public Sector | Denver, CO | ★★★★ 4.3/5 — $235-294K, Denver, federal AI deployment (Donovan/Thunderforge), Patrick's gov background is direct match
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4631848005 | Scale AI | Machine Learning Engineer, Public Sector | Denver, CO | ★★★★ 4.2/5 — $196-245K, Denver, same public sector AI team, agentic AI + LLMs, US citizenship required
+
+#### Secondary (3.5–3.9 — Review Before Applying)
+
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5228067007 | True Anomaly | Machine Learning Engineer (II-III), Space Edge Deployment | Denver, CO | ★★★ 3.8/5 — New role; ML deployment for autonomous spacecraft; $125-220K (comp lower end below floor); ITAR
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4713466006 | Chainguard | Staff Software Engineer (Malware Detection) | US Remote | ★★★ 3.7/5 — New Staff SWE at Chainguard; K8s/containers security; supply chain domain
+- [ ] https://jobs.ashbyhq.com/confluent/f6b05632-b694-49bf-9464-0af5430c8c6c | Confluent | Senior Engineering Manager, Flink Control Plane | Remote US | ★★★ 3.7/5 — New EM posting; Kafka+Flink domain match; verify comp
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4715303006 | Chainguard | Senior Manager, Engineering (Container Product Engineering) | US Remote | ★★★ 3.6/5 — New EM at Chainguard; K8s containers product; verify comp
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4712228006 | Chainguard | Staff Software Engineer, Sustaining Automation | US Remote | ★★★ 3.5/5 — New Staff SWE; supply chain CI/CD automation; GitOps/Argo fit
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/8106198 | Planet Labs | Senior Site Reliability Engineer | US Remote | ★★★ 3.5/5 — Remote US SRE; Senior not Staff; satellite data platform domain
+
+---
+
+## 2026-09-19 — Scout Scan (~30 companies: Greenhouse API + WebSearch)
+
+> 5 new matches (2 top picks, 3 secondary). Confluent opened new AI-focused Staff SWE role — direct stack match. Toast Voice AI Platform role is greenfield Staff opportunity. All previously tracked boards are stable; 3 API boards returned 404 (Clickhouse, Aurora, Temporal — migrated). Report: [scout-2026-09-19.md](../reports/scout-2026-09-19.md)
+
+#### Top Picks (4.0+ — Apply Soon)
+
+- [ ] https://jobs.ashbyhq.com/confluent/80a47c3e-a160-4277-a452-1eef9c689167 | Confluent | Staff Software Engineer (AI) | Remote US | ★★★★ 4.2/5 — Kafka + AI agents; build real-time AI capabilities for Confluent Cloud; Patrick's exact stack; expect $200-270K Staff comp
+- [ ] https://jobs.ashbyhq.com/confluent/a93ac05b-0ba3-41a9-aa42-a6258c5c5584 | Confluent | Staff Software Engineer I - Confluent Platform | Remote US | ★★★★ 4.0/5 — Core Kafka platform, technical direction, distributed messaging; complements Sept 15 pipeline entries
+
+#### Secondary (3.5–3.9 — Review Before Applying)
+
+- [ ] https://jobs.ashbyhq.com/confluent/29920de0-8dfc-4ea4-a97e-9e4a2f4ec083 | Confluent | Staff Software Engineer I - SRE | Remote US | ★★★ 3.8/5 — New posting (possibly reopened from Sept 15); Confluent Cloud SRE at scale; AWS/GCP/Azure multi-cloud
+- [ ] https://jobs.ashbyhq.com/confluent/bef7f6a5-2481-4eb6-a760-86e3746600bb | Confluent | Staff Software Engineer I (Kora Storage) | Remote US | ★★★ 3.8/5 — Distributed storage for Kora next-gen Kafka storage layer; systems engineering depth
+- [ ] https://job-boards.greenhouse.io/toast/jobs/8131117 | Toast | Staff Software Engineer, Voice AI Platform | Remote US | ★★★ 3.6/5 — Greenfield voice AI platform; Staff + full ownership; restaurant tech is new domain but platform engineering is direct fit
+
+---
+
+## 2026-09-18 — Quick Check (38 companies: Greenhouse API only)
+
+> 14 curated leads (5 top picks, 6 secondary, 3 unscored). 192 new URLs added to history. Notable: Databricks Streaming+SA roles, Vercel remote data platform, True Anomaly Denver EM, Rocket Lab Littleton CO cluster. 4 stale API boards flagged. Report: [scout-quickcheck-2026-09-18.md](../reports/scout-quickcheck-2026-09-18.md)
+
+#### Top Picks (4.0+ — Apply Soon)
+
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6188400004 | Vercel | Member of the Technical Staff - Data Platform | Remote US | Staff data platform role, fully remote, direct domain fit
+- [ ] https://job-boards.greenhouse.io/databricks/jobs/8663972002 | Databricks | Staff Software Engineer - Streaming | Seattle, WA | Kafka/streaming infra, Staff level at $43B data platform leader
+- [ ] https://job-boards.greenhouse.io/databricks/jobs/8761732002 | Databricks | Specialist Solutions Architect - Data Engineering & Warehousing (Digital Native Business) | United States | Patrick's exact stack as customer-facing SA
+- [ ] https://job-boards.greenhouse.io/databricks/jobs/8692962002 | Databricks | Specialist Solutions Architect - Data Engineering & Warehousing (Financial Services) | United States | Same as above, FinServ vertical
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5240091007 | True Anomaly | Engineering Manager, Perception AI | Denver, CO OR Long Beach, CA | Denver EM at dream company, clearance eligibility likely required
+
+#### Secondary (3.5–3.9 — Review Before Applying)
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5428950008 | Anthropic | Staff+ Software Engineer, Storage + Transfer | SF/NYC | Staff+ infra at dream company, SF location accepted
+- [ ] https://job-boards.greenhouse.io/samsara/jobs/8055245 | Samsara | Senior Machine Learning Engineer | Remote US | Remote US ML role, verify comp and stack
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7994336003 | Rocket Lab | Senior Software Engineer II - Digital Engineering | Littleton, CO | Denver metro aerospace, verify comp vs tech benchmarks
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7998854003 | Rocket Lab | Senior Software Engineer I - Customer Solutions | Littleton, CO | Denver metro aerospace, mission-facing software
+- [ ] https://job-boards.greenhouse.io/databricks/jobs/8815669002 | Databricks | Sr. Software Engineer - Ingestion Core team | San Francisco, CA | Data ingestion core, SF location, verify remote-ok
+- [ ] https://job-boards.greenhouse.io/databricks/jobs/8798198002 | Databricks | Staff Software Engineer, Lakeflow Pipelines DR | Mountain View/SF | Pipeline DR infra, Databricks Lakeflow product
+
+#### Unscored Leads
+
+- [ ] https://job-boards.greenhouse.io/andurilindustries/jobs/5189514007 | Anduril | Production Software Engineer | Fort Collins, CO | Fort Collins = N. Colorado, Anduril dream company — verify if production = manufacturing systems or platform
+- [ ] https://job-boards.greenhouse.io/nuro/jobs/8097555 | Nuro | Senior/Staff Software Engineer, AI Agent Infrastructure | Mountain View, CA | AI Agent infra title is exact fit — on-site only, assess if Bay Area relocation viable
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6195280004 | Vercel | Software Engineer, Platform | Hybrid SF/NYC | Vercel platform team — SF hybrid may be acceptable, NYC hybrid is not
+
+---
+
 ## 2026-09-16 — Scout Scan (25 companies: Greenhouse API + WebSearch)
 
 > 2 new matches. Light scan — 1 day after the Sept 15 major scan. Most boards unchanged. Report: [scout-2026-09-16.md](../reports/scout-2026-09-16.md)

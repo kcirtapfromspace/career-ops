@@ -370,9 +370,10 @@ tracked_companies:
     enabled: true
 
   - name: Temporal
-    careers_url: https://job-boards.greenhouse.io/temporaltechnologies
-    api: https://boards-api.greenhouse.io/v1/boards/temporaltechnologies/jobs
-    notes: "Workflow orchestration."
+    careers_url: https://temporal.io/careers
+    scan_method: websearch
+    scan_query: 'site:temporal.io/careers "Software Engineer" OR "Engineering Manager" OR "Platform Engineer"'
+    notes: "Workflow orchestration. Migrated from Greenhouse to temporal.io/careers as of 2026-09 (board was 404). Remote-US roles confirmed. 21 open roles as of 2026-09-20."
     enabled: true
 
   - name: Arize AI
@@ -983,9 +984,10 @@ tracked_companies:
   # -- Hardware Moat Companies (software roles) --
 
   - name: Aurora Innovation
-    careers_url: https://job-boards.greenhouse.io/aurorainnovation
-    api: https://boards-api.greenhouse.io/v1/boards/aurorainnovation/jobs
-    notes: "Pittsburgh/SF/Denver. Self-driving trucks (Torc competitor). Has Denver office!"
+    careers_url: https://aurora.tech/careers
+    scan_method: websearch
+    scan_query: 'site:aurora.tech/careers "Software Engineer" OR "Data Engineer" OR "Platform Engineer" OR "ML Engineer" OR "Engineering Manager"'
+    notes: "Pittsburgh/SF/Louisville CO/Seattle. Self-driving trucks. Has Louisville CO office (Denver metro!). Migrated from Greenhouse to aurora.tech/careers as of 2026-09 (API 404). Use Playwright for best results."
     enabled: true
 
   - name: Nuro
