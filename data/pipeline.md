@@ -1,5 +1,10 @@
 # Pipeline — Pending Offers
 
+## 2026-09-24 — Scout Scan
+
+<!-- scout 2026-09-24 — 0 new matches (3 new URLs found, all location-filtered) -->
+*No new pipeline entries. 3 new URLs found: 2× Anthropic London (international) + 1× Shield AI on-site (San Diego/San Mateo). Score update: Anthropic EM Data Infrastructure (2026-09-22) → 4.3/5. Report: [scout-2026-09-24.md](../reports/scout-2026-09-24.md)*
+
 ## 2026-09-22 — Scout Scan (14 companies: Greenhouse API + WebSearch)
 
 > 10 new matches (2 top picks, 5 secondary). **Scale AI opened two Public Sector ML Engineer roles in Denver** — both new, strong government AI fit ($196-294K). True Anomaly added ML Edge Deployment role. 3 new Chainguard Staff/EM roles. Dagster board went empty. Planet Labs Denver Data Engineer deadline Oct 1 — urgent. Report: [scout-2026-09-22.md](../reports/scout-2026-09-22.md)
@@ -9116,7 +9121,7 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 <!-- scout-quickcheck 2026-09-22 — 1 new (29 Greenhouse APIs checked) -->
 - [ ] [Arize AI — DevOps Engineer](https://job-boards.greenhouse.io/arizeai/jobs/6203635004) | Remote US | LLMOps/AI observability platform. New DevOps role since last scan. Discovered 2026-09-22
 - [ ] [Anthropic — Engineering Manager, Business Technology](https://job-boards.greenhouse.io/anthropic/jobs/5418402008) | San Francisco, CA | EM role at Anthropic covering business technology. Discovered 2026-09-22
-- [ ] [Anthropic — Engineering Manager, Data Infrastructure](https://job-boards.greenhouse.io/anthropic/jobs/5426135008) | San Francisco, CA | EM for data infrastructure at top AI lab. Discovered 2026-09-22
+- [ ] [Anthropic — Engineering Manager, Data Infrastructure](https://job-boards.greenhouse.io/anthropic/jobs/5426135008) | San Francisco, CA (hybrid) | $405K–$485K. Exact Kafka/Debezium/dbt/Spark stack match. VA.gov Watchtower proof point directly relevant. Led 4-person team at Ad Hoc. **Score 4.3/5.** Discovered 2026-09-22
 - [ ] [Vercel — Engineering Manager, Dashboard](https://job-boards.greenhouse.io/vercel/jobs/6115908004) | Hybrid - San Francisco | EM for dashboard product at Vercel. Discovered 2026-09-22
 - [ ] [Samsara — Manager II, Software Engineering, Infrastructure](https://www.samsara.com/company/careers/roles/8148638) | Remote - US | EM-equivalent for infra team at IoT/AI platform. Discovered 2026-09-22
 - [ ] [Chainguard — Senior Software Engineer (AI CICD)](https://job-boards.greenhouse.io/chainguard/jobs/4712509006) | United States - Remote | AI-assisted CICD pipelines at container security company. Discovered 2026-09-22
