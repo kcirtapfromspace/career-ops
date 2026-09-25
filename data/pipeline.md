@@ -1,5 +1,26 @@
 # Pipeline — Pending Offers
 
+## 2026-09-25 — Scout Scan
+
+> 9 new matches (3 top picks, 6 secondary). **Reddit opened Staff SWE Ingestion Platform (Remote, $217-303K)** — direct Kafka+K8s stack match. Webflow Senior Staff SWE ($232-290K remote) is a strong comp play. Docker has 4 new Staff/ML Engineer openings including Agentic Platform in Seattle. Report: [scout-2026-09-25.md](../reports/scout-2026-09-25.md)
+
+#### Top Picks (4.0+ — Apply Soon)
+
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8205402 | Reddit | Staff Software Engineer, Ingestion Platform | Remote US | ★★★★★ 4.5/5 — $217-303K, fully remote, Kafka+K8s+BigQuery data infra, 10+ yrs, direct stack match
+- [ ] https://job-boards.greenhouse.io/webflow/jobs/8136483 | Webflow | Senior Staff Software Engineer | Remote US | ★★★★ 4.2/5 — $232-290K, remote-first, distributed systems+data infra, Go/Java/Python
+- [ ] https://jobs.ashbyhq.com/docker/348e2a4c-f794-4106-8c36-bb313ff15819 | Docker | Staff Software Engineer, Agentic Platform | Seattle WA | ★★★★ 4.0/5 — Seattle on relocate-ok list, greenfield AI infra team, K8s+containers core
+
+#### Secondary (3.5–3.9 — Review Before Applying)
+
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/8095476 | Reddit | Engineering Manager, Notifications Platform | Remote US | ★★★ 3.7/5 — $217-303K, remote, event-driven systems+distributed, 2+ yrs managing, EM archetype fit
+- [ ] https://jobs.ashbyhq.com/docker/f7beef23-87b7-4bfa-8946-93e9dc02d805 | Docker | Staff Software Engineer, Developer Experience | Remote US | ★★★ 3.8/5 — New Staff role at Docker, DX platform, remote-first
+- [ ] https://jobs.ashbyhq.com/docker/70426689-2a05-4c04-be89-3e8721119c01 | Docker | Staff Software Engineer, Backend Systems | Remote US (East Coast) | ★★★ 3.6/5 — Staff backend at Docker, East Coast remote
+- [ ] https://job-boards.greenhouse.io/zetaglobal/jobs/6140943004 | Zeta Global | Senior Engineering Manager, Platform Engineering | Remote US | ★★★ 3.5/5 — $225-240K, remote, distributed platform at scale, EM path
+- [ ] https://job-boards.greenhouse.io/snorkelai/jobs/5095441004 | Snorkel AI | Staff Software Engineer, Enterprise & Data Infra | Hybrid SF/NYC | ★★★ 3.5/5 — $200-270K est, strong domain fit, verify if full-remote exists
+- [ ] https://jobs.ashbyhq.com/docker/29af4c7f-6c9b-4bb4-a5fa-4950fa292be4 | Docker | ML Engineer | Remote US | ★★★ 3.5/5 — New Docker ML role, infra+ML overlap, remote-first
+
+---
+
 ## 2026-09-24 — Scout Scan
 
 <!-- scout 2026-09-24 — 0 new matches (3 new URLs found, all location-filtered) -->
