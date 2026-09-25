@@ -9328,3 +9328,23 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - https://www.samsara.com/company/careers/roles/8186910?gh_jid=8186910 <!-- Samsara: Senior Software Engineer II | Remote - SF Bay Area | 2026-09-24 -->
 - https://www.zipline.com/open-roles/7933236003?gh_jid=7933236003 <!-- Zipline: Sr. Manager, Software Engineering – Marketplace | South San Francisco, California, USA | 2026-09-24 -->
 - https://boards.greenhouse.io/vast/jobs/4716455006?gh_jid=4716455006 <!-- Vast: Technical Project Manager, Software | Long Beach, California, United States | 2026-09-24 -->
+
+
+- https://boards.greenhouse.io/andurilindustries/jobs/5248679007?gh_jid=5248679007 <!-- Anduril: Robotics Software Engineer | Waltham, Massachusetts, United States | 2026-09-25 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5248741007?gh_jid=5248741007 <!-- Anduril: Security Software Engineer, Endpoint Security | Seattle, Washington, United States | 2026-09-25 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5248751007?gh_jid=5248751007 <!-- Anduril: Security Software Engineer, Endpoint Security | Boston, Massachusetts, United States | 2026-09-25 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5248750007?gh_jid=5248750007 <!-- Anduril: Security Software Engineer, Endpoint Security | Washington, District of Columbia, United States | 2026-09-25 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5247821007?gh_jid=5247821007 <!-- Anduril: Senior Forward Deployed Software Engineer, Strategic Defense | Costa Mesa, California, United States; Washington, District of Columbia, United States | 2026-09-25 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5248676007?gh_jid=5248676007 <!-- Anduril: Software Engineer, GNC | Waltham, Massachusetts, United States | 2026-09-25 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5248872007?gh_jid=5248872007 <!-- Anduril: Software Engineer- Infrastructure  | Waltham, Massachusetts, United States | 2026-09-25 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5248869007?gh_jid=5248869007 <!-- Anduril: Software Engineer- Machine Learning | Waltham, Massachusetts, United States | 2026-09-25 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5210335007?gh_jid=5210335007 <!-- Anduril: Staff Site Reliability Engineer | Costa Mesa, California, United States | 2026-09-25 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5249183007?gh_jid=5249183007 <!-- Anduril: Staff Software Engineer, Discovery | Boston, Massachusetts, United States; Costa Mesa, California, United States; Washington, District of Columbia, United States | 2026-09-25 -->
+- https://job-boards.greenhouse.io/gleanwork/jobs/4738120005 <!-- Glean: Machine Learning Engineer, Search Quality | San Francisco, CA | 2026-09-25 -->
+- https://job-boards.eu.greenhouse.io/speechmatics/jobs/4987523101 <!-- Speechmatics: Senior Software Engineer – Front-End | Cambridge, England, United Kingdom | 2026-09-25 -->
+- https://job-boards.greenhouse.io/contentful/jobs/8233486 <!-- Contentful: Software Engineer, Applied AI Solutions | Denver, Colorado, United States | 2026-09-25 -->
+- https://www.samsara.com/company/careers/roles/8231949?gh_jid=8231949 <!-- Samsara: Senior Software Engineer II | Remote - Canada | 2026-09-25 -->
+- https://job-boards.greenhouse.io/planetlabs/jobs/8233191 <!-- Planet Labs: Senior Software Engineer |  Ljubljana, Slovenia | 2026-09-25 -->
+- https://job-boards.greenhouse.io/planetlabs/jobs/8233190 <!-- Planet Labs: Senior Software Engineer |  Haarlem, Netherlands | 2026-09-25 -->
+- https://job-boards.greenhouse.io/planetlabs/jobs/8233193 <!-- Planet Labs: Software Engineer | Ljubljana, Slovenia | 2026-09-25 -->
+- https://job-boards.greenhouse.io/planetlabs/jobs/8233192 <!-- Planet Labs: Software Engineer | Haarlem, Netherlands | 2026-09-25 -->
