@@ -10131,3 +10131,4 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - https://job-boards.greenhouse.io/planetlabs/jobs/8008355 | Planet Labs | Software Engineer, Missions Software | United States, Remote | discovered:2026-09-25
 - https://job-boards.greenhouse.io/planetlabs/jobs/7555019 | Planet Labs | Software Engineer, Platform Operations | United States, Remote | discovered:2026-09-25
 - https://job-boards.greenhouse.io/planetlabs/jobs/7593419 | Planet Labs | Software Engineer, Platform Operations | Canada, Remote | discovered:2026-09-25
+- https://jobs.ashbyhq.com/whatnot/66bf8d28-dad6-4510-ad87-c346fb38e9fd | Whatnot | Staff Data Engineer, Analytics | Seattle/NYC/LA/SF | discovered:2026-09-26
