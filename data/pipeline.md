@@ -10725,3 +10725,5 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - [ ] [Databricks — Staff Software Engineer - User Activation](https://databricks.com/company/careers/open-positions/job?gh_jid=7979523002) | San Francisco, California | scout-quickcheck 2026-09-26
 - [ ] [Databricks — Systems PhD - Software Engineer ](https://databricks.com/company/careers/open-positions/job?gh_jid=8482037002) | Mountain View, California; San Francisco, California | scout-quickcheck 2026-09-26
 - [ ] [Databricks — Systems PhD - Software Engineer ](https://databricks.com/company/careers/open-positions/job?gh_jid=8482086002) | Bellevue, Washington; Seattle, Washington | scout-quickcheck 2026-09-26
+
+- [ ] [Nuro — Software Engineer, Cloud Infrastructure and Observability](https://nuro.ai/careersitem?gh_jid=8221208) | Mountain View, California (HQ) | scout-quickcheck 2026-09-26
