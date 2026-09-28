@@ -10743,3 +10743,9 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - [ ] [Databricks — Systems PhD - Software Engineer ](https://databricks.com/company/careers/open-positions/job?gh_jid=8482086002) | Bellevue, Washington; Seattle, Washington | scout-quickcheck 2026-09-26
 
 - [ ] [Nuro — Software Engineer, Cloud Infrastructure and Observability](https://nuro.ai/careersitem?gh_jid=8221208) | Mountain View, California (HQ) | scout-quickcheck 2026-09-26
+
+## 2026-09-28 Scout Scan
+- [ ] [Spotify — ML Engineering Manager, Personalization](https://jobs.lever.co/spotify/aca5697a-a87a-415e-8d58-627bb782cce8) | New York / Boston / Remote-EST | scout-2026-09-28
+- [ ] [MotherDuck — Software Engineer, Ecosystems](https://jobs.ashbyhq.com/motherduck/3e0aaaaa-4746-404c-b5b0-b82e805737df) | Remote | scout-2026-09-28
+- [ ] [Anyscale — Software Engineer, Observability (Full-Stack)](https://jobs.ashbyhq.com/anyscale/5ed3e7a0-3f47-4cda-817a-58ebf27a244b) | San Francisco, CA | scout-2026-09-28
+- [ ] [Temporal — Senior Developer Success Engineer, West](https://temporal.io/careers/915faccb-5bf1-4a1c-9a2d-ccad28fd48f7) | Remote West US | scout-2026-09-28
