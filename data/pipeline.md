@@ -10749,3 +10749,7 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - [ ] [MotherDuck — Software Engineer, Ecosystems](https://jobs.ashbyhq.com/motherduck/3e0aaaaa-4746-404c-b5b0-b82e805737df) | Remote | scout-2026-09-28
 - [ ] [Anyscale — Software Engineer, Observability (Full-Stack)](https://jobs.ashbyhq.com/anyscale/5ed3e7a0-3f47-4cda-817a-58ebf27a244b) | San Francisco, CA | scout-2026-09-28
 - [ ] [Temporal — Senior Developer Success Engineer, West](https://temporal.io/careers/915faccb-5bf1-4a1c-9a2d-ccad28fd48f7) | Remote West US | scout-2026-09-28
+- [ ] [Anthropic — Staff + Sr. Software Engineer, Cloud Inference](https://job-boards.greenhouse.io/anthropic/jobs/5436684008) | San Francisco, CA | Seattle, WA | scout-quickcheck-2026-09-28
+- [ ] [Anthropic — Staff + Sr. Software Engineer, Cloud Inference Launch Engineering](https://job-boards.greenhouse.io/anthropic/jobs/5436697008) | San Francisco, CA | Seattle, WA | scout-quickcheck-2026-09-28
+- [ ] [Anthropic — Staff + Sr. Software Engineer, Scaling](https://job-boards.greenhouse.io/anthropic/jobs/5436703008) | New York City, NY | San Francisco, CA | Seattle, WA | scout-quickcheck-2026-09-28
+- [ ] [Chainguard — Software Engineer (Repositories)](https://job-boards.greenhouse.io/chainguard/jobs/4714568006) | United States - Remote | scout-quickcheck-2026-09-28
