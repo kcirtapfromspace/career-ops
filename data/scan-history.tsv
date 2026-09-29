@@ -35041,3 +35041,24 @@ https://job-boards.greenhouse.io/chainguard/jobs/4714571006	2026-09-28	Greenhous
 https://job-boards.greenhouse.io/anthropic/jobs/5435282008	2026-09-28	Greenhouse API Anthropic	Applied AI Engineer, DNB	Anthropic	skipped_location
 https://job-boards.greenhouse.io/anthropic/jobs/5354765008	2026-09-28	Greenhouse API Anthropic	Applied AI Engineer, Enterprise	Anthropic	skipped_location
 https://job-boards.eu.greenhouse.io/speechmatics/jobs/4987568101	2026-09-28	Greenhouse API Speechmatics	Senior Software Engineer – Front-End	Speechmatics	skipped_location
+https://boards-api.greenhouse.io/v1/boards/anthropic/jobs	2026-09-29	scout-2026-09-29	Anthropic API scan	all_seen
+https://boards-api.greenhouse.io/v1/boards/andurilindustries/jobs	2026-09-29	scout-2026-09-29	Anduril API scan	all_seen
+https://boards-api.greenhouse.io/v1/boards/dagsterlabs/jobs	2026-09-29	scout-2026-09-29	Dagster API scan	board_empty
+https://boards-api.greenhouse.io/v1/boards/fivetran/jobs	2026-09-29	scout-2026-09-29	Fivetran API scan	all_seen
+https://boards-api.greenhouse.io/v1/boards/databricks/jobs	2026-09-29	scout-2026-09-29	Databricks API scan	all_seen
+https://boards-api.greenhouse.io/v1/boards/scaleai/jobs	2026-09-29	scout-2026-09-29	Scale AI API scan	all_seen
+https://boards-api.greenhouse.io/v1/boards/chainguard/jobs	2026-09-29	scout-2026-09-29	Chainguard API scan	all_seen
+https://boards-api.greenhouse.io/v1/boards/trueanomalyinc/jobs	2026-09-29	scout-2026-09-29	True Anomaly API scan	all_seen
+https://boards-api.greenhouse.io/v1/boards/samsara/jobs	2026-09-29	scout-2026-09-29	Samsara API scan	all_seen
+https://boards-api.greenhouse.io/v1/boards/gleanwork/jobs	2026-09-29	scout-2026-09-29	Glean API scan	all_seen
+https://boards-api.greenhouse.io/v1/boards/rocketlab/jobs	2026-09-29	scout-2026-09-29	Rocket Lab API scan	all_seen
+https://boards-api.greenhouse.io/v1/boards/figureai/jobs	2026-09-29	scout-2026-09-29	Figure AI API scan	all_seen
+https://boards-api.greenhouse.io/v1/boards/clickhouse/jobs	2026-09-29	scout-2026-09-29	Clickhouse API scan	404_migrated
+https://temporal.io/careers	2026-09-29	scout-2026-09-29	Temporal websearch	all_seen
+https://jobs.netflix.com	2026-09-29	scout-2026-09-29	Netflix websearch	all_seen
+https://jobs.ashbyhq.com/confluent	2026-09-29	scout-2026-09-29	Confluent Ashby scan	all_seen
+https://jobs.ashbyhq.com/prefect	2026-09-29	scout-2026-09-29	Prefect Ashby scan	all_seen
+https://jobs.ashbyhq.com/zapier	2026-09-29	scout-2026-09-29	Zapier Ashby scan	all_seen
+https://jobs.ashbyhq.com/modal	2026-09-29	scout-2026-09-29	Modal Ashby scan	all_seen
+https://jobs.ashbyhq.com/weaviate	2026-09-29	scout-2026-09-29	Weaviate Ashby scan	all_seen
+https://jobs.ashbyhq.com/opensea/8c242715-3ea6-47e9-8a9c-9972b57683a7	2026-09-29	scout-2026-09-29	Staff Platform Engineer	OpenSea	filtered_web3_jvm
