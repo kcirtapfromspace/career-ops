@@ -10753,3 +10753,285 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - [ ] [Anthropic — Staff + Sr. Software Engineer, Cloud Inference Launch Engineering](https://job-boards.greenhouse.io/anthropic/jobs/5436697008) | San Francisco, CA | Seattle, WA | scout-quickcheck-2026-09-28
 - [ ] [Anthropic — Staff + Sr. Software Engineer, Scaling](https://job-boards.greenhouse.io/anthropic/jobs/5436703008) | New York City, NY | San Francisco, CA | Seattle, WA | scout-quickcheck-2026-09-28
 - [ ] [Chainguard — Software Engineer (Repositories)](https://job-boards.greenhouse.io/chainguard/jobs/4714568006) | United States - Remote | scout-quickcheck-2026-09-28
+
+- [ ] [Anthropic — Applied AI Engineer](https://job-boards.greenhouse.io/anthropic/jobs/5248983008) | Sydney, Australia | discovered 2026-09-29
+- [ ] [Anthropic — Applied AI Engineer](https://job-boards.greenhouse.io/anthropic/jobs/5390799008) | Tokyo, Japan | discovered 2026-09-29
+- [ ] [Anthropic — Applied AI Engineer, Beneficial Deployments (Life Sciences)](https://job-boards.greenhouse.io/anthropic/jobs/5437172008) | San Francisco, CA | New York City, NY | discovered 2026-09-29
+- [ ] [Anthropic — Applied AI Engineer, Beneficial Deployments (Life Sciences)](https://job-boards.greenhouse.io/anthropic/jobs/5413642008) | London, UK | discovered 2026-09-29
+- [ ] [Anthropic — Applied AI Engineer, DNB](https://job-boards.greenhouse.io/anthropic/jobs/5435282008) | London, UK | discovered 2026-09-29
+- [ ] [Anthropic — Applied AI Engineer, Enterprise](https://job-boards.greenhouse.io/anthropic/jobs/5390754008) | Paris, France | discovered 2026-09-29
+- [ ] [Anthropic — Applied AI Engineer, Enterprise](https://job-boards.greenhouse.io/anthropic/jobs/5354765008) | London, UK | discovered 2026-09-29
+- [ ] [Anthropic — Applied AI Engineer, Enterprise](https://job-boards.greenhouse.io/anthropic/jobs/5390795008) | Munich, Germany | discovered 2026-09-29
+- [ ] [Anthropic — Applied AI Engineer, Startups](https://job-boards.greenhouse.io/anthropic/jobs/5432575008) | London, UK | discovered 2026-09-29
+- [ ] [Anthropic — Engineering Manager, Connectivity - London](https://job-boards.greenhouse.io/anthropic/jobs/5309805008) | London, UK | discovered 2026-09-29
+- [ ] [Anthropic — Engineering Manager, Safeguards ](https://job-boards.greenhouse.io/anthropic/jobs/5410610008) | London, UK | discovered 2026-09-29
+- [ ] [Anthropic — Senior+ Software Engineer, Legal Tech](https://job-boards.greenhouse.io/anthropic/jobs/5435665008) | Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY | discovered 2026-09-29
+- [ ] [Anthropic — Software Engineer, Business Technology](https://job-boards.greenhouse.io/anthropic/jobs/5400160008) | London, UK | discovered 2026-09-29
+- [ ] [Anthropic — Staff Infrastructure Engineer, Cluster Infrastructure](https://job-boards.greenhouse.io/anthropic/jobs/5211297008) | London, UK | discovered 2026-09-29
+- [ ] [Anthropic — Staff + Senior Software Engineer, Inference](https://job-boards.greenhouse.io/anthropic/jobs/5385998008) | Ontario, CAN | discovered 2026-09-29
+- [ ] [Anthropic — Staff / Senior Software Engineer, Security Fusion Platform](https://job-boards.greenhouse.io/anthropic/jobs/5434559008) | San Francisco, CA | New York City, NY | Seattle, WA | discovered 2026-09-29
+- [ ] [Anthropic — Staff+ Software Engineer, Account Abuse (Machine Learning)](https://job-boards.greenhouse.io/anthropic/jobs/5436293008) | San Francisco, CA | New York City, NY | discovered 2026-09-29
+- [ ] [Anthropic — Staff Software Engineer, AI Reliability Engineering](https://job-boards.greenhouse.io/anthropic/jobs/5101173008) | London, UK | discovered 2026-09-29
+- [ ] [Anthropic — Staff Software Engineer, AI Reliability Engineering](https://job-boards.greenhouse.io/anthropic/jobs/5101169008) | Dublin, IE | discovered 2026-09-29
+- [ ] [Anthropic —  Staff Software Engineer, Continuous Integration](https://job-boards.greenhouse.io/anthropic/jobs/5073998008) | London, UK | discovered 2026-09-29
+- [ ] [Anthropic — Staff Software Engineer, Inference](https://job-boards.greenhouse.io/anthropic/jobs/5150472008) | Dublin, IE | discovered 2026-09-29
+- [ ] [Anthropic — Staff Software Engineer, Inference](https://job-boards.greenhouse.io/anthropic/jobs/5097742008) | London, UK | discovered 2026-09-29
+- [ ] [Anthropic — Staff Software Engineer, Infrastructure (Distributed Systems)](https://job-boards.greenhouse.io/anthropic/jobs/5387083008) | London, UK | discovered 2026-09-29
+- [ ] [Anthropic — Staff Software Engineer, Kubernetes Platform](https://job-boards.greenhouse.io/anthropic/jobs/5211305008) | London, UK | discovered 2026-09-29
+- [ ] [Anthropic — Staff Software Engineer, Node Infra](https://job-boards.greenhouse.io/anthropic/jobs/5211498008) | London, UK | discovered 2026-09-29
+- [ ] [Anthropic — Staff Software Engineer, Observability & Profiling](https://job-boards.greenhouse.io/anthropic/jobs/5412272008) | London, UK | discovered 2026-09-29
+- [ ] [Anthropic — Staff+ Software Engineer, Safeguards Infrastructure ](https://job-boards.greenhouse.io/anthropic/jobs/5074908008) | London, UK | discovered 2026-09-29
+- [ ] [Anduril — Automation Test Software Engineer, Manufacturing ](https://boards.greenhouse.io/andurilindustries/jobs/5250595007?gh_jid=5250595007) | Irvine, California, United States | discovered 2026-09-29
+- [ ] [Anduril — Mission Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5102993007?gh_jid=5102993007) | Amsterdam, North Holland, Netherlands | discovered 2026-09-29
+- [ ] [Anduril — Principal Software Engineer, InfraEng Platform Team](https://boards.greenhouse.io/andurilindustries/jobs/5250888007?gh_jid=5250888007) | Costa Mesa, California, United States | discovered 2026-09-29
+- [ ] [Anduril — Principal Software Engineer, InfraEng Platform Team](https://boards.greenhouse.io/andurilindustries/jobs/5252050007?gh_jid=5252050007) | Seattle, Washington, United States | discovered 2026-09-29
+- [ ] [Anduril — Robotics Software Engineer, Thunder](https://boards.greenhouse.io/andurilindustries/jobs/5168518007?gh_jid=5168518007) | London, England, United Kingdom | discovered 2026-09-29
+- [ ] [Anduril — Senior Mission Software Engineer, Mission Systems](https://boards.greenhouse.io/andurilindustries/jobs/5250392007?gh_jid=5250392007) | Costa Mesa, California, United States | discovered 2026-09-29
+- [ ] [Anduril — Senior Robotics Software Engineer, Payload Integration](https://boards.greenhouse.io/andurilindustries/jobs/5192153007?gh_jid=5192153007) | Abu Dhabi, United Arab Emirates | discovered 2026-09-29
+- [ ] [Anduril — Senior Robotics Software Engineer, Payload Integration](https://boards.greenhouse.io/andurilindustries/jobs/5175329007?gh_jid=5175329007) | Abu Dhabi, United Arab Emirates | discovered 2026-09-29
+- [ ] [Anduril — Senior Robotics Software Engineer, Thunder ](https://boards.greenhouse.io/andurilindustries/jobs/5151159007?gh_jid=5151159007) | London, England, United Kingdom | discovered 2026-09-29
+- [ ] [Anduril — Senior Software Engineer (AOSP/Qualcomm SoC Connectivity)](https://boards.greenhouse.io/andurilindustries/jobs/5249418007?gh_jid=5249418007) | Bellevue, Washington, United States | discovered 2026-09-29
+- [ ] [Anduril — Senior Software Engineer, Flight Management Software](https://boards.greenhouse.io/andurilindustries/jobs/5252143007?gh_jid=5252143007) | Costa Mesa, California, United States | discovered 2026-09-29
+- [ ] [Anduril — Senior Software Engineer  (Flutter/Dart)](https://boards.greenhouse.io/andurilindustries/jobs/5208357007?gh_jid=5208357007) | Bellevue, Washington, United States | discovered 2026-09-29
+- [ ] [Anduril — Senior Software Engineer (Full Stack), Intelligence Systems](https://boards.greenhouse.io/andurilindustries/jobs/5136534007?gh_jid=5136534007) | Reston, Virginia, United States | discovered 2026-09-29
+- [ ] [Anduril — Senior Software Engineer (Security)](https://boards.greenhouse.io/andurilindustries/jobs/5230428007?gh_jid=5230428007) | Bellevue, Washington, United States | discovered 2026-09-29
+- [ ] [Anduril — Site Reliability Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5250110007?gh_jid=5250110007) | Waltham, Massachusetts, United States | discovered 2026-09-29
+- [ ] [Anduril — Software Engineer (Unity)](https://boards.greenhouse.io/andurilindustries/jobs/5231763007?gh_jid=5231763007) | Bellevue, Washington, United States | discovered 2026-09-29
+- [ ] [Anduril — Space Orbital Software Engineer, Emerging Talent](https://boards.greenhouse.io/andurilindustries/jobs/5236290007?gh_jid=5236290007) | Costa Mesa, California, United States | discovered 2026-09-29
+- [ ] [Anduril — Staff Instrumentation & Range Infrastructure Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5221778007?gh_jid=5221778007) | Costa Mesa, California, United States | discovered 2026-09-29
+- [ ] [Anduril — Staff Robotics Software Engineer - Mission Autonomy](https://boards.greenhouse.io/andurilindustries/jobs/5235478007?gh_jid=5235478007) | Costa Mesa, California, United States | discovered 2026-09-29
+- [ ] [Anduril — Technical Site Reliability Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5206672007?gh_jid=5206672007) | Abu Dhabi, United Arab Emirates; London, England, United Kingdom | discovered 2026-09-29
+- [ ] [True Anomaly — Electrical Engineering Manager, eGSE](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5140261007) | Long Beach, CA | discovered 2026-09-29
+- [ ] [Parloa — Senior Engineering Manager](https://job-boards.eu.greenhouse.io/parloa/jobs/4688953101) | Berlin Office | discovered 2026-09-29
+- [ ] [Parloa — Senior Frontend Platform Engineer](https://job-boards.eu.greenhouse.io/parloa/jobs/4936108101) | Berlin Office | discovered 2026-09-29
+- [ ] [Parloa — Senior Software Engineer](https://job-boards.eu.greenhouse.io/parloa/jobs/4802720101) | Berlin Office | discovered 2026-09-29
+- [ ] [Parloa — Staff/Principal Product Manager, Infrastructure Platform](https://job-boards.eu.greenhouse.io/parloa/jobs/4905260101) | Berlin Office | discovered 2026-09-29
+- [ ] [Intercom — AI Infrastructure Engineer](https://job-boards.greenhouse.io/intercom/jobs/7820671) | Dublin, Ireland | discovered 2026-09-29
+- [ ] [Intercom — AI Infrastructure Engineer](https://job-boards.greenhouse.io/intercom/jobs/7824137) | London, England | discovered 2026-09-29
+- [ ] [Intercom — Engineering Manager, AI Models Infrastructure](https://job-boards.greenhouse.io/intercom/jobs/7784684) | Dublin, Ireland; London, England | discovered 2026-09-29
+- [ ] [Intercom — Senior Software Engineer](https://job-boards.greenhouse.io/intercom/jobs/5082494) | Dublin, Ireland | discovered 2026-09-29
+- [ ] [Intercom — Staff Data Engineer - GTM](https://job-boards.greenhouse.io/intercom/jobs/8132076) | Dublin, Ireland; London, England | discovered 2026-09-29
+- [ ] [Vercel — Product Manager, Software Factory](https://job-boards.greenhouse.io/vercel/jobs/6210353004) | Hybrid - San Francisco | discovered 2026-09-29
+- [ ] [Vercel — Software Engineer, Compute](https://job-boards.greenhouse.io/vercel/jobs/6113157004) | Hybrid - London | discovered 2026-09-29
+- [ ] [Glean — Lead Site Reliability Engineer](https://job-boards.greenhouse.io/gleanwork/jobs/4654833005) | Mountain View, CA | discovered 2026-09-29
+- [ ] [Glean — Software Engineer, Agents](https://job-boards.greenhouse.io/gleanwork/jobs/4712442005) | Bangalore, India | discovered 2026-09-29
+- [ ] [Glean — Software Engineer, Agents Governance](https://job-boards.greenhouse.io/gleanwork/jobs/4712434005) | Bangalore, India | discovered 2026-09-29
+- [ ] [Glean — Software Engineer, AI/ML Infrastructure](https://job-boards.greenhouse.io/gleanwork/jobs/4501783005) | Mountain View, CA | discovered 2026-09-29
+- [ ] [Glean — Software Engineer, Backend](https://job-boards.greenhouse.io/gleanwork/jobs/4006731005) | Bangalore, India | discovered 2026-09-29
+- [ ] [Glean — Software Engineer, Developer Productivity ](https://job-boards.greenhouse.io/gleanwork/jobs/4614706005) | Mountain View, CA | discovered 2026-09-29
+- [ ] [Glean — Software Engineer, Evals](https://job-boards.greenhouse.io/gleanwork/jobs/4712438005) | Bangalore, India | discovered 2026-09-29
+- [ ] [Glean — Software Engineer, Frontend](https://job-boards.greenhouse.io/gleanwork/jobs/4006733005) | Mountain View, CA | discovered 2026-09-29
+- [ ] [Glean — Software Engineer, Fullstack](https://job-boards.greenhouse.io/gleanwork/jobs/4006734005) | Mountain View, CA | discovered 2026-09-29
+- [ ] [Glean — Software Engineer, Machine Learning](https://job-boards.greenhouse.io/gleanwork/jobs/4012745005) | Bangalore, India | discovered 2026-09-29
+- [ ] [Glean — Solutions Engineering Manager, APAC](https://job-boards.greenhouse.io/gleanwork/jobs/4676087005) | Bangalore, India | discovered 2026-09-29
+- [ ] [Speechmatics — ML Data & Platform Engineer](https://job-boards.eu.greenhouse.io/speechmatics/jobs/4950400101) | London, England, United Kingdom | discovered 2026-09-29
+- [ ] [Speechmatics — Senior Software Engineer – Front-End](https://job-boards.eu.greenhouse.io/speechmatics/jobs/4987568101) | London, England, United Kingdom | discovered 2026-09-29
+- [ ] [Helsing — AI Research Engineer - ML Engineering](https://helsing.ai/jobs/4778869101?gh_jid=4778869101) | Berlin; London; Munich | discovered 2026-09-29
+- [ ] [Helsing — Deployed AI Engineer](https://helsing.ai/jobs/4516967101?gh_jid=4516967101) | Berlin; London; Munich; Paris; Stockholm; Tallinn | discovered 2026-09-29
+- [ ] [Helsing — Finance Data Engineer](https://helsing.ai/jobs/4871604101?gh_jid=4871604101) | Munich | discovered 2026-09-29
+- [ ] [Helsing — Robotics Software Engineer](https://helsing.ai/jobs/4943195101?gh_jid=4943195101) | Barcelona | discovered 2026-09-29
+- [ ] [Helsing — Site Reliability Engineer](https://helsing.ai/jobs/4347030101?gh_jid=4347030101) | Berlin; London; Munich; Paris | discovered 2026-09-29
+- [ ] [Helsing — Software Engineer](https://helsing.ai/jobs/4737931101?gh_jid=4737931101) | Berlin; Munich | discovered 2026-09-29
+- [ ] [Helsing — Software Engineer - Airborne Mission Systems](https://helsing.ai/jobs/4741565101?gh_jid=4741565101) | Berlin; Munich | discovered 2026-09-29
+- [ ] [Helsing — Software Engineer - Autonomous Air Systems](https://helsing.ai/jobs/4741571101?gh_jid=4741571101) | Berlin; Munich | discovered 2026-09-29
+- [ ] [Helsing — Software Engineer - Autonomous Air System V&V](https://helsing.ai/jobs/4741219101?gh_jid=4741219101) | Berlin; Munich | discovered 2026-09-29
+- [ ] [Helsing — Software Engineer - Backend](https://helsing.ai/jobs/4125061101?gh_jid=4125061101) | Berlin; London; Munich; Paris; Stockholm; Tallinn | discovered 2026-09-29
+- [ ] [Helsing — Software Engineer - Frontend Autonomous Air System V&V](https://helsing.ai/jobs/4741224101?gh_jid=4741224101) | Berlin; Munich | discovered 2026-09-29
+- [ ] [Helsing — Software Engineer - Ground to Air HMI](https://helsing.ai/jobs/4741242101?gh_jid=4741242101) | Berlin; Munich | discovered 2026-09-29
+- [ ] [Helsing — Staff Software Engineer ](https://helsing.ai/jobs/4923741101?gh_jid=4923741101) | Berlin; London; Munich; Paris; Stockholm; Tallinn | discovered 2026-09-29
+- [ ] [Celonis — Applied AI Engineer - Technology Consultant](https://job-boards.greenhouse.io/celonis/jobs/7765659003?gh_jid=7765659003) | New York, US, New York | discovered 2026-09-29
+- [ ] [Celonis — Associate Software Engineer - Java](https://job-boards.greenhouse.io/celonis/jobs/7791267003?gh_jid=7791267003) | Bangalore, India | discovered 2026-09-29
+- [ ] [Celonis — Senior Applied AI Engineer](https://job-boards.greenhouse.io/celonis/jobs/7788209003?gh_jid=7788209003) | Bangalore, India | discovered 2026-09-29
+- [ ] [Celonis — (Senior) Backend Software Engineer (Java) - Metadata Platform DB](https://job-boards.greenhouse.io/celonis/jobs/7997059003?gh_jid=7997059003) | Munich, Germany | discovered 2026-09-29
+- [ ] [Celonis — Senior Software Engineer](https://job-boards.greenhouse.io/celonis/jobs/7989845003?gh_jid=7989845003) | New York, US, New York | discovered 2026-09-29
+- [ ] [Celonis — Senior Software Engineer](https://job-boards.greenhouse.io/celonis/jobs/7989093003?gh_jid=7989093003) | Munich, Germany | discovered 2026-09-29
+- [ ] [Celonis — Senior Software Engineer - Engine Orchestration](https://job-boards.greenhouse.io/celonis/jobs/8000343003?gh_jid=8000343003) | Munich, Germany | discovered 2026-09-29
+- [ ] [Celonis — Senior Software Engineer - Orchestration and Automation](https://job-boards.greenhouse.io/celonis/jobs/7805677003?gh_jid=7805677003) | Madrid, Spain | discovered 2026-09-29
+- [ ] [Celonis — Senior Software Engineer - Query Engine & Database Systems](https://job-boards.greenhouse.io/celonis/jobs/7980155003?gh_jid=7980155003) | Munich, Germany | discovered 2026-09-29
+- [ ] [Celonis — Software Engineer - Java, Springboot, SAAS](https://job-boards.greenhouse.io/celonis/jobs/7791275003?gh_jid=7791275003) | Bangalore, India | discovered 2026-09-29
+- [ ] [Celonis — Sr. Frontend Software Engineer - Orchestration and Automation](https://job-boards.greenhouse.io/celonis/jobs/7805685003?gh_jid=7805685003) | Madrid, Spain | discovered 2026-09-29
+- [ ] [Celonis — Sr. Full Stack Software Engineer - Orchestration and Automation](https://job-boards.greenhouse.io/celonis/jobs/7678804003?gh_jid=7678804003) | Madrid, Spain | discovered 2026-09-29
+- [ ] [Celonis — Staff Software Engineer - Context Model Core Team](https://job-boards.greenhouse.io/celonis/jobs/7820430003?gh_jid=7820430003) | Munich, Germany | discovered 2026-09-29
+- [ ] [Celonis — Staff Software Engineer - Java, Springboot, SAAS](https://job-boards.greenhouse.io/celonis/jobs/7791427003?gh_jid=7791427003) | Bangalore, India | discovered 2026-09-29
+- [ ] [Contentful — Senior Software Engineer - Personalization (f/m/d)](https://job-boards.greenhouse.io/contentful/jobs/8221365) | Berlin, Germany | discovered 2026-09-29
+- [ ] [GetYourGuide — Engineering Manager, Infrastructure - Infrastructure  Platform ](https://job-boards.greenhouse.io/getyourguide/jobs/7959986) | Zurich  | discovered 2026-09-29
+- [ ] [GetYourGuide — Engineering Manager, Partner Tech](https://job-boards.greenhouse.io/getyourguide/jobs/8225855) | Zurich  | discovered 2026-09-29
+- [ ] [GetYourGuide — Engineering Manager, Reviews ](https://job-boards.greenhouse.io/getyourguide/jobs/8125740) | Berlin | discovered 2026-09-29
+- [ ] [GetYourGuide — Senior Engineering Manager, AI Platform](https://job-boards.greenhouse.io/getyourguide/jobs/7422312) | Berlin | discovered 2026-09-29
+- [ ] [GetYourGuide — Senior Software Engineer (Backend focused) - Supply](https://job-boards.greenhouse.io/getyourguide/jobs/8034895) | Berlin | discovered 2026-09-29
+- [ ] [HelloFresh — Backend Engineer, Consumer](https://careers.hellofresh.com/global/en/job/7408822?gh_jid=7408822) | Toronto, Ontario, Canada | discovered 2026-09-29
+- [ ] [HelloFresh — Engineering Manager, Cloud Infrastructure (all genders)](https://careers.hellofresh.com/global/en/job/8128263?gh_jid=8128263) | Berlin, Berlin, Germany | discovered 2026-09-29
+- [ ] [HelloFresh — Engineering Manager, Consumer Alliance (m/f/x)](https://careers.hellofresh.com/global/en/job/8093855?gh_jid=8093855) | Berlin, Berlin, Germany | discovered 2026-09-29
+- [ ] [HelloFresh — Senior Director of Machine Learning Engineering](https://careers.hellofresh.com/global/en/job/8121142?gh_jid=8121142) | Berlin, Berlin, Germany | discovered 2026-09-29
+- [ ] [HelloFresh — Senior Machine Learning Engineer, Growth](https://careers.hellofresh.com/global/en/job/7744069?gh_jid=7744069) | Toronto, Ontario, Canada | discovered 2026-09-29
+- [ ] [HelloFresh — Senior Staff Machine Learning Engineer, Menu Personalisation](https://careers.hellofresh.com/global/en/job/7988919?gh_jid=7988919) | Toronto, Ontario, Canada | discovered 2026-09-29
+- [ ] [HelloFresh — Senior Staff Machine Learning Engineer, Menu Personalisation (m,f,x) ](https://careers.hellofresh.com/global/en/job/7988916?gh_jid=7988916) | Berlin, Berlin, Germany | discovered 2026-09-29
+- [ ] [HelloFresh — Staff Software Engineer, Full-stack [CONSUMER]](https://careers.hellofresh.com/global/en/job/7908331?gh_jid=7908331) | Toronto, Ontario, Canada | discovered 2026-09-29
+- [ ] [N26 — Backend Engineer](https://n26.com/en-eu/careers/positions/8170936?gh_jid=8170936) | Barcelona | discovered 2026-09-29
+- [ ] [N26 — Backend Engineer - Customer Risk Lifecycle](https://n26.com/en-eu/careers/positions/8020521?gh_jid=8020521) | Berlin, Barcelona | discovered 2026-09-29
+- [ ] [N26 — Backend Engineer - Engagement ](https://n26.com/en-eu/careers/positions/7640893?gh_jid=7640893) | Berlin, Barcelona | discovered 2026-09-29
+- [ ] [N26 — Backend Engineer - Memberships](https://n26.com/en-eu/careers/positions/8172906?gh_jid=8172906) | Barcelona  | discovered 2026-09-29
+- [ ] [N26 — Backend Engineer - Payments](https://n26.com/en-eu/careers/positions/8132053?gh_jid=8132053) | Berlin, Barcelona | discovered 2026-09-29
+- [ ] [N26 — Backend Engineer - Subscriptions](https://n26.com/en-eu/careers/positions/7960138?gh_jid=7960138) | Barcelona | discovered 2026-09-29
+- [ ] [N26 — Senior Backend Engineer](https://n26.com/en-eu/careers/positions/7811482?gh_jid=7811482) | Berlin, Barcelona | discovered 2026-09-29
+- [ ] [N26 — Senior Backend Engineer - Engagement](https://n26.com/en-eu/careers/positions/8171135?gh_jid=8171135) | Berlin, Barcelona | discovered 2026-09-29
+- [ ] [N26 — Senior Site Reliability Engineer - Access Team](https://n26.com/en-eu/careers/positions/7774526?gh_jid=7774526) | Barcelona | discovered 2026-09-29
+- [ ] [N26 — Senior Site Reliability Engineer - Access Team](https://n26.com/en-eu/careers/positions/7768035?gh_jid=7768035) | Berlin | discovered 2026-09-29
+- [ ] [Trade Republic — Backend Engineer (Berlin)](https://traderepublic.com/en-de/about?jobId=6539149003&gh_jid=6539149003) | Berlin | discovered 2026-09-29
+- [ ] [Trade Republic — Backend Engineer (Haskell)](https://traderepublic.com/en-de/about?jobId=7718242003&gh_jid=7718242003) | Berlin | discovered 2026-09-29
+- [ ] [Trade Republic — Backend Engineer (London)](https://traderepublic.com/en-de/about?jobId=6327292003&gh_jid=6327292003) | London | discovered 2026-09-29
+- [ ] [Trade Republic — Backend Engineer (Paris)](https://traderepublic.com/en-de/about?jobId=6539038003&gh_jid=6539038003) | Paris | discovered 2026-09-29
+- [ ] [SumUp — Backend Engineer (Golang) - Bank Balance](https://sumup.com/careers/positions/8785333002?gh_jid=8785333002) | Berlin, Germany | discovered 2026-09-29
+- [ ] [SumUp — Backend Engineer (Golang) - Transfers Europe](https://sumup.com/careers/positions/8789067002?gh_jid=8789067002) | Berlin, Germany | discovered 2026-09-29
+- [ ] [SumUp — Data Platform Engineer](https://sumup.com/careers/positions/8364212002?gh_jid=8364212002) | Berlin, Germany | discovered 2026-09-29
+- [ ] [SumUp — Engineering Manager ](https://sumup.com/careers/positions/8559967002?gh_jid=8559967002) | São Paulo, Brazil | discovered 2026-09-29
+- [ ] [SumUp — Engineering Manager - Edge AI](https://sumup.com/careers/positions/8530960002?gh_jid=8530960002) | Berlin, Germany | discovered 2026-09-29
+- [ ] [SumUp — Engineering Manager - Verification](https://sumup.com/careers/positions/8448680002?gh_jid=8448680002) | Berlin, Germany | discovered 2026-09-29
+- [ ] [SumUp — Senior Backend Engineer - Bookings](https://sumup.com/careers/positions/8508079002?gh_jid=8508079002) | Warsaw, Poland; Warszawa, Masovian Voivodeship, Poland | discovered 2026-09-29
+- [ ] [SumUp — Senior Backend Engineer - Golang](https://sumup.com/careers/positions/8842258002?gh_jid=8842258002) | Cologne, Germany | discovered 2026-09-29
+- [ ] [SumUp — Senior Backend Engineer - Golang](https://sumup.com/careers/positions/8842256002?gh_jid=8842256002) | Berlin, Germany | discovered 2026-09-29
+- [ ] [SumUp — Senior Backend Engineer - Identity Lifecycle](https://sumup.com/careers/positions/8659018002?gh_jid=8659018002) | Berlin, Germany | discovered 2026-09-29
+- [ ] [SumUp — Senior Backend Engineer - MarTech](https://sumup.com/careers/positions/8644922002?gh_jid=8644922002) | Berlin, Germany | discovered 2026-09-29
+- [ ] [SumUp — Senior Data Scientist/ML Engineer - Financial Crime](https://sumup.com/careers/positions/8732398002?gh_jid=8732398002) | Berlin, Germany | discovered 2026-09-29
+- [ ] [SumUp —  Senior DevOps Engineer](https://sumup.com/careers/positions/8726158002?gh_jid=8726158002) | Berlin, Germany | discovered 2026-09-29
+- [ ] [SumUp — Senior Machine Learning Engineer I](https://sumup.com/careers/positions/8498275002?gh_jid=8498275002) | Berlin, Germany | discovered 2026-09-29
+- [ ] [Wayve — Application Software Engineer](https://wayve.firststage.co/jobs?gh_jid=8749219002) | Japan; Tokyo | discovered 2026-09-29
+- [ ] [Wayve — Applied Scientist/Machine Learning Engineer Gaia](https://wayve.firststage.co/jobs?gh_jid=8749904002) | London; Sunnyvale | discovered 2026-09-29
+- [ ] [Wayve — DevOps Engineer ](https://wayve.firststage.co/jobs?gh_jid=8745282002) | London | discovered 2026-09-29
+- [ ] [Wayve — Engineering Manager, Runtime Platform, Robot Software](https://wayve.firststage.co/jobs?gh_jid=8708581002) | London | discovered 2026-09-29
+- [ ] [Wayve — Full-Stack Software Engineer, Model Development Platform](https://wayve.firststage.co/jobs?gh_jid=8725207002) | London; Sunnyvale | discovered 2026-09-29
+- [ ] [Wayve — Machine Learning Engineer, ADAS](https://wayve.firststage.co/jobs?gh_jid=8622191002) | London | discovered 2026-09-29
+- [ ] [Wayve — Machine Learning Engineer, App SW](https://wayve.firststage.co/jobs?gh_jid=8435254002) | Sunnyvale | discovered 2026-09-29
+- [ ] [Wayve — Machine Learning Engineering Manager, App SW](https://wayve.firststage.co/jobs?gh_jid=8571171002) | Sunnyvale | discovered 2026-09-29
+- [ ] [Wayve — Machine Learning Engineer (Synthetic Data)](https://wayve.firststage.co/jobs?gh_jid=8749921002) | London | discovered 2026-09-29
+- [ ] [Wayve — Platform Engineer, AI Enablement ](https://wayve.firststage.co/jobs?gh_jid=8785464002) | London | discovered 2026-09-29
+- [ ] [Wayve — Platform Engineer, SDO](https://wayve.firststage.co/jobs?gh_jid=8842721002) | London | discovered 2026-09-29
+- [ ] [Wayve — Principal Application Software Engineer](https://wayve.firststage.co/jobs?gh_jid=8454715002) | Tokyo | discovered 2026-09-29
+- [ ] [Wayve — Principal Machine Learning Engineer GAIA](https://wayve.firststage.co/jobs?gh_jid=8842513002) | London | discovered 2026-09-29
+- [ ] [Wayve — Principal Software Engineer, Robot Software](https://wayve.firststage.co/jobs?gh_jid=8539648002) | Sunnyvale | discovered 2026-09-29
+- [ ] [Wayve — Senior Machine Learning Engineer, AI Performance](https://wayve.firststage.co/jobs?gh_jid=8655859002) | London | discovered 2026-09-29
+- [ ] [Wayve — Senior Software Engineer, Data](https://wayve.firststage.co/jobs?gh_jid=8745289002) | London | discovered 2026-09-29
+- [ ] [Wayve — Senior Software Engineer, Data & Orchestration](https://wayve.firststage.co/jobs?gh_jid=8755402002) | London | discovered 2026-09-29
+- [ ] [Wayve — Senior Software Engineer, Platform - AI Portal](https://wayve.firststage.co/jobs?gh_jid=8564314002) | London | discovered 2026-09-29
+- [ ] [Wayve — Senior SRE, AI Infrastructure ](https://wayve.firststage.co/jobs?gh_jid=8458272002) | London | discovered 2026-09-29
+- [ ] [Wayve — Software Engineer, AI Libraries](https://wayve.firststage.co/jobs?gh_jid=8746298002) | London | discovered 2026-09-29
+- [ ] [Wayve — Software Engineer, Simulation ](https://wayve.firststage.co/jobs?gh_jid=8781421002) | London | discovered 2026-09-29
+- [ ] [Wayve — Staff Machine Learning Engineer - Ops](https://wayve.firststage.co/jobs?gh_jid=8749902002) | London | discovered 2026-09-29
+- [ ] [Wayve — Staff SRE, AI Infrastructure ](https://wayve.firststage.co/jobs?gh_jid=8537458002) | London | discovered 2026-09-29
+- [ ] [Isomorphic Labs — Research Engineer (LLM Performance), London](https://job-boards.greenhouse.io/isomorphiclabs/jobs/6184829004) | London | discovered 2026-09-29
+- [ ] [Isomorphic Labs — Research Scientist (Applied LLMs), London](https://job-boards.greenhouse.io/isomorphiclabs/jobs/5704870004) | London | discovered 2026-09-29
+- [ ] [Isomorphic Labs — Software Engineer (ML Infrastructure), London](https://job-boards.greenhouse.io/isomorphiclabs/jobs/5818858004) | London | discovered 2026-09-29
+- [ ] [Isomorphic Labs — Software Engineer (TechOps), London](https://job-boards.greenhouse.io/isomorphiclabs/jobs/5539669004) | London | discovered 2026-09-29
+- [ ] [Isomorphic Labs — Staff Software Engineer (Inference Platform), London](https://job-boards.greenhouse.io/isomorphiclabs/jobs/5837899004) | London | discovered 2026-09-29
+- [ ] [PhysicsX — Forward Deployed Software Engineer](https://job-boards.eu.greenhouse.io/physicsx/jobs/4860241101) | Singapore | discovered 2026-09-29
+- [ ] [PhysicsX — Principal Machine Learning Engineer](https://job-boards.eu.greenhouse.io/physicsx/jobs/4749999101) | Singapore | discovered 2026-09-29
+- [ ] [PhysicsX — Senior Forward Deployed Software Engineer](https://job-boards.eu.greenhouse.io/physicsx/jobs/4750017101) | Singapore | discovered 2026-09-29
+- [ ] [PhysicsX — Senior Machine Learning Engineer](https://job-boards.eu.greenhouse.io/physicsx/jobs/4648881101) | London, United Kingdom | discovered 2026-09-29
+- [ ] [PhysicsX — Senior Machine Learning Software Engineer, Research](https://job-boards.eu.greenhouse.io/physicsx/jobs/4851342101) | London, United Kingdom | discovered 2026-09-29
+- [ ] [PhysicsX — Staff Backend Software Engineer - GO & Python](https://job-boards.eu.greenhouse.io/physicsx/jobs/4958818101) | London, United Kingdom | discovered 2026-09-29
+- [ ] [PhysicsX — Staff Software Engineer, Infrastructure - Python & Kubernetes ](https://job-boards.eu.greenhouse.io/physicsx/jobs/4981153101) | London | discovered 2026-09-29
+- [ ] [Fivetran — Engineering Manager, Metadata](https://www.fivetran.com/careers/job?gh_jid=7865037003) | Toronto, Ontario, Canada | discovered 2026-09-29
+- [ ] [Fivetran — Senior R&D Software Engineer, Fivetran AI](https://www.fivetran.com/careers/job?gh_jid=7810468003) | USA - New York | discovered 2026-09-29
+- [ ] [Fivetran — Senior Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7814036003) | Dublin, Dublin, Ireland, EMEA | discovered 2026-09-29
+- [ ] [Fivetran — Senior Software Engineer](https://www.fivetran.com/careers/job?gh_jid=7810395003) | Dublin, Dublin, Ireland, EMEA | discovered 2026-09-29
+- [ ] [Fivetran — Senior Software Engineer - Core Databases](https://www.fivetran.com/careers/job?gh_jid=7822402003) | Novi Sad, South Bačka, Serbia, EMEA | discovered 2026-09-29
+- [ ] [Fivetran — Senior Software Engineer - C Programmer](https://www.fivetran.com/careers/job?gh_jid=7847762003) | Novi Sad, South Bačka, Serbia, EMEA | discovered 2026-09-29
+- [ ] [Fivetran — Senior Software Engineer - DB2 Databases ](https://www.fivetran.com/careers/job?gh_jid=7837407003) | Novi Sad, South Bačka, Serbia, EMEA | discovered 2026-09-29
+- [ ] [Fivetran — Senior Software Engineer - Pricing & Buying Experience](https://www.fivetran.com/careers/job?gh_jid=7818368003) | Novi Sad, South Bačka, Serbia, EMEA | discovered 2026-09-29
+- [ ] [Fivetran — Senior Software Engineer, R&D Business Systems](https://www.fivetran.com/careers/job?gh_jid=7692115003) | Toronto, Ontario, Canada | discovered 2026-09-29
+- [ ] [Fivetran — Software Engineer II](https://www.fivetran.com/careers/job?gh_jid=7818394003) | Toronto, Ontario, Canada | discovered 2026-09-29
+- [ ] [Fivetran — Software Engineer II](https://www.fivetran.com/careers/job?gh_jid=8000545003) | Bengaluru, Karnataka, India, APAC | discovered 2026-09-29
+- [ ] [Fivetran — Staff DevOps Engineer](https://www.fivetran.com/careers/job?gh_jid=7747624003) | Novi Sad, South Bačka, Serbia, EMEA | discovered 2026-09-29
+- [ ] [Fivetran — Staff R&D Software Engineer, Fivetran AI](https://www.fivetran.com/careers/job?gh_jid=7812006003) | USA - New York | discovered 2026-09-29
+- [ ] [Fivetran — Staff Site Reliability Engineer](https://www.fivetran.com/careers/job?gh_jid=7688674003) | Novi Sad, South Bačka, Serbia, EMEA | discovered 2026-09-29
+- [ ] [Fivetran — Staff Software Engineer, Backend](https://www.fivetran.com/careers/job?gh_jid=7789375003) | Toronto, Ontario, Canada | discovered 2026-09-29
+- [ ] [Fivetran — Staff Software Engineer-dbt core](https://www.fivetran.com/careers/job?gh_jid=7818352003) | Bangalore, India | discovered 2026-09-29
+- [ ] [Fivetran — Staff Software Engineer, Metadata](https://www.fivetran.com/careers/job?gh_jid=7864668003) | Toronto, Ontario, Canada | discovered 2026-09-29
+- [ ] [Chainguard — Software Engineer (Repositories) ](https://job-boards.greenhouse.io/chainguard/jobs/4714571006) | Canada - Remote | discovered 2026-09-29
+- [ ] [Chainguard — Software Engineer (Repositories) ](https://job-boards.greenhouse.io/chainguard/jobs/4714570006) | United Kingdom - Remote | discovered 2026-09-29
+- [ ] [Scale AI — Applied AI Engineer, Global Public Sector](https://job-boards.greenhouse.io/scaleai/jobs/4413992005) | Doha, Qatar; London, UK | discovered 2026-09-29
+- [ ] [Scale AI — Engineering Manager, Global Public Sector](https://job-boards.greenhouse.io/scaleai/jobs/4595555005) | London, UK | discovered 2026-09-29
+- [ ] [Scale AI — Engineering Manager, Infrastructure ](https://job-boards.greenhouse.io/scaleai/jobs/4719479005) | London, UK | discovered 2026-09-29
+- [ ] [Scale AI — Infrastructure Software Engineer, Apps Platform](https://job-boards.greenhouse.io/scaleai/jobs/4729979005) | London, UK | discovered 2026-09-29
+- [ ] [Scale AI — Machine Learning Engineer, Platform](https://job-boards.greenhouse.io/scaleai/jobs/4711544005) | London, UK | discovered 2026-09-29
+- [ ] [Scale AI — Senior Data Engineer, Public Sector](https://job-boards.greenhouse.io/scaleai/jobs/4713597005) | Washington, DC | discovered 2026-09-29
+- [ ] [Scale AI — Senior Full-Stack Software Engineer, (Forward Deployed), GPS](https://job-boards.greenhouse.io/scaleai/jobs/4673310005) | London, UK | discovered 2026-09-29
+- [ ] [Scale AI — Software Engineer, Enterprise](https://job-boards.greenhouse.io/scaleai/jobs/4536653005) | London, UK | discovered 2026-09-29
+- [ ] [Scale AI — Software Engineering Manager, Public Sector ](https://job-boards.greenhouse.io/scaleai/jobs/4715325005) | Washington, DC | discovered 2026-09-29
+- [ ] [Scale AI — Software Engineer - New Grad](https://job-boards.greenhouse.io/scaleai/jobs/4730862005) | London, UK | discovered 2026-09-29
+- [ ] [Scale AI — Software Engineer, Platform ](https://job-boards.greenhouse.io/scaleai/jobs/4731630005) | London, UK | discovered 2026-09-29
+- [ ] [Scale AI — Staff Applied AI Engineer](https://job-boards.greenhouse.io/scaleai/jobs/4720050005) | London, UK | discovered 2026-09-29
+- [ ] [Scale AI — Staff Full-Stack Software Engineer, (Forward Deployed), GPS](https://job-boards.greenhouse.io/scaleai/jobs/4676610005) | London, UK | discovered 2026-09-29
+- [ ] [Scale AI — Staff Software Engineer, Platform ](https://job-boards.greenhouse.io/scaleai/jobs/4703527005) | London, UK | discovered 2026-09-29
+- [ ] [Databricks — AI Engineer, FDE (Forward Deployed Engineer)](https://databricks.com/company/careers/open-positions/job?gh_jid=8015848002) | Bengaluru, India; Delhi, India; Mumbai, India; Pune, India | discovered 2026-09-29
+- [ ] [Databricks — Engineering Manager - Backend](https://databricks.com/company/careers/open-positions/job?gh_jid=5313313002) | Amsterdam, Netherlands | discovered 2026-09-29
+- [ ] [Databricks — Engineering Manager - Databricks SQL Control Plane](https://databricks.com/company/careers/open-positions/job?gh_jid=8472398002) | Mountain View, California | discovered 2026-09-29
+- [ ] [Databricks — Engineering Manager - Identity and Access Management (IAM)](https://databricks.com/company/careers/open-positions/job?gh_jid=8298018002) | Mountain View, California | discovered 2026-09-29
+- [ ] [Databricks — Engineering Manager, Serverless Compute Platform](https://databricks.com/company/careers/open-positions/job?gh_jid=8603361002) | Bellevue, Washington | discovered 2026-09-29
+- [ ] [Databricks — Engineering Manager - Streaming](https://databricks.com/company/careers/open-positions/job?gh_jid=8324875002) | Bellevue, Washington | discovered 2026-09-29
+- [ ] [Databricks — Pre-sales Engineering Manager (Retail & CPG)](https://databricks.com/company/careers/open-positions/job?gh_jid=8686919002) | London, United Kingdom | discovered 2026-09-29
+- [ ] [Databricks — Senior AI Engineer - FDE (Forward Deployed Engineer)](https://databricks.com/company/careers/open-positions/job?gh_jid=8569392002) | Tokyo, Japan | discovered 2026-09-29
+- [ ] [Databricks — Senior Forward Deployed Engineer (Technical Data Architect)](https://databricks.com/company/careers/open-positions/job?gh_jid=8656204002) | London, United Kingdom | discovered 2026-09-29
+- [ ] [Databricks — Senior Software Engineer, AI Native Web Platform](https://databricks.com/company/careers/open-positions/job?gh_jid=8635216002) | Mountain View, California | discovered 2026-09-29
+- [ ] [Databricks — Senior Software Engineer  - Application Traffic team](https://databricks.com/company/careers/open-positions/job?gh_jid=8183195002) | Mountain View, California | discovered 2026-09-29
+- [ ] [Databricks — Senior Software Engineer - Backend](https://databricks.com/company/careers/open-positions/job?gh_jid=7477087002) | Berlin, Germany | discovered 2026-09-29
+- [ ] [Databricks — Senior Software Engineer - Backend](https://databricks.com/company/careers/open-positions/job?gh_jid=8029671002) | Amsterdam, Netherlands | discovered 2026-09-29
+- [ ] [Databricks — Senior Software Engineer - Backend](https://databricks.com/company/careers/open-positions/job?gh_jid=6544435002) | Mountain View, California | discovered 2026-09-29
+- [ ] [Databricks — Senior Software Engineer - Backend](https://databricks.com/company/careers/open-positions/job?gh_jid=6779084002) | Bellevue, Washington | discovered 2026-09-29
+- [ ] [Databricks — Senior Software Engineer (Backend) - AI/ML Environments](https://databricks.com/company/careers/open-positions/job?gh_jid=8233899002) | Mountain View, California | discovered 2026-09-29
+- [ ] [Databricks — Senior Software Engineer - Data Platform](https://databricks.com/company/careers/open-positions/job?gh_jid=7601580002) | Bengaluru, India | discovered 2026-09-29
+- [ ] [Databricks — Senior Software Engineer - Distributed Data Systems](https://databricks.com/company/careers/open-positions/job?gh_jid=6544325002) | Mountain View, California | discovered 2026-09-29
+- [ ] [Databricks — Senior Software Engineer - Distributed Data Systems](https://databricks.com/company/careers/open-positions/job?gh_jid=6936994002) | Bellevue, Washington | discovered 2026-09-29
+- [ ] [Databricks — Senior Software Engineer - Fullstack](https://databricks.com/company/careers/open-positions/job?gh_jid=8029679002) | Amsterdam, Netherlands | discovered 2026-09-29
+- [ ] [Databricks — Senior Software Engineer  - Money Team](https://databricks.com/company/careers/open-positions/job?gh_jid=8027404002) | Bellevue, Washington | discovered 2026-09-29
+- [ ] [Databricks — Senior Staff Software Engineer - Delta](https://databricks.com/company/careers/open-positions/job?gh_jid=7319791002) | Berlin, Germany | discovered 2026-09-29
+- [ ] [Databricks — Senior Staff Software Engineer - Delta](https://databricks.com/company/careers/open-positions/job?gh_jid=8303020002) | London, United Kingdom | discovered 2026-09-29
+- [ ] [Databricks — Senior Staff Software Engineer - Delta](https://databricks.com/company/careers/open-positions/job?gh_jid=8303015002) | Amsterdam, Netherlands | discovered 2026-09-29
+- [ ] [Databricks — Senior Staff Software Engineer - Enzyme](https://databricks.com/company/careers/open-positions/job?gh_jid=7934466002) | Mountain View, California | discovered 2026-09-29
+- [ ] [Databricks — Senior Staff Software Engineer - IAM](https://databricks.com/company/careers/open-positions/job?gh_jid=7274563002) | Mountain View, California | discovered 2026-09-29
+- [ ] [Databricks — Senior Staff Software Engineer - Security Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=7274908002) | Mountain View, California | discovered 2026-09-29
+- [ ] [Databricks — Senior Staff Software Engineer - Security Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=7274902002) | Bellevue, Washington | discovered 2026-09-29
+- [ ] [Databricks — Software Engineer - Backend](https://databricks.com/company/careers/open-positions/job?gh_jid=8029666002) | Amsterdam, Netherlands | discovered 2026-09-29
+- [ ] [Databricks — Software Engineer, Web Products](https://databricks.com/company/careers/open-positions/job?gh_jid=8635225002) | Mountain View, California | discovered 2026-09-29
+- [ ] [Databricks — Software Engineer, Web Products](https://databricks.com/company/careers/open-positions/job?gh_jid=8560779002) | Mountain View, California | discovered 2026-09-29
+- [ ] [Databricks — Sr. Engineering Manager - Agentic Service Platform ](https://databricks.com/company/careers/open-positions/job?gh_jid=8510921002) | Mountain View, California | discovered 2026-09-29
+- [ ] [Databricks — Sr. Manager, Engineering](https://databricks.com/company/careers/open-positions/job?gh_jid=8540678002) | Amsterdam, Netherlands | discovered 2026-09-29
+- [ ] [Databricks — Sr Software Engineer-Networking](https://databricks.com/company/careers/open-positions/job?gh_jid=8211450002) | Bellevue, Washington | discovered 2026-09-29
+- [ ] [Databricks — Sr Software Engineer-Networking](https://databricks.com/company/careers/open-positions/job?gh_jid=8211452002) | Mountain View, California | discovered 2026-09-29
+- [ ] [Databricks — Sr. Staff Software Engineer - Managed Tables ](https://databricks.com/company/careers/open-positions/job?gh_jid=8555864002) | Mountain View, California | discovered 2026-09-29
+- [ ] [Databricks — Sr. Staff Software Engineer - Money Team](https://databricks.com/company/careers/open-positions/job?gh_jid=8285949002) | Bellevue, Washington | discovered 2026-09-29
+- [ ] [Databricks — Sr. Staff Software Engineer - Unity Catalog Data Governance](https://databricks.com/company/careers/open-positions/job?gh_jid=7993609002) | Bellevue, Washington | discovered 2026-09-29
+- [ ] [Databricks — Staff Software Engineer, Agentic Applications](https://databricks.com/company/careers/open-positions/job?gh_jid=8635182002) | Mountain View, California | discovered 2026-09-29
+- [ ] [Databricks — Staff Software Engineer, AI Native Web Platform](https://databricks.com/company/careers/open-positions/job?gh_jid=8635188002) | Mountain View, California | discovered 2026-09-29
+- [ ] [Databricks — Staff Software Engineer, AI Search](https://databricks.com/company/careers/open-positions/job?gh_jid=8578177002) | Mountain View, California | discovered 2026-09-29
+- [ ] [Databricks — Staff Software Engineer - Backend](https://databricks.com/company/careers/open-positions/job?gh_jid=6544443002) | Mountain View, California | discovered 2026-09-29
+- [ ] [Databricks — Staff Software Engineer - Backend](https://databricks.com/company/careers/open-positions/job?gh_jid=8029674002) | Amsterdam, Netherlands | discovered 2026-09-29
+- [ ] [Databricks — Staff Software Engineer - Backend](https://databricks.com/company/careers/open-positions/job?gh_jid=6779233002) | Bellevue, Washington | discovered 2026-09-29
+- [ ] [Databricks — Staff Software Engineer - Backend](https://databricks.com/company/careers/open-positions/job?gh_jid=7984907002) | Berlin, Germany | discovered 2026-09-29
+- [ ] [Databricks — Staff Software Engineer - Backend ](https://databricks.com/company/careers/open-positions/job?gh_jid=8374611002) | London, United Kingdom | discovered 2026-09-29
+- [ ] [Databricks — Staff Software Engineer - Distributed Data Systems](https://databricks.com/company/careers/open-positions/job?gh_jid=6937001002) | Bellevue, Washington | discovered 2026-09-29
+- [ ] [Databricks — Staff Software Engineer - Distributed Data Systems](https://databricks.com/company/careers/open-positions/job?gh_jid=6544364002) | Mountain View, California | discovered 2026-09-29
+- [ ] [Databricks — Staff Software Engineer - IAM](https://databricks.com/company/careers/open-positions/job?gh_jid=7994801002) | Mountain View, California | discovered 2026-09-29
+- [ ] [Databricks — Staff Software Engineer - IAM](https://databricks.com/company/careers/open-positions/job?gh_jid=7994790002) | Bellevue, Washington | discovered 2026-09-29
+- [ ] [Databricks — Staff Software Engineer - Money Team](https://databricks.com/company/careers/open-positions/job?gh_jid=7111068002) | Bellevue, Washington | discovered 2026-09-29
+- [ ] [Databricks — Staff Software Engineer, Search Quality](https://databricks.com/company/careers/open-positions/job?gh_jid=8295792002) | Mountain View, California | discovered 2026-09-29
+- [ ] [Databricks — Staff Software Engineer - Security Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=7994759002) | Bellevue, Washington | discovered 2026-09-29
+- [ ] [Databricks — Staff Software Engineer - Security Infrastructure](https://databricks.com/company/careers/open-positions/job?gh_jid=7994770002) | Mountain View, California | discovered 2026-09-29
+- [ ] [Databricks — Staff Software Engineer, Technical Lead, Lakebase Manager (LBM)](https://databricks.com/company/careers/open-positions/job?gh_jid=8639477002) | Bellevue, Washington | discovered 2026-09-29
+- [ ] [Figure AI — Helix AI Engineer, Data Infrastructure ](https://job-boards.greenhouse.io/figureai/jobs/4345915006) | San Jose, CA | discovered 2026-09-29
+- [ ] [Figure AI — Helix AI Engineer, Generative AI](https://job-boards.greenhouse.io/figureai/jobs/4671699006) | San Jose, CA | discovered 2026-09-29
+- [ ] [Figure AI — Helix AI Engineer, Modeling](https://job-boards.greenhouse.io/figureai/jobs/4671712006) | San Jose, CA | discovered 2026-09-29
+- [ ] [Figure AI — Helix AI Engineer, Pretraining](https://job-boards.greenhouse.io/figureai/jobs/4671704006) | San Jose, CA | discovered 2026-09-29
+- [ ] [Figure AI — Helix AI Engineer, Reinforcement Learning](https://job-boards.greenhouse.io/figureai/jobs/4671707006) | San Jose, CA | discovered 2026-09-29
+- [ ] [Figure AI — Helix AI Engineer, Robot Learning](https://job-boards.greenhouse.io/figureai/jobs/4649851006) | San Jose, CA | discovered 2026-09-29
+- [ ] [Figure AI — Helix AI Engineer, Video Pretraining](https://job-boards.greenhouse.io/figureai/jobs/4671703006) | San Jose, CA | discovered 2026-09-29
+- [ ] [Figure AI — Helix AI Engineer, XR](https://job-boards.greenhouse.io/figureai/jobs/4699095006) | San Jose, CA | discovered 2026-09-29
+- [ ] [Figure AI — Software Engineer, Manufacturing Systems](https://job-boards.greenhouse.io/figureai/jobs/4692559006) | San Jose, CA | discovered 2026-09-29
+- [ ] [Figure AI — Software Engineer, Privacy & Data Governance](https://job-boards.greenhouse.io/figureai/jobs/4690871006) | San Jose, CA | discovered 2026-09-29
+- [ ] [Figure AI — Staff Infrastructure Engineer](https://job-boards.greenhouse.io/figureai/jobs/4614747006) | San Jose, CA | discovered 2026-09-29
+- [ ] [Planet Labs — Senior Data Engineer](https://job-boards.greenhouse.io/planetlabs/jobs/8016466) | Arlington, VA | discovered 2026-09-29
+- [ ] [Rocket Lab — Principal Network Software Engineer - TS/SCI](https://job-boards.greenhouse.io/rocketlab/jobs/7627102003) | Littleton, CO | discovered 2026-09-29
+- [ ] [Rocket Lab — Senior Software Engineer I - Customer Solutions](https://job-boards.greenhouse.io/rocketlab/jobs/7998854003) | Littleton, CO | discovered 2026-09-29
+- [ ] [Rocket Lab — Senior Software Engineer II - Customer Solutions](https://job-boards.greenhouse.io/rocketlab/jobs/7998869003) | Littleton, CO | discovered 2026-09-29
+
+
