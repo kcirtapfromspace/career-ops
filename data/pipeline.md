@@ -1,5 +1,21 @@
 # Pipeline — Pending Offers
 
+## 2026-09-27 — Scout Scan
+
+> 4 new matches (2 top picks, 2 secondary). **SentiLink Staff SWE Data Platform** (Remote, ~$200K) — Go/Python/AWS fraud detection data platform, excellent IC fit. **DAT Freight SWE Manager Cloud** (Denver hybrid, $192-274K) — K8s migration for carrier rate data, Patrick's strongest proof point archetype. 2 additional DAT EM roles. Reddit ML Manager ×2 flagged as stretch (RecSys specialization required). Report: [scout-2026-09-27.md](../reports/scout-2026-09-27.md)
+
+#### Top Picks (4.0+ — Apply Soon)
+
+- [ ] https://jobs.ashbyhq.com/sentilink/9bc3de0b-1638-4310-8df1-2dd965f0bdf4 | SentiLink | Staff Software Engineer, Data Platform | Remote US | ★★★★ 4.3/5 — ~$200K est, fully remote, Go/Python/Postgres/Redshift/Spark/AWS, billions of records, fraud detection at scale — IC data platform archetype match
+- [ ] https://www.builtincolorado.com/job/engineering-manager/11195551 | DAT Freight | Software Engineering Manager, Cloud | Denver CO (Hybrid) | ★★★★ 4.2/5 — $192-274K+bonus, deadline Oct 31, K8s migration from legacy monolith, carrier rate data platform, Denver local
+
+#### Secondary (3.5–3.9 — Review Before Applying)
+
+- [ ] https://builtin.com/job/engineering-manager/11270890 | DAT Freight | Engineering Manager, Carrier Network Integrity | Seattle WA (Hybrid) | ★★★ 3.6/5 — $208-293.5K+bonus, deadline Oct 31, new team, fraud prevention/carrier verification, highest DAT comp
+- [ ] https://builtin.com/job/engineering-manager/10645555 | DAT Freight | Engineering Manager, Broker Tech | Seattle WA (Hybrid) | ★★★ 3.2/5 — $192-261K+bonus, deadline Oct 31, freight automation/broker ops, logistics domain
+
+---
+
 ## 2026-09-25 — Scout Scan
 
 > 9 new matches (3 top picks, 6 secondary). **Reddit opened Staff SWE Ingestion Platform (Remote, $217-303K)** — direct Kafka+K8s stack match. Webflow Senior Staff SWE ($232-290K remote) is a strong comp play. Docker has 4 new Staff/ML Engineer openings including Agentic Platform in Seattle. Report: [scout-2026-09-25.md](../reports/scout-2026-09-25.md)
