@@ -1,5 +1,26 @@
 # Pipeline — Pending Offers
 
+## 2026-09-30 — Quick-Check Scout (Greenhouse API)
+
+> 11 new matches (4 top picks, 7 secondary). Greenhouse API scan only — no browser. Highlights: **Samsara Sr SWE Remote** (infra/routing), **TrueAnomaly EM Software Denver** (space defense), **Anthropic Senior+ SWE Legal Tech** (remote-friendly!), **Anduril Principal SWE InfraEng Seattle**.
+
+#### Top Picks (Apply Soon)
+- [ ] https://www.samsara.com/company/careers/roles/7520397?gh_jid=7520397 | Samsara | Senior Software Engineer II, Route Planning | Remote - US — Remote US, IoT + AI platform, large-scale data infra, SWE II = senior IC
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5252981007 | TrueAnomaly | Engineering Manager, Software (Modeling and Simulation) | Denver, CO or Long Beach, CA — Denver CO, space defense, EM for simulation software team
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5435665008 | Anthropic | Senior+ Software Engineer, Legal Tech | Remote-Friendly (Travel-Required) | SF | Seattle | NYC — Remote-friendly! Anthropic dream company, Senior+ SWE for legal tooling
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5252050007?gh_jid=5252050007 | Anduril | Principal Software Engineer, InfraEng Platform Team | Seattle, WA — Seattle, Anduril dream company, Principal SWE for infra/platform team
+
+#### Secondary (Review Before Applying)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5434559008 | Anthropic | Staff / Senior Software Engineer, Security Fusion Platform | SF | NYC | Seattle — SF/Seattle, security platform engineering at Anthropic
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5436293008 | Anthropic | Staff+ Software Engineer, Account Abuse (Machine Learning) | SF | NYC — SF, ML-based abuse detection, Staff+ level
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5437172008 | Anthropic | Applied AI Engineer, Beneficial Deployments (Life Sciences) | SF | NYC — SF, applied AI deployment for life sciences vertical
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5247324007?gh_jid=5247324007 | Anduril | Engineering Lead, Air Defense U.S. Air Force Portfolio | Seattle / Irvine / DC — Seattle option, Anduril defense AI, engineering lead
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/8197622 | PlanetLabs | Senior Software Engineer, Mission Optimization | San Francisco, CA — SF, satellite imaging data platform, optimization algorithms
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5230428007?gh_jid=5230428007 | Anduril | Senior Software Engineer (Security) | Bellevue, WA — Bellevue/Seattle metro, Anduril security engineering
+- [ ] https://nuro.ai/careersitem?gh_jid=8221208 | Nuro | Software Engineer, Cloud Infrastructure and Observability | Mountain View, CA — Bay Area, autonomous delivery, cloud infra + observability
+
+---
+
 ## 2026-09-27 — Scout Scan
 
 > 4 new matches (2 top picks, 2 secondary). **SentiLink Staff SWE Data Platform** (Remote, ~$200K) — Go/Python/AWS fraud detection data platform, excellent IC fit. **DAT Freight SWE Manager Cloud** (Denver hybrid, $192-274K) — K8s migration for carrier rate data, Patrick's strongest proof point archetype. 2 additional DAT EM roles. Reddit ML Manager ×2 flagged as stretch (RecSys specialization required). Report: [scout-2026-09-27.md](../reports/scout-2026-09-27.md)
