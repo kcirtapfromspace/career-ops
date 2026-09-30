@@ -11035,3 +11035,10 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - [ ] [Rocket Lab — Senior Software Engineer II - Customer Solutions](https://job-boards.greenhouse.io/rocketlab/jobs/7998869003) | Littleton, CO | discovered 2026-09-29
 
 
+
+## 2026-09-30
+
+> Scout scan 2026-09-30. Greenhouse API (Anthropic, Anduril, Airtable, Arize AI, Calendly, Celonis, Chainguard, Dagster, Databricks, Figure AI, Fivetran, Glean, Planet Labs, Rocket Lab, Samsara, Scale AI, SmarterDx, Speechmatics, Temporal, True Anomaly, Vast, Vercel, Nuro, Zipline) + WebSearch (Ashby staff/senior DE/Platform, Lever EM/Data roles, Nango). Dedup against 35,349 history entries. **2 new matches** (1 × 3.5, 1 × 3.2). Report: [scout-2026-09-30.md](../reports/scout-2026-09-30.md)
+
+- [ ] https://jobs.ashbyhq.com/nango/8df55632-71d5-481e-8424-1f7491f9e96d | Nango | Staff Platform Engineer | Remote | 3.5/5 — YC dev tools (14 ppl). K8s/AWS/Terraform/Postgres match. Comp $140K–$220K — verify negotiable to $200K+.
+- [ ] https://www.ycombinator.com/companies/nango/jobs/KplJ2YB-staff-backend-engineer-remote | Nango | Staff Backend Engineer | Remote | 3.2/5 — Same company. Primary archetype but API integrations focus vs data platform DNA. Lower priority.

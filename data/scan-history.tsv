@@ -35356,3 +35356,31 @@ https://jobs.ashbyhq.com/opensea/8c242715-3ea6-47e9-8a9c-9972b57683a7	2026-09-29
 2026-09-29	https://boards-api.greenhouse.io/v1/boards/nuro/jobs	Nuro	API scan	no new matches (Mountain View, not accept list)	scout-quickcheck
 2026-09-29	https://boards-api.greenhouse.io/v1/boards/flyzipline/jobs	Zipline	API scan	all seen (last full scan 2026-09-26)	scout-quickcheck
 2026-09-29	https://boards-api.greenhouse.io/v1/boards/clickhouse/jobs	Clickhouse	API scan	404	scout-quickcheck
+2026-09-30	https://jobs.ashbyhq.com/nango/8df55632-71d5-481e-8424-1f7491f9e96d	ashby-websearch	Staff Platform Engineer	Nango	new-match-3.5
+2026-09-30	https://www.ycombinator.com/companies/nango/jobs/KplJ2YB-staff-backend-engineer-remote	yc-websearch	Staff Backend Engineer	Nango	new-match-3.2
+2026-09-30	https://boards-api.greenhouse.io/v1/boards/anthropic/jobs	Anthropic	API scan	0 new engineering	scout-2026-09-30
+2026-09-30	https://boards-api.greenhouse.io/v1/boards/andurilindustries/jobs	Anduril	API scan	16 new but hardware/non-accept locations	scout-2026-09-30
+2026-09-30	https://boards-api.greenhouse.io/v1/boards/airtable/jobs	Airtable	API scan	0 qualifying	scout-2026-09-30
+2026-09-30	https://boards-api.greenhouse.io/v1/boards/arizeai/jobs	Arize AI	API scan	0 new	scout-2026-09-30
+2026-09-30	https://boards-api.greenhouse.io/v1/boards/calendly/jobs	Calendly	API scan	10 new but PM/marketing/support only	scout-2026-09-30
+2026-09-30	https://boards-api.greenhouse.io/v1/boards/celonis/jobs	Celonis	API scan	0 qualifying US engineering	scout-2026-09-30
+2026-09-30	https://boards-api.greenhouse.io/v1/boards/chainguard/jobs	Chainguard	API scan	3 new but marketing/sales only	scout-2026-09-30
+2026-09-30	https://boards-api.greenhouse.io/v1/boards/dagsterlabs/jobs	Dagster	API scan	0 jobs (board empty)	scout-2026-09-30
+2026-09-30	https://boards-api.greenhouse.io/v1/boards/databricks/jobs	Databricks	API scan	0 new Staff Remote engineering	scout-2026-09-30
+2026-09-30	https://boards-api.greenhouse.io/v1/boards/figureai/jobs	Figure AI	API scan	0 new	scout-2026-09-30
+2026-09-30	https://boards-api.greenhouse.io/v1/boards/fivetran/jobs	Fivetran	API scan	5 new but pricing analysts/India SDET	scout-2026-09-30
+2026-09-30	https://boards-api.greenhouse.io/v1/boards/glean/jobs	Glean	API scan	0 qualifying	scout-2026-09-30
+2026-09-30	https://boards-api.greenhouse.io/v1/boards/planetlabs/jobs	Planet Labs	API scan	9 new but Europe locations/non-engineering	scout-2026-09-30
+2026-09-30	https://boards-api.greenhouse.io/v1/boards/rocketlab/jobs	Rocket Lab	API scan	5 new but hardware/mission mgmt Long Beach	scout-2026-09-30
+2026-09-30	https://boards-api.greenhouse.io/v1/boards/samsara/jobs	Samsara	API scan	0 new engineering	scout-2026-09-30
+2026-09-30	https://boards-api.greenhouse.io/v1/boards/scaleinc/jobs	Scale AI	API scan	0 qualifying US	scout-2026-09-30
+2026-09-30	https://boards-api.greenhouse.io/v1/boards/smarterdx/jobs	SmarterDx	API scan	4 jobs but clinical ops only	scout-2026-09-30
+2026-09-30	https://boards-api.greenhouse.io/v1/boards/speechmatics/jobs	Speechmatics	API scan	1 new but Mexico City	scout-2026-09-30
+2026-09-30	https://boards-api.greenhouse.io/v1/boards/temporal/jobs	Temporal	API scan	0 jobs	scout-2026-09-30
+2026-09-30	https://boards-api.greenhouse.io/v1/boards/trueanomalyspace/jobs	True Anomaly	API scan	0 jobs (empty board)	scout-2026-09-30
+2026-09-30	https://boards-api.greenhouse.io/v1/boards/vastdata/jobs	Vast	API scan	0 jobs	scout-2026-09-30
+2026-09-30	https://boards-api.greenhouse.io/v1/boards/vercel/jobs	Vercel	API scan	0 new	scout-2026-09-30
+2026-09-30	https://boards-api.greenhouse.io/v1/boards/nuroai/jobs	Nuro	API scan	0 jobs	scout-2026-09-30
+2026-09-30	https://boards-api.greenhouse.io/v1/boards/flyzipline/jobs	Zipline	API scan	0 jobs	scout-2026-09-30
+2026-09-30	https://boards-api.greenhouse.io/v1/boards/blackpointcyber/jobs	Blackpoint Cyber	API scan	0 jobs (Ashby-only board)	scout-2026-09-30
+2026-09-30	https://jobs.ashbyhq.com/Blackpoint%20Cyber/9dadec76-3ee5-4452-afa3-f97689afb488	Blackpoint Cyber	ashby	Staff Data Engineer - already in history 2026-09-11	scout-2026-09-30
