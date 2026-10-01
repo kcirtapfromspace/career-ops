@@ -1,5 +1,13 @@
 # Pipeline — Pending Offers
 
+## 2026-10-01 — Scout Scan
+
+> Full scan (20+ companies Greenhouse API + WebSearch). 3 new matches. Report: [scout-2026-10-01.md](../reports/scout-2026-10-01.md)
+
+- [ ] [Temporal — Staff Software Engineer, Replication Foundations](https://temporal.io/careers/dc4021c5-b1d0-49a8-8342-6c68969192b5) | Remote US | $169K–$278K | 4.2/5 — Go/distributed systems, cross-region replication. Direct Argo/K8s overlap. Apply.
+- [ ] [Robinhood — Senior Staff Software Engineer, Data Platform](https://job-boards.greenhouse.io/robinhood/jobs/7729014) | Bellevue WA (hybrid 3+/week) | $264K–$310K | 4.0/5 — Kafka+Flink+Spark+WarpStream stack. Above-target comp. Seattle relocate_ok but 3 days onsite is friction.
+- [ ] [True Anomaly — Staff Enterprise Security Engineer](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5253364007) | Denver, CO | 3.2/5 — Defense, TS/SCI eligible. Security focus, not SWE archetype. Low priority.
+
 ## 2026-09-30 — Quick-Check Scout (Greenhouse API)
 
 > 11 new matches (4 top picks, 7 secondary). Greenhouse API scan only — no browser. Highlights: **Samsara Sr SWE Remote** (infra/routing), **TrueAnomaly EM Software Denver** (space defense), **Anthropic Senior+ SWE Legal Tech** (remote-friendly!), **Anduril Principal SWE InfraEng Seattle**.
