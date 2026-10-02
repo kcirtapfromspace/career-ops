@@ -11056,3 +11056,63 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - [ ] [True Anomaly — Staff Flight Software Engineer](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5253004007) | Denver, CO or Long Beach, CA | discovered 2026-09-30
 - [ ] [Samsara — Senior Software Engineer II, Route Planning](https://www.samsara.com/company/careers/roles/7520397?gh_jid=7520397) | Remote - US | discovered 2026-09-30
 - [ ] [Planet Labs — Senior Software Engineer, Mission Optimization](https://job-boards.greenhouse.io/planetlabs/jobs/8197622) | San Francisco, CA | discovered 2026-09-30
+
+## 2026-10-01
+
+> Quick-check scout 2026-10-01 (part 2). Greenhouse API (Vercel, Zipline + 27 others). Dedup against history. **32 new matches** across 2 companies. Report: [scout-quickcheck-2026-10-01.md](../reports/scout-quickcheck-2026-10-01.md)
+
+- [ ] [Vercel — Engineering Manager - Next.js](https://job-boards.greenhouse.io/vercel/jobs/6140055004) | Hybrid - San Francisco, New York City | discovered 2026-10-01 ⭐
+- [ ] [Vercel — Security Software Engineer, Open Source Frameworks](https://job-boards.greenhouse.io/vercel/jobs/6117204004) | Hybrid - San Francisco, New York City, London, Berlin | discovered 2026-10-01
+- [ ] [Vercel — Senior Security Software Engineer, v0](https://job-boards.greenhouse.io/vercel/jobs/6117209004) | Hybrid - San Francisco, New York City, London, Berlin | discovered 2026-10-01
+- [ ] [Vercel — Software Engineer, Agentic Infrastructure](https://job-boards.greenhouse.io/vercel/jobs/6199608004) | Hybrid - San Francisco, New York City | discovered 2026-10-01 ⭐
+- [ ] [Vercel — Software Engineer, CDN](https://job-boards.greenhouse.io/vercel/jobs/5179639004) | Hybrid - San Francisco, New York City | discovered 2026-10-01
+- [ ] [Vercel — Software Engineer, Financial Data Platform](https://job-boards.greenhouse.io/vercel/jobs/5895013004) | Hybrid - San Francisco, New York City | discovered 2026-10-01 ⭐
+- [ ] [Vercel — Software Engineer, GTM ](https://job-boards.greenhouse.io/vercel/jobs/5914474004) | Hybrid - San Francisco, New York City | discovered 2026-10-01
+- [ ] [Vercel — Software Engineer - Next.js](https://job-boards.greenhouse.io/vercel/jobs/6137958004) | Hybrid - San Francisco, New York City | discovered 2026-10-01
+- [ ] [Vercel — Software Engineer, Platform ](https://job-boards.greenhouse.io/vercel/jobs/6195280004) | Hybrid - San Francisco, New York City | discovered 2026-10-01
+- [ ] [Zipline — Forward Deployed AI Engineer, Operations](https://job-boards.greenhouse.io/flyzipline/jobs/7764239003) | South San Francisco, California, USA | discovered 2026-10-01 ⭐
+- [ ] [Zipline — Mechanical Engineering Manager, Dropbox](https://job-boards.greenhouse.io/flyzipline/jobs/7802184003) | South San Francisco, California, USA | discovered 2026-10-01 ⭐
+- [ ] [Zipline — ML Infrastructure Engineer](https://job-boards.greenhouse.io/flyzipline/jobs/7989516003) | South San Francisco, California, USA | discovered 2026-10-01 ⭐
+- [ ] [Zipline — Senior Data Engineer - Data Platform](https://job-boards.greenhouse.io/flyzipline/jobs/7810390003) | South San Francisco, California, USA | discovered 2026-10-01 ⭐
+- [ ] [Zipline — Senior Integration and Test Software Engineer - Long Range Platform](https://job-boards.greenhouse.io/flyzipline/jobs/7802156003) | South San Francisco, California, USA | discovered 2026-10-01
+- [ ] [Zipline — Senior Motion Planning Software Engineer](https://job-boards.greenhouse.io/flyzipline/jobs/7802961003) | Ann Arbor, Michigan USA; South San Francisco, California, USA | discovered 2026-10-01
+- [ ] [Zipline — Senior Software Engineer, ASW Launch Ops](https://job-boards.greenhouse.io/flyzipline/jobs/7993020003) | Remote in USA; South San Francisco, California, USA | discovered 2026-10-01
+- [ ] [Zipline — Senior Software Engineer, Autonomy Simulation & Validation](https://job-boards.greenhouse.io/flyzipline/jobs/7812135003) | Ann Arbor, Michigan USA; South San Francisco, California, USA | discovered 2026-10-01
+- [ ] [Zipline — Senior Software Engineer, Enterprise Systems](https://job-boards.greenhouse.io/flyzipline/jobs/7800774003) | South San Francisco, California, USA | discovered 2026-10-01
+- [ ] [Zipline — Senior Software Engineer, Maintenance Systems](https://job-boards.greenhouse.io/flyzipline/jobs/7676378003) | Dallas-Fort Worth, Texas, USA; South San Francisco, California, USA | discovered 2026-10-01
+- [ ] [Zipline — Senior Software Engineer - Maps Platform](https://job-boards.greenhouse.io/flyzipline/jobs/7816737003) | Ann Arbor, Michigan USA; South San Francisco, California, USA | discovered 2026-10-01
+- [ ] [Zipline — Senior Software Engineer - Maps Routing](https://job-boards.greenhouse.io/flyzipline/jobs/7812206003) | Ann Arbor, Michigan USA; South San Francisco, California, USA | discovered 2026-10-01
+- [ ] [Zipline — Simulation Software Engineer](https://job-boards.greenhouse.io/flyzipline/jobs/7802983003) | Ann Arbor, Michigan USA; South San Francisco, California, USA | discovered 2026-10-01
+- [ ] [Zipline — Software Engineer, Airspace Platform](https://job-boards.greenhouse.io/flyzipline/jobs/7978812003) | South San Francisco, California, USA | discovered 2026-10-01
+- [ ] [Zipline — Software Engineer - Hardware Test](https://job-boards.greenhouse.io/flyzipline/jobs/7803261003) | South San Francisco, California, USA | discovered 2026-10-01
+- [ ] [Zipline — Software Engineering Manager – Developer Productivity](https://job-boards.greenhouse.io/flyzipline/jobs/7859841003) | South San Francisco, California, USA | discovered 2026-10-01 ⭐
+- [ ] [Zipline — Software Engineer, Test Infrastructure](https://job-boards.greenhouse.io/flyzipline/jobs/7809118003) | South San Francisco, California, USA | discovered 2026-10-01
+- [ ] [Zipline — Sr. Manager, Software Engineering – Marketplace](https://job-boards.greenhouse.io/flyzipline/jobs/7933236003) | South San Francisco, California, USA | discovered 2026-10-01
+- [ ] [Zipline — Sr. Software Engineer, Financial Platform ](https://job-boards.greenhouse.io/flyzipline/jobs/7805110003) | South San Francisco, California, USA | discovered 2026-10-01
+- [ ] [Zipline — Staff Platform Software Engineer, AI Enablement](https://job-boards.greenhouse.io/flyzipline/jobs/7812167003) | South San Francisco, California, USA | discovered 2026-10-01 ⭐
+- [ ] [Zipline — Staff Software Engineer, Healthcare — Customer Experience](https://job-boards.greenhouse.io/flyzipline/jobs/7983305003) | Remote in USA; Remote, EMEA | discovered 2026-10-01
+- [ ] [Zipline — Staff Software Engineer, Healthcare — Systems & Integrations](https://job-boards.greenhouse.io/flyzipline/jobs/7983316003) | Remote in USA; Remote, EMEA | discovered 2026-10-01
+- [ ] [Zipline — Staff Software Engineer – Marketplace](https://job-boards.greenhouse.io/flyzipline/jobs/7808704003) | South San Francisco, California, USA | discovered 2026-10-01
+
+## 2026-10-02 — Scout Scan
+> Full portal scan (30+ companies, Greenhouse API + WebSearch). 1 new match. Report: [scout-2026-10-02.md](../reports/scout-2026-10-02.md)
+
+- [ ] [Airbnb — Senior Staff Software Engineer, Tech Foundations](https://careers.airbnb.com/positions/8187190/) | Remote US (CO eligible) | $244K–$305K | 4.5/5 — Dream company. SRE/reliability architecture scope. VA.gov Watchtower (observability 40+ teams, 18M veterans) is direct proof point. Multi-cloud infra, incident management. 12+ yr bar. ⭐
+
+## 2026-10-02 — Quick-Check Scout (Greenhouse API)
+
+> 8 new matches (4 top picks, 4 secondary). Greenhouse API scan only — no browser. Highlights: **Anthropic SWE Sandboxing** (dream company SF/NYC), **Chainguard EM AI CICD** (US Remote EM role), **Scale AI Sr SWE Orchestration** (SF, direct fit), **Databricks Sr SWE Backend** (SF, dream-adjacent). Report: [scout-quickcheck-2026-10-02.md](../reports/scout-quickcheck-2026-10-02.md)
+
+#### Top Picks (Apply Soon)
+- [ ] [Anthropic — Software Engineer, Sandboxing](https://job-boards.greenhouse.io/anthropic/jobs/5440427008) | San Francisco, CA | New York City, NY | SF or NYC, dream company, security/infra sandboxing role
+- [ ] [Chainguard — Engineering Manager, AI CICD](https://job-boards.greenhouse.io/chainguard/jobs/4718566006) | US Remote | EM role, cloud-native supply chain security, K8s/Argo/Tekton stack — remote US ✓
+- [ ] [Scale AI — Senior Software Engineer, Orchestration Platform](https://job-boards.greenhouse.io/scaleai/jobs/4739920005) | San Francisco, CA | Orchestration platform = direct Argo/Airflow overlap. Scale AI $7.3B defense + enterprise.
+- [ ] [Databricks — Senior Software Engineer, Backend (Files Team)](https://databricks.com/company/careers/open-positions/job?gh_jid=8864368002) | San Francisco, CA | Dream-adjacent company, backend infra, $43B valuation.
+
+#### Secondary (Review Before Applying)
+- [ ] [Databricks — Sr. Manager, Engineering - AI/BI](https://databricks.com/company/careers/open-positions/job?gh_jid=8862144002) | Mountain View / San Francisco, CA | Senior EM role, AI/BI product, Bay Area required.
+- [ ] [Samsara — Senior Software Engineer II, DevEx](https://www.samsara.com/company/careers/roles/8237134?gh_jid=8237134) | Remote - NYC | DevEx platform engineering, note: NYC-based remote.
+- [ ] [Samsara — Sr. Software Engineer II, DevEx](https://www.samsara.com/company/careers/roles/8237131?gh_jid=8237131) | Remote - CA | DevEx, note: California-based remote.
+- [ ] [Samsara — Software Engineer II](https://www.samsara.com/company/careers/roles/8223645?gh_jid=8223645) | Remote - US | Generic SWE II, remote US, lower priority.
+
+---
