@@ -11144,4 +11144,3 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - [ ] [Samsara — Sr. Software Engineer II, DevEx](https://www.samsara.com/company/careers/roles/8237131?gh_jid=8237131) | Remote - CA | DevEx, note: California-based remote.
 - [ ] [Samsara — Software Engineer II](https://www.samsara.com/company/careers/roles/8223645?gh_jid=8223645) | Remote - US | Generic SWE II, remote US, lower priority.
 
----
