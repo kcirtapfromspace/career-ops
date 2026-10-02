@@ -11122,3 +11122,8 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - [ ] [Zipline — Staff Software Engineer, Healthcare — Customer Experience](https://job-boards.greenhouse.io/flyzipline/jobs/7983305003) | Remote in USA; Remote, EMEA | discovered 2026-10-01
 - [ ] [Zipline — Staff Software Engineer, Healthcare — Systems & Integrations](https://job-boards.greenhouse.io/flyzipline/jobs/7983316003) | Remote in USA; Remote, EMEA | discovered 2026-10-01
 - [ ] [Zipline — Staff Software Engineer – Marketplace](https://job-boards.greenhouse.io/flyzipline/jobs/7808704003) | South San Francisco, California, USA | discovered 2026-10-01
+
+## 2026-10-02 — Scout Scan
+> Full portal scan (30+ companies, Greenhouse API + WebSearch). 1 new match. Report: [scout-2026-10-02.md](../reports/scout-2026-10-02.md)
+
+- [ ] [Airbnb — Senior Staff Software Engineer, Tech Foundations](https://careers.airbnb.com/positions/8187190/) | Remote US (CO eligible) | $244K–$305K | 4.5/5 — Dream company. SRE/reliability architecture scope. VA.gov Watchtower (observability 40+ teams, 18M veterans) is direct proof point. Multi-cloud infra, incident management. 12+ yr bar. ⭐
