@@ -1,5 +1,21 @@
 # Pipeline — Pending Offers
 
+## 2026-10-03 — Scout Scan
+
+> Scan: 30+ companies (Greenhouse API + WebSearch). 4 new matches. Reddit and Gusto boards newly added to rotation. Report: [scout-2026-10-03.md](../reports/scout-2026-10-03.md)
+
+#### Top Picks (4.0+ — Apply Soon)
+
+- [ ] [Reddit — Staff Machine Learning Systems Engineer](https://job-boards.greenhouse.io/reddit/jobs/7731788) | Remote US | ~$217-303K | ★★★★ 4.2/5 — ML Platform team; MLOps end-to-end (data prep, model management, graph ML, GPU training); direct Argo/K8s overlap; fully remote; strong comp
+
+#### Secondary (3.5–3.9 — Review Before Applying)
+
+- [ ] [Reddit — Staff Machine Learning Engineer, AI Security](https://job-boards.greenhouse.io/reddit/jobs/8203478) | Remote US | ★★★ 3.9/5 — Founding Staff MLE on LLM Guardrails Platform; prompt injection/jailbreak detection; federal security background fits but model training is a stretch
+- [ ] [Gusto — Staff Software Engineer, Core AI Platforms](https://job-boards.greenhouse.io/gusto/jobs/7760341) | Denver CO Hybrid | ★★★ 3.8/5 — Multi-agent orchestration/tool registries/agent observability; ideal Denver location; Ruby/Rails stack is interview risk
+- [ ] [Reddit — Staff Software Engineer, DevPlatform](https://job-boards.greenhouse.io/reddit/jobs/8049901) | Remote US | ★★★ 3.7/5 — Staff backend for developer platform at internet scale; storage-as-a-service; ~$217-303K; less direct data/ML overlap
+
+---
+
 ## 2026-10-01 — Scout Scan
 
 > Full scan (20+ companies Greenhouse API + WebSearch). 3 new matches. Report: [scout-2026-10-01.md](../reports/scout-2026-10-01.md)
