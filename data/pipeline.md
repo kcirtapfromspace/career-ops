@@ -11056,3 +11056,424 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - [ ] [True Anomaly — Staff Flight Software Engineer](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5253004007) | Denver, CO or Long Beach, CA | discovered 2026-09-30
 - [ ] [Samsara — Senior Software Engineer II, Route Planning](https://www.samsara.com/company/careers/roles/7520397?gh_jid=7520397) | Remote - US | discovered 2026-09-30
 - [ ] [Planet Labs — Senior Software Engineer, Mission Optimization](https://job-boards.greenhouse.io/planetlabs/jobs/8197622) | San Francisco, CA | discovered 2026-09-30
+
+## 2026-10-01
+
+> Quick-check scout 2026-10-01 (part 2). Greenhouse API (Vercel, Zipline + 27 others). Dedup against history. **32 new matches** across 2 companies. Report: [scout-quickcheck-2026-10-01.md](../reports/scout-quickcheck-2026-10-01.md)
+
+- [ ] [Vercel — Engineering Manager - Next.js](https://job-boards.greenhouse.io/vercel/jobs/6140055004) | Hybrid - San Francisco, New York City | discovered 2026-10-01 ⭐
+- [ ] [Vercel — Security Software Engineer, Open Source Frameworks](https://job-boards.greenhouse.io/vercel/jobs/6117204004) | Hybrid - San Francisco, New York City, London, Berlin | discovered 2026-10-01
+- [ ] [Vercel — Senior Security Software Engineer, v0](https://job-boards.greenhouse.io/vercel/jobs/6117209004) | Hybrid - San Francisco, New York City, London, Berlin | discovered 2026-10-01
+- [ ] [Vercel — Software Engineer, Agentic Infrastructure](https://job-boards.greenhouse.io/vercel/jobs/6199608004) | Hybrid - San Francisco, New York City | discovered 2026-10-01 ⭐
+- [ ] [Vercel — Software Engineer, CDN](https://job-boards.greenhouse.io/vercel/jobs/5179639004) | Hybrid - San Francisco, New York City | discovered 2026-10-01
+- [ ] [Vercel — Software Engineer, Financial Data Platform](https://job-boards.greenhouse.io/vercel/jobs/5895013004) | Hybrid - San Francisco, New York City | discovered 2026-10-01 ⭐
+- [ ] [Vercel — Software Engineer, GTM ](https://job-boards.greenhouse.io/vercel/jobs/5914474004) | Hybrid - San Francisco, New York City | discovered 2026-10-01
+- [ ] [Vercel — Software Engineer - Next.js](https://job-boards.greenhouse.io/vercel/jobs/6137958004) | Hybrid - San Francisco, New York City | discovered 2026-10-01
+- [ ] [Vercel — Software Engineer, Platform ](https://job-boards.greenhouse.io/vercel/jobs/6195280004) | Hybrid - San Francisco, New York City | discovered 2026-10-01
+- [ ] [Zipline — Forward Deployed AI Engineer, Operations](https://job-boards.greenhouse.io/flyzipline/jobs/7764239003) | South San Francisco, California, USA | discovered 2026-10-01 ⭐
+- [ ] [Zipline — Mechanical Engineering Manager, Dropbox](https://job-boards.greenhouse.io/flyzipline/jobs/7802184003) | South San Francisco, California, USA | discovered 2026-10-01 ⭐
+- [ ] [Zipline — ML Infrastructure Engineer](https://job-boards.greenhouse.io/flyzipline/jobs/7989516003) | South San Francisco, California, USA | discovered 2026-10-01 ⭐
+- [ ] [Zipline — Senior Data Engineer - Data Platform](https://job-boards.greenhouse.io/flyzipline/jobs/7810390003) | South San Francisco, California, USA | discovered 2026-10-01 ⭐
+- [ ] [Zipline — Senior Integration and Test Software Engineer - Long Range Platform](https://job-boards.greenhouse.io/flyzipline/jobs/7802156003) | South San Francisco, California, USA | discovered 2026-10-01
+- [ ] [Zipline — Senior Motion Planning Software Engineer](https://job-boards.greenhouse.io/flyzipline/jobs/7802961003) | Ann Arbor, Michigan USA; South San Francisco, California, USA | discovered 2026-10-01
+- [ ] [Zipline — Senior Software Engineer, ASW Launch Ops](https://job-boards.greenhouse.io/flyzipline/jobs/7993020003) | Remote in USA; South San Francisco, California, USA | discovered 2026-10-01
+- [ ] [Zipline — Senior Software Engineer, Autonomy Simulation & Validation](https://job-boards.greenhouse.io/flyzipline/jobs/7812135003) | Ann Arbor, Michigan USA; South San Francisco, California, USA | discovered 2026-10-01
+- [ ] [Zipline — Senior Software Engineer, Enterprise Systems](https://job-boards.greenhouse.io/flyzipline/jobs/7800774003) | South San Francisco, California, USA | discovered 2026-10-01
+- [ ] [Zipline — Senior Software Engineer, Maintenance Systems](https://job-boards.greenhouse.io/flyzipline/jobs/7676378003) | Dallas-Fort Worth, Texas, USA; South San Francisco, California, USA | discovered 2026-10-01
+- [ ] [Zipline — Senior Software Engineer - Maps Platform](https://job-boards.greenhouse.io/flyzipline/jobs/7816737003) | Ann Arbor, Michigan USA; South San Francisco, California, USA | discovered 2026-10-01
+- [ ] [Zipline — Senior Software Engineer - Maps Routing](https://job-boards.greenhouse.io/flyzipline/jobs/7812206003) | Ann Arbor, Michigan USA; South San Francisco, California, USA | discovered 2026-10-01
+- [ ] [Zipline — Simulation Software Engineer](https://job-boards.greenhouse.io/flyzipline/jobs/7802983003) | Ann Arbor, Michigan USA; South San Francisco, California, USA | discovered 2026-10-01
+- [ ] [Zipline — Software Engineer, Airspace Platform](https://job-boards.greenhouse.io/flyzipline/jobs/7978812003) | South San Francisco, California, USA | discovered 2026-10-01
+- [ ] [Zipline — Software Engineer - Hardware Test](https://job-boards.greenhouse.io/flyzipline/jobs/7803261003) | South San Francisco, California, USA | discovered 2026-10-01
+- [ ] [Zipline — Software Engineering Manager – Developer Productivity](https://job-boards.greenhouse.io/flyzipline/jobs/7859841003) | South San Francisco, California, USA | discovered 2026-10-01 ⭐
+- [ ] [Zipline — Software Engineer, Test Infrastructure](https://job-boards.greenhouse.io/flyzipline/jobs/7809118003) | South San Francisco, California, USA | discovered 2026-10-01
+- [ ] [Zipline — Sr. Manager, Software Engineering – Marketplace](https://job-boards.greenhouse.io/flyzipline/jobs/7933236003) | South San Francisco, California, USA | discovered 2026-10-01
+- [ ] [Zipline — Sr. Software Engineer, Financial Platform ](https://job-boards.greenhouse.io/flyzipline/jobs/7805110003) | South San Francisco, California, USA | discovered 2026-10-01
+- [ ] [Zipline — Staff Platform Software Engineer, AI Enablement](https://job-boards.greenhouse.io/flyzipline/jobs/7812167003) | South San Francisco, California, USA | discovered 2026-10-01 ⭐
+- [ ] [Zipline — Staff Software Engineer, Healthcare — Customer Experience](https://job-boards.greenhouse.io/flyzipline/jobs/7983305003) | Remote in USA; Remote, EMEA | discovered 2026-10-01
+- [ ] [Zipline — Staff Software Engineer, Healthcare — Systems & Integrations](https://job-boards.greenhouse.io/flyzipline/jobs/7983316003) | Remote in USA; Remote, EMEA | discovered 2026-10-01
+- [ ] [Zipline — Staff Software Engineer – Marketplace](https://job-boards.greenhouse.io/flyzipline/jobs/7808704003) | South San Francisco, California, USA | discovered 2026-10-01
+
+## 2026-10-02 — Scout Scan
+> Full portal scan (30+ companies, Greenhouse API + WebSearch). 1 new match. Report: [scout-2026-10-02.md](../reports/scout-2026-10-02.md)
+
+- [ ] [Airbnb — Senior Staff Software Engineer, Tech Foundations](https://careers.airbnb.com/positions/8187190/) | Remote US (CO eligible) | $244K–$305K | 4.5/5 — Dream company. SRE/reliability architecture scope. VA.gov Watchtower (observability 40+ teams, 18M veterans) is direct proof point. Multi-cloud infra, incident management. 12+ yr bar. ⭐
+
+## 2026-10-02 — Quick-Check Scout (Greenhouse API)
+
+> 8 new matches (4 top picks, 4 secondary). Greenhouse API scan only — no browser. Highlights: **Anthropic SWE Sandboxing** (dream company SF/NYC), **Chainguard EM AI CICD** (US Remote EM role), **Scale AI Sr SWE Orchestration** (SF, direct fit), **Databricks Sr SWE Backend** (SF, dream-adjacent). Report: [scout-quickcheck-2026-10-02.md](../reports/scout-quickcheck-2026-10-02.md)
+
+#### Top Picks (Apply Soon)
+- [ ] [Anthropic — Software Engineer, Sandboxing](https://job-boards.greenhouse.io/anthropic/jobs/5440427008) | San Francisco, CA | New York City, NY | SF or NYC, dream company, security/infra sandboxing role
+- [ ] [Chainguard — Engineering Manager, AI CICD](https://job-boards.greenhouse.io/chainguard/jobs/4718566006) | US Remote | EM role, cloud-native supply chain security, K8s/Argo/Tekton stack — remote US ✓
+- [ ] [Scale AI — Senior Software Engineer, Orchestration Platform](https://job-boards.greenhouse.io/scaleai/jobs/4739920005) | San Francisco, CA | Orchestration platform = direct Argo/Airflow overlap. Scale AI $7.3B defense + enterprise.
+- [ ] [Databricks — Senior Software Engineer, Backend (Files Team)](https://databricks.com/company/careers/open-positions/job?gh_jid=8864368002) | San Francisco, CA | Dream-adjacent company, backend infra, $43B valuation.
+
+#### Secondary (Review Before Applying)
+- [ ] [Databricks — Sr. Manager, Engineering - AI/BI](https://databricks.com/company/careers/open-positions/job?gh_jid=8862144002) | Mountain View / San Francisco, CA | Senior EM role, AI/BI product, Bay Area required.
+- [ ] [Samsara — Senior Software Engineer II, DevEx](https://www.samsara.com/company/careers/roles/8237134?gh_jid=8237134) | Remote - NYC | DevEx platform engineering, note: NYC-based remote.
+- [ ] [Samsara — Sr. Software Engineer II, DevEx](https://www.samsara.com/company/careers/roles/8237131?gh_jid=8237131) | Remote - CA | DevEx, note: California-based remote.
+- [ ] [Samsara — Software Engineer II](https://www.samsara.com/company/careers/roles/8223645?gh_jid=8223645) | Remote - US | Generic SWE II, remote US, lower priority.
+
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5382750008 | Anthropic — AI Infrastructure Operations, Demand Planning | San Francisco, CA | New York City, NY | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5057647008 | Anthropic — Applied AI Engineer, Enterprise Tech | San Francisco, CA | New York City, NY | Seattle, WA | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4956672008 | Anthropic — Data Engineer | San Francisco, CA | New York City, NY | Seattle, WA | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5418610008 | Anthropic — Data Engineer, GTM | San Francisco, CA | New York City, NY | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5240422008 | Anthropic — Data Engineer, Safeguards | San Francisco, CA | New York City, NY | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5418402008 | Anthropic — Engineering Manager, Business Technology | San Francisco, CA | New York City, NY | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5426135008 | Anthropic — Engineering Manager, Data Infrastructure | San Francisco, CA | New York City, NY | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4741104008 | Anthropic — Engineering Manager, GPU (ML Accelerator) | San Francisco, CA | New York City, NY | Seattle, WA | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4980335008 | Anthropic — Engineering Manager, GRC Platform | San Francisco, CA | New York City, NY | Seattle, WA | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5361472008 | Anthropic — Engineering Manager, Growth | San Francisco, CA | New York City, NY | Seattle, WA | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5411560008 | Anthropic — Engineering Manager, Inference Infrastructure | San Francisco, CA | New York City, NY | Seattle, WA | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5297059008 | Anthropic — Engineering Manager, Research Data Platform | San Francisco, CA | New York City, NY | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5223093008 | Anthropic — Engineering Manager, Research Productivity | San Francisco, CA | New York City, NY | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5411267008 | Anthropic — Engineering Manager, Scheduler and Fleet Efficiency | San Francisco, CA | New York City, NY | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5371065008 | Anthropic — Engineering Manager, Search | San Francisco, CA | New York City, NY | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5097186008 | Anthropic — Full Stack Engineer, Education Labs | San Francisco, CA | New York City, NY | Seattle, WA | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5186067008 | Anthropic — Full-Stack Software Engineer, Reinforcement Learning | San Francisco, CA | New York City, NY | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5364804008 | Anthropic — Machine Learning Infrastructure Engineer, Safeguards Research | San Francisco, CA | New York City, NY | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5277834008 | Anthropic — Manager, Applied AI Engineering,  Beneficial Deployments (Life Sciences) | San Francisco, CA | New York City, NY | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5098025008 | Anthropic — Model Performance Software Engineer, Claude Code | San Francisco, CA | New York City, NY | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5195866008 | Anthropic — Product Management, Human Data Platform | San Francisco, CA | New York City, NY | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5424078008 | Anthropic — Product Marketing Manager, Platform | San Francisco, CA | New York City, NY | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5424111008 | Anthropic — Recruiting Analytics Data Engineer  | San Francisco, CA | New York City, NY | Seattle, WA | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4595463008 | Anthropic — Security Software Engineer, Detection & Response Platform | New York City, NY | Seattle, WA; San Francisco, CA | New York City, NY | Seattle, WA; Washington, DC | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5174743008 | Anthropic — Senior Software Engineer, Full-stack | San Francisco, CA | New York City, NY | Seattle, WA | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5134895008 | Anthropic — Senior Staff Software Engineer, API | San Francisco, CA | New York City, NY | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4942024008 | Anthropic — Software Engineer, Beneficial Deployments  | San Francisco, CA | New York City, NY | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5400153008 | Anthropic — Software Engineer, Business Technology | New York City, NY | Seattle, WA; San Francisco, CA | New York City, NY | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5389305008 | Anthropic — Software Engineer, Education | San Francisco, CA | New York City, NY | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5017202008 | Anthropic — Software Engineer, Labs | San Francisco, CA | New York City, NY | Seattle, WA | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4926242008 | Anthropic — Software Engineer, ML Networking | San Francisco, CA | New York City, NY | Seattle, WA | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5191226008 | Anthropic — Software Engineer, Research Data Platform | San Francisco, CA | New York City, NY | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5283063008 | Anthropic — Software Engineer, Research Infrastructure | San Francisco, CA | New York City, NY | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4981828008 | Anthropic — Software Engineer, Research Tools | San Francisco, CA | New York City, NY; San Francisco, CA | New York City, NY | Seattle, WA | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5440427008 | Anthropic — Software Engineer, Sandboxing | San Francisco, CA | New York City, NY | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5421263008 | Anthropic — Software Engineer, Tokens and Prompt Structures | San Francisco, CA | New York City, NY | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5206978008 | Anthropic — Staff+ Infrastructure Engineer, Cluster Infrastructure | San Francisco, CA | New York City, NY | Seattle, WA | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5404725008 | Anthropic — Staff+ Research Engineer, RL Data Platform | San Francisco, CA | New York City, NY | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5285557008 | Anthropic — Staff + Senior Software Engineer, Inference Deployment | San Francisco, CA | New York City, NY | Seattle, WA | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5245851008 | Anthropic — Staff + Senior Software Engineer, Inference Infrastructure | San Francisco, CA | New York City, NY | Seattle, WA | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5433814008 | Anthropic — Staff+ Software Engineer, Access Programs | San Francisco, CA | New York City, NY | Seattle, WA | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5123039008 | Anthropic — Staff+ Software Engineer, Account Abuse | San Francisco, CA | New York City, NY | Seattle, WA | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5433813008 | Anthropic — Staff+ Software Engineer, Account Creation | San Francisco, CA | New York City, NY | Seattle, WA | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5113224008 | Anthropic — Staff Software Engineer, AI Reliability | San Francisco, CA | New York City, NY | Seattle, WA | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5398227008 | Anthropic — Staff+ Software Engineer, Auth & Identity | San Francisco, CA | New York City, NY | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5146298008 | Anthropic — Staff+ Software Engineer, Billing Platform | San Francisco, CA | New York City, NY | Seattle, WA | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5301737008 | Anthropic — Staff+ Software Engineer, Caching | San Francisco, CA | New York City, NY | Seattle, WA | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5310731008 | Anthropic — Staff+ Software Engineer, Capacity Engineering | San Francisco, CA | New York City, NY | Seattle, WA | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5065894008 | Anthropic — Staff+ Software Engineer, Claude App Infrastructure | San Francisco, CA | New York City, NY | Seattle, WA | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5383610008 | Anthropic — Staff Software Engineer, Claude Code | San Francisco, CA | New York City, NY | Seattle, WA | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5229345008 | Anthropic — Staff Software Engineer, Claude Design | San Francisco, CA | New York City, NY | Seattle, WA | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5395767008 | Anthropic — Staff+ Software Engineer, Claude Managed Agents | San Francisco, CA | New York City, NY | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5370690008 | Anthropic — Staff Software Engineer, Code RL | San Francisco, CA | New York City, NY | Seattle, WA | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5432558008 | Anthropic — Staff Software Engineer: Compute | San Francisco, CA | New York City, NY | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5301750008 | Anthropic — Staff+ Software Engineer, Databases | San Francisco, CA | New York City, NY | Seattle, WA | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5398218008 | Anthropic — Staff+ Software Engineer, Developer Experience | San Francisco, CA | New York City, NY | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5110511008 | Anthropic — Staff+ Software Engineer, Developer Productivity | San Francisco, CA | New York City, NY | Seattle, WA | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5424404008 | Anthropic — Staff+ Software Engineer, Distributed Systems  | New York City, NY; San Francisco, CA | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5288742008 | Anthropic — Staff+ Software Engineer, Enterprise | San Francisco, CA | New York City, NY | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5368034008 | Anthropic — Staff+ Software Engineer, Enterprise AI Products | San Francisco, CA | New York City, NY | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5289450008 | Anthropic — Staff+ Software Engineer, Enterprise Knowledge Work | San Francisco, CA | New York City, NY | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5367436008 | Anthropic — Staff Software Engineer, Environments Infrastructure | San Francisco, CA | New York City, NY | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5174747008 | Anthropic — Staff+ Software Engineer, Full-stack | San Francisco, CA | New York City, NY | Seattle, WA | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5250091008 | Anthropic — Staff+ Software Engineer, GRC Platform | San Francisco, CA | New York City, NY | Seattle, WA | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5363469008 | Anthropic — Staff Software Engineer, Growth  | San Francisco, CA | New York City, NY | Seattle, WA | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4970314008 | Anthropic — Staff+ Software Engineer, Infrastructure (Distributed Systems) | San Francisco, CA | New York City, NY | Seattle, WA | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5211241008 | Anthropic — Staff+ Software Engineer, Kubernetes Platform | San Francisco, CA | New York City, NY | Seattle, WA | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5203868008 | Anthropic — Staff+ Software Engineer, Node Infra | San Francisco, CA | New York City, NY | Seattle, WA | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5325909008 | Anthropic — Staff+ Software Engineer, Payment Fraud  | San Francisco, CA | New York City, NY | Seattle, WA | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5157847008 | Anthropic — Staff+ Software Engineer, Platform | San Francisco, CA | New York City, NY | Seattle, WA | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5397005008 | Anthropic — Staff+ Software Engineer, Platform Distribution | San Francisco, CA | New York City, NY | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5392335008 | Anthropic — Staff+ Software Engineer, Platform Ecosystem | San Francisco, CA | New York City, NY | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5397131008 | Anthropic — Staff+ Software Engineer, Platform Portability  | San Francisco, CA | New York City, NY | Seattle, WA | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5026097008 | Anthropic — Staff Software Engineer, Product  | San Francisco, CA | New York City, NY | Seattle, WA | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5394943008 | Anthropic — Staff+ Software Engineer, Product Sandboxing | San Francisco, CA | New York City, NY | Seattle, WA | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5404730008 | Anthropic — Staff+ Software Engineer, RL Data Platform | San Francisco, CA | New York City, NY | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4951844008 | Anthropic — Staff+ Software Engineer, Safeguards | San Francisco, CA | New York City, NY | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5342935008 | Anthropic — Staff+ Software Engineer, Safeguards Human Review Tooling | New York City, NY; San Francisco, CA | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5422684008 | Anthropic — Staff Software Engineer, Search | San Francisco, CA | New York City, NY | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5428950008 | Anthropic — Staff+ Software Engineer, Storage + Transfer | San Francisco, CA | New York City, NY | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5436684008 | Anthropic — Staff + Sr. Software Engineer, Cloud Inference | San Francisco, CA | Seattle, WA | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5436697008 | Anthropic — Staff + Sr. Software Engineer, Cloud Inference Launch Engineering | San Francisco, CA | Seattle, WA | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5436703008 | Anthropic — Staff + Sr. Software Engineer, Scaling | New York City, NY; San Francisco, CA; Seattle, WA | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5013743008 | Anthropic — Technical Program Manager, Data Center Infrastructure | San Francisco, CA | New York City, NY | Seattle, WA | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5111783008 | Anthropic — Technical Program Manager, Infrastructure | San Francisco, CA | New York City, NY | Seattle, WA | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5416059008 | Anthropic — TPM Manager, Infrastructure  | San Francisco, CA | New York City, NY | discovered: 2026-10-03
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5247324007?gh_jid=5247324007 | Anduril — Engineering Lead, Air Defense U.S. Air Force Portfolio | Irvine, California, United States; Seattle, Washington, United States; Washington, District of Columbia, United States | discovered: 2026-10-03
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5252853007?gh_jid=5252853007 | Anduril — Fielded Site Reliability Engineer | Waltham, Massachusetts, United States | discovered: 2026-10-03
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5256064007?gh_jid=5256064007 | Anduril — Hardware Test Engineering Manager | Irvine, California, United States | discovered: 2026-10-03
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5252841007?gh_jid=5252841007 | Anduril — Mission Software Engineer | Waltham, Massachusetts, United States | discovered: 2026-10-03
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5256305007?gh_jid=5256305007 | Anduril — Platform Engineer, Radar | Fort Collins, Colorado, United States | discovered: 2026-10-03
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5252846007?gh_jid=5252846007 | Anduril — Production Software Engineer | Waltham, Massachusetts, United States | discovered: 2026-10-03
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5256059007?gh_jid=5256059007 | Anduril — Production Test Engineering Manager | Irvine, California, United States | discovered: 2026-10-03
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5252847007?gh_jid=5252847007 | Anduril — Python Software Engineer (Production) | Waltham, Massachusetts, United States | discovered: 2026-10-03
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5255525007?gh_jid=5255525007 | Anduril — Realtime Software Engineer | Waltham, Massachusetts, United States | discovered: 2026-10-03
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5254035007?gh_jid=5254035007 | Anduril — Senior Flight Software Engineer | Boston, Massachusetts, United States | discovered: 2026-10-03
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5254033007?gh_jid=5254033007 | Anduril — Senior Flight Software Engineer | Quincy, Massachusetts, United States | discovered: 2026-10-03
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5233605007?gh_jid=5233605007 | Anduril — Senior Mission Software Engineer | Waltham, Massachusetts, United States | discovered: 2026-10-03
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5252848007?gh_jid=5252848007 | Anduril — Senior Production Software Engineer | Waltham, Massachusetts, United States | discovered: 2026-10-03
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5252849007?gh_jid=5252849007 | Anduril — Senior Python Software Engineer (Production) | Waltham, Massachusetts, United States | discovered: 2026-10-03
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5252663007?gh_jid=5252663007 | Anduril — Senior Robotics Software Engineer | Waltham, Massachusetts, United States | discovered: 2026-10-03
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5209039007?gh_jid=5209039007 | Anduril — Senior Software Engineer, GNC Modeling | Waltham, Massachusetts, United States | discovered: 2026-10-03
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5254219007?gh_jid=5254219007 | Anduril — Senior Software Engineer, TeamCenter PLM | Costa Mesa, California, United States | discovered: 2026-10-03
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5252895007?gh_jid=5252895007 | Anduril — Senior Software Engineer, Vehicle Management Systems | Quincy, Massachusetts, United States | discovered: 2026-10-03
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5254036007?gh_jid=5254036007 | Anduril — Senior Software Engineer, Vehicle Management Systems | Boston, Massachusetts, United States | discovered: 2026-10-03
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5167055007?gh_jid=5167055007 | Anduril — Senior Software Engineer, Vehicle Management Systems  | Costa Mesa, California, United States | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5136303007 | True Anomaly — Engineering Manager Test and Launch Site  | Long Beach, CA | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/humeai/jobs/4816209008 | Hume AI — Senior Software Engineer - Backend & Machine Learning | New York, New York, United States | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5428982004 | Vercel — Software Engineer, Observability | Hybrid - San Francisco, New York City, London | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5649459004 | Vercel — Software Engineer, Trust & Safety | Hybrid - San Francisco, New York City | discovered: 2026-10-03
+- [ ] https://job-boards.eu.greenhouse.io/speechmatics/jobs/4950383101 | Speechmatics — ML Data & Platform Engineer | Cambridge, England, United Kingdom | discovered: 2026-10-03
+- [ ] https://job-boards.eu.greenhouse.io/speechmatics/jobs/4996455101 | Speechmatics — Senior Machine Learning Engineer | Cambridge, England, United Kingdom | discovered: 2026-10-03
+- [ ] https://job-boards.eu.greenhouse.io/speechmatics/jobs/4987523101 | Speechmatics — Senior Software Engineer – Front-End | Cambridge, England, United Kingdom | discovered: 2026-10-03
+- [ ] https://helsing.ai/jobs/4953562101?gh_jid=4953562101 | Helsing — Machine Learning Engineer, Detection and Tracking | Washington, DC | discovered: 2026-10-03
+- [ ] https://helsing.ai/jobs/4953564101?gh_jid=4953564101 | Helsing — Software Engineer, DevSecOps | Washington, DC | discovered: 2026-10-03
+- [ ] https://helsing.ai/jobs/4953565101?gh_jid=4953565101 | Helsing — Software Engineer, Platform Engineering | Washington, DC | discovered: 2026-10-03
+- [ ] https://helsing.ai/jobs/4953558101?gh_jid=4953558101 | Helsing — Software Engineer, Rust | Washington, DC | discovered: 2026-10-03
+- [ ] https://careers.hellofresh.com/global/en/job/8170849?gh_jid=8170849 | HelloFresh — Data Engineer, Operations Technology (all genders) | Warszawa, Masovian Voivodeship, Poland | discovered: 2026-10-03
+- [ ] https://careers.hellofresh.com/global/en/job/8125694?gh_jid=8125694 | HelloFresh — Director, Global WMS Software Engineering and Product Design | Warszawa, Masovian Voivodeship, Poland | discovered: 2026-10-03
+- [ ] https://careers.hellofresh.com/global/en/job/8186071?gh_jid=8186071 | HelloFresh — Engineering Manager, Consumer Alliance | Warszawa, Masovian Voivodeship, Poland | discovered: 2026-10-03
+- [ ] https://careers.hellofresh.com/global/en/job/8095933?gh_jid=8095933 | HelloFresh — Fulfillment Technology Analyst, Barleben DC (f/m/x) | Barleben, Saxony-Anhalt, Germany | discovered: 2026-10-03
+- [ ] https://careers.hellofresh.com/global/en/job/8112268?gh_jid=8112268 | HelloFresh — Fulfillment Technology Analyst, Derby DC (f/m/x) | Derby, England, United Kingdom | discovered: 2026-10-03
+- [ ] https://careers.hellofresh.com/global/en/job/8176698?gh_jid=8176698 | HelloFresh — Senior GenAI Engineer, Inteligent Platforms | Warszawa, Masovian Voivodeship, Poland | discovered: 2026-10-03
+- [ ] https://careers.hellofresh.com/global/en/job/7988923?gh_jid=7988923 | HelloFresh — Senior Staff Machine Learning Engineer, Menu Personalisation | Warszawa, Masovian Voivodeship, Poland | discovered: 2026-10-03
+- [ ] https://careers.hellofresh.com/global/en/job/7988614?gh_jid=7988614 | HelloFresh — Staff Software Engineer, Supply Chain Management Technology (all genders)  | Saarbrücken, Germany | discovered: 2026-10-03
+- [ ] https://careers.hellofresh.com/global/en/job/8045980?gh_jid=8045980 | HelloFresh — Werksreiniger (m/w/d/x) | Verden, Niedersachsen, Germany | discovered: 2026-10-03
+- [ ] https://n26.com/en-eu/careers/positions/7866308?gh_jid=7866308 | N26 — Site Reliability Engineer - Data Platform | Barcelona | discovered: 2026-10-03
+- [ ] https://sumup.com/careers/positions/8583427002?gh_jid=8583427002 | SumUp — Backend Engineer - Cards | Sofia, Bulgaria | discovered: 2026-10-03
+- [ ] https://sumup.com/careers/positions/6651430002?gh_jid=6651430002 | SumUp — Backend Engineer- Global Bank | Sofia, Bulgaria | discovered: 2026-10-03
+- [ ] https://sumup.com/careers/positions/8682297002?gh_jid=8682297002 | SumUp — Backend Engineer (Kotlin) - Money Transfers | Sofia, Bulgaria | discovered: 2026-10-03
+- [ ] https://sumup.com/careers/positions/8645259002?gh_jid=8645259002 | SumUp — Backend Engineer - Merchant Risk Intelligence  | Sofia, Bulgaria | discovered: 2026-10-03
+- [ ] https://sumup.com/careers/positions/8507674002?gh_jid=8507674002 | SumUp — Engineering Manager - Verification | Sofia, Bulgaria | discovered: 2026-10-03
+- [ ] https://sumup.com/careers/positions/8671401002?gh_jid=8671401002 | SumUp — (Senior) Backend Engineer | São Paulo, Brazil | discovered: 2026-10-03
+- [ ] https://sumup.com/careers/positions/8586092002?gh_jid=8586092002 | SumUp — Senior Backend Engineer | Florianópolis, Santa Catarina, Brazil | discovered: 2026-10-03
+- [ ] https://sumup.com/careers/positions/8520784002?gh_jid=8520784002 | SumUp — (Senior/Mid) Software Engineer, Golang - Payments Platform | Sofia, Bulgaria | discovered: 2026-10-03
+- [ ] https://sumup.com/careers/positions/8827465002?gh_jid=8827465002 | SumUp — Senior Software Engineer, EU Own Acquiring | Sofia, Bulgaria | discovered: 2026-10-03
+- [ ] https://sumup.com/careers/positions/8690241002?gh_jid=8690241002 | SumUp — Senior Software Engineer (Golang)-  Payments Experience | Sofia, Bulgaria | discovered: 2026-10-03
+- [ ] https://sumup.com/careers/positions/8749656002?gh_jid=8749656002 | SumUp — Senior Software Engineer (Golang) – Pricing Domain | Sofia, Bulgaria | discovered: 2026-10-03
+- [ ] https://sumup.com/careers/positions/8769169002?gh_jid=8769169002 | SumUp — Senior Software Engineer (Lending Team) | São Paulo, São Paulo, Brazil | discovered: 2026-10-03
+- [ ] https://www.scandit.com/careers/job-description/?gh_jid=8179821 | Scandit — Senior Backend Engineer - Shelfview | Tampere | discovered: 2026-10-03
+- [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/4849382101 | PhysicsX — Machine Learning Engineer | New York, United States  | discovered: 2026-10-03
+- [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/4839390101 | PhysicsX — Senior Forward Deployed Software Engineer | New York, United States | discovered: 2026-10-03
+- [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/4678291101 | PhysicsX — Senior Machine Learning Engineer | New York, United States  | discovered: 2026-10-03
+- [ ] https://www.fivetran.com/careers/job?gh_jid=8000571003 | Fivetran — Senior Site Reliability Engineer | Novi Sad, South Bačka, Serbia, EMEA | discovered: 2026-10-03
+- [ ] https://www.fivetran.com/careers/job?gh_jid=8007249003 | Fivetran — Senior Software Engineer | Oakland, California, United States, AMER | discovered: 2026-10-03
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7818374003 | Fivetran — Senior Software Engineer - Metadata | Ontario, Canada | discovered: 2026-10-03
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7980977003 | Fivetran — Senior Software Engineer - Orchestration | Ontario, Canada | discovered: 2026-10-03
+- [ ] https://www.samsara.com/company/careers/roles/8020028?gh_jid=8020028 | Samsara — AI Engineering Manager | Bengaluru - BLR1 | discovered: 2026-10-03
+- [ ] https://www.samsara.com/company/careers/roles/8237134?gh_jid=8237134 | Samsara — Senior Software Engineer II, DevEx | Remote - NYC | discovered: 2026-10-03
+- [ ] https://www.samsara.com/company/careers/roles/8223645?gh_jid=8223645 | Samsara — Software Engineer II | Remote - US | discovered: 2026-10-03
+- [ ] https://www.samsara.com/company/careers/roles/8237131?gh_jid=8237131 | Samsara — Sr. Software Engineer II, DevEx | Remote - CA | discovered: 2026-10-03
+- [ ] https://www.samsara.com/company/careers/roles/7266287?gh_jid=7266287 | Samsara — Staff Software Engineer - Platform and Infrastructure | Bengaluru - BLR1 | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4718566006 | Chainguard — Engineering Manager, AI CICD | United Kingdom - Remote; United States - Remote | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4714568006 | Chainguard — Software Engineer (Repositories)  | United States - Remote | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4625271005 | Scale AI — Engineering Manager, Agent Oversight | San Francisco, CA; New York, NY | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4733702005 | Scale AI — Engineering Manager, Customer Platform (GenAI) | San Francisco, CA; New York, NY | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4732365005 | Scale AI — Engineering Manager, Frontier AI Infrastructure - Public Sector  | Washington, DC | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4709132005 | Scale AI — Engineering Manager, Saudi Arabia | Riyadh, Saudi Arabia | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4665557005 | Scale AI — Infrastructure Software Engineer, Enterprise GenAI | San Francisco, CA; New York, NY | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4732394005 | Scale AI — Senior Full-Stack Software Engineer, (Forward deployed), GPS | Riyadh, Saudi Arabia | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4676606005 | Scale AI — Senior Full-Stack Software Engineer, (Forward Deployed), GPS | Doha, Qatar  | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4599700005 | Scale AI — Senior Infrastructure Software Engineer, Enterprise AI | New York, NY; San Francisco, CA | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4739920005 | Scale AI — Senior Software Engineer, Orchestration Platform | San Francisco, CA; New York, NY | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4730512005 | Scale AI — Senior Software Engineer, Platform | San Francisco, CA; New York, NY | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4674911005 | Scale AI — Senior Software Engineer, Public Sector | San Francisco, CA; St. Louis, MO; New York, NY; Washington, DC | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4673771005 | Scale AI — Software Engineer, ARC Team | San Francisco, CA; St. Louis, MO; New York, NY; Washington, DC | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4513943005 | Scale AI — Software Engineer, Enterprise AI | New York, NY; San Francisco, CA | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4363623005 | Scale AI — Software Engineer, Frontier AI Infrastructure | San Francisco, CA; St. Louis, MO; New York, NY; Washington, DC | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4730851005 | Scale AI — Software Engineer - New Grad | Doha, Qatar  | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4302243005 | Scale AI — Software Engineer, Public Sector | San Francisco, CA; St. Louis, MO; New York, NY; Washington, DC | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4612282005 | Scale AI — Software Engineer, Robotics | Argentina; Uruguay | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4732430005 | Scale AI — Staff Full-Stack Software Engineer, (Forward Deployed), GPS | Riyadh, Saudi Arabia | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4673314005 | Scale AI — Staff FullStack Software Engineer, (Forward Deployed), GPS | Doha, Qatar  | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4569678005 | Scale AI — Staff Software Engineer, Enterprise GenAI | San Francisco, CA; New York, NY | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4713608005 | Scale AI — Staff Software Engineer, Full Stack - Gen AI  | New York, NY; San Francisco, CA; Seattle, WA; New York, NY | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4674913005 | Scale AI — Staff Software Engineer, Public Sector | San Francisco, CA; St. Louis, MO; New York, NY; Washington, DC | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4729820005 | Scale AI — Staff Software Engineer, RL Environments   | San Francisco, CA; New York, NY | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4717701005 | Scale AI — Team Lead, ARC Software Engineering Team | Washington, DC | discovered: 2026-10-03
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8574655002 | Databricks — AI Engineer - FDE (Forward Deployed Engineer) | Seoul, South Korea | discovered: 2026-10-03
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8760167002 | Databricks — AI Engineer – Forward Deployed Engineering (AI FDE), U.S. Public Sector (Federal Focus) | Maryland; Virginia; Washington, D.C. | discovered: 2026-10-03
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8091041002 | Databricks — Applied AI Engineer | Belgrade, Serbia | discovered: 2026-10-03
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8786930002 | Databricks — Engineering Manager, App Traffic | Mountain View, California | discovered: 2026-10-03
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8578093002 | Databricks — Engineering Manager - Data Visualization Platform | Bellevue, Washington | discovered: 2026-10-03
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8785065002 | Databricks — Field Engineering Manager, Specialist Solutions Architects | Seoul, South Korea | discovered: 2026-10-03
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8677627002 | Databricks — Field Engineering Manager, Specialist Solutions Architects - Nordics | Sweden | discovered: 2026-10-03
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8176503002 | Databricks — Manager, Engineering - AI/BI | Vancouver, Canada | discovered: 2026-10-03
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8109902002 | Databricks — Senior Engineering Manager - Enzyme | Mountain View, California | discovered: 2026-10-03
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7987657002 | Databricks — Senior Engineering Manager for Self-Serve (Learning) | Mountain View, California | discovered: 2026-10-03
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7641390002 | Databricks — Senior Manager, Infrastructure Data Science | Mountain View, California | discovered: 2026-10-03
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8093295002 | Databricks — Senior Software Engineer - Backend | Vancouver, Canada | discovered: 2026-10-03
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8012803002 | Databricks — Senior Software Engineer - Backend | Belgrade, Serbia | discovered: 2026-10-03
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8864368002 | Databricks — Senior Software Engineer — Backend (Files Team) | San Francisco, California | discovered: 2026-10-03
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8806934002 | Databricks — Senior Software Engineer, Compute Infrastructure | Mountain View, California | discovered: 2026-10-03
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8012800002 | Databricks — Senior Software Engineer - Distributed Data Systems | Belgrade, Serbia | discovered: 2026-10-03
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8099342002 | Databricks — Senior Software Engineer - Fullstack | Vancouver, Canada | discovered: 2026-10-03
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8303017002 | Databricks — Senior Staff Software Engineer - Delta | Zürich, Switzerland | discovered: 2026-10-03
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8012650002 | Databricks — Software Engineer - Backend | Belgrade, Serbia | discovered: 2026-10-03
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8012691002 | Databricks — Software Engineer - Distributed Data Systems | Belgrade, Serbia | discovered: 2026-10-03
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8493168002 | Databricks — Sr. IT Site Reliability Software Engineer | Costa Rica | discovered: 2026-10-03
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8862144002 | Databricks — Sr. Manager, Engineering - AI/BI | Mountain View, California; San Francisco, California | discovered: 2026-10-03
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8567602002 | Databricks — Sr. Manager, Engineering  Configuration Platform Team | Bellevue, Washington | discovered: 2026-10-03
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7959180002 | Databricks — Sr. Manager, Engineering - Search | Mountain View, California | discovered: 2026-10-03
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8220814002 | Databricks — Sr Software Engineer, Agentic Applications | Mountain View, California | discovered: 2026-10-03
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8512856002 | Databricks — Sr Software Engineer -Public Sector | McLean, Virginia | discovered: 2026-10-03
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8691490002 | Databricks — Staff Software Engineer - Access Management | Bellevue, Washington | discovered: 2026-10-03
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8560783002 | Databricks — Staff Software Engineer, AI Native Web Platform | Mountain View, California | discovered: 2026-10-03
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8552484002 | Databricks — Staff Software Engineer - AI Research Infrastructure | New York City, New York; San Francisco, California | discovered: 2026-10-03
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8532682002 | Databricks — Staff Software Engineer - AI Research Infrastructure | New York City, New York; San Francisco, California | discovered: 2026-10-03
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8012814002 | Databricks — Staff Software Engineer - Backend | Belgrade, Serbia | discovered: 2026-10-03
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8093293002 | Databricks — Staff Software Engineer - Backend  | Vancouver, Canada | discovered: 2026-10-03
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8012831002 | Databricks — Staff Software Engineer - Distributed Data Systems | Belgrade, Serbia | discovered: 2026-10-03
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8099343002 | Databricks — Staff Software Engineer - Fullstack | Vancouver, Canada | discovered: 2026-10-03
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8517555002 | Databricks — Staff Software Engineer- Public Sector | Virginia | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7748984003 | Rocket Lab — Director of Planning & Fulfillment | Long Beach, CA | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7985939003 | Rocket Lab — Flight Software Engineer  | Auckland, NZ | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7993343003 | Rocket Lab — Flight Software Engineer II | Long Beach, CA | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7983815003 | Rocket Lab — Flight Software Engineer II | Littleton, CO | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7836467003 | Rocket Lab — Lead, Planning & Fulfillment | Long Beach, CA | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/8000378003 | Rocket Lab — Principal Flight Software Engineer | Long Beach, CA | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7626792003 | Rocket Lab — Principal Network Software Engineer - TS/SCI | Long Beach, CA | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/8003751003 | Rocket Lab — Principal Software Engineer  - TS/SCI | Littleton, CO | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7816179003 | Rocket Lab — Principal Software Engineer  - TS/SCI | Long Beach, CA | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7763296003 | Rocket Lab — Senior Flight Software Engineer | Auckland, NZ | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7850062003 | Rocket Lab — Senior Flight Software Engineer I | Long Beach, CA | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7991348003 | Rocket Lab — Senior Flight Software Engineer I | Littleton, CO | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7850072003 | Rocket Lab — Senior Flight Software Engineer II | Long Beach, CA | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7815786003 | Rocket Lab — Senior Flight Software Engineer II - Secret Clearance | Long Beach, CA | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7815785003 | Rocket Lab — Senior Flight Software Engineer I - Secret Clearance | Long Beach, CA | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7991303003 | Rocket Lab — Senior Ground Software Engineer I  | Littleton, CO | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7814686003 | Rocket Lab — Senior Ground Software Engineer I | Long Beach, CA | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7814693003 | Rocket Lab — Senior Ground Software Engineer II | Long Beach, CA | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7979963003 | Rocket Lab — Senior Network Software Engineer II -Secret Clearance | Long Beach, CA | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7979961003 | Rocket Lab — Senior Network Software Engineer I -Secret Clearance | Long Beach, CA | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7816180003 | Rocket Lab — Senior Principal Software Engineer  - TS/SCI | Long Beach, CA | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7737069003 | Rocket Lab — Senior Software Engineer I | Albuquerque, NM | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7822244003 | Rocket Lab — Senior Software Engineer I - Data Engineering | Long Beach, CA | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7893882003 | Rocket Lab — Senior Software Engineer I - Digital Engineering | Littleton, CO | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7987630003 | Rocket Lab — Senior Software Engineer II | Tucson, AZ | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7987628003 | Rocket Lab — Senior Software Engineer II  | Chantilly, VA | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7994336003 | Rocket Lab — Senior Software Engineer II - Digital Engineering | Littleton, CO | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7994350003 | Rocket Lab — Senior Software Engineer II - Simulation Engineering  | Littleton, CO | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7893884003 | Rocket Lab — Senior Software Engineer I - Simulation Engineering  | Littleton, CO | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7687007003 | Rocket Lab — Senior Software Engineer - Operations Software | Auckland, NZ | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7737073003 | Rocket Lab — Software Engineer II - MES | Long Beach, CA | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7929946003 | Rocket Lab — Software Engineer II - Robotics | Pasadena, CA | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7862983003 | Rocket Lab — Software Engineer - Neutron Flight Safety Systems | Auckland, NZ | discovered: 2026-10-03
+- [ ] https://nuro.ai/careersitem?gh_jid=7917839 | Nuro — Full Stack Software Engineer, Fleet Platform and Operations Tooling | Mountain View, California (HQ) | discovered: 2026-10-03
+- [ ] https://nuro.ai/careersitem?gh_jid=7974966 | Nuro — Principal Software Engineer, Onboard Infrastructure | Mountain View, California (HQ) | discovered: 2026-10-03
+- [ ] https://nuro.ai/careersitem?gh_jid=7902399 | Nuro — Project Manager, Software Operations | Mountain View, California (HQ) | discovered: 2026-10-03
+- [ ] https://nuro.ai/careersitem?gh_jid=7896065 | Nuro — Senior Software Engineer, Autonomy Visualization | Mountain View, California (HQ) | discovered: 2026-10-03
+- [ ] https://nuro.ai/careersitem?gh_jid=6953540 | Nuro — Senior Software Engineer, Behavior Planning | Mountain View, California (HQ) | discovered: 2026-10-03
+- [ ] https://nuro.ai/careersitem?gh_jid=7736159 | Nuro — Senior Software Engineer, Collision Avoidance Testing | Mountain View, California (HQ) | discovered: 2026-10-03
+- [ ] https://nuro.ai/careersitem?gh_jid=8163202 | Nuro — Senior Software Engineer, Devices Platform | Mountain View, California (HQ) | discovered: 2026-10-03
+- [ ] https://nuro.ai/careersitem?gh_jid=8011527 | Nuro — Senior Software Engineer, ML Infrastructure | Mountain View, California (HQ) | discovered: 2026-10-03
+- [ ] https://nuro.ai/careersitem?gh_jid=8122477 | Nuro — Senior Software Engineer, ML Infrastructure Platform | Mountain View, California (HQ) | discovered: 2026-10-03
+- [ ] https://nuro.ai/careersitem?gh_jid=8163209 | Nuro — Senior Software Engineer, Networking & Real-Time Systems | Mountain View, California (HQ) | discovered: 2026-10-03
+- [ ] https://nuro.ai/careersitem?gh_jid=7701096 | Nuro — Senior Software Engineer, Onboard Autonomy | Mountain View, California (HQ) | discovered: 2026-10-03
+- [ ] https://nuro.ai/careersitem?gh_jid=7736012 | Nuro — Senior Software Engineer, Perception Data Infrastructure | Mountain View, California (HQ) | discovered: 2026-10-03
+- [ ] https://nuro.ai/careersitem?gh_jid=6516915 | Nuro — Senior Software Engineer, Perception, Machine Learning/Computer Vision | Mountain View, California (HQ) | discovered: 2026-10-03
+- [ ] https://nuro.ai/careersitem?gh_jid=7389868 | Nuro — Senior Software Engineer, Perception ML Data | Mountain View, California (HQ) | discovered: 2026-10-03
+- [ ] https://nuro.ai/careersitem?gh_jid=7786596 | Nuro — Senior Software Engineer, Performance Tooling and Infrastructure | Mountain View, California (HQ) | discovered: 2026-10-03
+- [ ] https://nuro.ai/careersitem?gh_jid=7438992 | Nuro — Senior Software Engineer, Ride-Hailing Product | Mountain View, California (HQ) | discovered: 2026-10-03
+- [ ] https://nuro.ai/careersitem?gh_jid=6832319 | Nuro — Senior Software Engineer, Routing | Mountain View, California (HQ) | discovered: 2026-10-03
+- [ ] https://nuro.ai/careersitem?gh_jid=8163195 | Nuro — Senior Software Engineer, Sensor Platform | Mountain View, California (HQ) | discovered: 2026-10-03
+- [ ] https://nuro.ai/careersitem?gh_jid=5401358 | Nuro — Senior Software Engineer, Simulation | Mountain View, California (HQ) | discovered: 2026-10-03
+- [ ] https://nuro.ai/careersitem?gh_jid=8163218 | Nuro — Senior Software Engineer, Video Streaming | Mountain View, California (HQ) | discovered: 2026-10-03
+- [ ] https://nuro.ai/careersitem?gh_jid=8049931 | Nuro — Senior/Staff Machine Learning Engineer, Sensor Simulation | Mountain View, California (HQ) | discovered: 2026-10-03
+- [ ] https://nuro.ai/careersitem?gh_jid=8097555 | Nuro — Senior/Staff Software Engineer, AI Agent Infrastructure | Mountain View, California (HQ) | discovered: 2026-10-03
+- [ ] https://nuro.ai/careersitem?gh_jid=7243150 | Nuro — Senior/Staff Software Engineer,  Behavior Verification | Mountain View, California (HQ) | discovered: 2026-10-03
+- [ ] https://nuro.ai/careersitem?gh_jid=7895640 | Nuro — Senior/Staff Software Engineer, Data Platform | Mountain View, California (HQ) | discovered: 2026-10-03
+- [ ] https://nuro.ai/careersitem?gh_jid=7895638 | Nuro — Senior/Staff Software Engineer, ML Data Infrastructure | Mountain View, California (HQ) | discovered: 2026-10-03
+- [ ] https://nuro.ai/careersitem?gh_jid=8122528 | Nuro — Senior/Staff Software Engineer, ML Inference Platform | Mountain View, California (HQ) | discovered: 2026-10-03
+- [ ] https://nuro.ai/careersitem?gh_jid=8011514 | Nuro — Senior/Staff Software Engineer, ML Infrastructure, Optimization | Mountain View, California (HQ) | discovered: 2026-10-03
+- [ ] https://nuro.ai/careersitem?gh_jid=7351066 | Nuro — Software Engineer, AI Platform - New Grad | Mountain View, California (HQ) | discovered: 2026-10-03
+- [ ] https://nuro.ai/careersitem?gh_jid=8122990 | Nuro — Software Engineer, Applied AI Infrastructure | Mountain View, California (HQ) | discovered: 2026-10-03
+- [ ] https://nuro.ai/careersitem?gh_jid=7896063 | Nuro — Software Engineer, Autonomy Visualization | Mountain View, California (HQ) | discovered: 2026-10-03
+- [ ] https://nuro.ai/careersitem?gh_jid=7895644 | Nuro — Software Engineer, Data Platform | Mountain View, California (HQ) | discovered: 2026-10-03
+- [ ] https://nuro.ai/careersitem?gh_jid=7895818 | Nuro — Software Engineer, ML Data Infrastructure | Mountain View, California (HQ) | discovered: 2026-10-03
+- [ ] https://nuro.ai/careersitem?gh_jid=8122537 | Nuro — Software Engineer, ML Inference Platform | Mountain View, California (HQ) | discovered: 2026-10-03
+- [ ] https://nuro.ai/careersitem?gh_jid=6909931 | Nuro — Software Engineer, ML Infrastructure | Mountain View, California (HQ) | discovered: 2026-10-03
+- [ ] https://nuro.ai/careersitem?gh_jid=6916236 | Nuro — Software Engineer, ML Infrastructure, Optimization | Mountain View, California (HQ) | discovered: 2026-10-03
+- [ ] https://nuro.ai/careersitem?gh_jid=8122483 | Nuro — Software Engineer, ML Infrastructure Platform | Mountain View, California (HQ) | discovered: 2026-10-03
+- [ ] https://nuro.ai/careersitem?gh_jid=7638789 | Nuro — Software Engineer, Offboard Infrastructure | Mountain View, California (HQ) | discovered: 2026-10-03
+- [ ] https://nuro.ai/careersitem?gh_jid=7998328 | Nuro — Software Engineer, Onboard Platform | Mountain View, California (HQ) | discovered: 2026-10-03
+- [ ] https://nuro.ai/careersitem?gh_jid=7786521 | Nuro — Software Engineer, Performance Tooling and Infrastructure | Mountain View, California (HQ) | discovered: 2026-10-03
+- [ ] https://nuro.ai/careersitem?gh_jid=7482347 | Nuro — Software Engineer, Routing | Mountain View, California (HQ) | discovered: 2026-10-03
+- [ ] https://nuro.ai/careersitem?gh_jid=8163179 | Nuro — Software Engineer, Sensor Platform | Mountain View, California (HQ) | discovered: 2026-10-03
+- [ ] https://nuro.ai/careersitem?gh_jid=8164473 | Nuro — Software Engineer, Video Streaming | Mountain View, California (HQ) | discovered: 2026-10-03
+- [ ] https://nuro.ai/careersitem?gh_jid=8114754 | Nuro — Staff/Lead Machine Learning Engineer, Behavior & Planning | Mountain View, California (HQ) | discovered: 2026-10-03
+- [ ] https://nuro.ai/careersitem?gh_jid=7238934 | Nuro — Staff/Senior Software Engineer, Offboard Infrastructure | Mountain View, California (HQ) | discovered: 2026-10-03
+- [ ] https://nuro.ai/careersitem?gh_jid=7998327 | Nuro — Staff/Senior Software Engineer, Onboard Infrastructure | Mountain View, California (HQ) | discovered: 2026-10-03
+- [ ] https://nuro.ai/careersitem?gh_jid=7137941 | Nuro — Staff Software Engineer, Behavior ML Data | Mountain View, California (HQ) | discovered: 2026-10-03
+- [ ] https://nuro.ai/careersitem?gh_jid=7280336 | Nuro — Staff Software Engineer, Routing | Mountain View, California (HQ) | discovered: 2026-10-03
+- [ ] https://nuro.ai/careersitem?gh_jid=8160091 | Nuro — Tech Lead Software Engineer, Fleet Connectivity | Mountain View, California (HQ) | discovered: 2026-10-03
+- [ ] https://www.zipline.com/open-roles/7652331003?gh_jid=7652331003 | Zipline — Full Stack Software Engineer - Mapping | Kigali, Rwanda | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4685172006 | Figure AI — Helix AI Engineer, Backend  | San Jose, CA | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4696533006 | Figure AI — Helix AI Engineer, Localization and Mapping | San Jose, CA | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4007375006 | Figure AI — Helix AI Engineer, Perception | San Jose, CA | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4705296006 | Figure AI — Helix AI Engineer, Training Performance | San Jose, CA | discovered: 2026-10-03
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4713838006 | Figure AI — Software Engineer, Service & Operations | San Jose, CA | discovered: 2026-10-03
+
+<!-- Scout Quick Check: 2026-10-03 — 59 new matches from Greenhouse API -->
+- [ ] **Anthropic** — [DH] Engineering Manager, AI Observability | San Francisco, CA | https://job-boards.greenhouse.io/anthropic/jobs/5429202008
+- [ ] **Anthropic** — Engineering Manager, Business Technology | San Francisco, CA | New York City, NY | https://job-boards.greenhouse.io/anthropic/jobs/5418402008
+- [ ] **Anthropic** — Engineering Manager, Data Infrastructure | San Francisco, CA | New York City, NY | https://job-boards.greenhouse.io/anthropic/jobs/5426135008
+- [ ] **Anthropic** — Senior+ Software Engineer, Legal Tech | Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY | https://job-boards.greenhouse.io/anthropic/jobs/5435665008
+- [ ] **Anthropic** — Software Engineer, Beneficial Deployments  | San Francisco, CA | New York City, NY | https://job-boards.greenhouse.io/anthropic/jobs/4942024008
+- [ ] **Anthropic** — Software Engineer, Labs | San Francisco, CA | New York City, NY | Seattle, WA | https://job-boards.greenhouse.io/anthropic/jobs/5017202008
+- [ ] **Anthropic** — Software Engineer, Sandboxing | San Francisco, CA | New York City, NY | https://job-boards.greenhouse.io/anthropic/jobs/5440427008
+- [ ] **Anthropic** — Staff / Senior Software Engineer, Security Fusion Platform | San Francisco, CA | New York City, NY | Seattle, WA | https://job-boards.greenhouse.io/anthropic/jobs/5434559008
+- [ ] **Anthropic** — Staff+ Software Engineer, Access Programs | San Francisco, CA | New York City, NY | Seattle, WA | https://job-boards.greenhouse.io/anthropic/jobs/5433814008
+- [ ] **Anthropic** — Staff+ Software Engineer, Account Abuse (Machine Learning) | San Francisco, CA | New York City, NY | https://job-boards.greenhouse.io/anthropic/jobs/5436293008
+- [ ] **Anthropic** — Staff+ Software Engineer, Account Creation | San Francisco, CA | New York City, NY | Seattle, WA | https://job-boards.greenhouse.io/anthropic/jobs/5433813008
+- [ ] **Anthropic** — Staff Software Engineer: Compute | San Francisco, CA | New York City, NY | https://job-boards.greenhouse.io/anthropic/jobs/5432558008
+- [ ] **Anthropic** — Staff+ Software Engineer, Storage + Transfer | San Francisco, CA | New York City, NY | https://job-boards.greenhouse.io/anthropic/jobs/5428950008
+- [ ] **Anthropic** — Staff + Sr. Software Engineer, Cloud Inference | San Francisco, CA | Seattle, WA | https://job-boards.greenhouse.io/anthropic/jobs/5436684008
+- [ ] **Anthropic** — Staff + Sr. Software Engineer, Cloud Inference Launch Engineering | San Francisco, CA | Seattle, WA | https://job-boards.greenhouse.io/anthropic/jobs/5436697008
+- [ ] **Anthropic** — Staff + Sr. Software Engineer, Scaling | New York City, NY; San Francisco, CA; Seattle, WA | https://job-boards.greenhouse.io/anthropic/jobs/5436703008
+- [ ] **Anduril** — Platform Engineer, Radar | Fort Collins, Colorado, United States | https://boards.greenhouse.io/andurilindustries/jobs/5256305007?gh_jid=5256305007
+- [ ] **Anduril** — Principal Software Engineer, InfraEng Platform Team | Seattle, Washington, United States | https://boards.greenhouse.io/andurilindustries/jobs/5252050007?gh_jid=5252050007
+- [ ] **Anduril** — Principal Software Engineer, InfraEng Platform Team | Costa Mesa, California, United States | https://boards.greenhouse.io/andurilindustries/jobs/5250888007?gh_jid=5250888007
+- [ ] **Anduril** — Senior AI Infrastructure Engineer | Costa Mesa, California, United States; Seattle, Washington, United States; Washington, District of Columbia, United States | https://boards.greenhouse.io/andurilindustries/jobs/5248215007?gh_jid=5248215007
+- [ ] **Anduril** — Senior Software Engineer, C++ | Broomfield, Colorado, United States; Fort Collins, Colorado, United States | https://boards.greenhouse.io/andurilindustries/jobs/5244796007?gh_jid=5244796007
+- [ ] **Anduril** — Senior Software Engineer (Security) | Bellevue, Washington, United States | https://boards.greenhouse.io/andurilindustries/jobs/5230428007?gh_jid=5230428007
+- [ ] **Anduril** — Site Reliability Engineer, Space | Costa Mesa, California, United States | https://boards.greenhouse.io/andurilindustries/jobs/5075877007?gh_jid=5075877007
+- [ ] **Anduril** — Software Engineer- Infrastructure  | Broomfield, Colorado, United States | https://boards.greenhouse.io/andurilindustries/jobs/5124336007?gh_jid=5124336007
+- [ ] **Anduril** — Software Engineer- Machine Learning | Broomfield, Colorado, United States | https://boards.greenhouse.io/andurilindustries/jobs/5124403007?gh_jid=5124403007
+- [ ] **Anduril** — Staff Site Reliability Engineer | Costa Mesa, California, United States | https://boards.greenhouse.io/andurilindustries/jobs/5210335007?gh_jid=5210335007
+- [ ] **Anduril** — Staff Software Engineer, Frontend Platform | Costa Mesa, California, United States | https://boards.greenhouse.io/andurilindustries/jobs/5246672007?gh_jid=5246672007
+- [ ] **Vercel** — Engineering Manager, Dashboard | Hybrid - San Francisco | https://job-boards.greenhouse.io/vercel/jobs/6115908004
+- [ ] **Vercel** — Engineering Manager - Next.js | Hybrid - San Francisco, New York City | https://job-boards.greenhouse.io/vercel/jobs/6140055004
+- [ ] **Vercel** — Software Engineer, Agentic Infrastructure | Hybrid - San Francisco, New York City | https://job-boards.greenhouse.io/vercel/jobs/6199608004
+- [ ] **Vercel** — Software Engineer - Next.js | Hybrid - San Francisco, New York City | https://job-boards.greenhouse.io/vercel/jobs/6137958004
+- [ ] **Vercel** — Software Engineer, Scheduled Tasks | Hybrid - San Francisco | https://job-boards.greenhouse.io/vercel/jobs/6207796004
+- [ ] **Contentful** — Software Engineer, Applied AI Solutions | Denver, Colorado, United States | https://job-boards.greenhouse.io/contentful/jobs/8233486
+- [ ] **Fivetran** — Senior Software Engineer | Oakland, California, United States, AMER | https://www.fivetran.com/careers/job?gh_jid=8007249003
+- [ ] **Fivetran** — Senior Software Engineer | Oakland, California, United States | https://www.fivetran.com/careers/job?gh_jid=7772283003
+- [ ] **Fivetran** — Senior Software Engineer - Orchestration | Denver, Colorado, United States, AMER | https://www.fivetran.com/careers/job?gh_jid=8003720003
+- [ ] **Fivetran** — Senior Software Engineer - Orchestration | Oakland, California, United States | https://www.fivetran.com/careers/job?gh_jid=8003725003
+- [ ] **Fivetran** — Senior Staff Software Engineer | Oakland, California, United States | https://www.fivetran.com/careers/job?gh_jid=7818380003
+- [ ] **Fivetran** — Staff Software Engineer, Backend | Oakland, California, United States | https://www.fivetran.com/careers/job?gh_jid=8004657003
+- [ ] **Samsara** — Manager II, Software Engineering, Infrastructure | Remote - US | https://www.samsara.com/company/careers/roles/8148638?gh_jid=8148638
+- [ ] **Samsara** — Senior Software Engineer II | Remote - SF Bay Area | https://www.samsara.com/company/careers/roles/8186910?gh_jid=8186910
+- [ ] **Samsara** — Senior Software Engineer II, DevEx | Remote - NYC | https://www.samsara.com/company/careers/roles/8237134?gh_jid=8237134
+- [ ] **Samsara** — Senior Software Engineer II, Route Planning | Remote - US | https://www.samsara.com/company/careers/roles/7520397?gh_jid=7520397
+- [ ] **Samsara** — Software Engineer II | Remote - US | https://www.samsara.com/company/careers/roles/8223645?gh_jid=8223645
+- [ ] **Chainguard** — Engineering Manager, AI CICD | United Kingdom - Remote; United States - Remote | https://job-boards.greenhouse.io/chainguard/jobs/4718566006
+- [ ] **Chainguard** — Senior Software Engineer (Repository) | United States - Remote | https://job-boards.greenhouse.io/chainguard/jobs/4715630006
+- [ ] **Chainguard** — Software Engineer (Repositories)  | United States - Remote | https://job-boards.greenhouse.io/chainguard/jobs/4714568006
+- [ ] **Scale AI** — Senior Software Engineer, Orchestration Platform | San Francisco, CA; New York, NY | https://job-boards.greenhouse.io/scaleai/jobs/4739920005
+- [ ] **Databricks** — Senior Software Engineer — Backend (Files Team) | San Francisco, California | https://databricks.com/company/careers/open-positions/job?gh_jid=8864368002
+- [ ] **Databricks** — Sr. Software Engineer - Ingestion Core team | San Francisco, California | https://databricks.com/company/careers/open-positions/job?gh_jid=8815669002
+- [ ] **Nuro** — Senior Software Engineer, Ride-Hailing Product | Mountain View, California (HQ) | https://nuro.ai/careersitem?gh_jid=7438992
+- [ ] **Nuro** — Software Engineer, Cloud Infrastructure and Observability | Mountain View, California (HQ) | https://nuro.ai/careersitem?gh_jid=8221208
+- [ ] **Nuro** — Staff Software Engineer, Routing | Mountain View, California (HQ) | https://nuro.ai/careersitem?gh_jid=7280336
+- [ ] **Zipline** — Sr. Manager, Software Engineering – Marketplace | South San Francisco, California, USA | https://www.zipline.com/open-roles/7933236003?gh_jid=7933236003
+- [ ] **Planet Labs** — Senior Software Engineer, Mission Optimization | San Francisco, CA | https://job-boards.greenhouse.io/planetlabs/jobs/8197622
+- [ ] **Rocket Lab** — Principal Software Engineer  - TS/SCI | Littleton, CO | https://job-boards.greenhouse.io/rocketlab/jobs/8003751003
+- [ ] **Rocket Lab** — Senior Software Engineer I - Customer Solutions | Littleton, CO | https://job-boards.greenhouse.io/rocketlab/jobs/7998854003
+- [ ] **Rocket Lab** — Senior Software Engineer II - Customer Solutions | Littleton, CO | https://job-boards.greenhouse.io/rocketlab/jobs/7998869003
+- [ ] **Vast** — Staff HPC Infrastructure Engineer | Long Beach, California, United States | https://boards.greenhouse.io/vast/jobs/4714392006?gh_jid=4714392006
