@@ -11545,3 +11545,31 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - [ ] **Rocket Lab** — Senior Software Engineer I - Customer Solutions | Littleton, CO | https://job-boards.greenhouse.io/rocketlab/jobs/7998854003
 - [ ] **Rocket Lab** — Senior Software Engineer II - Customer Solutions | Littleton, CO | https://job-boards.greenhouse.io/rocketlab/jobs/7998869003
 - [ ] **Vast** — Staff HPC Infrastructure Engineer | Long Beach, California, United States | https://boards.greenhouse.io/vast/jobs/4714392006?gh_jid=4714392006
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5437172008 <!-- Anthropic: Applied AI Engineer, Beneficial Deployments (Life Sciences) (San Francisco, CA | New York City, NY) | found 2026-10-04 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5247324007?gh_jid=5247324007 <!-- Anduril: Engineering Lead, Air Defense U.S. Air Force Portfolio (Irvine, California, United States; Seattle, Washington, United States; Washington, District of Columbia, United States) | found 2026-10-04 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5248741007?gh_jid=5248741007 <!-- Anduril: Security Software Engineer, Endpoint Security (Seattle, Washington, United States) | found 2026-10-04 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5231054007?gh_jid=5231054007 <!-- Anduril: Senior Software Engineer, Distributed Simulation (C++) (Seattle, Washington, United States) | found 2026-10-04 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5247298007?gh_jid=5247298007 <!-- Anduril: Senior Software Engineer, Robotics Data Foundation (Cloud) (Seattle, Washington, United States) | found 2026-10-04 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5244366007?gh_jid=5244366007 <!-- Anduril: Software Engineer, Strategic Defense (Costa Mesa, California, United States; Reston, Virginia, United States; Seattle, Washington, United States; Washington, District of Columbia, United States) | found 2026-10-04 -->
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5253214007 <!-- True Anomaly: Engineering Manager, Propulsion Vehicle Subsystem (Denver, CO or Long Beach, CA ) | found 2026-10-04 -->
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5252981007 <!-- True Anomaly: Engineering Manager, Software (Modeling and Simulation) (Denver, CO or Long Beach, CA) | found 2026-10-04 -->
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5252989007 <!-- True Anomaly: Flight Software Engineer II (Denver, CO or Long Beach, CA ) | found 2026-10-04 -->
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5252995007 <!-- True Anomaly: Flight Software Engineer III (Denver, CO or Long Beach, CA ) | found 2026-10-04 -->
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5253013007 <!-- True Anomaly: Principal Flight Software Engineer (Denver, CO or Long Beach, CA ) | found 2026-10-04 -->
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5252998007 <!-- True Anomaly: Senior Flight Software Engineer (Denver, CO or Long Beach, CA ) | found 2026-10-04 -->
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5252976007 <!-- True Anomaly: Senior Software Engineer, Spacecraft Simulation (Denver, CO or Long Beach, CA) | found 2026-10-04 -->
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5252967007 <!-- True Anomaly: Software Engineer II, Spacecraft Simulation  (Denver, CO or Long Beach, CA) | found 2026-10-04 -->
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5253004007 <!-- True Anomaly: Staff Flight Software Engineer (Denver, CO or Long Beach, CA ) | found 2026-10-04 -->
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/6128122004 <!-- Arize AI: Applied AI Engineer (Remote (San Francisco)) | found 2026-10-04 -->
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/6203635004 <!-- Arize AI: DevOps Engineer (Remote (United States)) | found 2026-10-04 -->
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/6203648004 <!-- Arize AI: DevOps Support Engineer (Argentina) (Remote (Buenos Aires)) | found 2026-10-04 -->
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4738120005 <!-- Glean: Machine Learning Engineer, Search Quality (San Francisco, CA) | found 2026-10-04 -->
+- [ ] https://www.samsara.com/company/careers/roles/8221852?gh_jid=8221852 <!-- Samsara: Manager II, Software Engineering, Infrastructure (Remote - Canada) | found 2026-10-04 -->
+- [ ] https://www.samsara.com/company/careers/roles/8231949?gh_jid=8231949 <!-- Samsara: Senior Software Engineer II (Remote - Canada) | found 2026-10-04 -->
+- [ ] https://www.samsara.com/company/careers/roles/8210695?gh_jid=8210695 <!-- Samsara: Software Engineer I, Agentic Platform EMEA (Poland, Remote, B2B) (Remote - Poland) | found 2026-10-04 -->
+- [ ] https://www.samsara.com/company/careers/roles/8237131?gh_jid=8237131 <!-- Samsara: Sr. Software Engineer II, DevEx (Remote - CA) | found 2026-10-04 -->
+- [ ] https://www.samsara.com/company/careers/roles/8210697?gh_jid=8210697 <!-- Samsara: Sr. Software Engineer II / Tech lead, Agentic Platform (Poland, Remote, B2B) (Remote - Poland) | found 2026-10-04 -->
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4714570006 <!-- Chainguard: Software Engineer (Repositories)  (United Kingdom - Remote) | found 2026-10-04 -->
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4714571006 <!-- Chainguard: Software Engineer (Repositories)  (Canada - Remote) | found 2026-10-04 -->
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4736426005 <!-- Scale AI: Software Engineer, Public Sector - New Grad (San Francisco, CA) | found 2026-10-04 -->
