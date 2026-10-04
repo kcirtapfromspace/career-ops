@@ -1,5 +1,28 @@
 # Pipeline — Pending Offers
 
+
+## 2026-10-04 — Quick-Check Scout (Greenhouse API)
+
+> Scan: 40 Greenhouse API boards. 10 pipeline-worthy new matches across 2 companies. 10 additional filtered out (wrong location/scope). Boards now 404: Black Forest Labs, Wayve, ClickHouse. Report: [scout-quickcheck-2026-10-04.md](../reports/scout-quickcheck-2026-10-04.md)
+
+#### Anduril — Defense Tech (Dream Company)
+
+- [ ] [Anduril — DevOps Engineer, Radar](https://boards.greenhouse.io/andurilindustries/jobs/5256306007?gh_jid=5256306007) | Fort Collins, Colorado, United States
+- [ ] [Anduril — Platform Engineer, Radar](https://boards.greenhouse.io/andurilindustries/jobs/5256305007?gh_jid=5256305007) | Fort Collins, Colorado, United States
+
+#### True Anomaly — Space Defense (Denver, CO)
+
+- [ ] [True Anomaly — Engineering Manager, Propulsion Vehicle Subsystem](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5253214007) | Denver, CO or Long Beach, CA
+- [ ] [True Anomaly — Flight Software Engineer II](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5252989007) | Denver, CO or Long Beach, CA
+- [ ] [True Anomaly — Flight Software Engineer III](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5252995007) | Denver, CO or Long Beach, CA
+- [ ] [True Anomaly — Principal Flight Software Engineer](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5253013007) | Denver, CO or Long Beach, CA
+- [ ] [True Anomaly — Senior Flight Software Engineer](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5252998007) | Denver, CO or Long Beach, CA
+- [ ] [True Anomaly — Senior Software Engineer, Spacecraft Simulation](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5252976007) | Denver, CO or Long Beach, CA
+- [ ] [True Anomaly — Software Engineer II, Spacecraft Simulation](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5252967007) | Denver, CO or Long Beach, CA
+- [ ] [True Anomaly — Staff Flight Software Engineer](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5253004007) | Denver, CO or Long Beach, CA
+
+---
+
 ## 2026-10-03 — Scout Scan
 
 > Scan: 30+ companies (Greenhouse API + WebSearch). 4 new matches. Reddit and Gusto boards newly added to rotation. Report: [scout-2026-10-03.md](../reports/scout-2026-10-03.md)
