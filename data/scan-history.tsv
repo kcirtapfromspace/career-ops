@@ -39406,3 +39406,20 @@ https://job-boards.greenhouse.io/trueanomalyinc/jobs/5253004007	2026-10-04
 2026-10-04	Chainguard	https://job-boards.greenhouse.io/chainguard/jobs/4714570006	Software Engineer (Repositories) 	United Kingdom - Remote	greenhouse_api
 2026-10-04	Chainguard	https://job-boards.greenhouse.io/chainguard/jobs/4714571006	Software Engineer (Repositories) 	Canada - Remote	greenhouse_api
 2026-10-04	Scale AI	https://job-boards.greenhouse.io/scaleai/jobs/4736426005	Software Engineer, Public Sector - New Grad	San Francisco, CA	greenhouse_api
+https://job-boards.greenhouse.io/checkr/jobs/7391757	2026-10-05	scout-2026-10-05	Staff Data Engineer (Data Platform)	Checkr	new-match-3.6
+https://job-boards.greenhouse.io/checkr/jobs/8078265	2026-10-05	scout-2026-10-05	Staff Software Engineer, Data (People Data)	Checkr	new-match-3.6
+https://boards-api.greenhouse.io/v1/boards/anthropic/jobs	2026-10-05	scout-2026-10-05	Anthropic API scan	all_seen
+https://boards-api.greenhouse.io/v1/boards/andurilindustries/jobs	2026-10-05	scout-2026-10-05	Anduril API scan	no_new_platform_roles
+https://boards-api.greenhouse.io/v1/boards/trueanomalyinc/jobs	2026-10-05	scout-2026-10-05	True Anomaly API scan	all_seen
+https://boards-api.greenhouse.io/v1/boards/chainguard/jobs	2026-10-05	scout-2026-10-05	Chainguard API scan	all_seen
+https://boards-api.greenhouse.io/v1/boards/samsara/jobs	2026-10-05	scout-2026-10-05	Samsara API scan	all_seen
+https://boards-api.greenhouse.io/v1/boards/databricks/jobs	2026-10-05	scout-2026-10-05	Databricks API scan	all_seen
+https://boards-api.greenhouse.io/v1/boards/scaleai/jobs	2026-10-05	scout-2026-10-05	Scale AI API scan	all_seen
+https://boards-api.greenhouse.io/v1/boards/fivetran/jobs	2026-10-05	scout-2026-10-05	Fivetran API scan	all_seen
+https://boards-api.greenhouse.io/v1/boards/gleanwork/jobs	2026-10-05	scout-2026-10-05	Glean API scan	all_seen_sf_onsite
+https://boards-api.greenhouse.io/v1/boards/arizeai/jobs	2026-10-05	scout-2026-10-05	Arize AI API scan	no_staff_em_roles
+https://boards-api.greenhouse.io/v1/boards/airtable/jobs	2026-10-05	scout-2026-10-05	Airtable API scan	sales_only
+https://boards-api.greenhouse.io/v1/boards/figureai/jobs	2026-10-05	scout-2026-10-05	Figure AI API scan	hardware_only
+https://boards-api.greenhouse.io/v1/boards/vercel/jobs	2026-10-05	scout-2026-10-05	Vercel API scan	all_sf_hybrid
+https://boards-api.greenhouse.io/v1/boards/dagsterlabs/jobs	2026-10-05	scout-2026-10-05	Dagster API scan	zero_jobs
+https://boards-api.greenhouse.io/v1/boards/rocketlab/jobs	2026-10-05	scout-2026-10-05	Rocket Lab API scan	no_data_platform_roles

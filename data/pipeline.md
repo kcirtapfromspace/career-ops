@@ -1,6 +1,17 @@
 # Pipeline — Pending Offers
 
 
+## 2026-10-05 — Morning Scout Scan
+
+> Scan: 45 companies (Greenhouse API + WebSearch). 2 new matches at Checkr (Denver hybrid). No top picks today. Report: [scout-2026-10-05.md](../reports/scout-2026-10-05.md)
+
+#### Secondary Matches (3.5–3.9 — Review Before Applying)
+
+- [ ] [Checkr — Staff Data Engineer, Data Platform](https://job-boards.greenhouse.io/checkr/jobs/7391757) | Denver, CO / SF — hybrid 3+/week | ~$185-215K | ★★★ 3.6/5 — Kafka, Spark, Iceberg, AWS EKS stack match; Denver location ideal; background-check domain, not AI-native
+- [ ] [Checkr — Staff Software Engineer, Data (People Data)](https://job-boards.greenhouse.io/checkr/jobs/8078265) | Denver, CO / SF — hybrid 3+/week | $190-223K Denver | ★★★ 3.6/5 — Same data platform stack; centralized platform for all Checkr products; hybrid workable in Patrick's city
+
+---
+
 ## 2026-10-04 — Quick-Check Scout (Greenhouse API)
 
 > Scan: 40 Greenhouse API boards. 10 pipeline-worthy new matches across 2 companies. 10 additional filtered out (wrong location/scope). Boards now 404: Black Forest Labs, Wayve, ClickHouse. Report: [scout-quickcheck-2026-10-04.md](../reports/scout-quickcheck-2026-10-04.md)
