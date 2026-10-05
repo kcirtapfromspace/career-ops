@@ -11584,3 +11584,7 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - [ ] https://job-boards.greenhouse.io/chainguard/jobs/4714570006 <!-- Chainguard: Software Engineer (Repositories)  (United Kingdom - Remote) | found 2026-10-04 -->
 - [ ] https://job-boards.greenhouse.io/chainguard/jobs/4714571006 <!-- Chainguard: Software Engineer (Repositories)  (Canada - Remote) | found 2026-10-04 -->
 - [ ] https://job-boards.greenhouse.io/scaleai/jobs/4736426005 <!-- Scale AI: Software Engineer, Public Sector - New Grad (San Francisco, CA) | found 2026-10-04 -->
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5442934008 <!-- Anthropic: Manager, Applied AI Engineering (Megas) (San Francisco, CA | New York City, NY; San Francisco, CA | Seattle, WA) | found 2026-10-05 -->
+- [ ] https://www.samsara.com/company/careers/roles/8141959?gh_jid=8141959 <!-- Samsara: Data Engineer (Remote - US) | found 2026-10-05 -->
+- [ ] https://www.samsara.com/company/careers/roles/8250423?gh_jid=8250423 <!-- Samsara: Data Engineer (Remote - Canada) | found 2026-10-05 -->
