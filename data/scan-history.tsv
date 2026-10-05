@@ -39426,3 +39426,6 @@ https://boards-api.greenhouse.io/v1/boards/rocketlab/jobs	2026-10-05	scout-2026-
 https://job-boards.greenhouse.io/anthropic/jobs/5442934008	2026-10-05
 https://www.samsara.com/company/careers/roles/8141959?gh_jid=8141959	2026-10-05
 https://www.samsara.com/company/careers/roles/8250423?gh_jid=8250423	2026-10-05
+2026-10-05	https://boards-api.greenhouse.io/v1/boards/wayve/jobs	Wayve	API scan	error: HTTP 404 (was OK 2026-10-01 — possible ATS migration)	scout-quickcheck-2026-10-05
+2026-10-05	https://boards-api.greenhouse.io/v1/boards/blackforestlabs/jobs	Black Forest Labs	API scan	error: HTTP 404 (ongoing since 2026-09-17)	scout-quickcheck-2026-10-05
+2026-10-05	https://boards-api.greenhouse.io/v1/boards/clickhouse/jobs	Clickhouse	API scan	error: HTTP 404 (ongoing since 2026-10-01)	scout-quickcheck-2026-10-05
