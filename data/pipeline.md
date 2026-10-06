@@ -1,6 +1,26 @@
 # Pipeline — Pending Offers
 
 
+## 2026-10-06 — Quick-Check Scout (Greenhouse API)
+
+> Scan: 40 companies (Greenhouse API only). 18 raw matches → 5 after location/title filter. 3 new True Anomaly Digital Engineering roles (Denver) + new Anthropic Staff Applied AI role (SF/Seattle) + Glean Tech Lead (SF). Report: [scout-quickcheck-2026-10-06.md](../reports/scout-quickcheck-2026-10-06.md)
+
+#### Top Picks (4.0+ — Apply Soon)
+
+- [ ] [Anthropic — Software Engineer, Staff: Applied AI, Science & Engineering](https://job-boards.greenhouse.io/anthropic/jobs/5444766008) | SF / Seattle / NYC (hybrid) | ★★★★ — NEW 10/06; Staff-level Applied AI team; distinct from Security Engineer already in pipeline; Anthropic dream company
+- [ ] [True Anomaly — Staff Software Engineer, Digital Engineering](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5257771007) | Denver, CO | ★★★★ — NEW 10/06; Staff level, Denver local, space defense; TS clearance eligibility likely required; $205K–$325K range (prior True Anomaly listing)
+
+#### Secondary (3.5–3.9 — Review Before Applying)
+
+- [ ] [True Anomaly — Senior Software Engineer, Digital Engineering](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5257765007) | Denver, CO | ★★★ — NEW 10/06; Senior level, same team as Staff role above
+- [ ] [Glean — Software Engineer, Tech Lead, Admin Console](https://job-boards.greenhouse.io/gleanwork/jobs/4740921005) | San Francisco, CA | ★★★ — NEW 10/06; Enterprise AI search; Tech Lead level; Admin Console scope — review JD
+
+#### Low Priority
+
+- [ ] [True Anomaly — Software Engineer I to III, Digital Engineering](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5257769007) | Denver, CO | ★★ — NEW 10/06; Band posting (I–III = mid-level range); TS clearance eligibility required
+
+---
+
 ## 2026-10-06 — Scout Scan
 
 > Scan: 25+ companies (Greenhouse API + WebSearch). 6 new matches — 1 top pick, 2 secondary, 3 low. Reddit Ads ML Efficiency is a platform/infra ML role with $230K-$322K comp. 2 new Anthropic Staff+ SWE security roles. Report: [scout-2026-10-06.md](../reports/scout-2026-10-06.md)
