@@ -39429,3 +39429,12 @@ https://www.samsara.com/company/careers/roles/8250423?gh_jid=8250423	2026-10-05
 2026-10-05	https://boards-api.greenhouse.io/v1/boards/wayve/jobs	Wayve	API scan	error: HTTP 404 (was OK 2026-10-01 — possible ATS migration)	scout-quickcheck-2026-10-05
 2026-10-05	https://boards-api.greenhouse.io/v1/boards/blackforestlabs/jobs	Black Forest Labs	API scan	error: HTTP 404 (ongoing since 2026-09-17)	scout-quickcheck-2026-10-05
 2026-10-05	https://boards-api.greenhouse.io/v1/boards/clickhouse/jobs	Clickhouse	API scan	error: HTTP 404 (ongoing since 2026-10-01)	scout-quickcheck-2026-10-05
+https://job-boards.greenhouse.io/reddit/jobs/8247280	2026-10-06	scout-2026-10-06	Staff ML Engineer, Ads ML Efficiency	Reddit	new-match-4.2
+https://job-boards.greenhouse.io/reddit/jobs/8201359	2026-10-06	scout-2026-10-06	Senior Staff ML Engineer, Ads Ranking	Reddit	new-match-3.5
+https://job-boards.greenhouse.io/anthropic/jobs/5440475008	2026-10-06	scout-2026-10-06	Staff+ SWE, Secure Frameworks	Anthropic	new-match-3.5
+https://job-boards.greenhouse.io/reddit/jobs/8250389	2026-10-06	scout-2026-10-06	Staff ML Engineer, Ads Creative Effectiveness	Reddit	new-3.0
+https://job-boards.greenhouse.io/reddit/jobs/8187652	2026-10-06	scout-2026-10-06	Staff ML Engineer, App Ads Modeling	Reddit	new-3.0
+https://job-boards.greenhouse.io/anthropic/jobs/5440477008	2026-10-06	scout-2026-10-06	Staff+ SWE Security, Labs	Anthropic	new-2.8
+https://job-boards.greenhouse.io/anthropic/jobs/5443900008	2026-10-06	scout-2026-10-06	US Public Sector Compliance Security GRC	Anthropic	filtered-not-swe
+https://job-boards.greenhouse.io/anthropic/jobs/5441832008	2026-10-06	scout-2026-10-06	(seen 10/02)	Anthropic	dupe
+https://www.samsara.com/company/careers/roles/8141959?gh_jid=8141959	2026-10-06	scout-2026-10-06	Data Engineer (mid-level $99K-$167K)	Samsara	filtered-comp

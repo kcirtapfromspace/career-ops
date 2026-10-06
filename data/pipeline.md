@@ -1,6 +1,21 @@
 # Pipeline — Pending Offers
 
 
+## 2026-10-06 — Scout Scan
+
+> Scan: 25+ companies (Greenhouse API + WebSearch). 6 new matches — 1 top pick, 2 secondary, 3 low. Reddit Ads ML Efficiency is a platform/infra ML role with $230K-$322K comp. 2 new Anthropic Staff+ SWE security roles. Report: [scout-2026-10-06.md](../reports/scout-2026-10-06.md)
+
+#### Top Picks (4.0+ — Apply Soon)
+
+- [ ] [Reddit — Staff ML Engineer, Ads ML Efficiency](https://job-boards.greenhouse.io/reddit/jobs/8247280) | Remote - US | $230K–$322K | ★★★★ 4.2/5 — ML infrastructure platform role (efficiency tools + GPU optimization for ALL Reddit ML), Python + Go/Rust, distributed systems; different team than ML Systems Engineer already in pipeline; comp exceeds target
+
+#### Secondary (3.5–3.9 — Review Before Applying)
+
+- [ ] [Reddit — Senior Staff ML Engineer, Ads Ranking](https://job-boards.greenhouse.io/reddit/jobs/8201359) | Remote - US | ~$270K+ (IC6) | ★★★ 3.5/5 — Senior Staff level with excellent comp; stretch: Ads Ranking needs RecSys specialization Patrick doesn't lead with
+- [ ] [Anthropic — Staff+ Software Security Engineer, Secure Frameworks](https://job-boards.greenhouse.io/anthropic/jobs/5440475008) | SF / NYC / Seattle (hybrid) | $320K–$485K | ★★★ 3.5/5 — NEW 10/05; Go/Rust/K8s/mTLS/zero-trust; Anthropic dream co; stretch: deep OAuth2/PKI/cryptography specialization
+
+---
+
 ## 2026-10-05 — Morning Scout Scan
 
 > Scan: 45 companies (Greenhouse API + WebSearch). 2 new matches at Checkr (Denver hybrid). No top picks today. Report: [scout-2026-10-05.md](../reports/scout-2026-10-05.md)
