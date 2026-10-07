@@ -11624,3 +11624,13 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - [ ] https://www.samsara.com/company/careers/roles/8141959?gh_jid=8141959 <!-- Samsara: Data Engineer (Remote - US) | found 2026-10-05 -->
 - [ ] https://www.samsara.com/company/careers/roles/8250423?gh_jid=8250423 <!-- Samsara: Data Engineer (Remote - Canada) | found 2026-10-05 -->
 - [ ] https://job-boards.greenhouse.io/chainguard/jobs/4697216006 <!-- Chainguard: Senior Software Engineer (Customer Platform) (US Remote) | found 2026-10-06 quickcheck -->
+
+<!-- Scout Scan: 2026-10-07 — 8 new matches (Greenhouse API delta + Temporal direct) -->
+- [ ] **Temporal** — Senior Platform Architect - West | Remote US | https://temporal.io/careers/053cfe55-570a-425f-b44e-e64b2c9b28f9
+- [ ] **Temporal** — Senior Manager, Solutions Architecture - New Logo | Remote US | https://temporal.io/careers/b4817f72-9afc-431b-919d-aea70f6cbf4c
+- [ ] **Temporal** — Director, Global Developer Success | Remote US | https://temporal.io/careers/25568018-4545-448c-acef-1ac481e67d5d
+- [ ] **Temporal** — Senior Developer Success Engineer - East | Remote US | https://temporal.io/careers/a58b6b5f-204f-454d-9cd5-e8b2acc44b65
+- [ ] **Anthropic** — Applied AI Engineer, Beneficial Deployments (Life Sciences) | London, UK ⚠️ | https://job-boards.greenhouse.io/anthropic/jobs/5445760008
+- [ ] **Intercom** — Senior Forward Deployed Data Scientist | Dublin/London ⚠️ EU | https://job-boards.greenhouse.io/intercom/jobs/8245700
+- [ ] **GetYourGuide** — Senior Site Reliability Engineer, Infrastructure | Zurich ⚠️ EU | https://job-boards.greenhouse.io/getyourguide/jobs/8261024
+- [ ] **HelloFresh** — Senior Data Scientist, Growth | Berlin ⚠️ EU | https://careers.hellofresh.com/global/en/job/8232751?gh_jid=8232751
