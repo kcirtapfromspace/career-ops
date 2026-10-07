@@ -11634,3 +11634,8 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - [ ] **Intercom** — Senior Forward Deployed Data Scientist | Dublin/London ⚠️ EU | https://job-boards.greenhouse.io/intercom/jobs/8245700
 - [ ] **GetYourGuide** — Senior Site Reliability Engineer, Infrastructure | Zurich ⚠️ EU | https://job-boards.greenhouse.io/getyourguide/jobs/8261024
 - [ ] **HelloFresh** — Senior Data Scientist, Growth | Berlin ⚠️ EU | https://careers.hellofresh.com/global/en/job/8232751?gh_jid=8232751
+
+<!-- Scout Quickcheck: 2026-10-07 — 3 new US matches (Greenhouse API only) -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5445625008 <!-- Anthropic: IT Systems Engineer, Client Platform Engineer, macOS (SF | Seattle | Boston | NYC | DC) | found 2026-10-07 quickcheck ⚠️ likely IT/endpoint role -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5196570007?gh_jid=5196570007 <!-- Anduril: Staff Software Engineer, Stateful Systems (Seattle, WA) | found 2026-10-07 quickcheck -->
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5259797007 <!-- True Anomaly: Software Engineer, Missile Defense Simulation (II - Principal) (Denver, CO or Long Beach, CA) | found 2026-10-07 quickcheck -->
