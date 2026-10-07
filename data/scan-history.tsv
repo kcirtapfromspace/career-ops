@@ -39473,3 +39473,12 @@ https://job-boards.greenhouse.io/chainguard/jobs/4697216006	2026-10-06	scout-qui
 2026-10-07	True Anomaly	https://job-boards.greenhouse.io/trueanomalyinc/jobs/5259797007	Software Engineer, Missile Defense Simulation (II - Principal)	Denver CO / Long Beach CA	quickcheck-2026-10-07	new
 2026-10-07	Chainguard	https://job-boards.greenhouse.io/chainguard/jobs/4719574006	Senior Software Engineer (Customer Platform)	Canada - Remote	quickcheck-2026-10-07	filtered-location-canada
 2026-10-07	(bulk-greenhouse)	https://boards-api.greenhouse.io/v1/boards/*/jobs	41 companies scanned	4 raw matches found (3 US accepted)	quickcheck-2026-10-07	bulk_api_scan
+2026-10-07	Anthropic	https://job-boards.greenhouse.io/anthropic/jobs/5445410008	Applied AI Engineer, Public Sector	Washington, DC	quickcheck2-2026-10-07	new-dc-only
+2026-10-07	Anthropic	https://job-boards.greenhouse.io/anthropic/jobs/5447118008	Staff+ Software Engineer, Research Systems Engineering	Remote-Friendly (SF/Seattle/NYC)	quickcheck2-2026-10-07	new-us-remote
+2026-10-07	Anduril	https://job-boards.greenhouse.io/andurilindustries/jobs/5260387007	Mission Software Engineer, Mission Systems, Cyber Security	Costa Mesa, CA (on-site)	quickcheck2-2026-10-07	new-reloc-only
+2026-10-07	Anduril	https://job-boards.greenhouse.io/andurilindustries/jobs/5260431007	Mission Software Engineer, Mission Systems, Deployment and Infrastructure	Costa Mesa, CA (on-site)	quickcheck2-2026-10-07	new-reloc-only
+2026-10-07	Anduril	https://job-boards.greenhouse.io/andurilindustries/jobs/5260436007	Mission Software Engineer, Mission Systems, Networking	Costa Mesa, CA (on-site)	quickcheck2-2026-10-07	new-reloc-only
+2026-10-07	Anduril	https://job-boards.greenhouse.io/andurilindustries/jobs/5257727007	Senior Software Engineer (Rust), Intelligence Systems	Reston, VA (on-site)	quickcheck2-2026-10-07	new-reloc-only
+2026-10-07	Anduril	https://job-boards.greenhouse.io/andurilindustries/jobs/5260288007	Systems Engineering Manager, Mission Autonomy	Costa Mesa, CA / Washington, DC (on-site)	quickcheck2-2026-10-07	new-reloc-only
+2026-10-07	Nuro	https://job-boards.greenhouse.io/nuro/jobs/8230855	Software Engineer, Software Updates	Mountain View, CA (HQ on-site)	quickcheck2-2026-10-07	new-bay-area
+2026-10-07	(bulk-greenhouse)	https://boards-api.greenhouse.io/v1/boards/*/jobs	37 companies scanned	8 raw new matches (1 US-remote + 1 bay-area + 1 dc + 5 reloc-only)	quickcheck2-2026-10-07	bulk_api_scan

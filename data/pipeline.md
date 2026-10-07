@@ -11639,3 +11639,14 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5445625008 <!-- Anthropic: IT Systems Engineer, Client Platform Engineer, macOS (SF | Seattle | Boston | NYC | DC) | found 2026-10-07 quickcheck ⚠️ likely IT/endpoint role -->
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5196570007?gh_jid=5196570007 <!-- Anduril: Staff Software Engineer, Stateful Systems (Seattle, WA) | found 2026-10-07 quickcheck -->
 - [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5259797007 <!-- True Anomaly: Software Engineer, Missile Defense Simulation (II - Principal) (Denver, CO or Long Beach, CA) | found 2026-10-07 quickcheck -->
+
+<!-- Scout Quickcheck #2: 2026-10-07 — 8 new matches (37 companies, Greenhouse API) -->
+<!-- 1 US-remote | 1 Bay Area | 1 DC-only | 5 on-site relocation -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5447118008 <!-- Anthropic: Staff+ Software Engineer, Research Systems Engineering (Remote-Friendly: SF/Seattle/NYC) | found 2026-10-07 quickcheck2 ★★ strong fit -->
+- [ ] https://job-boards.greenhouse.io/nuro/jobs/8230855 <!-- Nuro: Software Engineer, Software Updates (Mountain View, CA HQ) | found 2026-10-07 quickcheck2 — Bay Area on-site -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5445410008 <!-- Anthropic: Applied AI Engineer, Public Sector (Washington, DC) | found 2026-10-07 quickcheck2 ⚠️ DC-only, public sector/gov -->
+- [ ] https://job-boards.greenhouse.io/andurilindustries/jobs/5260288007 <!-- Anduril: Systems Engineering Manager, Mission Autonomy (Costa Mesa, CA / DC — on-site) | found 2026-10-07 quickcheck2 ⚠️ relocation required — dream company -->
+- [ ] https://job-boards.greenhouse.io/andurilindustries/jobs/5260431007 <!-- Anduril: Mission SWE, Mission Systems, Deployment & Infrastructure (Costa Mesa, CA — on-site) | found 2026-10-07 quickcheck2 ⚠️ relocation required — dream company -->
+- [ ] https://job-boards.greenhouse.io/andurilindustries/jobs/5257727007 <!-- Anduril: Senior Software Engineer (Rust), Intelligence Systems (Reston, VA — on-site) | found 2026-10-07 quickcheck2 ⚠️ relocation required — dream company -->
+- [ ] https://job-boards.greenhouse.io/andurilindustries/jobs/5260387007 <!-- Anduril: Mission SWE, Mission Systems, Cyber Security (Costa Mesa, CA — on-site) | found 2026-10-07 quickcheck2 ⚠️ relocation required -->
+- [ ] https://job-boards.greenhouse.io/andurilindustries/jobs/5260436007 <!-- Anduril: Mission SWE, Mission Systems, Networking (Costa Mesa, CA — on-site) | found 2026-10-07 quickcheck2 ⚠️ relocation required -->
