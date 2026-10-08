@@ -39482,3 +39482,8 @@ https://job-boards.greenhouse.io/chainguard/jobs/4697216006	2026-10-06	scout-qui
 2026-10-07	Anduril	https://job-boards.greenhouse.io/andurilindustries/jobs/5260288007	Systems Engineering Manager, Mission Autonomy	Costa Mesa, CA / Washington, DC (on-site)	quickcheck2-2026-10-07	new-reloc-only
 2026-10-07	Nuro	https://job-boards.greenhouse.io/nuro/jobs/8230855	Software Engineer, Software Updates	Mountain View, CA (HQ on-site)	quickcheck2-2026-10-07	new-bay-area
 2026-10-07	(bulk-greenhouse)	https://boards-api.greenhouse.io/v1/boards/*/jobs	37 companies scanned	8 raw new matches (1 US-remote + 1 bay-area + 1 dc + 5 reloc-only)	quickcheck2-2026-10-07	bulk_api_scan
+2026-10-08	True Anomaly	https://job-boards.greenhouse.io/trueanomalyinc/jobs/5257753007	Senior Manager, Digital Engineering	Denver, CO / Long Beach, CA	scout-2026-10-08	new-denver-top-pick
+2026-10-08	Reddit	https://job-boards.greenhouse.io/reddit/jobs/8256326	Engineering Manager, Knowledge Graph Platform	Remote - United States	scout-2026-10-08	new-remote-top-pick
+2026-10-08	Anthropic	https://job-boards.greenhouse.io/anthropic/jobs/5440427008	Software Engineer, Sandboxing	San Francisco, CA / New York, NY	scout-2026-10-08	new-sf-secondary
+2026-10-08	Anthropic	https://job-boards.greenhouse.io/anthropic/jobs/5446657008	Applied AI Architect, Beneficial Deployments (Life Sciences)	San Francisco, CA / New York, NY	scout-2026-10-08	new-sf-low-priority
+2026-10-08	(bulk-greenhouse+websearch)	https://boards-api.greenhouse.io/v1/boards/*/jobs	25+ companies scanned	2 top picks + 2 secondary; 4 confirmed new roles total	scout-2026-10-08	bulk_api_scan

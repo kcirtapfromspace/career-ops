@@ -1,6 +1,21 @@
 # Pipeline — Pending Offers
 
 
+## 2026-10-08 — Morning Scout Scan
+
+> Scan: 25+ companies (Greenhouse API + WebSearch). 2 new top picks — 1 Denver-local Senior Manager (True Anomaly) + 1 Remote EM (Reddit). Report: [scout-2026-10-08.md](../reports/scout-2026-10-08.md)
+
+#### Top Picks (4.0+ — Apply Soon)
+
+- [ ] [True Anomaly — Senior Manager, Digital Engineering](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5257753007) | Denver, CO | $175K–$255K + equity | ★★★★ 4.3/5 — NEW 10/08; Denver-local; building "digital thread" team from scratch (PLM/MES/ERP/workflow automation); hands-on Go/Python; ITAR + clearance eligibility required; 5+ yrs EM exp required
+- [ ] [Reddit — Engineering Manager, Knowledge Graph Platform](https://job-boards.greenhouse.io/reddit/jobs/8256326) | Remote - US | $217K–$303,900 + RSUs | ★★★★ 4.2/5 — NEW 10/08; Remote EM; foundational AI/data platform (entity graph, semantic search); comp exceeds target; knowledge graph specialization is stretch
+
+#### Secondary (3.5–3.9 — Review Before Applying)
+
+- [ ] [Anthropic — Software Engineer, Sandboxing](https://job-boards.greenhouse.io/anthropic/jobs/5440427008) | SF / NYC (hybrid) | ★★★ 3.5/5 — NEW 10/08; not Staff, not remote; Go/Rust security isolation; Anthropic dream company
+
+---
+
 ## 2026-10-06 — Quick-Check Scout (Greenhouse API)
 
 > Scan: 40 companies (Greenhouse API only). 18 raw matches → 5 after location/title filter. 3 new True Anomaly Digital Engineering roles (Denver) + new Anthropic Staff Applied AI role (SF/Seattle) + Glean Tech Lead (SF). Report: [scout-quickcheck-2026-10-06.md](../reports/scout-quickcheck-2026-10-06.md)
