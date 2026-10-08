@@ -11665,3 +11665,15 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - [ ] https://job-boards.greenhouse.io/andurilindustries/jobs/5257727007 <!-- Anduril: Senior Software Engineer (Rust), Intelligence Systems (Reston, VA — on-site) | found 2026-10-07 quickcheck2 ⚠️ relocation required — dream company -->
 - [ ] https://job-boards.greenhouse.io/andurilindustries/jobs/5260387007 <!-- Anduril: Mission SWE, Mission Systems, Cyber Security (Costa Mesa, CA — on-site) | found 2026-10-07 quickcheck2 ⚠️ relocation required -->
 - [ ] https://job-boards.greenhouse.io/andurilindustries/jobs/5260436007 <!-- Anduril: Mission SWE, Mission Systems, Networking (Costa Mesa, CA — on-site) | found 2026-10-07 quickcheck2 ⚠️ relocation required -->
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5442934008 <!-- Anthropic: Manager, Applied AI Engineering (Megas)  (San Francisco, CA | New York City, NY; San Francisco, CA | Seattle, WA) | found 2026-10-08 -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5444766008 <!-- Anthropic: Software Engineer, Staff: Applied AI, Science & Engineering (New York City, NY; San Francisco, CA; Seattle, WA) | found 2026-10-08 -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5139910008 <!-- Anthropic: Staff+ Software Engineer, Observability (San Francisco, CA | New York City, NY | Seattle, WA) | found 2026-10-08 -->
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5257765007 <!-- True Anomaly: Senior Software Engineer, Digital Engineering  (Denver, CO or Long Beach, CA) | found 2026-10-08 -->
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5257769007 <!-- True Anomaly: Software Engineer I to III, Digital Engineering  (Denver, CO or Long Beach, CA ) | found 2026-10-08 -->
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5257771007 <!-- True Anomaly: Staff Software Engineer, Digital Engineering  (Denver, CO or Long Beach, CA ) | found 2026-10-08 -->
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4740921005 <!-- Glean: Software Engineer, Tech Lead, Admin Console (San Francisco, CA) | found 2026-10-08 -->
+- [ ] https://www.samsara.com/company/careers/roles/8250423?gh_jid=8250423 <!-- Samsara: Data Engineer (Remote - Canada) | found 2026-10-08 -->
+- [ ] https://www.samsara.com/company/careers/roles/8141959?gh_jid=8141959 <!-- Samsara: Data Engineer (Remote - US) | found 2026-10-08 -->
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4697216006 <!-- Chainguard: Senior Software Engineer (Customer Platform)  (United States - Remote) | found 2026-10-08 -->
+- [ ] https://www.zipline.com/open-roles/8017330003?gh_jid=8017330003 <!-- Zipline: Staff Software Engineer – Integrations Platform (South San Francisco, California, USA) | found 2026-10-08 -->
