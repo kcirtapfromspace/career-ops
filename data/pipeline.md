@@ -1,6 +1,31 @@
 # Pipeline — Pending Offers
 
 
+<!-- Scout Quickcheck: 2026-10-09 — 12 pipeline-worthy new matches (Greenhouse API only, 40 companies) -->
+<!-- Errors: Black Forest Labs, Wayve, Clickhouse (HTTP 404) -->
+
+## 2026-10-09 — Quickcheck (Greenhouse API)
+
+### ★★ Top Picks
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5448481008 <!-- Anthropic: Data Engineer, Product (SF | NYC | Seattle) | found 2026-10-09 quickcheck -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5030386007?gh_jid=5030386007 <!-- Anduril: DevOps Engineer (Fort Collins, CO — Denver metro) | found 2026-10-09 quickcheck ★★ dream company + Colorado -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5261398007?gh_jid=5261398007 <!-- Anduril: Senior AI Infrastructure Engineer, Physical Infrastructure (Seattle, WA) | found 2026-10-09 quickcheck ★★ dream company -->
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4715303006 <!-- Chainguard: Senior Manager, Engineering — Container Product (US Remote) | found 2026-10-09 quickcheck ★★ remote leadership -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8862144002 <!-- Databricks: Sr. Manager, Engineering - AI/BI (Mountain View / SF) | found 2026-10-09 quickcheck ★★ -->
+- [ ] https://www.fivetran.com/careers/job?gh_jid=8016899003 <!-- Fivetran: Engineering Manager, Metadata (dbt / Austin) | found 2026-10-09 quickcheck ★★ orchestration domain -->
+
+### ★ Secondary
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5369710008 <!-- Anthropic: Staff+ Fullstack Software Engineer, Safeguards Engineering (SF | NYC) | found 2026-10-09 quickcheck -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5256306007?gh_jid=5256306007 <!-- Anduril: DevOps Engineer, Radar (Fort Collins, CO) | found 2026-10-09 quickcheck ★ Colorado -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5244797007?gh_jid=5244797007 <!-- Anduril: Senior Software Engineer, Battlespace Awareness (Broomfield / Fort Collins, CO) | found 2026-10-09 quickcheck -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5244798007?gh_jid=5244798007 <!-- Anduril: Senior Software Engineer, Target Tracking (Broomfield / Fort Collins, CO) | found 2026-10-09 quickcheck -->
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6208037004 <!-- Vercel: Machine Learning Engineer, Trust & Safety (Hybrid SF / NYC) | found 2026-10-09 quickcheck -->
+- [ ] https://www.fivetran.com/careers/job?gh_jid=8017186003 <!-- Fivetran: Senior Software Engineer - Orchestration (dbt / Austin) | found 2026-10-09 quickcheck -->
+
+---
+
 ## 2026-10-09 — Morning Scout Scan
 
 <!-- Full scan (Greenhouse API + WebSearch) — 3 new US Remote EM matches from Airbnb (dream company) -->
