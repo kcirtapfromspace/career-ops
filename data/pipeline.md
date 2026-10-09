@@ -11709,3 +11709,6 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - [ ] https://www.samsara.com/company/careers/roles/8141959?gh_jid=8141959 <!-- Samsara: Data Engineer (Remote - US) | found 2026-10-08 -->
 - [ ] https://job-boards.greenhouse.io/chainguard/jobs/4697216006 <!-- Chainguard: Senior Software Engineer (Customer Platform)  (United States - Remote) | found 2026-10-08 -->
 - [ ] https://www.zipline.com/open-roles/8017330003?gh_jid=8017330003 <!-- Zipline: Staff Software Engineer – Integrations Platform (South San Francisco, California, USA) | found 2026-10-08 -->
+
+<!-- Scout Quickcheck #3: 2026-10-09 — 1 new match (40 companies, Greenhouse API; previous 2 runs today already processed 12 matches) -->
+- [ ] https://www.samsara.com/company/careers/roles/8267637?gh_jid=8267637 <!-- Samsara: Staff Software Engineer, Maps Services (Remote - US) | found 2026-10-09 quickcheck3 ★ remote-US staff SWE -->
