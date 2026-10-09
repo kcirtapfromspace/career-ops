@@ -39498,3 +39498,31 @@ https://job-boards.greenhouse.io/chainguard/jobs/4697216006	2026-10-06	scout-qui
 2026-10-08	Samsara	https://www.samsara.com/company/careers/roles/8141959?gh_jid=8141959	Data Engineer	Remote - US	greenhouse_api
 2026-10-08	Chainguard	https://job-boards.greenhouse.io/chainguard/jobs/4697216006	Senior Software Engineer (Customer Platform) 	United States - Remote	greenhouse_api
 2026-10-08	Zipline	https://www.zipline.com/open-roles/8017330003?gh_jid=8017330003	Staff Software Engineer – Integrations Platform	South San Francisco, California, USA	greenhouse_api
+2026-10-09	Airbnb	https://careers.airbnb.com/positions/7225915	Engineering Manager, Data Frameworks	Remote US	websearch	added
+2026-10-09	Airbnb	https://careers.airbnb.com/positions/6602256	Data Engineering Manager, Community Support Platform	Remote US	websearch	added
+2026-10-09	Airbnb	https://careers.airbnb.com/positions/6628190	Engineering Manager, Messaging Platform	Remote US	websearch	added
+2026-10-09	Anthropic	https://job-boards.greenhouse.io/anthropic/jobs/5445625008	IT Systems Engineer Client Platform macOS	SF/Seattle/Boston/NYC/DC	greenhouse-api	skipped_dup
+2026-10-09	Anduril	https://job-boards.greenhouse.io/andurilindustries/jobs/5226940007	Algorithm Developer Tracking Systems	Broomfield CO	greenhouse-api	skipped_dup
+2026-10-09	Anduril	https://job-boards.greenhouse.io/andurilindustries/jobs/5226941007	Algorithm Engineer Tracking Systems	Fort Collins CO	greenhouse-api	skipped_dup
+2026-10-09	Anduril	https://job-boards.greenhouse.io/andurilindustries/jobs/5219383007	Agentic AI Engineer	Costa Mesa CA	greenhouse-api	skipped_dup
+2026-10-09	Anduril	https://job-boards.greenhouse.io/andurilindustries/jobs/5197253007	Applied LLM Systems Engineer	Costa Mesa CA	greenhouse-api	skipped_dup
+2026-10-09	Glean	https://job-boards.greenhouse.io/gleanwork/jobs/4739975005	Senior Data Engineer Internal Data Platform Analytics	Bangalore India	greenhouse-api	skipped_location
+2026-10-09	Glean	https://job-boards.greenhouse.io/gleanwork/jobs/4740921005	Software Engineer Tech Lead Admin Console	San Francisco CA	greenhouse-api	skipped_dup
+2026-10-09	Glean	https://job-boards.greenhouse.io/gleanwork/jobs/4501783005	Software Engineer AI/ML Infrastructure	Mountain View CA	greenhouse-api	skipped_location
+2026-10-09	Vercel	https://job-boards.greenhouse.io/vercel/jobs/6188400004	Software Engineer Data Platform	Remote US	greenhouse-api	skipped_dup
+2026-10-09	Vercel	https://job-boards.greenhouse.io/vercel/jobs/5430088004	Software Engineer Backend	Remote US	greenhouse-api	skipped_dup
+2026-10-09	Vercel	https://job-boards.greenhouse.io/vercel/jobs/5701765004	Engineering Manager CDN	Hybrid San Francisco	greenhouse-api	skipped_dup
+2026-10-09	Arize AI	https://job-boards.greenhouse.io/arizeai/jobs/5396396004	Senior AI Product Engineer Backend	Remote US	greenhouse-api	skipped_dup
+2026-10-09	Arize AI	https://job-boards.greenhouse.io/arizeai/jobs/5396420004	Senior AI Product Engineer Fullstack	Remote US	greenhouse-api	skipped_dup
+2026-10-09	Arize AI	https://job-boards.greenhouse.io/arizeai/jobs/6203635004	DevOps Engineer	Remote US	greenhouse-api	skipped_dup
+2026-10-09	Hume AI	https://job-boards.greenhouse.io/humeai/jobs/5064248008	Senior Platform Engineer	New York NY	greenhouse-api	skipped_dup
+2026-10-09	Hume AI	https://job-boards.greenhouse.io/humeai/jobs/4816209008	Senior Software Engineer Backend ML	New York NY	greenhouse-api	skipped_dup
+2026-10-09	Hume AI	https://job-boards.greenhouse.io/humeai/jobs/4003488008	Senior Staff AI Research Engineer	NYC San Jose Remote	greenhouse-api	skipped_dup
+2026-10-09	Intercom	https://job-boards.greenhouse.io/intercom/jobs/8132076	Staff Data Engineer GTM	Dublin London	greenhouse-api	skipped_location
+2026-10-09	Temporal	https://job-boards.greenhouse.io/temporaltechnologies/jobs/5164459007	Senior Engineering Manager Compute	United States	greenhouse-api	skipped_dup
+2026-10-09	Netflix	https://jobs.netflix.com	Netflix websearch	all_seen	websearch	all_seen
+2026-10-09	OpenAI	https://openai.com/careers	OpenAI websearch	all_seen	websearch	all_seen
+2026-10-09	Databricks	https://job-boards.greenhouse.io/databricks/jobs/8578093002	Engineering Manager Data Visualization Platform	Bellevue WA	greenhouse-api	skipped_dup
+2026-10-09	Databricks	https://job-boards.greenhouse.io/databricks/jobs/8603361002	Engineering Manager Serverless Compute Platform	Bellevue WA	greenhouse-api	skipped_dup
+2026-10-09	Databricks	https://job-boards.greenhouse.io/databricks/jobs/8013809002	Engineering Manager UI Platform	Seattle WA	greenhouse-api	skipped_dup
+2026-10-09	Databricks	https://job-boards.greenhouse.io/databricks/jobs/8546367002	AI Engineer Forward Deployed Engineering	United States	greenhouse-api	skipped_dup

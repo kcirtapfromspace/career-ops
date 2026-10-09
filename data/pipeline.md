@@ -1,6 +1,13 @@
 # Pipeline — Pending Offers
 
 
+## 2026-10-09 — Morning Scout Scan
+
+<!-- Full scan (Greenhouse API + WebSearch) — 3 new US Remote EM matches from Airbnb (dream company) -->
+- [ ] https://careers.airbnb.com/positions/7225915 <!-- Airbnb: Engineering Manager, Data Frameworks (Remote US) | $204K-$255K | score 4.4/5 ★★ data frameworks platform team -->
+- [ ] https://careers.airbnb.com/positions/6602256 <!-- Airbnb: Data Engineering Manager, Community Support Platform (Remote US) | $204K-$259K | score 4.1/5 -->
+- [ ] https://careers.airbnb.com/positions/6628190 <!-- Airbnb: Engineering Manager, Messaging Platform (Remote US) | $204K-$259K | score 3.8/5 ⚠️ one aggregator says expired -->
+
 ## 2026-10-08 — Morning Scout Scan
 
 > Scan: 25+ companies (Greenhouse API + WebSearch). 2 new top picks — 1 Denver-local Senior Manager (True Anomaly) + 1 Remote EM (Reddit). Report: [scout-2026-10-08.md](../reports/scout-2026-10-08.md)
