@@ -1,6 +1,7 @@
 # Pipeline — Pending Offers
 
 
+<!-- Scout Quickcheck: 2026-10-10 — 0 new matches (30 companies scanned, all duped against history) -->
 <!-- Scout Quickcheck: 2026-10-09 — 12 pipeline-worthy new matches (Greenhouse API only, 40 companies) -->
 <!-- Errors: Black Forest Labs, Wayve, Clickhouse (HTTP 404) -->
 
