@@ -11713,3 +11713,11 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 
 <!-- Scout Quickcheck #3: 2026-10-09 — 1 new match (40 companies, Greenhouse API; previous 2 runs today already processed 12 matches) -->
 - [ ] https://www.samsara.com/company/careers/roles/8267637?gh_jid=8267637 <!-- Samsara: Staff Software Engineer, Maps Services (Remote - US) | found 2026-10-09 quickcheck3 ★ remote-US staff SWE -->
+
+<!-- Scout Quickcheck #4 (2026-10-10): 6 new matches (40 companies, Greenhouse API; 2nd run today) -->
+- [ ] https://job-boards.greenhouse.io/andurilindustries/jobs/5262099007 <!-- Anduril: Fielded Site Reliability Engineer (Waltham, MA — on-site) | found 2026-10-10 quickcheck4 ⚠️ relocation required — dream company -->
+- [ ] https://job-boards.greenhouse.io/andurilindustries/jobs/5261435007 <!-- Anduril: Manufacturing Test Engineering Manager (Irvine, CA — on-site) | found 2026-10-10 quickcheck4 ⚠️ relocation required — dream company -->
+- [ ] https://job-boards.greenhouse.io/andurilindustries/jobs/5261149007 <!-- Anduril: Mission Software Engineer (Waltham, MA — on-site) | found 2026-10-10 quickcheck4 ⚠️ relocation required — dream company -->
+- [ ] https://job-boards.greenhouse.io/andurilindustries/jobs/5261151007 <!-- Anduril: Senior Mission Software Engineer (Waltham, MA — on-site) | found 2026-10-10 quickcheck4 ⚠️ relocation required — dream company -->
+- [ ] https://job-boards.greenhouse.io/andurilindustries/jobs/5262100007 <!-- Anduril: Site Reliability Engineer (Waltham, MA — on-site) | found 2026-10-10 quickcheck4 ⚠️ relocation required — dream company -->
+- [ ] https://www.samsara.com/company/careers/roles/8256425?gh_jid=8256425 <!-- Samsara: Staff Product Operations Manager, Platform (Remote - US) | found 2026-10-10 quickcheck4 ★ remote-US -->
