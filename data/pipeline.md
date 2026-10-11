@@ -11588,3 +11588,67 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5442934008 <!-- Anthropic: Manager, Applied AI Engineering (Megas) (San Francisco, CA | New York City, NY; San Francisco, CA | Seattle, WA) | found 2026-10-05 -->
 - [ ] https://www.samsara.com/company/careers/roles/8141959?gh_jid=8141959 <!-- Samsara: Data Engineer (Remote - US) | found 2026-10-05 -->
 - [ ] https://www.samsara.com/company/careers/roles/8250423?gh_jid=8250423 <!-- Samsara: Data Engineer (Remote - Canada) | found 2026-10-05 -->
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4697216006 <!-- Chainguard: Senior Software Engineer (Customer Platform) (US Remote) | found 2026-10-06 quickcheck -->
+
+<!-- Scout Scan: 2026-10-07 — 8 new matches (Greenhouse API delta + Temporal direct) -->
+- [ ] **Temporal** — Senior Platform Architect - West | Remote US | https://temporal.io/careers/053cfe55-570a-425f-b44e-e64b2c9b28f9
+- [ ] **Temporal** — Senior Manager, Solutions Architecture - New Logo | Remote US | https://temporal.io/careers/b4817f72-9afc-431b-919d-aea70f6cbf4c
+- [ ] **Temporal** — Director, Global Developer Success | Remote US | https://temporal.io/careers/25568018-4545-448c-acef-1ac481e67d5d
+- [ ] **Temporal** — Senior Developer Success Engineer - East | Remote US | https://temporal.io/careers/a58b6b5f-204f-454d-9cd5-e8b2acc44b65
+- [ ] **Anthropic** — Applied AI Engineer, Beneficial Deployments (Life Sciences) | London, UK ⚠️ | https://job-boards.greenhouse.io/anthropic/jobs/5445760008
+- [ ] **Intercom** — Senior Forward Deployed Data Scientist | Dublin/London ⚠️ EU | https://job-boards.greenhouse.io/intercom/jobs/8245700
+- [ ] **GetYourGuide** — Senior Site Reliability Engineer, Infrastructure | Zurich ⚠️ EU | https://job-boards.greenhouse.io/getyourguide/jobs/8261024
+- [ ] **HelloFresh** — Senior Data Scientist, Growth | Berlin ⚠️ EU | https://careers.hellofresh.com/global/en/job/8232751?gh_jid=8232751
+
+<!-- Scout Quickcheck: 2026-10-07 — 3 new US matches (Greenhouse API only) -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5445625008 <!-- Anthropic: IT Systems Engineer, Client Platform Engineer, macOS (SF | Seattle | Boston | NYC | DC) | found 2026-10-07 quickcheck ⚠️ likely IT/endpoint role -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5196570007?gh_jid=5196570007 <!-- Anduril: Staff Software Engineer, Stateful Systems (Seattle, WA) | found 2026-10-07 quickcheck -->
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5259797007 <!-- True Anomaly: Software Engineer, Missile Defense Simulation (II - Principal) (Denver, CO or Long Beach, CA) | found 2026-10-07 quickcheck -->
+
+<!-- Scout Quickcheck #2: 2026-10-07 — 8 new matches (37 companies, Greenhouse API) -->
+<!-- 1 US-remote | 1 Bay Area | 1 DC-only | 5 on-site relocation -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5447118008 <!-- Anthropic: Staff+ Software Engineer, Research Systems Engineering (Remote-Friendly: SF/Seattle/NYC) | found 2026-10-07 quickcheck2 ★★ strong fit -->
+- [ ] https://job-boards.greenhouse.io/nuro/jobs/8230855 <!-- Nuro: Software Engineer, Software Updates (Mountain View, CA HQ) | found 2026-10-07 quickcheck2 — Bay Area on-site -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5445410008 <!-- Anthropic: Applied AI Engineer, Public Sector (Washington, DC) | found 2026-10-07 quickcheck2 ⚠️ DC-only, public sector/gov -->
+- [ ] https://job-boards.greenhouse.io/andurilindustries/jobs/5260288007 <!-- Anduril: Systems Engineering Manager, Mission Autonomy (Costa Mesa, CA / DC — on-site) | found 2026-10-07 quickcheck2 ⚠️ relocation required — dream company -->
+- [ ] https://job-boards.greenhouse.io/andurilindustries/jobs/5260431007 <!-- Anduril: Mission SWE, Mission Systems, Deployment & Infrastructure (Costa Mesa, CA — on-site) | found 2026-10-07 quickcheck2 ⚠️ relocation required — dream company -->
+- [ ] https://job-boards.greenhouse.io/andurilindustries/jobs/5257727007 <!-- Anduril: Senior Software Engineer (Rust), Intelligence Systems (Reston, VA — on-site) | found 2026-10-07 quickcheck2 ⚠️ relocation required — dream company -->
+- [ ] https://job-boards.greenhouse.io/andurilindustries/jobs/5260387007 <!-- Anduril: Mission SWE, Mission Systems, Cyber Security (Costa Mesa, CA — on-site) | found 2026-10-07 quickcheck2 ⚠️ relocation required -->
+- [ ] https://job-boards.greenhouse.io/andurilindustries/jobs/5260436007 <!-- Anduril: Mission SWE, Mission Systems, Networking (Costa Mesa, CA — on-site) | found 2026-10-07 quickcheck2 ⚠️ relocation required -->
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5442934008 <!-- Anthropic: Manager, Applied AI Engineering (Megas)  (San Francisco, CA | New York City, NY; San Francisco, CA | Seattle, WA) | found 2026-10-08 -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5444766008 <!-- Anthropic: Software Engineer, Staff: Applied AI, Science & Engineering (New York City, NY; San Francisco, CA; Seattle, WA) | found 2026-10-08 -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5139910008 <!-- Anthropic: Staff+ Software Engineer, Observability (San Francisco, CA | New York City, NY | Seattle, WA) | found 2026-10-08 -->
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5257765007 <!-- True Anomaly: Senior Software Engineer, Digital Engineering  (Denver, CO or Long Beach, CA) | found 2026-10-08 -->
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5257769007 <!-- True Anomaly: Software Engineer I to III, Digital Engineering  (Denver, CO or Long Beach, CA ) | found 2026-10-08 -->
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5257771007 <!-- True Anomaly: Staff Software Engineer, Digital Engineering  (Denver, CO or Long Beach, CA ) | found 2026-10-08 -->
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4740921005 <!-- Glean: Software Engineer, Tech Lead, Admin Console (San Francisco, CA) | found 2026-10-08 -->
+- [ ] https://www.samsara.com/company/careers/roles/8250423?gh_jid=8250423 <!-- Samsara: Data Engineer (Remote - Canada) | found 2026-10-08 -->
+- [ ] https://www.samsara.com/company/careers/roles/8141959?gh_jid=8141959 <!-- Samsara: Data Engineer (Remote - US) | found 2026-10-08 -->
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4697216006 <!-- Chainguard: Senior Software Engineer (Customer Platform)  (United States - Remote) | found 2026-10-08 -->
+- [ ] https://www.zipline.com/open-roles/8017330003?gh_jid=8017330003 <!-- Zipline: Staff Software Engineer – Integrations Platform (South San Francisco, California, USA) | found 2026-10-08 -->
+
+<!-- Scout Quickcheck #3: 2026-10-09 — 1 new match (40 companies, Greenhouse API; previous 2 runs today already processed 12 matches) -->
+- [ ] https://www.samsara.com/company/careers/roles/8267637?gh_jid=8267637 <!-- Samsara: Staff Software Engineer, Maps Services (Remote - US) | found 2026-10-09 quickcheck3 ★ remote-US staff SWE -->
+
+<!-- Scout Quickcheck #4 (2026-10-10): 6 new matches (40 companies, Greenhouse API; 2nd run today) -->
+- [ ] https://job-boards.greenhouse.io/andurilindustries/jobs/5262099007 <!-- Anduril: Fielded Site Reliability Engineer (Waltham, MA — on-site) | found 2026-10-10 quickcheck4 ⚠️ relocation required — dream company -->
+- [ ] https://job-boards.greenhouse.io/andurilindustries/jobs/5261435007 <!-- Anduril: Manufacturing Test Engineering Manager (Irvine, CA — on-site) | found 2026-10-10 quickcheck4 ⚠️ relocation required — dream company -->
+- [ ] https://job-boards.greenhouse.io/andurilindustries/jobs/5261149007 <!-- Anduril: Mission Software Engineer (Waltham, MA — on-site) | found 2026-10-10 quickcheck4 ⚠️ relocation required — dream company -->
+- [ ] https://job-boards.greenhouse.io/andurilindustries/jobs/5261151007 <!-- Anduril: Senior Mission Software Engineer (Waltham, MA — on-site) | found 2026-10-10 quickcheck4 ⚠️ relocation required — dream company -->
+- [ ] https://job-boards.greenhouse.io/andurilindustries/jobs/5262100007 <!-- Anduril: Site Reliability Engineer (Waltham, MA — on-site) | found 2026-10-10 quickcheck4 ⚠️ relocation required — dream company -->
+- [ ] https://www.samsara.com/company/careers/roles/8256425?gh_jid=8256425 <!-- Samsara: Staff Product Operations Manager, Platform (Remote - US) | found 2026-10-10 quickcheck4 ★ remote-US -->
+
+<!-- scout-quickcheck 2026-10-11 -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5262987007?gh_jid=5262987007 <!-- Anduril: Senior Front End Software Engineer, React (Arlington, Virginia, United States; Seattle, Washington, United States; Washington, District of Columbia, United States) -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5261122007?gh_jid=5261122007 <!-- Anduril: Senior Software Engineer, Strategic Defense  (Costa Mesa, California, United States; Huntsville, Alabama, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States; Washington, District of Columbia, United States) -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5260733007?gh_jid=5260733007 <!-- Anduril: Software Engineer, Strategic Defense (Costa Mesa, California, United States; Huntsville, Alabama, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States; Washington, District of Columbia, United States) -->
+- https://job-boards.eu.greenhouse.io/parloa/jobs/4842135101 <!-- Parloa: Staff Software Engineer (Berlin Office; Remotely in Germany) -->
+- https://job-boards.eu.greenhouse.io/speechmatics/jobs/5000695101 <!-- Speechmatics: Software Engineer  (Belgrade, Belgrade, Serbia) -->
+- https://job-boards.greenhouse.io/getyourguide/jobs/8266579 <!-- GetYourGuide: Engineering Manager, User Platform  (Berlin) -->
+- https://sumup.com/careers/positions/8874454002?gh_jid=8874454002 <!-- SumUp: Backend Engineer - Run & Grow (Sofia, Bulgaria) -->
+- https://sumup.com/careers/positions/8881640002?gh_jid=8881640002 <!-- SumUp: Senior Backend Engineer - Cards (Sofia, Bulgaria) -->
+- https://www.scandit.com/careers/job-description/?gh_jid=8264704 <!-- Scandit: Senior Machine Learning Engineer (Biometrics & Face Recognition) (Tampere) -->
+- https://www.scandit.com/careers/job-description/?gh_jid=7552679 <!-- Scandit: Senior Machine Learning Engineer (Biometrics & Face Recognition) (Zurich) -->
+- https://nuro.ai/careersitem?gh_jid=8230855 <!-- Nuro: Software Engineer, Software Updates (Mountain View, California (HQ)) -->
+- https://job-boards.greenhouse.io/planetlabs/jobs/8255417 <!-- Planet Labs:   Senior Software Engineer (Ljubljana, Slovenia) -->
