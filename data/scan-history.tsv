@@ -39571,3 +39571,32 @@ https://job-boards.greenhouse.io/chainguard/jobs/4697216006	2026-10-06	scout-qui
 2026-10-10	Anduril	https://job-boards.greenhouse.io/andurilindustries/jobs/5262100007	Site Reliability Engineer	Waltham, Massachusetts, United States	quickcheck4-2026-10-10	skipped-onsite-dream
 2026-10-10	Samsara	https://www.samsara.com/company/careers/roles/8256425?gh_jid=8256425	Staff Product Operations Manager, Platform	Remote - US	quickcheck4-2026-10-10	new-match
 2026-10-10	(quickcheck)	scout-quickcheck4-2026-10-10	40 companies scanned (Greenhouse API, 2nd run); 6 new pipeline entries (5 Anduril on-site dream, 1 Samsara remote-US)	6 new matches	quickcheck4-2026-10-10	bulk_api_scan
+https://job-boards.greenhouse.io/anthropic/jobs/5426135008	2026-10-11	greenhouse-api	Engineering Manager, Data Infrastructure	Anthropic	pipeline
+https://job-boards.greenhouse.io/anthropic/jobs/5297059008	2026-10-11	greenhouse-api	Engineering Manager, Research Data Platform	Anthropic	pipeline
+https://job-boards.greenhouse.io/anthropic/jobs/5411560008	2026-10-11	greenhouse-api	Engineering Manager, Inference Infrastructure	Anthropic	pipeline
+https://job-boards.greenhouse.io/anthropic/jobs/5411267008	2026-10-11	greenhouse-api	Engineering Manager, Scheduler and Fleet Efficiency	Anthropic	pipeline
+https://www.fivetran.com/careers/job?gh_jid=7823195003	2026-10-11	greenhouse-api	Engineering Manager, Metadata	Fivetran	pipeline
+https://job-boards.greenhouse.io/trueanomalyinc/jobs/5099702007	2026-10-11	greenhouse-api	Senior Manager, Infrastructure Engineering	True Anomaly	pipeline
+https://job-boards.greenhouse.io/trueanomalyinc/jobs/5142446007	2026-10-11	greenhouse-api	Engineering Manager, Ground Software	True Anomaly	pipeline
+https://job-boards.greenhouse.io/trueanomalyinc/jobs/5224053007	2026-10-11	greenhouse-api	Engineering Manager, Autonomy	True Anomaly	pipeline
+https://www.samsara.com/company/careers/roles/8148638?gh_jid=8148638	2026-10-11	greenhouse-api	Manager II, Software Engineering, Infrastructure	Samsara	pipeline
+https://job-boards.greenhouse.io/chainguard/jobs/4718566006	2026-10-11	greenhouse-api	Engineering Manager, AI CICD	Chainguard	pipeline
+https://job-boards.greenhouse.io/planetlabs/jobs/8106198	2026-10-11	greenhouse-api	Senior Site Reliability Engineer	Planet Labs	pipeline
+https://job-boards.greenhouse.io/chainguard/jobs/4713044006	2026-10-11	greenhouse-api	Staff Platform Database Engineer	Chainguard	pipeline
+https://www.samsara.com/company/careers/roles/7721193?gh_jid=7721193	2026-10-11	greenhouse-api	Lead Machine Learning Engineer - ML Infrastructure	Samsara	pipeline
+https://job-boards.greenhouse.io/vercel/jobs/6188400004	2026-10-11	greenhouse-api	Software Engineer, Data Platform	Vercel	pipeline
+https://job-boards.greenhouse.io/trueanomalyinc/jobs/5240091007	2026-10-11	greenhouse-api	Engineering Manager, Perception AI	True Anomaly	pipeline
+https://job-boards.greenhouse.io/trueanomalyinc/jobs/5220130007	2026-10-11	greenhouse-api	Principal Data Engineer	True Anomaly	pipeline
+https://job-boards.greenhouse.io/trueanomalyinc/jobs/5182446007	2026-10-11	greenhouse-api	Senior Platform Engineer, Infrastructure	True Anomaly	pipeline
+https://job-boards.greenhouse.io/trueanomalyinc/jobs/5166543007	2026-10-11	greenhouse-api	Senior Platform Engineer, AI	True Anomaly	pipeline
+https://www.fivetran.com/careers/job?gh_jid=8013525003	2026-10-11	greenhouse-api	Senior Manager, dbt Fusion	Fivetran	pipeline
+https://job-boards.greenhouse.io/chainguard/jobs/4712228006	2026-10-11	greenhouse-api	Staff Software Engineer, Sustaining Automation	Chainguard	pipeline
+https://www.fivetran.com/careers/job?gh_jid=7810467003	2026-10-11	greenhouse-api	Senior R&D Software Engineer, Fivetran AI	Fivetran	pipeline
+https://job-boards.greenhouse.io/anthropic/jobs/5364804008	2026-10-11	greenhouse-api	Machine Learning Infrastructure Engineer, Safeguards Research	Anthropic	pipeline
+https://job-boards.greenhouse.io/humeai/jobs/4003488008	2026-10-11	greenhouse-api	Senior/Staff AI Research Engineer	Hume AI	pipeline
+https://www.samsara.com/company/careers/roles/8141959?gh_jid=8141959	2026-10-11	greenhouse-api	Data Engineer	Samsara	pipeline
+https://job-boards.greenhouse.io/contentful/jobs/8233486	2026-10-11	greenhouse-api	Software Engineer, Applied AI Solutions	Contentful	pipeline
+https://job-boards.greenhouse.io/twilio/jobs/7299355	2026-10-11	websearch	Staff Data Engineer	Twilio	filtered-404-expired
+https://job-boards.greenhouse.io/apolloio/jobs/5476022004	2026-10-11	websearch	Staff Data Engineer	Apollo.io	filtered-404-expired
+https://boards-api.greenhouse.io/v1/boards/wayve/jobs	2026-10-11	greenhouse-api	(board)	Wayve	error-404
+https://boards-api.greenhouse.io/v1/boards/clickhouse/jobs	2026-10-11	greenhouse-api	(board)	ClickHouse	error-404
