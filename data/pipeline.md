@@ -1,6 +1,128 @@
 # Pipeline — Pending Offers
 
 
+<!-- Scout Scan: 2026-10-11 — 25 new matches (40 companies: Greenhouse API + WebSearch) -->
+<!-- Scout Quickcheck: 2026-10-10 — 0 new matches (30 companies scanned, all duped against history) -->
+<!-- Scout Quickcheck: 2026-10-09 — 12 pipeline-worthy new matches (Greenhouse API only, 40 companies) -->
+<!-- Errors: Black Forest Labs, Wayve, Clickhouse (HTTP 404) -->
+
+
+## 2026-10-11 — Full Scout Scan
+
+> Scan: 40 companies (Greenhouse API + WebSearch). 25 new matches — 4 Anthropic EM roles (dream company), 5 True Anomaly Denver, 3 Fivetran Denver, 3 Chainguard Remote, 2 Samsara Remote + more. Report: [scout-2026-10-11.md](../reports/scout-2026-10-11.md)
+
+### ★★ Top Picks
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5426135008 <!-- Anthropic: Engineering Manager, Data Infrastructure (SF | NYC) | score 4.5/5 — EM data infra at dream company; direct Patrick wheelhouse -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5297059008 <!-- Anthropic: Engineering Manager, Research Data Platform (SF | NYC) | score 4.4/5 — EM research data platform at dream company -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5411560008 <!-- Anthropic: Engineering Manager, Inference Infrastructure (SF | NYC | Seattle) | score 4.3/5 — EM inference infra at dream company; Kubernetes/fleet -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5411267008 <!-- Anthropic: Engineering Manager, Scheduler and Fleet Efficiency (SF | NYC) | score 4.2/5 — EM fleet scheduler at dream company; Argo/Kubernetes match -->
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7823195003 <!-- Fivetran: Engineering Manager, Metadata (Denver, CO) | score 4.2/5 — Denver EM, data catalog/lineage/schema platform -->
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5099702007 <!-- True Anomaly: Senior Manager, Infrastructure Engineering (Denver, CO) | score 4.1/5 — Denver SM infrastructure; defense tech -->
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5142446007 <!-- True Anomaly: Engineering Manager, Ground Software (Denver, CO) | score 4.0/5 — Denver EM ground station software -->
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5224053007 <!-- True Anomaly: Engineering Manager, Autonomy (Denver, CO) | score 4.0/5 — Denver EM autonomy -->
+- [ ] https://www.samsara.com/company/careers/roles/8148638?gh_jid=8148638 <!-- Samsara: Manager II, Software Engineering, Infrastructure (Remote US) | score 4.0/5 — Remote EM infrastructure; IoT data platform at scale -->
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4718566006 <!-- Chainguard: Engineering Manager, AI CICD (US Remote) | score 4.0/5 — Remote EM AI/CICD; cloud-native security; Argo/Helm match -->
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/8106198 <!-- Planet Labs: Senior Site Reliability Engineer (US/Canada Remote) | score 4.0/5 — Remote Sr SRE; space/satellite domain; Kubernetes/observability -->
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4713044006 <!-- Chainguard: Staff Platform Database Engineer (US Remote) | score 3.9/5 — Remote staff IC; database infra layer -->
+- [ ] https://www.samsara.com/company/careers/roles/7721193?gh_jid=7721193 <!-- Samsara: Lead Machine Learning Engineer - ML Infrastructure (Remote US) | score 3.9/5 — Remote Lead ML Infra; IoT ML platform -->
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6188400004 <!-- Vercel: Software Engineer, Data Platform (Remote US) | score 3.8/5 — Remote data platform SWE; developer tools company -->
+
+### ★ Secondary
+
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5240091007 <!-- True Anomaly: Engineering Manager, Perception AI (Denver, CO) | score 3.8/5 — Denver EM ML/perception -->
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5220130007 <!-- True Anomaly: Principal Data Engineer (Denver, CO) | score 3.8/5 — Denver IC principal DE -->
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5182446007 <!-- True Anomaly: Senior Platform Engineer, Infrastructure (Denver, CO) | score 3.7/5 — Denver IC Sr Platform Infra -->
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5166543007 <!-- True Anomaly: Senior Platform Engineer, AI (Denver, CO) | score 3.7/5 — Denver IC Sr Platform AI -->
+- [ ] https://www.fivetran.com/careers/job?gh_jid=8013525003 <!-- Fivetran: Senior Manager, dbt Fusion (Denver, CO) | score 3.7/5 — Denver SM dbt transformation layer -->
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4712228006 <!-- Chainguard: Staff Software Engineer, Sustaining Automation (US Remote) | score 3.7/5 — Remote Staff SWE automation -->
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7810467003 <!-- Fivetran: Senior R&D Software Engineer, Fivetran AI (Denver, CO) | score 3.6/5 — Denver IC Senior SWE AI product -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5364804008 <!-- Anthropic: Machine Learning Infrastructure Engineer, Safeguards Research (SF | NYC) | score 3.6/5 — IC ML Infra at dream company; SF/NYC hybrid -->
+- [ ] https://job-boards.greenhouse.io/humeai/jobs/4003488008 <!-- Hume AI: Senior/Staff AI Research Engineer (NYC | San Jose | Remote) | score 3.6/5 — Remote option; AI research infra -->
+- [ ] https://www.samsara.com/company/careers/roles/8141959?gh_jid=8141959 <!-- Samsara: Data Engineer (Remote US) | score 3.5/5 — Remote DE; mid-seniority -->
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/8233486 <!-- Contentful: Software Engineer, Applied AI Solutions (Denver, CO) | score 3.5/5 — Denver IC Applied AI; mid-seniority -->
+
+---
+
+## 2026-10-09 — Quickcheck (Greenhouse API)
+
+### ★★ Top Picks
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5448481008 <!-- Anthropic: Data Engineer, Product (SF | NYC | Seattle) | found 2026-10-09 quickcheck -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5030386007?gh_jid=5030386007 <!-- Anduril: DevOps Engineer (Fort Collins, CO — Denver metro) | found 2026-10-09 quickcheck ★★ dream company + Colorado -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5261398007?gh_jid=5261398007 <!-- Anduril: Senior AI Infrastructure Engineer, Physical Infrastructure (Seattle, WA) | found 2026-10-09 quickcheck ★★ dream company -->
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4715303006 <!-- Chainguard: Senior Manager, Engineering — Container Product (US Remote) | found 2026-10-09 quickcheck ★★ remote leadership -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8862144002 <!-- Databricks: Sr. Manager, Engineering - AI/BI (Mountain View / SF) | found 2026-10-09 quickcheck ★★ -->
+- [ ] https://www.fivetran.com/careers/job?gh_jid=8016899003 <!-- Fivetran: Engineering Manager, Metadata (dbt / Austin) | found 2026-10-09 quickcheck ★★ orchestration domain -->
+
+### ★ Secondary
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5369710008 <!-- Anthropic: Staff+ Fullstack Software Engineer, Safeguards Engineering (SF | NYC) | found 2026-10-09 quickcheck -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5256306007?gh_jid=5256306007 <!-- Anduril: DevOps Engineer, Radar (Fort Collins, CO) | found 2026-10-09 quickcheck ★ Colorado -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5244797007?gh_jid=5244797007 <!-- Anduril: Senior Software Engineer, Battlespace Awareness (Broomfield / Fort Collins, CO) | found 2026-10-09 quickcheck -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5244798007?gh_jid=5244798007 <!-- Anduril: Senior Software Engineer, Target Tracking (Broomfield / Fort Collins, CO) | found 2026-10-09 quickcheck -->
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6208037004 <!-- Vercel: Machine Learning Engineer, Trust & Safety (Hybrid SF / NYC) | found 2026-10-09 quickcheck -->
+- [ ] https://www.fivetran.com/careers/job?gh_jid=8017186003 <!-- Fivetran: Senior Software Engineer - Orchestration (dbt / Austin) | found 2026-10-09 quickcheck -->
+
+---
+
+## 2026-10-09 — Morning Scout Scan
+
+<!-- Full scan (Greenhouse API + WebSearch) — 3 new US Remote EM matches from Airbnb (dream company) -->
+- [ ] https://careers.airbnb.com/positions/7225915 <!-- Airbnb: Engineering Manager, Data Frameworks (Remote US) | $204K-$255K | score 4.4/5 ★★ data frameworks platform team -->
+- [ ] https://careers.airbnb.com/positions/6602256 <!-- Airbnb: Data Engineering Manager, Community Support Platform (Remote US) | $204K-$259K | score 4.1/5 -->
+- [ ] https://careers.airbnb.com/positions/6628190 <!-- Airbnb: Engineering Manager, Messaging Platform (Remote US) | $204K-$259K | score 3.8/5 ⚠️ one aggregator says expired -->
+
+## 2026-10-08 — Morning Scout Scan
+
+> Scan: 25+ companies (Greenhouse API + WebSearch). 2 new top picks — 1 Denver-local Senior Manager (True Anomaly) + 1 Remote EM (Reddit). Report: [scout-2026-10-08.md](../reports/scout-2026-10-08.md)
+
+#### Top Picks (4.0+ — Apply Soon)
+
+- [ ] [True Anomaly — Senior Manager, Digital Engineering](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5257753007) | Denver, CO | $175K–$255K + equity | ★★★★ 4.3/5 — NEW 10/08; Denver-local; building "digital thread" team from scratch (PLM/MES/ERP/workflow automation); hands-on Go/Python; ITAR + clearance eligibility required; 5+ yrs EM exp required
+- [ ] [Reddit — Engineering Manager, Knowledge Graph Platform](https://job-boards.greenhouse.io/reddit/jobs/8256326) | Remote - US | $217K–$303,900 + RSUs | ★★★★ 4.2/5 — NEW 10/08; Remote EM; foundational AI/data platform (entity graph, semantic search); comp exceeds target; knowledge graph specialization is stretch
+
+#### Secondary (3.5–3.9 — Review Before Applying)
+
+- [ ] [Anthropic — Software Engineer, Sandboxing](https://job-boards.greenhouse.io/anthropic/jobs/5440427008) | SF / NYC (hybrid) | ★★★ 3.5/5 — NEW 10/08; not Staff, not remote; Go/Rust security isolation; Anthropic dream company
+
+---
+
+## 2026-10-06 — Quick-Check Scout (Greenhouse API)
+
+> Scan: 40 companies (Greenhouse API only). 18 raw matches → 5 after location/title filter. 3 new True Anomaly Digital Engineering roles (Denver) + new Anthropic Staff Applied AI role (SF/Seattle) + Glean Tech Lead (SF). Report: [scout-quickcheck-2026-10-06.md](../reports/scout-quickcheck-2026-10-06.md)
+
+#### Top Picks (4.0+ — Apply Soon)
+
+- [ ] [Anthropic — Software Engineer, Staff: Applied AI, Science & Engineering](https://job-boards.greenhouse.io/anthropic/jobs/5444766008) | SF / Seattle / NYC (hybrid) | ★★★★ — NEW 10/06; Staff-level Applied AI team; distinct from Security Engineer already in pipeline; Anthropic dream company
+- [ ] [True Anomaly — Staff Software Engineer, Digital Engineering](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5257771007) | Denver, CO | ★★★★ — NEW 10/06; Staff level, Denver local, space defense; TS clearance eligibility likely required; $205K–$325K range (prior True Anomaly listing)
+
+#### Secondary (3.5–3.9 — Review Before Applying)
+
+- [ ] [True Anomaly — Senior Software Engineer, Digital Engineering](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5257765007) | Denver, CO | ★★★ — NEW 10/06; Senior level, same team as Staff role above
+- [ ] [Glean — Software Engineer, Tech Lead, Admin Console](https://job-boards.greenhouse.io/gleanwork/jobs/4740921005) | San Francisco, CA | ★★★ — NEW 10/06; Enterprise AI search; Tech Lead level; Admin Console scope — review JD
+
+#### Low Priority
+
+- [ ] [True Anomaly — Software Engineer I to III, Digital Engineering](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5257769007) | Denver, CO | ★★ — NEW 10/06; Band posting (I–III = mid-level range); TS clearance eligibility required
+
+---
+
+## 2026-10-06 — Scout Scan
+
+> Scan: 25+ companies (Greenhouse API + WebSearch). 6 new matches — 1 top pick, 2 secondary, 3 low. Reddit Ads ML Efficiency is a platform/infra ML role with $230K-$322K comp. 2 new Anthropic Staff+ SWE security roles. Report: [scout-2026-10-06.md](../reports/scout-2026-10-06.md)
+
+#### Top Picks (4.0+ — Apply Soon)
+
+- [ ] [Reddit — Staff ML Engineer, Ads ML Efficiency](https://job-boards.greenhouse.io/reddit/jobs/8247280) | Remote - US | $230K–$322K | ★★★★ 4.2/5 — ML infrastructure platform role (efficiency tools + GPU optimization for ALL Reddit ML), Python + Go/Rust, distributed systems; different team than ML Systems Engineer already in pipeline; comp exceeds target
+
+#### Secondary (3.5–3.9 — Review Before Applying)
+
+- [ ] [Reddit — Senior Staff ML Engineer, Ads Ranking](https://job-boards.greenhouse.io/reddit/jobs/8201359) | Remote - US | ~$270K+ (IC6) | ★★★ 3.5/5 — Senior Staff level with excellent comp; stretch: Ads Ranking needs RecSys specialization Patrick doesn't lead with
+- [ ] [Anthropic — Staff+ Software Security Engineer, Secure Frameworks](https://job-boards.greenhouse.io/anthropic/jobs/5440475008) | SF / NYC / Seattle (hybrid) | $320K–$485K | ★★★ 3.5/5 — NEW 10/05; Go/Rust/K8s/mTLS/zero-trust; Anthropic dream co; stretch: deep OAuth2/PKI/cryptography specialization
+
+---
+
 ## 2026-10-05 — Morning Scout Scan
 
 > Scan: 45 companies (Greenhouse API + WebSearch). 2 new matches at Checkr (Denver hybrid). No top picks today. Report: [scout-2026-10-05.md](../reports/scout-2026-10-05.md)
