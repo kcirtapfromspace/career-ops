@@ -7,6 +7,32 @@
 <!-- Errors: Black Forest Labs, Wayve, Clickhouse (HTTP 404) -->
 
 
+
+## 2026-10-12 — Quickcheck (Greenhouse API)
+
+> Quickcheck: 40 companies scanned. 14 new matches. Errors: Black Forest Labs, Wayve, Clickhouse (HTTP 404 — same as prior scans). Report: [scout-quickcheck-2026-10-12.md](../reports/scout-quickcheck-2026-10-12.md)
+
+### ★★ Top Picks
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5450099008 <!-- Anthropic: Data Engineer, Billing & Payments (San Francisco, CA | New York City, NY) -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5448481008 <!-- Anthropic: Data Engineer, Product (San Francisco, CA | New York City, NY | Seattle, WA) -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5369710008 <!-- Anthropic: Staff+ Fullstack Software Engineer, Safeguards Engineering (San Francisco, CA | New York City, NY) -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5447118008 <!-- Anthropic: Staff+ Software Engineer, Research Systems Engineering (Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY) -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5261398007?gh_jid=5261398007 <!-- Anduril: Senior AI Infrastructure Engineer, Physical Infrastructure (Seattle, Washington, United States) -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5196570007?gh_jid=5196570007 <!-- Anduril: Staff Software Engineer, Stateful Systems (Seattle, Washington, United States) -->
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5259797007 <!-- True Anomaly: Software Engineer, Missile Defense Simulation (Denver, CO or Long Beach, CA) -->
+- [ ] https://www.samsara.com/company/careers/roles/8267637?gh_jid=8267637 <!-- Samsara: Staff Software Engineer, Maps Services (Remote - US) -->
+- [ ] https://www.zipline.com/open-roles/8017330003?gh_jid=8017330003 <!-- Zipline: Staff Software Engineer – Integrations Platform (South San Francisco, California) -->
+
+### ★ Secondary
+
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6208037004 <!-- Vercel: Machine Learning Engineer, Trust & Safety (Hybrid - San Francisco, New York City) -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5261122007?gh_jid=5261122007 <!-- Anduril: Senior Software Engineer, Strategic Defense (Costa Mesa, CA; Huntsville, AL; Irvine, CA; Reston, VA; Seattle, WA; Washington, DC) -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5249697007?gh_jid=5249697007 <!-- Anduril: Senior Software Engineer, Strategic Defense (Active Clearance) (Colorado Springs, CO; Aberdeen, MD; San Antonio, TX; Tampa, FL) -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5260733007?gh_jid=5260733007 <!-- Anduril: Software Engineer, Strategic Defense (Costa Mesa, CA; Seattle, WA; Washington, DC) -->
+- [ ] https://nuro.ai/careersitem?gh_jid=8230855 <!-- Nuro: Software Engineer, Software Updates (Mountain View, California (HQ)) -->
+
+---
 ## 2026-10-11 — Full Scout Scan
 
 > Scan: 40 companies (Greenhouse API + WebSearch). 25 new matches — 4 Anthropic EM roles (dream company), 5 True Anomaly Denver, 3 Fivetran Denver, 3 Chainguard Remote, 2 Samsara Remote + more. Report: [scout-2026-10-11.md](../reports/scout-2026-10-11.md)
