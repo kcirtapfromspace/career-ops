@@ -11830,3 +11830,445 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - [ ] https://job-boards.greenhouse.io/arizeai/jobs/6203635004 <!-- Arize AI: DevOps Engineer (Remote - US) | remote DevOps at ML observability co | score 3.8 -->
 - [ ] https://job-boards.greenhouse.io/planetlabs/jobs/8154780 <!-- Planet Labs: Senior Software Engineer, Storage Infrastructure (United States, Remote) | remote infra eng, space data | score 3.7 -->
 - [ ] https://www.fivetran.com/careers/job?gh_jid=7865559003 <!-- Fivetran: Senior Software Engineer - Metadata (Denver, CO) | ★ Denver SSE at data co | score 3.7 -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5248983008  <!-- Anthropic | Applied AI Engineer | Sydney, Australia | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5437172008  <!-- Anthropic | Applied AI Engineer, Beneficial Deployments (Life Sciences) | San Francisco, CA | New York City, NY | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5445410008  <!-- Anthropic | Applied AI Engineer, Public Sector  | Washington, DC | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5450099008  <!-- Anthropic | Data Engineer, Billing & Payments | San Francisco, CA | New York City, NY | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5448481008  <!-- Anthropic | Data Engineer, Product | San Francisco, CA | New York City, NY | Seattle, WA | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5445625008  <!-- Anthropic | IT Systems Engineer, Client Platform Engineer, macOS | Boston, MA; Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY; Washington, DC | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5442934008  <!-- Anthropic | Manager, Applied AI Engineering (Megas)  | San Francisco, CA | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5435665008  <!-- Anthropic | Senior+ Software Engineer, Legal Tech | Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5440427008  <!-- Anthropic | Software Engineer, Sandboxing | San Francisco, CA | New York City, NY | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5444766008  <!-- Anthropic | Software Engineer, Staff: Applied AI, Science & Engineering | New York City, NY; San Francisco, CA; Seattle, WA | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5369710008  <!-- Anthropic | Staff+ Fullstack Software Engineer, Safeguards Engineering | San Francisco, CA | New York City, NY | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5385998008  <!-- Anthropic | Staff + Senior Software Engineer, Inference | Ontario, CAN | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5434559008  <!-- Anthropic | Staff / Senior Software Engineer, Security Fusion Platform | San Francisco, CA | New York City, NY | Seattle, WA | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5436293008  <!-- Anthropic | Staff+ Software Engineer, Account Abuse (Machine Learning) | San Francisco, CA | New York City, NY | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5101169008  <!-- Anthropic | Staff Software Engineer, AI Reliability Engineering | Dublin, IE | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5139910008  <!-- Anthropic | Staff+ Software Engineer, Observability | San Francisco, CA | New York City, NY | Seattle, WA | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5447118008  <!-- Anthropic | Staff+ Software Engineer, Research Systems Engineering | Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5436684008  <!-- Anthropic | Staff + Sr. Software Engineer, Cloud Inference | San Francisco, CA | Seattle, WA | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5436697008  <!-- Anthropic | Staff + Sr. Software Engineer, Cloud Inference Launch Engineering | San Francisco, CA | Seattle, WA | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5436703008  <!-- Anthropic | Staff + Sr. Software Engineer, Scaling | New York City, NY; San Francisco, CA; Seattle, WA | scout 2026-10-12 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5250595007?gh_jid=5250595007  <!-- Anduril | Automation Test Software Engineer, Manufacturing  | Irvine, California, United States | scout 2026-10-12 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5090905007?gh_jid=5090905007  <!-- Anduril | Data Engineer, Infrastructure FinOps | Costa Mesa, California, United States | scout 2026-10-12 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5030386007?gh_jid=5030386007  <!-- Anduril | DevOps Engineer | Fort Collins, Colorado, United States | scout 2026-10-12 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5256306007?gh_jid=5256306007  <!-- Anduril | DevOps Engineer, Radar | Fort Collins, Colorado, United States | scout 2026-10-12 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5262099007?gh_jid=5262099007  <!-- Anduril | Fielded Site Reliability Engineer | Waltham, Massachusetts, United States | scout 2026-10-12 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5256064007?gh_jid=5256064007  <!-- Anduril | Hardware Test Engineering Manager | Irvine, California, United States | scout 2026-10-12 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/4950096007?gh_jid=4950096007  <!-- Anduril | Manager, Software Engineering | Sydney, New South Wales, Australia | scout 2026-10-12 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5261435007?gh_jid=5261435007  <!-- Anduril | Manufacturing Test Engineering Manager | Irvine, California, United States | scout 2026-10-12 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5261149007?gh_jid=5261149007  <!-- Anduril | Mission Software Engineer | Waltham, Massachusetts, United States | scout 2026-10-12 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5249750007?gh_jid=5249750007  <!-- Anduril | Mission Software Engineer, Mission Systems | Costa Mesa, California, United States | scout 2026-10-12 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5260387007?gh_jid=5260387007  <!-- Anduril | Mission Software Engineer, Mission Systems, Cyber Security | Costa Mesa, California, United States | scout 2026-10-12 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5260431007?gh_jid=5260431007  <!-- Anduril | Mission Software Engineer, Mission Systems, Deployment and Infrastructure | Costa Mesa, California, United States | scout 2026-10-12 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5260436007?gh_jid=5260436007  <!-- Anduril | Mission Software Engineer, Mission Systems, Networking | Costa Mesa, California, United States | scout 2026-10-12 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5256305007?gh_jid=5256305007  <!-- Anduril | Platform Engineer, Radar | Fort Collins, Colorado, United States | scout 2026-10-12 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5250888007?gh_jid=5250888007  <!-- Anduril | Principal Software Engineer, InfraEng Platform Team | Costa Mesa, California, United States | scout 2026-10-12 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5252050007?gh_jid=5252050007  <!-- Anduril | Principal Software Engineer, InfraEng Platform Team | Seattle, Washington, United States | scout 2026-10-12 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5252846007?gh_jid=5252846007  <!-- Anduril | Production Software Engineer | Waltham, Massachusetts, United States | scout 2026-10-12 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5256059007?gh_jid=5256059007  <!-- Anduril | Production Test Engineering Manager | Irvine, California, United States | scout 2026-10-12 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5252847007?gh_jid=5252847007  <!-- Anduril | Python Software Engineer (Production) | Waltham, Massachusetts, United States | scout 2026-10-12 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5255525007?gh_jid=5255525007  <!-- Anduril | Realtime Software Engineer | Waltham, Massachusetts, United States | scout 2026-10-12 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5261398007?gh_jid=5261398007  <!-- Anduril | Senior AI Infrastructure Engineer, Physical Infrastructure | Seattle, Washington, United States | scout 2026-10-12 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5254033007?gh_jid=5254033007  <!-- Anduril | Senior Flight Software Engineer | Quincy, Massachusetts, United States | scout 2026-10-12 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5254035007?gh_jid=5254035007  <!-- Anduril | Senior Flight Software Engineer | Boston, Massachusetts, United States | scout 2026-10-12 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5262987007?gh_jid=5262987007  <!-- Anduril | Senior Front End Software Engineer, React | Arlington, Virginia, United States; Seattle, Washington, United States; Washington, District of Columbia, United States | scout 2026-10-12 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5016403007?gh_jid=5016403007  <!-- Anduril | Senior Machine Learning Engineer | Sydney, New South Wales, Australia | scout 2026-10-12 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/4950090007?gh_jid=4950090007  <!-- Anduril | Senior Manager, Software Engineering | Sydney, New South Wales, Australia | scout 2026-10-12 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5261151007?gh_jid=5261151007  <!-- Anduril | Senior Mission Software Engineer | Waltham, Massachusetts, United States | scout 2026-10-12 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5250392007?gh_jid=5250392007  <!-- Anduril | Senior Mission Software Engineer, Mission Systems | Costa Mesa, California, United States | scout 2026-10-12 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5252848007?gh_jid=5252848007  <!-- Anduril | Senior Production Software Engineer | Waltham, Massachusetts, United States | scout 2026-10-12 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5252849007?gh_jid=5252849007  <!-- Anduril | Senior Python Software Engineer (Production) | Waltham, Massachusetts, United States | scout 2026-10-12 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5252663007?gh_jid=5252663007  <!-- Anduril | Senior Robotics Software Engineer | Waltham, Massachusetts, United States | scout 2026-10-12 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5201424007?gh_jid=5201424007  <!-- Anduril | Senior Robotics Software Engineer, Payload Integration | Sydney, New South Wales, Australia | scout 2026-10-12 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5192153007?gh_jid=5192153007  <!-- Anduril | Senior Robotics Software Engineer, Payload Integration | Abu Dhabi, United Arab Emirates | scout 2026-10-12 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5175329007?gh_jid=5175329007  <!-- Anduril | Senior Robotics Software Engineer, Payload Integration | Abu Dhabi, United Arab Emirates | scout 2026-10-12 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/4948336007?gh_jid=4948336007  <!-- Anduril | Senior Software Engineer | Melbourne, Victoria, Australia | scout 2026-10-12 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/4950086007?gh_jid=4950086007  <!-- Anduril | Senior Software Engineer | Sydney, New South Wales, Australia | scout 2026-10-12 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5249418007?gh_jid=5249418007  <!-- Anduril | Senior Software Engineer (AOSP/Qualcomm SoC Connectivity) | Bellevue, Washington, United States | scout 2026-10-12 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5252143007?gh_jid=5252143007  <!-- Anduril | Senior Software Engineer, Flight Management Software | Costa Mesa, California, United States | scout 2026-10-12 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5092677007?gh_jid=5092677007  <!-- Anduril | Senior Software Engineer (Flight Software) | Melbourne, Victoria, Australia | scout 2026-10-12 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5161842007?gh_jid=5161842007  <!-- Anduril | Senior Software Engineer (Flight Software) | Sydney, New South Wales, Australia | scout 2026-10-12 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5136534007?gh_jid=5136534007  <!-- Anduril | Senior Software Engineer (Full Stack), Intelligence Systems | Reston, Virginia, United States | scout 2026-10-12 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5209039007?gh_jid=5209039007  <!-- Anduril | Senior Software Engineer, GNC Modeling | Waltham, Massachusetts, United States | scout 2026-10-12 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5257727007?gh_jid=5257727007  <!-- Anduril | Senior Software Engineer (Rust), Intelligence Systems | Reston, Virginia, United States | scout 2026-10-12 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5230428007?gh_jid=5230428007  <!-- Anduril | Senior Software Engineer (Security) | Bellevue, Washington, United States | scout 2026-10-12 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5261122007?gh_jid=5261122007  <!-- Anduril | Senior Software Engineer, Strategic Defense  | Costa Mesa, California, United States; Huntsville, Alabama, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States; Washington, District of Columbia, United States | scout 2026-10-12 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5249697007?gh_jid=5249697007  <!-- Anduril | Senior Software Engineer, Strategic Defense (Active Clearance) | Aberdeen, Maryland, United States; Colorado Springs, Colorado, United States; San Antonio, Texas, United States; Tampa, Florida, United States | scout 2026-10-12 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5254219007?gh_jid=5254219007  <!-- Anduril | Senior Software Engineer, TeamCenter PLM | Costa Mesa, California, United States | scout 2026-10-12 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5254036007?gh_jid=5254036007  <!-- Anduril | Senior Software Engineer, Vehicle Management Systems | Boston, Massachusetts, United States | scout 2026-10-12 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5252895007?gh_jid=5252895007  <!-- Anduril | Senior Software Engineer, Vehicle Management Systems | Quincy, Massachusetts, United States | scout 2026-10-12 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5167055007?gh_jid=5167055007  <!-- Anduril | Senior Software Engineer, Vehicle Management Systems  | Costa Mesa, California, United States | scout 2026-10-12 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5262100007?gh_jid=5262100007  <!-- Anduril | Site Reliability Engineer | Waltham, Massachusetts, United States | scout 2026-10-12 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/4948330007?gh_jid=4948330007  <!-- Anduril | Software Engineer | Melbourne, Victoria, Australia | scout 2026-10-12 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/4948307007?gh_jid=4948307007  <!-- Anduril | Software Engineer | Sydney, New South Wales, Australia | scout 2026-10-12 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5260733007?gh_jid=5260733007  <!-- Anduril | Software Engineer, Strategic Defense | Costa Mesa, California, United States; Huntsville, Alabama, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States; Washington, District of Columbia, United States | scout 2026-10-12 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5231763007?gh_jid=5231763007  <!-- Anduril | Software Engineer (Unity) | Bellevue, Washington, United States | scout 2026-10-12 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5221778007?gh_jid=5221778007  <!-- Anduril | Staff Instrumentation & Range Infrastructure Engineer | Costa Mesa, California, United States | scout 2026-10-12 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5235478007?gh_jid=5235478007  <!-- Anduril | Staff Robotics Software Engineer - Mission Autonomy | Costa Mesa, California, United States | scout 2026-10-12 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/4950075007?gh_jid=4950075007  <!-- Anduril | Staff Software Engineer | Melbourne, Victoria, Australia | scout 2026-10-12 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/4950085007?gh_jid=4950085007  <!-- Anduril | Staff Software Engineer | Sydney, New South Wales, Australia | scout 2026-10-12 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5196570007?gh_jid=5196570007  <!-- Anduril | Staff Software Engineer, Stateful Systems  | Seattle, Washington, United States | scout 2026-10-12 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5249024007?gh_jid=5249024007  <!-- Anduril | Supplier Engineering Manager [Electrical] | Sydney, New South Wales, Australia | scout 2026-10-12 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5260288007?gh_jid=5260288007  <!-- Anduril | Systems Engineering Manager, Mission Autonomy | Costa Mesa, California, United States; Washington, District of Columbia, United States | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5140261007  <!-- True Anomaly | Electrical Engineering Manager, eGSE | Long Beach, CA | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5253214007  <!-- True Anomaly | Engineering Manager, Propulsion Vehicle Subsystem | Denver, CO; Long Beach, CA | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5252981007  <!-- True Anomaly | Engineering Manager, Software (Modeling and Simulation) | Denver, CO or Long Beach, CA | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5136303007  <!-- True Anomaly | Engineering Manager Test and Launch Site  | Long Beach, CA | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5252989007  <!-- True Anomaly | Flight Software Engineer II | Denver, CO or Long Beach, CA  | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5252995007  <!-- True Anomaly | Flight Software Engineer III | Denver, CO or Long Beach, CA  | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5253013007  <!-- True Anomaly | Principal Flight Software Engineer | Denver, CO or Long Beach, CA  | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5252998007  <!-- True Anomaly | Senior Flight Software Engineer | Denver, CO or Long Beach, CA  | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5257765007  <!-- True Anomaly | Senior Software Engineer, Digital Engineering  | Denver, CO; Long Beach, CA | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5252976007  <!-- True Anomaly | Senior Software Engineer, Spacecraft Simulation | Denver, CO or Long Beach, CA | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5252967007  <!-- True Anomaly | Software Engineer II, Spacecraft Simulation  | Denver, CO or Long Beach, CA | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5257769007  <!-- True Anomaly | Software Engineer I to III, Digital Engineering  | Denver, CO; Long Beach, CA | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5259797007  <!-- True Anomaly | Software Engineer, Missile Defense Simulation (II - Principal) | Denver, Colorado or Long Beach, California | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5253004007  <!-- True Anomaly | Staff Flight Software Engineer | Denver, CO or Long Beach, CA  | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5257771007  <!-- True Anomaly | Staff Software Engineer, Digital Engineering  | Denver, CO; Long Beach, CA | scout 2026-10-12 -->
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4842135101  <!-- Parloa | Staff Software Engineer | Berlin Office; Remotely in Germany | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7820671  <!-- Intercom | AI Infrastructure Engineer | Dublin, Ireland | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/5082494  <!-- Intercom | Senior Software Engineer | Dublin, Ireland | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6208037004  <!-- Vercel | Machine Learning Engineer, Trust & Safety | Hybrid - San Francisco, New York City | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6111332004  <!-- Vercel | Security Software Engineer, Detection & Response | Hybrid - San Francisco, New York City, London | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4654833005  <!-- Glean | Lead Site Reliability Engineer | Mountain View, CA | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4006735005  <!-- Glean | Machine Learning Engineer, Search Quality | Mountain View, CA | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4742959005  <!-- Glean | Software Engineer, Agentic Runtime | Mountain View, CA | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4501783005  <!-- Glean | Software Engineer, AI/ML Infrastructure | Mountain View, CA | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4605446005  <!-- Glean | Software Engineer, AI & Security | Mountain View, CA | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4696752005  <!-- Glean | Software Engineer, APIs & Context Platform | Mountain View, CA | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4656281005  <!-- Glean | Software Engineer, Billing & Revenue Platform | Mountain View, CA | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4614706005  <!-- Glean | Software Engineer, Developer Productivity  | Mountain View, CA | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4006733005  <!-- Glean | Software Engineer, Frontend | Mountain View, CA | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4006734005  <!-- Glean | Software Engineer, Fullstack | Mountain View, CA | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4428090005  <!-- Glean | Software Engineer, Product Backend | Mountain View, CA | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4610281005  <!-- Glean | Software Engineer, Storage | Mountain View, CA | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4740930005  <!-- Glean | Software Engineer, Tech Lead, Admin Console | Mountain View, CA | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4740921005  <!-- Glean | Software Engineer, Tech Lead, Admin Console | San Francisco, CA | scout 2026-10-12 -->
+- [ ] https://job-boards.eu.greenhouse.io/speechmatics/jobs/4950383101  <!-- Speechmatics | ML Data & Platform Engineer | Cambridge, England, United Kingdom | scout 2026-10-12 -->
+- [ ] https://job-boards.eu.greenhouse.io/speechmatics/jobs/4996455101  <!-- Speechmatics | Senior Machine Learning Engineer | Cambridge, England, United Kingdom | scout 2026-10-12 -->
+- [ ] https://job-boards.eu.greenhouse.io/speechmatics/jobs/4987523101  <!-- Speechmatics | Senior Software Engineer – Front-End | Cambridge, England, United Kingdom | scout 2026-10-12 -->
+- [ ] https://job-boards.eu.greenhouse.io/speechmatics/jobs/5000695101  <!-- Speechmatics | Software Engineer  | Belgrade, Belgrade, Serbia | scout 2026-10-12 -->
+- [ ] https://helsing.ai/jobs/4953562101?gh_jid=4953562101  <!-- Helsing | Machine Learning Engineer, Detection and Tracking | Washington, DC | scout 2026-10-12 -->
+- [ ] https://helsing.ai/jobs/4943195101?gh_jid=4943195101  <!-- Helsing | Robotics Software Engineer | Barcelona | scout 2026-10-12 -->
+- [ ] https://helsing.ai/jobs/4953564101?gh_jid=4953564101  <!-- Helsing | Software Engineer, DevSecOps | Washington, DC | scout 2026-10-12 -->
+- [ ] https://helsing.ai/jobs/4953565101?gh_jid=4953565101  <!-- Helsing | Software Engineer, Platform Engineering | Washington, DC | scout 2026-10-12 -->
+- [ ] https://helsing.ai/jobs/4953558101?gh_jid=4953558101  <!-- Helsing | Software Engineer, Rust | Washington, DC | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7765659003?gh_jid=7765659003  <!-- Celonis | Applied AI Engineer - Technology Consultant | New York, US, New York | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7989845003?gh_jid=7989845003  <!-- Celonis | Senior Software Engineer | New York, US, New York | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7805685003?gh_jid=7805685003  <!-- Celonis | Sr. Frontend Software Engineer - Orchestration and Automation | Madrid, Spain | scout 2026-10-12 -->
+- [ ] https://careers.hellofresh.com/global/en/job/8170849?gh_jid=8170849  <!-- HelloFresh | Data Engineer, Operations Technology (all genders) | Warszawa, Masovian Voivodeship, Poland | scout 2026-10-12 -->
+- [ ] https://careers.hellofresh.com/global/en/job/8125694?gh_jid=8125694  <!-- HelloFresh | Director, Global WMS Software Engineering and Product Design | Warszawa, Masovian Voivodeship, Poland | scout 2026-10-12 -->
+- [ ] https://careers.hellofresh.com/global/en/job/8186071?gh_jid=8186071  <!-- HelloFresh | Engineering Manager, Consumer Alliance | Warszawa, Masovian Voivodeship, Poland | scout 2026-10-12 -->
+- [ ] https://careers.hellofresh.com/global/en/job/8176698?gh_jid=8176698  <!-- HelloFresh | Senior GenAI Engineer, Inteligent Platforms | Warszawa, Masovian Voivodeship, Poland | scout 2026-10-12 -->
+- [ ] https://careers.hellofresh.com/global/en/job/8045980?gh_jid=8045980  <!-- HelloFresh | Werksreiniger (m/w/d/x) | Verden, Niedersachsen, Germany | scout 2026-10-12 -->
+- [ ] https://n26.com/en-eu/careers/positions/8170936?gh_jid=8170936  <!-- N26 | Backend Engineer | Barcelona | scout 2026-10-12 -->
+- [ ] https://n26.com/en-eu/careers/positions/8172906?gh_jid=8172906  <!-- N26 | Backend Engineer - Memberships | Barcelona  | scout 2026-10-12 -->
+- [ ] https://sumup.com/careers/positions/8583427002?gh_jid=8583427002  <!-- SumUp | Backend Engineer - Cards | Sofia, Bulgaria | scout 2026-10-12 -->
+- [ ] https://sumup.com/careers/positions/6651430002?gh_jid=6651430002  <!-- SumUp | Backend Engineer- Global Bank | Sofia, Bulgaria | scout 2026-10-12 -->
+- [ ] https://sumup.com/careers/positions/8785611002?gh_jid=8785611002  <!-- SumUp | Backend Engineer (Golang) - Bank Balance | Vilnius, Lithuania | scout 2026-10-12 -->
+- [ ] https://sumup.com/careers/positions/8785999002?gh_jid=8785999002  <!-- SumUp | Backend Engineer (Golang) - Transfers Europe | Vilnius, Lithuania | scout 2026-10-12 -->
+- [ ] https://sumup.com/careers/positions/8745286002?gh_jid=8745286002  <!-- SumUp | Backend Engineer - Merchant Risk Intelligence | Vilnius, Lithuania | scout 2026-10-12 -->
+- [ ] https://sumup.com/careers/positions/8645259002?gh_jid=8645259002  <!-- SumUp | Backend Engineer - Merchant Risk Intelligence  | Sofia, Bulgaria | scout 2026-10-12 -->
+- [ ] https://sumup.com/careers/positions/8874454002?gh_jid=8874454002  <!-- SumUp | Backend Engineer - Run & Grow | Sofia, Bulgaria | scout 2026-10-12 -->
+- [ ] https://sumup.com/careers/positions/8559967002?gh_jid=8559967002  <!-- SumUp | Engineering Manager  | São Paulo, Brazil | scout 2026-10-12 -->
+- [ ] https://sumup.com/careers/positions/8507674002?gh_jid=8507674002  <!-- SumUp | Engineering Manager - Verification | Sofia, Bulgaria | scout 2026-10-12 -->
+- [ ] https://sumup.com/careers/positions/8671401002?gh_jid=8671401002  <!-- SumUp | (Senior) Backend Engineer | São Paulo, Brazil | scout 2026-10-12 -->
+- [ ] https://sumup.com/careers/positions/8586092002?gh_jid=8586092002  <!-- SumUp | Senior Backend Engineer | Florianópolis, Santa Catarina, Brazil | scout 2026-10-12 -->
+- [ ] https://sumup.com/careers/positions/8508079002?gh_jid=8508079002  <!-- SumUp | Senior Backend Engineer - Bookings | Warsaw, Poland; Warszawa, Masovian Voivodeship, Poland | scout 2026-10-12 -->
+- [ ] https://sumup.com/careers/positions/8881640002?gh_jid=8881640002  <!-- SumUp | Senior Backend Engineer - Cards | Sofia, Bulgaria | scout 2026-10-12 -->
+- [ ] https://sumup.com/careers/positions/8785374002?gh_jid=8785374002  <!-- SumUp | (Senior) Backend Engineer (Golang) - Bank | Vilnius, Lithuania | scout 2026-10-12 -->
+- [ ] https://sumup.com/careers/positions/8827465002?gh_jid=8827465002  <!-- SumUp | Senior Backend Engineer (Golang) - Payments Infrastructure | Sofia, Bulgaria | scout 2026-10-12 -->
+- [ ] https://sumup.com/careers/positions/8842258002?gh_jid=8842258002  <!-- SumUp | Senior Backend Engineer - Run & Grow | Cologne, Germany | scout 2026-10-12 -->
+- [ ] https://sumup.com/careers/positions/8520784002?gh_jid=8520784002  <!-- SumUp | (Senior/Mid) Software Engineer, Golang - Payments Platform | Sofia, Bulgaria | scout 2026-10-12 -->
+- [ ] https://sumup.com/careers/positions/8749656002?gh_jid=8749656002  <!-- SumUp | Senior Software Engineer (Golang) – Pricing Domain | Sofia, Bulgaria | scout 2026-10-12 -->
+- [ ] https://sumup.com/careers/positions/8769169002?gh_jid=8769169002  <!-- SumUp | Senior Software Engineer (Lending Team) | São Paulo, São Paulo, Brazil | scout 2026-10-12 -->
+- [ ] https://www.scandit.com/careers/job-description/?gh_jid=8179821  <!-- Scandit | Senior Backend Engineer - Shelfview | Tampere | scout 2026-10-12 -->
+- [ ] https://www.scandit.com/careers/job-description/?gh_jid=8264704  <!-- Scandit | Senior Machine Learning Engineer (Biometrics & Face Recognition) | Tampere | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/isomorphiclabs/jobs/6118868004  <!-- Isomorphic Labs | Security Engineering Manager, London or Lausanne | Lausanne; London | scout 2026-10-12 -->
+- [ ] https://www.fivetran.com/careers/job?gh_jid=8016899003  <!-- Fivetran | Engineering Manager, Metadata | USA - Austin (dbt) | scout 2026-10-12 -->
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7810466003  <!-- Fivetran | Senior R&D Software Engineer, Fivetran AI | USA - Austin (dbt) | scout 2026-10-12 -->
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7810468003  <!-- Fivetran | Senior R&D Software Engineer, Fivetran AI | USA - New York | scout 2026-10-12 -->
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7814036003  <!-- Fivetran | Senior Site Reliability Engineer | Dublin, Dublin, Ireland, EMEA | scout 2026-10-12 -->
+- [ ] https://www.fivetran.com/careers/job?gh_jid=8000571003  <!-- Fivetran | Senior Site Reliability Engineer | Novi Sad, South Bačka, Serbia, EMEA | scout 2026-10-12 -->
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7787913003  <!-- Fivetran | Senior Software Engineer | Bengaluru, Karnataka, India, APAC | scout 2026-10-12 -->
+- [ ] https://www.fivetran.com/careers/job?gh_jid=8007249003  <!-- Fivetran | Senior Software Engineer | Oakland, California, United States, AMER | scout 2026-10-12 -->
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7822402003  <!-- Fivetran | Senior Software Engineer - Core Databases | Novi Sad, South Bačka, Serbia, EMEA | scout 2026-10-12 -->
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7847762003  <!-- Fivetran | Senior Software Engineer - C Programmer | Novi Sad, South Bačka, Serbia, EMEA | scout 2026-10-12 -->
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7837407003  <!-- Fivetran | Senior Software Engineer - DB2 Databases  | Novi Sad, South Bačka, Serbia, EMEA | scout 2026-10-12 -->
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7818306003  <!-- Fivetran | Senior Software Engineer - Developer Productivity | Bengaluru, Karnataka, India, APAC | scout 2026-10-12 -->
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7818374003  <!-- Fivetran | Senior Software Engineer - Metadata | Ontario, Canada | scout 2026-10-12 -->
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7980977003  <!-- Fivetran | Senior Software Engineer - Orchestration | Ontario, Canada | scout 2026-10-12 -->
+- [ ] https://www.fivetran.com/careers/job?gh_jid=8017186003  <!-- Fivetran | Senior Software Engineer - Orchestration | USA - Austin (dbt) | scout 2026-10-12 -->
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7747624003  <!-- Fivetran | Staff DevOps Engineer | Novi Sad, South Bačka, Serbia, EMEA | scout 2026-10-12 -->
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7812006003  <!-- Fivetran | Staff R&D Software Engineer, Fivetran AI | USA - New York | scout 2026-10-12 -->
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7811996003  <!-- Fivetran | Staff R&D Software Engineer, Fivetran AI | USA - Austin (dbt) | scout 2026-10-12 -->
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7723267003  <!-- Fivetran | Staff Site Reliability Engineer | Bengaluru, Karnataka, India, APAC | scout 2026-10-12 -->
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7992270003  <!-- Fivetran | Staff Site Reliability Engineer | Dublin, Dublin, Ireland, EMEA | scout 2026-10-12 -->
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7688674003  <!-- Fivetran | Staff Site Reliability Engineer | Novi Sad, South Bačka, Serbia, EMEA | scout 2026-10-12 -->
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7818252003  <!-- Fivetran | Staff Software Engineer - Developer Productivity | Bengaluru, Karnataka, India, APAC | scout 2026-10-12 -->
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7818226003  <!-- Fivetran | Staff Software Engineer - Full Stack | Bengaluru, Karnataka, India, APAC | scout 2026-10-12 -->
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7818250003  <!-- Fivetran | Staff Software Engineer_Fusion Adapters | Bengaluru, Karnataka, India, APAC | scout 2026-10-12 -->
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7818294003  <!-- Fivetran | Staff Software Engineer - Infrastructure | Bengaluru, Karnataka, India, APAC | scout 2026-10-12 -->
+- [ ] https://www.samsara.com/company/careers/roles/8020028?gh_jid=8020028  <!-- Samsara | AI Engineering Manager | Bengaluru - BLR1 | scout 2026-10-12 -->
+- [ ] https://www.samsara.com/company/careers/roles/8250423?gh_jid=8250423  <!-- Samsara | Data Engineer | Remote - Canada | scout 2026-10-12 -->
+- [ ] https://www.samsara.com/company/careers/roles/8141959?gh_jid=8141959  <!-- Samsara | Data Engineer | Remote - US | scout 2026-10-12 -->
+- [ ] https://www.samsara.com/company/careers/roles/8237134?gh_jid=8237134  <!-- Samsara | Senior Software Engineer II, DevEx | Remote - NYC | scout 2026-10-12 -->
+- [ ] https://www.samsara.com/company/careers/roles/7520397?gh_jid=7520397  <!-- Samsara | Senior Software Engineer II, Route Planning | Remote - US | scout 2026-10-12 -->
+- [ ] https://www.samsara.com/company/careers/roles/8237131?gh_jid=8237131  <!-- Samsara | Sr. Software Engineer II, DevEx | Remote - CA | scout 2026-10-12 -->
+- [ ] https://www.samsara.com/company/careers/roles/8267637?gh_jid=8267637  <!-- Samsara | Staff Software Engineer, Maps Services | Remote - US | scout 2026-10-12 -->
+- [ ] https://www.samsara.com/company/careers/roles/7266287?gh_jid=7266287  <!-- Samsara | Staff Software Engineer - Platform and Infrastructure | Bengaluru - BLR1 | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4718566006  <!-- Chainguard | Engineering Manager, AI CICD | United Kingdom - Remote; United States - Remote | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4719574006  <!-- Chainguard | Senior Software Engineer (Customer Platform) | Canada - Remote | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4697216006  <!-- Chainguard | Senior Software Engineer (Customer Platform)  | United States - Remote | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4714571006  <!-- Chainguard | Software Engineer (Repositories)  | Canada - Remote | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4714570006  <!-- Chainguard | Software Engineer (Repositories)  | United Kingdom - Remote | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4714568006  <!-- Chainguard | Software Engineer (Repositories)  | United States - Remote | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4674863005  <!-- Scale AI | DevOps Engineer, Infrastructure & Security | Washington, DC | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4732365005  <!-- Scale AI | Engineering Manager, Frontier AI Infrastructure - Public Sector  | Washington, DC | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4709132005  <!-- Scale AI | Engineering Manager, Saudi Arabia | Riyadh, Saudi Arabia | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4713597005  <!-- Scale AI | Senior Data Engineer, Public Sector | Washington, DC | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4732394005  <!-- Scale AI | Senior Full-Stack Software Engineer, (Forward deployed), GPS | Riyadh, Saudi Arabia | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4676606005  <!-- Scale AI | Senior Full-Stack Software Engineer, (Forward Deployed), GPS | Doha, Qatar  | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4725133005  <!-- Scale AI | Senior Software Engineer, AI Operations, GPS | Doha, Qatar  | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4739920005  <!-- Scale AI | Senior Software Engineer, Orchestration Platform | San Francisco, CA; New York, NY | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4715325005  <!-- Scale AI | Software Engineering Manager, Public Sector  | Washington, DC | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4730851005  <!-- Scale AI | Software Engineer - New Grad | Doha, Qatar  | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4612282005  <!-- Scale AI | Software Engineer, Robotics | Argentina; Uruguay | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4732430005  <!-- Scale AI | Staff Full-Stack Software Engineer, (Forward Deployed), GPS | Riyadh, Saudi Arabia | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4673314005  <!-- Scale AI | Staff FullStack Software Engineer, (Forward Deployed), GPS | Doha, Qatar  | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4717701005  <!-- Scale AI | Team Lead, ARC Software Engineering Team | Washington, DC | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8574655002  <!-- Databricks | AI Engineer - FDE (Forward Deployed Engineer) | Seoul, South Korea | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8760167002  <!-- Databricks | AI Engineer – Forward Deployed Engineering (AI FDE), U.S. Public Sector (Federal Focus) | Maryland; Virginia; Washington, D.C. | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8091041002  <!-- Databricks | Applied AI Engineer | Belgrade, Serbia | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8290810002  <!-- Databricks | Director of Engineering (Data Infrastructure) | Bengaluru, India | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8786930002  <!-- Databricks | Engineering Manager, App Traffic | Mountain View, California | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7439442002  <!-- Databricks | Engineering Manager - Backend | Bengaluru, India | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7006090002  <!-- Databricks | Engineering Manager - Core Experiences  | Bengaluru, India | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8472398002  <!-- Databricks | Engineering Manager - Databricks SQL Control Plane | Mountain View, California | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8578093002  <!-- Databricks | Engineering Manager - Data Visualization Platform | Bellevue, Washington | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8298018002  <!-- Databricks | Engineering Manager - Identity and Access Management (IAM) | Mountain View, California | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8357216002  <!-- Databricks | Engineering Manager (Ingestion) | Bengaluru, India | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8603361002  <!-- Databricks | Engineering Manager, Serverless Compute Platform | Bellevue, Washington | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8324875002  <!-- Databricks | Engineering Manager - Streaming | Bellevue, Washington | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8785065002  <!-- Databricks | Field Engineering Manager, Specialist Solutions Architects | Seoul, South Korea | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8677627002  <!-- Databricks | Field Engineering Manager, Specialist Solutions Architects - Nordics | Stockholm, Sweden | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7495457002  <!-- Databricks | Senior Engineering Manager - Backend  | Bengaluru, India | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8109902002  <!-- Databricks | Senior Engineering Manager - Enzyme | Mountain View, California | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7987657002  <!-- Databricks | Senior Engineering Manager for Self-Serve (Learning) | Mountain View, California | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8635216002  <!-- Databricks | Senior Software Engineer, AI Native Web Platform | Mountain View, California | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8294304002  <!-- Databricks | Senior Software Engineer (App-Framework) | Bengaluru, India | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8210383002  <!-- Databricks | Senior Software Engineer (App-Framework) | Bengaluru, India | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8183195002  <!-- Databricks | Senior Software Engineer  - Application Traffic team | Mountain View, California | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8012803002  <!-- Databricks | Senior Software Engineer - Backend | Belgrade, Serbia | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=6779084002  <!-- Databricks | Senior Software Engineer - Backend | Bellevue, Washington | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8093295002  <!-- Databricks | Senior Software Engineer - Backend | Vancouver, Canada | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=6544435002  <!-- Databricks | Senior Software Engineer - Backend | Mountain View, California | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8320183002  <!-- Databricks | Senior Software Engineer - Backend | Bengaluru, India | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=6709301002  <!-- Databricks | Senior Software Engineer (Backend) | Bengaluru, India | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8233899002  <!-- Databricks | Senior Software Engineer (Backend) - AI/ML Environments | Mountain View, California | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8864368002  <!-- Databricks | Senior Software Engineer — Backend (Files Team) | San Francisco, California | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8806934002  <!-- Databricks | Senior Software Engineer, Compute Infrastructure | Mountain View, California | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7897431002  <!-- Databricks | Senior Software Engineer - Data + AI Observability | Bengaluru, India | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7601580002  <!-- Databricks | Senior Software Engineer - Data Platform | Bengaluru, India | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7647369002  <!-- Databricks | Senior Software Engineer (Data Platform) | Bengaluru, India | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=6936994002  <!-- Databricks | Senior Software Engineer - Distributed Data Systems | Bellevue, Washington | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8012800002  <!-- Databricks | Senior Software Engineer - Distributed Data Systems | Belgrade, Serbia | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=6544325002  <!-- Databricks | Senior Software Engineer - Distributed Data Systems | Mountain View, California | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8099342002  <!-- Databricks | Senior Software Engineer - Fullstack | Vancouver, Canada | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7619810002  <!-- Databricks | Senior Software Engineer (Infra) | Bengaluru, India | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7934782002  <!-- Databricks | Senior Software Engineer - Ingestion | Bengaluru, India | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7654347002  <!-- Databricks | Senior Software Engineer (Money) | Bengaluru, India | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8027404002  <!-- Databricks | Senior Software Engineer  - Money Team | Bellevue, Washington | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8602402002  <!-- Databricks | Senior Software Engineer - Multi Cloud Efficiency | Bengaluru, India | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7647353002  <!-- Databricks | Senior Software Engineer- Networking | Bengaluru, India | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7619811002  <!-- Databricks | Senior Software Engineer - Observability | Bengaluru, India | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7938410002  <!-- Databricks | Senior Software Engineer - Partner Ecosystem | Bengaluru, India | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7841782002  <!-- Databricks | Senior Software Engineer - Search | Bengaluru, India | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8421894002  <!-- Databricks | Senior Staff Software Engineer - Backend | Bengaluru, India | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7651326002  <!-- Databricks | Senior Staff Software Engineer (Backend) | Bengaluru, India | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7651345002  <!-- Databricks | Senior Staff Software Engineer (Backend) | Bengaluru, India | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8303017002  <!-- Databricks | Senior Staff Software Engineer - Delta | Zürich, Switzerland | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8303014002  <!-- Databricks | Senior Staff Software Engineer - Delta | Aarhus, Denmark | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7934466002  <!-- Databricks | Senior Staff Software Engineer - Enzyme | Mountain View, California | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7274563002  <!-- Databricks | Senior Staff Software Engineer - IAM | Mountain View, California | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8433583002  <!-- Databricks | Senior Staff Software Engineer- Networking | Bengaluru, India | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8439350002  <!-- Databricks | Senior Staff Software Engineer- Search Quality | Bengaluru, India | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7274902002  <!-- Databricks | Senior Staff Software Engineer - Security Infrastructure | Bellevue, Washington | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7274908002  <!-- Databricks | Senior Staff Software Engineer - Security Infrastructure | Mountain View, California | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7737233002  <!-- Databricks | Software Engineer - Backend | Aarhus, Denmark | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8012650002  <!-- Databricks | Software Engineer - Backend | Belgrade, Serbia | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7955594002  <!-- Databricks | Software Engineer (Backend - SDE 2) | Bengaluru, India | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8012691002  <!-- Databricks | Software Engineer - Distributed Data Systems | Belgrade, Serbia | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8829029002  <!-- Databricks | Software Engineer, Infrastructure | Bengaluru, India | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8635225002  <!-- Databricks | Software Engineer, Web Products | Mountain View, California | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8560779002  <!-- Databricks | Software Engineer, Web Products | Mountain View, California | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8516112002  <!-- Databricks | Sr. AI Engineer, AI FDE | Remote - India | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8510921002  <!-- Databricks | Sr. Engineering Manager - Agentic Service Platform  | Mountain View, California | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8493168002  <!-- Databricks | Sr. IT Site Reliability Software Engineer | Costa Rica | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8220814002  <!-- Databricks | Sr Software Engineer, Agentic Applications | Mountain View, California | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8679982002  <!-- Databricks | Sr Software Engineer - Agentic Applications (Full Stack) | Bengaluru, India | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7955601002  <!-- Databricks | Sr Software Engineer - Backend | Bengaluru, India | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7643201002  <!-- Databricks | Sr. Software Engineer - Backend | Aarhus, Denmark | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8211450002  <!-- Databricks | Sr Software Engineer-Networking | Bellevue, Washington | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8211452002  <!-- Databricks | Sr Software Engineer-Networking | Mountain View, California | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7925560002  <!-- Databricks | Sr. Software Engineer - Observability | Bengaluru, India | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8512856002  <!-- Databricks | Sr Software Engineer -Public Sector | McLean, Virginia | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8784103002  <!-- Databricks | Sr. Specialist Solutions Architect -AI&ML Engineer | Israel | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7630152002  <!-- Databricks | Sr Staff Software Engineer (Backend) | Bengaluru, India | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8555864002  <!-- Databricks | Sr. Staff Software Engineer - Managed Tables  | Mountain View, California | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8285949002  <!-- Databricks | Sr. Staff Software Engineer - Money Team | Bellevue, Washington | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8462811002  <!-- Databricks | Sr.Staff Software Engineer- Network Platform | Bengaluru, India | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7993609002  <!-- Databricks | Sr. Staff Software Engineer - Unity Catalog Data Governance | Bellevue, Washington | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7932280002  <!-- Databricks | Staff Security Software Engineer - Agentic Security Engineering  | United States | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7651346002  <!-- Databricks | Staff Software Engineer  | Bengaluru, India | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8691490002  <!-- Databricks | Staff Software Engineer - Access Management | Bellevue, Washington | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8635182002  <!-- Databricks | Staff Software Engineer, Agentic Applications | Mountain View, California | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8560783002  <!-- Databricks | Staff Software Engineer, AI Native Web Platform | Mountain View, California | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8635188002  <!-- Databricks | Staff Software Engineer, AI Native Web Platform | Mountain View, California | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8578177002  <!-- Databricks | Staff Software Engineer, AI Search | Mountain View, California | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8320187002  <!-- Databricks | Staff Software Engineer - Backend | Bengaluru, India | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=6544443002  <!-- Databricks | Staff Software Engineer - Backend | Mountain View, California | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8012814002  <!-- Databricks | Staff Software Engineer - Backend | Belgrade, Serbia | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=6779233002  <!-- Databricks | Staff Software Engineer - Backend | Bellevue, Washington | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8093293002  <!-- Databricks | Staff Software Engineer - Backend  | Vancouver, Canada | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7642799002  <!-- Databricks | Staff Software Engineer - Backend   | Aarhus, Denmark | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=6716344002  <!-- Databricks | Staff Software Engineer (Core Experiences)  | Bengaluru, India | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7601565002  <!-- Databricks | Staff Software Engineer - Databases | Bengaluru, India | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7601572002  <!-- Databricks | Staff Software Engineer - Data Platform | Bengaluru, India | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7652016002  <!-- Databricks | Staff Software Engineer (Data Platform) | Bengaluru, India | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8012831002  <!-- Databricks | Staff Software Engineer - Distributed Data Systems | Belgrade, Serbia | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=6544364002  <!-- Databricks | Staff Software Engineer - Distributed Data Systems | Mountain View, California | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=6937001002  <!-- Databricks | Staff Software Engineer - Distributed Data Systems | Bellevue, Washington | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8037500002  <!-- Databricks | Staff Software Engineer - Fullstack | Bengaluru, India | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8099343002  <!-- Databricks | Staff Software Engineer - Fullstack | Vancouver, Canada | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7994790002  <!-- Databricks | Staff Software Engineer - IAM | Bellevue, Washington | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7994801002  <!-- Databricks | Staff Software Engineer - IAM | Mountain View, California | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7648674002  <!-- Databricks | Staff Software Engineer (Infrastructure) | Bengaluru, India | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8201686002  <!-- Databricks | Staff Software Engineer - Ingestion | Bengaluru, India | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8200692002  <!-- Databricks | Staff Software Engineer - Ingestion | Bengaluru, India | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7958982002  <!-- Databricks | Staff Software Engineer - Machine Learning (Search) | Bengaluru, India | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7654349002  <!-- Databricks | Staff Software Engineer (Money) | Bengaluru, India | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7111068002  <!-- Databricks | Staff Software Engineer - Money Team | Bellevue, Washington | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8593107002  <!-- Databricks | Staff Software Engineer - Multi Cloud Efficiency | Bengaluru, India | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7648669002  <!-- Databricks | Staff Software Engineer- Networking | Bengaluru, India | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8476582002  <!-- Databricks | Staff Software Engineer  - Partner Ecosystem | Bengaluru, India | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8517555002  <!-- Databricks | Staff Software Engineer- Public Sector | Virginia | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7841778002  <!-- Databricks | Staff Software Engineer - Search Platform | Bengaluru, India | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8439348002  <!-- Databricks | Staff Software Engineer- Search Quality | Bengaluru, India | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8295792002  <!-- Databricks | Staff Software Engineer, Search Quality | Mountain View, California | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7958688002  <!-- Databricks | Staff Software Engineer  (Search Ranking) | Bengaluru, India | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7994759002  <!-- Databricks | Staff Software Engineer - Security Infrastructure | Bellevue, Washington | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7994770002  <!-- Databricks | Staff Software Engineer - Security Infrastructure | Mountain View, California | scout 2026-10-12 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8639477002  <!-- Databricks | Staff Software Engineer, Technical Lead, Lakebase Manager (LBM) | Bellevue, Washington | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7985939003  <!-- Rocket Lab | Flight Software Engineer  | Auckland, NZ | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7993343003  <!-- Rocket Lab | Flight Software Engineer II | Long Beach, CA | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7983815003  <!-- Rocket Lab | Flight Software Engineer II | Littleton, CO | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/8000378003  <!-- Rocket Lab | Principal Flight Software Engineer | Long Beach, CA | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/8025555003  <!-- Rocket Lab | Principal Machine Learning Engineer (EO/IR Image Analysis) | Chantilly, VA | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/8002621003  <!-- Rocket Lab | Principal Machine Learning Engineer (EO/IR Image Analysis) | Tucson, AZ | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/8025563003  <!-- Rocket Lab | Principal Machine Learning Engineer (EO/IR Image Analysis) | Long Beach, CA | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7627102003  <!-- Rocket Lab | Principal Network Software Engineer - TS/SCI | Littleton, CO | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7626792003  <!-- Rocket Lab | Principal Network Software Engineer - TS/SCI | Long Beach, CA | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7763296003  <!-- Rocket Lab | Senior Flight Software Engineer | Auckland, NZ | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7991348003  <!-- Rocket Lab | Senior Flight Software Engineer I | Littleton, CO | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7850062003  <!-- Rocket Lab | Senior Flight Software Engineer I | Long Beach, CA | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7850072003  <!-- Rocket Lab | Senior Flight Software Engineer II | Long Beach, CA | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7815786003  <!-- Rocket Lab | Senior Flight Software Engineer II - Secret Clearance | Long Beach, CA | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7815785003  <!-- Rocket Lab | Senior Flight Software Engineer I - Secret Clearance | Long Beach, CA | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7991303003  <!-- Rocket Lab | Senior Ground Software Engineer I  | Littleton, CO | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7814686003  <!-- Rocket Lab | Senior Ground Software Engineer I | Long Beach, CA | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7814693003  <!-- Rocket Lab | Senior Ground Software Engineer II | Long Beach, CA | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/8025567003  <!-- Rocket Lab | Senior Machine Learning Engineer II (EO/IR Image Analysis) | Long Beach, CA | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/8025565003  <!-- Rocket Lab | Senior Machine Learning Engineer II (EO/IR Image Analysis) | Chantilly, VA | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/8025569003  <!-- Rocket Lab | Senior Machine Learning Engineer II (EO/IR Image Analysis) | Tucson, AZ | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7979963003  <!-- Rocket Lab | Senior Network Software Engineer II -Secret Clearance | Long Beach, CA | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7979961003  <!-- Rocket Lab | Senior Network Software Engineer I -Secret Clearance | Long Beach, CA | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/8007303003  <!-- Rocket Lab | Senior Software Engineer | Auckland, NZ | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7737069003  <!-- Rocket Lab | Senior Software Engineer I | Albuquerque, NM | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7822244003  <!-- Rocket Lab | Senior Software Engineer I - Data Engineering | Long Beach, CA | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7893882003  <!-- Rocket Lab | Senior Software Engineer I - Digital Engineering | Littleton, CO | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7987630003  <!-- Rocket Lab | Senior Software Engineer II | Tucson, AZ | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7987628003  <!-- Rocket Lab | Senior Software Engineer II  | Chantilly, VA | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7994336003  <!-- Rocket Lab | Senior Software Engineer II - Digital Engineering | Littleton, CO | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7994350003  <!-- Rocket Lab | Senior Software Engineer II - Simulation Engineering  | Littleton, CO | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7893884003  <!-- Rocket Lab | Senior Software Engineer I - Simulation Engineering  | Littleton, CO | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7687007003  <!-- Rocket Lab | Senior Software Engineer - Operations Software | Auckland, NZ | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7737073003  <!-- Rocket Lab | Software Engineer II - MES | Long Beach, CA | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7929946003  <!-- Rocket Lab | Software Engineer II - Robotics | Pasadena, CA | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7862983003  <!-- Rocket Lab | Software Engineer - Neutron Flight Safety Systems | Auckland, NZ | scout 2026-10-12 -->
+- [ ] https://boards.greenhouse.io/vast/jobs/4714389006?gh_jid=4714389006  <!-- Vast | Avionics Test Software Engineer | Long Beach, California, United States | scout 2026-10-12 -->
+- [ ] https://nuro.ai/careersitem?gh_jid=7917839  <!-- Nuro | Full Stack Software Engineer, Fleet Platform and Operations Tooling | Mountain View, California (HQ) | scout 2026-10-12 -->
+- [ ] https://nuro.ai/careersitem?gh_jid=8248317  <!-- Nuro | New Grad Software Engineer, Product Engineering | Mountain View, California (HQ) | scout 2026-10-12 -->
+- [ ] https://nuro.ai/careersitem?gh_jid=7974966  <!-- Nuro | Principal Software Engineer, Onboard Infrastructure | Mountain View, California (HQ) | scout 2026-10-12 -->
+- [ ] https://nuro.ai/careersitem?gh_jid=7896065  <!-- Nuro | Senior Software Engineer, Autonomy Visualization | Mountain View, California (HQ) | scout 2026-10-12 -->
+- [ ] https://nuro.ai/careersitem?gh_jid=6953540  <!-- Nuro | Senior Software Engineer, Behavior Planning | Mountain View, California (HQ) | scout 2026-10-12 -->
+- [ ] https://nuro.ai/careersitem?gh_jid=8082100  <!-- Nuro | Senior Software Engineer, Collision Avoidance | Mountain View, California (HQ) | scout 2026-10-12 -->
+- [ ] https://nuro.ai/careersitem?gh_jid=7736159  <!-- Nuro | Senior Software Engineer, Collision Avoidance Testing | Mountain View, California (HQ) | scout 2026-10-12 -->
+- [ ] https://nuro.ai/careersitem?gh_jid=8163202  <!-- Nuro | Senior Software Engineer, Devices Platform | Mountain View, California (HQ) | scout 2026-10-12 -->
+- [ ] https://nuro.ai/careersitem?gh_jid=8011527  <!-- Nuro | Senior Software Engineer, ML Infrastructure | Mountain View, California (HQ) | scout 2026-10-12 -->
+- [ ] https://nuro.ai/careersitem?gh_jid=8122477  <!-- Nuro | Senior Software Engineer, ML Infrastructure Platform | Mountain View, California (HQ) | scout 2026-10-12 -->
+- [ ] https://nuro.ai/careersitem?gh_jid=8163209  <!-- Nuro | Senior Software Engineer, Networking & Real-Time Systems | Mountain View, California (HQ) | scout 2026-10-12 -->
+- [ ] https://nuro.ai/careersitem?gh_jid=7701096  <!-- Nuro | Senior Software Engineer, Onboard Autonomy | Mountain View, California (HQ) | scout 2026-10-12 -->
+- [ ] https://nuro.ai/careersitem?gh_jid=7736012  <!-- Nuro | Senior Software Engineer, Perception Data Infrastructure | Mountain View, California (HQ) | scout 2026-10-12 -->
+- [ ] https://nuro.ai/careersitem?gh_jid=6516915  <!-- Nuro | Senior Software Engineer, Perception, Machine Learning/Computer Vision | Mountain View, California (HQ) | scout 2026-10-12 -->
+- [ ] https://nuro.ai/careersitem?gh_jid=7389868  <!-- Nuro | Senior Software Engineer, Perception ML | Mountain View, California (HQ) | scout 2026-10-12 -->
+- [ ] https://nuro.ai/careersitem?gh_jid=7786596  <!-- Nuro | Senior Software Engineer, Performance Tooling and Infrastructure | Mountain View, California (HQ) | scout 2026-10-12 -->
+- [ ] https://nuro.ai/careersitem?gh_jid=8263455  <!-- Nuro | Senior Software Engineer, Pose | Mountain View, California (HQ) | scout 2026-10-12 -->
+- [ ] https://nuro.ai/careersitem?gh_jid=7438992  <!-- Nuro | Senior Software Engineer, Ride-Hailing Product | Mountain View, California (HQ) | scout 2026-10-12 -->
+- [ ] https://nuro.ai/careersitem?gh_jid=6832319  <!-- Nuro | Senior Software Engineer, Routing | Mountain View, California (HQ) | scout 2026-10-12 -->
+- [ ] https://nuro.ai/careersitem?gh_jid=8163195  <!-- Nuro | Senior Software Engineer, Sensor Platform | Mountain View, California (HQ) | scout 2026-10-12 -->
+- [ ] https://nuro.ai/careersitem?gh_jid=5401358  <!-- Nuro | Senior Software Engineer, Simulation | Mountain View, California (HQ) | scout 2026-10-12 -->
+- [ ] https://nuro.ai/careersitem?gh_jid=8163218  <!-- Nuro | Senior Software Engineer, Video Streaming | Mountain View, California (HQ) | scout 2026-10-12 -->
+- [ ] https://nuro.ai/careersitem?gh_jid=8049931  <!-- Nuro | Senior/Staff Machine Learning Engineer, Sensor Simulation | Mountain View, California (HQ) | scout 2026-10-12 -->
+- [ ] https://nuro.ai/careersitem?gh_jid=8097555  <!-- Nuro | Senior/Staff Software Engineer, AI Agent Infrastructure | Mountain View, California (HQ) | scout 2026-10-12 -->
+- [ ] https://nuro.ai/careersitem?gh_jid=7243150  <!-- Nuro | Senior/Staff Software Engineer,  Behavior Verification | Mountain View, California (HQ) | scout 2026-10-12 -->
+- [ ] https://nuro.ai/careersitem?gh_jid=7895640  <!-- Nuro | Senior/Staff Software Engineer, Data Platform | Mountain View, California (HQ) | scout 2026-10-12 -->
+- [ ] https://nuro.ai/careersitem?gh_jid=7895638  <!-- Nuro | Senior/Staff Software Engineer, ML Data Infrastructure | Mountain View, California (HQ) | scout 2026-10-12 -->
+- [ ] https://nuro.ai/careersitem?gh_jid=8122528  <!-- Nuro | Senior/Staff Software Engineer, ML Inference Platform | Mountain View, California (HQ) | scout 2026-10-12 -->
+- [ ] https://nuro.ai/careersitem?gh_jid=8011514  <!-- Nuro | Senior/Staff Software Engineer, ML Infrastructure, Optimization | Mountain View, California (HQ) | scout 2026-10-12 -->
+- [ ] https://nuro.ai/careersitem?gh_jid=7351066  <!-- Nuro | Software Engineer, AI Platform - New Grad | Mountain View, California (HQ) | scout 2026-10-12 -->
+- [ ] https://nuro.ai/careersitem?gh_jid=8122990  <!-- Nuro | Software Engineer, Applied AI Infrastructure | Mountain View, California (HQ) | scout 2026-10-12 -->
+- [ ] https://nuro.ai/careersitem?gh_jid=7896063  <!-- Nuro | Software Engineer, Autonomy Visualization | Mountain View, California (HQ) | scout 2026-10-12 -->
+- [ ] https://nuro.ai/careersitem?gh_jid=8221208  <!-- Nuro | Software Engineer, Cloud Infrastructure and Observability | Mountain View, California (HQ) | scout 2026-10-12 -->
+- [ ] https://nuro.ai/careersitem?gh_jid=7895644  <!-- Nuro | Software Engineer, Data Platform | Mountain View, California (HQ) | scout 2026-10-12 -->
+- [ ] https://nuro.ai/careersitem?gh_jid=7895818  <!-- Nuro | Software Engineer, ML Data Infrastructure | Mountain View, California (HQ) | scout 2026-10-12 -->
+- [ ] https://nuro.ai/careersitem?gh_jid=8122537  <!-- Nuro | Software Engineer, ML Inference Platform | Mountain View, California (HQ) | scout 2026-10-12 -->
+- [ ] https://nuro.ai/careersitem?gh_jid=6909931  <!-- Nuro | Software Engineer, ML Infrastructure | Mountain View, California (HQ) | scout 2026-10-12 -->
+- [ ] https://nuro.ai/careersitem?gh_jid=6916236  <!-- Nuro | Software Engineer, ML Infrastructure, Optimization | Mountain View, California (HQ) | scout 2026-10-12 -->
+- [ ] https://nuro.ai/careersitem?gh_jid=8122483  <!-- Nuro | Software Engineer, ML Infrastructure Platform | Mountain View, California (HQ) | scout 2026-10-12 -->
+- [ ] https://nuro.ai/careersitem?gh_jid=7638789  <!-- Nuro | Software Engineer, Offboard Infrastructure | Mountain View, California (HQ) | scout 2026-10-12 -->
+- [ ] https://nuro.ai/careersitem?gh_jid=7998328  <!-- Nuro | Software Engineer, Onboard Platform | Mountain View, California (HQ) | scout 2026-10-12 -->
+- [ ] https://nuro.ai/careersitem?gh_jid=7786521  <!-- Nuro | Software Engineer, Performance Tooling and Infrastructure | Mountain View, California (HQ) | scout 2026-10-12 -->
+- [ ] https://nuro.ai/careersitem?gh_jid=8227399  <!-- Nuro | Software Engineer, Performance Tooling and Infrastructure New Grad | Mountain View, California (HQ) | scout 2026-10-12 -->
+- [ ] https://nuro.ai/careersitem?gh_jid=7482347  <!-- Nuro | Software Engineer, Routing | Mountain View, California (HQ) | scout 2026-10-12 -->
+- [ ] https://nuro.ai/careersitem?gh_jid=8163179  <!-- Nuro | Software Engineer, Sensor Platform | Mountain View, California (HQ) | scout 2026-10-12 -->
+- [ ] https://nuro.ai/careersitem?gh_jid=8230855  <!-- Nuro | Software Engineer, Software Updates | Mountain View, California (HQ) | scout 2026-10-12 -->
+- [ ] https://nuro.ai/careersitem?gh_jid=8164473  <!-- Nuro | Software Engineer, Video Streaming | Mountain View, California (HQ) | scout 2026-10-12 -->
+- [ ] https://nuro.ai/careersitem?gh_jid=8114754  <!-- Nuro | Staff/Lead Machine Learning Engineer, Behavior & Planning | Mountain View, California (HQ) | scout 2026-10-12 -->
+- [ ] https://nuro.ai/careersitem?gh_jid=7238934  <!-- Nuro | Staff/Senior Software Engineer, Offboard Infrastructure | Mountain View, California (HQ) | scout 2026-10-12 -->
+- [ ] https://nuro.ai/careersitem?gh_jid=7998327  <!-- Nuro | Staff/Senior Software Engineer, Onboard Infrastructure | Mountain View, California (HQ) | scout 2026-10-12 -->
+- [ ] https://nuro.ai/careersitem?gh_jid=7137941  <!-- Nuro | Staff Software Engineer, Behavior ML Data | Mountain View, California (HQ) | scout 2026-10-12 -->
+- [ ] https://nuro.ai/careersitem?gh_jid=7280336  <!-- Nuro | Staff Software Engineer, Routing | Mountain View, California (HQ) | scout 2026-10-12 -->
+- [ ] https://nuro.ai/careersitem?gh_jid=8160091  <!-- Nuro | Tech Lead Software Engineer, Fleet Connectivity | Mountain View, California (HQ) | scout 2026-10-12 -->
+- [ ] https://www.zipline.com/open-roles/7652331003?gh_jid=7652331003  <!-- Zipline | Full Stack Software Engineer - Mapping | Kigali, Rwanda | scout 2026-10-12 -->
+- [ ] https://www.zipline.com/open-roles/8017330003?gh_jid=8017330003  <!-- Zipline | Staff Software Engineer – Integrations Platform | South San Francisco, California, USA | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4685172006  <!-- Figure AI | Helix AI Engineer, Backend  | San Jose, CA | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4345915006  <!-- Figure AI | Helix AI Engineer, Data Infrastructure  | San Jose, CA | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4696533006  <!-- Figure AI | Helix AI Engineer, Localization and Mapping | San Jose, CA | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4007375006  <!-- Figure AI | Helix AI Engineer, Perception | San Jose, CA | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4705296006  <!-- Figure AI | Helix AI Engineer, Training Performance | San Jose, CA | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4671703006  <!-- Figure AI | Helix AI Engineer, Video Pretraining | San Jose, CA | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4699095006  <!-- Figure AI | Helix AI Engineer, XR | San Jose, CA | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4609306006  <!-- Figure AI | Senior Software Engineer, Middleware Productivity | San Jose, CA | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4692559006  <!-- Figure AI | Software Engineer, Manufacturing Systems | San Jose, CA | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4690871006  <!-- Figure AI | Software Engineer, Privacy & Data Governance | San Jose, CA | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/figureai/jobs/4713838006  <!-- Figure AI | Software Engineer, Service & Operations | San Jose, CA | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/8142914  <!-- Planet Labs | Senior Machine Learning Engineer | Arlington, VA | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/8255417  <!-- Planet Labs |   Senior Software Engineer | Ljubljana, Slovenia | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/8233190  <!-- Planet Labs | Senior Software Engineer |  Haarlem, Netherlands | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/8233191  <!-- Planet Labs | Senior Software Engineer |  Ljubljana, Slovenia | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/8197622  <!-- Planet Labs | Senior Software Engineer, Mission Optimization | San Francisco, CA | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/8233193  <!-- Planet Labs | Software Engineer | Ljubljana, Slovenia | scout 2026-10-12 -->
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/8233192  <!-- Planet Labs | Software Engineer | Haarlem, Netherlands | scout 2026-10-12 -->
