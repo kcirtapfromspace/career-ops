@@ -39625,3 +39625,115 @@ https://boards-api.greenhouse.io/v1/boards/clickhouse/jobs	2026-10-11	greenhouse
 2026-10-11	scout-quickcheck	https://job-boards.greenhouse.io/rocketlab/jobs/8007303003	Rocket Lab	Senior Software Engineer	Auckland, NZ
 2026-10-11	scout-quickcheck	https://nuro.ai/careersitem?gh_jid=8230855	Nuro	Software Engineer, Software Updates	Mountain View, California (HQ)
 2026-10-11	scout-quickcheck	https://job-boards.greenhouse.io/planetlabs/jobs/8255417	Planet Labs	  Senior Software Engineer	Ljubljana, Slovenia
+2026-10-12	scout-scan	https://boards-api.greenhouse.io/v1/boards/anthropic/jobs	Anthropic	API_SCANNED	api-endpoint
+2026-10-12	scout-scan	https://job-boards.greenhouse.io/anthropic/jobs/5448481008	Anthropic	Data Engineer, Product	San Francisco, CA; New York City, NY; Seattle, WA	pipeline
+2026-10-12	scout-scan	https://job-boards.greenhouse.io/anthropic/jobs/5418610008	Anthropic	Data Engineer, GTM	San Francisco, CA; New York City, NY	pipeline
+2026-10-12	scout-scan	https://job-boards.greenhouse.io/anthropic/jobs/5418402008	Anthropic	Engineering Manager, Business Technology	San Francisco, CA; New York City, NY	pipeline
+2026-10-12	scout-scan	https://job-boards.greenhouse.io/anthropic/jobs/5392856008	Anthropic	DevOps / AgentOps Engineer, GTM Systems	San Francisco, CA	skipped_location
+2026-10-12	scout-scan	https://job-boards.greenhouse.io/anthropic/jobs/5382750008	Anthropic	AI Infrastructure Operations, Demand Planning	San Francisco, CA; New York City, NY	skipped_title
+2026-10-12	scout-scan	https://job-boards.greenhouse.io/anthropic/jobs/5186067008	Anthropic	Full-Stack Software Engineer, Reinforcement Learning	San Francisco, CA; New York City, NY	skipped_dup
+2026-10-12	scout-scan	https://job-boards.greenhouse.io/anthropic/jobs/5426135008	Anthropic	Engineering Manager, Data Infrastructure	San Francisco, CA; New York City, NY	skipped_dup
+2026-10-12	scout-scan	https://job-boards.greenhouse.io/anthropic/jobs/5411560008	Anthropic	Engineering Manager, Inference Infrastructure	San Francisco, CA; New York City, NY; Seattle, WA	skipped_dup
+2026-10-12	scout-scan	https://job-boards.greenhouse.io/anthropic/jobs/5297059008	Anthropic	Engineering Manager, Research Data Platform	San Francisco, CA; New York City, NY	skipped_dup
+2026-10-12	scout-scan	https://job-boards.greenhouse.io/anthropic/jobs/5364804008	Anthropic	Machine Learning Infrastructure Engineer, Safeguards Research	San Francisco, CA; New York City, NY	skipped_dup
+2026-10-12	scout-scan	https://boards-api.greenhouse.io/v1/boards/fivetran/jobs	Fivetran	API_SCANNED	api-endpoint
+2026-10-12	scout-scan	https://www.fivetran.com/careers/job?gh_jid=7859203003	Fivetran	Engineering Manager, Metadata	Oakland, California	pipeline
+2026-10-12	scout-scan	https://www.fivetran.com/careers/job?gh_jid=7812269003	Fivetran	Principal Software Engineer, AI Tooling & Adoption	Oakland, California	pipeline
+2026-10-12	scout-scan	https://www.fivetran.com/careers/job?gh_jid=7865559003	Fivetran	Senior Software Engineer - Metadata	Denver, Colorado	pipeline
+2026-10-12	scout-scan	https://www.fivetran.com/careers/job?gh_jid=8003720003	Fivetran	Senior Software Engineer - Orchestration	Denver, Colorado	skipped_title
+2026-10-12	scout-scan	https://www.fivetran.com/careers/job?gh_jid=7818376003	Fivetran	Senior Manager, dbt Fusion	Oakland, California	skipped_title
+2026-10-12	scout-scan	https://www.fivetran.com/careers/job?gh_jid=7711200003	Fivetran	Principal Software Engineer	Oakland, California	skipped_dup
+2026-10-12	scout-scan	https://www.fivetran.com/careers/job?gh_jid=7810467003	Fivetran	Senior R&D Software Engineer, Fivetran AI	Denver, Colorado	skipped_dup
+2026-10-12	scout-scan	https://www.fivetran.com/careers/job?gh_jid=7823195003	Fivetran	Engineering Manager, Metadata	Denver, Colorado	skipped_dup
+2026-10-12	scout-scan	https://www.fivetran.com/careers/job?gh_jid=8013525003	Fivetran	Senior Manager, dbt Fusion	Denver, Colorado	skipped_dup
+2026-10-12	scout-scan	https://boards-api.greenhouse.io/v1/boards/scaleai/jobs	Scale AI	API_SCANNED	api-endpoint
+2026-10-12	scout-scan	https://job-boards.greenhouse.io/scaleai/jobs/4631848005	Scale AI	Machine Learning Engineer, Public Sector	Denver, CO	pipeline
+2026-10-12	scout-scan	https://job-boards.greenhouse.io/scaleai/jobs/4732798005	Scale AI	Senior Machine Learning Engineer, Public Sector	Denver, CO	pipeline
+2026-10-12	scout-scan	https://job-boards.greenhouse.io/scaleai/jobs/4625271005	Scale AI	Engineering Manager, Agent Oversight	San Francisco, CA; New York, NY	pipeline
+2026-10-12	scout-scan	https://job-boards.greenhouse.io/scaleai/jobs/4733702005	Scale AI	Engineering Manager, Customer Platform (GenAI)	San Francisco, CA; New York, NY	pipeline
+2026-10-12	scout-scan	https://job-boards.greenhouse.io/scaleai/jobs/4602177005	Scale AI	Frontier Agent Engineering Manager, Enterprise	San Francisco, CA; New York, NY	pipeline
+2026-10-12	scout-scan	https://job-boards.greenhouse.io/scaleai/jobs/4694869005	Scale AI	Senior Staff Frontier Agents Engineer	San Francisco, CA; New York, NY	pipeline
+2026-10-12	scout-scan	https://job-boards.greenhouse.io/scaleai/jobs/4665557005	Scale AI	Infrastructure Software Engineer, Enterprise GenAI	San Francisco, CA; New York, NY	skipped_title
+2026-10-12	scout-scan	https://job-boards.greenhouse.io/scaleai/jobs/4674863005	Scale AI	DevOps Engineer, Infrastructure & Security	Washington, DC	skipped_location
+2026-10-12	scout-scan	https://job-boards.greenhouse.io/scaleai/jobs/4674911005	Scale AI	Senior Software Engineer, Public Sector	San Francisco, CA; St. Louis, MO; New York, NY; Washington, DC	skipped_title
+2026-10-12	scout-scan	https://job-boards.greenhouse.io/scaleai/jobs/4739920005	Scale AI	Senior Software Engineer, Orchestration Platform	San Francisco, CA; New York, NY	skipped_title
+2026-10-12	scout-scan	https://job-boards.greenhouse.io/scaleai/jobs/4730512005	Scale AI	Senior Software Engineer, Platform	San Francisco, CA; New York, NY	skipped_title
+2026-10-12	scout-scan	https://job-boards.greenhouse.io/scaleai/jobs/4658162005	Scale AI	Senior/Staff Machine Learning Research Engineer	San Francisco, CA; New York, NY	skipped_title
+2026-10-12	scout-scan	https://job-boards.greenhouse.io/scaleai/jobs/4534631005	Scale AI	ML Research Engineer, ML Systems	San Francisco, CA; Seattle, WA; New York, NY	skipped_title
+2026-10-12	scout-scan	https://job-boards.greenhouse.io/scaleai/jobs/4599700005	Scale AI	Senior Infrastructure Software Engineer, Enterprise AI	New York, NY; San Francisco, CA	skipped_title
+2026-10-12	scout-scan	https://job-boards.greenhouse.io/scaleai/jobs/4713597005	Scale AI	Senior Data Engineer, Public Sector	Washington, DC	skipped_location
+2026-10-12	scout-scan	https://boards-api.greenhouse.io/v1/boards/databricks/jobs	Databricks	API_SCANNED	api-endpoint
+2026-10-12	scout-scan	https://databricks.com/company/careers/open-positions/job?gh_jid=8324875002	Databricks	Engineering Manager - Streaming	Bellevue, Washington	pipeline
+2026-10-12	scout-scan	https://databricks.com/company/careers/open-positions/job?gh_jid=8603361002	Databricks	Engineering Manager, Serverless Compute Platform	Bellevue, Washington	pipeline
+2026-10-12	scout-scan	https://databricks.com/company/careers/open-positions/job?gh_jid=8786930002	Databricks	Engineering Manager, App Traffic	Mountain View, California	skipped_title
+2026-10-12	scout-scan	https://databricks.com/company/careers/open-positions/job?gh_jid=8578093002	Databricks	Engineering Manager - Data Visualization Platform	Bellevue, Washington	skipped_title
+2026-10-12	scout-scan	https://databricks.com/company/careers/open-positions/job?gh_jid=8458032002	Databricks	Manager, Field Engineering - Strategic Digital Native	Remote - California; Colorado; Oregon; Washington	skipped_title
+2026-10-12	scout-scan	https://databricks.com/company/careers/open-positions/job?gh_jid=7477627002	Databricks	Engineering Manager (various)	Various	skipped_dup
+2026-10-12	scout-scan	https://databricks.com/company/careers/open-positions/job?gh_jid=7477633002	Databricks	Engineering Manager (various)	Various	skipped_dup
+2026-10-12	scout-scan	https://databricks.com/company/careers/open-positions/job?gh_jid=8784103002	Databricks	Engineering Manager (various)	Various	skipped_dup
+2026-10-12	scout-scan	https://boards-api.greenhouse.io/v1/boards/trueanomalyinc/jobs	True Anomaly	API_SCANNED	api-endpoint
+2026-10-12	scout-scan	https://job-boards.greenhouse.io/trueanomalyinc/jobs/5138856007	True Anomaly	Machine Learning Engineer (II-III), Space Agentic AI	Denver, CO or Long Beach, CA	pipeline
+2026-10-12	scout-scan	https://job-boards.greenhouse.io/trueanomalyinc/jobs/5228067007	True Anomaly	Machine Learning Engineer (II-III), Space Edge Deployment	Denver, CO or Long Beach, CA	pipeline
+2026-10-12	scout-scan	https://job-boards.greenhouse.io/trueanomalyinc/jobs/5252981007	True Anomaly	Engineering Manager, Software (Modeling and Simulation)	Denver, CO or Long Beach, CA	pipeline
+2026-10-12	scout-scan	https://job-boards.greenhouse.io/trueanomalyinc/jobs/5224739007	True Anomaly	Senior DevOps Engineer	Denver, CO or Long Beach, CA	pipeline
+2026-10-12	scout-scan	https://job-boards.greenhouse.io/trueanomalyinc/jobs/5166540007	True Anomaly	Platform Engineer, AI (Levels I, II, III)	Denver, CO or Long Beach, CA	pipeline
+2026-10-12	scout-scan	https://job-boards.greenhouse.io/trueanomalyinc/jobs/5090419007	True Anomaly	Senior Software Engineer, Elixir	Denver, CO or Long Beach, CA	skipped_title
+2026-10-12	scout-scan	https://job-boards.greenhouse.io/trueanomalyinc/jobs/5092038007	True Anomaly	Senior Software Engineer, Full Stack	Denver, CO or Long Beach, CA	skipped_title
+2026-10-12	scout-scan	https://job-boards.greenhouse.io/trueanomalyinc/jobs/5223279007	True Anomaly	Data Engineer I	Denver, CO; Long Beach, CA	skipped_title
+2026-10-12	scout-scan	https://job-boards.greenhouse.io/trueanomalyinc/jobs/5220130007	True Anomaly	Principal Data Engineer	Denver, CO; Long Beach, CA	skipped_dup
+2026-10-12	scout-scan	https://job-boards.greenhouse.io/trueanomalyinc/jobs/5240091007	True Anomaly	Engineering Manager, Perception AI	Denver, CO; Long Beach, CA	skipped_dup
+2026-10-12	scout-scan	https://job-boards.greenhouse.io/trueanomalyinc/jobs/5166543007	True Anomaly	Senior Platform Engineer, AI	Denver, CO; Long Beach, CA	skipped_dup
+2026-10-12	scout-scan	https://job-boards.greenhouse.io/trueanomalyinc/jobs/5182446007	True Anomaly	Senior Platform Engineer, Infrastructure	Denver, CO; Long Beach, CA	skipped_dup
+2026-10-12	scout-scan	https://boards-api.greenhouse.io/v1/boards/chainguard/jobs	Chainguard	API_SCANNED	api-endpoint
+2026-10-12	scout-scan	https://job-boards.greenhouse.io/chainguard/jobs/4715303006	Chainguard	Senior Manager, Engineering (Container Product Engineering)	United States - Remote	pipeline
+2026-10-12	scout-scan	https://job-boards.greenhouse.io/chainguard/jobs/4713466006	Chainguard	Staff Software Engineer (Malware Detection)	United States - Remote	pipeline
+2026-10-12	scout-scan	https://job-boards.greenhouse.io/chainguard/jobs/4699416006	Chainguard	Senior Software Engineer, Developer Platform	United States - Remote	skipped_title
+2026-10-12	scout-scan	https://job-boards.greenhouse.io/chainguard/jobs/4715630006	Chainguard	Senior Software Engineer (Repository)	United States - Remote	skipped_title
+2026-10-12	scout-scan	https://job-boards.greenhouse.io/chainguard/jobs/4712233006	Chainguard	Senior Software Engineer, Sustaining Automation	United States - Remote	skipped_title
+2026-10-12	scout-scan	https://job-boards.greenhouse.io/chainguard/jobs/4700937006	Chainguard	Senior Software Engineer (AI CICD)	United States - Remote	skipped_title
+2026-10-12	scout-scan	https://job-boards.greenhouse.io/chainguard/jobs/4714346006	Chainguard	Senior Security Engineer (Infrastructure)	United States - Remote	skipped_title
+2026-10-12	scout-scan	https://job-boards.greenhouse.io/chainguard/jobs/4714568006	Chainguard	Software Engineer (Repositories)	United States - Remote	skipped_title
+2026-10-12	scout-scan	https://job-boards.greenhouse.io/chainguard/jobs/4718566006	Chainguard	Engineering Manager, AI CICD	United States - Remote	skipped_dup
+2026-10-12	scout-scan	https://job-boards.greenhouse.io/chainguard/jobs/4697216006	Chainguard	Senior Software Engineer (Customer Platform)	United States - Remote	skipped_dup
+2026-10-12	scout-scan	https://job-boards.greenhouse.io/chainguard/jobs/4712228006	Chainguard	Staff Software Engineer, Sustaining Automation	United States - Remote	skipped_dup
+2026-10-12	scout-scan	https://job-boards.greenhouse.io/chainguard/jobs/4713044006	Chainguard	Staff Platform Database Engineer	United States - Remote	skipped_dup
+2026-10-12	scout-scan	https://boards-api.greenhouse.io/v1/boards/samsara/jobs	Samsara	API_SCANNED	api-endpoint
+2026-10-12	scout-scan	https://www.samsara.com/company/careers/roles/8148638?gh_jid=8148638	Samsara	Manager II, Software Engineering, Infrastructure	Remote - US	pipeline
+2026-10-12	scout-scan	https://www.samsara.com/company/careers/roles/8141959?gh_jid=8141959	Samsara	Data Engineer	Remote - US	skipped_dup
+2026-10-12	scout-scan	https://www.samsara.com/company/careers/roles/7721193?gh_jid=7721193	Samsara	Lead Machine Learning Engineer - ML Infrastructure	Remote - US	skipped_dup
+2026-10-12	scout-scan	https://www.samsara.com/company/careers/roles/8232932?gh_jid=8232932	Samsara	ML/AI - Supply Chain	Remote - US	skipped_title
+2026-10-12	scout-scan	https://boards-api.greenhouse.io/v1/boards/planetlabs/jobs	Planet Labs	API_SCANNED	api-endpoint
+2026-10-12	scout-scan	https://job-boards.greenhouse.io/planetlabs/jobs/8154780	Planet Labs	Senior Software Engineer, Storage Infrastructure	United States, Remote	pipeline
+2026-10-12	scout-scan	https://job-boards.greenhouse.io/planetlabs/jobs/8143129	Planet Labs	Senior Software Engineer, Full-stack - D&I Solutions	United States, Remote	skipped_title
+2026-10-12	scout-scan	https://job-boards.greenhouse.io/planetlabs/jobs/8155646	Planet Labs	Senior Software Engineer, GMS App Team	United States, Remote	skipped_title
+2026-10-12	scout-scan	https://job-boards.greenhouse.io/planetlabs/jobs/7555019	Planet Labs	Software Engineer, Platform Operations	United States, Remote	skipped_title
+2026-10-12	scout-scan	https://job-boards.greenhouse.io/planetlabs/jobs/8142914	Planet Labs	Senior Machine Learning Engineer	Arlington, VA	skipped_location
+2026-10-12	scout-scan	https://job-boards.greenhouse.io/planetlabs/jobs/8106198	Planet Labs	Senior Site Reliability Engineer	US, Remote	skipped_dup
+2026-10-12	scout-scan	https://boards-api.greenhouse.io/v1/boards/vercel/jobs	Vercel	API_SCANNED	api-endpoint
+2026-10-12	scout-scan	https://job-boards.greenhouse.io/vercel/jobs/6208037004	Vercel	Machine Learning Engineer, Trust & Safety	Hybrid - San Francisco, New York City	pipeline
+2026-10-12	scout-scan	https://job-boards.greenhouse.io/vercel/jobs/5430088004	Vercel	Software Engineer, Backend	Remote - United States	skipped_title
+2026-10-12	scout-scan	https://job-boards.greenhouse.io/vercel/jobs/6102335004	Vercel	Security Engineer, Cloud	Remote - United States	skipped_title
+2026-10-12	scout-scan	https://job-boards.greenhouse.io/vercel/jobs/5701765004	Vercel	Engineering Manager, CDN	Hybrid - San Francisco	skipped_title
+2026-10-12	scout-scan	https://job-boards.greenhouse.io/vercel/jobs/6115908004	Vercel	Engineering Manager, Dashboard	Hybrid - San Francisco	skipped_title
+2026-10-12	scout-scan	https://job-boards.greenhouse.io/vercel/jobs/6140055004	Vercel	Engineering Manager - Next.js	Hybrid - San Francisco, New York City	skipped_title
+2026-10-12	scout-scan	https://job-boards.greenhouse.io/vercel/jobs/6188400004	Vercel	Software Engineer - Data Platform	Remote - United States	skipped_dup
+2026-10-12	scout-scan	https://boards-api.greenhouse.io/v1/boards/gleanwork/jobs	Glean	API_SCANNED	api-endpoint
+2026-10-12	scout-scan	https://job-boards.greenhouse.io/gleanwork/jobs/4654833005	Glean	Lead Site Reliability Engineer	Mountain View, CA	pipeline
+2026-10-12	scout-scan	https://job-boards.greenhouse.io/gleanwork/jobs/4711484005	Glean	Machine Learning Engineer, Assistant Quality	San Francisco, CA	skipped_title
+2026-10-12	scout-scan	https://job-boards.greenhouse.io/gleanwork/jobs/4738120005	Glean	Machine Learning Engineer, Search Quality	San Francisco, CA	skipped_title
+2026-10-12	scout-scan	https://job-boards.greenhouse.io/gleanwork/jobs/4740921005	Glean	Software Engineer, Tech Lead, Admin Console	San Francisco, CA	skipped_dup
+2026-10-12	scout-scan	https://job-boards.greenhouse.io/gleanwork/jobs/4740930005	Glean	Software Engineer, Tech Lead, Admin Console	Mountain View, CA	skipped_dup
+2026-10-12	scout-scan	https://boards-api.greenhouse.io/v1/boards/arizeai/jobs	Arize AI	API_SCANNED	api-endpoint
+2026-10-12	scout-scan	https://job-boards.greenhouse.io/arizeai/jobs/6203635004	Arize AI	DevOps Engineer	Remote (United States)	pipeline
+2026-10-12	scout-scan	https://job-boards.greenhouse.io/arizeai/jobs/5396396004	Arize AI	Senior AI Product Engineer, Backend	Remote (United States)	skipped_title
+2026-10-12	scout-scan	https://job-boards.greenhouse.io/arizeai/jobs/5396420004	Arize AI	Senior AI Product Engineer, Fullstack	Remote (United States)	skipped_title
+2026-10-12	scout-scan	https://job-boards.greenhouse.io/arizeai/jobs/6128122004	Arize AI	Applied AI Engineer	Remote (San Francisco)	skipped_title
+2026-10-12	scout-scan	https://boards-api.greenhouse.io/v1/boards/humeai/jobs	Hume AI	API_SCANNED	api-endpoint
+2026-10-12	scout-scan	https://job-boards.greenhouse.io/humeai/jobs/5064248008	Hume AI	Senior Platform Engineer	New York, New York	skipped_location
+2026-10-12	scout-scan	https://job-boards.greenhouse.io/humeai/jobs/4816209008	Hume AI	Senior Software Engineer - Backend & Machine Learning	New York, New York	skipped_location
+2026-10-12	scout-scan	https://job-boards.greenhouse.io/humeai/jobs/4003488008	Hume AI	Senior/Staff AI Research Engineer	NYC, San Jose, or Remote	skipped_dup
+2026-10-12	scout-scan	https://boards-api.greenhouse.io/v1/boards/dagsterlabs/jobs	Dagster	API_SCANNED_EMPTY	api-endpoint
+2026-10-12	scout-scan	https://boards-api.greenhouse.io/v1/boards/airtable/jobs	Airtable	API_SCANNED	api-endpoint
+2026-10-12	scout-scan	https://boards-api.greenhouse.io/v1/boards/rocketlab/jobs	Rocket Lab	API_SCANNED	api-endpoint
+2026-10-12	scout-scan	https://job-boards.greenhouse.io/rocketlab/jobs/7983815003	Rocket Lab	Flight Software Engineer II	Littleton, CO	skipped_title
+2026-10-12	scout-scan	https://boards-api.greenhouse.io/v1/boards/andurilindustries/jobs	Anduril	API_SCANNED	api-endpoint

@@ -11774,3 +11774,33 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - https://www.scandit.com/careers/job-description/?gh_jid=7552679 <!-- Scandit: Senior Machine Learning Engineer (Biometrics & Face Recognition) (Zurich) -->
 - https://nuro.ai/careersitem?gh_jid=8230855 <!-- Nuro: Software Engineer, Software Updates (Mountain View, California (HQ)) -->
 - https://job-boards.greenhouse.io/planetlabs/jobs/8255417 <!-- Planet Labs:   Senior Software Engineer (Ljubljana, Slovenia) -->
+
+## 2026-10-12
+
+<!-- Scout Scan: 2026-10-12 — 26 new matches (20 companies: Greenhouse API + WebSearch) -->
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5138856007 <!-- True Anomaly: Machine Learning Engineer (II-III), Space Agentic AI (Denver, CO or Long Beach, CA) | ★★★ Denver + defense tech + ML | score 4.8 -->
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4631848005 <!-- Scale AI: Machine Learning Engineer, Public Sector (Denver, CO) | ★★★ Denver + public sector ML — fits VA.gov/HHS background | score 4.8 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8324875002 <!-- Databricks: Engineering Manager - Streaming (Bellevue, WA) | ★★★ Seattle area EM + streaming/Kafka alignment | score 4.7 -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5448481008 <!-- Anthropic: Data Engineer, Product (San Francisco, CA; New York City, NY; Seattle, WA) | ★★★ Anthropic data eng; SF/Seattle acceptable | score 4.7 -->
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5252981007 <!-- True Anomaly: Engineering Manager, Software (Modeling and Simulation) (Denver, CO or Long Beach, CA) | ★★★ Denver EM, defense tech | score 4.5 -->
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4732798005 <!-- Scale AI: Senior Machine Learning Engineer, Public Sector (Denver, CO) | ★★★ Denver + public sector ML | score 4.5 -->
+- [ ] https://www.samsara.com/company/careers/roles/8148638?gh_jid=8148638 <!-- Samsara: Manager II, Software Engineering, Infrastructure (Remote - US) | ★★ remote EM, infra focus | score 4.3 -->
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4625271005 <!-- Scale AI: Engineering Manager, Agent Oversight (San Francisco, CA; New York, NY) | ★★ EM agentic AI; SF acceptable | score 4.3 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8603361002 <!-- Databricks: Engineering Manager, Serverless Compute Platform (Bellevue, WA) | ★★ Seattle area EM | score 4.3 -->
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5228067007 <!-- True Anomaly: Machine Learning Engineer (II-III), Space Edge Deployment (Denver, CO or Long Beach, CA) | ★★ Denver + ML edge | score 4.3 -->
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4694869005 <!-- Scale AI: Senior Staff Frontier Agents Engineer (San Francisco, CA; New York, NY) | ★★ senior staff level agents; SF acceptable | score 4.3 -->
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4715303006 <!-- Chainguard: Senior Manager, Engineering (Container Product Engineering) (United States - Remote) | ★★ remote EM, supply chain security | score 4.2 -->
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7859203003 <!-- Fivetran: Engineering Manager, Metadata (Oakland, CA) | ★★ Denver HQ company, EM metadata; Oakland/SF area | score 4.2 -->
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7812269003 <!-- Fivetran: Principal Software Engineer, AI Tooling & Adoption (Oakland, CA) | ★★ Principal level, AI tooling | score 4.2 -->
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6208037004 <!-- Vercel: Machine Learning Engineer, Trust & Safety (Hybrid - San Francisco, New York City) | ★★ ML eng at Vercel; SF acceptable | score 4.2 -->
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4733702005 <!-- Scale AI: Engineering Manager, Customer Platform (GenAI) (San Francisco, CA; New York, NY) | ★★ EM GenAI platform; SF acceptable | score 4.2 -->
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4602177005 <!-- Scale AI: Frontier Agent Engineering Manager, Enterprise (San Francisco, CA; New York, NY) | ★★ EM agents enterprise; SF acceptable | score 4.2 -->
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5224739007 <!-- True Anomaly: Senior DevOps Engineer (Denver, CO or Long Beach, CA) | ★ Denver DevOps, defense tech | score 4.0 -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5418610008 <!-- Anthropic: Data Engineer, GTM (San Francisco, CA; New York City, NY) | ★ Anthropic data eng GTM-focused; SF acceptable | score 4.0 -->
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4654833005 <!-- Glean: Lead Site Reliability Engineer (Mountain View, CA) | ★ SRE lead at AI search co; Mountain View/SF area | score 4.0 -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5418402008 <!-- Anthropic: Engineering Manager, Business Technology (San Francisco, CA; New York City, NY) | ★ Anthropic EM BizTech; SF acceptable | score 4.0 -->
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4713466006 <!-- Chainguard: Staff Software Engineer (Malware Detection) (United States - Remote) | ★ staff remote, security | score 4.0 -->
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5166540007 <!-- True Anomaly: Platform Engineer, AI (Levels I, II, III) (Denver, CO or Long Beach, CA) | Denver platform AI | score 3.8 -->
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/6203635004 <!-- Arize AI: DevOps Engineer (Remote - US) | remote DevOps at ML observability co | score 3.8 -->
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/8154780 <!-- Planet Labs: Senior Software Engineer, Storage Infrastructure (United States, Remote) | remote infra eng, space data | score 3.7 -->
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7865559003 <!-- Fivetran: Senior Software Engineer - Metadata (Denver, CO) | ★ Denver SSE at data co | score 3.7 -->
