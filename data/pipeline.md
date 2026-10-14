@@ -1,6 +1,7 @@
 # Pipeline — Pending Offers
 
 
+<!-- Scout Scan: 2026-10-14 — 2 new matches (70 companies: Greenhouse API + WebSearch) -->
 <!-- Scout Scan: 2026-10-13 — 0 new matches (15 companies scanned, all deduped against Oct 11-12) -->
 <!-- Scout Scan: 2026-10-11 — 25 new matches (40 companies: Greenhouse API + WebSearch) -->
 <!-- Scout Quickcheck: 2026-10-10 — 0 new matches (30 companies scanned, all duped against history) -->
@@ -9,6 +10,19 @@
 
 
 
+## 2026-10-14 — Scout Scan
+
+> Full scan: ~70 companies (Greenhouse API + WebSearch). 2 new matches. Report: [scout-2026-10-14.md](../reports/scout-2026-10-14.md)
+
+### ★★ Top Picks
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5378643008  <!-- Anthropic: Engineering Manager, Claude Platform | San Francisco, CA | New York City, NY | Posted 2026-10-14 | $405K-$485K -->
+
+### ★ Secondary
+
+- [ ] https://job-boards.greenhouse.io/twilio/jobs/7782805  <!-- Twilio: Staff Software Engineer (L4), Data Platform | Remote - US (CO eligible) | $171K-$213K CO | ⚠️ deadline Aug 28 may be past -->
+
+---
 ## 2026-10-12 — Quickcheck (Greenhouse API)
 
 > Quickcheck: 40 companies scanned. 14 new matches. Errors: Black Forest Labs, Wayve, Clickhouse (HTTP 404 — same as prior scans). Report: [scout-quickcheck-2026-10-12.md](../reports/scout-quickcheck-2026-10-12.md)
