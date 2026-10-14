@@ -12933,3 +12933,14 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7979523002  <!-- Databricks: Staff Software Engineer - User Activation | San Francisco, California | found 2026-10-13 -->
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8482086002  <!-- Databricks: Systems PhD - Software Engineer  | Bellevue, Washington; Seattle, Washington | found 2026-10-13 -->
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8482037002  <!-- Databricks: Systems PhD - Software Engineer  | Mountain View, California; San Francisco, California | found 2026-10-13 -->
+
+
+## 2026-10-14 — Quickcheck
+
+> Greenhouse API quickcheck: 41 companies scanned. 3 new matches. Report: [scout-quickcheck-2026-10-14.md](../reports/scout-quickcheck-2026-10-14.md)
+
+### ★★ Top Picks
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5451889008  <!-- Anthropic: Staff+ Software Engineer, Platform Acceleration | San Francisco, CA | New York City, NY | Seattle, WA | found 2026-10-14 -->
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/8249630  <!-- Planet Labs: Director of Software Engineering, Analytics | Denver, CO | Arlington, VA | found 2026-10-14 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5265428007  <!-- Anduril: Senior Software Engineer, Simulation Platform | Seattle, WA | found 2026-10-14 -->
