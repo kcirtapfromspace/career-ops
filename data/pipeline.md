@@ -1,6 +1,7 @@
 # Pipeline — Pending Offers
 
 
+<!-- Scout Quickcheck: 2026-10-15 — 0 new matches (36 companies: Greenhouse API only; prior agent covered same batch earlier today) -->
 <!-- Scout Scan: 2026-10-14 — 2 new matches (70 companies: Greenhouse API + WebSearch) -->
 <!-- Scout Scan: 2026-10-13 — 0 new matches (15 companies scanned, all deduped against Oct 11-12) -->
 <!-- Scout Scan: 2026-10-11 — 25 new matches (40 companies: Greenhouse API + WebSearch) -->
