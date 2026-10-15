@@ -12273,3 +12273,59 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - [ ] https://job-boards.greenhouse.io/planetlabs/jobs/8197622  <!-- Planet Labs | Senior Software Engineer, Mission Optimization | San Francisco, CA | scout 2026-10-12 -->
 - [ ] https://job-boards.greenhouse.io/planetlabs/jobs/8233193  <!-- Planet Labs | Software Engineer | Ljubljana, Slovenia | scout 2026-10-12 -->
 - [ ] https://job-boards.greenhouse.io/planetlabs/jobs/8233192  <!-- Planet Labs | Software Engineer | Haarlem, Netherlands | scout 2026-10-12 -->
+
+- https://job-boards.greenhouse.io/gleanwork/jobs/4742953005 <!-- Glean: Software Engineer, Agentic Runtime  | Mountain View, CA | discovered 2026-10-13 -->
+- https://job-boards.greenhouse.io/chainguard/jobs/4720009006 <!-- Chainguard: Staff Software Engineer (Customer Platform)  | United States - Remote | discovered 2026-10-13 -->
+- https://databricks.com/company/careers/open-positions/job?gh_jid=8612865002 <!-- Databricks: Sr. Staff Security Software Engineer - Agentic Security Engineering | Remote - California | discovered 2026-10-13 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5238925007?gh_jid=5238925007  <!-- Anduril: Industrial Engineering Lead, Maritime Production System Design | Santa Ana, California, United States | found 2026-10-13 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5264403007?gh_jid=5264403007  <!-- Anduril: Infrastructure Engineer | Reston, Virginia, United States | found 2026-10-13 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5264635007?gh_jid=5264635007  <!-- Anduril: Robotics Software Engineer  | Costa Mesa, California, United States | found 2026-10-13 -->
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6210353004  <!-- Vercel: Product Manager, Software Factory | Hybrid - San Francisco | found 2026-10-13 -->
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4721595006  <!-- Chainguard: Senior Software Engineer (Customer Platform) | United Kingdom - Remote | found 2026-10-13 -->
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4720007006  <!-- Chainguard: Staff Software Engineer (Customer Platform)  | Canada - Remote | found 2026-10-13 -->
+## 2026-10-14 — Quickcheck
+> Greenhouse API quickcheck: 41 companies scanned. 3 new matches. Report: [scout-quickcheck-2026-10-14.md](../reports/scout-quickcheck-2026-10-14.md)
+### ★★ Top Picks
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5451889008  <!-- Anthropic: Staff+ Software Engineer, Platform Acceleration | San Francisco, CA | New York City, NY | Seattle, WA | found 2026-10-14 -->
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/8249630  <!-- Planet Labs: Director of Software Engineering, Analytics | Denver, CO | Arlington, VA | found 2026-10-14 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5265428007  <!-- Anduril: Senior Software Engineer, Simulation Platform | Seattle, WA | found 2026-10-14 -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5440821008 | Anthropic | Applied AI Engineer, Beneficial Deployments (Lab Automation) | London, UK | 2026-10-14
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5378643008 | Anthropic | Engineering Manager, Claude Platform | San Francisco, CA | New York City, NY | 2026-10-14
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/5006380101 | Parloa | Principal Software Engineer - Real-Time Voice | Berlin Office | 2026-10-14
+- [ ] https://job-boards.eu.greenhouse.io/speechmatics/jobs/4996448101 | Speechmatics | Senior Machine Learning Engineer | London, England, United Kingdom | 2026-10-14
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/8030594003?gh_jid=8030594003 | Celonis | Senior AI Engineer - Process Intelligence  | Copenhagen, Denmark | 2026-10-14
+- [ ] https://job-boards.greenhouse.io/getyourguide/jobs/8281836 | GetYourGuide | Senior Software Engineer (Backend focused) - User Platform | Berlin | 2026-10-14
+- [ ] https://careers.hellofresh.com/global/en/job/8125293?gh_jid=8125293 | HelloFresh | Senior Backend Product Developer, SCM Tech Fulfillment | Toronto, Ontario, Canada | 2026-10-14
+- [ ] https://careers.hellofresh.com/global/en/job/8233761?gh_jid=8233761 | HelloFresh | Senior Machine Learning Engineer, Benefits Personalization | Toronto, Ontario, Canada | 2026-10-14
+- [ ] https://careers.hellofresh.com/global/en/job/8242900?gh_jid=8242900 | HelloFresh | Senior Service Designer, Food Systems & Fulfillment  | Warszawa, Masovian Voivodeship, Poland | 2026-10-14
+- [ ] https://careers.hellofresh.com/global/en/job/8242893?gh_jid=8242893 | HelloFresh | Senior Service Designer, Food Systems & Fulfillment (f/m/x) | Berlin, Berlin, Germany | 2026-10-14
+- [ ] https://sumup.com/careers/positions/8712443002?gh_jid=8712443002 | SumUp | Senior Machine Learning Engineer - Platform Team | Berlin, Germany | 2026-10-14
+- [ ] https://www.scandit.com/careers/job-description/?gh_jid=8276084 | Scandit | Full Stack Engineer - ID Scanning  | Tampere | 2026-10-14
+- [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/4644840101 | PhysicsX | Machine Learning Engineer | London, United Kingdom | 2026-10-14
+- [ ] https://nuro.ai/careersitem?gh_jid=8282222 | Nuro | Senior Software Engineer, Autonomy Behavior Testing | Mountain View, California (HQ) | 2026-10-14
+- [ ] https://www.zipline.com/open-roles/8034183003?gh_jid=8034183003 | Zipline | Mechanical Engineering Manager | South San Francisco, California, USA | 2026-10-14
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/8276008 | Planet Labs | Senior Site Reliability Engineer | Haarlem, Netherlands | 2026-10-14
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/8276009 | Planet Labs | Senior Site Reliability Engineer | Berlin, Germany | 2026-10-14
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8884753002 | Databricks | Senior Forward Deployed Engineer (Technical Data Architect) | London, United Kingdom | 2026-10-14
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8870159002 | Databricks | Specialist Solutions Architect - Data Engineering | Amsterdam, Netherlands | 2026-10-14
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390799008  <!-- Anthropic | Applied AI Engineer | Tokyo, Japan | discovered 2026-10-15 -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5452691008  <!-- Anthropic | Community Engagement Manager, Data Centers (Louisiana) | Remote-Friendly, United States | discovered 2026-10-15 -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5452922008  <!-- Anthropic | Community Engagement Manager, Data Centers (New York) | Remote-Friendly, United States | discovered 2026-10-15 -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5452699008  <!-- Anthropic | Community Engagement Manager, Data Centers (Virginia & West Virginia) | Remote-Friendly, United States | discovered 2026-10-15 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5265417007?gh_jid=5265417007  <!-- Anduril | Production Software Engineer | Waltham, Massachusetts, United States | discovered 2026-10-15 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5265401007?gh_jid=5265401007  <!-- Anduril | Realtime Software Engineer | Waltham, Massachusetts, United States | discovered 2026-10-15 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5250783007?gh_jid=5250783007  <!-- Anduril | Senior Full-Stack Software Engineer (ArsenalOS Deployment) | Santa Ana, California, United States | discovered 2026-10-15 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5250777007?gh_jid=5250777007  <!-- Anduril | Senior Full-Stack Software Engineer (SIG) | Santa Ana, California, United States | discovered 2026-10-15 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5250787007?gh_jid=5250787007  <!-- Anduril | Senior Machine Learning Engineer (Applied Intelligence) | Santa Ana, California, United States | discovered 2026-10-15 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5265420007?gh_jid=5265420007  <!-- Anduril | Senior Production Software Engineer | Waltham, Massachusetts, United States | discovered 2026-10-15 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5266201007?gh_jid=5266201007  <!-- Anduril | Senior Software Engineer, Backend (SIG) | Santa Ana, California, United States | discovered 2026-10-15 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5265428007?gh_jid=5265428007  <!-- Anduril | Senior Software Engineer, Simulation Platform  | Seattle, Washington, United States | discovered 2026-10-15 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5265402007?gh_jid=5265402007  <!-- Anduril | Software Engineer, Imaging | Waltham, Massachusetts, United States | discovered 2026-10-15 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5265279007?gh_jid=5265279007  <!-- Anduril | Software Engineer, Interfaces  | Waltham, Massachusetts, United States | discovered 2026-10-15 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5250775007?gh_jid=5250775007  <!-- Anduril | Staff Full-Stack Software Engineer, Manufacturing Software (ArsenalOS Deployment) | Santa Ana, California, United States | discovered 2026-10-15 -->
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4712442005  <!-- Glean | Software Engineer, Agents | Bangalore, India | discovered 2026-10-15 -->
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4006731005  <!-- Glean | Software Engineer, Backend | Bangalore, India | discovered 2026-10-15 -->
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4712438005  <!-- Glean | Software Engineer, Evals | Bangalore, India | discovered 2026-10-15 -->
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7791427003?gh_jid=7791427003  <!-- Celonis | Staff Software Engineer - Java, Springboot, SAAS | Bangalore, India | discovered 2026-10-15 -->
+- [ ] https://www.fivetran.com/careers/job?gh_jid=8031480003  <!-- Fivetran | Senior Software Engineer - SaaS Google connectors | Novi Sad, South Bačka, Serbia, EMEA | discovered 2026-10-15 -->
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/8185816  <!-- Planet Labs | Senior Site Reliability Engineer | Ljubljana, Slovenia | discovered 2026-10-15 -->

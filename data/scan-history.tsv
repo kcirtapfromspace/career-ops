@@ -40209,3 +40209,47 @@ https://boards-api.greenhouse.io/v1/boards/trueanomalyinc/jobs	2026-10-13	scout-
 https://boards-api.greenhouse.io/v1/boards/rocketlab/jobs	2026-10-13	scout-2026-10-13	Rocket Lab API scan	all_seen
 https://boards-api.greenhouse.io/v1/boards/samsara/jobs	2026-10-13	scout-2026-10-13	Samsara API scan	all_seen
 https://boards-api.greenhouse.io/v1/boards/clickhouse/jobs	2026-10-13	scout-2026-10-13	ClickHouse API scan	404_board_migrated
+
+2026-10-13	https://boards.greenhouse.io/andurilindustries/jobs/5264403007?gh_jid=5264403007	Anduril	Infrastructure Engineer	Reston, Virginia, United States	greenhouse_api
+2026-10-13	https://boards.greenhouse.io/andurilindustries/jobs/5264635007?gh_jid=5264635007	Anduril	Robotics Software Engineer 	Costa Mesa, California, United States	greenhouse_api
+2026-10-13	https://job-boards.greenhouse.io/gleanwork/jobs/4742953005	Glean	Software Engineer, Agentic Runtime 	Mountain View, CA	greenhouse_api
+2026-10-13	https://job-boards.greenhouse.io/getyourguide/jobs/8276198	GetYourGuide	Senior Software Engineer (Backend) - User Platform	Berlin	greenhouse_api
+2026-10-13	https://job-boards.greenhouse.io/chainguard/jobs/4721595006	Chainguard	Senior Software Engineer (Customer Platform)	United Kingdom - Remote	greenhouse_api
+2026-10-13	https://job-boards.greenhouse.io/chainguard/jobs/4720007006	Chainguard	Staff Software Engineer (Customer Platform) 	Canada - Remote	greenhouse_api
+2026-10-13	https://job-boards.greenhouse.io/chainguard/jobs/4720009006	Chainguard	Staff Software Engineer (Customer Platform) 	United States - Remote	greenhouse_api
+2026-10-13	https://databricks.com/company/careers/open-positions/job?gh_jid=8612865002	Databricks	Sr. Staff Security Software Engineer - Agentic Security Engineering	Remote - California	greenhouse_api
+https://job-boards.greenhouse.io/anthropic/jobs/5378643008	2026-10-14	scout-2026-10-14	Engineering Manager, Claude Platform	Anthropic	match-4.0
+https://job-boards.greenhouse.io/twilio/jobs/7782805	2026-10-14	scout-2026-10-14	Staff Software Engineer (L4), Data Platform	Twilio	match-3.5
+https://job-boards.greenhouse.io/anthropic/jobs/5451889008	2026-10-14	quickcheck-2026-10-14	Staff+ Software Engineer, Platform Acceleration	Anthropic	new
+https://job-boards.greenhouse.io/planetlabs/jobs/8249630	2026-10-14	quickcheck-2026-10-14	Director of Software Engineering, Analytics	Planet Labs	new
+https://boards.greenhouse.io/andurilindustries/jobs/5265428007	2026-10-14	quickcheck-2026-10-14	Senior Software Engineer, Simulation Platform	Anduril	new
+2026-10-14	https://job-boards.greenhouse.io/anthropic/jobs/5440821008	Applied AI Engineer, Beneficial Deployments (Lab Automation)	Anthropic	London, UK	greenhouse_api
+2026-10-14	https://job-boards.eu.greenhouse.io/parloa/jobs/5006380101	Principal Software Engineer - Real-Time Voice	Parloa	Berlin Office	greenhouse_api
+2026-10-14	https://job-boards.greenhouse.io/celonis/jobs/8030594003?gh_jid=8030594003	Senior AI Engineer - Process Intelligence 	Celonis	Copenhagen, Denmark	greenhouse_api
+2026-10-14	https://job-boards.greenhouse.io/getyourguide/jobs/8281836	Senior Software Engineer (Backend focused) - User Platform	GetYourGuide	Berlin	greenhouse_api
+2026-10-14	https://careers.hellofresh.com/global/en/job/8233761?gh_jid=8233761	Senior Machine Learning Engineer, Benefits Personalization	HelloFresh	Toronto, Ontario, Canada	greenhouse_api
+2026-10-14	https://careers.hellofresh.com/global/en/job/8242900?gh_jid=8242900	Senior Service Designer, Food Systems & Fulfillment 	HelloFresh	Warszawa, Masovian Voivodeship, Poland	greenhouse_api
+2026-10-14	https://careers.hellofresh.com/global/en/job/8242893?gh_jid=8242893	Senior Service Designer, Food Systems & Fulfillment (f/m/x)	HelloFresh	Berlin, Berlin, Germany	greenhouse_api
+2026-10-14	https://www.scandit.com/careers/job-description/?gh_jid=8276084	Full Stack Engineer - ID Scanning 	Scandit	Tampere	greenhouse_api
+2026-10-14	https://job-boards.eu.greenhouse.io/physicsx/jobs/4644840101	Machine Learning Engineer	PhysicsX	London, United Kingdom	greenhouse_api
+2026-10-14	https://nuro.ai/careersitem?gh_jid=8282222	Senior Software Engineer, Autonomy Behavior Testing	Nuro	Mountain View, California (HQ)	greenhouse_api
+2026-10-14	https://www.zipline.com/open-roles/8034183003?gh_jid=8034183003	Mechanical Engineering Manager	Zipline	South San Francisco, California, USA	greenhouse_api
+2026-10-14	https://job-boards.greenhouse.io/planetlabs/jobs/8276008	Senior Site Reliability Engineer	Planet Labs	Haarlem, Netherlands	greenhouse_api
+2026-10-14	https://job-boards.greenhouse.io/planetlabs/jobs/8276009	Senior Site Reliability Engineer	Planet Labs	Berlin, Germany	greenhouse_api
+2026-10-14	https://databricks.com/company/careers/open-positions/job?gh_jid=8884753002	Senior Forward Deployed Engineer (Technical Data Architect)	Databricks	London, United Kingdom	greenhouse_api
+2026-10-14	https://databricks.com/company/careers/open-positions/job?gh_jid=8870159002	Specialist Solutions Architect - Data Engineering	Databricks	Amsterdam, Netherlands	greenhouse_api
+2026-10-15	Anthropic	Community Engagement Manager, Data Centers (Louisiana)	https://job-boards.greenhouse.io/anthropic/jobs/5452691008	New
+2026-10-15	Anthropic	Community Engagement Manager, Data Centers (New York)	https://job-boards.greenhouse.io/anthropic/jobs/5452922008	New
+2026-10-15	Anthropic	Community Engagement Manager, Data Centers (Virginia & West Virginia)	https://job-boards.greenhouse.io/anthropic/jobs/5452699008	New
+2026-10-15	Anduril	Production Software Engineer	https://boards.greenhouse.io/andurilindustries/jobs/5265417007?gh_jid=5265417007	New
+2026-10-15	Anduril	Realtime Software Engineer	https://boards.greenhouse.io/andurilindustries/jobs/5265401007?gh_jid=5265401007	New
+2026-10-15	Anduril	Senior Full-Stack Software Engineer (ArsenalOS Deployment)	https://boards.greenhouse.io/andurilindustries/jobs/5250783007?gh_jid=5250783007	New
+2026-10-15	Anduril	Senior Full-Stack Software Engineer (SIG)	https://boards.greenhouse.io/andurilindustries/jobs/5250777007?gh_jid=5250777007	New
+2026-10-15	Anduril	Senior Machine Learning Engineer (Applied Intelligence)	https://boards.greenhouse.io/andurilindustries/jobs/5250787007?gh_jid=5250787007	New
+2026-10-15	Anduril	Senior Production Software Engineer	https://boards.greenhouse.io/andurilindustries/jobs/5265420007?gh_jid=5265420007	New
+2026-10-15	Anduril	Senior Software Engineer, Backend (SIG)	https://boards.greenhouse.io/andurilindustries/jobs/5266201007?gh_jid=5266201007	New
+2026-10-15	Anduril	Senior Software Engineer, Simulation Platform 	https://boards.greenhouse.io/andurilindustries/jobs/5265428007?gh_jid=5265428007	New
+2026-10-15	Anduril	Software Engineer, Imaging	https://boards.greenhouse.io/andurilindustries/jobs/5265402007?gh_jid=5265402007	New
+2026-10-15	Anduril	Software Engineer, Interfaces 	https://boards.greenhouse.io/andurilindustries/jobs/5265279007?gh_jid=5265279007	New
+2026-10-15	Anduril	Staff Full-Stack Software Engineer, Manufacturing Software (ArsenalOS Deployment)	https://boards.greenhouse.io/andurilindustries/jobs/5250775007?gh_jid=5250775007	New
+2026-10-15	Fivetran	Senior Software Engineer - SaaS Google connectors	https://www.fivetran.com/careers/job?gh_jid=8031480003	New
