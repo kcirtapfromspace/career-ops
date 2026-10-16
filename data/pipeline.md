@@ -1,6 +1,7 @@
 # Pipeline — Pending Offers
 
 
+<!-- Scout Scan: 2026-10-16 — 2 secondary matches, 0 top picks (60 companies: Greenhouse API + WebSearch) -->
 <!-- Scout Quickcheck: 2026-10-15 — 0 new matches (36 companies: Greenhouse API only; prior agent covered same batch earlier today) -->
 <!-- Scout Scan: 2026-10-14 — 2 new matches (70 companies: Greenhouse API + WebSearch) -->
 <!-- Scout Scan: 2026-10-13 — 0 new matches (15 companies scanned, all deduped against Oct 11-12) -->
@@ -10,6 +11,16 @@
 <!-- Errors: Black Forest Labs, Wayve, Clickhouse (HTTP 404) -->
 
 
+
+## 2026-10-16 — Scout Scan
+
+> Full scan: ~60 companies (Greenhouse API + WebSearch). 0 top picks, 2 secondary matches. Report: [scout-2026-10-16.md](../reports/scout-2026-10-16.md)
+
+### ★ Secondary (3.0–3.9)
+
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4742957005  <!-- Glean: Tech Lead Manager, AI Evaluations | Mountain View, CA hybrid (3-4d/wk) | $250K-$350K | Needs LLM eval expertise + Bay Area relocation -->
+
+---
 
 ## 2026-10-14 — Scout Scan
 
