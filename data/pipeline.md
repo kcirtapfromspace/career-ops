@@ -12220,3 +12220,9 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - [ ] https://job-boards.greenhouse.io/celonis/jobs/7791427003?gh_jid=7791427003  <!-- Celonis | Staff Software Engineer - Java, Springboot, SAAS | Bangalore, India | discovered 2026-10-15 -->
 - [ ] https://www.fivetran.com/careers/job?gh_jid=8031480003  <!-- Fivetran | Senior Software Engineer - SaaS Google connectors | Novi Sad, South Bačka, Serbia, EMEA | discovered 2026-10-15 -->
 - [ ] https://job-boards.greenhouse.io/planetlabs/jobs/8185816  <!-- Planet Labs | Senior Site Reliability Engineer | Ljubljana, Slovenia | discovered 2026-10-15 -->
+
+## 2026-10-17 — Scout Scan
+> Full scan: ~70 companies (Greenhouse API + WebSearch). 1 new match. Report: [scout-2026-10-17.md](../reports/scout-2026-10-17.md)
+### ★★ Top Picks (4.0+)
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4722145006  <!-- Chainguard: Principal Software Engineer, Containers | US Remote | K8s/containers, Go/Rust, supply chain security | ~$200-240K | Score 4.0 -->
+---
