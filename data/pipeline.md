@@ -12226,3 +12226,13 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 ### ★★ Top Picks (4.0+)
 - [ ] https://job-boards.greenhouse.io/chainguard/jobs/4722145006  <!-- Chainguard: Principal Software Engineer, Containers | US Remote | K8s/containers, Go/Rust, supply chain security | ~$200-240K | Score 4.0 -->
 ---
+
+- https://job-boards.greenhouse.io/anthropic/jobs/5454882008 <!-- Anthropic: Staff+ Software Engineer, Enterprise (Full Stack) (San Francisco, CA | New York City, NY) -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5267747007?gh_jid=5267747007 <!-- Anduril: Classified Platform Engineer (Costa Mesa, California, United States) -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5267769007?gh_jid=5267769007 <!-- Anduril: Mission Software Engineer (Waltham, Massachusetts, United States) -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5266708007?gh_jid=5266708007 <!-- Anduril: MRB Mechanical Engineering Manager, Fury (Ashville, Ohio, United States) -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5267770007?gh_jid=5267770007 <!-- Anduril: Senior Mission Software Engineer (Waltham, Massachusetts, United States) -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5267493007?gh_jid=5267493007 <!-- Anduril: Senior PLM Software Engineer, Manufacturing Systems (Costa Mesa, California, United States) -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5267677007?gh_jid=5267677007 <!-- Anduril: Senior Software Engineer (Costa Mesa, California, United States) -->
+- https://boards.greenhouse.io/andurilindustries/jobs/5267673007?gh_jid=5267673007 <!-- Anduril: Senior Software Engineer, Platform (Costa Mesa, California, United States) -->
+- https://www.fivetran.com/careers/job?gh_jid=8017412003 <!-- Fivetran: Manager Software Engineering (Oakland, California, United States, AMER) -->
