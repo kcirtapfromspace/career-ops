@@ -12236,3 +12236,9 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 - https://boards.greenhouse.io/andurilindustries/jobs/5267677007?gh_jid=5267677007 <!-- Anduril: Senior Software Engineer (Costa Mesa, California, United States) -->
 - https://boards.greenhouse.io/andurilindustries/jobs/5267673007?gh_jid=5267673007 <!-- Anduril: Senior Software Engineer, Platform (Costa Mesa, California, United States) -->
 - https://www.fivetran.com/careers/job?gh_jid=8017412003 <!-- Fivetran: Manager Software Engineering (Oakland, California, United States, AMER) -->
+
+## 2026-10-17 — Quick Check (Greenhouse APIs)
+> Lightweight API scan, 37 Greenhouse companies. 2 new matches post-filter. Report: [scout-quickcheck-2026-10-17.md](../reports/scout-quickcheck-2026-10-17.md)
+
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4744818005  <!-- Glean | Machine Learning Engineer, Enterprise Brain | Mountain View, CA | discovered 2026-10-17 -->
+- [ ] https://nuro.ai/careersitem?gh_jid=8263453  <!-- Nuro | Senior/Staff Software Engineer, Applied Controls | Mountain View, California (HQ) | discovered 2026-10-17 -->
