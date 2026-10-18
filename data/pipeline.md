@@ -12242,3 +12242,8 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 
 - [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4744818005  <!-- Glean | Machine Learning Engineer, Enterprise Brain | Mountain View, CA | discovered 2026-10-17 -->
 - [ ] https://nuro.ai/careersitem?gh_jid=8263453  <!-- Nuro | Senior/Staff Software Engineer, Applied Controls | Mountain View, California (HQ) | discovered 2026-10-17 -->
+
+## 2026-10-18 — Quick Check (Greenhouse APIs)
+> Lightweight API scan, 41 Greenhouse companies. 0 new engineering matches. Report: [scout-quickcheck-2026-10-18.md](../reports/scout-quickcheck-2026-10-18.md)
+
+<!-- no new matches this run; Applied AI Engineer (Physical AI) was already discovered 2026-10-16 -->
