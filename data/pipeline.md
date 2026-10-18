@@ -1,6 +1,7 @@
 # Pipeline — Pending Offers
 
 
+<!-- Scout Quickcheck: 2026-10-18 — 210 new matches (40 companies: Greenhouse API only). 99 top, 70 secondary, 41 bulk -->
 <!-- Scout Scan: 2026-10-16 — 2 secondary matches, 0 top picks (60 companies: Greenhouse API + WebSearch) -->
 <!-- Scout Quickcheck: 2026-10-15 — 0 new matches (36 companies: Greenhouse API only; prior agent covered same batch earlier today) -->
 <!-- Scout Scan: 2026-10-14 — 2 new matches (70 companies: Greenhouse API + WebSearch) -->
@@ -11,6 +12,215 @@
 <!-- Errors: Black Forest Labs, Wayve, Clickhouse (HTTP 404) -->
 
 
+
+
+
+## 2026-10-18 — Scout Quickcheck
+
+> Quickcheck: 40 companies (Greenhouse API only). 99 top picks, 70 secondary matches, 41 bulk. Report: [scout-quickcheck-2026-10-18.md](../reports/scout-quickcheck-2026-10-18.md)
+> Errors: Black Forest Labs, Wayve, Clickhouse (HTTP 404)
+
+
+### ★★ Top Picks
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5454650008  <!-- Anthropic: Applied AI Engineer, Startups (Life Sciences) | San Francisco, CA | New York City, NY -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5454673008  <!-- Anthropic: Applied AI Engineer, Startups (Physical AI) | San Francisco, CA -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5454535008  <!-- Anthropic: Community Engagement Manager, Data Centers (Indiana & Kentucky) | Remote-Friendly, United States -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5452691008  <!-- Anthropic: Community Engagement Manager, Data Centers (Louisiana) | Remote-Friendly, United States -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5454315008  <!-- Anthropic: Community Engagement Manager, Data Centers (Montana & Utah) | Remote-Friendly, United States -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5452922008  <!-- Anthropic: Community Engagement Manager, Data Centers (New York) | Remote-Friendly, United States -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5452699008  <!-- Anthropic: Community Engagement Manager, Data Centers (Virginia & West Virginia) | Remote-Friendly, United States -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5454882008  <!-- Anthropic: Staff+ Software Engineer, Enterprise (Full Stack) | San Francisco, CA | New York City, NY -->
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7823195003  <!-- Fivetran: Engineering Manager, Metadata | Denver, Colorado, United States, AMER -->
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7812000003  <!-- Fivetran: Staff R&D Software Engineer, Fivetran AI | Denver, Colorado, United States, AMER -->
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7864598003  <!-- Fivetran: Staff Software Engineer, Metadata | Denver, Colorado, United States, AMER -->
+- [ ] https://www.samsara.com/company/careers/roles/8024110?gh_jid=8024110  <!-- Samsara: AI Engineer, Customer Success | Remote - US -->
+- [ ] https://www.samsara.com/company/careers/roles/8250423?gh_jid=8250423  <!-- Samsara: Data Engineer | Remote - Canada -->
+- [ ] https://www.samsara.com/company/careers/roles/8141959?gh_jid=8141959  <!-- Samsara: Data Engineer | Remote - US -->
+- [ ] https://www.samsara.com/company/careers/roles/8113356?gh_jid=8113356  <!-- Samsara: Finance & Strategy AI Engineer | San Francisco - SF9 -->
+- [ ] https://www.samsara.com/company/careers/roles/8180373?gh_jid=8180373  <!-- Samsara: IT Engineering Manager II | Remote - US -->
+- [ ] https://www.samsara.com/company/careers/roles/7746586?gh_jid=7746586  <!-- Samsara: Lead Machine Learning Engineer - ML Infrastructure | Remote - Canada -->
+- [ ] https://www.samsara.com/company/careers/roles/7721193?gh_jid=7721193  <!-- Samsara: Lead Machine Learning Engineer - ML Infrastructure  | Remote - US -->
+- [ ] https://www.samsara.com/company/careers/roles/8148638?gh_jid=8148638  <!-- Samsara: Manager II, Software Engineering, Infrastructure | Remote - US -->
+- [ ] https://www.samsara.com/company/careers/roles/8221852?gh_jid=8221852  <!-- Samsara: Manager II, Software Engineering, Infrastructure | Remote - Canada -->
+- [ ] https://www.samsara.com/company/careers/roles/7858719?gh_jid=7858719  <!-- Samsara: People Analytics AI Engineer | Remote - Seattle -->
+- [ ] https://www.samsara.com/company/careers/roles/7964565?gh_jid=7964565  <!-- Samsara: Senior Data Engineer | Remote - US -->
+- [ ] https://www.samsara.com/company/careers/roles/8025794?gh_jid=8025794  <!-- Samsara: Senior Data Engineer | Remote - Canada -->
+- [ ] https://www.samsara.com/company/careers/roles/8039914?gh_jid=8039914  <!-- Samsara: Senior Data Engineer II | Remote - US -->
+- [ ] https://www.samsara.com/company/careers/roles/8055245?gh_jid=8055245  <!-- Samsara: Senior Machine Learning Engineer | Remote - US -->
+- [ ] https://www.samsara.com/company/careers/roles/7892022?gh_jid=7892022  <!-- Samsara: Senior Software Engineer I/II - Infrastructure | Remote - SF Bay Area -->
+- [ ] https://www.samsara.com/company/careers/roles/7997916?gh_jid=7997916  <!-- Samsara: Senior Software Engineer I/II - Infrastructure | Remote - Canada -->
+- [ ] https://www.samsara.com/company/careers/roles/7922530?gh_jid=7922530  <!-- Samsara: Software Engineer - Data Platform | Remote - US -->
+- [ ] https://www.samsara.com/company/careers/roles/7992889?gh_jid=7992889  <!-- Samsara: Software Engineer - Data Platform | Remote - Canada -->
+- [ ] https://www.samsara.com/company/careers/roles/7266357?gh_jid=7266357  <!-- Samsara: Staff Machine Learning Engineer - Edge AI | Remote - US -->
+- [ ] https://www.samsara.com/company/careers/roles/7431070?gh_jid=7431070  <!-- Samsara: Staff Machine Learning Engineer - Edge AI | Remote - Canada -->
+- [ ] https://www.samsara.com/company/careers/roles/8256425?gh_jid=8256425  <!-- Samsara: Staff Product Operations Manager, Platform | Remote - US -->
+- [ ] https://www.samsara.com/company/careers/roles/8115078?gh_jid=8115078  <!-- Samsara: Staff Software Engineer | Remote - Canada -->
+- [ ] https://www.samsara.com/company/careers/roles/7266439?gh_jid=7266439  <!-- Samsara: Staff Software Engineer | Remote - US -->
+- [ ] https://www.samsara.com/company/careers/roles/8064742?gh_jid=8064742  <!-- Samsara: Staff Software Engineer | Remote - US -->
+- [ ] https://www.samsara.com/company/careers/roles/8130819?gh_jid=8130819  <!-- Samsara: Staff Software Engineer | Remote - Canada -->
+- [ ] https://www.samsara.com/company/careers/roles/8109358?gh_jid=8109358  <!-- Samsara: Staff Software Engineer, DevEx | Remote - Canada -->
+- [ ] https://www.samsara.com/company/careers/roles/7752678?gh_jid=7752678  <!-- Samsara: Staff Software Engineer, DevEx | Remote - US -->
+- [ ] https://www.samsara.com/company/careers/roles/8267637?gh_jid=8267637  <!-- Samsara: Staff Software Engineer, Maps Services | Remote - US -->
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4720009006  <!-- Chainguard: Staff Software Engineer (Customer Platform)  | United States - Remote -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=6736119002  <!-- Databricks: Engineering Manager - Compute Infra | Mountain View, California; San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8013809002  <!-- Databricks: Engineering Manager - UI Platform | Seattle, Washington -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8656900002  <!-- Databricks: Senior Applied ML Engineer - ML4Sys  | San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7987658002  <!-- Databricks: Senior Engineering Manager for Workspace Platform | San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7734812002  <!-- Databricks: Senior Manager, Infrastructure Data Science | San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=6318503002  <!-- Databricks: Senior Software Engineer - Infrastructure and Tools | San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8540267002  <!-- Databricks: Senior Staff Applied AI Engineer - Context Retrieval | Mountain View, California; San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7807722002  <!-- Databricks: Senior Staff Software Engineer - App and Partner Ecosystem | Seattle, Washington -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7274557002  <!-- Databricks: Senior Staff Software Engineer - IAM | Seattle, Washington -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8493002002  <!-- Databricks: Senior Staff Software Engineer - Lakeflow Pipelines Datasets | Mountain View, California; San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8436912002  <!-- Databricks: Sr. Engineering Manager - Customer Experience Intelligence (CXI) | Mountain View, California; San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8190108002  <!-- Databricks: Sr. Engineering Manager - Notebook Dataplane | San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8467083002  <!-- Databricks: Sr. Engineering Manager - Pipelines Engine | Mountain View, California; San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8862144002  <!-- Databricks: Sr. Manager, Engineering - AI/BI | Mountain View, California; San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8136204002  <!-- Databricks: Sr. Product Manager, Databricks AI | Seattle, Washington -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8136071002  <!-- Databricks: Sr. Product Manager, Databricks AI | San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8235785002  <!-- Databricks: Sr. Product Manager, Databricks Free Edition | Seattle, Washington -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7680573002  <!-- Databricks: Sr. Product Manager, Databricks Free Edition | San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8326513002  <!-- Databricks: Sr. Product Manager, Databricks Repos | San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8326570002  <!-- Databricks: Sr. Product Manager, Databricks Repos | Seattle, Washington -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=6322654002  <!-- Databricks: Sr. Product Manager, Data Engineering | San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7863365002  <!-- Databricks: Sr. Product Manager, Data Governance | San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7863522002  <!-- Databricks: Sr. Product Manager, Data Governance | Seattle, Washington -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8493170002  <!-- Databricks: Sr Software Engineer, Infrastructure | San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8612865002  <!-- Databricks: Sr. Staff Security Software Engineer - Agentic Security Engineering | Remote - California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8575248002  <!-- Databricks: Sr. Staff Software Engineer — Observability, Insights & Governance | Mountain View, California; San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8575251002  <!-- Databricks: Sr. Staff Software Engineer — Observability, Insights & Governance | Bellevue, Washington; Seattle, Washington -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8367019002  <!-- Databricks: Staff Backend Software Engineer- (Databricks AI) | San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8401114002  <!-- Databricks: Staff Machine Learning Engineer  | San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8552484002  <!-- Databricks: Staff Software Engineer - AI Research Infrastructure | New York City, New York; San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8532682002  <!-- Databricks: Staff Software Engineer - AI Research Infrastructure | New York City, New York; San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8582271002  <!-- Databricks: Staff Software Engineer, AI Runtime | Mountain View, California; San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=5408888002  <!-- Databricks: Staff Software Engineer - Backend | San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=6779232002  <!-- Databricks: Staff Software Engineer - Backend | Seattle, Washington -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8032546002  <!-- Databricks: Staff Software Engineer - Customer Engagement & Docs Platform | San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8416959002  <!-- Databricks: Staff Software Engineer – Customer Experience Intelligence (CXI) | Mountain View, California; San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8584144002  <!-- Databricks: Staff Software Engineer- CXI | Mountain View, California; San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=5646855002  <!-- Databricks: Staff Software Engineer - Distributed Data Systems | San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8649279002  <!-- Databricks: Staff Software Engineer- Foundation Model Inference | San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8202698002  <!-- Databricks: Staff Software Engineer - GenAI inference | San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8692516002  <!-- Databricks: Staff Software Engineer – Genie One Mobile & Desktop | Mountain View, California; San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8798198002  <!-- Databricks: Staff Software Engineer, Lakeflow Pipelines DR | Mountain View, California; San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8663972002  <!-- Databricks: Staff Software Engineer - Streaming | Bellevue, Washington; Seattle, Washington -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7979523002  <!-- Databricks: Staff Software Engineer - User Activation | San Francisco, California -->
+- [ ] https://www.zipline.com/open-roles/8034183003?gh_jid=8034183003  <!-- Zipline: Mechanical Engineering Manager | South San Francisco, California, USA -->
+- [ ] https://www.zipline.com/open-roles/7802184003?gh_jid=7802184003  <!-- Zipline: Mechanical Engineering Manager, Dropbox | South San Francisco, California, USA -->
+- [ ] https://www.zipline.com/open-roles/7989516003?gh_jid=7989516003  <!-- Zipline: ML Infrastructure Engineer | South San Francisco, California, USA -->
+- [ ] https://www.zipline.com/open-roles/7810390003?gh_jid=7810390003  <!-- Zipline: Senior Data Engineer - Data Platform | South San Francisco, California, USA -->
+- [ ] https://www.zipline.com/open-roles/7859841003?gh_jid=7859841003  <!-- Zipline: Software Engineering Manager – Developer Productivity | South San Francisco, California, USA -->
+- [ ] https://www.zipline.com/open-roles/7809118003?gh_jid=7809118003  <!-- Zipline: Software Engineer, Test Infrastructure | South San Francisco, California, USA -->
+- [ ] https://www.zipline.com/open-roles/7850772003?gh_jid=7850772003  <!-- Zipline: Sr. IT Infrastructure Engineer | South San Francisco, California, USA -->
+- [ ] https://www.zipline.com/open-roles/7933236003?gh_jid=7933236003  <!-- Zipline: Sr. Manager, Software Engineering – Marketplace | South San Francisco, California, USA -->
+- [ ] https://www.zipline.com/open-roles/7819774003?gh_jid=7819774003  <!-- Zipline: Staff Motion Planning Software Engineer | South San Francisco, California, USA -->
+- [ ] https://www.zipline.com/open-roles/7812167003?gh_jid=7812167003  <!-- Zipline: Staff Platform Software Engineer, AI Enablement | South San Francisco, California, USA -->
+- [ ] https://www.zipline.com/open-roles/7983305003?gh_jid=7983305003  <!-- Zipline: Staff Software Engineer, Healthcare — Customer Experience | Remote in USA; Remote, EMEA -->
+- [ ] https://www.zipline.com/open-roles/7983316003?gh_jid=7983316003  <!-- Zipline: Staff Software Engineer, Healthcare — Systems & Integrations | Remote in USA; Remote, EMEA -->
+- [ ] https://www.zipline.com/open-roles/8017330003?gh_jid=8017330003  <!-- Zipline: Staff Software Engineer – Integrations Platform | South San Francisco, California, USA -->
+- [ ] https://www.zipline.com/open-roles/7808704003?gh_jid=7808704003  <!-- Zipline: Staff Software Engineer – Marketplace | South San Francisco, California, USA -->
+- [ ] https://www.zipline.com/open-roles/7822379003?gh_jid=7822379003  <!-- Zipline: Staff Software Engineer – Marketplace Growth | South San Francisco, California, USA -->
+
+### ★ Secondary
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5445760008  <!-- Anthropic: Applied AI Engineer, Beneficial Deployments (Clinical Development, Rare and Neglected Diseases) | London, UK -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5440821008  <!-- Anthropic: Applied AI Engineer, Beneficial Deployments (Lab Automation) | London, UK -->
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/5006380101  <!-- Parloa: Principal Software Engineer - Real-Time Voice | Berlin Office -->
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/5007147101  <!-- Parloa: Senior Engineering Manager | Berlin Office -->
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4842135101  <!-- Parloa: Staff Software Engineer | Berlin Office; Remotely in Germany -->
+- [ ] https://job-boards.greenhouse.io/getyourguide/jobs/8264277  <!-- GetYourGuide: Engineering Manager, Agentic Platform | Berlin -->
+- [ ] https://job-boards.greenhouse.io/getyourguide/jobs/8266579  <!-- GetYourGuide: Engineering Manager, User Platform  | Berlin -->
+- [ ] https://careers.hellofresh.com/global/en/job/8128254?gh_jid=8128254  <!-- HelloFresh: Senior Data Platform Engineer, Intelligent Platforms (all genders) | Berlin, Berlin, Germany -->
+- [ ] https://careers.hellofresh.com/global/en/job/8121142?gh_jid=8121142  <!-- HelloFresh: Senior Director of Machine Learning Engineering | Berlin, Berlin, Germany -->
+- [ ] https://sumup.com/careers/positions/8364212002?gh_jid=8364212002  <!-- SumUp: Data Platform Engineer | Berlin, Germany -->
+- [ ] https://sumup.com/careers/positions/8507674002?gh_jid=8507674002  <!-- SumUp: Engineering Manager - Verification | Sofia, Bulgaria -->
+- [ ] https://sumup.com/careers/positions/8448680002?gh_jid=8448680002  <!-- SumUp: Engineering Manager - Verification | Berlin, Germany -->
+- [ ] https://sumup.com/careers/positions/8732398002?gh_jid=8732398002  <!-- SumUp: Senior Data Scientist/ML Engineer - Financial Crime | Berlin, Germany -->
+- [ ] https://sumup.com/careers/positions/8498275002?gh_jid=8498275002  <!-- SumUp: Senior Machine Learning Engineer  | Berlin, Germany -->
+- [ ] https://sumup.com/careers/positions/8712443002?gh_jid=8712443002  <!-- SumUp: Senior Machine Learning Engineer - Platform Team | Berlin, Germany -->
+- [ ] https://www.scandit.com/careers/job-description/?gh_jid=7552679  <!-- Scandit: Senior Machine Learning Engineer (Biometrics & Face Recognition) | Zurich -->
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7810467003  <!-- Fivetran: Senior R&D Software Engineer, Fivetran AI | Denver, Colorado, United States, AMER -->
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7865559003  <!-- Fivetran: Senior Software Engineer - Metadata | Denver, Colorado, United States, AMER -->
+- [ ] https://www.fivetran.com/careers/job?gh_jid=8003720003  <!-- Fivetran: Senior Software Engineer - Orchestration | Denver, Colorado, United States, AMER -->
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7992270003  <!-- Fivetran: Staff Site Reliability Engineer | Dublin, Dublin, Ireland, EMEA -->
+- [ ] https://www.samsara.com/company/careers/roles/7892026?gh_jid=7892026  <!-- Samsara: Senior Software Engineer - Commercial Navigation | Remote - US -->
+- [ ] https://www.samsara.com/company/careers/roles/8063736?gh_jid=8063736  <!-- Samsara: Senior Software Engineer II | Remote - US -->
+- [ ] https://www.samsara.com/company/careers/roles/8231949?gh_jid=8231949  <!-- Samsara: Senior Software Engineer II | Remote - Canada -->
+- [ ] https://www.samsara.com/company/careers/roles/8083934?gh_jid=8083934  <!-- Samsara: Senior Software Engineer II | Remote - Canada -->
+- [ ] https://www.samsara.com/company/careers/roles/8129161?gh_jid=8129161  <!-- Samsara: Senior Software Engineer II | Remote - Canada -->
+- [ ] https://www.samsara.com/company/careers/roles/8186910?gh_jid=8186910  <!-- Samsara: Senior Software Engineer II | Remote - SF Bay Area -->
+- [ ] https://www.samsara.com/company/careers/roles/8237134?gh_jid=8237134  <!-- Samsara: Senior Software Engineer II, DevEx | Remote - NYC -->
+- [ ] https://www.samsara.com/company/careers/roles/8055217?gh_jid=8055217  <!-- Samsara: Senior Software Engineer II - Platform | Remote - US -->
+- [ ] https://www.samsara.com/company/careers/roles/7520397?gh_jid=7520397  <!-- Samsara: Senior Software Engineer II, Route Planning | Remote - US -->
+- [ ] https://www.samsara.com/company/careers/roles/8036387?gh_jid=8036387  <!-- Samsara: Software Engineer II | Remote - US -->
+- [ ] https://www.samsara.com/company/careers/roles/8050373?gh_jid=8050373  <!-- Samsara: Sr. Software Engineer II, AI Platform | Remote - SF Bay Area -->
+- [ ] https://www.samsara.com/company/careers/roles/8237131?gh_jid=8237131  <!-- Samsara: Sr. Software Engineer II, DevEx | Remote - CA -->
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4743438005  <!-- Scale AI: Frontier Agent Engineering Manager, Enterprise | London, UK -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8677627002  <!-- Databricks: Field Engineering Manager, Specialist Solutions Architects - Nordics | Stockholm, Sweden -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8686919002  <!-- Databricks: Pre-sales Engineering Manager (Retail & CPG) | London, United Kingdom -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8582276002  <!-- Databricks: Senior Software Engineer, AI Runtime | Mountain View, California; San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=4799387002  <!-- Databricks: Senior Software Engineer - Backend | San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8864368002  <!-- Databricks: Senior Software Engineer — Backend (Files Team) | San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=4513122002  <!-- Databricks: Senior Software Engineer - Distributed Data Systems | San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=6544403002  <!-- Databricks: Senior Software Engineer - Fullstack | Seattle, Washington -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7898766002  <!-- Databricks: Senior Software Engineer - Fullstack | Mountain View, California; San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=5445641002  <!-- Databricks: Senior Software Engineer - Fullstack | Mountain View, California; San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8211648002  <!-- Databricks: Senior Software Engineer, Model Serving | San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7274459002  <!-- Databricks: Senior Software Engineer - Security  | San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7319791002  <!-- Databricks: Senior Staff Software Engineer - Delta | Berlin, Germany -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8303020002  <!-- Databricks: Senior Staff Software Engineer - Delta | London, United Kingdom -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8303015002  <!-- Databricks: Senior Staff Software Engineer - Delta | Amsterdam, Netherlands -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8870159002  <!-- Databricks: Specialist Solutions Architect - Data Engineering | Amsterdam, Netherlands -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8416951002  <!-- Databricks: Sr Software Engineer- Customer Experience Intelligence (CXI) | Mountain View, California; San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8617901002  <!-- Databricks: Sr Software Engineer- CXI | Mountain View, California; San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8815669002  <!-- Databricks: Sr. Software Engineer - Ingestion Core team | San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8029674002  <!-- Databricks: Staff Software Engineer - Backend | Amsterdam, Netherlands -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7984907002  <!-- Databricks: Staff Software Engineer - Backend | Berlin, Germany -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8374611002  <!-- Databricks: Staff Software Engineer - Backend  | London, United Kingdom -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7477633002  <!-- Databricks: Staff Software Engineer - Storage I/O | Amsterdam, Netherlands -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8482037002  <!-- Databricks: Systems PhD - Software Engineer  | Mountain View, California; San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8482086002  <!-- Databricks: Systems PhD - Software Engineer  | Bellevue, Washington; Seattle, Washington -->
+- [ ] https://www.zipline.com/open-roles/7815718003?gh_jid=7815718003  <!-- Zipline: Director of Software Engineering – Marketplace | South San Francisco, California, USA -->
+- [ ] https://www.zipline.com/open-roles/7802156003?gh_jid=7802156003  <!-- Zipline: Senior Integration and Test Software Engineer - Long Range Platform | South San Francisco, California, USA -->
+- [ ] https://www.zipline.com/open-roles/7802961003?gh_jid=7802961003  <!-- Zipline: Senior Motion Planning Software Engineer | Ann Arbor, Michigan USA; South San Francisco, California, USA -->
+- [ ] https://www.zipline.com/open-roles/7993020003?gh_jid=7993020003  <!-- Zipline: Senior Software Engineer, ASW Launch Ops | Remote in USA; South San Francisco, California, USA -->
+- [ ] https://www.zipline.com/open-roles/7812135003?gh_jid=7812135003  <!-- Zipline: Senior Software Engineer, Autonomy Simulation & Validation | Ann Arbor, Michigan USA; South San Francisco, California, USA -->
+- [ ] https://www.zipline.com/open-roles/7800774003?gh_jid=7800774003  <!-- Zipline: Senior Software Engineer, Enterprise Systems | South San Francisco, California, USA -->
+- [ ] https://www.zipline.com/open-roles/7676378003?gh_jid=7676378003  <!-- Zipline: Senior Software Engineer, Maintenance Systems | Dallas-Fort Worth, Texas, USA; South San Francisco, California, USA -->
+- [ ] https://www.zipline.com/open-roles/7816737003?gh_jid=7816737003  <!-- Zipline: Senior Software Engineer - Maps Platform | Ann Arbor, Michigan USA; South San Francisco, California, USA -->
+- [ ] https://www.zipline.com/open-roles/7812206003?gh_jid=7812206003  <!-- Zipline: Senior Software Engineer - Maps Routing | Ann Arbor, Michigan USA; South San Francisco, California, USA -->
+- [ ] https://www.zipline.com/open-roles/7802983003?gh_jid=7802983003  <!-- Zipline: Simulation Software Engineer | Ann Arbor, Michigan USA; South San Francisco, California, USA -->
+- [ ] https://www.zipline.com/open-roles/7978812003?gh_jid=7978812003  <!-- Zipline: Software Engineer, Airspace Platform | South San Francisco, California, USA -->
+- [ ] https://www.zipline.com/open-roles/7803261003?gh_jid=7803261003  <!-- Zipline: Software Engineer - Hardware Test | South San Francisco, California, USA -->
+- [ ] https://www.zipline.com/open-roles/7805110003?gh_jid=7805110003  <!-- Zipline: Sr. Software Engineer, Financial Platform  | South San Francisco, California, USA -->
+
+### Bulk (41 others — filtered but less targeted)
+
+- [ ] https://job-boards.greenhouse.io/getyourguide/jobs/8261024  <!-- GetYourGuide: Senior Site Reliability Engineer, Infrastructure  | Zurich -->
+- [ ] https://job-boards.greenhouse.io/getyourguide/jobs/8281836  <!-- GetYourGuide: Senior Software Engineer (Backend focused) - User Platform | Berlin -->
+- [ ] https://careers.hellofresh.com/global/en/job/8159938?gh_jid=8159938  <!-- HelloFresh: Fulfillment Associate | Lake Zurich, Illinois, United States -->
+- [ ] https://careers.hellofresh.com/global/en/job/8242893?gh_jid=8242893  <!-- HelloFresh: Senior Service Designer, Food Systems & Fulfillment (f/m/x) | Berlin, Berlin, Germany -->
+- [ ] https://traderepublic.com/en-de/about?jobId=6539149003&gh_jid=6539149003  <!-- Trade Republic: Backend Engineer (Berlin) | Berlin -->
+- [ ] https://traderepublic.com/en-de/about?jobId=7718242003&gh_jid=7718242003  <!-- Trade Republic: Backend Engineer (Haskell) | Berlin -->
+- [ ] https://traderepublic.com/en-de/about?jobId=6327292003&gh_jid=6327292003  <!-- Trade Republic: Backend Engineer (London) | London -->
+- [ ] https://traderepublic.com/en-de/about?jobId=6539038003&gh_jid=6539038003  <!-- Trade Republic: Backend Engineer (Paris) | Paris -->
+- [ ] https://sumup.com/careers/positions/8583427002?gh_jid=8583427002  <!-- SumUp: Backend Engineer - Cards | Sofia, Bulgaria -->
+- [ ] https://sumup.com/careers/positions/6651430002?gh_jid=6651430002  <!-- SumUp: Backend Engineer- Global Bank | Sofia, Bulgaria -->
+- [ ] https://sumup.com/careers/positions/8785611002?gh_jid=8785611002  <!-- SumUp: Backend Engineer (Golang) - Bank Balance | Vilnius, Lithuania -->
+- [ ] https://sumup.com/careers/positions/8789067002?gh_jid=8789067002  <!-- SumUp: Backend Engineer (Golang) - Transfers Europe | Berlin, Germany -->
+- [ ] https://sumup.com/careers/positions/8785999002?gh_jid=8785999002  <!-- SumUp: Backend Engineer (Golang) - Transfers Europe | Vilnius, Lithuania -->
+- [ ] https://sumup.com/careers/positions/8745286002?gh_jid=8745286002  <!-- SumUp: Backend Engineer - Merchant Risk Intelligence | Vilnius, Lithuania -->
+- [ ] https://sumup.com/careers/positions/8645259002?gh_jid=8645259002  <!-- SumUp: Backend Engineer - Merchant Risk Intelligence  | Sofia, Bulgaria -->
+- [ ] https://sumup.com/careers/positions/8874454002?gh_jid=8874454002  <!-- SumUp: Backend Engineer - Run & Grow | Sofia, Bulgaria -->
+- [ ] https://sumup.com/careers/positions/8508079002?gh_jid=8508079002  <!-- SumUp: Senior Backend Engineer - Bookings | Warsaw, Poland; Warszawa, Masovian Voivodeship, Poland -->
+- [ ] https://sumup.com/careers/positions/8881640002?gh_jid=8881640002  <!-- SumUp: Senior Backend Engineer - Cards | Sofia, Bulgaria -->
+- [ ] https://sumup.com/careers/positions/8785374002?gh_jid=8785374002  <!-- SumUp: (Senior) Backend Engineer (Golang) - Bank | Vilnius, Lithuania -->
+- [ ] https://sumup.com/careers/positions/8827465002?gh_jid=8827465002  <!-- SumUp: Senior Backend Engineer (Golang) - Payments Infrastructure | Sofia, Bulgaria -->
+<!-- ...and 21 more bulk items -->
+
+---
 
 ## 2026-10-16 — Scout Scan
 
