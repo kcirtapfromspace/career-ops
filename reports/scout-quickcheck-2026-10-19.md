@@ -1,9 +1,9 @@
 # Scout Quickcheck — 2026-10-19
 
 **Type:** Greenhouse API quick scan (no WebSearch)
-**Companies checked:** 40
-**Raw matches:** 28
-**After filtering:** 18 valid (7 top, 11 secondary)
+**Companies checked:** 40 (run 1) + 36 (run 2, history refresh)
+**Raw matches:** 28 (run 1) + 2 additional (run 2)
+**After filtering:** 18 valid (7 top, 11 secondary) + 2 additional
 **Excluded:** 10 (German/Canada location, non-SW title false positives, Long Beach relocation)
 
 ## Errors
@@ -50,7 +50,20 @@
 - Databricks security engineering: interesting if Patrick has security exposure in cloud infra work.
 - Zipline SSF: on-site in SF bay area, no Denver or remote. Good company (drone delivery) but would need relocation to Bay Area.
 
-## Excluded (10 matches)
+## Additional Matches (Run 2 — History Refresh)
+
+A second scan pass ran later in the day, adding 848 previously-untracked URLs to scan-history.tsv. Two additional matches surfaced that weren't in history after run 1:
+
+| Company | Title | Location | URL |
+|---------|-------|----------|-----|
+| Anthropic | IT Systems Engineer, Client Platform Engineer, ChromeOS | Remote-Friendly + SF + Seattle | https://job-boards.greenhouse.io/anthropic/jobs/5456018008 |
+| Rocket Lab | Flight Software Engineer I | Littleton, CO (Denver metro) | https://job-boards.greenhouse.io/rocketlab/jobs/8038139003 |
+
+**Notes:**
+- **Anthropic ChromeOS** — Endpoint/IT systems role focused on ChromeOS fleet management. Travel required. "Platform Engineer" is in title but this is closer to IT ops than software engineering. Verify fit.
+- **Rocket Lab Littleton** — Flight software for launch vehicles at Rocket Lab's Denver metro office. Level I indicates mid-level entry into aerospace flight software. Strong hardware moat.
+
+## Excluded (10 matches, run 1)
 
 | Reason | Count |
 |--------|-------|
@@ -62,6 +75,8 @@
 | Long Beach CA relocation required (Vast x3) | 3 |
 
 ## Actions
-- Added all 28 raw URLs to `data/scan-history.tsv` (dedup for future scans)
-- Added 18 matches to `data/pipeline.md` (7 top, 11 secondary)
-- Anduril retry needed — timed out; should appear in next full scan with Playwright
+- Run 1: Added 28 raw URLs to `data/scan-history.tsv` (dedup for future scans)
+- Run 1: Added 18 matches to `data/pipeline.md` (7 top, 11 secondary)
+- Run 2: Added 848 additional URLs to `data/scan-history.tsv` (comprehensive history refresh)
+- Run 2: Added 2 additional matches to `data/pipeline.md`
+- Anduril retry needed — timed out in both runs; should appear in next full scan with Playwright

@@ -12512,3 +12512,10 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 > Lightweight API scan, 41 Greenhouse companies. 0 new engineering matches. Report: [scout-quickcheck-2026-10-18.md](../reports/scout-quickcheck-2026-10-18.md)
 
 <!-- no new matches this run; Applied AI Engineer (Physical AI) was already discovered 2026-10-16 -->
+
+## 2026-10-19 — Quick Check (Greenhouse APIs)
+> Lightweight API scan, 36 Greenhouse companies. 2 new matches. Report: [scout-quickcheck-2026-10-19.md](../reports/scout-quickcheck-2026-10-19.md)
+> Errors (404/timeout): Anduril (timeout), Black Forest Labs (404), Wayve (404), Clickhouse (404)
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5456018008  <!-- Anthropic | IT Systems Engineer, Client Platform Engineer, ChromeOS | Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY | discovered 2026-10-19 -->
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/8038139003  <!-- Rocket Lab | Flight Software Engineer I | Littleton, CO | discovered 2026-10-19 -->
