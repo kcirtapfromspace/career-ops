@@ -11,6 +11,38 @@
 <!-- Scout Quickcheck: 2026-10-10 — 0 new matches (30 companies scanned, all duped against history) -->
 
 
+
+## 2026-10-19 — Scout Quickcheck
+
+> Quickcheck: 40 companies (Greenhouse API only). 7 top picks, 11 secondary. Report: [scout-quickcheck-2026-10-19.md](../reports/scout-quickcheck-2026-10-19.md)
+> Errors: Anduril (timeout), Black Forest Labs (404), Wayve (404), Clickhouse (404)
+> Filtered out: 9 excluded (German/Canada/non-SW roles/Long Beach relocation)
+
+
+### ★★ Top Picks
+
+- [ ] https://job-boards.greenhouse.io/fivetran/jobs/8003720003  <!-- Fivetran: Senior Software Engineer - Orchestration | Denver, Colorado -->
+- [ ] https://job-boards.greenhouse.io/samsara/jobs/8141959  <!-- Samsara: Data Engineer | Remote - US -->
+- [ ] https://job-boards.greenhouse.io/samsara/jobs/8148638  <!-- Samsara: Manager II, Software Engineering, Infrastructure | Remote - US -->
+- [ ] https://job-boards.greenhouse.io/samsara/jobs/7520397  <!-- Samsara: Senior Software Engineer II, Route Planning | Remote - US -->
+- [ ] https://job-boards.greenhouse.io/samsara/jobs/8267637  <!-- Samsara: Staff Software Engineer, Maps Services | Remote - US -->
+- [ ] https://job-boards.greenhouse.io/databricks/jobs/8864368002  <!-- Databricks: Senior Software Engineer — Backend (Files Team) | San Francisco, CA -->
+- [ ] https://job-boards.greenhouse.io/databricks/jobs/8862144002  <!-- Databricks: Sr. Manager, Engineering - AI/BI | SF / Mountain View -->
+
+### Secondary
+
+- [ ] https://job-boards.greenhouse.io/samsara/jobs/8186910  <!-- Samsara: Senior Software Engineer II | Remote - SF Bay Area -->
+- [ ] https://job-boards.greenhouse.io/samsara/jobs/8237134  <!-- Samsara: Senior Software Engineer II, DevEx | Remote - NYC -->
+- [ ] https://job-boards.greenhouse.io/samsara/jobs/8237131  <!-- Samsara: Sr. Software Engineer II, DevEx | Remote - CA -->
+- [ ] https://job-boards.greenhouse.io/databricks/jobs/8612865002  <!-- Databricks: Sr. Staff Security Software Engineer - Agentic Security Engineering | Remote - CA -->
+- [ ] https://job-boards.greenhouse.io/databricks/jobs/7932280002  <!-- Databricks: Staff Security Software Engineer - Agentic Security Engineering | United States (remote) -->
+- [ ] https://job-boards.greenhouse.io/flyzipline/jobs/7933236003  <!-- Zipline: Sr. Manager, Software Engineering – Marketplace | South San Francisco, CA -->
+- [ ] https://job-boards.greenhouse.io/flyzipline/jobs/8017330003  <!-- Zipline: Staff Software Engineer – Integrations Platform | South San Francisco, CA -->
+- [ ] https://job-boards.greenhouse.io/fivetran/jobs/8017412003  <!-- Fivetran: Manager Software Engineering | Oakland, CA (verify remote – Fivetran is Denver/remote) -->
+- [ ] https://job-boards.greenhouse.io/fivetran/jobs/8007249003  <!-- Fivetran: Senior Software Engineer | Oakland, CA (verify remote) -->
+- [ ] https://job-boards.greenhouse.io/fivetran/jobs/8003725003  <!-- Fivetran: Senior Software Engineer - Orchestration | Oakland, CA (verify remote) -->
+- [ ] https://job-boards.greenhouse.io/fivetran/jobs/8004657003  <!-- Fivetran: Staff Software Engineer, Backend | Oakland, CA (verify remote) -->
+
 ## 2026-10-19 — Scout Scan
 
 > Scan: 40 companies (Greenhouse API + WebSearch). 4 top picks, 4 secondary. Report: [scout-2026-10-19.md](../reports/scout-2026-10-19.md)
