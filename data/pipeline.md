@@ -1,6 +1,7 @@
 # Pipeline — Pending Offers
 
 
+<!-- Scout Scan: 2026-10-19 — 8 new matches (40 companies: Greenhouse API + WebSearch). 4 top picks, 4 secondary -->
 <!-- Scout Quickcheck: 2026-10-18 — 210 new matches (40 companies: Greenhouse API only). 99 top, 70 secondary, 41 bulk -->
 <!-- Scout Scan: 2026-10-16 — 2 secondary matches, 0 top picks (60 companies: Greenhouse API + WebSearch) -->
 <!-- Scout Quickcheck: 2026-10-15 — 0 new matches (36 companies: Greenhouse API only; prior agent covered same batch earlier today) -->
@@ -8,6 +9,28 @@
 <!-- Scout Scan: 2026-10-13 — 0 new matches (15 companies scanned, all deduped against Oct 11-12) -->
 <!-- Scout Scan: 2026-10-11 — 25 new matches (40 companies: Greenhouse API + WebSearch) -->
 <!-- Scout Quickcheck: 2026-10-10 — 0 new matches (30 companies scanned, all duped against history) -->
+
+
+## 2026-10-19 — Scout Scan
+
+> Scan: 40 companies (Greenhouse API + WebSearch). 4 top picks, 4 secondary. Report: [scout-2026-10-19.md](../reports/scout-2026-10-19.md)
+> Errors: Wayve, Black Forest Labs, Clickhouse (HTTP 404)
+
+
+### ★★ Top Picks
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5456453008  <!-- Anthropic: Software Engineer, Memory & Search | SF (verify remote) -->
+- [ ] https://www.fivetran.com/careers/job?gh_jid=8016899003  <!-- Fivetran: Engineering Manager, Metadata | Denver, CO -->
+- [ ] https://www.fivetran.com/careers/job?gh_jid=8017186003  <!-- Fivetran: Senior Software Engineer - Orchestration | Denver, CO -->
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/8028718003  <!-- Rocket Lab: Senior Software Engineer - Data Engineering | Long Beach CA + Denver, CO -->
+
+### Secondary
+
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7787913003  <!-- Fivetran: Senior Software Engineer | Denver, CO — verify team -->
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/8231548  <!-- Planet Labs: Senior Data Engineer, GMS Data Team | SF — verify remote -->
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4743056005  <!-- Glean: Solutions Engineering Manager | SF/Remote -->
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/8007303003  <!-- Rocket Lab: Senior Software Engineer | Long Beach/Denver — verify team -->
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/8255417  <!-- Planet Labs: Senior Software Engineer | SF — verify team/remote -->
 <!-- Scout Quickcheck: 2026-10-09 — 12 pipeline-worthy new matches (Greenhouse API only, 40 companies) -->
 <!-- Errors: Black Forest Labs, Wayve, Clickhouse (HTTP 404) -->
 
