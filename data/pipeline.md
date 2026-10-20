@@ -12519,3 +12519,13 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5456018008  <!-- Anthropic | IT Systems Engineer, Client Platform Engineer, ChromeOS | Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY | discovered 2026-10-19 -->
 - [ ] https://job-boards.greenhouse.io/rocketlab/jobs/8038139003  <!-- Rocket Lab | Flight Software Engineer I | Littleton, CO | discovered 2026-10-19 -->
+
+## 2026-10-20 — Scout Scan
+> Full scan: ~15 companies (Greenhouse API). 4 new matches. Report: [scout-2026-10-20.md](../reports/scout-2026-10-20.md)
+### ★★ Top Picks (4.0+)
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4713044006  <!-- Chainguard | Staff Platform Database Engineer | United States - Remote | Score 4.0 | K8s/platform/DB, staff-level, fully remote -->
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4718566006  <!-- Chainguard | Engineering Manager, AI CICD | United States - Remote | Score 3.9 | EM archetype, K8s/CICD domain, AI tooling -->
+
+### ★ Secondary (3.5–3.9)
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4715303006  <!-- Chainguard | Senior Manager, Engineering (Container Product Engineering) | United States - Remote | Score 3.7 -->
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4697216006  <!-- Chainguard | Senior Software Engineer (Customer Platform) | United States - Remote | Score 3.5 -->
