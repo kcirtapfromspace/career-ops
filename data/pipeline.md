@@ -12529,3 +12529,28 @@ _8 new matches from 42 Greenhouse companies (10 raw, 2 filtered: 1 non-engineeri
 ### ★ Secondary (3.5–3.9)
 - [ ] https://job-boards.greenhouse.io/chainguard/jobs/4715303006  <!-- Chainguard | Senior Manager, Engineering (Container Product Engineering) | United States - Remote | Score 3.7 -->
 - [ ] https://job-boards.greenhouse.io/chainguard/jobs/4697216006  <!-- Chainguard | Senior Software Engineer (Customer Platform) | United States - Remote | Score 3.5 -->
+
+## 2026-10-20 — Quick Check (Greenhouse APIs)
+> Lightweight API scan, 40 Greenhouse companies. 15 new matches. Report: [scout-quickcheck-2026-10-20.md](../reports/scout-quickcheck-2026-10-20.md)
+> Errors (404/timeout): Black Forest Labs, Clickhouse, Wayve
+### ★★ Top Picks
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5269017007?gh_jid=5269017007  <!-- Anduril | Classified Cloud & Platform Engineer | Costa Mesa, California, United States | discovered 2026-10-20 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5268991007?gh_jid=5268991007  <!-- Anduril | Classified Platform Engineer | Washington, District of Columbia, United States | discovered 2026-10-20 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5261106007?gh_jid=5261106007  <!-- Anduril | Staff AI & Agentic Platform Engineer | Costa Mesa, California, United States; Washington, District of Columbia, United States | discovered 2026-10-20 -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5458794008  <!-- Anthropic | Staff+ Software Engineer, Platform Safety | San Francisco, CA | New York City, NY | discovered 2026-10-20 -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5458044008  <!-- Anthropic | Staff+ Software Engineer, VectorDB | New York City, NY | Seattle, WA; San Francisco, CA | New York City, NY | Seattle, WA | discovered 2026-10-20 -->
+### Secondary
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5265763007?gh_jid=5265763007  <!-- Anduril | Computer Vision Software Engineer, Software Defined Weapon Optic | Costa Mesa, California, United States | discovered 2026-10-20 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5269886007?gh_jid=5269886007  <!-- Anduril | Fielded Site Reliability Engineer | Waltham, Massachusetts, United States | discovered 2026-10-20 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5268306007?gh_jid=5268306007  <!-- Anduril | Realtime Software Engineer | Waltham, Massachusetts, United States | discovered 2026-10-20 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5267908007?gh_jid=5267908007  <!-- Anduril | Senior Software Engineer, Actuation and Control Systems | Costa Mesa, California, United States | discovered 2026-10-20 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5267923007?gh_jid=5267923007  <!-- Anduril | Senior Software Engineer, Mission Perception, Planning, and Operations | Costa Mesa, California, United States | discovered 2026-10-20 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5267904007?gh_jid=5267904007  <!-- Anduril | Senior Software Engineer, Vehicle Management Systems | Costa Mesa, California, United States | discovered 2026-10-20 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5269889007?gh_jid=5269889007  <!-- Anduril | Site Reliability Engineer | Waltham, Massachusetts, United States | discovered 2026-10-20 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5268307007?gh_jid=5268307007  <!-- Anduril | Software Engineer, Imaging | Waltham, Massachusetts, United States | discovered 2026-10-20 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5269031007?gh_jid=5269031007  <!-- Anduril | Software Engineer - Payload Integrations | Costa Mesa, California, United States | discovered 2026-10-20 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5267927007?gh_jid=5267927007  <!-- Anduril | Staff Software Engineer, Navigation and Control | Costa Mesa, California, United States | discovered 2026-10-20 -->
+
+## Scout Quick-Check — 2026-10-20
+
+- [Vast — Senior Flight Software Engineer](https://boards.greenhouse.io/vast/jobs/4723452006?gh_jid=4723452006) | Long Beach, California, United States
