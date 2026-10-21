@@ -1,6 +1,7 @@
 # Pipeline — Pending Offers
 
 
+<!-- Scout Quickcheck: 2026-10-21 — 42 new matches (40 companies: Greenhouse API only). 4 top picks, 8 secondary, 30 bulk -->
 <!-- Scout Scan: 2026-10-19 — 8 new matches (40 companies: Greenhouse API + WebSearch). 4 top picks, 4 secondary -->
 <!-- Scout Quickcheck: 2026-10-18 — 210 new matches (40 companies: Greenhouse API only). 99 top, 70 secondary, 41 bulk -->
 <!-- Scout Scan: 2026-10-16 — 2 secondary matches, 0 top picks (60 companies: Greenhouse API + WebSearch) -->
@@ -11,6 +12,31 @@
 <!-- Scout Quickcheck: 2026-10-10 — 0 new matches (30 companies scanned, all duped against history) -->
 
 
+
+## 2026-10-21 — Scout Quickcheck
+
+> Quickcheck: 40 companies (Greenhouse API only). 4 top picks, 8 secondary, 30 bulk (logged to history). Report: [scout-quickcheck-2026-10-21.md](../reports/scout-quickcheck-2026-10-21.md)
+> Errors: Black Forest Labs (404), Wayve (404), Clickhouse (404)
+> Bulk (location-rejected, logged to history only): 30 Anduril roles (Costa Mesa/Waltham/Reston/Santa Ana/Atlanta) + Rocket Lab (Tucson/Chantilly)
+
+
+### ★★ Top Picks
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5458794008  <!-- Anthropic: Staff+ Software Engineer, Platform Safety | San Francisco, CA / New York City, NY -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5458044008  <!-- Anthropic: Staff+ Software Engineer, VectorDB | SF / Seattle / NYC -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5265428007?gh_jid=5265428007  <!-- Anduril: Senior Software Engineer, Simulation Platform | Seattle, WA -->
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/8037898003  <!-- Rocket Lab: Senior DevOps Engineer I | Littleton, CO (Denver metro) -->
+
+### Secondary
+
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5261106007?gh_jid=5261106007  <!-- Anduril: Staff AI & Agentic Platform Engineer | Costa Mesa, CA / DC (dream co) -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5271233007?gh_jid=5271233007  <!-- Anduril: Classified Cloud & Platform Engineer | Washington, DC (dream co) -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5269017007?gh_jid=5269017007  <!-- Anduril: Classified Cloud & Platform Engineer | Costa Mesa, CA (dream co) -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5268991007?gh_jid=5268991007  <!-- Anduril: Classified Platform Engineer | Washington, DC (dream co) -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5267747007?gh_jid=5267747007  <!-- Anduril: Classified Platform Engineer | Costa Mesa, CA (dream co) -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5264403007?gh_jid=5264403007  <!-- Anduril: Infrastructure Engineer | Reston, VA (dream co) -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5267673007?gh_jid=5267673007  <!-- Anduril: Senior Software Engineer, Platform | Costa Mesa, CA (dream co) -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5250787007?gh_jid=5250787007  <!-- Anduril: Senior Machine Learning Engineer (Applied Intelligence) | Santa Ana, CA (dream co) -->
 
 ## 2026-10-19 — Scout Quickcheck
 
