@@ -12593,3 +12593,5 @@ https://job-boards.greenhouse.io/life360/jobs/8893035002
 
 https://job-boards.greenhouse.io/life360/jobs/8895033002
 <!-- Life360 | Director, Engineering, Platform/Services | Remote US | Score: 3.5/5 | Exceeds target level (Director vs EM/Staff). Platform/Services matches background. Verify comp first. -->
+
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5271710007  <!-- True Anomaly | Software Engineer (II-III), Full Stack | Denver, CO; Long Beach, CA | scout-quickcheck-2026-10-21 -->
