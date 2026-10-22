@@ -12595,3 +12595,28 @@ https://job-boards.greenhouse.io/life360/jobs/8895033002
 <!-- Life360 | Director, Engineering, Platform/Services | Remote US | Score: 3.5/5 | Exceeds target level (Director vs EM/Staff). Platform/Services matches background. Verify comp first. -->
 
 - [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5271710007  <!-- True Anomaly | Software Engineer (II-III), Full Stack | Denver, CO; Long Beach, CA | scout-quickcheck-2026-10-21 -->
+
+## 2026-10-22 — Scout Scan
+> Full scan: ~35 companies (Greenhouse API + WebSearch). 7 confirmed new matches + 4 unverified discovery leads. Report: [scout-2026-10-22.md](../reports/scout-2026-10-22.md)
+
+### ★★ Discovery Leads — Verify First
+> These appeared via aggregators — confirm open before evaluating.
+
+- [ ] **VERIFY:** https://abnormalsecurity.com/company/careers (Staff SWE, Data Platform | Remote US | $210K-$247K | Score ~4.1)
+  <!-- Abnormal Security | Staff Software Engineer, Data Platform | Remote US | $210K-$247K | Kafka, Postgres, Go, AWS — Patrick's stack | discovered 2026-10-22 -->
+- [ ] **VERIFY:** https://sentinelone.com/careers (Staff Infrastructure Engineer, Data Streaming | Remote US | Score ~4.0)
+  <!-- SentinelOne | Staff Infrastructure Engineer, Data Streaming | Remote US | Kafka+Redis on K8s, ArgoCD, 5PB/day scale | discovered 2026-10-22 -->
+
+### ★ Confirmed Matches
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5457716008
+  <!-- Anthropic | Staff Software Engineer, Finance Engineering | San Francisco, CA | Seattle, WA | Score 3.8 | discovered 2026-10-22 -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5457708008
+  <!-- Anthropic | Engineering Manager, Finance Engineering | San Francisco, CA | Seattle, WA | Score 3.7 | discovered 2026-10-22 -->
+- [ ] https://job-boards.greenhouse.io/flyzipline/jobs/8040822003
+  <!-- Zipline | Staff Software Engineer - Routing Engine | Ann Arbor, Michigan | South San Francisco, CA | Score 3.7 | discovered 2026-10-22 -->
+- [ ] https://temporal.io/careers/a60877d2-e825-4e0f-9f36-230352a9f193
+  <!-- Temporal | Senior Software Engineer, Cloud Capacity | United States (Remote) | Score 3.6 | discovered 2026-10-22 -->
+- [ ] https://temporal.io/careers/15bf95f9-4589-42cf-b853-1f624aef77f2
+  <!-- Temporal | Senior Software Engineer, Nexus Server | Seattle, WA | Score 3.5 | discovered 2026-10-22 -->
+
