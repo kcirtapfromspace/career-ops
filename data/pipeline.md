@@ -12620,3 +12620,7 @@ https://job-boards.greenhouse.io/life360/jobs/8895033002
 - [ ] https://temporal.io/careers/15bf95f9-4589-42cf-b853-1f624aef77f2
   <!-- Temporal | Senior Software Engineer, Nexus Server | Seattle, WA | Score 3.5 | discovered 2026-10-22 -->
 
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4723523006
+  <!-- Chainguard | Software Engineer, Sustaining Automation | Canada - Remote; United States - Remote | Score est. 3.6 | discovered 2026-10-22 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8909305002
+  <!-- Databricks | Senior Staff Software Engineer, AI Runtime | Mountain View, CA; San Francisco, CA | Score est. 3.9 | discovered 2026-10-22 -->
