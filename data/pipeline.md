@@ -1,6 +1,17 @@
 # Pipeline — Pending Offers
 
 
+<!-- Scout Quickcheck: 2026-10-23 — 2 new matches (41 companies: Greenhouse API only). 2 AI Engineer @ Glean -->
+
+## 2026-10-23 — Scout Quick-Check
+
+### ★ New Matches
+
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4746908005
+  <!-- Glean | AI Engineer - Data and Evals | San Francisco Bay Area | discovered 2026-10-23 quickcheck -->
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4746915005
+  <!-- Glean | AI Engineer - Quality and Post-Training | San Francisco Bay Area | discovered 2026-10-23 quickcheck -->
+
 <!-- Scout Quickcheck: 2026-10-21 — 42 new matches (40 companies: Greenhouse API only). 4 top picks, 8 secondary, 30 bulk -->
 <!-- Scout Scan: 2026-10-19 — 8 new matches (40 companies: Greenhouse API + WebSearch). 4 top picks, 4 secondary -->
 <!-- Scout Quickcheck: 2026-10-18 — 210 new matches (40 companies: Greenhouse API only). 99 top, 70 secondary, 41 bulk -->
