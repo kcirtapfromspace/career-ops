@@ -12624,3 +12624,18 @@ https://job-boards.greenhouse.io/life360/jobs/8895033002
   <!-- Chainguard | Software Engineer, Sustaining Automation | Canada - Remote; United States - Remote | Score est. 3.6 | discovered 2026-10-22 -->
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8909305002
   <!-- Databricks | Senior Staff Software Engineer, AI Runtime | Mountain View, CA; San Francisco, CA | Score est. 3.9 | discovered 2026-10-22 -->
+
+## 2026-10-23 — Scout Scan
+> Full scan: ~30 companies (Greenhouse API + WebSearch). 3 confirmed new matches. Report: [scout-2026-10-23.md](../reports/scout-2026-10-23.md)
+
+### ★ Top Pick — Evaluate First
+
+- [ ] https://temporal.io/careers/ccc3148c-fde1-4b22-bf5b-fd74a0f95c1d
+  <!-- Temporal | Senior Engineering Manager, Observability Engineering | Seattle, WA (remote) | $248K-$362K | Score 4.3/5 | Direct VA.gov Watchtower match; exceptional comp | discovered 2026-10-23 -->
+
+### Other Matches — Verify Before Investing Time
+
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8337454002
+  <!-- GitLab | Engineering Manager, Infrastructure Platforms | Remote US/CA/UK | Score est. 3.6/5 | Platform EM, remote-first company | discovered 2026-10-23 -->
+- [ ] https://jobs.lever.co/shieldai/dd7070fb-bc02-4ab0-930f-c3c2e933353e
+  <!-- Shield AI | Staff Engineer, Software (R6331) | Remote | Score est. 3.5/5 | Defense tech, Staff remote — verify stack fit | discovered 2026-10-23 -->
