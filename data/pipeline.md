@@ -12650,3 +12650,36 @@ https://job-boards.greenhouse.io/life360/jobs/8895033002
   <!-- GitLab | Engineering Manager, Infrastructure Platforms | Remote US/CA/UK | Score est. 3.6/5 | Platform EM, remote-first company | discovered 2026-10-23 -->
 - [ ] https://jobs.lever.co/shieldai/dd7070fb-bc02-4ab0-930f-c3c2e933353e
   <!-- Shield AI | Staff Engineer, Software (R6331) | Remote | Score est. 3.5/5 | Defense tech, Staff remote — verify stack fit | discovered 2026-10-23 -->
+
+## 2026-10-24 — Scout Scan
+> Partial scan: Greenhouse APIs (Anthropic, Fivetran, True Anomaly, Scale AI, Databricks, Anduril) + WebSearch (Temporal). 12 new matches. Report: [scout-2026-10-24.md](../reports/scout-2026-10-24.md)
+
+### ★ Top Picks — Evaluate First
+
+- [ ] https://job-boards.greenhouse.io/fivetran/jobs/7823195003
+  <!-- Fivetran/dbt | Engineering Manager, Metadata | Denver, CO | Score 4.0/5 | dbt in stack, Denver EM role | discovered 2026-10-24 -->
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4732798005
+  <!-- Scale AI | Senior Machine Learning Engineer, Public Sector | Denver, CO | Score 4.0/5 | Denver-based, federal background direct fit | discovered 2026-10-24 -->
+
+### Other Matches — Verify Before Investing Time
+
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5166543007
+  <!-- True Anomaly | Senior Platform Engineer, AI | Denver, CO | Score est. 3.9/5 | K8s/Platform+AI, Denver metro — verify clearance req | discovered 2026-10-24 -->
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5099702007
+  <!-- True Anomaly | Senior Manager, Infrastructure Engineering | Denver, CO | Score est. 3.8/5 | Denver EM, defense/space — verify clearance req | discovered 2026-10-24 -->
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5220130007
+  <!-- True Anomaly | Principal Data Engineer | Denver, CO | Score est. 3.7/5 | Denver, CDC/lakehouse fit | discovered 2026-10-24 -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5426135008
+  <!-- Anthropic | Engineering Manager, Data Infrastructure | San Francisco, CA | Score est. 3.7/5 | EM at top AI lab, data infra focus | discovered 2026-10-24 -->
+- [ ] https://job-boards.greenhouse.io/fivetran/jobs/7810467003
+  <!-- Fivetran | Senior R&D Software Engineer, Fivetran AI | Denver, CO | Score est. 3.7/5 | Denver, AI features | discovered 2026-10-24 -->
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5142446007
+  <!-- True Anomaly | Engineering Manager, Ground Software | Denver, CO | Score est. 3.7/5 | Denver EM, mission-critical systems | discovered 2026-10-24 -->
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4625271005
+  <!-- Scale AI | Engineering Manager, Agent Oversight | San Francisco, CA | Score est. 3.6/5 | EM at Scale AI, SF relocation OK | discovered 2026-10-24 -->
+- [ ] https://job-boards.greenhouse.io/fivetran/jobs/8003720003
+  <!-- Fivetran | Senior Software Engineer, Orchestration | Denver, CO | Score est. 3.6/5 | Denver, Argo/Airflow match | discovered 2026-10-24 -->
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4733702005
+  <!-- Scale AI | Engineering Manager, Customer Platform (GenAI) | San Francisco, CA | Score est. 3.6/5 | GenAI EM at Scale AI | discovered 2026-10-24 -->
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5138856007
+  <!-- True Anomaly | Machine Learning Engineer (II-III), Space Agentic AI | Denver, CO | Score est. 3.5/5 | Denver ML+Space, verify level fit | discovered 2026-10-24 -->
