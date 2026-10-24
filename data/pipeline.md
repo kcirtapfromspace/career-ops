@@ -12683,3 +12683,11 @@ https://job-boards.greenhouse.io/life360/jobs/8895033002
   <!-- Scale AI | Engineering Manager, Customer Platform (GenAI) | San Francisco, CA | Score est. 3.6/5 | GenAI EM at Scale AI | discovered 2026-10-24 -->
 - [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5138856007
   <!-- True Anomaly | Machine Learning Engineer (II-III), Space Agentic AI | Denver, CO | Score est. 3.5/5 | Denver ML+Space, verify level fit | discovered 2026-10-24 -->
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4747393005
+  <!-- Glean | Senior Site Reliability Engineer | Mountain View, CA | Score est. 3.6/5 | SRE at enterprise AI search, Bay Area | discovered 2026-10-24 -->
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4746919005
+  <!-- Glean | Software Engineer | Mountain View, CA | Score est. 3.5/5 | SWE at enterprise AI search, Bay Area | discovered 2026-10-24 -->
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4746918005
+  <!-- Glean | Software Engineer | Mountain View, CA | Score est. 3.5/5 | SWE at enterprise AI search, Bay Area | discovered 2026-10-24 -->
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4746910005
+  <!-- Glean | Software Engineer | Mountain View, CA | Score est. 3.5/5 | SWE at enterprise AI search, Bay Area | discovered 2026-10-24 -->
