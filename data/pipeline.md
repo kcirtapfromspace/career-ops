@@ -12699,3 +12699,8 @@ https://job-boards.greenhouse.io/life360/jobs/8895033002
   <!-- Glean | Software Engineer | Mountain View, CA | Score est. 3.5/5 | SWE at enterprise AI search, Bay Area | discovered 2026-10-24 -->
 - [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4746910005
   <!-- Glean | Software Engineer | Mountain View, CA | Score est. 3.5/5 | SWE at enterprise AI search, Bay Area | discovered 2026-10-24 -->
+
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5274646007?gh_jid=5274646007
+  <!-- Anduril | Senior Software Engineer- Infrastructure  | Broomfield, Colorado, United States | discovered 2026-10-25 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5274648007?gh_jid=5274648007
+  <!-- Anduril | Senior Software Engineer- Machine Learning | Broomfield, Colorado, United States | discovered 2026-10-25 -->
