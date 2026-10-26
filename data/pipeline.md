@@ -13057,3 +13057,12 @@ https://job-boards.greenhouse.io/life360/jobs/8895033002
   <!-- Databricks: Staff Software Engineer- Search Quality (Bengaluru, India) — scout-quickcheck 2026-10-25 -->
 - https://databricks.com/company/careers/open-positions/job?gh_jid=7958688002
   <!-- Databricks: Staff Software Engineer  (Search Ranking) (Bengaluru, India) — scout-quickcheck 2026-10-25 -->
+
+## 2026-10-26
+
+- [ ] https://job-boards.greenhouse.io/honeycomb/jobs/5442860008 | Honeycomb | Senior Engineering Manager - Tenant
+  <!-- Honeycomb: Senior Engineering Manager - Tenant (Remote - United States) — scout-2026-10-26 -->
+- [ ] https://job-boards.greenhouse.io/honeycomb/jobs/5452584008 | Honeycomb | Senior Software Engineer I - Agent Observability
+  <!-- Honeycomb: Senior Software Engineer I - Agent Observability (Remote - United States) — scout-2026-10-26 -->
+- [ ] https://job-boards.greenhouse.io/honeycomb/jobs/5452445008 | Honeycomb | Senior Software Engineer II - Agent Observability
+  <!-- Honeycomb: Senior Software Engineer II - Agent Observability (Remote - United States) — scout-2026-10-26 -->
