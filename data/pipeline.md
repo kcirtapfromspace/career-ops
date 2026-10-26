@@ -1,5 +1,24 @@
 # Pipeline — Pending Offers
 
+<!-- Scout: 2026-10-25 — 1 new match (15 companies: Greenhouse API + Ashby). Market quiet since Oct 24. System update available v1.2.0→v1.38.0. -->
+
+## 2026-10-25 — Scout Scan
+
+### ★ New Matches
+
+- [ ] https://jobs.ashbyhq.com/temporal/5d1cf6ea-c2c4-491a-b19a-ab95767c0d4b
+  <!-- Temporal | Senior Analytics Engineer | US Remote | Score est. 3.8/5 | dbt/DuckDB stack match, Go/workflow infra signal, Senior level (secondary) | discovered 2026-10-25 scout -->
+
+<!-- Scout Quickcheck: 2026-10-23 — 2 new matches (41 companies: Greenhouse API only). 2 AI Engineer @ Glean -->
+
+## 2026-10-23 — Scout Quick-Check
+
+### ★ New Matches
+
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4746908005
+  <!-- Glean | AI Engineer - Data and Evals | San Francisco Bay Area | discovered 2026-10-23 quickcheck -->
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4746915005
+  <!-- Glean | AI Engineer - Quality and Post-Training | San Francisco Bay Area | discovered 2026-10-23 quickcheck -->
 
 <!-- Scout Quickcheck: 2026-10-21 — 42 new matches (40 companies: Greenhouse API only). 4 top picks, 8 secondary, 30 bulk -->
 <!-- Scout Scan: 2026-10-19 — 8 new matches (40 companies: Greenhouse API + WebSearch). 4 top picks, 4 secondary -->
