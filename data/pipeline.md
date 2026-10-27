@@ -13228,3 +13228,5 @@ https://job-boards.greenhouse.io/life360/jobs/8895033002
 - [Senior Software Engineer, Mission Optimization at Planet Labs](https://job-boards.greenhouse.io/planetlabs/jobs/8197622)
 - [Senior Software Engineer, Storage Infrastructure at Planet Labs](https://job-boards.greenhouse.io/planetlabs/jobs/8154780)
 - [Software Engineer, Platform Operations at Planet Labs](https://job-boards.greenhouse.io/planetlabs/jobs/7555019)
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5462966008 | Anthropic — Security Data Engineer | Remote-Friendly (Travel Required) | San Francisco, CA | discovered 2026-10-27
