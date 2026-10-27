@@ -1,5 +1,6 @@
 # Pipeline — Pending Offers
 
+<!-- Scout: 2026-10-27 — 0 new matches (~18 companies: Greenhouse API + WebSearch). Market quiet, all roles already in history from Oct 26 scan. Dagster board empty (merger w/ Prefect). Clickhouse board 404 (migrated). System update v1.2.0→v1.38.0 available. -->
 <!-- Scout: 2026-10-25 — 1 new match (15 companies: Greenhouse API + Ashby). Market quiet since Oct 24. System update available v1.2.0→v1.38.0. -->
 
 ## 2026-10-25 — Scout Scan
