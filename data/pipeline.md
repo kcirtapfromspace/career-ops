@@ -1,6 +1,7 @@
 # Pipeline — Pending Offers
 
-<!-- Scout: 2026-10-27 — 0 new matches (~18 companies: Greenhouse API + WebSearch). Market quiet, all roles already in history from Oct 26 scan. Dagster board empty (merger w/ Prefect). Clickhouse board 404 (migrated). System update v1.2.0→v1.38.0 available. -->
+<!-- Scout: 2026-10-27 — 5 new matches (40 companies: Greenhouse API only). 2 Databricks FDE roles (London), 3 Anduril Colorado/USA roles. API errors: Black Forest Labs, Wayve, Clickhouse (404). System update v1.2.0→v1.38.0 available. -->
+<!-- Scout: 2026-10-27 (earlier run) — 0 new matches (~18 companies: Greenhouse API + WebSearch). Market quiet, all roles already in history from Oct 26 scan. Dagster board empty (merger w/ Prefect). Clickhouse board 404 (migrated). System update v1.2.0→v1.38.0 available. -->
 <!-- Scout: 2026-10-25 — 1 new match (15 companies: Greenhouse API + Ashby). Market quiet since Oct 24. System update available v1.2.0→v1.38.0. -->
 
 ## 2026-10-25 — Scout Scan
@@ -13230,3 +13231,24 @@ https://job-boards.greenhouse.io/life360/jobs/8895033002
 - [Software Engineer, Platform Operations at Planet Labs](https://job-boards.greenhouse.io/planetlabs/jobs/7555019)
 
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5462966008 | Anthropic — Security Data Engineer | Remote-Friendly (Travel Required) | San Francisco, CA | discovered 2026-10-27
+
+## 2026-10-27 — Scout Quick-Check
+
+> Quickcheck: 40 companies (Greenhouse API only). 5 new matches: 2 Databricks FDE (London), 3 Anduril (CO/USA). Report: [scout-quickcheck-2026-10-27.md](../reports/scout-quickcheck-2026-10-27.md)
+> Errors: Black Forest Labs (404), Wayve (404), Clickhouse (404)
+
+### ★★ Top Picks
+
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8910850002
+  <!-- Databricks | Forward Deployed Engineering Manager | London, UK | FDE manager role, strong Patrick fit | discovered 2026-10-27 quickcheck -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8916552002
+  <!-- Databricks | Senior Forward Deployed Engineer (Technical Data Architect) | London, UK | FDE + Data Architect, direct fit | discovered 2026-10-27 quickcheck -->
+
+### ★ Secondary
+
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5275462007?gh_jid=5275462007
+  <!-- Anduril | Scientific Software Engineer | Broomfield/Fort Collins, CO (Denver metro) | verify clearance req | discovered 2026-10-27 quickcheck -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5275463007?gh_jid=5275463007
+  <!-- Anduril | Software Engineer, C++ | Broomfield/Fort Collins, CO | C++ stack - check for infra/Python components | discovered 2026-10-27 quickcheck -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5145121007?gh_jid=5145121007
+  <!-- Anduril | Mission Software Engineer, Ground | USA (location unspecified - verify remote eligibility) | discovered 2026-10-27 quickcheck -->
