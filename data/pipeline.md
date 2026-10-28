@@ -1,5 +1,6 @@
 # Pipeline — Pending Offers
 
+<!-- Scout: 2026-10-28 quickcheck — 3 new matches (40 companies: Greenhouse API only). Stability AI Staff SWE (Remote), Rocket Lab x2 (Littleton CO + Long Beach CA). API errors: Black Forest Labs, Wayve, Clickhouse (404 — dead boards). -->
 <!-- Scout: 2026-10-27 — 5 new matches (40 companies: Greenhouse API only). 2 Databricks FDE roles (London), 3 Anduril Colorado/USA roles. API errors: Black Forest Labs, Wayve, Clickhouse (404). System update v1.2.0→v1.38.0 available. -->
 <!-- Scout: 2026-10-27 (earlier run) — 0 new matches (~18 companies: Greenhouse API + WebSearch). Market quiet, all roles already in history from Oct 26 scan. Dagster board empty (merger w/ Prefect). Clickhouse board 404 (migrated). System update v1.2.0→v1.38.0 available. -->
 <!-- Scout: 2026-10-25 — 1 new match (15 companies: Greenhouse API + Ashby). Market quiet since Oct 24. System update available v1.2.0→v1.38.0. -->
@@ -13268,3 +13269,16 @@ https://job-boards.greenhouse.io/life360/jobs/8895033002
   <!-- Calendly | Full Stack Engineer - Trust and Safety | Remote - US | No seniority marker | discovered 2026-10-28 -->
 - [ ] https://job-boards.greenhouse.io/calendly/jobs/8846049002
   <!-- Calendly | Senior Full Stack Engineer, Website Development | Remote - US | Website dev focus, weak fit | discovered 2026-10-28 -->
+
+## 2026-10-28 — Quick Check (Greenhouse API)
+
+> Scan: 40 tracked companies (Greenhouse API only). 3 new matches. Filtered out: Anduril East Coast (Waltham MA, Chantilly VA), Glean University Grad entry-level. API 404: Black Forest Labs, Wayve, Clickhouse.
+
+### ★ New Matches
+
+- [ ] http://stability.ai/careers?gh_jid=5018185101
+  <!-- Stability AI | Staff Software Engineer, Data | Remote | Staff-level data SWE, remote — high priority | discovered 2026-10-28 quickcheck -->
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7994294003
+  <!-- Rocket Lab | Senior Network Software Engineer II - Secret Clearance Required | Littleton, CO (Denver metro) | Senior SWE, Denver area, aerospace — verify clearance req | discovered 2026-10-28 quickcheck -->
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/8044960003
+  <!-- Rocket Lab | Senior Software Engineer I | Long Beach, CA | Senior SWE L1, LA area — verify remote eligibility | discovered 2026-10-28 quickcheck -->
