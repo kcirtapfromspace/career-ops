@@ -13252,3 +13252,19 @@ https://job-boards.greenhouse.io/life360/jobs/8895033002
   <!-- Anduril | Software Engineer, C++ | Broomfield/Fort Collins, CO | C++ stack - check for infra/Python components | discovered 2026-10-27 quickcheck -->
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5145121007?gh_jid=5145121007
   <!-- Anduril | Mission Software Engineer, Ground | USA (location unspecified - verify remote eligibility) | discovered 2026-10-27 quickcheck -->
+
+## 2026-10-28 — Scout Scan
+
+> Scan: ~52 tracked companies (Greenhouse API). 4 new matches, all secondary. No high-confidence picks today. Report: [scout-2026-10-28.md](../reports/scout-2026-10-28.md)
+> Note: Most companies scanned 2026-10-26. Dagster Labs: 0 open roles. Calendly/Twilio had fresh data.
+
+### ★ Secondary
+
+- [ ] https://job-boards.greenhouse.io/calendly/jobs/8464846002
+  <!-- Calendly | Senior Full Stack Engineer, AI Scheduling | Remote - US | Senior FSE with AI focus | discovered 2026-10-28 -->
+- [ ] https://job-boards.greenhouse.io/twilio/jobs/8099162
+  <!-- Twilio | Senior Software Engineer (L3) | Remote - US | L3=~Senior at Twilio, evaluate scope | discovered 2026-10-28 -->
+- [ ] https://job-boards.greenhouse.io/calendly/jobs/8895903002
+  <!-- Calendly | Full Stack Engineer - Trust and Safety | Remote - US | No seniority marker | discovered 2026-10-28 -->
+- [ ] https://job-boards.greenhouse.io/calendly/jobs/8846049002
+  <!-- Calendly | Senior Full Stack Engineer, Website Development | Remote - US | Website dev focus, weak fit | discovered 2026-10-28 -->
