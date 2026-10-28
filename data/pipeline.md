@@ -1,4 +1,13 @@
 # Pipeline — Pending Offers
+<!-- Scout: 2026-10-28 quickcheck — 1 new match (42 companies: Greenhouse API only). Anthropic Staff+ SWE Deployment (Remote-Friendly/SF/Seattle). API errors: Temporal, RunPod, Black Forest Labs, Wayve, Aurora, Clickhouse (404). -->
+
+## 2026-10-28 — Scout Quick-Check
+
+### ★ New Match
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5466480008
+  <!-- Anthropic | Staff+ Software Engineer, Deployment | Remote-Friendly (Travel-Required) / SF / Seattle / NYC | discovered 2026-10-28 quickcheck -->
+
 
 <!-- Scout: 2026-10-28 quickcheck — 3 new matches (40 companies: Greenhouse API only). Stability AI Staff SWE (Remote), Rocket Lab x2 (Littleton CO + Long Beach CA). API errors: Black Forest Labs, Wayve, Clickhouse (404 — dead boards). -->
 <!-- Scout: 2026-10-27 — 5 new matches (40 companies: Greenhouse API only). 2 Databricks FDE roles (London), 3 Anduril Colorado/USA roles. API errors: Black Forest Labs, Wayve, Clickhouse (404). System update v1.2.0→v1.38.0 available. -->
