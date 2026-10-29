@@ -13325,3 +13325,29 @@ https://job-boards.greenhouse.io/life360/jobs/8895033002
   <!-- Netflix | Software Engineer L4/L5 — Model Serving Systems, ML Platform | Remote - United States | Score 3.9/5 | Below Staff target but strong team, consider if staff roles don't progress | discovered 2026-10-29 -->
 - [ ] https://careers.airbnb.com/positions/7421419/
   <!-- Airbnb | Staff Software Engineer — Communication & Connectivity | Remote - United States (est.) | Score 3.8/5 | Staff backend at dream company, distributed systems/real-time infra — verify remote policy | discovered 2026-10-29 -->
+
+## Scout Quick-Check — 2026-10-29
+
+- [ ] **Anduril** — Senior Software Engineer  (Seattle, Washington, United States)
+  https://boards.greenhouse.io/andurilindustries/jobs/4975951007?gh_jid=4975951007
+  Added: 2026-10-29 (scout-quickcheck)
+
+- [ ] **HelloFresh** — WMS Software Engineer [OPERATIONS TECHNOLOGY] (Aurora, IL, United States; Boulder, Colorado, United States)
+  https://careers.hellofresh.com/global/en/job/8334705?gh_jid=8334705
+  Added: 2026-10-29 (scout-quickcheck)
+
+- [ ] **HelloFresh** — WMS Software Engineer [OPERATIONS TECHNOLOGY] (New York, NY, United States; Newark, NJ, United States)
+  https://careers.hellofresh.com/global/en/job/8313385?gh_jid=8313385
+  Added: 2026-10-29 (scout-quickcheck)
+
+- [ ] **Scale AI** — Frontier Agent Engineering Manager, Enterprise (New York, NY)
+  https://job-boards.greenhouse.io/scaleai/jobs/4747506005
+  Added: 2026-10-29 (scout-quickcheck)
+
+- [ ] **Databricks** — Software Engineer - New Grad (2027 Start) (Bellevue, Washington; Mountain View, California; San Francisco, California; Vancouver, Canada)
+  https://databricks.com/company/careers/open-positions/job?gh_jid=6865698002
+  Added: 2026-10-29 (scout-quickcheck)
+
+- [ ] **Databricks** — Staff Machine Learning Engineer, CustomerLake (ML/LLM) (New York City, New York)
+  https://databricks.com/company/careers/open-positions/job?gh_jid=8923831002
+  Added: 2026-10-29 (scout-quickcheck)
