@@ -1,5 +1,15 @@
 # Pipeline — Pending Offers
+<!-- Scout: 2026-10-29 quickcheck — 2 new matches (40 companies: Greenhouse API only). Anthropic Staff+ SWE Enterprise Connectivity (SF/NYC), Scale AI Senior Cloud Infra Engineer (SF/NYC). API errors: Black Forest Labs, Wayve, Clickhouse (404 — dead boards). -->
 <!-- Scout: 2026-10-28 quickcheck — 1 new match (42 companies: Greenhouse API only). Anthropic Staff+ SWE Deployment (Remote-Friendly/SF/Seattle). API errors: Temporal, RunPod, Black Forest Labs, Wayve, Aurora, Clickhouse (404). -->
+
+## 2026-10-29 — Scout Quick-Check
+
+### ★ New Matches
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5173120008
+  <!-- Anthropic | Staff+ Software Engineer, Enterprise Connectivity | San Francisco, CA | New York City, NY | discovered 2026-10-29 quickcheck -->
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4737102005
+  <!-- Scale AI | Senior Cloud Infrastructure Engineer | San Francisco, CA; New York, NY | discovered 2026-10-29 quickcheck -->
 
 ## 2026-10-28 — Scout Quick-Check
 
