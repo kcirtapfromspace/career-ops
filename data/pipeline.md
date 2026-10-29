@@ -13291,3 +13291,27 @@ https://job-boards.greenhouse.io/life360/jobs/8895033002
   <!-- Rocket Lab | Senior Network Software Engineer II - Secret Clearance Required | Littleton, CO (Denver metro) | Senior SWE, Denver area, aerospace — verify clearance req | discovered 2026-10-28 quickcheck -->
 - [ ] https://job-boards.greenhouse.io/rocketlab/jobs/8044960003
   <!-- Rocket Lab | Senior Software Engineer I | Long Beach, CA | Senior SWE L1, LA area — verify remote eligibility | discovered 2026-10-28 quickcheck -->
+
+## 2026-10-29 — Scout Scan
+
+> Scan: ~35 companies (Greenhouse API + WebSearch + Netflix/Airbnb direct). 7 new matches (5 top picks). Netflix AI Platform roles are dream company, staff-level, remote US. Report: [scout-2026-10-29.md](../reports/scout-2026-10-29.md)
+
+### ★★ Top Picks
+
+- [ ] https://explore.jobs.netflix.net/careers/job/790316811164
+  <!-- Netflix | Staff/Principal SWE (L6/L7) — AI Platform Model Serving | Remote - United States | Score 4.2/5 | K8s-native inference, Patrick's platform eng + observability background fits | discovered 2026-10-29 -->
+- [ ] https://explore.jobs.netflix.net/careers/job/790316327930
+  <!-- Netflix | Staff ML Software Engineer (L6) — Platform Systems, AIMS Engineering | Remote - United States | Score 4.2/5 | ML platform infra, strong match for ML infra + K8s background | discovered 2026-10-29 -->
+- [ ] https://explore.jobs.netflix.net/careers/job/790318081427
+  <!-- Netflix | Software Engineer 5 — Model Development and Management, AI Platform | Remote - United States | Score 4.2/5 | ML lifecycle tooling, Argo Workflows + CDC pipeline experience fits | discovered 2026-10-29 -->
+- [ ] https://explore.jobs.netflix.net/careers/job/790316292023
+  <!-- Netflix | Software Engineer 5 — Agent Platform, AI Platform | Remote - United States | Score 4.0/5 | Agentic infra at Netflix scale, HITL + multi-agent orchestration background | discovered 2026-10-29 -->
+- [ ] https://explore.jobs.netflix.net/careers/job/790317608818
+  <!-- Netflix | Staff SWE (L6)/TLM — Developer Productivity, Platform Systems | Remote - United States | Score 4.0/5 | Staff + IC→management path, DORA metrics + devex work | discovered 2026-10-29 -->
+
+### ★ Secondary
+
+- [ ] https://explore.jobs.netflix.net/careers/job/790300350307
+  <!-- Netflix | Software Engineer L4/L5 — Model Serving Systems, ML Platform | Remote - United States | Score 3.9/5 | Below Staff target but strong team, consider if staff roles don't progress | discovered 2026-10-29 -->
+- [ ] https://careers.airbnb.com/positions/7421419/
+  <!-- Airbnb | Staff Software Engineer — Communication & Connectivity | Remote - United States (est.) | Score 3.8/5 | Staff backend at dream company, distributed systems/real-time infra — verify remote policy | discovered 2026-10-29 -->
