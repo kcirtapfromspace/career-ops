@@ -13451,3 +13451,68 @@ https://job-boards.greenhouse.io/life360/jobs/8895033002
 - PhysicsX — Machine Learning Engineer: https://job-boards.eu.greenhouse.io/physicsx/jobs/4880947101
 - Amplemarket — Engineering Manager: https://job-boards.eu.greenhouse.io/amplemarket/jobs/4087603101
 - Amplemarket — Senior Backend Software Engineer: https://job-boards.eu.greenhouse.io/amplemarket/jobs/4066899101
+
+- [ ] 2026-10-30 | **Anthropic** | Engineering Manager, Agent Runtime Platform | San Francisco, CA | New York City, NY | https://job-boards.greenhouse.io/anthropic/jobs/5316593008
+- [ ] 2026-10-30 | **Anthropic** | Engineering Manager, Claude Platform | San Francisco, CA | New York City, NY | https://job-boards.greenhouse.io/anthropic/jobs/5378643008
+- [ ] 2026-10-30 | **Anthropic** | Engineering Manager, Finance Engineering | San Francisco, CA | Seattle, WA | https://job-boards.greenhouse.io/anthropic/jobs/5457708008
+- [ ] 2026-10-30 | **Anthropic** | Engineering Manager, Integrity and Attestation | San Francisco, CA | Seattle, WA | https://job-boards.greenhouse.io/anthropic/jobs/5394403008
+- [ ] 2026-10-30 | **Anthropic** | IT Systems Engineer, Client Platform Engineer, ChromeOS | Boston, MA; Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY; Washington, DC | https://job-boards.greenhouse.io/anthropic/jobs/5456018008
+- [ ] 2026-10-30 | **Anthropic** | Security Data Engineer | Remote-Friendly (Travel Required) | San Francisco, CA | https://job-boards.greenhouse.io/anthropic/jobs/5462966008
+- [ ] 2026-10-30 | **Anthropic** | Senior Software Engineer, Inference | Dublin, IE | https://job-boards.greenhouse.io/anthropic/jobs/4641822008
+- [ ] 2026-10-30 | **Anthropic** | Staff+ Software Engineer, Deployment | Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY | https://job-boards.greenhouse.io/anthropic/jobs/5466480008
+- [ ] 2026-10-30 | **Anthropic** | Staff+ Software Engineer, Enterprise Connectivity | San Francisco, CA | New York City, NY | https://job-boards.greenhouse.io/anthropic/jobs/5173120008
+- [ ] 2026-10-30 | **Anthropic** | Staff Software Engineer, Finance Engineering | San Francisco, CA | Seattle, WA | https://job-boards.greenhouse.io/anthropic/jobs/5457716008
+- [ ] 2026-10-30 | **Anthropic** | Staff Software Engineer, Inference | Dublin, IE | https://job-boards.greenhouse.io/anthropic/jobs/5150472008
+- [ ] 2026-10-30 | **Anthropic** | Staff+ Software Engineer, Memory & Search | New York City, NY; New York City, NY | Seattle, WA; Remote-Friendly, United States; San Francisco, CA | New York City, NY | Seattle, WA | https://job-boards.greenhouse.io/anthropic/jobs/5456453008
+- [ ] 2026-10-30 | **Anthropic** | Staff+ Software Engineer, Platform Acceleration  | San Francisco, CA | New York City, NY | Seattle, WA | https://job-boards.greenhouse.io/anthropic/jobs/5451889008
+- [ ] 2026-10-30 | **True Anomaly** | Principal Software Engineer, Spacecraft Simulation  | Denver, CO; Long Beach, CA | https://job-boards.greenhouse.io/trueanomalyinc/jobs/5279880007
+- [ ] 2026-10-30 | **True Anomaly** | Software Engineer I, QA (New Grad) | Denver, CO; Long Beach, CA | https://job-boards.greenhouse.io/trueanomalyinc/jobs/5273017007
+- [ ] 2026-10-30 | **Glean** | AI Engineer - Data and Evals | San Francisco Bay Area | https://job-boards.greenhouse.io/gleanwork/jobs/4746908005
+- [ ] 2026-10-30 | **Glean** | AI Engineer - Quality and Post-Training | San Francisco Bay Area | https://job-boards.greenhouse.io/gleanwork/jobs/4746915005
+- [ ] 2026-10-30 | **Glean** | Software Engineer, Backend | Bangalore, India | https://job-boards.greenhouse.io/gleanwork/jobs/4006731005
+- [ ] 2026-10-30 | **Glean** | Software Engineer, Machine Learning | Bangalore, India | https://job-boards.greenhouse.io/gleanwork/jobs/4012745005
+- [ ] 2026-10-30 | **Glean** | Software Engineer, Native Mobile | San Francisco Bay Area | https://job-boards.greenhouse.io/gleanwork/jobs/4746685005
+- [ ] 2026-10-30 | **Glean** | Solutions Engineering Manager, Central | Remote - US | https://job-boards.greenhouse.io/gleanwork/jobs/4743056005
+- [ ] 2026-10-30 | **Celonis** | Senior Software Engineer -  SAP ABAP | Bangalore, India | https://job-boards.greenhouse.io/celonis/jobs/7559294003?gh_jid=7559294003
+- [ ] 2026-10-30 | **Celonis** | Software Engineer - SAP ABAP | Bangalore, India | https://job-boards.greenhouse.io/celonis/jobs/7559247003?gh_jid=7559247003
+- [ ] 2026-10-30 | **Celonis** | Staff Software Engineer - Java, Springboot, SAAS | Bangalore, India | https://job-boards.greenhouse.io/celonis/jobs/7791427003?gh_jid=7791427003
+- [ ] 2026-10-30 | **HelloFresh** | Fulfillment Technology Analyst, Barleben DC (all genders) | Barleben, Saxony-Anhalt, Germany | https://careers.hellofresh.com/global/en/job/8095933?gh_jid=8095933
+- [ ] 2026-10-30 | **HelloFresh** | IT Operations Team Lead (Fulfillment Centres) | Irving, TX, United States; Newark, NJ, United States; Phoenix, AZ, United States | https://careers.hellofresh.com/global/en/job/8281022?gh_jid=8281022
+- [ ] 2026-10-30 | **HelloFresh** | Senior Service Designer, Food Systems & Fulfillment  | Warszawa, Masovian Voivodeship, Poland | https://careers.hellofresh.com/global/en/job/8242900?gh_jid=8242900
+- [ ] 2026-10-30 | **HelloFresh** | WMS Software Engineer [OPERATIONS TECHNOLOGY] | Goodyear, AZ, United States; Phoenix, AZ, United States | https://careers.hellofresh.com/global/en/job/8334962?gh_jid=8334962
+- [ ] 2026-10-30 | **HelloFresh** | WMS Software Engineer [OPERATIONS TECHNOLOGY] | Warszawa, Masovian Voivodeship, Poland | https://careers.hellofresh.com/global/en/job/8313387?gh_jid=8313387
+- [ ] 2026-10-30 | **HelloFresh** | WMS Software Engineer [OPERATIONS TECHNOLOGY] | Aurora, IL, United States; Boulder, Colorado, United States | https://careers.hellofresh.com/global/en/job/8334705?gh_jid=8334705
+- [ ] 2026-10-30 | **SumUp** | Backend Engineer (Global Bank Tribe) | Florianópolis, Santa Catarina, Brazil; São Paulo, Brazil | https://sumup.com/careers/positions/7475989002?gh_jid=7475989002
+- [ ] 2026-10-30 | **SumUp** | Senior Software Engineer | Florianópolis, Santa Catarina, Brazil; São Paulo, São Paulo, Brazil | https://sumup.com/careers/positions/8690946002?gh_jid=8690946002
+- [ ] 2026-10-30 | **PhysicsX** | Forward Deployed Software Engineer | Singapore | https://job-boards.eu.greenhouse.io/physicsx/jobs/4860241101
+- [ ] 2026-10-30 | **PhysicsX** | Principal Machine Learning Engineer | Singapore | https://job-boards.eu.greenhouse.io/physicsx/jobs/4749999101
+- [ ] 2026-10-30 | **PhysicsX** | Senior Forward Deployed Software Engineer | Singapore | https://job-boards.eu.greenhouse.io/physicsx/jobs/4750017101
+- [ ] 2026-10-30 | **PhysicsX** | Senior Infrastructure Engineer, Research | Singapore | https://job-boards.eu.greenhouse.io/physicsx/jobs/4944273101
+- [ ] 2026-10-30 | **Fivetran** | Senior Software Engineer | Bengaluru, Karnataka, India, APAC | https://www.fivetran.com/careers/job?gh_jid=7917346003
+- [ ] 2026-10-30 | **Fivetran** | Senior Software Engineer - Core Experience | Novi Sad, South Bačka, Serbia, EMEA | https://www.fivetran.com/careers/job?gh_jid=8041168003
+- [ ] 2026-10-30 | **Fivetran** | Staff Software Engineer-dbt core | Bangalore, India | https://www.fivetran.com/careers/job?gh_jid=7818352003
+- [ ] 2026-10-30 | **Samsara** | Sales Engineering Manager Core - Mainland Europe  | Remote - France; Remote - Germany | https://www.samsara.com/company/careers/roles/8336439?gh_jid=8336439
+- [ ] 2026-10-30 | **Chainguard** | Senior Software Engineer (Customer Platform) | United Kingdom - Remote | https://job-boards.greenhouse.io/chainguard/jobs/4721595006
+- [ ] 2026-10-30 | **Chainguard** | Staff Software Engineer (Customer Platform)  | Canada - Remote | https://job-boards.greenhouse.io/chainguard/jobs/4720007006
+- [ ] 2026-10-30 | **Nuro** | Senior Software Engineer, Map Platform | Mountain View, California (HQ) | https://nuro.ai/careersitem?gh_jid=8324974
+- [ ] 2026-10-30 | **Zipline** | Software Engineer, Production Test | South San Francisco, California, USA | https://www.zipline.com/open-roles/8040735003?gh_jid=8040735003
+- [ ] 2026-10-30 | **Planet Labs** | Senior Site Reliability Engineer | Ljubljana, Slovenia | https://job-boards.greenhouse.io/planetlabs/jobs/8185816
+- [ ] 2026-10-30 | **Planet Labs** | Senior Site Reliability Engineer | Haarlem, Netherlands | https://job-boards.greenhouse.io/planetlabs/jobs/8276008
+- [ ] 2026-10-30 | **Scale AI** | Senior Cloud Infrastructure Engineer | San Francisco, CA; New York, NY | https://job-boards.greenhouse.io/scaleai/jobs/4737102005
+- [ ] 2026-10-30 | **Databricks** | Senior AI Engineer - FDE (Forward Deployed Engineer) | Tokyo, Japan | https://databricks.com/company/careers/open-positions/job?gh_jid=8569392002
+- [ ] 2026-10-30 | **Databricks** | Software Engineer, Infrastructure | United States | https://databricks.com/company/careers/open-positions/job?gh_jid=8829039002
+- [ ] 2026-10-30 | **Rocket Lab** | Director of Planning & Fulfillment | Long Beach, CA | https://job-boards.greenhouse.io/rocketlab/jobs/7748984003
+- [ ] 2026-10-30 | **Rocket Lab** | Flight Software Engineer I | Littleton, CO | https://job-boards.greenhouse.io/rocketlab/jobs/8038139003
+- [ ] 2026-10-30 | **Rocket Lab** | Lead, Planning & Fulfillment | Long Beach, CA | https://job-boards.greenhouse.io/rocketlab/jobs/8041751003
+- [ ] 2026-10-30 | **Rocket Lab** | Principal Software Engineer | Tucson, AZ | https://job-boards.greenhouse.io/rocketlab/jobs/8040501003
+- [ ] 2026-10-30 | **Rocket Lab** | Principal Software Engineer  | Chantilly, VA | https://job-boards.greenhouse.io/rocketlab/jobs/8040511003
+- [ ] 2026-10-30 | **Rocket Lab** | Senior DevOps Engineer I | Long Beach, CA | https://job-boards.greenhouse.io/rocketlab/jobs/8087772003
+- [ ] 2026-10-30 | **Rocket Lab** | Senior DevOps Engineer I | Littleton, CO | https://job-boards.greenhouse.io/rocketlab/jobs/8037898003
+- [ ] 2026-10-30 | **Rocket Lab** | Senior Flight Software Engineer I | Long Beach, CA | https://job-boards.greenhouse.io/rocketlab/jobs/8109167003
+- [ ] 2026-10-30 | **Rocket Lab** | Senior Flight Software Engineer II | Long Beach, CA | https://job-boards.greenhouse.io/rocketlab/jobs/8109216003
+- [ ] 2026-10-30 | **Rocket Lab** | Senior Flight Software Engineer II - Secret Clearance | Long Beach, CA | https://job-boards.greenhouse.io/rocketlab/jobs/8107716003
+- [ ] 2026-10-30 | **Rocket Lab** | Senior Flight Software Engineer I - Secret Clearance | Long Beach, CA | https://job-boards.greenhouse.io/rocketlab/jobs/8107730003
+- [ ] 2026-10-30 | **Rocket Lab** | Senior Network Software Engineer II -Secret Clearance | Littleton, CO | https://job-boards.greenhouse.io/rocketlab/jobs/7994294003
+- [ ] 2026-10-30 | **Rocket Lab** | Senior Software Engineer I | Long Beach, CA | https://job-boards.greenhouse.io/rocketlab/jobs/8044960003
+- [ ] 2026-10-30 | **Rocket Lab** | Software Engineer II - Production Automation | Long Beach, CA | https://job-boards.greenhouse.io/rocketlab/jobs/8036599003
+- [ ] 2026-10-30 | **Vast** | Senior Flight Software Engineer | Long Beach, California, United States | https://boards.greenhouse.io/vast/jobs/4723452006?gh_jid=4723452006
