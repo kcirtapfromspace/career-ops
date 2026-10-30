@@ -51094,3 +51094,26 @@ https://careers.hellofresh.com/global/en/job/8313385?gh_jid=8313385	2026-10-29	g
 https://job-boards.greenhouse.io/scaleai/jobs/4747506005	2026-10-29	greenhouse-api	Frontier Agent Engineering Manager, Enterprise	Scale AI
 https://databricks.com/company/careers/open-positions/job?gh_jid=6865698002	2026-10-29	greenhouse-api	Software Engineer - New Grad (2027 Start)	Databricks
 https://databricks.com/company/careers/open-positions/job?gh_jid=8923831002	2026-10-29	greenhouse-api	Staff Machine Learning Engineer, CustomerLake (ML/LLM)	Databricks
+https://boards-api.greenhouse.io/v1/boards/anthropic/jobs	2026-10-30	greenhouse-api	(all roles)	Anthropic	skipped_dup
+https://boards-api.greenhouse.io/v1/boards/databricks/jobs	2026-10-30	greenhouse-api	(all roles)	Databricks	skipped_dup
+https://boards-api.greenhouse.io/v1/boards/andurilindustries/jobs	2026-10-30	greenhouse-api	(all roles)	Anduril	skipped_dup
+https://boards-api.greenhouse.io/v1/boards/fivetran/jobs	2026-10-30	greenhouse-api	(all roles)	Fivetran	skipped_dup
+https://boards-api.greenhouse.io/v1/boards/scaleai/jobs	2026-10-30	greenhouse-api	(all roles)	Scale AI	skipped_dup
+https://boards-api.greenhouse.io/v1/boards/trueanomaly/jobs	2026-10-30	greenhouse-api	(all roles)	True Anomaly	skipped_dup
+https://boards-api.greenhouse.io/v1/boards/samsara/jobs	2026-10-30	greenhouse-api	(all roles)	Samsara	skipped_dup
+https://boards-api.greenhouse.io/v1/boards/chainguard/jobs	2026-10-30	greenhouse-api	(all roles)	Chainguard	skipped_dup
+https://boards-api.greenhouse.io/v1/boards/stability-ai/jobs	2026-10-30	greenhouse-api	(0 SWE roles)	Stability AI	skipped_title
+https://boards-api.greenhouse.io/v1/boards/rocketlab/jobs	2026-10-30	greenhouse-api	(all roles)	Rocket Lab	skipped_dup
+https://boards-api.greenhouse.io/v1/boards/figureai/jobs	2026-10-30	greenhouse-api	(all roles)	Figure AI	skipped_dup
+https://boards-api.greenhouse.io/v1/boards/planetlabs/jobs	2026-10-30	greenhouse-api	(all roles)	Planet Labs	skipped_dup
+https://boards-api.greenhouse.io/v1/boards/honeycomb/jobs	2026-10-30	greenhouse-api	(all roles)	Honeycomb	skipped_dup
+https://boards-api.greenhouse.io/v1/boards/arizeai/jobs	2026-10-30	greenhouse-api	(all roles)	Arize AI	skipped_dup
+https://boards-api.greenhouse.io/v1/boards/glean/jobs	2026-10-30	greenhouse-api	(0 roles returned)	Glean	skipped_dup
+https://boards-api.greenhouse.io/v1/boards/confluentinc/jobs	2026-10-30	greenhouse-api	(0 roles returned)	Confluent	all_seen
+https://boards-api.greenhouse.io/v1/boards/dbtlabsinc/jobs	2026-10-30	greenhouse-api	(0 roles returned)	dbt Labs	all_seen
+https://boards-api.greenhouse.io/v1/boards/weights-biases/jobs	2026-10-30	greenhouse-api	(0 roles returned)	Weights & Biases	all_seen
+https://api.ashbyhq.com/posting-api/job-board/prefecthq	2026-10-30	ashby-api	(0 roles returned)	Prefect	all_seen
+https://api.ashbyhq.com/posting-api/job-board/modal	2026-10-30	ashby-api	(0 roles returned)	Modal	all_seen
+https://api.ashbyhq.com/posting-api/job-board/cohere	2026-10-30	ashby-api	(0 roles returned)	Cohere	all_seen
+https://boards-api.greenhouse.io/v1/boards/pinecone/jobs	2026-10-30	greenhouse-api	(0 roles returned)	Pinecone	all_seen
+2026-10-30	scout-scan-complete	0-new-matches	scan-2026-10-30	all-companies-current

@@ -13351,3 +13351,7 @@ https://job-boards.greenhouse.io/life360/jobs/8895033002
 - [ ] **Databricks** — Staff Machine Learning Engineer, CustomerLake (ML/LLM) (New York City, New York)
   https://databricks.com/company/careers/open-positions/job?gh_jid=8923831002
   Added: 2026-10-29 (scout-quickcheck)
+
+## 2026-10-30 — Scout Scan
+
+> Scan: ~23 companies (Greenhouse API + Ashby). 0 new matches — all roles already in history from 2026-10-29 sweep. No pipeline additions today. See yesterday's entries above for active top picks. Report: [scout-2026-10-30.md](../reports/scout-2026-10-30.md)
