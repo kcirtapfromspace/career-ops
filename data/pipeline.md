@@ -13355,3 +13355,99 @@ https://job-boards.greenhouse.io/life360/jobs/8895033002
 ## 2026-10-30 — Scout Scan
 
 > Scan: ~23 companies (Greenhouse API + Ashby). 0 new matches — all roles already in history from 2026-10-29 sweep. No pipeline additions today. See yesterday's entries above for active top picks. Report: [scout-2026-10-30.md](../reports/scout-2026-10-30.md)
+- True Anomaly — Machine Learning Engineer (II-III), Space Agentic AI: https://job-boards.greenhouse.io/trueanomalyinc/jobs/5138856007
+- True Anomaly — Machine Learning Engineer (II-III), Space Edge Deployment: https://job-boards.greenhouse.io/trueanomalyinc/jobs/5228067007
+- True Anomaly — Platform Engineer, AI (Levels I, II, III): https://job-boards.greenhouse.io/trueanomalyinc/jobs/5166540007
+- True Anomaly — Senior Platform Engineer, AI: https://job-boards.greenhouse.io/trueanomalyinc/jobs/5166543007
+- True Anomaly — Senior Platform Engineer, Infrastructure: https://job-boards.greenhouse.io/trueanomalyinc/jobs/5182446007
+- True Anomaly — Engineering Manager, Autonomy: https://job-boards.greenhouse.io/trueanomalyinc/jobs/5224053007
+- True Anomaly — Engineering Manager, Ground Software: https://job-boards.greenhouse.io/trueanomalyinc/jobs/5142446007
+- True Anomaly — Engineering Manager, Perception AI: https://job-boards.greenhouse.io/trueanomalyinc/jobs/5240091007
+- True Anomaly — Engineering Manager, Software (Modeling and Simulation): https://job-boards.greenhouse.io/trueanomalyinc/jobs/5252981007
+- True Anomaly — Senior Software Engineer, Digital Engineering: https://job-boards.greenhouse.io/trueanomalyinc/jobs/5257765007
+- True Anomaly — Senior Software Engineer, Elixir: https://job-boards.greenhouse.io/trueanomalyinc/jobs/5090419007
+- True Anomaly — Senior Software Engineer, Full Stack: https://job-boards.greenhouse.io/trueanomalyinc/jobs/5092038007
+- True Anomaly — Software Engineer (II-III), Full Stack: https://job-boards.greenhouse.io/trueanomalyinc/jobs/5271710007
+- Vercel — Engineering Manager, Dashboard: https://job-boards.greenhouse.io/vercel/jobs/6115908004
+- Vercel — Engineering Manager - Next.js: https://job-boards.greenhouse.io/vercel/jobs/6140055004
+- Vercel — Machine Learning Engineer, Trust & Safety: https://job-boards.greenhouse.io/vercel/jobs/6208037004
+- Vercel — Software Engineer, Agentic Infrastructure: https://job-boards.greenhouse.io/vercel/jobs/6199608004
+- Vercel — Software Engineer, AI Gateway: https://job-boards.greenhouse.io/vercel/jobs/5798406004
+- Vercel — Software Engineer, CDN: https://job-boards.greenhouse.io/vercel/jobs/5179639004
+- Vercel — Software Engineer, CDN Content: https://job-boards.greenhouse.io/vercel/jobs/6105394004
+- Vercel — Software Engineer - Next.js: https://job-boards.greenhouse.io/vercel/jobs/6137958004
+- Vercel — Software Engineer, Observability: https://job-boards.greenhouse.io/vercel/jobs/5428982004
+- Vercel — Software Engineer, Platform: https://job-boards.greenhouse.io/vercel/jobs/6195280004
+- Vercel — Software Engineer, Scheduled Tasks: https://job-boards.greenhouse.io/vercel/jobs/6207796004
+- Vercel — Software Engineer, Trust & Safety: https://job-boards.greenhouse.io/vercel/jobs/5649459004
+- Vercel — Security Software Engineer, Detection & Response: https://boards.greenhouse.io/vercel
+- Vercel — Security Software Engineer, IAM: https://boards.greenhouse.io/vercel
+- Glean — Machine Learning Engineer, Assistant Quality: https://boards.greenhouse.io/gleanwork
+- Glean — Machine Learning Engineer, Enterprise Brain: https://boards.greenhouse.io/gleanwork
+- Glean — Software Engineer, Agentic Runtime: https://boards.greenhouse.io/gleanwork
+- Glean — Software Engineer, AI & Security: https://boards.greenhouse.io/gleanwork
+- Glean — Software Engineer, APIs & Context Platform: https://boards.greenhouse.io/gleanwork
+- Glean — Software Engineer, Cloud Infrastructure: https://boards.greenhouse.io/gleanwork
+- Glean — Software Engineer, Consumption Billing & Revenue Platform: https://boards.greenhouse.io/gleanwork
+- Glean — Software Engineer, Data Foundations: https://boards.greenhouse.io/gleanwork
+- Glean — Software Engineer, Developer Productivity: https://boards.greenhouse.io/gleanwork
+- Glean — Software Engineer, Frontend: https://boards.greenhouse.io/gleanwork
+- Glean — Software Engineer, Fullstack: https://boards.greenhouse.io/gleanwork
+- Glean — Software Engineer, Product Backend: https://boards.greenhouse.io/gleanwork
+- Glean — Software Engineer, Storage: https://boards.greenhouse.io/gleanwork
+- Contentful — Software Engineer, Applied AI Solutions: https://job-boards.greenhouse.io/contentful/jobs/8233486
+- Fivetran — Senior Software Engineer, Metadata: https://boards.greenhouse.io/fivetran
+- Fivetran — Senior Software Engineer, Orchestration: https://boards.greenhouse.io/fivetran
+- Samsara — Data Engineer: https://www.samsara.com/company/careers/roles/8141959?gh_jid=8141959
+- Chainguard — Engineering Manager, AI CICD: https://job-boards.greenhouse.io/chainguard/jobs/4718566006
+- Chainguard — Principal Software Engineer, Containers: https://job-boards.greenhouse.io/chainguard/jobs/4722145006
+- Chainguard — Senior Software Engineer, Containers: https://job-boards.greenhouse.io/chainguard/jobs/4675043006
+- Chainguard — Staff Software Engineer, Containers: https://job-boards.greenhouse.io/chainguard/jobs/4688854006
+- Chainguard — Staff Software Engineer, Customer Platform: https://job-boards.greenhouse.io/chainguard/jobs/4720009006
+- Chainguard — Software Engineer, Sustaining Automation: https://job-boards.greenhouse.io/chainguard/jobs/4723523006
+- Chainguard — Staff Software Engineer, Sustaining Automation: https://job-boards.greenhouse.io/chainguard/jobs/4712228006
+- Scale AI — Engineering Manager, Customer Platform (GenAI): https://boards.greenhouse.io/scaleai
+- Scale AI — Frontier Agent Engineering Manager, Enterprise: https://boards.greenhouse.io/scaleai
+- Scale AI — Senior Infrastructure Software Engineer, Enterprise AI: https://boards.greenhouse.io/scaleai
+- Scale AI — Senior Software Engineer, Orchestration Platform: https://boards.greenhouse.io/scaleai
+- Scale AI — Senior Software Engineer, Platform: https://boards.greenhouse.io/scaleai
+- Scale AI — Software Engineer, AI Enablement: https://boards.greenhouse.io/scaleai
+- Scale AI — Software Engineer, Enterprise AI: https://boards.greenhouse.io/scaleai
+- Scale AI — Software Engineer, ARC Team: https://boards.greenhouse.io/scaleai
+- Scale AI — Software Engineer, Frontier AI Infrastructure: https://boards.greenhouse.io/scaleai
+- Scale AI — Machine Learning Engineer, Public Sector: https://boards.greenhouse.io/scaleai
+- Scale AI — Senior Machine Learning Engineer, Public Sector: https://boards.greenhouse.io/scaleai
+- Databricks — Engineering Manager, Compute Infra: https://boards.greenhouse.io/databricks
+- Databricks — Engineering Manager, Databricks SQL Control Plane: https://boards.greenhouse.io/databricks
+- Databricks — Engineering Manager, IAM: https://boards.greenhouse.io/databricks
+- Databricks — Engineering Manager, App Traffic: https://boards.greenhouse.io/databricks
+- Nuro — Principal Software Engineer, Onboard Infrastructure: https://boards.greenhouse.io/nuro
+- Nuro — Senior Software Engineer, ML Infrastructure: https://boards.greenhouse.io/nuro
+- Nuro — Senior Software Engineer, ML Infrastructure Platform: https://boards.greenhouse.io/nuro
+- Nuro — Senior Software Engineer, Perception Data Infrastructure: https://boards.greenhouse.io/nuro
+- Nuro — Senior Software Engineer, Perception ML: https://boards.greenhouse.io/nuro
+- Nuro — Senior Software Engineer, Performance Tooling and Infrastructure: https://boards.greenhouse.io/nuro
+- Nuro — Senior Software Engineer, Simulation: https://boards.greenhouse.io/nuro
+- Nuro — Senior Software Engineer, Behavior Planning: https://boards.greenhouse.io/nuro
+- Nuro — Senior Software Engineer, Collision Avoidance: https://boards.greenhouse.io/nuro
+- Nuro — Senior Software Engineer, Map Platform: https://boards.greenhouse.io/nuro
+- Nuro — Senior Software Engineer, Routing: https://boards.greenhouse.io/nuro
+- Nuro — Senior Software Engineer, Networking & Real-Time Systems: https://boards.greenhouse.io/nuro
+- Nuro — Software Engineer, ML Infrastructure: https://boards.greenhouse.io/nuro
+- Nuro — Software Engineer, ML Inference Platform: https://boards.greenhouse.io/nuro
+- Nuro — Software Engineer, Cloud Infrastructure and Observability: https://boards.greenhouse.io/nuro
+- Nuro — Software Engineer, Offboard Infrastructure: https://boards.greenhouse.io/nuro
+- Nuro — Software Engineer, Onboard Platform: https://boards.greenhouse.io/nuro
+- Nuro — Staff Software Engineer, ML Infrastructure Platform: https://boards.greenhouse.io/nuro
+- Nuro — Staff Software Engineer, ML Inference Platform: https://boards.greenhouse.io/nuro
+- Nuro — Staff Software Engineer, ML Infrastructure Optimization: https://boards.greenhouse.io/nuro
+- Planet Labs — Senior Software Engineer, Full-stack D&I Solutions: https://job-boards.greenhouse.io/planetlabs/jobs/8143129
+- Planet Labs — Senior Software Engineer, GMS App Team: https://job-boards.greenhouse.io/planetlabs/jobs/8155646
+- Planet Labs — Senior Software Engineer, Storage Infrastructure: https://job-boards.greenhouse.io/planetlabs/jobs/8154780
+- Planet Labs — Software Engineer, Platform Operations: https://job-boards.greenhouse.io/planetlabs/jobs/7555019
+- Figure AI — Senior Software Engineer, Middleware Productivity: https://job-boards.greenhouse.io/figureai/jobs/4609306006
+- Figure AI — Software Engineer, Privacy & Data Governance: https://job-boards.greenhouse.io/figureai/jobs/4690871006
+- Figure AI — Software Engineer, Service & Operations: https://job-boards.greenhouse.io/figureai/jobs/4713838006
+- PhysicsX — Machine Learning Engineer: https://job-boards.eu.greenhouse.io/physicsx/jobs/4880947101
+- Amplemarket — Engineering Manager: https://job-boards.eu.greenhouse.io/amplemarket/jobs/4087603101
+- Amplemarket — Senior Backend Software Engineer: https://job-boards.eu.greenhouse.io/amplemarket/jobs/4066899101
