@@ -1,6 +1,15 @@
 # Pipeline — Pending Offers
+<!-- Scout: 2026-10-31 full scan — 1 new match (12 companies: Greenhouse API + WebSearch). Anthropic Data Engineer (SF/NYC/Seattle). Most recent prior matches still in pipeline from Oct 30. Prefect+Dagster merged 2026, Dagster board empty. -->
 <!-- Scout: 2026-10-29 quickcheck — 2 new matches (40 companies: Greenhouse API only). Anthropic Staff+ SWE Enterprise Connectivity (SF/NYC), Scale AI Senior Cloud Infra Engineer (SF/NYC). API errors: Black Forest Labs, Wayve, Clickhouse (404 — dead boards). -->
 <!-- Scout: 2026-10-28 quickcheck — 1 new match (42 companies: Greenhouse API only). Anthropic Staff+ SWE Deployment (Remote-Friendly/SF/Seattle). API errors: Temporal, RunPod, Black Forest Labs, Wayve, Aurora, Clickhouse (404). -->
+
+## 2026-10-31 — Scout Scan
+
+### ★ New Matches
+
+- [ ] 2026-10-31 | **Anthropic** | Data Engineer | San Francisco, CA; New York City, NY; Seattle, WA | https://job-boards.greenhouse.io/anthropic/jobs/5464234008
+
+---
 
 ## 2026-10-29 — Scout Quick-Check
 

@@ -51277,3 +51277,6 @@ https://boards-api.greenhouse.io/v1/boards/pinecone/jobs	2026-10-30	greenhouse-a
 2026-10-30	Rocket Lab	Senior Software Engineer I	https://job-boards.greenhouse.io/rocketlab/jobs/8044960003	8044960003
 2026-10-30	Rocket Lab	Software Engineer II - Production Automation	https://job-boards.greenhouse.io/rocketlab/jobs/8036599003	8036599003
 2026-10-30	Vast	Senior Flight Software Engineer	https://boards.greenhouse.io/vast/jobs/4723452006?gh_jid=4723452006	4723452006
+https://job-boards.greenhouse.io/anthropic/jobs/5464234008	2026-10-31	scout-2026-10-31	Data Engineer	Anthropic	new-match-3.5
+https://boards-api.greenhouse.io/v1/boards/dagsterlabs/jobs	2026-10-31	scout-2026-10-31	(0 jobs — board empty, Dagster+Prefect merged)	Dagster	empty
+https://boards-api.greenhouse.io/v1/boards/anthropic/jobs	2026-10-31	scout-2026-10-31	(full API scan)	Anthropic	all_seen_except_5464234008
