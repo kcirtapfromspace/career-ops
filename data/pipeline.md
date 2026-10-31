@@ -1,7 +1,19 @@
 # Pipeline — Pending Offers
+<!-- Scout: 2026-10-31 quickcheck — 4 new matches (40 companies: Greenhouse API only). Anthropic EM Integrity/Attestation (SF/Seattle), True Anomaly Principal SWE Spacecraft Sim (Denver), Samsara Director GTM AI Eng (Remote-US), Zipline SWE Production Test (S.SF). API errors: Black Forest Labs, Wayve, Clickhouse (404 — dead boards). -->
 <!-- Scout: 2026-10-31 full scan — 1 new match (12 companies: Greenhouse API + WebSearch). Anthropic Data Engineer (SF/NYC/Seattle). Most recent prior matches still in pipeline from Oct 30. Prefect+Dagster merged 2026, Dagster board empty. -->
 <!-- Scout: 2026-10-29 quickcheck — 2 new matches (40 companies: Greenhouse API only). Anthropic Staff+ SWE Enterprise Connectivity (SF/NYC), Scale AI Senior Cloud Infra Engineer (SF/NYC). API errors: Black Forest Labs, Wayve, Clickhouse (404 — dead boards). -->
 <!-- Scout: 2026-10-28 quickcheck — 1 new match (42 companies: Greenhouse API only). Anthropic Staff+ SWE Deployment (Remote-Friendly/SF/Seattle). API errors: Temporal, RunPod, Black Forest Labs, Wayve, Aurora, Clickhouse (404). -->
+
+## 2026-10-31 — Scout Quick-Check (2nd run)
+
+### ★ New Matches
+
+- [ ] 2026-10-31 | **Anthropic** | Engineering Manager, Integrity and Attestation | San Francisco, CA; Seattle, WA | https://job-boards.greenhouse.io/anthropic/jobs/5394403008
+- [ ] 2026-10-31 | **True Anomaly** | Principal Software Engineer, Spacecraft Simulation | Denver, CO; Long Beach, CA | https://job-boards.greenhouse.io/trueanomalyinc/jobs/5279880007
+- [ ] 2026-10-31 | **Samsara** | Director, GTM AI Engineering | Remote - US | https://www.samsara.com/company/careers/roles/8261007?gh_jid=8261007
+- [ ] 2026-10-31 | **Zipline** | Software Engineer, Production Test | South San Francisco, CA | https://www.zipline.com/open-roles/8040735003?gh_jid=8040735003
+
+---
 
 ## 2026-10-31 — Scout Scan
 
