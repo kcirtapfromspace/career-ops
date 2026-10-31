@@ -51280,3 +51280,49 @@ https://boards-api.greenhouse.io/v1/boards/pinecone/jobs	2026-10-30	greenhouse-a
 https://job-boards.greenhouse.io/anthropic/jobs/5464234008	2026-10-31	scout-2026-10-31	Data Engineer	Anthropic	new-match-3.5
 https://boards-api.greenhouse.io/v1/boards/dagsterlabs/jobs	2026-10-31	scout-2026-10-31	(0 jobs — board empty, Dagster+Prefect merged)	Dagster	empty
 https://boards-api.greenhouse.io/v1/boards/anthropic/jobs	2026-10-31	scout-2026-10-31	(full API scan)	Anthropic	all_seen_except_5464234008
+https://boards-api.greenhouse.io/v1/boards/anthropic/jobs	2026-10-31	greenhouse-api	(all roles)	Anthropic	skipped_dup
+https://boards-api.greenhouse.io/v1/boards/andurilindustries/jobs	2026-10-31	greenhouse-api	(new matches)	Anduril	3_new
+https://boards-api.greenhouse.io/v1/boards/trueanomalyinc/jobs	2026-10-31	greenhouse-api	(all roles)	True Anomaly	skipped_dup
+https://boards-api.greenhouse.io/v1/boards/polyai/jobs	2026-10-31	greenhouse-api	(all roles)	PolyAI	skipped_dup
+https://boards-api.greenhouse.io/v1/boards/parloa/jobs	2026-10-31	greenhouse-api	(all roles)	Parloa	skipped_dup
+https://boards-api.greenhouse.io/v1/boards/intercom/jobs	2026-10-31	greenhouse-api	(all roles)	Intercom	skipped_dup
+https://boards-api.greenhouse.io/v1/boards/humeai/jobs	2026-10-31	greenhouse-api	(all roles)	Hume AI	skipped_dup
+https://boards-api.greenhouse.io/v1/boards/airtable/jobs	2026-10-31	greenhouse-api	(all roles)	Airtable	skipped_dup
+https://boards-api.greenhouse.io/v1/boards/vercel/jobs	2026-10-31	greenhouse-api	(all roles)	Vercel	skipped_dup
+https://boards-api.greenhouse.io/v1/boards/arizeai/jobs	2026-10-31	greenhouse-api	(all roles)	Arize AI	skipped_dup
+https://boards-api.greenhouse.io/v1/boards/gleanwork/jobs	2026-10-31	greenhouse-api	(all roles)	Glean	skipped_dup
+https://boards-api.greenhouse.io/v1/boards/speechmatics/jobs	2026-10-31	greenhouse-api	(all roles)	Speechmatics	skipped_dup
+https://boards-api.greenhouse.io/v1/boards/blackforestlabs/jobs	2026-10-31	greenhouse-api	(404 error)	Black Forest Labs	error
+https://boards-api.greenhouse.io/v1/boards/helsing/jobs	2026-10-31	greenhouse-api	(all roles)	Helsing	skipped_dup
+https://boards-api.greenhouse.io/v1/boards/celonis/jobs	2026-10-31	greenhouse-api	(all roles)	Celonis	skipped_dup
+https://boards-api.greenhouse.io/v1/boards/contentful/jobs	2026-10-31	greenhouse-api	(all roles)	Contentful	skipped_dup
+https://boards-api.greenhouse.io/v1/boards/getyourguide/jobs	2026-10-31	greenhouse-api	(all roles)	GetYourGuide	skipped_dup
+https://boards-api.greenhouse.io/v1/boards/hellofresh/jobs	2026-10-31	greenhouse-api	(all roles)	HelloFresh	skipped_dup
+https://boards-api.greenhouse.io/v1/boards/n26/jobs	2026-10-31	greenhouse-api	(all roles)	N26	skipped_dup
+https://boards-api.greenhouse.io/v1/boards/traderepublicbank/jobs	2026-10-31	greenhouse-api	(all roles)	Trade Republic	skipped_dup
+https://boards-api.greenhouse.io/v1/boards/sumup/jobs	2026-10-31	greenhouse-api	(all roles)	SumUp	skipped_dup
+https://boards-api.greenhouse.io/v1/boards/scandit/jobs	2026-10-31	greenhouse-api	(all roles)	Scandit	skipped_dup
+https://boards-api.greenhouse.io/v1/boards/wayve/jobs	2026-10-31	greenhouse-api	(404 error)	Wayve	error
+https://boards-api.greenhouse.io/v1/boards/isomorphiclabs/jobs	2026-10-31	greenhouse-api	(all roles)	Isomorphic Labs	skipped_dup
+https://boards-api.greenhouse.io/v1/boards/physicsx/jobs	2026-10-31	greenhouse-api	(all roles)	PhysicsX	skipped_dup
+https://boards-api.greenhouse.io/v1/boards/stabilityai/jobs	2026-10-31	greenhouse-api	(all roles)	Stability AI	skipped_dup
+https://boards-api.greenhouse.io/v1/boards/amplemarket/jobs	2026-10-31	greenhouse-api	(all roles)	Amplemarket	skipped_dup
+https://boards-api.greenhouse.io/v1/boards/dagsterlabs/jobs	2026-10-31	greenhouse-api	(0 jobs, board empty)	Dagster	empty
+https://boards-api.greenhouse.io/v1/boards/fivetran/jobs	2026-10-31	greenhouse-api	(all roles)	Fivetran	skipped_dup
+https://boards-api.greenhouse.io/v1/boards/samsara/jobs	2026-10-31	greenhouse-api	(new matches)	Samsara	1_new
+https://boards-api.greenhouse.io/v1/boards/chainguard/jobs	2026-10-31	greenhouse-api	(all roles)	Chainguard	skipped_dup
+https://boards-api.greenhouse.io/v1/boards/scaleai/jobs	2026-10-31	greenhouse-api	(all roles)	Scale AI	skipped_dup
+https://boards-api.greenhouse.io/v1/boards/databricks/jobs	2026-10-31	greenhouse-api	(all roles)	Databricks	skipped_dup
+https://boards-api.greenhouse.io/v1/boards/clickhouse/jobs	2026-10-31	greenhouse-api	(404 error)	Clickhouse	error
+https://boards-api.greenhouse.io/v1/boards/rocketlab/jobs	2026-10-31	greenhouse-api	(all roles)	Rocket Lab	skipped_dup
+https://boards-api.greenhouse.io/v1/boards/vast/jobs	2026-10-31	greenhouse-api	(all roles)	Vast	skipped_dup
+https://boards-api.greenhouse.io/v1/boards/nuro/jobs	2026-10-31	greenhouse-api	(all roles)	Nuro	skipped_dup
+https://boards-api.greenhouse.io/v1/boards/flyzipline/jobs	2026-10-31	greenhouse-api	(all roles)	Zipline	skipped_dup
+https://boards-api.greenhouse.io/v1/boards/figureai/jobs	2026-10-31	greenhouse-api	(all roles)	Figure AI	skipped_dup
+https://boards-api.greenhouse.io/v1/boards/planetlabs/jobs	2026-10-31	greenhouse-api	(all roles)	Planet Labs	skipped_dup
+2026-10-31	Anduril	Chief Software Engineer, Space Ground Systems	https://boards.greenhouse.io/andurilindustries/jobs/5145121007?gh_jid=5145121007	5145121007
+2026-10-31	Anduril	Scientific Software Engineer	https://boards.greenhouse.io/andurilindustries/jobs/5275462007?gh_jid=5275462007	5275462007
+2026-10-31	Anduril	Software Engineer, C++	https://boards.greenhouse.io/andurilindustries/jobs/5275463007?gh_jid=5275463007	5275463007
+2026-10-31	Samsara	Director, GTM AI Engineering	https://www.samsara.com/company/careers/roles/8261007?gh_jid=8261007	8261007
+2026-10-31	Databricks	Software Engineer - New Grad, Distributed Data Systems (2027 Start)	https://databricks.com/company/careers/open-positions/job?gh_jid=6865704002	6865704002
+2026-10-31	Vast	Senior Infrastructure Engineer	https://boards.greenhouse.io/vast/jobs/4724967006?gh_jid=4724967006	4724967006

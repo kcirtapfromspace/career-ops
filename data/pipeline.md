@@ -13525,3 +13525,7 @@ https://job-boards.greenhouse.io/life360/jobs/8895033002
 - [ ] 2026-10-30 | **Rocket Lab** | Senior Software Engineer I | Long Beach, CA | https://job-boards.greenhouse.io/rocketlab/jobs/8044960003
 - [ ] 2026-10-30 | **Rocket Lab** | Software Engineer II - Production Automation | Long Beach, CA | https://job-boards.greenhouse.io/rocketlab/jobs/8036599003
 - [ ] 2026-10-30 | **Vast** | Senior Flight Software Engineer | Long Beach, California, United States | https://boards.greenhouse.io/vast/jobs/4723452006?gh_jid=4723452006
+- [ ] 2026-10-31 | **Anduril** | Chief Software Engineer, Space Ground Systems | Colorado Springs, CO / Costa Mesa, CA / Washington DC | https://boards.greenhouse.io/andurilindustries/jobs/5145121007?gh_jid=5145121007
+- [ ] 2026-10-31 | **Anduril** | Scientific Software Engineer | Broomfield, CO / Fort Collins, CO (Denver metro) | https://boards.greenhouse.io/andurilindustries/jobs/5275462007?gh_jid=5275462007
+- [ ] 2026-10-31 | **Anduril** | Software Engineer, C++ | Broomfield, CO / Fort Collins, CO (Denver metro) | https://boards.greenhouse.io/andurilindustries/jobs/5275463007?gh_jid=5275463007
+- [ ] 2026-10-31 | **Samsara** | Director, GTM AI Engineering | Remote - US | https://www.samsara.com/company/careers/roles/8261007?gh_jid=8261007
