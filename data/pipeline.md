@@ -1,8 +1,37 @@
 # Pipeline — Pending Offers
+<!-- Scout: 2026-11-01 quickcheck — 4 new matches (37 companies: Greenhouse API only). Anduril Scientific+C++ SWE (Broomfield CO=Denver metro), Databricks SWE Infra (US remote), Anduril Chief SWE Space Ground (CO Springs option). API errors: Black Forest Labs, Wayve, Clickhouse (404). -->
 <!-- Scout: 2026-10-31 quickcheck — 4 new matches (40 companies: Greenhouse API only). Anthropic EM Integrity/Attestation (SF/Seattle), True Anomaly Principal SWE Spacecraft Sim (Denver), Samsara Director GTM AI Eng (Remote-US), Zipline SWE Production Test (S.SF). API errors: Black Forest Labs, Wayve, Clickhouse (404 — dead boards). -->
 <!-- Scout: 2026-10-31 full scan — 1 new match (12 companies: Greenhouse API + WebSearch). Anthropic Data Engineer (SF/NYC/Seattle). Most recent prior matches still in pipeline from Oct 30. Prefect+Dagster merged 2026, Dagster board empty. -->
 <!-- Scout: 2026-10-29 quickcheck — 2 new matches (40 companies: Greenhouse API only). Anthropic Staff+ SWE Enterprise Connectivity (SF/NYC), Scale AI Senior Cloud Infra Engineer (SF/NYC). API errors: Black Forest Labs, Wayve, Clickhouse (404 — dead boards). -->
 <!-- Scout: 2026-10-28 quickcheck — 1 new match (42 companies: Greenhouse API only). Anthropic Staff+ SWE Deployment (Remote-Friendly/SF/Seattle). API errors: Temporal, RunPod, Black Forest Labs, Wayve, Aurora, Clickhouse (404). -->
+
+
+## 2026-11-01 — Scout Quick-Check
+
+### ★ New Matches
+
+- **[Anduril] Scientific Software Engineer**
+  - Location: Broomfield, CO; Fort Collins, CO
+  - URL: https://boards.greenhouse.io/andurilindustries/jobs/5275462007?gh_jid=5275462007
+  - Note: Anduril dream company. Broomfield CO = Denver metro. Defense AI.
+
+- **[Anduril] Software Engineer, C++**
+  - Location: Broomfield, CO; Fort Collins, CO
+  - URL: https://boards.greenhouse.io/andurilindustries/jobs/5275463007?gh_jid=5275463007
+  - Note: Anduril dream company. Broomfield CO = Denver metro. C++ at scale.
+
+- **[Databricks] Software Engineer, Infrastructure**
+  - Location: United States
+  - URL: https://databricks.com/company/careers/open-positions/job?gh_jid=8829039002
+  - Note: Databricks infra. US remote, $43B valuation.
+
+- **[Anduril] Chief Software Engineer, Space Ground Systems**
+  - Location: Colorado Springs, CO; Costa Mesa, CA; Washington, DC
+  - URL: https://boards.greenhouse.io/andurilindustries/jobs/5145121007?gh_jid=5145121007
+  - Note: Anduril dream company. Colorado Springs CO option (1h from Denver). Chief/Staff level.
+
+
+---
 
 ## 2026-10-31 — Scout Quick-Check (2nd run)
 
