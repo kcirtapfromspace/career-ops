@@ -13541,3 +13541,4 @@ https://job-boards.greenhouse.io/life360/jobs/8895033002
 - [ ] 2026-10-31 | **Anduril** | Scientific Software Engineer | Broomfield, CO / Fort Collins, CO (Denver metro) | https://boards.greenhouse.io/andurilindustries/jobs/5275462007?gh_jid=5275462007
 - [ ] 2026-10-31 | **Anduril** | Software Engineer, C++ | Broomfield, CO / Fort Collins, CO (Denver metro) | https://boards.greenhouse.io/andurilindustries/jobs/5275463007?gh_jid=5275463007
 - [ ] 2026-10-31 | **Samsara** | Director, GTM AI Engineering | Remote - US | https://www.samsara.com/company/careers/roles/8261007?gh_jid=8261007
+- [ ] 2026-11-01 | **Life360** | Staff Data Engineer, Data Platform Core (AI Native) | Remote US | https://job-boards.greenhouse.io/life360/jobs/8659252002
