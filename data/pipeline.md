@@ -13617,3 +13617,9 @@ https://job-boards.greenhouse.io/life360/jobs/8895033002
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8909305002 <!-- Databricks: Senior Staff Software Engineer, AI Runtime (Mountain View, California; San Francisco, California) | found 2026-11-02 -->
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=6865698002 <!-- Databricks: Software Engineer - New Grad (2027 Start) (Bellevue, Washington; Mountain View, California; San Francisco, California; Vancouver, Canada) | found 2026-11-02 -->
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8612865002 <!-- Databricks: Sr. Staff Security Software Engineer - Agentic Security Engineering (Remote - California) | found 2026-11-02 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5281210007?gh_jid=5281210007 <!-- Anduril: Senior Software Engineer, Battlespace Awareness  (Broomfield, Colorado, United States) | found 2026-11-02 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5281212007?gh_jid=5281212007 <!-- Anduril: Senior Software Engineer, Rust  (Broomfield, Colorado, United States) | found 2026-11-02 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5281214007?gh_jid=5281214007 <!-- Anduril: Software Engineer, Battlespace Awareness  (Broomfield, Colorado, United States) | found 2026-11-02 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5281224007?gh_jid=5281224007 <!-- Anduril: Software Engineer- Infrastructure  (Broomfield, Colorado, United States) | found 2026-11-02 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5281225007?gh_jid=5281225007 <!-- Anduril: Software Engineer- Machine Learning (Broomfield, Colorado, United States) | found 2026-11-02 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5281216007?gh_jid=5281216007 <!-- Anduril: Software Engineer, Rust  (Broomfield, Colorado, United States) | found 2026-11-02 -->
