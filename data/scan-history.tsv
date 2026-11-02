@@ -51381,3 +51381,47 @@ https://boards-api.greenhouse.io/v1/boards/planetlabs/jobs	2026-11-02	Greenhouse
 https://boards-api.greenhouse.io/v1/boards/vast/jobs	2026-11-02	Greenhouse — Vast	(all roles)	Vast	skipped_dup
 https://nuro.ai/careers	2026-11-02	Custom — Nuro	(API 404 — moved to custom URL)	Nuro	skipped_dup
 https://boards-api.greenhouse.io/v1/boards/zipline/jobs	2026-11-02	Greenhouse — Zipline	(404 — dead board)	Zipline	skipped_expired
+2026-11-02	Anthropic	https://job-boards.greenhouse.io/anthropic/jobs/5454650008	Applied AI Engineer, Startups (Life Sciences)	San Francisco, CA | New York City, NY	greenhouse_api
+2026-11-02	Anthropic	https://job-boards.greenhouse.io/anthropic/jobs/5454673008	Applied AI Engineer, Startups (Physical AI)	San Francisco, CA	greenhouse_api
+2026-11-02	Anthropic	https://job-boards.greenhouse.io/anthropic/jobs/5464234008	Data Engineer	San Francisco, CA | New York City, NY; Seattle, WA	greenhouse_api
+2026-11-02	Anthropic	https://job-boards.greenhouse.io/anthropic/jobs/5450099008	Data Engineer, Billing & Payments	San Francisco, CA | New York City, NY	greenhouse_api
+2026-11-02	Anthropic	https://job-boards.greenhouse.io/anthropic/jobs/5316593008	Engineering Manager, Agent Runtime Platform	San Francisco, CA | New York City, NY	greenhouse_api
+2026-11-02	Anthropic	https://job-boards.greenhouse.io/anthropic/jobs/5378643008	Engineering Manager, Claude Platform	San Francisco, CA | New York City, NY	greenhouse_api
+2026-11-02	Anthropic	https://job-boards.greenhouse.io/anthropic/jobs/5457708008	Engineering Manager, Finance Engineering	San Francisco, CA | Seattle, WA	greenhouse_api
+2026-11-02	Anthropic	https://job-boards.greenhouse.io/anthropic/jobs/5394403008	Engineering Manager, Integrity and Attestation	San Francisco, CA | Seattle, WA	greenhouse_api
+2026-11-02	Anthropic	https://job-boards.greenhouse.io/anthropic/jobs/5456018008	IT Systems Engineer, Client Platform Engineer, ChromeOS	Boston, MA; Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY; Washington, DC	greenhouse_api
+2026-11-02	Anthropic	https://job-boards.greenhouse.io/anthropic/jobs/5462966008	Security Data Engineer	Remote-Friendly (Travel Required) | San Francisco, CA	greenhouse_api
+2026-11-02	Anthropic	https://job-boards.greenhouse.io/anthropic/jobs/5466480008	Staff+ Software Engineer, Deployment	Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY	greenhouse_api
+2026-11-02	Anthropic	https://job-boards.greenhouse.io/anthropic/jobs/5173120008	Staff+ Software Engineer, Enterprise Connectivity	San Francisco, CA | New York City, NY	greenhouse_api
+2026-11-02	Anthropic	https://job-boards.greenhouse.io/anthropic/jobs/5454882008	Staff+ Software Engineer, Enterprise (Full Stack)	San Francisco, CA | New York City, NY	greenhouse_api
+2026-11-02	Anthropic	https://job-boards.greenhouse.io/anthropic/jobs/5457716008	Staff Software Engineer, Finance Engineering	San Francisco, CA | Seattle, WA	greenhouse_api
+2026-11-02	Anthropic	https://job-boards.greenhouse.io/anthropic/jobs/5456453008	Staff+ Software Engineer, Memory & Search	New York City, NY; New York City, NY | Seattle, WA; Remote-Friendly, United States; San Francisco, CA | New York City, NY | Seattle, WA	greenhouse_api
+2026-11-02	Anthropic	https://job-boards.greenhouse.io/anthropic/jobs/5451889008	Staff+ Software Engineer, Platform Acceleration 	San Francisco, CA | New York City, NY | Seattle, WA	greenhouse_api
+2026-11-02	Anthropic	https://job-boards.greenhouse.io/anthropic/jobs/5458794008	Staff+ Software Engineer, Platform Safety	San Francisco, CA | New York City, NY	greenhouse_api
+2026-11-02	Anthropic	https://job-boards.greenhouse.io/anthropic/jobs/5458044008	Staff+ Software Engineer, VectorDB	New York City, NY | Seattle, WA; San Francisco, CA | New York City, NY | Seattle, WA	greenhouse_api
+2026-11-02	Anduril	https://boards.greenhouse.io/andurilindustries/jobs/5265428007?gh_jid=5265428007	Senior Software Engineer, Simulation Platform 	Seattle, Washington, United States	greenhouse_api
+2026-11-02	Anduril	https://boards.greenhouse.io/andurilindustries/jobs/5247868007?gh_jid=5247868007	Senior Software Engineer, Strategic Defense (Active Clearance)	Costa Mesa, California, United States; Reston, Virginia, United States; Seattle, Washington, United States; Washington, District of Columbia, United States	greenhouse_api
+2026-11-02	True Anomaly	https://job-boards.greenhouse.io/trueanomalyinc/jobs/5279880007	Principal Software Engineer, Spacecraft Simulation 	Denver, CO; Long Beach, CA	greenhouse_api
+2026-11-02	True Anomaly	https://job-boards.greenhouse.io/trueanomalyinc/jobs/5271710007	Software Engineer (II-III), Full Stack	Denver, CO; Long Beach, CA	greenhouse_api
+2026-11-02	True Anomaly	https://job-boards.greenhouse.io/trueanomalyinc/jobs/5273017007	Software Engineer I, QA (New Grad)	Denver, CO; Long Beach, CA	greenhouse_api
+2026-11-02	Vercel	https://job-boards.greenhouse.io/vercel/jobs/6111332004	Security Software Engineer, Detection & Response	Hybrid - San Francisco, New York City, London	greenhouse_api
+2026-11-02	Vercel	https://job-boards.greenhouse.io/vercel/jobs/6240736004	Software Engineer, Compute	Hybrid - San Francisco	greenhouse_api
+2026-11-02	Glean	https://job-boards.greenhouse.io/gleanwork/jobs/4746908005	AI Engineer - Data and Evals	San Francisco Bay Area	greenhouse_api
+2026-11-02	Glean	https://job-boards.greenhouse.io/gleanwork/jobs/4746915005	AI Engineer - Quality and Post-Training	San Francisco Bay Area	greenhouse_api
+2026-11-02	Glean	https://job-boards.greenhouse.io/gleanwork/jobs/4746685005	Software Engineer, Native Mobile	San Francisco Bay Area	greenhouse_api
+2026-11-02	Glean	https://job-boards.greenhouse.io/gleanwork/jobs/4743056005	Solutions Engineering Manager, Central	Remote - US	greenhouse_api
+2026-11-02	Samsara	https://www.samsara.com/company/careers/roles/8261007?gh_jid=8261007	Director, GTM AI Engineering	Remote - US	greenhouse_api
+2026-11-02	Samsara	https://www.samsara.com/company/careers/roles/8336439?gh_jid=8336439	Sales Engineering Manager Core - Mainland Europe 	Remote - France; Remote - Germany	greenhouse_api
+2026-11-02	Chainguard	https://job-boards.greenhouse.io/chainguard/jobs/4722145006	Principal Software Engineer, Containers	United States - Remote	greenhouse_api
+2026-11-02	Chainguard	https://job-boards.greenhouse.io/chainguard/jobs/4721595006	Senior Software Engineer (Customer Platform)	United Kingdom - Remote	greenhouse_api
+2026-11-02	Chainguard	https://job-boards.greenhouse.io/chainguard/jobs/4723523006	Software Engineer, Sustaining Automation 	Canada - Remote; United States - Remote	greenhouse_api
+2026-11-02	Chainguard	https://job-boards.greenhouse.io/chainguard/jobs/4720007006	Staff Software Engineer (Customer Platform) 	Canada - Remote	greenhouse_api
+2026-11-02	Chainguard	https://job-boards.greenhouse.io/chainguard/jobs/4720009006	Staff Software Engineer (Customer Platform) 	United States - Remote	greenhouse_api
+2026-11-02	Zipline	https://www.zipline.com/open-roles/8034183003?gh_jid=8034183003	Mechanical Engineering Manager	South San Francisco, California, USA	greenhouse_api
+2026-11-02	Zipline	https://www.zipline.com/open-roles/8040735003?gh_jid=8040735003	Software Engineer, Production Test	South San Francisco, California, USA	greenhouse_api
+2026-11-02	Zipline	https://www.zipline.com/open-roles/8040822003?gh_jid=8040822003	Staff Software Engineer - Routing Engine	Ann Arbor, Michigan USA; South San Francisco, California, USA	greenhouse_api
+2026-11-02	Planet Labs	https://job-boards.greenhouse.io/planetlabs/jobs/8249630	Director of Software Engineering, Analytics	Arlington, VA; Denver, CO	greenhouse_api
+2026-11-02	Scale AI	https://job-boards.greenhouse.io/scaleai/jobs/4737102005	Senior Cloud Infrastructure Engineer	San Francisco, CA; New York, NY	greenhouse_api
+2026-11-02	Databricks	https://databricks.com/company/careers/open-positions/job?gh_jid=8909305002	Senior Staff Software Engineer, AI Runtime	Mountain View, California; San Francisco, California	greenhouse_api
+2026-11-02	Databricks	https://databricks.com/company/careers/open-positions/job?gh_jid=6865698002	Software Engineer - New Grad (2027 Start)	Bellevue, Washington; Mountain View, California; San Francisco, California; Vancouver, Canada	greenhouse_api
+2026-11-02	Databricks	https://databricks.com/company/careers/open-positions/job?gh_jid=8612865002	Sr. Staff Security Software Engineer - Agentic Security Engineering	Remote - California	greenhouse_api
