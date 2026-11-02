@@ -1,4 +1,5 @@
 # Pipeline — Pending Offers
+<!-- Scout: 2026-11-02 full scan — 0 new matches (14 companies: Greenhouse API + WebSearch). Market quiet — same boards, same IDs as Nov 1 quickcheck. Zipline board dead (404). Nuro API changed to custom URL. -->
 <!-- Scout: 2026-11-01 quickcheck — 4 new matches (37 companies: Greenhouse API only). Anduril Scientific+C++ SWE (Broomfield CO=Denver metro), Databricks SWE Infra (US remote), Anduril Chief SWE Space Ground (CO Springs option). API errors: Black Forest Labs, Wayve, Clickhouse (404). -->
 <!-- Scout: 2026-10-31 quickcheck — 4 new matches (40 companies: Greenhouse API only). Anthropic EM Integrity/Attestation (SF/Seattle), True Anomaly Principal SWE Spacecraft Sim (Denver), Samsara Director GTM AI Eng (Remote-US), Zipline SWE Production Test (S.SF). API errors: Black Forest Labs, Wayve, Clickhouse (404 — dead boards). -->
 <!-- Scout: 2026-10-31 full scan — 1 new match (12 companies: Greenhouse API + WebSearch). Anthropic Data Engineer (SF/NYC/Seattle). Most recent prior matches still in pipeline from Oct 30. Prefect+Dagster merged 2026, Dagster board empty. -->
