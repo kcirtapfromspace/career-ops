@@ -1,4 +1,5 @@
 # Pipeline — Pending Offers
+<!-- Scout: 2026-11-03 quickcheck #2 — 1 new match (40 companies: Greenhouse API only). Samsara Sr. SWE I (Remote-Seattle). 30 near-misses: 25 Anduril roles (Waltham/Costa Mesa/DC — wrong locations), Databricks Sr. Staff Agentic (MV), PhysicsX Principal MLE (NYC). Dead boards: Black Forest Labs/Clickhouse/Wayve (404). -->
 <!-- Scout: 2026-11-03 full scan — 13 new matches (34 companies: Greenhouse API + WebSearch). Anthropic: 3 new EMs (Scheduler/Fleet, Inference Infra, HW Platform Sec) + 2 Data Engineers (Product, GTM). Chainguard: EM AI CICD + Staff Platform DB. Vercel Data Platform (Remote), Contentful Applied AI (Denver), Fivetran Orchestration (Denver), Samsara Data Engineer (Remote), Arize AI: Applied AI Eng + DevOps. Dead boards: Black Forest Labs/Clickhouse/Wayve/Zipline (404). -->
 <!-- Scout: 2026-11-02 full scan — 0 new matches (14 companies: Greenhouse API + WebSearch). Market quiet — same boards, same IDs as Nov 1 quickcheck. Zipline board dead (404). Nuro API changed to custom URL. -->
 <!-- Scout: 2026-11-01 quickcheck — 4 new matches (37 companies: Greenhouse API only). Anduril Scientific+C++ SWE (Broomfield CO=Denver metro), Databricks SWE Infra (US remote), Anduril Chief SWE Space Ground (CO Springs option). API errors: Black Forest Labs, Wayve, Clickhouse (404). -->
@@ -13654,3 +13655,4 @@ https://job-boards.greenhouse.io/life360/jobs/8895033002
 - [ ] https://job-boards.greenhouse.io/vercel/jobs/6242244004 — **Vercel**: Software Engineer, Connect  (Hybrid - San Francisco)
 - [ ] https://job-boards.greenhouse.io/planetlabs/jobs/8291896 — **Planet Labs**: Senior Flight Software Engineer (San Francisco, CA)
 - [ ] https://job-boards.greenhouse.io/planetlabs/jobs/8302899 — **Planet Labs**: Site Reliability Engineer (San Francisco, CA)
+- [ ] https://www.samsara.com/company/careers/roles/7985175?gh_jid=7985175 — **Samsara**: Sr. Software Engineer I (Remote - Seattle)
