@@ -1,4 +1,5 @@
 # Pipeline — Pending Offers
+<!-- Scout: 2026-11-03 full scan — 13 new matches (34 companies: Greenhouse API + WebSearch). Anthropic: 3 new EMs (Scheduler/Fleet, Inference Infra, HW Platform Sec) + 2 Data Engineers (Product, GTM). Chainguard: EM AI CICD + Staff Platform DB. Vercel Data Platform (Remote), Contentful Applied AI (Denver), Fivetran Orchestration (Denver), Samsara Data Engineer (Remote), Arize AI: Applied AI Eng + DevOps. Dead boards: Black Forest Labs/Clickhouse/Wayve/Zipline (404). -->
 <!-- Scout: 2026-11-02 full scan — 0 new matches (14 companies: Greenhouse API + WebSearch). Market quiet — same boards, same IDs as Nov 1 quickcheck. Zipline board dead (404). Nuro API changed to custom URL. -->
 <!-- Scout: 2026-11-01 quickcheck — 4 new matches (37 companies: Greenhouse API only). Anduril Scientific+C++ SWE (Broomfield CO=Denver metro), Databricks SWE Infra (US remote), Anduril Chief SWE Space Ground (CO Springs option). API errors: Black Forest Labs, Wayve, Clickhouse (404). -->
 <!-- Scout: 2026-10-31 quickcheck — 4 new matches (40 companies: Greenhouse API only). Anthropic EM Integrity/Attestation (SF/Seattle), True Anomaly Principal SWE Spacecraft Sim (Denver), Samsara Director GTM AI Eng (Remote-US), Zipline SWE Production Test (S.SF). API errors: Black Forest Labs, Wayve, Clickhouse (404 — dead boards). -->
@@ -6,6 +7,26 @@
 <!-- Scout: 2026-10-29 quickcheck — 2 new matches (40 companies: Greenhouse API only). Anthropic Staff+ SWE Enterprise Connectivity (SF/NYC), Scale AI Senior Cloud Infra Engineer (SF/NYC). API errors: Black Forest Labs, Wayve, Clickhouse (404 — dead boards). -->
 <!-- Scout: 2026-10-28 quickcheck — 1 new match (42 companies: Greenhouse API only). Anthropic Staff+ SWE Deployment (Remote-Friendly/SF/Seattle). API errors: Temporal, RunPod, Black Forest Labs, Wayve, Aurora, Clickhouse (404). -->
 
+
+## 2026-11-03 — Scout Full Scan
+
+### ★ New Matches (13)
+
+- [ ] 2026-11-03 | **Anthropic** | Engineering Manager, Scheduler and Fleet Efficiency | San Francisco, CA | New York City, NY | Score: 4.5 | https://job-boards.greenhouse.io/anthropic/jobs/5411267008
+- [ ] 2026-11-03 | **Chainguard** | Engineering Manager, AI CICD | Remote US/UK | Score: 4.5 | https://job-boards.greenhouse.io/chainguard/jobs/4718566006
+- [ ] 2026-11-03 | **Anthropic** | Engineering Manager, Inference Infrastructure | San Francisco, CA | New York City, NY | Seattle, WA | Score: 4.3 | https://job-boards.greenhouse.io/anthropic/jobs/5411560008
+- [ ] 2026-11-03 | **Chainguard** | Staff Platform DB Engineer | Remote US | Score: 4.2 | https://job-boards.greenhouse.io/chainguard/jobs/4713044006
+- [ ] 2026-11-03 | **Anthropic** | Engineering Manager, Hardware Platform Security | San Francisco, CA | Seattle, WA | Score: 4.0 | https://job-boards.greenhouse.io/anthropic/jobs/5405548008
+- [ ] 2026-11-03 | **Anthropic** | Data Engineer, Product | San Francisco, CA | New York City, NY | Seattle, WA | Score: 4.0 | https://job-boards.greenhouse.io/anthropic/jobs/5448481008
+- [ ] 2026-11-03 | **Fivetran** | Senior Software Engineer, Orchestration | Denver, CO | Score: 3.8 | https://job-boards.greenhouse.io/fivetran/jobs/8003720003
+- [ ] 2026-11-03 | **Vercel** | Software Engineer, Data Platform | Remote US | Score: 3.6 | https://job-boards.greenhouse.io/vercel/jobs/6188400004
+- [ ] 2026-11-03 | **Contentful** | Software Engineer, Applied AI | Denver, CO | Score: 3.5 | https://job-boards.greenhouse.io/contentful/jobs/8233486
+- [ ] 2026-11-03 | **Anthropic** | Data Engineer, GTM | San Francisco, CA | New York City, NY | Score: 3.5 | https://job-boards.greenhouse.io/anthropic/jobs/5418610008
+- [ ] 2026-11-03 | **Arize AI** | Applied AI Engineer | Remote (San Francisco) | Score: 3.4 | https://job-boards.greenhouse.io/arizeai/jobs/6128122004
+- [ ] 2026-11-03 | **Samsara** | Data Engineer | Remote US | Score: 3.2 | https://job-boards.greenhouse.io/samsara/jobs/8141959
+- [ ] 2026-11-03 | **Arize AI** | DevOps Engineer | Remote US | Score: 2.8 | https://job-boards.greenhouse.io/arizeai/jobs/6203635004
+
+---
 
 ## 2026-11-01 — Scout Quick-Check
 
