@@ -13644,3 +13644,13 @@ https://job-boards.greenhouse.io/life360/jobs/8895033002
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5281224007?gh_jid=5281224007 <!-- Anduril: Software Engineer- Infrastructure  (Broomfield, Colorado, United States) | found 2026-11-02 -->
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5281225007?gh_jid=5281225007 <!-- Anduril: Software Engineer- Machine Learning (Broomfield, Colorado, United States) | found 2026-11-02 -->
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5281216007?gh_jid=5281216007 <!-- Anduril: Software Engineer, Rust  (Broomfield, Colorado, United States) | found 2026-11-02 -->
+
+
+## Scout Quick-Check — 2026-11-03
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5282289007?gh_jid=5282289007 — **Anduril**: Senior Software Engineer, Release  (Seattle, Washington, United States)
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5283151007?gh_jid=5283151007 — **Anduril**: Staff Software Engineer, Release  (Seattle, Washington, United States)
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6242246004 — **Vercel**: Software Engineer, Agent Auth (Hybrid - San Francisco)
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6240736004 — **Vercel**: Software Engineer, Compute (Hybrid - San Francisco)
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6242244004 — **Vercel**: Software Engineer, Connect  (Hybrid - San Francisco)
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/8291896 — **Planet Labs**: Senior Flight Software Engineer (San Francisco, CA)
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/8302899 — **Planet Labs**: Site Reliability Engineer (San Francisco, CA)
