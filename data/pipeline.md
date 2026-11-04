@@ -13662,3 +13662,18 @@ https://job-boards.greenhouse.io/life360/jobs/8895033002
 ## Scout Quick-Check — 2026-11-04
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5472201008 — **Anthropic**: Staff+ Software Engineer, Platform Intelligence (San Francisco, CA | New York City, NY)
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8829053002 — **Databricks**: Senior Software Engineer, IT Digital Employee Experience (San Francisco, California)
+
+- https://boards.greenhouse.io/andurilindustries/jobs/5284428007?gh_jid=5284428007 | Anduril — Mission Software Engineer | Waltham, Massachusetts, United States | discovered:2026-11-04
+- https://boards.greenhouse.io/andurilindustries/jobs/5283744007?gh_jid=5283744007 | Anduril — Senior Software Engineer, AI | Costa Mesa, California, United States | discovered:2026-11-04
+- https://boards.greenhouse.io/andurilindustries/jobs/5283718007?gh_jid=5283718007 | Anduril — Senior Software Engineer, Full-Stack (Arsenal 2) | Santa Ana, California, United States | discovered:2026-11-04
+- https://boards.greenhouse.io/andurilindustries/jobs/5283835007?gh_jid=5283835007 | Anduril — Software Engineering Manager | Costa Mesa, California, United States | discovered:2026-11-04
+- https://boards.greenhouse.io/andurilindustries/jobs/5277698007?gh_jid=5277698007 | Anduril — Staff Software Engineer, AI | Costa Mesa, California, United States | discovered:2026-11-04
+- https://boards.greenhouse.io/andurilindustries/jobs/5283722007?gh_jid=5283722007 | Anduril — Staff Software Engineer, Full-Stack (Arsenal 2) | Santa Ana, California, United States | discovered:2026-11-04
+- https://sumup.com/careers/positions/8928909002?gh_jid=8928909002 | SumUp — Backend Engineer (Global Bank Tribe) | Florianópolis, Santa Catarina, Brazil; São Paulo, Brazil | discovered:2026-11-04
+- https://www.fivetran.com/careers/job?gh_jid=8195548003 | Fivetran — Lead Full Stack Engineer | Novi Sad, South Bačka, Serbia, EMEA | discovered:2026-11-04
+- https://www.fivetran.com/careers/job?gh_jid=8007245003 | Fivetran — Staff Product Manager, Databases | Remote, Any, United States, AMER | discovered:2026-11-04
+- https://www.fivetran.com/careers/job?gh_jid=8179022003 | Fivetran — Staff Software Engineer | Novi Sad, South Bačka, Serbia, EMEA | discovered:2026-11-04
+- https://job-boards.greenhouse.io/chainguard/jobs/4725945006 | Chainguard — Senior Software Engineer, Containers | Canada - Remote; Germany - Remote; United Kingdom - Remote; United States - Remote | discovered:2026-11-04
+- https://databricks.com/company/careers/open-positions/job?gh_jid=8931033002 | Databricks — Senior Software Engineer - Access Management | Bellevue, Washington | discovered:2026-11-04
+- https://job-boards.greenhouse.io/rocketlab/jobs/8084557003 | Rocket Lab — Principal Flight Software Engineer | Littleton, CO | discovered:2026-11-04
+- https://job-boards.greenhouse.io/rocketlab/jobs/8195908003 | Rocket Lab — Principal Flight Software Engineer | Long Beach, CA | discovered:2026-11-04
