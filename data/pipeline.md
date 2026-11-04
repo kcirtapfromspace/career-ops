@@ -13657,3 +13657,8 @@ https://job-boards.greenhouse.io/life360/jobs/8895033002
 - [ ] https://job-boards.greenhouse.io/planetlabs/jobs/8291896 — **Planet Labs**: Senior Flight Software Engineer (San Francisco, CA)
 - [ ] https://job-boards.greenhouse.io/planetlabs/jobs/8302899 — **Planet Labs**: Site Reliability Engineer (San Francisco, CA)
 - [ ] https://www.samsara.com/company/careers/roles/7985175?gh_jid=7985175 — **Samsara**: Sr. Software Engineer I (Remote - Seattle)
+
+
+## Scout Quick-Check — 2026-11-04
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5472201008 — **Anthropic**: Staff+ Software Engineer, Platform Intelligence (San Francisco, CA | New York City, NY)
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8829053002 — **Databricks**: Senior Software Engineer, IT Digital Employee Experience (San Francisco, California)
