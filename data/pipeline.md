@@ -13687,3 +13687,5 @@ https://job-boards.greenhouse.io/life360/jobs/8895033002
 - https://databricks.com/company/careers/open-positions/job?gh_jid=8931033002 | Databricks — Senior Software Engineer - Access Management | Bellevue, Washington | discovered:2026-11-04
 - https://job-boards.greenhouse.io/rocketlab/jobs/8084557003 | Rocket Lab — Principal Flight Software Engineer | Littleton, CO | discovered:2026-11-04
 - https://job-boards.greenhouse.io/rocketlab/jobs/8195908003 | Rocket Lab — Principal Flight Software Engineer | Long Beach, CA | discovered:2026-11-04
+- https://boards.greenhouse.io/andurilindustries/jobs/5286149007?gh_jid=5286149007 | Anduril — Forward Deployed Software Engineer, JBLM (Active Clearance) | Remote | discovered:2026-11-05
+- https://job-boards.greenhouse.io/vercel/jobs/6195153004 | Vercel — Software Engineer, Backend | Hybrid - San Francisco, New York City | discovered:2026-11-05
