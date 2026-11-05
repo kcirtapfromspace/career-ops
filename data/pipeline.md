@@ -1,4 +1,5 @@
 # Pipeline — Pending Offers
+<!-- Scout: 2026-11-05 quickcheck #2 — 2 new matches (40 companies: Greenhouse API). Fivetran Staff SWE (Remote-US), Scale AI Staff SWE AI Dev Tooling (SF/NY). Dead boards: Black Forest Labs/Wayve/ClickHouse (404). -->
 <!-- Scout: 2026-11-05 scan — 2 new matches (21 companies: Greenhouse API). Intercom: Forward Deployed Engineer (SF 3.5/5) + (Chicago 2.5/5). All major boards at or below HWM. Dead boards: ClickHouse (404), Dagster (empty). -->
 <!-- Scout: 2026-11-04 full scan — 0 new matches (8 companies: Greenhouse API + Lever + WebSearch). All candidates confirmed SEEN from prior scans. Boards extended: Anthropic (offsets 300K+), Databricks (offsets 200K–700K), True Anomaly full board (trueanomalyinc), WandB Lever (5 roles), Shield AI Lever (R5537). Secondary tier deferred: Scandit/Helsing/N26/Trade Republic/Amplemarket/GetYourGuide/HelloFresh. -->
 <!-- Scout: 2026-11-03 quickcheck #2 — 1 new match (40 companies: Greenhouse API only). Samsara Sr. SWE I (Remote-Seattle). 30 near-misses: 25 Anduril roles (Waltham/Costa Mesa/DC — wrong locations), Databricks Sr. Staff Agentic (MV), PhysicsX Principal MLE (NYC). Dead boards: Black Forest Labs/Clickhouse/Wayve (404). -->
@@ -12,6 +13,13 @@
 
 
 ## 2026-11-05 — Scout Scan
+
+### ★ Additional Matches — Quickcheck #2 (2)
+
+- [ ] 2026-11-05 | **Fivetran** | Staff Software Engineer | Remote (US) | Score: 4.0 | https://www.fivetran.com/careers/job?gh_jid=8034257003
+- [ ] 2026-11-05 | **Scale AI** | Staff Software Engineer, AI Developer Tooling | San Francisco, CA; New York, NY | Score: 3.8 | https://job-boards.greenhouse.io/scaleai/jobs/4750028005
+
+---
 
 ### Other Matches (2)
 
