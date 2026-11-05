@@ -1,4 +1,5 @@
 # Pipeline — Pending Offers
+<!-- Scout: 2026-11-05 scan — 2 new matches (21 companies: Greenhouse API). Intercom: Forward Deployed Engineer (SF 3.5/5) + (Chicago 2.5/5). All major boards at or below HWM. Dead boards: ClickHouse (404), Dagster (empty). -->
 <!-- Scout: 2026-11-04 full scan — 0 new matches (8 companies: Greenhouse API + Lever + WebSearch). All candidates confirmed SEEN from prior scans. Boards extended: Anthropic (offsets 300K+), Databricks (offsets 200K–700K), True Anomaly full board (trueanomalyinc), WandB Lever (5 roles), Shield AI Lever (R5537). Secondary tier deferred: Scandit/Helsing/N26/Trade Republic/Amplemarket/GetYourGuide/HelloFresh. -->
 <!-- Scout: 2026-11-03 quickcheck #2 — 1 new match (40 companies: Greenhouse API only). Samsara Sr. SWE I (Remote-Seattle). 30 near-misses: 25 Anduril roles (Waltham/Costa Mesa/DC — wrong locations), Databricks Sr. Staff Agentic (MV), PhysicsX Principal MLE (NYC). Dead boards: Black Forest Labs/Clickhouse/Wayve (404). -->
 <!-- Scout: 2026-11-03 full scan — 13 new matches (34 companies: Greenhouse API + WebSearch). Anthropic: 3 new EMs (Scheduler/Fleet, Inference Infra, HW Platform Sec) + 2 Data Engineers (Product, GTM). Chainguard: EM AI CICD + Staff Platform DB. Vercel Data Platform (Remote), Contentful Applied AI (Denver), Fivetran Orchestration (Denver), Samsara Data Engineer (Remote), Arize AI: Applied AI Eng + DevOps. Dead boards: Black Forest Labs/Clickhouse/Wayve/Zipline (404). -->
@@ -9,6 +10,15 @@
 <!-- Scout: 2026-10-29 quickcheck — 2 new matches (40 companies: Greenhouse API only). Anthropic Staff+ SWE Enterprise Connectivity (SF/NYC), Scale AI Senior Cloud Infra Engineer (SF/NYC). API errors: Black Forest Labs, Wayve, Clickhouse (404 — dead boards). -->
 <!-- Scout: 2026-10-28 quickcheck — 1 new match (42 companies: Greenhouse API only). Anthropic Staff+ SWE Deployment (Remote-Friendly/SF/Seattle). API errors: Temporal, RunPod, Black Forest Labs, Wayve, Aurora, Clickhouse (404). -->
 
+
+## 2026-11-05 — Scout Scan
+
+### Other Matches (2)
+
+- [ ] 2026-11-05 | **Intercom** | Forward Deployed Engineer | San Francisco, CA | Score: 3.5 | https://job-boards.greenhouse.io/intercom/jobs/8333690
+- [ ] 2026-11-05 | **Intercom** | Forward Deployed Engineer | Chicago, IL | Score: 2.5 | https://job-boards.greenhouse.io/intercom/jobs/8333679
+
+---
 
 ## 2026-11-03 — Scout Full Scan
 
