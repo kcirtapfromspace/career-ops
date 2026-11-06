@@ -13707,3 +13707,9 @@ https://job-boards.greenhouse.io/life360/jobs/8895033002
 - https://job-boards.greenhouse.io/rocketlab/jobs/8195908003 | Rocket Lab — Principal Flight Software Engineer | Long Beach, CA | discovered:2026-11-04
 - https://boards.greenhouse.io/andurilindustries/jobs/5286149007?gh_jid=5286149007 | Anduril — Forward Deployed Software Engineer, JBLM (Active Clearance) | Remote | discovered:2026-11-05
 - https://job-boards.greenhouse.io/vercel/jobs/6195153004 | Vercel — Software Engineer, Backend | Hybrid - San Francisco, New York City | discovered:2026-11-05
+
+## Scout Quick-Check — 2026-11-06
+- https://job-boards.greenhouse.io/trueanomalyinc/jobs/5283892007 | True Anomaly — Platform Engineer, IT | Denver, CO; Long Beach, CA | discovered:2026-11-06
+- https://www.samsara.com/company/careers/roles/8354253?gh_jid=8354253 | Samsara — Senior Software Engineer II | Remote - US | discovered:2026-11-06
+- https://databricks.com/company/careers/open-positions/job?gh_jid=8035969002 | Databricks — Senior Backend Software Engineer (AI Platform) | Mountain View, CA; San Francisco, CA | discovered:2026-11-06
+- https://www.zipline.com/open-roles/8196248003?gh_jid=8196248003 | Zipline — AI Tooling Software Engineer - Data Platform, Autonomy | South San Francisco, CA | discovered:2026-11-06
