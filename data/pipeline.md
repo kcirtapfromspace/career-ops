@@ -1,4 +1,5 @@
 # Pipeline — Pending Offers
+<!-- Scout: 2026-11-06 scan — 2 new matches (30 companies: Greenhouse API). Scale AI EM Customer Platform GenAI (SF/NY 3.6/5), Chainguard Staff SWE Harness (Remote-US 3.2/5). Rejected: Samsara Nav (mobile), Scale AI EM PS (DC), Glean 5x (MV only). Dead boards: Aurora Innovation (API 404). -->
 <!-- Scout: 2026-11-05 quickcheck #2 — 2 new matches (40 companies: Greenhouse API). Fivetran Staff SWE (Remote-US), Scale AI Staff SWE AI Dev Tooling (SF/NY). Dead boards: Black Forest Labs/Wayve/ClickHouse (404). -->
 <!-- Scout: 2026-11-05 scan — 2 new matches (21 companies: Greenhouse API). Intercom: Forward Deployed Engineer (SF 3.5/5) + (Chicago 2.5/5). All major boards at or below HWM. Dead boards: ClickHouse (404), Dagster (empty). -->
 <!-- Scout: 2026-11-04 full scan — 0 new matches (8 companies: Greenhouse API + Lever + WebSearch). All candidates confirmed SEEN from prior scans. Boards extended: Anthropic (offsets 300K+), Databricks (offsets 200K–700K), True Anomaly full board (trueanomalyinc), WandB Lever (5 roles), Shield AI Lever (R5537). Secondary tier deferred: Scandit/Helsing/N26/Trade Republic/Amplemarket/GetYourGuide/HelloFresh. -->
@@ -11,6 +12,15 @@
 <!-- Scout: 2026-10-29 quickcheck — 2 new matches (40 companies: Greenhouse API only). Anthropic Staff+ SWE Enterprise Connectivity (SF/NYC), Scale AI Senior Cloud Infra Engineer (SF/NYC). API errors: Black Forest Labs, Wayve, Clickhouse (404 — dead boards). -->
 <!-- Scout: 2026-10-28 quickcheck — 1 new match (42 companies: Greenhouse API only). Anthropic Staff+ SWE Deployment (Remote-Friendly/SF/Seattle). API errors: Temporal, RunPod, Black Forest Labs, Wayve, Aurora, Clickhouse (404). -->
 
+
+## 2026-11-06 — Scout Scan
+
+### Other Matches (2)
+
+- [ ] 2026-11-06 | **Scale AI** | Engineering Manager, Customer Platform (GenAI) | New York, NY; San Francisco, CA | Score: 3.6 | https://job-boards.greenhouse.io/scaleai/jobs/4733702005
+- [ ] 2026-11-06 | **Chainguard** | Staff Software Engineer, Chainguard Harness | Remote (US), $205K–$231K | Score: 3.2 | https://job-boards.greenhouse.io/chainguard/jobs/4727461006
+
+---
 
 ## 2026-11-05 — Scout Scan
 

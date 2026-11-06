@@ -51536,3 +51536,12 @@ https://job-boards.greenhouse.io/vercel/jobs/6195153004	2026-11-05
 2026-11-05	Fivetran	Staff Software Engineer	https://www.fivetran.com/careers/job?gh_jid=8034257003	greenhouse_api
 2026-11-05	Scale AI	Staff Software Engineer, AI Developer Tooling	https://job-boards.greenhouse.io/scaleai/jobs/4750028005	greenhouse_api
 2026-11-05	(scan-run)	greenhouse_api quickcheck #2 (40 companies)	Fivetran(Staff SWE),Scale AI(Staff SWE AI Dev Tooling). Dead: Black Forest Labs/Wayve/ClickHouse (404)	greenhouse_api	scout-2026-11-05-qc2	completed
+2026-11-06	Scale AI	Engineering Manager, Customer Platform (GenAI)	https://job-boards.greenhouse.io/scaleai/jobs/4733702005	New York, NY; San Francisco, CA	greenhouse_api
+2026-11-06	Scale AI	Engineering Manager, Frontier AI Infrastructure - Public Sector	https://job-boards.greenhouse.io/scaleai/jobs/4732365005	Washington, DC	greenhouse_api	skipped_location
+2026-11-06	Scale AI	Engineering Manager, Infrastructure	https://job-boards.greenhouse.io/scaleai/jobs/4719479005	London, UK	greenhouse_api	skipped_location
+2026-11-06	Chainguard	Staff Software Engineer, Chainguard Harness	https://job-boards.greenhouse.io/chainguard/jobs/4727461006	Remote (US)	greenhouse_api
+2026-11-06	Samsara	Senior Software Engineer II, Commercial Navigation	https://www.samsara.com/company/careers/roles/8354253	Remote (US)	greenhouse_api	skipped_domain
+2026-11-06	Glean	Software Engineer (x3 new IDs: 4746918005,4746910005,4746919005)	https://job-boards.greenhouse.io/gleanwork/jobs/4746918005	Mountain View, CA	greenhouse_api	skipped_location
+2026-11-06	Glean	Tech Lead Manager, Product Growth	https://job-boards.greenhouse.io/gleanwork/jobs/4749623005	Mountain View, CA	greenhouse_api	skipped_location
+2026-11-06	Glean	Senior Site Reliability Engineer	https://job-boards.greenhouse.io/gleanwork/jobs/4747393005	Mountain View, CA	greenhouse_api	skipped_location
+2026-11-06	(scan-run)	greenhouse_api (8 companies)	Glean(5 new MV-only),Hume AI(no new),Scale AI(3 new EM),Contentful(Denver Applied AI already seen),Rocket Lab(HW roles only),Vast(HW roles only),Chainguard(Harness new),Samsara(Nav new)	greenhouse_api	scout-2026-11-06	completed
