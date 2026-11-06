@@ -1,4 +1,5 @@
 # Pipeline — Pending Offers
+<!-- Scout: 2026-11-06 quickcheck #2 — 2 new matches (39 companies: Greenhouse API). Anduril Senior Mgr SWE Geospatial Platform (Seattle 3.8/5), Samsara Staff MLE Edge AI (Remote-US 3.8/5). Near-misses: 11 Anduril roles (Costa Mesa/Waltham/DC — wrong locations), Fivetran PM+SWE (PM skip/already seen), Nuro Map Platform (already seen 10-30), Chainguard Containers (already seen 11-04), Databricks New Grad 2027 (junior/future). Dead boards: Parloa/Wayve/Black Forest Labs (404). -->
 <!-- Scout: 2026-11-06 scan — 2 new matches (30 companies: Greenhouse API). Scale AI EM Customer Platform GenAI (SF/NY 3.6/5), Chainguard Staff SWE Harness (Remote-US 3.2/5). Rejected: Samsara Nav (mobile), Scale AI EM PS (DC), Glean 5x (MV only). Dead boards: Aurora Innovation (API 404). -->
 <!-- Scout: 2026-11-05 quickcheck #2 — 2 new matches (40 companies: Greenhouse API). Fivetran Staff SWE (Remote-US), Scale AI Staff SWE AI Dev Tooling (SF/NY). Dead boards: Black Forest Labs/Wayve/ClickHouse (404). -->
 <!-- Scout: 2026-11-05 scan — 2 new matches (21 companies: Greenhouse API). Intercom: Forward Deployed Engineer (SF 3.5/5) + (Chicago 2.5/5). All major boards at or below HWM. Dead boards: ClickHouse (404), Dagster (empty). -->
@@ -12,6 +13,13 @@
 <!-- Scout: 2026-10-29 quickcheck — 2 new matches (40 companies: Greenhouse API only). Anthropic Staff+ SWE Enterprise Connectivity (SF/NYC), Scale AI Senior Cloud Infra Engineer (SF/NYC). API errors: Black Forest Labs, Wayve, Clickhouse (404 — dead boards). -->
 <!-- Scout: 2026-10-28 quickcheck — 1 new match (42 companies: Greenhouse API only). Anthropic Staff+ SWE Deployment (Remote-Friendly/SF/Seattle). API errors: Temporal, RunPod, Black Forest Labs, Wayve, Aurora, Clickhouse (404). -->
 
+
+## 2026-11-06 — Quickcheck #2 (2)
+
+- [ ] 2026-11-06 | **Anduril** | Senior Manager, Software Engineering (Geospatial Platform) | Seattle, WA | Score: 3.8 | https://boards.greenhouse.io/andurilindustries/jobs/5287546007?gh_jid=5287546007
+- [ ] 2026-11-06 | **Samsara** | Staff Machine Learning Engineer - Edge AI | Remote (US) | Score: 3.8 | https://www.samsara.com/company/careers/roles/8358617?gh_jid=8358617
+
+---
 
 ## 2026-11-06 — Scout Scan
 
