@@ -51553,3 +51553,10 @@ https://www.zipline.com/open-roles/8196248003?gh_jid=8196248003	2026-11-06
 2026-11-06	Anduril	Senior Manager, Software Engineering (Geospatial Platform)	https://boards.greenhouse.io/andurilindustries/jobs/5287546007?gh_jid=5287546007	Seattle, WA	greenhouse_api
 2026-11-06	Samsara	Staff Machine Learning Engineer - Edge AI	https://www.samsara.com/company/careers/roles/8358617?gh_jid=8358617	Remote (US)	greenhouse_api
 2026-11-06	(scan-run)	greenhouse_api quickcheck #2 (39 companies)	Anduril(Senior Mgr SWE Geospatial/Seattle),Samsara(Staff MLE Edge AI/Remote). Near-misses: 11 Anduril wrong-location, Fivetran PM+SWE-dup, Nuro/Chainguard already-seen. Dead: Parloa/Wayve/Black Forest Labs (404)	greenhouse_api	scout-2026-11-06-qc2	completed
+https://www.samsara.com/company/careers/roles/8148638	2026-11-07	greenhouse/samsara	Manager II, Software Engineering (Infrastructure)	Samsara	matched
+https://job-boards.greenhouse.io/anthropic/jobs/5457708008	2026-11-07	greenhouse/anthropic	Engineering Manager, Finance Engineering	Anthropic	matched
+https://job-boards.greenhouse.io/anthropic/jobs/5464234008	2026-11-07	greenhouse/anthropic	Data Engineer, GTM Systems	Anthropic	matched
+https://job-boards.greenhouse.io/chainguard/jobs/4727461006	2026-11-07	greenhouse/chainguard	Staff Software Engineer, Chainguard Harness	Chainguard	skipped_dup
+https://job-boards.greenhouse.io/scaleai/jobs/4733702005	2026-11-07	greenhouse/scaleai	Engineering Manager, Customer Platform (GenAI)	Scale AI	skipped_dup
+https://job-boards.greenhouse.io/fivetran/jobs/7823195003	2026-11-07	greenhouse/fivetran	Engineering Manager, Metadata Platform	Fivetran	skipped_stale
+https://job-boards.greenhouse.io/anthropic/jobs/5218395008	2026-11-07	greenhouse/anthropic	(scanned-HWM-check)	Anthropic	skipped_dup
