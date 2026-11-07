@@ -13739,3 +13739,38 @@ https://job-boards.greenhouse.io/life360/jobs/8895033002
 ## Scout Quick-Check — 2026-11-07
 - https://job-boards.greenhouse.io/anthropic/jobs/5468901008 | Anthropic — Staff+ Software Engineer, STEM | San Francisco, CA | New York City, NY | Seattle, WA | discovered:2026-11-07
 - https://job-boards.greenhouse.io/trueanomalyinc/jobs/5281610007 | True Anomaly — FPGA Engineering Manager | Denver, CO; Long Beach, CA | discovered:2026-11-07
+
+## Scout Quick-Check — 2026-11-07 (run 2)
+- https://boards.greenhouse.io/andurilindustries/jobs/5287472007?gh_jid=5287472007 | Anduril — Data Platform Lead, Product Lifecycle Operations | Costa Mesa, California, United States | discovered:2026-11-07
+- https://boards.greenhouse.io/andurilindustries/jobs/5287921007?gh_jid=5287921007 | Anduril — Senior DevOps Engineer, Space | Costa Mesa, California, United States | discovered:2026-11-07
+- https://boards.greenhouse.io/andurilindustries/jobs/5251215007?gh_jid=5251215007 | Anduril — Senior Software Engineer, VMS | Quincy, Massachusetts, United States | discovered:2026-11-07
+- https://boards.greenhouse.io/andurilindustries/jobs/5272039007?gh_jid=5272039007 | Anduril — Site Reliability Engineer, Strategic Defense | Washington, District of Columbia, United States | discovered:2026-11-07
+- https://boards.greenhouse.io/andurilindustries/jobs/5281199007?gh_jid=5281199007 | Anduril — Staff Robotics Software Engineer, CUAS, Omen | Costa Mesa, California, United States | discovered:2026-11-07
+- https://job-boards.greenhouse.io/celonis/jobs/8036958003?gh_jid=8036958003 | Celonis — (Senior) Software Engineer - Data Core | Munich, Germany | discovered:2026-11-07
+- https://careers.hellofresh.com/global/en/job/8300674?gh_jid=8300674 | HelloFresh — Engineering Manager, Operations Technology (All Genders) | Berlin, Berlin, Germany | discovered:2026-11-07
+- https://careers.hellofresh.com/global/en/job/8329400?gh_jid=8329400 | HelloFresh — Fulfillment Technology Analyst | Sydney, New South Wales, Australia | discovered:2026-11-07
+- https://job-boards.greenhouse.io/isomorphiclabs/jobs/6107782004 | Isomorphic Labs — Software Engineer (Scheduler), London | London | discovered:2026-11-07
+- https://job-boards.eu.greenhouse.io/physicsx/jobs/5029174101 | PhysicsX — AI Engineer: Post-Training  | London | discovered:2026-11-07
+- https://job-boards.eu.greenhouse.io/physicsx/jobs/5025659101 | PhysicsX — Platform Engineer - Self Hosting LLMs | London | discovered:2026-11-07
+- https://www.fivetran.com/careers/job?gh_jid=8196546003 | Fivetran — Senior Full Stack Engineer | Novi Sad, South Bačka, Serbia, EMEA | discovered:2026-11-07
+- https://www.fivetran.com/careers/job?gh_jid=8196257003 | Fivetran — Senior Software Engineer | Novi Sad, South Bačka, Serbia, EMEA | discovered:2026-11-07
+- https://www.fivetran.com/careers/job?gh_jid=8046982003 | Fivetran — Senior Software Engineer | Bengaluru, Karnataka, India, APAC | discovered:2026-11-07
+- https://www.samsara.com/company/careers/roles/8336436?gh_jid=8336436 | Samsara — Sales Engineering Manager Core - UK&I | London, England, United Kingdom | discovered:2026-11-07
+- https://www.samsara.com/company/careers/roles/8358618?gh_jid=8358618 | Samsara — Staff Machine Learning Engineer - Edge AI | Remote - Canada | discovered:2026-11-07
+- https://job-boards.greenhouse.io/scaleai/jobs/4751059005 | Scale AI — Applied AI Engineer | Kuwait City, Kuwait | discovered:2026-11-07
+- https://job-boards.greenhouse.io/scaleai/jobs/4751645005 | Scale AI — Full-Stack Software Engineer, (Forward Deployed), GPS | Kuwait City, Kuwait | discovered:2026-11-07
+- https://job-boards.greenhouse.io/scaleai/jobs/4751159005 | Scale AI — Principal Software Engineer, GPS | London, UK | discovered:2026-11-07
+- https://job-boards.greenhouse.io/scaleai/jobs/4751081005 | Scale AI — Senior Applied AI Engineer | London, UK | discovered:2026-11-07
+- https://job-boards.greenhouse.io/scaleai/jobs/4751635005 | Scale AI — Senior Full-Stack Software Engineer, (Forward deployed), GPS | Kuwait City, Kuwait | discovered:2026-11-07
+- https://databricks.com/company/careers/open-positions/job?gh_jid=8878946002 | Databricks — Evergreen - AI Engineer, AI FDE | Bengaluru, India | discovered:2026-11-07
+- https://databricks.com/company/careers/open-positions/job?gh_jid=7647294002 | Databricks — Senior Software Engineer - Backend Infrastructure | Bengaluru, India | discovered:2026-11-07
+- https://databricks.com/company/careers/open-positions/job?gh_jid=6866549002 | Databricks — Software Engineer - New Grad (2027 Start) - Amsterdam | Amsterdam, Netherlands | discovered:2026-11-07
+- https://databricks.com/company/careers/open-positions/job?gh_jid=6886281002 | Databricks — Software Engineer - New Grad (2027 Start) - Berlin | Berlin, Germany | discovered:2026-11-07
+- https://databricks.com/company/careers/open-positions/job?gh_jid=8847747002 | Databricks — Software Engineer - New Grad (2027 Start) - London | London, United Kingdom | discovered:2026-11-07
+- https://databricks.com/company/careers/open-positions/job?gh_jid=8924868002 | Databricks — Sr. Software Engineer- Databricks AI | Bengaluru, India | discovered:2026-11-07
+- https://databricks.com/company/careers/open-positions/job?gh_jid=8926498002 | Databricks — Staff Software Engineer- Databricks AI | Bengaluru, India | discovered:2026-11-07
+- https://www.zipline.com/open-roles/7809943003?gh_jid=7809943003 | Zipline — Fulfillment Operations Specialist, Kaduna | Pambegua, Kaduna State, Nigeria | discovered:2026-11-07
+- https://job-boards.greenhouse.io/planetlabs/jobs/8337803 | Planet Labs — Senior Software Engineer | Ljubljana, Slovenia | discovered:2026-11-07
+- https://job-boards.greenhouse.io/planetlabs/jobs/8346050 | Planet Labs — Senior Software Engineer | Graz, Austria | discovered:2026-11-07
+- https://job-boards.greenhouse.io/planetlabs/jobs/8345618 | Planet Labs — Software Engineer | Ljubljana, Slovenia | discovered:2026-11-07
+- https://job-boards.greenhouse.io/planetlabs/jobs/8337813 | Planet Labs — Software Engineer | Berlin, Germany | discovered:2026-11-07
