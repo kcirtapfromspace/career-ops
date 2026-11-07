@@ -13735,3 +13735,7 @@ https://job-boards.greenhouse.io/life360/jobs/8895033002
 - https://www.samsara.com/company/careers/roles/8354253?gh_jid=8354253 | Samsara — Senior Software Engineer II | Remote - US | discovered:2026-11-06
 - https://databricks.com/company/careers/open-positions/job?gh_jid=8035969002 | Databricks — Senior Backend Software Engineer (AI Platform) | Mountain View, CA; San Francisco, CA | discovered:2026-11-06
 - https://www.zipline.com/open-roles/8196248003?gh_jid=8196248003 | Zipline — AI Tooling Software Engineer - Data Platform, Autonomy | South San Francisco, CA | discovered:2026-11-06
+
+## Scout Quick-Check — 2026-11-07
+- https://job-boards.greenhouse.io/anthropic/jobs/5468901008 | Anthropic — Staff+ Software Engineer, STEM | San Francisco, CA | New York City, NY | Seattle, WA | discovered:2026-11-07
+- https://job-boards.greenhouse.io/trueanomalyinc/jobs/5281610007 | True Anomaly — FPGA Engineering Manager | Denver, CO; Long Beach, CA | discovered:2026-11-07
