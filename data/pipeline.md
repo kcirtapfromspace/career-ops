@@ -1,5 +1,4 @@
 # Pipeline — Pending Offers
-<!-- Scout: 2026-11-08 scan — 3 new matches (12 companies: Greenhouse API + WebSearch). Anthropic EM Claude Platform (SF/NYC 4.3/5), Anthropic EM Agent Runtime Platform (SF/NYC 4.0/5), Samsara Sr DE II (Remote-US 3.5/5). Near-misses: Anthropic EM Search (3.3/no search bg), Scale AI Frontier Agent EM NYC (3.4/in-office 3x). Dead boards: Temporal (404), Fivetran (empty templates). -->
 <!-- Scout: 2026-11-07 scan — 3 new matches (12 companies: Greenhouse API). Samsara Manager II SWE Infrastructure (Remote-US 4.0/5), Anthropic EM Finance Engineering (SF/Seattle 3.8/5), Anthropic DE GTM Systems (SF/NYC/Seattle 3.5/5). Skipped: Scale AI (TS clearance), Fivetran stale, Vercel no-remote, Dagster empty board. -->
 <!-- Scout: 2026-11-06 quickcheck #2 — 2 new matches (39 companies: Greenhouse API). Anduril Senior Mgr SWE Geospatial Platform (Seattle 3.8/5), Samsara Staff MLE Edge AI (Remote-US 3.8/5). Near-misses: 11 Anduril roles (Costa Mesa/Waltham/DC — wrong locations), Fivetran PM+SWE (PM skip/already seen), Nuro Map Platform (already seen 10-30), Chainguard Containers (already seen 11-04), Databricks New Grad 2027 (junior/future). Dead boards: Parloa/Wayve/Black Forest Labs (404). -->
 <!-- Scout: 2026-11-06 scan — 2 new matches (30 companies: Greenhouse API). Scale AI EM Customer Platform GenAI (SF/NY 3.6/5), Chainguard Staff SWE Harness (Remote-US 3.2/5). Rejected: Samsara Nav (mobile), Scale AI EM PS (DC), Glean 5x (MV only). Dead boards: Aurora Innovation (API 404). -->
@@ -15,19 +14,6 @@
 <!-- Scout: 2026-10-29 quickcheck — 2 new matches (40 companies: Greenhouse API only). Anthropic Staff+ SWE Enterprise Connectivity (SF/NYC), Scale AI Senior Cloud Infra Engineer (SF/NYC). API errors: Black Forest Labs, Wayve, Clickhouse (404 — dead boards). -->
 <!-- Scout: 2026-10-28 quickcheck — 1 new match (42 companies: Greenhouse API only). Anthropic Staff+ SWE Deployment (Remote-Friendly/SF/Seattle). API errors: Temporal, RunPod, Black Forest Labs, Wayve, Aurora, Clickhouse (404). -->
 
-
-## 2026-11-08 — Scout Scan
-
-### Top Picks (2)
-
-- [ ] 2026-11-08 | **Anthropic** | Engineering Manager, Claude Platform | San Francisco, CA; New York, NY (hybrid) | Score: 4.3 | https://job-boards.greenhouse.io/anthropic/jobs/5378643008
-- [ ] 2026-11-08 | **Anthropic** | Engineering Manager, Agent Runtime Platform | San Francisco, CA; New York, NY (hybrid) | Score: 4.0 | https://job-boards.greenhouse.io/anthropic/jobs/5316593008
-
-### Other Matches (1)
-
-- [ ] 2026-11-08 | **Samsara** | Senior Data Engineer II | Remote (US, excl. Bay Area/NY Metro) | Score: 3.5 | https://www.samsara.com/company/careers/roles/8039914
-
----
 
 ## 2026-11-07 — Scout Scan
 
@@ -13750,41 +13736,48 @@ https://job-boards.greenhouse.io/life360/jobs/8895033002
 - https://databricks.com/company/careers/open-positions/job?gh_jid=8035969002 | Databricks — Senior Backend Software Engineer (AI Platform) | Mountain View, CA; San Francisco, CA | discovered:2026-11-06
 - https://www.zipline.com/open-roles/8196248003?gh_jid=8196248003 | Zipline — AI Tooling Software Engineer - Data Platform, Autonomy | South San Francisco, CA | discovered:2026-11-06
 
-## Scout Quick-Check — 2026-11-07
-- https://job-boards.greenhouse.io/anthropic/jobs/5468901008 | Anthropic — Staff+ Software Engineer, STEM | San Francisco, CA | New York City, NY | Seattle, WA | discovered:2026-11-07
-- https://job-boards.greenhouse.io/trueanomalyinc/jobs/5281610007 | True Anomaly — FPGA Engineering Manager | Denver, CO; Long Beach, CA | discovered:2026-11-07
-
-## Scout Quick-Check — 2026-11-07 (run 2)
-- https://boards.greenhouse.io/andurilindustries/jobs/5287472007?gh_jid=5287472007 | Anduril — Data Platform Lead, Product Lifecycle Operations | Costa Mesa, California, United States | discovered:2026-11-07
-- https://boards.greenhouse.io/andurilindustries/jobs/5287921007?gh_jid=5287921007 | Anduril — Senior DevOps Engineer, Space | Costa Mesa, California, United States | discovered:2026-11-07
-- https://boards.greenhouse.io/andurilindustries/jobs/5251215007?gh_jid=5251215007 | Anduril — Senior Software Engineer, VMS | Quincy, Massachusetts, United States | discovered:2026-11-07
-- https://boards.greenhouse.io/andurilindustries/jobs/5272039007?gh_jid=5272039007 | Anduril — Site Reliability Engineer, Strategic Defense | Washington, District of Columbia, United States | discovered:2026-11-07
-- https://boards.greenhouse.io/andurilindustries/jobs/5281199007?gh_jid=5281199007 | Anduril — Staff Robotics Software Engineer, CUAS, Omen | Costa Mesa, California, United States | discovered:2026-11-07
-- https://job-boards.greenhouse.io/celonis/jobs/8036958003?gh_jid=8036958003 | Celonis — (Senior) Software Engineer - Data Core | Munich, Germany | discovered:2026-11-07
-- https://careers.hellofresh.com/global/en/job/8300674?gh_jid=8300674 | HelloFresh — Engineering Manager, Operations Technology (All Genders) | Berlin, Berlin, Germany | discovered:2026-11-07
-- https://careers.hellofresh.com/global/en/job/8329400?gh_jid=8329400 | HelloFresh — Fulfillment Technology Analyst | Sydney, New South Wales, Australia | discovered:2026-11-07
-- https://job-boards.greenhouse.io/isomorphiclabs/jobs/6107782004 | Isomorphic Labs — Software Engineer (Scheduler), London | London | discovered:2026-11-07
-- https://job-boards.eu.greenhouse.io/physicsx/jobs/5029174101 | PhysicsX — AI Engineer: Post-Training  | London | discovered:2026-11-07
-- https://job-boards.eu.greenhouse.io/physicsx/jobs/5025659101 | PhysicsX — Platform Engineer - Self Hosting LLMs | London | discovered:2026-11-07
-- https://www.fivetran.com/careers/job?gh_jid=8196546003 | Fivetran — Senior Full Stack Engineer | Novi Sad, South Bačka, Serbia, EMEA | discovered:2026-11-07
-- https://www.fivetran.com/careers/job?gh_jid=8196257003 | Fivetran — Senior Software Engineer | Novi Sad, South Bačka, Serbia, EMEA | discovered:2026-11-07
-- https://www.fivetran.com/careers/job?gh_jid=8046982003 | Fivetran — Senior Software Engineer | Bengaluru, Karnataka, India, APAC | discovered:2026-11-07
-- https://www.samsara.com/company/careers/roles/8336436?gh_jid=8336436 | Samsara — Sales Engineering Manager Core - UK&I | London, England, United Kingdom | discovered:2026-11-07
-- https://www.samsara.com/company/careers/roles/8358618?gh_jid=8358618 | Samsara — Staff Machine Learning Engineer - Edge AI | Remote - Canada | discovered:2026-11-07
-- https://job-boards.greenhouse.io/scaleai/jobs/4751059005 | Scale AI — Applied AI Engineer | Kuwait City, Kuwait | discovered:2026-11-07
-- https://job-boards.greenhouse.io/scaleai/jobs/4751645005 | Scale AI — Full-Stack Software Engineer, (Forward Deployed), GPS | Kuwait City, Kuwait | discovered:2026-11-07
-- https://job-boards.greenhouse.io/scaleai/jobs/4751159005 | Scale AI — Principal Software Engineer, GPS | London, UK | discovered:2026-11-07
-- https://job-boards.greenhouse.io/scaleai/jobs/4751081005 | Scale AI — Senior Applied AI Engineer | London, UK | discovered:2026-11-07
-- https://job-boards.greenhouse.io/scaleai/jobs/4751635005 | Scale AI — Senior Full-Stack Software Engineer, (Forward deployed), GPS | Kuwait City, Kuwait | discovered:2026-11-07
-- https://databricks.com/company/careers/open-positions/job?gh_jid=8878946002 | Databricks — Evergreen - AI Engineer, AI FDE | Bengaluru, India | discovered:2026-11-07
-- https://databricks.com/company/careers/open-positions/job?gh_jid=7647294002 | Databricks — Senior Software Engineer - Backend Infrastructure | Bengaluru, India | discovered:2026-11-07
-- https://databricks.com/company/careers/open-positions/job?gh_jid=6866549002 | Databricks — Software Engineer - New Grad (2027 Start) - Amsterdam | Amsterdam, Netherlands | discovered:2026-11-07
-- https://databricks.com/company/careers/open-positions/job?gh_jid=6886281002 | Databricks — Software Engineer - New Grad (2027 Start) - Berlin | Berlin, Germany | discovered:2026-11-07
-- https://databricks.com/company/careers/open-positions/job?gh_jid=8847747002 | Databricks — Software Engineer - New Grad (2027 Start) - London | London, United Kingdom | discovered:2026-11-07
-- https://databricks.com/company/careers/open-positions/job?gh_jid=8924868002 | Databricks — Sr. Software Engineer- Databricks AI | Bengaluru, India | discovered:2026-11-07
-- https://databricks.com/company/careers/open-positions/job?gh_jid=8926498002 | Databricks — Staff Software Engineer- Databricks AI | Bengaluru, India | discovered:2026-11-07
-- https://www.zipline.com/open-roles/7809943003?gh_jid=7809943003 | Zipline — Fulfillment Operations Specialist, Kaduna | Pambegua, Kaduna State, Nigeria | discovered:2026-11-07
-- https://job-boards.greenhouse.io/planetlabs/jobs/8337803 | Planet Labs — Senior Software Engineer | Ljubljana, Slovenia | discovered:2026-11-07
-- https://job-boards.greenhouse.io/planetlabs/jobs/8346050 | Planet Labs — Senior Software Engineer | Graz, Austria | discovered:2026-11-07
-- https://job-boards.greenhouse.io/planetlabs/jobs/8345618 | Planet Labs — Software Engineer | Ljubljana, Slovenia | discovered:2026-11-07
-- https://job-boards.greenhouse.io/planetlabs/jobs/8337813 | Planet Labs — Software Engineer | Berlin, Germany | discovered:2026-11-07
+- https://boards.greenhouse.io/andurilindustries/jobs/5287472007?gh_jid=5287472007 | Anduril | Data Platform Lead, Product Lifecycle Operations | Costa Mesa, California, United States | scout:2026-11-08
+- https://boards.greenhouse.io/andurilindustries/jobs/5284428007?gh_jid=5284428007 | Anduril | Mission Software Engineer | Waltham, Massachusetts, United States | scout:2026-11-08
+- https://boards.greenhouse.io/andurilindustries/jobs/5287921007?gh_jid=5287921007 | Anduril | Senior DevOps Engineer, Space | Costa Mesa, California, United States | scout:2026-11-08
+- https://boards.greenhouse.io/andurilindustries/jobs/5287546007?gh_jid=5287546007 | Anduril | Senior Manager, Software Engineering (Geospatial Platform) | Seattle, Washington, United States | scout:2026-11-08
+- https://boards.greenhouse.io/andurilindustries/jobs/5283744007?gh_jid=5283744007 | Anduril | Senior Software Engineer, AI | Costa Mesa, California, United States | scout:2026-11-08
+- https://boards.greenhouse.io/andurilindustries/jobs/5283718007?gh_jid=5283718007 | Anduril | Senior Software Engineer, Full-Stack (Arsenal 2) | Santa Ana, California, United States | scout:2026-11-08
+- https://boards.greenhouse.io/andurilindustries/jobs/5286568007?gh_jid=5286568007 | Anduril | Senior Software Engineer, Sentry Software (Ground Based Air Defense) | Irvine, California, United States | scout:2026-11-08
+- https://boards.greenhouse.io/andurilindustries/jobs/5251215007?gh_jid=5251215007 | Anduril | Senior Software Engineer, VMS | Quincy, Massachusetts, United States | scout:2026-11-08
+- https://boards.greenhouse.io/andurilindustries/jobs/5272039007?gh_jid=5272039007 | Anduril | Site Reliability Engineer, Strategic Defense | Washington, District of Columbia, United States | scout:2026-11-08
+- https://boards.greenhouse.io/andurilindustries/jobs/5283835007?gh_jid=5283835007 | Anduril | Software Engineering Manager | Costa Mesa, California, United States | scout:2026-11-08
+- https://boards.greenhouse.io/andurilindustries/jobs/5281199007?gh_jid=5281199007 | Anduril | Staff Robotics Software Engineer, CUAS, Omen | Costa Mesa, California, United States | scout:2026-11-08
+- https://boards.greenhouse.io/andurilindustries/jobs/5277698007?gh_jid=5277698007 | Anduril | Staff Software Engineer, AI | Costa Mesa, California, United States | scout:2026-11-08
+- https://boards.greenhouse.io/andurilindustries/jobs/5283722007?gh_jid=5283722007 | Anduril | Staff Software Engineer, Full-Stack (Arsenal 2) | Santa Ana, California, United States | scout:2026-11-08
+- https://careers.hellofresh.com/global/en/job/8329400?gh_jid=8329400 | HelloFresh | Fulfillment Technology Analyst | Sydney, New South Wales, Australia | scout:2026-11-08
+- https://sumup.com/careers/positions/8928909002?gh_jid=8928909002 | SumUp | Backend Engineer (Global Bank Tribe) | Florianópolis, Santa Catarina, Brazil; São Paulo, Brazil | scout:2026-11-08
+- https://www.fivetran.com/careers/job?gh_jid=8044038003 | Fivetran | Senior Site Reliability Engineer | Bengaluru, Karnataka, India, APAC | scout:2026-11-08
+- https://www.fivetran.com/careers/job?gh_jid=8196257003 | Fivetran | Senior Software Engineer | Novi Sad, South Bačka, Serbia, EMEA | scout:2026-11-08
+- https://www.fivetran.com/careers/job?gh_jid=8046982003 | Fivetran | Senior Software Engineer | Bengaluru, Karnataka, India, APAC | scout:2026-11-08
+- https://www.fivetran.com/careers/job?gh_jid=8041168003 | Fivetran | Senior Software Engineer - Developer Experience | Novi Sad, South Bačka, Serbia, EMEA | scout:2026-11-08
+- https://www.fivetran.com/careers/job?gh_jid=8007245003 | Fivetran | Staff Product Manager, Databases | Remote, Any, United States, AMER | scout:2026-11-08
+- https://www.fivetran.com/careers/job?gh_jid=8179022003 | Fivetran | Staff Software Engineer | Novi Sad, South Bačka, Serbia, EMEA | scout:2026-11-08
+- https://www.fivetran.com/careers/job?gh_jid=8034257003 | Fivetran | Staff Software Engineer | Remote, New York, United States, AMER | scout:2026-11-08
+- https://www.samsara.com/company/careers/roles/8358618?gh_jid=8358618 | Samsara | Staff Machine Learning Engineer - Edge AI | Remote - Canada | scout:2026-11-08
+- https://www.samsara.com/company/careers/roles/8358617?gh_jid=8358617 | Samsara | Staff Machine Learning Engineer - Edge AI | Remote - US | scout:2026-11-08
+- https://www.samsara.com/company/careers/roles/8359984?gh_jid=8359984 | Samsara | Staff Product Operations Manager, Platform | Remote - US | scout:2026-11-08
+- https://job-boards.greenhouse.io/chainguard/jobs/4725945006 | Chainguard | Senior Software Engineer, Containers | Canada - Remote; Germany - Remote; United Kingdom - Remote; United States - Remote | scout:2026-11-08
+- https://job-boards.greenhouse.io/scaleai/jobs/4751059005 | Scale AI | Applied AI Engineer | Kuwait City, Kuwait | scout:2026-11-08
+- https://job-boards.greenhouse.io/scaleai/jobs/4751645005 | Scale AI | Full-Stack Software Engineer, (Forward Deployed), GPS | Kuwait City, Kuwait | scout:2026-11-08
+- https://job-boards.greenhouse.io/scaleai/jobs/4751635005 | Scale AI | Senior Full-Stack Software Engineer, (Forward deployed), GPS | Kuwait City, Kuwait | scout:2026-11-08
+- https://databricks.com/company/careers/open-positions/job?gh_jid=8878946002 | Databricks | Evergreen - AI Engineer, AI FDE | Bengaluru, India | scout:2026-11-08
+- https://databricks.com/company/careers/open-positions/job?gh_jid=8931033002 | Databricks | Senior Software Engineer - Access Management | Bellevue, Washington | scout:2026-11-08
+- https://databricks.com/company/careers/open-positions/job?gh_jid=7647294002 | Databricks | Senior Software Engineer - Backend Infrastructure | Bengaluru, India | scout:2026-11-08
+- https://databricks.com/company/careers/open-positions/job?gh_jid=6865704002 | Databricks | Software Engineer - New Grad, Distributed Data Systems (2027 Start) | Bellevue, Washington; Mountain View, California | scout:2026-11-08
+- https://databricks.com/company/careers/open-positions/job?gh_jid=8924868002 | Databricks | Sr. Software Engineer- Databricks AI | Bengaluru, India | scout:2026-11-08
+- https://databricks.com/company/careers/open-positions/job?gh_jid=8926498002 | Databricks | Staff Software Engineer- Databricks AI | Bengaluru, India | scout:2026-11-08
+- https://job-boards.greenhouse.io/rocketlab/jobs/8084557003 | Rocket Lab | Principal Flight Software Engineer | Littleton, CO | scout:2026-11-08
+- https://job-boards.greenhouse.io/rocketlab/jobs/8195908003 | Rocket Lab | Principal Flight Software Engineer | Long Beach, CA | scout:2026-11-08
+- https://job-boards.greenhouse.io/rocketlab/jobs/8109167003 | Rocket Lab | Senior Flight Software Engineer I | Long Beach, CA | scout:2026-11-08
+- https://job-boards.greenhouse.io/rocketlab/jobs/8109216003 | Rocket Lab | Senior Flight Software Engineer II | Long Beach, CA | scout:2026-11-08
+- https://job-boards.greenhouse.io/rocketlab/jobs/8107716003 | Rocket Lab | Senior Flight Software Engineer II - Secret Clearance | Long Beach, CA | scout:2026-11-08
+- https://job-boards.greenhouse.io/rocketlab/jobs/8107730003 | Rocket Lab | Senior Flight Software Engineer I - Secret Clearance | Long Beach, CA | scout:2026-11-08
+- https://nuro.ai/careersitem?gh_jid=8324974 | Nuro | Senior Software Engineer, Map Platform | Mountain View, California (HQ) | scout:2026-11-08
+- https://www.zipline.com/open-roles/7809943003?gh_jid=7809943003 | Zipline | Fulfillment Operations Specialist, Kaduna | Pambegua, Kaduna State, Nigeria | scout:2026-11-08
+- https://job-boards.greenhouse.io/planetlabs/jobs/8337803 | Planet Labs | Senior Software Engineer | Ljubljana, Slovenia | scout:2026-11-08
+- https://job-boards.greenhouse.io/planetlabs/jobs/8345618 | Planet Labs | Software Engineer | Ljubljana, Slovenia | scout:2026-11-08
