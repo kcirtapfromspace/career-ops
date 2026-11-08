@@ -13781,3 +13781,10 @@ https://job-boards.greenhouse.io/life360/jobs/8895033002
 - https://www.zipline.com/open-roles/7809943003?gh_jid=7809943003 | Zipline | Fulfillment Operations Specialist, Kaduna | Pambegua, Kaduna State, Nigeria | scout:2026-11-08
 - https://job-boards.greenhouse.io/planetlabs/jobs/8337803 | Planet Labs | Senior Software Engineer | Ljubljana, Slovenia | scout:2026-11-08
 - https://job-boards.greenhouse.io/planetlabs/jobs/8345618 | Planet Labs | Software Engineer | Ljubljana, Slovenia | scout:2026-11-08
+
+- https://job-boards.greenhouse.io/anthropic/jobs/5468901008 | Anthropic | Staff+ Software Engineer, STEM | San Francisco, CA | New York City, NY | Seattle, WA | scout:2026-11-08
+- https://job-boards.greenhouse.io/celonis/jobs/8036958003?gh_jid=8036958003 | Celonis | (Senior) Software Engineer - Data Core | Munich, Germany | scout:2026-11-08
+- https://careers.hellofresh.com/global/en/job/8300674?gh_jid=8300674 | HelloFresh | Engineering Manager, Operations Technology | Berlin, Germany | scout:2026-11-08
+- https://job-boards.greenhouse.io/isomorphiclabs/jobs/6107782004 | Isomorphic Labs | Software Engineer (Scheduler) | London | scout:2026-11-08
+- https://job-boards.eu.greenhouse.io/physicsx/jobs/5025659101 | PhysicsX | Platform Engineer - Self Hosting LLMs | London | scout:2026-11-08
+- https://job-boards.greenhouse.io/scaleai/jobs/4750028005 | Scale AI | Staff Software Engineer, AI Developer Tooling | San Francisco, CA; New York, NY | scout:2026-11-08
