@@ -13788,3 +13788,15 @@ https://job-boards.greenhouse.io/life360/jobs/8895033002
 - https://job-boards.greenhouse.io/isomorphiclabs/jobs/6107782004 | Isomorphic Labs | Software Engineer (Scheduler) | London | scout:2026-11-08
 - https://job-boards.eu.greenhouse.io/physicsx/jobs/5025659101 | PhysicsX | Platform Engineer - Self Hosting LLMs | London | scout:2026-11-08
 - https://job-boards.greenhouse.io/scaleai/jobs/4750028005 | Scale AI | Staff Software Engineer, AI Developer Tooling | San Francisco, CA; New York, NY | scout:2026-11-08
+
+---
+
+## 2026-11-09 — Scout Scan
+
+### ★ New Match
+
+- [ ] 2026-11-09 | **Fivetran** | Senior Engineering Manager, dbt Engine | Denver, CO | https://www.fivetran.com/careers/job?gh_jid=8013525003
+  <!-- Score: 4.1/5 | Rust-based dbt V2 engine team (~8 eng) | Denver no-relocation | dbt+Rust+EM archetype match | Backfill role; Oakland office may need travel | scout-2026-11-09 -->
+
+
+<!-- Scout: 2026-11-09 — 1 new match (18 companies: Greenhouse API). Fivetran Senior EM dbt Engine (Denver). Most boards quiet 2 days after last scan. Vast=hardware-only, Figure AI=SJ on-site, Dagster board empty (merger). System update v1.2.0→v1.39.0 available. -->
