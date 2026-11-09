@@ -1,4 +1,5 @@
 # Pipeline — Pending Offers
+<!-- Scout: 2026-11-09 scan — 6 new matches (~25 companies: Temporal direct + Greenhouse API + WebSearch). Temporal Staff SWE Infrastructure Foundations (Remote-US 4.3/5), Temporal Staff SWE Builder Platform (Remote-US 4.2/5), Fivetran Senior EM dbt Engine (Denver 4.1/5), Temporal Senior Staff SWE Builder Platform (3.8/5), Temporal Senior SWE Cloud Applications (3.5/5), Temporal Senior SWE Builder Platform (3.5/5). Skipped: Samsara Safety AI (CV specialty 2.5/5), Samsara ML Supply Chain (applied ML scientist 2.0/5), Anduril CO (C++ hardware). Note: True Anomaly 3 Denver roles pending formal eval. System update v1.2.0→v1.39.0 available. -->
 <!-- Scout: 2026-11-07 scan — 3 new matches (12 companies: Greenhouse API). Samsara Manager II SWE Infrastructure (Remote-US 4.0/5), Anthropic EM Finance Engineering (SF/Seattle 3.8/5), Anthropic DE GTM Systems (SF/NYC/Seattle 3.5/5). Skipped: Scale AI (TS clearance), Fivetran stale, Vercel no-remote, Dagster empty board. -->
 <!-- Scout: 2026-11-06 quickcheck #2 — 2 new matches (39 companies: Greenhouse API). Anduril Senior Mgr SWE Geospatial Platform (Seattle 3.8/5), Samsara Staff MLE Edge AI (Remote-US 3.8/5). Near-misses: 11 Anduril roles (Costa Mesa/Waltham/DC — wrong locations), Fivetran PM+SWE (PM skip/already seen), Nuro Map Platform (already seen 10-30), Chainguard Containers (already seen 11-04), Databricks New Grad 2027 (junior/future). Dead boards: Parloa/Wayve/Black Forest Labs (404). -->
 <!-- Scout: 2026-11-06 scan — 2 new matches (30 companies: Greenhouse API). Scale AI EM Customer Platform GenAI (SF/NY 3.6/5), Chainguard Staff SWE Harness (Remote-US 3.2/5). Rejected: Samsara Nav (mobile), Scale AI EM PS (DC), Glean 5x (MV only). Dead boards: Aurora Innovation (API 404). -->
@@ -14,6 +15,22 @@
 <!-- Scout: 2026-10-29 quickcheck — 2 new matches (40 companies: Greenhouse API only). Anthropic Staff+ SWE Enterprise Connectivity (SF/NYC), Scale AI Senior Cloud Infra Engineer (SF/NYC). API errors: Black Forest Labs, Wayve, Clickhouse (404 — dead boards). -->
 <!-- Scout: 2026-10-28 quickcheck — 1 new match (42 companies: Greenhouse API only). Anthropic Staff+ SWE Deployment (Remote-Friendly/SF/Seattle). API errors: Temporal, RunPod, Black Forest Labs, Wayve, Aurora, Clickhouse (404). -->
 
+
+## 2026-11-09 — Scout Scan
+
+### Top Picks (3)
+
+- [ ] 2026-11-09 | **Temporal** | Staff Software Engineer, Infrastructure Foundations | Remote (US) | Score: 4.3 | https://temporal.io/careers/25ab987b-b07e-424b-8ce9-eb10de739a7f
+- [ ] 2026-11-09 | **Temporal** | Staff Software Engineer, Builder Platform | Remote (US) | Score: 4.2 | https://temporal.io/careers/a1e22a53-a8c2-410d-9385-814a488dd6c1
+- [ ] 2026-11-09 | **Fivetran** | Senior Engineering Manager, dbt Engine | Denver, CO | Score: 4.1 | https://www.fivetran.com/careers/job?gh_jid=8013525003
+
+### Other Matches (3)
+
+- [ ] 2026-11-09 | **Temporal** | Senior Staff Software Engineer, Builder Platform | Remote (US) | Score: 3.8 | https://temporal.io/careers/dfa01032-82b4-443f-bfdc-1a20bd976b9c
+- [ ] 2026-11-09 | **Temporal** | Senior Software Engineer, Cloud Applications | Remote (US) | Score: 3.5 | https://temporal.io/careers/011bf96a-0e14-4b61-9fb9-b19ef6705a71
+- [ ] 2026-11-09 | **Temporal** | Senior Software Engineer, Builder Platform | Remote (US) | Score: 3.5 | https://temporal.io/careers/86db065f-0f55-4985-b0f1-ce6a5e75f622
+
+---
 
 ## 2026-11-07 — Scout Scan
 
