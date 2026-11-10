@@ -1,4 +1,5 @@
 # Pipeline — Pending Offers
+<!-- Scout: 2026-11-10 quickcheck #2 — 7 new matches (40 companies: Greenhouse API only). Anthropic: 3 new roles (EM Agent Security, Staff+ SWE Claude Design, Staff+ SWE Safeguards Evals). Celonis: 2 Remote-US SWE roles. Samsara: Manager II SWE (SF). Rocket Lab: Senior Ground SWE I (Littleton CO=Denver metro). Location-rejected: Fivetran 3x (Serbia/India), Contentful (Dublin), HelloFresh (Warsaw), Planet Labs (Austria), Scale AI (Kuwait), Rocket Lab (Pasadena). Dead boards: Parloa/Black Forest Labs/Wayve/Clickhouse (404). -->
 <!-- Scout: 2026-11-10 12:07 UTC — 0 new matches (35+ companies: Greenhouse API + Lever + WebSearch). All candidates confirmed SEEN. Scale AI GPS roles (London/Kuwait) location-filtered. Shield AI new roles (R6244/R6508) on-site SD/San Mateo filtered. Anthropic data center hardware roles (5466517/5468374/5468380) title-filtered. Dead boards: Dagster (empty/merged), ClickHouse (404), Wayve (404), Aurora (404). Pipeline healthy — 11+ items pending from Nov 3–9 activity surge. -->
 <!-- Scout: 2026-11-09 scan — 6 new matches (~25 companies: Temporal direct + Greenhouse API + WebSearch). Temporal Staff SWE Infrastructure Foundations (Remote-US 4.3/5), Temporal Staff SWE Builder Platform (Remote-US 4.2/5), Fivetran Senior EM dbt Engine (Denver 4.1/5), Temporal Senior Staff SWE Builder Platform (3.8/5), Temporal Senior SWE Cloud Applications (3.5/5), Temporal Senior SWE Builder Platform (3.5/5). Skipped: Samsara Safety AI (CV specialty 2.5/5), Samsara ML Supply Chain (applied ML scientist 2.0/5), Anduril CO (C++ hardware). Note: True Anomaly 3 Denver roles pending formal eval. System update v1.2.0→v1.39.0 available. -->
 <!-- Scout: 2026-11-07 scan — 3 new matches (12 companies: Greenhouse API). Samsara Manager II SWE Infrastructure (Remote-US 4.0/5), Anthropic EM Finance Engineering (SF/Seattle 3.8/5), Anthropic DE GTM Systems (SF/NYC/Seattle 3.5/5). Skipped: Scale AI (TS clearance), Fivetran stale, Vercel no-remote, Dagster empty board. -->
@@ -16,6 +17,16 @@
 <!-- Scout: 2026-10-29 quickcheck — 2 new matches (40 companies: Greenhouse API only). Anthropic Staff+ SWE Enterprise Connectivity (SF/NYC), Scale AI Senior Cloud Infra Engineer (SF/NYC). API errors: Black Forest Labs, Wayve, Clickhouse (404 — dead boards). -->
 <!-- Scout: 2026-10-28 quickcheck — 1 new match (42 companies: Greenhouse API only). Anthropic Staff+ SWE Deployment (Remote-Friendly/SF/Seattle). API errors: Temporal, RunPod, Black Forest Labs, Wayve, Aurora, Clickhouse (404). -->
 
+
+## 2026-11-10 — Scout Quickcheck
+
+- https://job-boards.greenhouse.io/anthropic/jobs/5394611008 <!-- Anthropic: Engineering Manager, Agent Security Partnerships (New York City, NY | Seattle, WA; San Francisco, CA) -->
+- https://job-boards.greenhouse.io/anthropic/jobs/5477746008 <!-- Anthropic: Staff+ Software Engineer, Claude Design (San Francisco, CA | New York City, NY) -->
+- https://job-boards.greenhouse.io/anthropic/jobs/5477379008 <!-- Anthropic: Staff+ Software Engineer, Safeguards Evals (New York City, NY; San Francisco, CA; Seattle, WA) -->
+- https://job-boards.greenhouse.io/celonis/jobs/8190822003?gh_jid=8190822003 <!-- Celonis: Software Engineer (Remote, US) -->
+- https://job-boards.greenhouse.io/celonis/jobs/8190831003?gh_jid=8190831003 <!-- Celonis: Software Engineer - Infrastructure (Remote, US) -->
+- https://www.samsara.com/company/careers/roles/8180693?gh_jid=8180693 <!-- Samsara: Manager II, Software Engineering (San Francisco, CA) -->
+- https://job-boards.greenhouse.io/rocketlab/jobs/8200818003 <!-- Rocket Lab: Senior Ground Software Engineer I (Littleton, CO — Denver metro) -->
 
 ## 2026-11-09 — Scout Scan
 
