@@ -14631,3 +14631,26 @@ https://job-boards.greenhouse.io/life360/jobs/8895033002
 - https://www.zipline.com/open-roles/8017330003?gh_jid=8017330003 <!-- Zipline: Staff Software Engineer – Integrations Platform (South San Francisco, California, USA) -->
 - https://www.zipline.com/open-roles/7808704003?gh_jid=7808704003 <!-- Zipline: Staff Software Engineer – Marketplace (South San Francisco, California, USA) -->
 - https://www.zipline.com/open-roles/8040822003?gh_jid=8040822003 <!-- Zipline: Staff Software Engineer - Routing Engine (Ann Arbor, Michigan, USA; South San Francisco, California, USA) -->
+
+- https://boards.greenhouse.io/andurilindustries/jobs/5214018007?gh_jid=5214018007 | Anduril — Electrical Engineering Manager, Air Dominance and Strike | Costa Mesa, California, United States | discovered:2026-11-11
+- https://boards.greenhouse.io/andurilindustries/jobs/5289345007?gh_jid=5289345007 | Anduril — Mission Software Engineer | Waltham, Massachusetts, United States | discovered:2026-11-11
+- https://boards.greenhouse.io/andurilindustries/jobs/5291892007?gh_jid=5291892007 | Anduril — Production Master Data Engineer | Costa Mesa, California, United States | discovered:2026-11-11
+- https://boards.greenhouse.io/andurilindustries/jobs/5289370007?gh_jid=5289370007 | Anduril — Realtime Software Engineer | Waltham, Massachusetts, United States | discovered:2026-11-11
+- https://boards.greenhouse.io/andurilindustries/jobs/5291706007?gh_jid=5291706007 | Anduril — Senior Machine Learning Engineer (Applied Intelligence) | Santa Ana, California, United States | discovered:2026-11-11
+- https://boards.greenhouse.io/andurilindustries/jobs/5289346007?gh_jid=5289346007 | Anduril — Senior Mission Software Engineer | Waltham, Massachusetts, United States | discovered:2026-11-11
+- https://boards.greenhouse.io/andurilindustries/jobs/5289270007?gh_jid=5289270007 | Anduril — Senior Software Engineer, Space Special Programs | Chantilly, Virginia, United States | discovered:2026-11-11
+- https://boards.greenhouse.io/andurilindustries/jobs/5291774007?gh_jid=5291774007 | Anduril —  Software Engineering Manager (ArsenalOS Deployment) | Santa Ana, California, United States | discovered:2026-11-11
+- https://boards.greenhouse.io/andurilindustries/jobs/5291969007?gh_jid=5291969007 | Anduril — Software Engineering Manager (Factory Data) | Santa Ana, California, United States | discovered:2026-11-11
+- https://boards.greenhouse.io/andurilindustries/jobs/5290223007?gh_jid=5290223007 | Anduril — Software Engineer, Sentry Software (Allied Customer Deployment) | Irvine, California, United States | discovered:2026-11-11
+- https://boards.greenhouse.io/andurilindustries/jobs/5290228007?gh_jid=5290228007 | Anduril — Software Engineer, Sentry Software (Ground Based Air Defense) | Irvine, California, United States | discovered:2026-11-11
+- https://boards.greenhouse.io/andurilindustries/jobs/5290232007?gh_jid=5290232007 | Anduril — Software Engineer, Sentry Software (Manufacturing) | Irvine, California, United States | discovered:2026-11-11
+- https://boards.greenhouse.io/andurilindustries/jobs/5289274007?gh_jid=5289274007 | Anduril — Staff Software Engineer, Space Special Programs | Chantilly, Virginia, United States | discovered:2026-11-11
+- https://www.samsara.com/company/careers/roles/8376044?gh_jid=8376044 | Samsara — Manager II, Software Engineering | Remote - Canada | discovered:2026-11-11
+- https://job-boards.greenhouse.io/rocketlab/jobs/7992127003 | Rocket Lab — Ground Software Engineer II  | Long Beach, CA | discovered:2026-11-11
+- https://job-boards.greenhouse.io/rocketlab/jobs/8200972003 | Rocket Lab — Senior Ground Software Engineer I | Long Beach, CA | discovered:2026-11-11
+- https://job-boards.greenhouse.io/rocketlab/jobs/7985574003 | Rocket Lab — Senior Ground Software Engineer II | Long Beach, CA | discovered:2026-11-11
+- https://job-boards.greenhouse.io/rocketlab/jobs/8201104003 | Rocket Lab — Senior Software Engineer I - Data Engineering | Long Beach, CA | discovered:2026-11-11
+- https://nuro.ai/careersitem?gh_jid=8357721 | Nuro — Senior Software Engineer, Nuro Driver Core Software | Mountain View, California (HQ) | discovered:2026-11-11
+- https://nuro.ai/careersitem?gh_jid=6523341 | Nuro — Staff Software Engineer, Performance | Mountain View, California (HQ) | discovered:2026-11-11
+- https://nuro.ai/careersitem?gh_jid=8376286 | Nuro — Technical Lead Software Engineer, Routing | Mountain View, California (HQ) | discovered:2026-11-11
+- https://www.zipline.com/open-roles/8200243003?gh_jid=8200243003 | Zipline — Fulfillment Operations Specialist, Nigeria | North Central, Nigeria | discovered:2026-11-11
