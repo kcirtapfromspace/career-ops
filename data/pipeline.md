@@ -14656,3 +14656,4 @@ https://job-boards.greenhouse.io/life360/jobs/8895033002
 - https://nuro.ai/careersitem?gh_jid=6523341 | Nuro — Staff Software Engineer, Performance | Mountain View, California (HQ) | discovered:2026-11-11
 - https://nuro.ai/careersitem?gh_jid=8376286 | Nuro — Technical Lead Software Engineer, Routing | Mountain View, California (HQ) | discovered:2026-11-11
 - https://www.zipline.com/open-roles/8200243003?gh_jid=8200243003 | Zipline — Fulfillment Operations Specialist, Nigeria | North Central, Nigeria | discovered:2026-11-11
+- https://job-boards.greenhouse.io/anthropic/jobs/5478876008 | Anthropic — Staff Software Engineer, Support Technology | San Francisco, CA; New York City, NY; Seattle, WA | discovered:2026-11-12
