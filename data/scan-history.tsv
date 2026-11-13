@@ -52524,3 +52524,18 @@ https://www.fivetran.com/careers/job?gh_jid=8201086003	2026-11-11
 2026-11-12	Temporal	https://temporal.io/careers/a1e22a53-a8c2-410d-9385-814a488dd6c1	Staff Software Engineer, Builder Platform	Remote US	direct-board	scout-2026-11-12	confirmed-open
 2026-11-12	Anthropic	https://job-boards.greenhouse.io/anthropic/jobs/5478876008	Staff Software Engineer, Support Technology	San Francisco, CA; New York City, NY; Seattle, WA	greenhouse_api	scout-quickcheck-2026-11-12	matched
 2026-11-12	Samsara	https://job-boards.greenhouse.io/samsara/jobs/8376044	Manager II, Software Engineering	Remote - Canada	greenhouse_api	scout-quickcheck-2026-11-12	location-rejected-canada
+2026-11-13	Fivetran	https://www.fivetran.com/careers/job?gh_jid=7823195003	Engineering Manager, Metadata	Denver, CO	greenhouse_api	scout-2026-11-13	top-pick-4.3
+2026-11-13	Fivetran	https://www.fivetran.com/careers/job?gh_jid=8013525003	Senior Engineering Manager, dbt Engine	Denver, CO	greenhouse_api	scout-2026-11-13	top-pick-4.1
+2026-11-13	Temporal	https://temporal.io/careers/ccc3148c-fde1-4b22-bf5b-fd74a0f95c1d	Senior Engineering Manager, Observability	Remote (Seattle)	direct-board	scout-2026-11-13	matched-3.8
+2026-11-13	Chainguard	https://job-boards.greenhouse.io/chainguard/jobs/4718566006	Engineering Manager, AI CICD	US Remote	greenhouse_api	scout-2026-11-13	matched-3.8
+2026-11-13	Chainguard	https://job-boards.greenhouse.io/chainguard/jobs/4727461006	Staff Software Engineer, Chainguard Harness	US Remote	greenhouse_api	scout-2026-11-13	matched-3.5
+2026-11-13	Scale AI	https://job-boards.greenhouse.io/scaleai/jobs/4732798005	Senior Machine Learning Engineer, Public Sector	Denver, CO	greenhouse_api	scout-2026-11-13	matched-3.6
+2026-11-13	Airbnb	https://careers.airbnb.com/positions/7095225	Staff Software Engineer, Data Engineering	Remote	websearch	scout-2026-11-13	matched-3.8
+2026-11-13	Airbnb	https://careers.airbnb.com/positions/7081653	Staff Software Engineer, AI Enablement	Remote	websearch	scout-2026-11-13	matched-3.7
+2026-11-13	Dagster	https://boards-api.greenhouse.io/v1/boards/dagsterlabs/jobs	(empty board — merged w/ Prefect Aug 2026)	-	greenhouse_api	scout-2026-11-13	board-empty
+2026-11-13	Prefect	https://www.purpose.jobs/discover/companies/prefect/jobs/92127409-staff-platform-engineer	Staff Platform Engineer	Remote	websearch	scout-2026-11-13	closed-no-longer-accepting
+2026-11-13	Figure AI	https://boards-api.greenhouse.io/v1/boards/figureai/jobs	(no remote/relevant roles found)	San Jose, CA	greenhouse_api	scout-2026-11-13	location-rejected
+2026-11-13	Scale AI	https://job-boards.greenhouse.io/scaleai/jobs/4733702005	Engineering Manager, Customer Platform	New York, NY	greenhouse_api	scout-2026-11-13	location-conditional
+2026-11-13	Chainguard	https://job-boards.greenhouse.io/chainguard/jobs/4688854006	Staff Software Engineer, Containers	US Remote	greenhouse_api	scout-2026-11-13	noted
+2026-11-13	Netflix	https://portfoliojobs.tcv.com/companies/netflix/jobs/85741051	Software Engineer 4/5, Data and Feature Infrastructure AI Platform	Remote	websearch	scout-2026-11-13	noted-verify-netflix-direct
+2026-11-13	Netflix	https://resumegeni.com/jobs/engineering-manager-ai-for-member-systems-page-construction-ranking-models-at-netflix-usa-remote	Engineering Manager, AI for Member Systems	Remote	websearch	scout-2026-11-13	noted-verify-netflix-direct

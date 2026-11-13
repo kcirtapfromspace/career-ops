@@ -14658,3 +14658,11 @@ https://job-boards.greenhouse.io/life360/jobs/8895033002
 - https://nuro.ai/careersitem?gh_jid=8376286 | Nuro — Technical Lead Software Engineer, Routing | Mountain View, California (HQ) | discovered:2026-11-11
 - https://www.zipline.com/open-roles/8200243003?gh_jid=8200243003 | Zipline — Fulfillment Operations Specialist, Nigeria | North Central, Nigeria | discovered:2026-11-11
 - https://job-boards.greenhouse.io/anthropic/jobs/5478876008 | Anthropic — Staff Software Engineer, Support Technology | San Francisco, CA; New York City, NY; Seattle, WA | discovered:2026-11-12
+- https://www.fivetran.com/careers/job?gh_jid=7823195003 | Fivetran — Engineering Manager, Metadata | Denver, CO | discovered:2026-11-13
+- https://www.fivetran.com/careers/job?gh_jid=8013525003 | Fivetran — Senior Engineering Manager, dbt Engine | Denver, CO | discovered:2026-11-13
+- https://temporal.io/careers/ccc3148c-fde1-4b22-bf5b-fd74a0f95c1d | Temporal — Senior Engineering Manager, Observability | Remote (Seattle) | discovered:2026-11-13
+- https://job-boards.greenhouse.io/chainguard/jobs/4718566006 | Chainguard — Engineering Manager, AI CICD | US Remote | discovered:2026-11-13
+- https://job-boards.greenhouse.io/chainguard/jobs/4727461006 | Chainguard — Staff Software Engineer, Chainguard Harness | US Remote | discovered:2026-11-13
+- https://job-boards.greenhouse.io/scaleai/jobs/4732798005 | Scale AI — Senior Machine Learning Engineer, Public Sector | Denver, CO | discovered:2026-11-13
+- https://careers.airbnb.com/positions/7095225 | Airbnb — Staff Software Engineer, Data Engineering | Remote | discovered:2026-11-13
+- https://careers.airbnb.com/positions/7081653 | Airbnb — Staff Software Engineer, AI Enablement | Remote | discovered:2026-11-13
