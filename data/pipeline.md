@@ -14666,3 +14666,8 @@ https://job-boards.greenhouse.io/life360/jobs/8895033002
 - https://job-boards.greenhouse.io/scaleai/jobs/4732798005 | Scale AI — Senior Machine Learning Engineer, Public Sector | Denver, CO | discovered:2026-11-13
 - https://careers.airbnb.com/positions/7095225 | Airbnb — Staff Software Engineer, Data Engineering | Remote | discovered:2026-11-13
 - https://careers.airbnb.com/positions/7081653 | Airbnb — Staff Software Engineer, AI Enablement | Remote | discovered:2026-11-13
+- https://job-boards.greenhouse.io/anthropic/jobs/5477652008 | Anthropic — Staff+ Software Engineer, Consumer | San Francisco, CA | discovered:2026-11-13
+- https://boards.greenhouse.io/andurilindustries/jobs/5294365007?gh_jid=5294365007 | Anduril — Realtime Software Engineer | Waltham, Massachusetts | discovered:2026-11-13
+- https://boards.greenhouse.io/andurilindustries/jobs/5294371007?gh_jid=5294371007 | Anduril — Site Reliability Engineer | Waltham, Massachusetts | discovered:2026-11-13
+- https://boards.greenhouse.io/andurilindustries/jobs/5293883007?gh_jid=5293883007 | Anduril — Software Engineer, AI | Costa Mesa, California | discovered:2026-11-13
+- https://boards.greenhouse.io/andurilindustries/jobs/5294106007?gh_jid=5294106007 | Anduril — Staff Guidance Navigation and Control Software Engineer (GNC) | Costa Mesa / Santa Ana, California | discovered:2026-11-13
