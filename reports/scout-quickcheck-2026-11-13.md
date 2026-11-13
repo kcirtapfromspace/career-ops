@@ -7,8 +7,8 @@
 ## Summary
 
 - Checked 40 Greenhouse API endpoints
-- Scanned 8,316 total job listings
-- 5 new matches found (not previously seen)
+- Scanned 8,316+ total job listings
+- 6 new matches found (not previously seen) — 5 from earlier run, 1 from this run
 - 1 location-rejected (Samsara Canada)
 - 4 API errors (see below)
 
@@ -17,12 +17,14 @@
 | Company | Title | Location | URL |
 |---------|-------|----------|-----|
 | Anthropic | Staff+ Software Engineer, Consumer | San Francisco, CA | [link](https://job-boards.greenhouse.io/anthropic/jobs/5477652008) |
+| Rocket Lab | Ground Software Engineer II | Littleton, CO (Denver metro) | [link](https://job-boards.greenhouse.io/rocketlab/jobs/7984938003) |
 | Anduril | Realtime Software Engineer | Waltham, MA | [link](https://boards.greenhouse.io/andurilindustries/jobs/5294365007?gh_jid=5294365007) |
 | Anduril | Site Reliability Engineer | Waltham, MA | [link](https://boards.greenhouse.io/andurilindustries/jobs/5294371007?gh_jid=5294371007) |
 | Anduril | Software Engineer, AI | Costa Mesa, CA | [link](https://boards.greenhouse.io/andurilindustries/jobs/5293883007?gh_jid=5293883007) |
 | Anduril | Staff Guidance Navigation and Control SW Engineer (GNC) | Costa Mesa / Santa Ana, CA | [link](https://boards.greenhouse.io/andurilindustries/jobs/5294106007?gh_jid=5294106007) |
 
 ### Highlights
+- **Rocket Lab - Ground Software Engineer II** ⭐ — New level-II posting in Littleton, CO (Denver metro). Distinct from the Senior Ground SWE I (8200818003) added 2026-11-10. Space/aerospace software with Denver presence. Clearance not mentioned.
 - **Anthropic - Staff+ Software Engineer, Consumer** — Staff+ level consumer product role at Anthropic (SF). High relevance.
 - **Anduril - Software Engineer, AI** — New AI-specific SWE role at Anduril (dream company). Costa Mesa.
 - **Anduril - Site Reliability Engineer** — SRE role at Anduril. Waltham MA. Defense-focused SRE.

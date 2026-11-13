@@ -14671,3 +14671,4 @@ https://job-boards.greenhouse.io/life360/jobs/8895033002
 - https://boards.greenhouse.io/andurilindustries/jobs/5294371007?gh_jid=5294371007 | Anduril — Site Reliability Engineer | Waltham, Massachusetts | discovered:2026-11-13
 - https://boards.greenhouse.io/andurilindustries/jobs/5293883007?gh_jid=5293883007 | Anduril — Software Engineer, AI | Costa Mesa, California | discovered:2026-11-13
 - https://boards.greenhouse.io/andurilindustries/jobs/5294106007?gh_jid=5294106007 | Anduril — Staff Guidance Navigation and Control Software Engineer (GNC) | Costa Mesa / Santa Ana, California | discovered:2026-11-13
+- https://job-boards.greenhouse.io/rocketlab/jobs/7984938003 | Rocket Lab — Ground Software Engineer II | Littleton, CO (Denver metro) | discovered:2026-11-13
