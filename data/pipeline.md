@@ -14707,3 +14707,5 @@ https://job-boards.greenhouse.io/life360/jobs/8895033002
 - https://job-boards.greenhouse.io/anthropic/jobs/4741104008 | Anthropic — Engineering Manager, GPU (ML Accelerator) | SF/NYC/SEA | discovered:2026-11-14 | score:3.6
 - https://temporal.io/careers/cfc85072-6669-4671-afd4-e860f7072668 | Temporal — Staff Software Engineer, Compute (Temporal Cloud) | Remote US | discovered:2026-11-14 | score:3.6
 - https://careers.airbnb.com/positions/7463663/ | Airbnb — Senior Staff Data Engineer, Marketplaces DNA | Remote US | discovered:2026-11-14 | score:3.6
+
+- https://job-boards.greenhouse.io/anthropic/jobs/5469291008 | Anthropic — Engineering Manager, Billing Platform | San Francisco, CA | New York City, NY | Seattle, WA | discovered:2026-11-14 | greenhouse_api
