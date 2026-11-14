@@ -14672,3 +14672,26 @@ https://job-boards.greenhouse.io/life360/jobs/8895033002
 - https://boards.greenhouse.io/andurilindustries/jobs/5293883007?gh_jid=5293883007 | Anduril — Software Engineer, AI | Costa Mesa, California | discovered:2026-11-13
 - https://boards.greenhouse.io/andurilindustries/jobs/5294106007?gh_jid=5294106007 | Anduril — Staff Guidance Navigation and Control Software Engineer (GNC) | Costa Mesa / Santa Ana, California | discovered:2026-11-13
 - https://job-boards.greenhouse.io/rocketlab/jobs/7984938003 | Rocket Lab — Ground Software Engineer II | Littleton, CO (Denver metro) | discovered:2026-11-13
+
+## 2026-11-14 — Scout Scan (15 new matches)
+
+### Top picks (4.0+)
+
+- https://temporal.io/careers/b3ba030c-dcbb-4131-9edb-90a8e03849e8 | Temporal — Senior Staff Engineer, Open Source Server | Remote US | discovered:2026-11-14 | score:4.5
+- https://temporal.io/careers/4ee99986-77ad-4113-8058-891d5cc7284a | Temporal — Staff Software Engineer, AI Foundations (AI Agent Optimization) | Remote US | discovered:2026-11-14 | score:4.3
+- https://temporal.io/careers/f40a7b70-71c0-49f6-ba9f-1df2de9b46d9 | Temporal — Staff Software Engineer, Open Source Server | Remote US | discovered:2026-11-14 | score:4.3
+- https://www.samsara.com/company/careers/roles/7922530?gh_jid=7922530 | Samsara — Software Engineer, Data Platform | Remote US | discovered:2026-11-14 | score:4.0
+- https://job-boards.greenhouse.io/anthropic/jobs/5297059008 | Anthropic — Engineering Manager, Research Data Platform | SF/NYC | discovered:2026-11-14 | score:4.0
+
+### Other matches (3.5–3.9)
+
+- https://temporal.io/careers/8a65908d-4f38-4b19-a0ed-453904180469 | Temporal — Director of Engineering, Compute | Remote US | discovered:2026-11-14 | score:3.8
+- https://www.samsara.com/company/careers/roles/8148638?gh_jid=8148638 | Samsara — Manager II, Software Engineering, Infrastructure | Remote US | discovered:2026-11-14 | score:3.8
+- https://careers.airbnb.com/positions/7450569/ | Airbnb — Senior Engineering Manager, Marketplaces DNA (Data & AI) | Remote US | discovered:2026-11-14 | score:3.8
+- https://builtin.com/job/distributed-systems-engineer-l5-data-platform/10368573 | Netflix — Distributed Systems Engineer (L5), Data Platform | Remote US | discovered:2026-11-14 | score:3.7 | NOTE:verify-on-netflix-careers
+- https://temporal.io/careers/b656400a-bc30-4fc3-a117-b803ef42634f | Temporal — Senior Engineering Manager, Test Systems & Tooling | Remote US | discovered:2026-11-14 | score:3.7
+- https://www.samsara.com/company/careers/roles/8039914?gh_jid=8039914 | Samsara — Senior Data Engineer II | Remote US | discovered:2026-11-14 | score:3.7
+- https://job-boards.greenhouse.io/chainguard/jobs/4722145006 | Chainguard — Principal Software Engineer, Containers | Remote US | discovered:2026-11-14 | score:3.7
+- https://job-boards.greenhouse.io/anthropic/jobs/4741104008 | Anthropic — Engineering Manager, GPU (ML Accelerator) | SF/NYC/SEA | discovered:2026-11-14 | score:3.6
+- https://temporal.io/careers/cfc85072-6669-4671-afd4-e860f7072668 | Temporal — Staff Software Engineer, Compute (Temporal Cloud) | Remote US | discovered:2026-11-14 | score:3.6
+- https://careers.airbnb.com/positions/7463663/ | Airbnb — Senior Staff Data Engineer, Marketplaces DNA | Remote US | discovered:2026-11-14 | score:3.6
