@@ -1,4 +1,5 @@
 # Pipeline — Pending Offers
+<!-- Scout: 2026-11-14 quickcheck — 8 new matches (40 companies: Greenhouse API only). Samsara: 2 new (Sr Mgr SWE AI Dev Productivity Remote-US, Sr SWE Operational AI Remote-US). Rocket Lab: 2 new Denver-metro (Senior SWE I+II Digital Engineering, Littleton CO). Zipline: 1 new (Senior Full Stack SWE Data, South SF). Nuro: 3 new (Principal/Senior/SWE Performance, Mountain View). Dead boards: Parloa/Black Forest Labs/Wayve/ClickHouse (404). -->
 <!-- Scout: 2026-11-12 quickcheck #2 — 0 new matches (40 companies: Greenhouse API only). 8314 total jobs fetched. 1 near-miss: Samsara Manager II SWE (Remote-Canada — location rejected). Dead boards: Parloa/Black Forest Labs/Wayve/ClickHouse (404). Anthropic Staff SWE Support Technology (5478876008) already found by earlier run today. Pipeline healthy — action needed on Nov 10 items. -->
 <!-- Scout: 2026-11-12 full scan — 0 new matches (35+ companies: Greenhouse API + WebSearch + Temporal direct). All tracked candidates confirmed at or below HWM from Nov 3–11 surge. Dagster empty board, ClickHouse/Wayve/Black Forest Labs 404, Confluent Ashby returned empty (may be transient). Prefect Staff Platform Engineer ($214K-$309K, seen Sep aggregators) no longer on live Ashby board — likely filled. No new postings detected in past 48h. Pipeline healthy — 10+ items from Nov 3–11 awaiting action. See reports/scout-2026-11-12.md for full backlog. -->
 <!-- Scout: 2026-11-11 quickcheck — 0 new matches (40 companies: Greenhouse API only). 8303 total jobs fetched, 440 already seen. 3 new jobs seen but title-filtered: Anthropic Principal Engineer Privacy (5477753008), Anthropic Senior Engineer Bioinformatics (5467083008), Fivetran GRC Staff Engineer (8201086003) — none match SWE/DE/Platform/ML filter. Dead boards: Parloa/Black Forest Labs/Wayve/Clickhouse (404). Pipeline healthy — action needed on 4.0+ items from Nov 3–10. -->
@@ -21,6 +22,17 @@
 <!-- Scout: 2026-10-29 quickcheck — 2 new matches (40 companies: Greenhouse API only). Anthropic Staff+ SWE Enterprise Connectivity (SF/NYC), Scale AI Senior Cloud Infra Engineer (SF/NYC). API errors: Black Forest Labs, Wayve, Clickhouse (404 — dead boards). -->
 <!-- Scout: 2026-10-28 quickcheck — 1 new match (42 companies: Greenhouse API only). Anthropic Staff+ SWE Deployment (Remote-Friendly/SF/Seattle). API errors: Temporal, RunPod, Black Forest Labs, Wayve, Aurora, Clickhouse (404). -->
 
+
+## 2026-11-14 — Scout Quickcheck
+
+- https://www.samsara.com/company/careers/roles/8374911 <!-- Samsara: Senior Manager, Software Engineering - AI Developer Productivity (Dev Agents and SRE AI) | Remote US -->
+- https://www.samsara.com/company/careers/roles/8223641 <!-- Samsara: Sr Software Engineer I/II, Operational AI | Remote US -->
+- https://job-boards.greenhouse.io/rocketlab/jobs/8202563003 <!-- Rocket Lab: Senior Software Engineer I - Digital Engineering | Littleton, CO (Denver metro) -->
+- https://job-boards.greenhouse.io/rocketlab/jobs/8202565003 <!-- Rocket Lab: Senior Software Engineer II - Digital Engineering | Littleton, CO (Denver metro) -->
+- https://www.zipline.com/open-roles/8204030003 <!-- Zipline: Senior Full Stack Software Engineer, Data | South San Francisco, CA -->
+- https://nuro.ai/careersitem?gh_jid=8384407 <!-- Nuro: Principal Software Engineer, Performance | Mountain View, CA -->
+- https://nuro.ai/careersitem?gh_jid=8386877 <!-- Nuro: Senior Software Engineer, Performance | Mountain View, CA -->
+- https://nuro.ai/careersitem?gh_jid=6810051 <!-- Nuro: Software Engineer, Performance | Mountain View, CA -->
 
 ## 2026-11-10 — Scout Quickcheck
 
