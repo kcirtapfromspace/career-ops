@@ -14709,3 +14709,33 @@ https://job-boards.greenhouse.io/life360/jobs/8895033002
 - https://careers.airbnb.com/positions/7463663/ | Airbnb — Senior Staff Data Engineer, Marketplaces DNA | Remote US | discovered:2026-11-14 | score:3.6
 
 - https://job-boards.greenhouse.io/anthropic/jobs/5469291008 | Anthropic — Engineering Manager, Billing Platform | San Francisco, CA | New York City, NY | Seattle, WA | discovered:2026-11-14 | greenhouse_api
+
+## 2026-11-15 — Scout Scan (20 new matches)
+
+### Top Picks
+
+- https://temporal.io/careers/dc4021c5-b1d0-49a8-8342-6c68969192b5 — Temporal | Staff SWE, Replication Foundations | Remote US | 4.1/5
+- https://temporal.io/careers/05507d71-51c9-455c-80b4-2da9699a0e77 — Temporal | Staff SWE, Traffic | Remote US | 4.0/5
+- https://temporal.io/careers/25ab987b-b07e-424b-8ce9-eb10de739a7f — Temporal | Staff SWE, Infrastructure Foundations | Remote US | 4.0/5
+
+### Strong Matches
+
+- https://www.fivetran.com/careers/job?gh_jid=8013525003 — Fivetran | Senior EM, dbt Engine | Denver, CO | 3.9/5
+- https://job-boards.greenhouse.io/chainguard/jobs/4718566006 — Chainguard | EM, AI CICD | Remote US | 3.8/5
+- https://temporal.io/careers/dfa01032-82b4-443f-bfdc-1a20bd976b9c — Temporal | Senior Staff SWE, Builder Platform | Remote US | 3.8/5
+- https://temporal.io/careers/a1e22a53-a8c2-410d-9385-814a488dd6c1 — Temporal | Staff SWE, Builder Platform | Remote US | 3.8/5
+- https://job-boards.greenhouse.io/anthropic/jobs/5411560008 — Anthropic | EM, Inference Infrastructure | SF/NYC/SEA | 3.8/5
+- https://www.fivetran.com/careers/job?gh_jid=7823195003 — Fivetran | EM, Metadata | Denver, CO | 3.8/5
+- https://temporal.io/careers/ccc3148c-fde1-4b22-bf5b-fd74a0f95c1d — Temporal | Senior EM, Observability Engineering | Seattle, WA | 3.8/5
+- https://job-boards.greenhouse.io/anthropic/jobs/5316593008 — Anthropic | EM, Agent Runtime Platform | SF/NYC | 3.7/5
+- https://job-boards.greenhouse.io/anthropic/jobs/5411267008 — Anthropic | EM, Scheduler and Fleet Efficiency | SF/NYC | 3.7/5
+- https://job-boards.greenhouse.io/chainguard/jobs/4727461006 — Chainguard | Staff SWE, Chainguard Harness | Remote US | 3.8/5
+- https://job-boards.greenhouse.io/chainguard/jobs/4720009006 — Chainguard | Staff SWE, Customer Platform | Remote US | 3.7/5
+
+### Also Noted
+
+- https://temporal.io/careers/7365a59d-554e-41f4-9163-2fdd528a42ca — Temporal | Staff SWE, Test Systems & Tooling | Remote US | 3.5/5
+- https://job-boards.greenhouse.io/anthropic/jobs/5448481008 — Anthropic | Data Engineer, Product | SF/NYC/SEA | 3.5/5
+- https://temporal.io/careers/1929137d-1aef-4eae-9490-b934a90bc2ab — Temporal | Senior SWE, Infrastructure Foundations | Remote US | 3.5/5
+- https://temporal.io/careers/2a2a29fa-3701-4f0d-a262-aeb8bc68e0c3 — Temporal | Senior SWE, Cloud Data Storage | Remote US | 3.5/5
+- https://job-boards.greenhouse.io/scaleai/jobs/4631848005 — Scale AI | MLE, Public Sector | Denver, CO | 3.4/5

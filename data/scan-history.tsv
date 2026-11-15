@@ -52585,3 +52585,23 @@ https://nuro.ai/careersitem?gh_jid=6810051	2026-11-14
 2026-11-14	Black Forest Labs	HTTP 404	(API error)	-	greenhouse_api	scout-2026-11-14	api-error
 2026-11-14	Wayve	HTTP 404	(API error)	-	greenhouse_api	scout-2026-11-14	api-error
 2026-11-14	Clickhouse	HTTP 404	(API error)	-	greenhouse_api	scout-2026-11-14	api-error
+2026-11-15	Temporal	https://temporal.io/careers/dc4021c5-b1d0-49a8-8342-6c68969192b5	Staff Software Engineer, Replication Foundations	Remote US	direct-board	scout-2026-11-15	top-pick-4.1
+2026-11-15	Temporal	https://temporal.io/careers/05507d71-51c9-455c-80b4-2da9699a0e77	Staff Software Engineer, Traffic	Remote US	direct-board	scout-2026-11-15	top-pick-4.0
+2026-11-15	Temporal	https://temporal.io/careers/25ab987b-b07e-424b-8ce9-eb10de739a7f	Staff Software Engineer, Infrastructure Foundations	Remote US	direct-board	scout-2026-11-15	top-pick-4.0
+2026-11-15	Fivetran	https://www.fivetran.com/careers/job?gh_jid=8013525003	Senior Engineering Manager, dbt Engine	Denver, CO	greenhouse_api	scout-2026-11-15	matched-3.9-denver
+2026-11-15	Chainguard	https://job-boards.greenhouse.io/chainguard/jobs/4718566006	Engineering Manager, AI CICD	Remote US	greenhouse_api	scout-2026-11-15	matched-3.8
+2026-11-15	Temporal	https://temporal.io/careers/dfa01032-82b4-443f-bfdc-1a20bd976b9c	Senior Staff Software Engineer, Builder Platform	Remote US	direct-board	scout-2026-11-15	matched-3.8
+2026-11-15	Temporal	https://temporal.io/careers/a1e22a53-a8c2-410d-9385-814a488dd6c1	Staff Software Engineer, Builder Platform	Remote US	direct-board	scout-2026-11-15	matched-3.8
+2026-11-15	Anthropic	https://job-boards.greenhouse.io/anthropic/jobs/5411560008	Engineering Manager, Inference Infrastructure	SF/NYC/SEA	greenhouse_api	scout-2026-11-15	matched-3.8-relocation
+2026-11-15	Fivetran	https://www.fivetran.com/careers/job?gh_jid=7823195003	Engineering Manager, Metadata	Denver, CO	greenhouse_api	scout-2026-11-15	matched-3.8-denver
+2026-11-15	Temporal	https://temporal.io/careers/ccc3148c-fde1-4b22-bf5b-fd74a0f95c1d	Senior Engineering Manager, Observability Engineering	Seattle, WA	direct-board	scout-2026-11-15	matched-3.8-seattle
+2026-11-15	Anthropic	https://job-boards.greenhouse.io/anthropic/jobs/5316593008	Engineering Manager, Agent Runtime Platform	SF/NYC	greenhouse_api	scout-2026-11-15	matched-3.7-relocation
+2026-11-15	Anthropic	https://job-boards.greenhouse.io/anthropic/jobs/5411267008	Engineering Manager, Scheduler and Fleet Efficiency	SF/NYC	greenhouse_api	scout-2026-11-15	matched-3.7-relocation
+2026-11-15	Chainguard	https://job-boards.greenhouse.io/chainguard/jobs/4727461006	Staff Software Engineer, Chainguard Harness	Remote US	greenhouse_api	scout-2026-11-15	matched-3.8
+2026-11-15	Chainguard	https://job-boards.greenhouse.io/chainguard/jobs/4720009006	Staff Software Engineer, Customer Platform	Remote US	greenhouse_api	scout-2026-11-15	matched-3.7
+2026-11-15	Temporal	https://temporal.io/careers/7365a59d-554e-41f4-9163-2fdd528a42ca	Staff Software Engineer, Test Systems & Tooling	Remote US	direct-board	scout-2026-11-15	noted-3.5
+2026-11-15	Anthropic	https://job-boards.greenhouse.io/anthropic/jobs/5448481008	Data Engineer, Product	SF/NYC/SEA	greenhouse_api	scout-2026-11-15	noted-3.5-relocation
+2026-11-15	Temporal	https://temporal.io/careers/1929137d-1aef-4eae-9490-b934a90bc2ab	Senior Software Engineer, Infrastructure Foundations	Remote US	direct-board	scout-2026-11-15	noted-3.5
+2026-11-15	Temporal	https://temporal.io/careers/2a2a29fa-3701-4f0d-a262-aeb8bc68e0c3	Senior Software Engineer, Cloud Data Storage	Remote US	direct-board	scout-2026-11-15	noted-3.5
+2026-11-15	Scale AI	https://job-boards.greenhouse.io/scaleai/jobs/4631848005	Machine Learning Engineer, Public Sector	Denver, CO	greenhouse_api	scout-2026-11-15	noted-3.4-denver-clearance
+2026-11-15	(scan-run)	9 companies	(all roles)	Multi-company	Greenhouse API + Temporal direct	scout-2026-11-15	completed-20-new
