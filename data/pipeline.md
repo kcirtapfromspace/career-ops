@@ -14739,3 +14739,23 @@ https://job-boards.greenhouse.io/life360/jobs/8895033002
 - https://temporal.io/careers/1929137d-1aef-4eae-9490-b934a90bc2ab — Temporal | Senior SWE, Infrastructure Foundations | Remote US | 3.5/5
 - https://temporal.io/careers/2a2a29fa-3701-4f0d-a262-aeb8bc68e0c3 — Temporal | Senior SWE, Cloud Data Storage | Remote US | 3.5/5
 - https://job-boards.greenhouse.io/scaleai/jobs/4631848005 — Scale AI | MLE, Public Sector | Denver, CO | 3.4/5
+
+## 2026-11-15 — Greenhouse API Quick Check (10 new matches)
+
+> Scout: 36 Greenhouse API endpoints scanned. 4 errors (Parloa, Black Forest Labs, Wayve, Clickhouse — boards 404). 10 net-new matches after dedup against 3,565 existing pipeline job IDs.
+
+### ★★ Top Picks
+
+- https://www.samsara.com/company/careers/roles/8374911?gh_jid=8374911 | Samsara | Senior Manager, Software Engineering - AI Developer Productivity (Dev Agents and SRE AI) | Remote - US | scout:2026-11-15
+- https://databricks.com/company/careers/open-positions/job?gh_jid=8940488002 | Databricks | Engineering Manager - Notebook Dataplane | Mountain View, CA | scout:2026-11-15
+- https://job-boards.greenhouse.io/gleanwork/jobs/4729424005 | Glean | Software Engineer, Agentic Runtime | Mountain View, CA | scout:2026-11-15
+- https://job-boards.greenhouse.io/gleanwork/jobs/4738440005 | Glean | Machine Learning Engineer, Enterprise Brain | Mountain View, CA | scout:2026-11-15
+- https://vercel.com/careers/5283862004?gh_jid=5283862004 | Vercel | Software Engineer, Agent Auth | San Francisco (Hybrid) | scout:2026-11-15
+
+### ★ Other Matches
+
+- https://www.samsara.com/company/careers/roles/8375354?gh_jid=8375354 | Samsara | Senior Manager, Engineering Program Management | San Francisco, CA | scout:2026-11-15
+- https://nuro.ai/careersitem?gh_jid=8175271 | Nuro | Senior/Staff Engineer, ML - Online Mapping | Mountain View, CA | scout:2026-11-15
+- https://www.samsara.com/company/careers/roles/8223641?gh_jid=8223641 | Samsara | Sr Software Engineer I/II, Operational AI | Remote - US | scout:2026-11-15
+- https://www.zipline.com/open-roles/8204030003?gh_jid=8204030003 | Zipline | Senior Full Stack Software Engineer, Data | South San Francisco, CA | scout:2026-11-15
+- https://boards.greenhouse.io/andurilindustries/jobs/5274039007?gh_jid=5274039007 | Anduril | Staff Site Reliability Engineer | Costa Mesa, CA | scout:2026-11-15
