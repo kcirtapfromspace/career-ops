@@ -52948,3 +52948,25 @@ https://nuro.ai/careersitem?gh_jid=6810051	2026-11-14
 2026-11-15	Rocket Lab	https://job-boards.greenhouse.io/rocketlab/jobs/7862983003	Software Engineer - Neutron Flight Safety Systems	Auckland, NZ	greenhouse_api	scout-quickcheck-2026-11-15	skip:location-unclear:Auckland, NZ
 2026-11-15	Vast	https://boards.greenhouse.io/vast/jobs/4723452006?gh_jid=4723452006	Senior Flight Software Engineer	Long Beach, California, United States	greenhouse_api	scout-quickcheck-2026-11-15	match
 2026-11-15	Vast	https://boards.greenhouse.io/vast/jobs/4724967006?gh_jid=4724967006	Senior Infrastructure Engineer	Long Beach, California, United States	greenhouse_api	scout-quickcheck-2026-11-15	match
+2026-11-16	Fivetran	https://www.fivetran.com/careers/job?gh_jid=8013525003	Senior Engineering Manager, dbt Engine	Denver, Colorado, United States	greenhouse_api	scout-2026-11-16	dup:pipeline
+2026-11-16	Fivetran	https://www.fivetran.com/careers/job?gh_jid=7823195003	Engineering Manager, Metadata	Denver, Colorado, United States	greenhouse_api	scout-2026-11-16	dup:pipeline
+2026-11-16	Planet Labs	https://job-boards.greenhouse.io/planetlabs/jobs/8249630	Director of Software Engineering, Analytics	Denver, CO; Arlington, VA	greenhouse_api	scout-2026-11-16	dup:pipeline
+2026-11-16	Planet Labs	https://job-boards.greenhouse.io/planetlabs/jobs/8106198	Senior Site Reliability Engineer	United States, Remote	greenhouse_api	scout-2026-11-16	dup:pipeline
+2026-11-16	Planet Labs	https://job-boards.greenhouse.io/planetlabs/jobs/8154780	Senior Software Engineer, Storage Infrastructure	United States, Remote	greenhouse_api	scout-2026-11-16	dup:pipeline
+2026-11-16	Chainguard	https://job-boards.greenhouse.io/chainguard/jobs/4718566006	Engineering Manager, AI CICD	United States - Remote	greenhouse_api	scout-2026-11-16	dup:pipeline
+2026-11-16	Chainguard	https://job-boards.greenhouse.io/chainguard/jobs/4688854006	Staff Software Engineer, Containers	United States - Remote	greenhouse_api	scout-2026-11-16	dup:pipeline
+2026-11-16	Chainguard	https://job-boards.greenhouse.io/chainguard/jobs/4722145006	Principal Software Engineer, Containers	United States - Remote	greenhouse_api	scout-2026-11-16	dup:pipeline
+2026-11-16	Chainguard	https://job-boards.greenhouse.io/chainguard/jobs/4727461006	Staff Software Engineer, Chainguard Harness	United States - Remote	greenhouse_api	scout-2026-11-16	dup:pipeline
+2026-11-16	Chainguard	https://job-boards.greenhouse.io/chainguard/jobs/4675043006	Senior Software Engineer, Containers	United States - Remote	greenhouse_api	scout-2026-11-16	dup:pipeline
+2026-11-16	Chainguard	https://job-boards.greenhouse.io/chainguard/jobs/4720009006	Staff Software Engineer, Customer Platform	United States - Remote	greenhouse_api	scout-2026-11-16	dup:pipeline
+2026-11-16	Chainguard	https://job-boards.greenhouse.io/chainguard/jobs/4725945006	Senior Software Engineer, Containers	United States, Canada, UK, Germany - Remote	greenhouse_api	scout-2026-11-16	dup:pipeline
+2026-11-16	Chainguard	https://job-boards.greenhouse.io/chainguard/jobs/4697216006	Senior Software Engineer, Customer Platform	United States - Remote	greenhouse_api	scout-2026-11-16	dup:pipeline
+2026-11-16	Scale AI	https://job-boards.greenhouse.io/scaleai/jobs/4732798005	Senior Machine Learning Engineer, Public Sector	Denver, CO	greenhouse_api	scout-2026-11-16	dup:pipeline
+2026-11-16	Scale AI	https://job-boards.greenhouse.io/scaleai/jobs/4631848005	Machine Learning Engineer, Public Sector	Denver, CO	greenhouse_api	scout-2026-11-16	dup:pipeline
+2026-11-16	Arize AI	https://job-boards.greenhouse.io/arizeai/jobs/6203635004	DevOps Engineer	Remote US	greenhouse_api	scout-2026-11-16	dup:pipeline
+2026-11-16	Glean	https://job-boards.greenhouse.io/gleanwork/jobs/4742957005	Tech Lead Manager, AI Evaluations	Mountain View, CA	greenhouse_api	scout-2026-11-16	dup:pipeline
+2026-11-16	ClickHouse	https://boards.greenhouse.io/clickhouse	(board 404)	N/A	greenhouse_api	scout-2026-11-16	error:404
+2026-11-16	Confluent	https://boards.greenhouse.io/confluent	(board 404)	N/A	greenhouse_api	scout-2026-11-16	error:404
+2026-11-16	Isomorphic Labs	https://boards.greenhouse.io/isomorphiclabs	(board 404)	N/A	greenhouse_api	scout-2026-11-16	error:404
+2026-11-16	Dagster Labs	https://boards.greenhouse.io/dagsterlabs	(empty board)	N/A	greenhouse_api	scout-2026-11-16	no_roles
+2026-11-16	Anyscale	https://jobs.ashbyhq.com/anyscale	(empty board)	N/A	ashby_api	scout-2026-11-16	no_roles
