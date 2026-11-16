@@ -14788,3 +14788,34 @@ https://job-boards.greenhouse.io/life360/jobs/8895033002
 - https://www.zipline.com/open-roles/8204030003?gh_jid=8204030003  <!-- Zipline: Senior Full Stack Software Engineer, Data (South San Francisco, California, USA) discovered 2026-11-16 -->
 - https://www.zipline.com/open-roles/8111582003?gh_jid=8111582003  <!-- Zipline: Senior/Staff Cloud Infrastructure Engineer (South San Francisco, California, USA) discovered 2026-11-16 -->
 - https://www.zipline.com/open-roles/8040735003?gh_jid=8040735003  <!-- Zipline: Software Engineer, Production Test (South San Francisco, California, USA) discovered 2026-11-16 -->
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5469291008 <!-- company: Anthropic, title: Engineering Manager, Billing Platform, location: San Francisco, CA | New York City, NY | Seattle, WA -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5477652008 <!-- company: Anthropic, title: Staff+ Software Engineer, Consumer, location: San Francisco, CA -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5481096008 <!-- company: Anthropic, title: Staff Software Engineer, Internal Products, location: Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5478876008 <!-- company: Anthropic, title: Staff Software Engineer, Support Technology, location: San Francisco, CA | New York City, NY | Seattle, WA -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5296197007?gh_jid=5296197007 <!-- company: Anduril, title: Mission Software Engineer, location: Waltham, Massachusetts, United States -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5295246007?gh_jid=5295246007 <!-- company: Anduril, title: Platform Engineer, location: Costa Mesa, California, United States -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5295936007?gh_jid=5295936007 <!-- company: Anduril, title: Platform Engineer, location: Washington, District of Columbia, United States -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5294365007?gh_jid=5294365007 <!-- company: Anduril, title: Realtime Software Engineer, location: Waltham, Massachusetts, United States -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5296200007?gh_jid=5296200007 <!-- company: Anduril, title: Senior Mission Software Engineer, location: Waltham, Massachusetts, United States -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5204136007?gh_jid=5204136007 <!-- company: Anduril, title: Senior Software Engineer, World Model , location: Seattle, Washington, United States -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5294371007?gh_jid=5294371007 <!-- company: Anduril, title: Site Reliability Engineer, location: Waltham, Massachusetts, United States -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5293883007?gh_jid=5293883007 <!-- company: Anduril, title: Software Engineer, AI, location: Costa Mesa, California, United States -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5294106007?gh_jid=5294106007 <!-- company: Anduril, title: Staff Guidance Navigation and Control Software Engineer (GNC), location: Costa Mesa, California, United States; Santa Ana, California, United States -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5294987007?gh_jid=5294987007 <!-- company: Anduril, title: Staff Software Engineer, Vehicle Management Systems, location: Boston, Massachusetts, United States -->
+- [ ] https://job-boards.eu.greenhouse.io/polyai/jobs/5036991101 <!-- company: PolyAI, title: Senior Software Engineer - Runtime Team , location: London, United Kingdom -->
+- [ ] https://careers.hellofresh.com/global/en/job/8265299?gh_jid=8265299 <!-- company: HelloFresh, title: Staff Machine Learning Engineer, AdTech, location: Toronto, Ontario, Canada -->
+- [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/5035958101 <!-- company: PhysicsX, title: AI Engineer: Evals, location: London -->
+- [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/5029174101 <!-- company: PhysicsX, title: AI Engineer: Post-Training , location: London -->
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4751159005 <!-- company: Scale AI, title: Principal Software Engineer, GPS, location: London, UK -->
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4751081005 <!-- company: Scale AI, title: Senior Applied AI Engineer, location: London, UK -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8937807002 <!-- company: Databricks, title: Engineering Manager - Developer Ecosystem, location: Amsterdam, Netherlands -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8940488002 <!-- company: Databricks, title: Engineering Manager - Notebook Dataplane, location: Mountain View, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8910850002 <!-- company: Databricks, title: Forward Deployed Engineering Manager, location: London, United Kingdom -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8940907002 <!-- company: Databricks, title: Sr. Engineering Manager - Developer Ecosystem, location: Amsterdam, Netherlands -->
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/8203914003 <!-- company: Rocket Lab, title: Flight Software Engineer II, location: Long Beach, CA -->
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7984938003 <!-- company: Rocket Lab, title: Ground Software Engineer II, location: Littleton, CO -->
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/8203994003 <!-- company: Rocket Lab, title: Principal Network Software Engineer - TS/SCI, location: Long Beach, CA -->
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/8203995003 <!-- company: Rocket Lab, title: Senior Network Software Engineer II - Secret Clearance, location: Long Beach, CA -->
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/8204000003 <!-- company: Rocket Lab, title: Senior Network Software Engineer I - Secret Clearance, location: Long Beach, CA -->
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/8337813 <!-- company: Planet Labs, title: Software Engineer, location: Berlin, Germany -->
