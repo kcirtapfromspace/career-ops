@@ -23,6 +23,22 @@
 <!-- Scout: 2026-10-28 quickcheck — 1 new match (42 companies: Greenhouse API only). Anthropic Staff+ SWE Deployment (Remote-Friendly/SF/Seattle). API errors: Temporal, RunPod, Black Forest Labs, Wayve, Aurora, Clickhouse (404). -->
 
 
+<!-- Scout: 2026-11-17 full scan — 7 new items (42 companies: 36 Greenhouse API + 6 WebSearch). 3 genuinely new Greenhouse postings + 2 new W&B Lever + 2 previously seen but missing from pipeline (Fivetran GRC, Anthropic Principal Privacy). Top pick: Databricks FDE Public Sector (Remote-CO, 4.5/5) — federal background direct fit. API errors: Wayve/Black Forest Labs/Parloa (404). -->
+
+## 2026-11-17 — Scout Scan (7 new items)
+
+### ★ Top Pick
+
+- [ ] 2026-11-17 | **Databricks** | Sr. Forward Deployed Engineer - Public Sector | Remote - Colorado | Score: 4.5 | https://databricks.com/company/careers/open-positions/job?gh_jid=8823788002
+
+### Other Matches
+
+- [ ] 2026-11-17 | **W&B** | Staff Software Engineer, Metrics and Storage | Remote (US) | Score: 3.9 | https://jobs.lever.co/wandb/45344439-2955-45e4-9125-2663736ccd6d
+- [ ] 2026-11-17 | **Fivetran** | GRC Staff Engineer | Denver, CO | Score: 3.9 | https://www.fivetran.com/careers/job?gh_jid=8201086003
+- [ ] 2026-11-17 | **Anthropic** | Principal Engineer, Privacy | Remote-Friendly | Score: 3.7 | https://job-boards.greenhouse.io/anthropic/jobs/5477753008
+- [ ] 2026-11-17 | **W&B** | Senior Data Platform Engineer | Remote (US) | Score: 3.6 | https://jobs.lever.co/wandb/206a14c5-2c4d-4f28-80fa-dc30fc8dcf3a
+- [ ] 2026-11-17 | **Anthropic** | Software Engineer, Datacenter Server Lifecycle | Remote-Friendly US | Score: 3.4 | https://job-boards.greenhouse.io/anthropic/jobs/5484171008
+
 ## 2026-11-14 — Scout Quickcheck
 
 - https://www.samsara.com/company/careers/roles/8374911 <!-- Samsara: Senior Manager, Software Engineering - AI Developer Productivity (Dev Agents and SRE AI) | Remote US -->
