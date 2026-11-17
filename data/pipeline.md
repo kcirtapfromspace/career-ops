@@ -14836,3 +14836,36 @@ https://job-boards.greenhouse.io/life360/jobs/8895033002
 - [ ] https://job-boards.greenhouse.io/rocketlab/jobs/8203995003 <!-- company: Rocket Lab, title: Senior Network Software Engineer II - Secret Clearance, location: Long Beach, CA -->
 - [ ] https://job-boards.greenhouse.io/rocketlab/jobs/8204000003 <!-- company: Rocket Lab, title: Senior Network Software Engineer I - Secret Clearance, location: Long Beach, CA -->
 - [ ] https://job-boards.greenhouse.io/planetlabs/jobs/8337813 <!-- company: Planet Labs, title: Software Engineer, location: Berlin, Germany -->
+
+## Scout Quickcheck — 2026-11-17
+
+- https://job-boards.greenhouse.io/anthropic/jobs/5394611008 | Anthropic — Engineering Manager, Agent Security Partnerships | San Francisco, CA | Seattle, WA
+- https://job-boards.greenhouse.io/anthropic/jobs/5394403008 | Anthropic — Engineering Manager, Integrity and Attestation | San Francisco, CA | Seattle, WA
+- https://job-boards.greenhouse.io/anthropic/jobs/5462966008 | Anthropic — Security Data Engineer | Remote-Friendly | San Francisco, CA
+- https://job-boards.greenhouse.io/anthropic/jobs/5174755008 | Anthropic — Staff+ Software Engineer, Backend | San Francisco, CA | New York City, NY
+- https://job-boards.greenhouse.io/anthropic/jobs/5477746008 | Anthropic — Staff+ Software Engineer, Claude Design | San Francisco, CA | New York City, NY
+- https://job-boards.greenhouse.io/anthropic/jobs/5466480008 | Anthropic — Staff+ Software Engineer, Deployment | Remote-Friendly | San Francisco, CA | Seattle, WA
+- https://job-boards.greenhouse.io/anthropic/jobs/5173120008 | Anthropic — Staff+ Software Engineer, Enterprise Connectivity | San Francisco, CA | New York City, NY
+- https://job-boards.greenhouse.io/anthropic/jobs/5472201008 | Anthropic — Staff+ Software Engineer, Platform Intelligence | San Francisco, CA | New York City, NY
+- https://job-boards.greenhouse.io/anthropic/jobs/5477379008 | Anthropic — Staff+ Software Engineer, Safeguards Evals | San Francisco, CA | Seattle, WA
+- https://job-boards.greenhouse.io/anthropic/jobs/5468901008 | Anthropic — Staff+ Software Engineer, STEM | San Francisco, CA | Seattle, WA
+- https://boards.greenhouse.io/andurilindustries/jobs/5287546007?gh_jid=5287546007 | Anduril — Senior Manager, Software Engineering (Geospatial Platform) | Seattle, WA
+- https://boards.greenhouse.io/andurilindustries/jobs/5282289007?gh_jid=5282289007 | Anduril — Senior Software Engineer, Release | Seattle, WA
+- https://boards.greenhouse.io/andurilindustries/jobs/5283151007?gh_jid=5283151007 | Anduril — Staff Software Engineer, Release | Seattle, WA
+- https://job-boards.greenhouse.io/trueanomalyinc/jobs/5283892007 | True Anomaly — Platform Engineer, IT | Denver, CO
+- https://job-boards.greenhouse.io/trueanomalyinc/jobs/5279880007 | True Anomaly — Principal Software Engineer, Spacecraft Simulation | Denver, CO
+- https://job-boards.greenhouse.io/vercel/jobs/6242246004 | Vercel — Software Engineer, Agent Auth | Hybrid - San Francisco
+- https://job-boards.greenhouse.io/vercel/jobs/6195153004 | Vercel — Software Engineer, Backend | Hybrid - San Francisco / New York City
+- https://job-boards.greenhouse.io/vercel/jobs/6240736004 | Vercel — Software Engineer, Compute | Hybrid - San Francisco
+- https://job-boards.greenhouse.io/vercel/jobs/6242244004 | Vercel — Software Engineer, Connect | Hybrid - San Francisco
+- https://job-boards.greenhouse.io/celonis/jobs/8190822003?gh_jid=8190822003 | Celonis — Software Engineer | Remote, US
+- https://job-boards.greenhouse.io/celonis/jobs/8190831003?gh_jid=8190831003 | Celonis — Software Engineer - Infrastructure | Remote, US
+- http://stability.ai/careers?gh_jid=5018185101 | Stability AI — Staff Software Engineer, Data | Remote
+- https://job-boards.greenhouse.io/chainguard/jobs/4725945006 | Chainguard — Senior Software Engineer, Containers | United States - Remote
+- https://job-boards.greenhouse.io/chainguard/jobs/4727461006 | Chainguard — Staff Software Engineer, Chainguard Harness | United States - Remote
+- https://job-boards.greenhouse.io/scaleai/jobs/4714509005 | Scale AI — Senior Software Engineer, Agent Oversight | San Francisco, CA
+- https://job-boards.greenhouse.io/scaleai/jobs/4750028005 | Scale AI — Staff Software Engineer, AI Developer Tooling | San Francisco, CA
+- https://job-boards.greenhouse.io/scaleai/jobs/4649903005 | Scale AI — Staff Software Engineer, Data Platform | San Francisco, CA
+- https://databricks.com/company/careers/open-positions/job?gh_jid=8367021002 | Databricks — Staff Backend Software Engineer (AI Platform) | San Francisco, CA
+- https://job-boards.greenhouse.io/planetlabs/jobs/8291896 | Planet Labs — Senior Flight Software Engineer | San Francisco, CA
+- https://job-boards.greenhouse.io/planetlabs/jobs/8302899 | Planet Labs — Site Reliability Engineer | San Francisco, CA
