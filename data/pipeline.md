@@ -14870,3 +14870,23 @@ https://job-boards.greenhouse.io/life360/jobs/8895033002
 - https://databricks.com/company/careers/open-positions/job?gh_jid=8367021002 | Databricks — Staff Backend Software Engineer (AI Platform) | San Francisco, CA
 - https://job-boards.greenhouse.io/planetlabs/jobs/8291896 | Planet Labs — Senior Flight Software Engineer | San Francisco, CA
 - https://job-boards.greenhouse.io/planetlabs/jobs/8302899 | Planet Labs — Site Reliability Engineer | San Francisco, CA
+
+- https://job-boards.greenhouse.io/anthropic/jobs/5471361008 | Anthropic — Applied AI Architect, Beneficial Deployments (Global & Public Health) | San Francisco, CA | New York City, NY
+- https://job-boards.greenhouse.io/anthropic/jobs/5484035008 | Anthropic — Applied AI Architect, Beneficial Deployments (Non-Profits) | San Francisco, CA | New York City, NY
+- https://job-boards.greenhouse.io/anthropic/jobs/5473198008 | Anthropic — Applied AI Architect, Democratic Partnerships | San Francisco, CA | New York City, NY
+- https://job-boards.greenhouse.io/anthropic/jobs/5455618008 | Anthropic — Applied AI Architect, Public Sector (State & Local Government) | San Francisco, CA
+- https://job-boards.greenhouse.io/anthropic/jobs/5483945008 | Anthropic — Applied AI Engineer, Commercial | San Francisco, CA
+- https://boards.greenhouse.io/andurilindustries/jobs/5282155007?gh_jid=5282155007 | Anduril — Infrastructure Engineer, Space | Costa Mesa, California
+- https://databricks.com/company/careers/open-positions/job?gh_jid=8933544002 | Databricks — Applied AI Architect | United States (Remote)
+- https://job-boards.greenhouse.io/nuro/jobs/8384407 | Nuro — Principal Software Engineer, Performance | Mountain View, CA
+- https://job-boards.greenhouse.io/nuro/jobs/7896050 | Nuro — Senior Software Engineer, Distributed Compute System | Mountain View, CA
+- https://job-boards.greenhouse.io/nuro/jobs/8324974 | Nuro — Senior Software Engineer, Map Platform | Mountain View, CA
+- https://job-boards.greenhouse.io/nuro/jobs/8357721 | Nuro — Senior Software Engineer, Nuro Driver Core Software | Mountain View, CA
+- https://job-boards.greenhouse.io/nuro/jobs/8386877 | Nuro — Senior Software Engineer, Performance | Mountain View, CA
+- https://job-boards.greenhouse.io/nuro/jobs/6523341 | Nuro — Staff Software Engineer, Performance | Mountain View, CA
+- https://job-boards.greenhouse.io/nuro/jobs/7280336 | Nuro — Staff Software Engineer, Routing | Mountain View, CA
+- https://job-boards.greenhouse.io/nuro/jobs/8376286 | Nuro — Technical Lead Software Engineer, Routing | Mountain View, CA
+- https://job-boards.greenhouse.io/rocketlab/jobs/8205573003 | Rocket Lab — Senior DevOps Engineer I | Littleton, CO (Denver metro)
+- https://job-boards.greenhouse.io/rocketlab/jobs/8204599003 | Rocket Lab — Software Engineer II | Pasadena, CA
+- https://job-boards.greenhouse.io/vast/jobs/4723452006 | Vast — Senior Flight Software Engineer | Long Beach, CA
+- https://job-boards.greenhouse.io/vast/jobs/4724967006 | Vast — Senior Infrastructure Engineer | Long Beach, CA
