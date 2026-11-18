@@ -14890,3 +14890,6 @@ https://job-boards.greenhouse.io/life360/jobs/8895033002
 - https://job-boards.greenhouse.io/rocketlab/jobs/8204599003 | Rocket Lab — Software Engineer II | Pasadena, CA
 - https://job-boards.greenhouse.io/vast/jobs/4723452006 | Vast — Senior Flight Software Engineer | Long Beach, CA
 - https://job-boards.greenhouse.io/vast/jobs/4724967006 | Vast — Senior Infrastructure Engineer | Long Beach, CA
+
+- https://job-boards.greenhouse.io/trueanomalyinc/jobs/5300915007 | True Anomaly — Electrical Engineering Manager, eGSE (Denver, CO) | discovered: 2026-11-18
+- https://databricks.com/company/careers/open-positions/job?gh_jid=8950673002 | Databricks — Staff Software Engineer - Threat and Abuse Defense (Mountain View, California) | discovered: 2026-11-18
