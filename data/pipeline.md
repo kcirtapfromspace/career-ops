@@ -14894,3 +14894,17 @@ https://job-boards.greenhouse.io/life360/jobs/8895033002
 
 - https://job-boards.greenhouse.io/trueanomalyinc/jobs/5300915007 | True Anomaly — Electrical Engineering Manager, eGSE (Denver, CO) | discovered: 2026-11-18
 - https://databricks.com/company/careers/open-positions/job?gh_jid=8950673002 | Databricks — Staff Software Engineer - Threat and Abuse Defense (Mountain View, California) | discovered: 2026-11-18
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5483945008 <!-- Anthropic: Applied AI Engineer, Commercial (San Francisco, CA) | found 2026-11-19 -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5484171008 <!-- Anthropic: Software Engineer, Datacenter Server Lifecycle (Remote-Friendly, United States) | found 2026-11-19 -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5477746008 <!-- Anthropic: Staff+ Software Engineer, Claude Design (San Francisco, CA | New York City, NY) | found 2026-11-19 -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5472201008 <!-- Anthropic: Staff+ Software Engineer, Platform Intelligence (San Francisco, CA | New York City, NY) | found 2026-11-19 -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5477379008 <!-- Anthropic: Staff+ Software Engineer, Safeguards Evals  (New York City, NY; San Francisco, CA; Seattle, WA) | found 2026-11-19 -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5468901008 <!-- Anthropic: Staff+ Software Engineer, STEM (San Francisco, CA | New York City, NY | Seattle, WA) | found 2026-11-19 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5204136007?gh_jid=5204136007 <!-- Anduril: Senior Software Engineer, World Model  (Seattle, Washington, United States) | found 2026-11-19 -->
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5300915007 <!-- True Anomaly: Electrical Engineering Manager, eGSE (Denver, CO) | found 2026-11-19 -->
+- [ ] https://job-boards.eu.greenhouse.io/stabilityai/jobs/5018185101 <!-- Stability AI: Staff Software Engineer, Data  (Remote) | found 2026-11-19 -->
+- [ ] https://www.fivetran.com/careers/job?gh_jid=8034257003 <!-- Fivetran: Staff Software Engineer (Remote, New York, United States, AMER) | found 2026-11-19 -->
+- [ ] https://www.samsara.com/company/careers/roles/8364980?gh_jid=8364980 <!-- Samsara: Senior Software Engineer I (Remote - Toronto) | found 2026-11-19 -->
+- [ ] https://www.zipline.com/open-roles/7810385003?gh_jid=7810385003 <!-- Zipline: Powertrain Test Engineering Manager (South San Francisco, California, USA) | found 2026-11-19 -->
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4750028005 <!-- Scale AI: Staff Software Engineer, AI Developer Tooling (San Francisco, CA; New York, NY) | found 2026-11-19 -->
