@@ -14908,3 +14908,6 @@ https://job-boards.greenhouse.io/life360/jobs/8895033002
 - [ ] https://www.samsara.com/company/careers/roles/8364980?gh_jid=8364980 <!-- Samsara: Senior Software Engineer I (Remote - Toronto) | found 2026-11-19 -->
 - [ ] https://www.zipline.com/open-roles/7810385003?gh_jid=7810385003 <!-- Zipline: Powertrain Test Engineering Manager (South San Francisco, California, USA) | found 2026-11-19 -->
 - [ ] https://job-boards.greenhouse.io/scaleai/jobs/4750028005 <!-- Scale AI: Staff Software Engineer, AI Developer Tooling (San Francisco, CA; New York, NY) | found 2026-11-19 -->
+- https://job-boards.greenhouse.io/anthropic/jobs/5486907008 <!-- Anthropic: Community Engagement Manager, Data Centres (Canada) @ Alberta, CAN | Remote-Friendly, Canada | quickcheck 2026-11-19 -->
+- https://job-boards.greenhouse.io/vercel/jobs/6150691004 <!-- Vercel: Software Engineer, Runtimes  @ Hybrid - San Francisco | quickcheck 2026-11-19 -->
+- https://www.zipline.com/open-roles/8207431003?gh_jid=8207431003 <!-- Zipline: Technical Program Manager, Engineering, Long Range Platform  @ South San Francisco, California, USA | quickcheck 2026-11-19 -->
