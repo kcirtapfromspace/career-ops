@@ -1,4 +1,5 @@
 # Pipeline — Pending Offers
+<!-- Scout: 2026-11-20 automated — 2 new matches (15+ companies: Anthropic/Databricks/Samsara/Fivetran/Anduril/Chainguard/Scale AI/Dagster/Rocket Lab/True Anomaly Greenhouse API + Temporal direct + Confluent/Snowflake/Netflix/W&B WebSearch). Both from Temporal. Market quiet 4th consecutive day. Dagster empty board. Confluent Ashby empty. Anthropic EM Privacy Infra (5490122008) new but SF/NYC-only 3.3/5 filtered. See reports/scout-2026-11-20.md. -->
 <!-- Scout: 2026-11-19 automated — 0 new matches (20+ companies: Anthropic/Databricks/Scale AI/Fivetran/Chainguard/Anduril/Rocket Lab/Dagster Greenhouse API + Netflix/Temporal/Aurora/Confluent/Zapier/Prefect/Wellfound WebSearch). Market quiet 3rd consecutive day. All candidate matches confirmed previously discovered. Scale AI Denver ML Eng (4654382005) in history since Sep 10. Fivetran EM Denver (7823195003) in history since Aug 11. Dagster board still empty. Rocket Lab Ground SWE II Littleton (7984938003) possibly new — low seniority 3.5/5. Action needed: True Anomaly 3x Denver + Temporal Staff SWE + WandB 2x + Databricks Applied AI Architect. See reports/scout-2026-11-19.md. -->
 <!-- Scout: 2026-11-18 automated — 0 new matches (8 companies Greenhouse API + Temporal/Aurora/Confluent WebSearch). All relevant roles already in history from prior scans. Dagster: empty board (possible ATS migration). Fivetran: individual job pages 404 (possible stale API). ⚠️ Prompt injection detected in Chainguard EM AI CICD JD — flagged. Pipeline healthy — action needed on True Anomaly 3x Denver roles (Sep 15) + Temporal 3x Staff SWE (Nov 15) + WandB 2x (Nov 17). See reports/scout-2026-11-18.md. -->
 <!-- Scout: 2026-11-17 quickcheck — 0 new matches (40 companies: Greenhouse API only). 5678 total jobs fetched. All 8 candidate matches already in history from prior scans (Anthropic EM Billing 5469291008, Staff+ SWE Consumer 5477652008, Staff SWE Support 5478876008, SWE Datacenter 5484171008, Samsara Canada roles). Dead boards: Anduril (timeout), Parloa/Black Forest Labs/Wayve/ClickHouse (404). Pipeline healthy — action needed on Nov 17 items (7 new from full scan earlier today). -->
@@ -25,6 +26,13 @@
 <!-- Scout: 2026-10-29 quickcheck — 2 new matches (40 companies: Greenhouse API only). Anthropic Staff+ SWE Enterprise Connectivity (SF/NYC), Scale AI Senior Cloud Infra Engineer (SF/NYC). API errors: Black Forest Labs, Wayve, Clickhouse (404 — dead boards). -->
 <!-- Scout: 2026-10-28 quickcheck — 1 new match (42 companies: Greenhouse API only). Anthropic Staff+ SWE Deployment (Remote-Friendly/SF/Seattle). API errors: Temporal, RunPod, Black Forest Labs, Wayve, Aurora, Clickhouse (404). -->
 
+
+## 2026-11-20 — Scout Scan (2 new matches)
+
+### ★ Top Picks
+
+- [ ] 2026-11-20 | **Temporal** | Senior Software Engineer, Reliability | Remote (US) | Score: 4.1 | https://temporal.io/careers/af8d1e25-14b1-476d-a079-0d72cc5fdcd8
+- [ ] 2026-11-20 | **Temporal** | Senior Software Engineer, IAM (Identity) | Seattle/Remote (US) | Score: 4.0 | https://temporal.io/careers/a339af3a-0911-4f3e-b6ef-f5d362fc821a
 
 <!-- Scout: 2026-11-17 full scan — 7 new items (42 companies: 36 Greenhouse API + 6 WebSearch). 3 genuinely new Greenhouse postings + 2 new W&B Lever + 2 previously seen but missing from pipeline (Fivetran GRC, Anthropic Principal Privacy). Top pick: Databricks FDE Public Sector (Remote-CO, 4.5/5) — federal background direct fit. API errors: Wayve/Black Forest Labs/Parloa (404). -->
 
