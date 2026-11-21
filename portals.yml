@@ -305,8 +305,8 @@ tracked_companies:
   - name: Parloa
     careers_url: https://job-boards.eu.greenhouse.io/parloa
     api: https://boards-api.greenhouse.io/v1/boards/parloa/jobs
-    notes: "Berlin EMEA. Voice AI enterprise."
-    enabled: true
+    notes: "Berlin EMEA. Voice AI enterprise. Greenhouse API 404 as of 2026-11-21."
+    enabled: false
 
   - name: Intercom
     careers_url: https://job-boards.greenhouse.io/intercom
@@ -616,8 +616,8 @@ tracked_companies:
   - name: Black Forest Labs
     careers_url: https://job-boards.greenhouse.io/blackforestlabs
     api: https://boards-api.greenhouse.io/v1/boards/blackforestlabs/jobs
-    notes: "Freiburg DE / SF. FLUX image models, ex-Stable Diffusion team."
-    enabled: true
+    notes: "Freiburg DE / SF. FLUX image models, ex-Stable Diffusion team. Greenhouse API 404 as of 2026-11-21."
+    enabled: false
 
   - name: Helsing
     careers_url: https://job-boards.greenhouse.io/helsing
@@ -731,8 +731,8 @@ tracked_companies:
   - name: Wayve
     careers_url: https://job-boards.greenhouse.io/wayve
     api: https://boards-api.greenhouse.io/v1/boards/wayve/jobs
-    notes: "London UK. Embodied AI for self-driving, ML & robotics roles."
-    enabled: true
+    notes: "London UK. Embodied AI for self-driving, ML & robotics roles. Greenhouse API 404 as of 2026-11-21 — may have migrated ATS."
+    enabled: false
 
   - name: Isomorphic Labs
     careers_url: https://job-boards.greenhouse.io/isomorphiclabs
@@ -1066,8 +1066,8 @@ tracked_companies:
   - name: Clickhouse
     careers_url: https://job-boards.greenhouse.io/clickhouse
     api: https://boards-api.greenhouse.io/v1/boards/clickhouse/jobs
-    notes: "Remote. Open-source OLAP database. Fast-growing."
-    enabled: true
+    notes: "Remote. Open-source OLAP database. Fast-growing. Greenhouse API 404 as of 2026-11-21 — may have migrated ATS."
+    enabled: false
 
   - name: Tecton
     careers_url: https://job-boards.greenhouse.io/tecloton

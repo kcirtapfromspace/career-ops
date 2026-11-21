@@ -14983,3 +14983,33 @@ https://job-boards.greenhouse.io/life360/jobs/8895033002
 - [ ] https://job-boards.greenhouse.io/scaleai/jobs/4714509005 <!-- Scale AI: Senior Software Engineer, Agent Oversight (San Francisco, CA; New York, NY) | quickcheck 2026-11-20 -->
 - [ ] https://www.zipline.com/open-roles/7810385003?gh_jid=7810385003 <!-- Zipline: Powertrain Test Engineering Manager (South San Francisco, California, USA) | quickcheck 2026-11-20 -->
 - [ ] https://www.zipline.com/open-roles/8204030003?gh_jid=8204030003 <!-- Zipline: Senior Full Stack Software Engineer, Data (South San Francisco, California, USA) | quickcheck 2026-11-20 -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5490122008 <!-- Anthropic: Engineering Manager, Privacy Infrastructure (San Francisco, CA | New York City, NY) | quickcheck 2026-11-21 -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5490979008 <!-- Anthropic: Staff+ Software Engineer, Capacity Engineering (San Francisco, CA | New York City, NY | Seattle, WA) | quickcheck 2026-11-21 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5145121007?gh_jid=5145121007 <!-- Anduril: Chief Software Engineer, Space Ground Systems  (Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Washington, District of Columbia, United States) | quickcheck 2026-11-21 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5283460007?gh_jid=5283460007 <!-- Anduril: Forward Deployed Software Engineer, Connected Warfare (Active Clearance) (Colorado Springs, Colorado, United States) | quickcheck 2026-11-21 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5275462007?gh_jid=5275462007 <!-- Anduril: Scientific Software Engineer (Broomfield, Colorado, United States; Fort Collins, Colorado, United States) | quickcheck 2026-11-21 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5281210007?gh_jid=5281210007 <!-- Anduril: Senior Software Engineer, Battlespace Awareness  (Broomfield, Colorado, United States) | quickcheck 2026-11-21 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5281212007?gh_jid=5281212007 <!-- Anduril: Senior Software Engineer, Rust  (Broomfield, Colorado, United States) | quickcheck 2026-11-21 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5281214007?gh_jid=5281214007 <!-- Anduril: Software Engineer, Battlespace Awareness  (Broomfield, Colorado, United States) | quickcheck 2026-11-21 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5275463007?gh_jid=5275463007 <!-- Anduril: Software Engineer, C++ (Broomfield, Colorado, United States; Fort Collins, Colorado, United States) | quickcheck 2026-11-21 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5281224007?gh_jid=5281224007 <!-- Anduril: Software Engineer- Infrastructure  (Broomfield, Colorado, United States) | quickcheck 2026-11-21 -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5281216007?gh_jid=5281216007 <!-- Anduril: Software Engineer, Rust  (Broomfield, Colorado, United States) | quickcheck 2026-11-21 -->
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5138859007 <!-- True Anomaly: Senior Machine Learning Engineer (Denver, CO; Long Beach, CA; Washington, DC) | quickcheck 2026-11-21 -->
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6150691004 <!-- Vercel: Software Engineer, Runtimes  (Hybrid - San Francisco) | quickcheck 2026-11-21 -->
+- [ ] https://job-boards.eu.greenhouse.io/stabilityai/jobs/5018185101 <!-- Stability AI: Staff Software Engineer, Data  (Remote) | quickcheck 2026-11-21 -->
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/8204047003 <!-- Rocket Lab: Principal Flight Software Engineer   (Littleton, CO) | quickcheck 2026-11-21 -->
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/8084557003 <!-- Rocket Lab: Senior Flight Software Engineer I  (Littleton, CO) | quickcheck 2026-11-21 -->
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/8204049003 <!-- Rocket Lab: Senior Flight Software Engineer II (Littleton, CO) | quickcheck 2026-11-21 -->
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/8200818003 <!-- Rocket Lab: Senior Ground Software Engineer I  (Littleton, CO) | quickcheck 2026-11-21 -->
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/7994294003 <!-- Rocket Lab: Senior Network Software Engineer II -Secret Clearance (Littleton, CO) | quickcheck 2026-11-21 -->
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/8202563003 <!-- Rocket Lab: Senior Software Engineer I - Digital Engineering (Littleton, CO) | quickcheck 2026-11-21 -->
+- [ ] https://job-boards.greenhouse.io/rocketlab/jobs/8202565003 <!-- Rocket Lab: Senior Software Engineer II - Digital Engineering (Littleton, CO) | quickcheck 2026-11-21 -->
+- [ ] https://nuro.ai/careersitem?gh_jid=8384407 <!-- Nuro: Principal Software Engineer, Performance (Mountain View, California (HQ)) | quickcheck 2026-11-21 -->
+- [ ] https://nuro.ai/careersitem?gh_jid=7896050 <!-- Nuro: Senior Software Engineer, Distributed Compute System (Mountain View, California (HQ)) | quickcheck 2026-11-21 -->
+- [ ] https://nuro.ai/careersitem?gh_jid=8324974 <!-- Nuro: Senior Software Engineer, Map Platform (Mountain View, California (HQ)) | quickcheck 2026-11-21 -->
+- [ ] https://nuro.ai/careersitem?gh_jid=8386877 <!-- Nuro: Senior Software Engineer, Performance (Mountain View, California (HQ)) | quickcheck 2026-11-21 -->
+- [ ] https://nuro.ai/careersitem?gh_jid=6810051 <!-- Nuro: Software Engineer, Performance (Mountain View, California (HQ)) | quickcheck 2026-11-21 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8931033002 <!-- Databricks: Senior Software Engineer - Access Management (Bellevue, Washington) | quickcheck 2026-11-21 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8829039002 <!-- Databricks: Software Engineer, Infrastructure (Mountain View, California) | quickcheck 2026-11-21 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8927749002 <!-- Databricks: Sr. Staff Software Engineer, Agentic Applications (Mountain View, California) | quickcheck 2026-11-21 -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8950673002 <!-- Databricks: Staff Software Engineer - Threat and Abuse Defense (Mountain View, California) | quickcheck 2026-11-21 -->
