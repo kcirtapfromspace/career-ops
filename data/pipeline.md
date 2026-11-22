@@ -1,4 +1,5 @@
 # Pipeline — Pending Offers
+<!-- Scout: 2026-11-22 quickcheck — 2 new pipeline items. 19 companies scanned (Greenhouse API + Ashby + WebSearch). Anthropic Principal Engineer Capacity/Compute (5490974008, SF hybrid 4.0/5) + OpenAI Principal SWE B2B Engineering (Ashby aeff784b, Remote 3.8/5). Dead boards: Dagster/Prefect (empty/merged), Modal (empty). W&B Lever role 404. Glean 4x new Solutions Engr pre-sales filtered. See reports/scout-quickcheck-2026-11-22.md. -->
 <!-- Scout: 2026-11-21 quickcheck — 0 new pipeline items (1 near-miss: True Anomaly FPGA Engineering Manager Denver — hardware role, logged to history). 40 companies via Greenhouse API only. 8291 total jobs fetched. Dead boards: Parloa/Black Forest Labs/Wayve/ClickHouse (404). Market quiet 7th consecutive day. Dedup confirmed all other apparent matches already in history from prior runs. Backlog: Databricks FDE CO (4.5/5) + 3x Temporal Staff SWE (4.1-4.3/5) + Samsara Sr Mgr AI Dev (4.0/5) need review. -->
 <!-- Scout: 2026-11-21 automated — 0 new matches (~22 companies: Anthropic/Databricks/Samsara/Fivetran/Anduril/Scale AI/Chainguard/True Anomaly/Figure AI/Rocket Lab/Zipline/Nuro/Dagster/dbt Labs Greenhouse API + Temporal direct + Netflix/Aurora WebSearch). Netflix: 4 new L5 roles detected (below Staff target, logged to history). Market quiet 6th consecutive day. See reports/scout-2026-11-21.md. Backlog: Databricks FDE CO (4.5/5) + 3x Temporal Staff SWE (4.1-4.3/5) + Samsara Sr Mgr AI Dev (4.0/5) need review. -->
 <!-- Scout: 2026-11-20 quickcheck #2 — 0 new pipeline items (1 near-miss: Anthropic EM Privacy Infrastructure SF/NYC-only 3.3/5 already flagged by full scan, now logged to history). 42 companies scanned, 7 dead boards: Parloa/Temporal-API/RunPod/Black Forest Labs/Wayve/Aurora Innovation/ClickHouse (404). Market quiet 5th consecutive day. -->
@@ -29,6 +30,15 @@
 <!-- Scout: 2026-10-29 quickcheck — 2 new matches (40 companies: Greenhouse API only). Anthropic Staff+ SWE Enterprise Connectivity (SF/NYC), Scale AI Senior Cloud Infra Engineer (SF/NYC). API errors: Black Forest Labs, Wayve, Clickhouse (404 — dead boards). -->
 <!-- Scout: 2026-10-28 quickcheck — 1 new match (42 companies: Greenhouse API only). Anthropic Staff+ SWE Deployment (Remote-Friendly/SF/Seattle). API errors: Temporal, RunPod, Black Forest Labs, Wayve, Aurora, Clickhouse (404). -->
 
+
+## 2026-11-22 — Scout Quickcheck (2 new matches)
+
+### ★ Top Picks
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5490974008 <!-- Anthropic: Principal Engineer, Capacity/Compute (San Francisco, CA) | quickcheck 2026-11-22 | score: 4.0/5 | $320K-$485K base | SF hybrid on-site 3-4x/week -->
+- [ ] https://openai.com/careers/principal-software-engineer-b2b-engineering-us-remote/ <!-- OpenAI: Principal Software Engineer, B2B Engineering (US Remote) | quickcheck 2026-11-22 | score: 3.8/5 | $385K-$490K + equity | Ashby: aeff784b-ea9a-40c9-aa13-6cb0b5e362cc -->
+
+---
 
 ## 2026-11-20 — Scout Scan (2 new matches)
 
