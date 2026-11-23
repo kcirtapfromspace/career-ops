@@ -15027,3 +15027,10 @@ https://job-boards.greenhouse.io/life360/jobs/8895033002
 
 ## 2026-11-23
 - [ ] https://job-boards.greenhouse.io/anthropic/jobs/5490974008 <!-- Anthropic: Principal Engineer, Capacity/Compute (San Francisco, CA — hybrid 3-4x/week | $320K-$485K) | scout-2026-11-23 | score:4.0 -->
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5490122008 <!-- Anthropic: Engineering Manager, Privacy Infrastructure (San Francisco, CA | New York City, NY) | found 2026-11-23 -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5487188008 <!-- Anthropic: Software Engineer, Model-to-Product Behavior Engineering (San Francisco, CA) | found 2026-11-23 -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5490979008 <!-- Anthropic: Staff+ Software Engineer, Capacity Engineering (San Francisco, CA | New York City, NY | Seattle, WA) | found 2026-11-23 -->
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5138859007 <!-- True Anomaly: Senior Machine Learning Engineer (Denver, CO; Long Beach, CA; Washington, DC) | found 2026-11-23 -->
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6150691004 <!-- Vercel: Software Engineer, Runtimes  (Hybrid - San Francisco) | found 2026-11-23 -->
+- [ ] https://www.zipline.com/open-roles/8213448003?gh_jid=8213448003 <!-- Zipline: Staff Software Engineer - Maps & Routing (South San Francisco, California, USA) | found 2026-11-23 -->
