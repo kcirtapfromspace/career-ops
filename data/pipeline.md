@@ -15024,3 +15024,6 @@ https://job-boards.greenhouse.io/life360/jobs/8895033002
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8829039002 <!-- Databricks: Software Engineer, Infrastructure (Mountain View, California) | quickcheck 2026-11-21 -->
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8927749002 <!-- Databricks: Sr. Staff Software Engineer, Agentic Applications (Mountain View, California) | quickcheck 2026-11-21 -->
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8950673002 <!-- Databricks: Staff Software Engineer - Threat and Abuse Defense (Mountain View, California) | quickcheck 2026-11-21 -->
+
+## 2026-11-23
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5490974008 <!-- Anthropic: Principal Engineer, Capacity/Compute (San Francisco, CA — hybrid 3-4x/week | $320K-$485K) | scout-2026-11-23 | score:4.0 -->
