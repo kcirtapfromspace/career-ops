@@ -1,4 +1,5 @@
 # Pipeline — Pending Offers
+<!-- Scout: 2026-11-24 automated — 11 new matches (25+ companies: Greenhouse API + Temporal direct + WebSearch). Temporal: 8 new roles (3x Staff SWE, 1x Senior Staff, 4x Senior SWE — all US Remote). Anthropic: Principal Engineer Capacity/Compute Seattle variant (sibling of SF 5490974008 already in pipeline). Dead boards: Dagster (empty), Zipline API (404), Temporal Greenhouse (404). Backlog: Databricks FDE CO (4.5/5) + prior Temporal Staff SWE still unactioned. See reports/scout-2026-11-24.md. -->
 <!-- Scout: 2026-11-22 quickcheck — 0 new pipeline items. 35 companies via Greenhouse API only. 7,836 total jobs fetched. All matches already in history. NOTE: Fixed dedup bug (TSV multi-column URL parsing) — prior column-0-only scanning caused 47 false-positive "new" matches that were actually already seen. Dedup now reads all TSV columns. Market quiet 8th consecutive day. Dead boards: Dagster (empty). GetYourGuide (0 jobs returned). Backlog: Databricks FDE CO (4.5/5) + 3x Temporal Staff SWE + True Anomaly Senior MLE Denver need review. -->
 <!-- Scout: 2026-11-22 quickcheck — 2 new pipeline items. 19 companies scanned (Greenhouse API + Ashby + WebSearch). Anthropic Principal Engineer Capacity/Compute (5490974008, SF hybrid 4.0/5) + OpenAI Principal SWE B2B Engineering (Ashby aeff784b, Remote 3.8/5). Dead boards: Dagster/Prefect (empty/merged), Modal (empty). W&B Lever role 404. Glean 4x new Solutions Engr pre-sales filtered. See reports/scout-quickcheck-2026-11-22.md. -->
 <!-- Scout: 2026-11-21 quickcheck — 0 new pipeline items (1 near-miss: True Anomaly FPGA Engineering Manager Denver — hardware role, logged to history). 40 companies via Greenhouse API only. 8291 total jobs fetched. Dead boards: Parloa/Black Forest Labs/Wayve/ClickHouse (404). Market quiet 7th consecutive day. Dedup confirmed all other apparent matches already in history from prior runs. Backlog: Databricks FDE CO (4.5/5) + 3x Temporal Staff SWE (4.1-4.3/5) + Samsara Sr Mgr AI Dev (4.0/5) need review. -->
@@ -31,6 +32,26 @@
 <!-- Scout: 2026-10-29 quickcheck — 2 new matches (40 companies: Greenhouse API only). Anthropic Staff+ SWE Enterprise Connectivity (SF/NYC), Scale AI Senior Cloud Infra Engineer (SF/NYC). API errors: Black Forest Labs, Wayve, Clickhouse (404 — dead boards). -->
 <!-- Scout: 2026-10-28 quickcheck — 1 new match (42 companies: Greenhouse API only). Anthropic Staff+ SWE Deployment (Remote-Friendly/SF/Seattle). API errors: Temporal, RunPod, Black Forest Labs, Wayve, Aurora, Clickhouse (404). -->
 
+
+## 2026-11-24 — Scout Scan (11 new matches)
+
+### ★ Top Picks (4.0+)
+
+- [ ] 2026-11-24 | **Temporal** | Staff Software Engineer, Compute | Remote (US) | Score: 4.2 | https://temporal.io/careers/cfc85072-6669-4671-afd4-e860f7072668
+- [ ] 2026-11-24 | **Temporal** | Staff Software Engineer, Cloud Data Storage | Remote (US) | Score: 4.1 | https://temporal.io/careers/ceb3ae3d-3a72-4067-b13d-44350a143195
+- [ ] 2026-11-24 | **Temporal** | Staff Software Engineer, Open Source Server | Remote (US) | Score: 4.0 | https://temporal.io/careers/f40a7b70-71c0-49f6-ba9f-1df2de9b46d9
+
+### Other Matches (3.5-3.9)
+
+- [ ] 2026-11-24 | **Temporal** | Staff Software Engineer, Test Systems & Tooling | Remote (US) | Score: 3.9 | https://temporal.io/careers/7365a59d-554e-41f4-9163-2fdd528a42ca
+- [ ] 2026-11-24 | **Temporal** | Senior Staff Engineer, Open Source Server | Remote (US) | Score: 3.9 | https://temporal.io/careers/b3ba030c-dcbb-4131-9edb-90a8e03849e8
+- [ ] 2026-11-24 | **Anthropic** | Principal Engineer, Capacity/Compute | Seattle, WA | Score: 3.9 | https://job-boards.greenhouse.io/anthropic/jobs/5490978008
+- [ ] 2026-11-24 | **Temporal** | Senior Software Engineer, Infrastructure Foundations | Remote (US) | Score: 3.8 | https://temporal.io/careers/1929137d-1aef-4eae-9490-b934a90bc2ab
+- [ ] 2026-11-24 | **Temporal** | Senior Software Engineer, Cloud Capacity | Remote (US) | Score: 3.7 | https://temporal.io/careers/a60877d2-e825-4e0f-9f36-230352a9f193
+- [ ] 2026-11-24 | **Temporal** | Senior Software Engineer, Cloud Data Storage | Remote (US) | Score: 3.7 | https://temporal.io/careers/2a2a29fa-3701-4f0d-a262-aeb8bc68e0c3
+- [ ] 2026-11-24 | **Temporal** | Senior Software Engineer, Cloud Growth | Remote (US) | Score: 3.6 | https://temporal.io/careers/a04c4545-b34e-40d4-b1ac-17f17976e93e
+
+---
 
 ## 2026-11-22 — Scout Quickcheck (2 new matches)
 
