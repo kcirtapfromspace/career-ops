@@ -51,6 +51,10 @@
 - [ ] 2026-11-24 | **Temporal** | Senior Software Engineer, Cloud Data Storage | Remote (US) | Score: 3.7 | https://temporal.io/careers/2a2a29fa-3701-4f0d-a262-aeb8bc68e0c3
 - [ ] 2026-11-24 | **Temporal** | Senior Software Engineer, Cloud Growth | Remote (US) | Score: 3.6 | https://temporal.io/careers/a04c4545-b34e-40d4-b1ac-17f17976e93e
 
+### Quickcheck Additions (2026-11-24 automated)
+
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5123976007?gh_jid=5123976007 <!-- Anduril: Senior AI Infrastructure Engineer (Boston, MA | Costa Mesa, CA | **Seattle, WA** | Washington, DC) | quickcheck 2026-11-24 | seattle-match | defense-AI-infra -->
+
 ---
 
 ## 2026-11-22 — Scout Quickcheck (2 new matches)
