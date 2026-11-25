@@ -31,7 +31,20 @@
 <!-- Scout: 2026-10-31 full scan — 1 new match (12 companies: Greenhouse API + WebSearch). Anthropic Data Engineer (SF/NYC/Seattle). Most recent prior matches still in pipeline from Oct 30. Prefect+Dagster merged 2026, Dagster board empty. -->
 <!-- Scout: 2026-10-29 quickcheck — 2 new matches (40 companies: Greenhouse API only). Anthropic Staff+ SWE Enterprise Connectivity (SF/NYC), Scale AI Senior Cloud Infra Engineer (SF/NYC). API errors: Black Forest Labs, Wayve, Clickhouse (404 — dead boards). -->
 <!-- Scout: 2026-10-28 quickcheck — 1 new match (42 companies: Greenhouse API only). Anthropic Staff+ SWE Deployment (Remote-Friendly/SF/Seattle). API errors: Temporal, RunPod, Black Forest Labs, Wayve, Aurora, Clickhouse (404). -->
+<!-- Scout: 2026-11-25 automated — 2 new matches (35+ companies: Greenhouse API + OpenAI WebSearch + Temporal confirmed no-new). OpenAI EM Core Experimentation Seattle ($510K-$536K, 4.0/5 — Statsig platform team) + Anthropic EM Cybersecurity Products SF/NYC (3.5/5). Market quiet 9th consecutive day. Dead boards: Dagster (empty/Prefect merger confirmed), Confluent Ashby (404). All prior pipeline items confirmed still open. See reports/scout-2026-11-25.md. -->
 
+
+## 2026-11-25 — Scout Scan (2 new matches)
+
+### ★ Top Pick (4.0+)
+
+- [ ] 2026-11-25 | **OpenAI** | Engineering Manager, Core Experimentation (Statsig) | Seattle, WA | Score: 4.0 | https://openai.com/careers/engineering-manager-core-experimentation-seattle/
+
+### Other Matches (3.5-3.9)
+
+- [ ] 2026-11-25 | **Anthropic** | Engineering Manager, Cybersecurity Products | San Francisco, CA / New York City, NY | Score: 3.5 | https://job-boards.greenhouse.io/anthropic/jobs/5494120008
+
+---
 
 ## 2026-11-24 — Scout Scan (11 new matches)
 
