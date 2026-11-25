@@ -15072,3 +15072,7 @@ https://job-boards.greenhouse.io/life360/jobs/8895033002
 - [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5138859007 <!-- True Anomaly: Senior Machine Learning Engineer (Denver, CO; Long Beach, CA; Washington, DC) | found 2026-11-23 -->
 - [ ] https://job-boards.greenhouse.io/vercel/jobs/6150691004 <!-- Vercel: Software Engineer, Runtimes  (Hybrid - San Francisco) | found 2026-11-23 -->
 - [ ] https://www.zipline.com/open-roles/8213448003?gh_jid=8213448003 <!-- Zipline: Staff Software Engineer - Maps & Routing (South San Francisco, California, USA) | found 2026-11-23 -->
+
+## 2026-11-25 (quick-check)
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5308703007?gh_jid=5308703007 <!-- Anduril: Staff Software Engineer (Broomfield, CO; Fort Collins, CO) | quick-check 2026-11-25 -->
+- [ ] https://careers.hellofresh.com/global/en/job/8395235?gh_jid=8395235 <!-- HelloFresh: Senior Software Engineer [OPERATIONS TECHNOLOGY] (Boulder, CO; Chicago, IL) | quick-check 2026-11-25 -->
