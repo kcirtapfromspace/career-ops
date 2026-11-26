@@ -9088,3 +9088,332 @@ https://job-boards.greenhouse.io/life360/jobs/8895033002
 - [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/6256088004 | Grafana Labs | Engineering Manager, Grafana Productivity | Remote US | ★ 4.0/5 — Foundations EM for SDLC tooling, app security, observability. Same comp $189K–$227K. Lower priority than EM Infrastructure.
 - [ ] [True Anomaly — Engineering Manager, Application Security](https://job-boards.greenhouse.io/trueanomalyinc/jobs/5309645007) | Denver, CO; Long Beach, CA | Added 2026-11-26
 - [ ] [Databricks — Sr. Engineering Manager - Notebook Foundations](https://databricks.com/company/careers/open-positions/job?gh_jid=8961261002) | Mountain View, California | Added 2026-11-26
+
+<!-- scout-quickcheck 2026-11-26 -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5382750008 <!-- Anthropic: AI Infrastructure Operations, Demand Planning @ San Francisco, CA | New York City, NY -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5437172008 <!-- Anthropic: Applied AI Engineer, Beneficial Deployments, Life Sciences (Molecular Design) @ San Francisco, CA | New York City, NY -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5483945008 <!-- Anthropic: Applied AI Engineer, Commercial @ San Francisco, CA -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5057647008 <!-- Anthropic: Applied AI Engineer, Enterprise  @ San Francisco, CA | New York City, NY -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5454650008 <!-- Anthropic: Applied AI Engineer, Startups (Life Sciences) @ San Francisco, CA | New York City, NY -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5454673008 <!-- Anthropic: Applied AI Engineer, Startups (Physical AI) @ San Francisco, CA -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5454535008 <!-- Anthropic: Community Engagement Manager, Data Centers (Indiana & Kentucky) @ Remote-Friendly, United States -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5452691008 <!-- Anthropic: Community Engagement Manager, Data Centers (Louisiana) @ Remote-Friendly, United States -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5454315008 <!-- Anthropic: Community Engagement Manager, Data Centers (Montana & Utah) @ Remote-Friendly, United States -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5391983008 <!-- Anthropic: Community Engagement Manager, Data Centers (West Texas) @ Austin, TX | Remote-Friendly, United States -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5391999008 <!-- Anthropic: Community Engagement Manager, Data Centres (Australia) @ Sydney, Australia | Remote-Friendly, Australia -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5486907008 <!-- Anthropic: Community Engagement Manager, Data Centres (Canada) @ Alberta, CAN | Remote-Friendly, Canada -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5392856008 <!-- Anthropic: DevOps / AgentOps Engineer, GTM Systems @ San Francisco, CA -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5316593008 <!-- Anthropic: Engineering Manager, Agent Runtime Platform @ San Francisco, CA | New York City, NY -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5469291008 <!-- Anthropic: Engineering Manager, Billing Platform @ San Francisco, CA | New York City, NY | Seattle, WA -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5378643008 <!-- Anthropic: Engineering Manager, Claude Platform @ San Francisco, CA | New York City, NY -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5494120008 <!-- Anthropic: Engineering Manager, Cybersecurity Products @ San Francisco, CA | New York City, NY -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5457708008 <!-- Anthropic: Engineering Manager, Finance Engineering @ San Francisco, CA | Seattle, WA -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5394403008 <!-- Anthropic: Engineering Manager, Integrity and Attestation @ San Francisco, CA | Seattle, WA -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5369102008 <!-- Anthropic: Engineering Manager, Labs @ San Francisco, CA | New York City, NY -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5490122008 <!-- Anthropic: Engineering Manager, Privacy Infrastructure @ San Francisco, CA | New York City, NY -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5456018008 <!-- Anthropic: IT Systems Engineer, Client Platform Engineer, ChromeOS @ Boston, MA; Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY; Washington, DC -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5445625008 <!-- Anthropic: IT Systems Engineer, Client Platform Engineer, macOS @ Boston, MA; Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY; Washington, DC -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5396384008 <!-- Anthropic: IT Systems Engineer, Mobile Client Platform Engineer  @ Boston, MA; Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY; Washington, DC -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5364804008 <!-- Anthropic: Machine Learning Infrastructure Engineer, Safeguards Research @ San Francisco, CA | New York City, NY -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5442934008 <!-- Anthropic: Manager, Applied AI Engineering (Megas)  @ San Francisco, CA -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5357961008 <!-- Anthropic: Manager, Infrastructure Capex Accounting @ San Francisco, CA | Seattle, WA -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5098025008 <!-- Anthropic: Model Performance Software Engineer, Claude Code @ San Francisco, CA | New York City, NY -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4973067008 <!-- Anthropic: Pre-training Data Infrastructure Engineer @ San Francisco, CA -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5424078008 <!-- Anthropic: Product Marketing Manager, Platform @ San Francisco, CA | New York City, NY -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5424111008 <!-- Anthropic: Recruiting Analytics Data Engineer  @ San Francisco, CA | New York City, NY | Seattle, WA -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5462966008 <!-- Anthropic: Security Data Engineer @ Remote-Friendly (Travel Required) | San Francisco, CA -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5357951008 <!-- Anthropic: Senior Manager, Infrastructure Lease Accounting @ San Francisco, CA | Seattle, WA -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5174743008 <!-- Anthropic: Senior Software Engineer, Full-stack @ San Francisco, CA | New York City, NY | Seattle, WA -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5435665008 <!-- Anthropic: Senior+ Software Engineer, Legal Tech @ Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5134895008 <!-- Anthropic: Senior Staff Software Engineer, API @ San Francisco, CA | New York City, NY -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4942024008 <!-- Anthropic: Software Engineer, Beneficial Deployments  @ San Francisco, CA | New York City, NY -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5400153008 <!-- Anthropic: Software Engineer, Business Technology @ New York City, NY | Seattle, WA; San Francisco, CA | New York City, NY -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5484171008 <!-- Anthropic: Software Engineer, Datacenter Server Lifecycle @ Remote-Friendly, United States -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5017202008 <!-- Anthropic: Software Engineer, Labs @ San Francisco, CA | New York City, NY | Seattle, WA -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5487188008 <!-- Anthropic: Software Engineer, Model-to-Product Behavior Engineering @ San Francisco, CA -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5283063008 <!-- Anthropic: Software Engineer, Research Productivity @ San Francisco, CA | New York City, NY -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4981828008 <!-- Anthropic: Software Engineer, Research Tools @ San Francisco, CA | New York City, NY; San Francisco, CA | New York City, NY | Seattle, WA -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5440427008 <!-- Anthropic: Software Engineer, Sandboxing @ San Francisco, CA | New York City, NY | Seattle, WA -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5421263008 <!-- Anthropic: Software Engineer, Tokens and Prompt Structures @ San Francisco, CA | New York City, NY -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5369710008 <!-- Anthropic: Staff+ Fullstack Software Engineer, Safeguards Engineering @ San Francisco, CA | New York City, NY -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5404725008 <!-- Anthropic: Staff+ Research Engineer, RL Data Platform @ San Francisco, CA | New York City, NY -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5245851008 <!-- Anthropic: Staff + Senior Software Engineer, Inference Infrastructure @ San Francisco, CA | New York City, NY | Seattle, WA -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5434559008 <!-- Anthropic: Staff / Senior Software Engineer, Security Fusion Platform @ San Francisco, CA | New York City, NY | Seattle, WA -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5433814008 <!-- Anthropic: Staff+ Software Engineer, Access Programs @ San Francisco, CA | New York City, NY | Seattle, WA -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5123039008 <!-- Anthropic: Staff+ Software Engineer, Account Abuse @ San Francisco, CA | New York City, NY | Seattle, WA -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5436293008 <!-- Anthropic: Staff+ Software Engineer, Account Abuse (Machine Learning) @ San Francisco, CA | New York City, NY -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5433813008 <!-- Anthropic: Staff+ Software Engineer, Account Creation @ San Francisco, CA | New York City, NY | Seattle, WA -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5398227008 <!-- Anthropic: Staff+ Software Engineer, Auth & Identity @ San Francisco, CA | New York City, NY -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5174755008 <!-- Anthropic: Staff+ Software Engineer, Backend @ San Francisco, CA | New York City, NY -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5146298008 <!-- Anthropic: Staff+ Software Engineer, Billing Platform @ San Francisco, CA | New York City, NY | Seattle, WA -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5301737008 <!-- Anthropic: Staff+ Software Engineer, Caching @ San Francisco, CA | New York City, NY | Seattle, WA -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5490979008 <!-- Anthropic: Staff+ Software Engineer, Capacity Engineering @ San Francisco, CA | New York City, NY | Seattle, WA -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5065894008 <!-- Anthropic: Staff+ Software Engineer, Claude App Infrastructure @ San Francisco, CA | New York City, NY | Seattle, WA -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5383610008 <!-- Anthropic: Staff Software Engineer, Claude Code @ San Francisco, CA | New York City, NY | Seattle, WA -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5477746008 <!-- Anthropic: Staff+ Software Engineer, Claude Design @ San Francisco, CA | New York City, NY -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5395767008 <!-- Anthropic: Staff+ Software Engineer, Claude Managed Agents @ San Francisco, CA | New York City, NY -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5412734008 <!-- Anthropic: Staff+ Software Engineer, Claude Science @ San Francisco, CA | New York City, NY -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5370690008 <!-- Anthropic: Staff Software Engineer, Code RL @ San Francisco, CA | New York City, NY | Seattle, WA -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5477652008 <!-- Anthropic: Staff+ Software Engineer, Consumer @ San Francisco, CA -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5063007008 <!-- Anthropic: Staff+ Software Engineer, Cybersecurity Products @ San Francisco, CA -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5301750008 <!-- Anthropic: Staff+ Software Engineer, Databases @ San Francisco, CA | New York City, NY | Seattle, WA -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5114768008 <!-- Anthropic: Staff+ Software Engineer, Data Infrastructure @ Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5466480008 <!-- Anthropic: Staff+ Software Engineer, Deployment @ Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5290360008 <!-- Anthropic: Staff+ Software Engineer, Developer Acceleration @ San Francisco, CA | Seattle, WA -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5110511008 <!-- Anthropic: Staff+ Software Engineer, Developer Productivity @ San Francisco, CA | New York City, NY | Seattle, WA -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5424404008 <!-- Anthropic: Staff+ Software Engineer, Distributed Systems  @ New York City, NY; San Francisco, CA -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5368034008 <!-- Anthropic: Staff+ Software Engineer, Enterprise AI Products @ San Francisco, CA | New York City, NY -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5173120008 <!-- Anthropic: Staff+ Software Engineer, Enterprise Connectivity @ San Francisco, CA | New York City, NY -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5454882008 <!-- Anthropic: Staff+ Software Engineer, Enterprise (Full Stack) @ San Francisco, CA | New York City, NY -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5289450008 <!-- Anthropic: Staff+ Software Engineer, Enterprise Knowledge Work @ San Francisco, CA | New York City, NY -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5288742008 <!-- Anthropic: Staff+ Software Engineer, Enterprise (Platform) @ San Francisco, CA | New York City, NY -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5367436008 <!-- Anthropic: Staff Software Engineer, Environments Infrastructure @ San Francisco, CA | New York City, NY -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5290468008 <!-- Anthropic: Staff+ Software Engineer, Experimentation @ San Francisco, CA | Seattle, WA -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5457716008 <!-- Anthropic: Staff Software Engineer, Finance Engineering @ San Francisco, CA | Seattle, WA -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5174747008 <!-- Anthropic: Staff+ Software Engineer, Full-stack @ San Francisco, CA | New York City, NY | Seattle, WA -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5250091008 <!-- Anthropic: Staff+ Software Engineer, GRC Platform @ San Francisco, CA | New York City, NY | Seattle, WA -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5363469008 <!-- Anthropic: Staff Software Engineer, Growth  @ San Francisco, CA | New York City, NY | Seattle, WA -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5390966008 <!-- Anthropic: Staff Software Engineer, GTM AI Engineering  @ Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5257650008 <!-- Anthropic: Staff+ Software Engineer, Inference Velocity @ Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4970314008 <!-- Anthropic: Staff+ Software Engineer, Infrastructure (Distributed Systems) @ San Francisco, CA | New York City, NY | Seattle, WA -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5456453008 <!-- Anthropic: Staff+ Software Engineer, Memory & Search @ New York City, NY; New York City, NY | Seattle, WA; Remote-Friendly, United States; San Francisco, CA | New York City, NY | Seattle, WA -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5419869008 <!-- Anthropic: Staff+ Software Engineer, ML Inference Path @ San Francisco, CA -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5419868008 <!-- Anthropic: Staff+ Software Engineer, ML Sampling Path @ San Francisco, CA -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5139910008 <!-- Anthropic: Staff+ Software Engineer, Observability @ San Francisco, CA | New York City, NY | Seattle, WA -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5325909008 <!-- Anthropic: Staff+ Software Engineer, Payment Fraud  @ San Francisco, CA | New York City, NY | Seattle, WA -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5119468008 <!-- Anthropic: Staff+ Software Engineer, People Products @ Remote-Friendly (Travel Required) | San Francisco, CA -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5157847008 <!-- Anthropic: Staff+ Software Engineer, Platform @ San Francisco, CA | New York City, NY | Seattle, WA -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5451889008 <!-- Anthropic: Staff+ Software Engineer, Platform Acceleration  @ San Francisco, CA | New York City, NY | Seattle, WA -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5394948008 <!-- Anthropic: Staff+ Software Engineer, Platform Connectivity @ London, UK; San Francisco, CA -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5397005008 <!-- Anthropic: Staff+ Software Engineer, Platform Distribution @ San Francisco, CA | New York City, NY -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5472201008 <!-- Anthropic: Staff+ Software Engineer, Platform Intelligence @ San Francisco, CA | New York City, NY -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5397131008 <!-- Anthropic: Staff+ Software Engineer, Platform Portability  @ San Francisco, CA | New York City, NY | Seattle, WA -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5458794008 <!-- Anthropic: Staff+ Software Engineer, Platform Safety @ San Francisco, CA | New York City, NY -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5383114008 <!-- Anthropic: Staff+ Software Engineer, Privacy @ London, UK; Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5026097008 <!-- Anthropic: Staff Software Engineer, Product  @ San Francisco, CA | New York City, NY | Seattle, WA -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5394943008 <!-- Anthropic: Staff+ Software Engineer, Product Sandboxing @ San Francisco, CA | New York City, NY | Seattle, WA -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5205704008 <!-- Anthropic: Staff+ Software Engineer, Public Sector @ Remote-Friendly, United States; San Francisco, CA | New York City, NY | Washington, DC -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4951844008 <!-- Anthropic: Staff+ Software Engineer, Safeguards @ San Francisco, CA | New York City, NY -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5477379008 <!-- Anthropic: Staff+ Software Engineer, Safeguards Evals  @ New York City, NY; San Francisco, CA; Seattle, WA -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5342935008 <!-- Anthropic: Staff+ Software Engineer, Safeguards Human Review Tooling @ New York City, NY; San Francisco, CA -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5422684008 <!-- Anthropic: Staff Software Engineer, Search @ San Francisco, CA | New York City, NY -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5468901008 <!-- Anthropic: Staff+ Software Engineer, STEM @ San Francisco, CA | New York City, NY | Seattle, WA -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5428950008 <!-- Anthropic: Staff+ Software Engineer, Storage + Transfer @ San Francisco, CA | New York City, NY -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5478876008 <!-- Anthropic: Staff Software Engineer, Support Technology @ San Francisco, CA | New York City, NY | Seattle, WA -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5458044008 <!-- Anthropic: Staff+ Software Engineer, VectorDB @ New York City, NY | Seattle, WA; San Francisco, CA | New York City, NY | Seattle, WA -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5436684008 <!-- Anthropic: Staff + Sr. Software Engineer, Cloud Inference @ San Francisco, CA | Seattle, WA -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5436697008 <!-- Anthropic: Staff + Sr. Software Engineer, Cloud Inference Launch Engineering @ San Francisco, CA | Seattle, WA -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5436703008 <!-- Anthropic: Staff + Sr. Software Engineer, Scaling @ New York City, NY; San Francisco, CA; Seattle, WA -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5399225008 <!-- Anthropic: Supply Chain Delivery Manager, Data Center Power & Cooling OFE @ Remote-Friendly, United States -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5013743008 <!-- Anthropic: Technical Program Manager, Data Center Infrastructure @ San Francisco, CA | New York City, NY | Seattle, WA -->
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5111783008 <!-- Anthropic: Technical Program Manager, Infrastructure @ San Francisco, CA | New York City, NY | Seattle, WA -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5162263007?gh_jid=5162263007 <!-- Anduril: 2027 Early Career Software Engineer  @ Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/4263030007?gh_jid=4263030007 <!-- Anduril: Forward Deployed Software Engineer, Connected Warfare (Active Clearance) @ Seattle, Washington, United States -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/4672911007?gh_jid=4672911007 <!-- Anduril: Mission Software Engineer, Vehicle Software, Frontend @ Costa Mesa, California, United States; Seattle, Washington, United States; Washington, District of Columbia, United States -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5123976007?gh_jid=5123976007 <!-- Anduril: Senior AI Infrastructure Engineer @ Boston, Massachusetts, United States; Costa Mesa, California, United States; Seattle, Washington, United States; Washington, District of Columbia, United States -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5262987007?gh_jid=5262987007 <!-- Anduril: Senior Front End Software Engineer, React @ Arlington, Virginia, United States; Seattle, Washington, United States; Washington, District of Columbia, United States -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5287546007?gh_jid=5287546007 <!-- Anduril: Senior Manager, Software Engineering (Geospatial Platform) @ Seattle, Washington, United States -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5256999007?gh_jid=5256999007 <!-- Anduril: Senior ML Engineer, Computer Vision @ Irvine, California, United States; Remote -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5185971007?gh_jid=5185971007 <!-- Anduril: Senior Software Engineer, AI Platform @ Seattle, Washington, United States -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5231054007?gh_jid=5231054007 <!-- Anduril: Senior Software Engineer, Distributed Simulation  @ Seattle, Washington, United States -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5201924007?gh_jid=5201924007 <!-- Anduril: Senior Software Engineer, Distributed Systems (Rust) @ Seattle, Washington, United States -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5247298007?gh_jid=5247298007 <!-- Anduril: Senior Software Engineer, Robotics Data Foundation (Cloud) @ Seattle, Washington, United States -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5261122007?gh_jid=5261122007 <!-- Anduril: Senior Software Engineer, Strategic Defense  @ Costa Mesa, California, United States; Reston, Virginia, United States; Seattle, Washington, United States; Washington, District of Columbia, United States -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5247868007?gh_jid=5247868007 <!-- Anduril: Senior Software Engineer, Strategic Defense (Active Clearance) @ Costa Mesa, California, United States; Reston, Virginia, United States; Seattle, Washington, United States; Washington, District of Columbia, United States -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5237960007?gh_jid=5237960007 <!-- Anduril: Senior Software Engineer, Tactical Networking @ Seattle, Washington, United States -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5206580007?gh_jid=5206580007 <!-- Anduril: Senior Software Engineer, Video  @ Seattle, Washington, United States -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5204136007?gh_jid=5204136007 <!-- Anduril: Senior Software Engineer, World Model  @ Seattle, Washington, United States -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5228337007?gh_jid=5228337007 <!-- Anduril: Site Reliability Engineer 2 - Production Engineering @ Seattle, Washington, United States -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5050317007?gh_jid=5050317007 <!-- Anduril: Site Reliability Engineer - Deployed, Connected Warfare @ Costa Mesa, California, United States; Honolulu, Hawaii, United States; Raleigh, North Carolina, United States; Seattle, Washington, United States; Washington, District of Columbia, United States -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5185965007?gh_jid=5185965007 <!-- Anduril: Software Engineer, Robotics Data Foundation (Cloud) @ Seattle, Washington, United States -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5260733007?gh_jid=5260733007 <!-- Anduril: Software Engineer, Strategic Defense @ Costa Mesa, California, United States; Reston, Virginia, United States; Seattle, Washington, United States; Washington, District of Columbia, United States -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/5244366007?gh_jid=5244366007 <!-- Anduril: Software Engineer, Strategic Defense (Active Clearance) @ Costa Mesa, California, United States; Reston, Virginia, United States; Seattle, Washington, United States; Washington, District of Columbia, United States -->
+- [ ] https://boards.greenhouse.io/andurilindustries/jobs/4954894007?gh_jid=4954894007 <!-- Anduril: Staff Software Engineer, AI Platform  @ Seattle, Washington, United States -->
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5300915007 <!-- True Anomaly: Electrical Engineering Manager, eGSE @ Denver, CO -->
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5309645007 <!-- True Anomaly: Engineering Manager, Application Security @ Denver, CO; Long Beach, CA -->
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5091669007 <!-- True Anomaly: Engineering Manager, Mechanisms  @ Denver, CO or Long Beach, CA -->
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5217822007 <!-- True Anomaly: Engineering Manager, Propulsion Development and Test @ Denver, CO -->
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5252989007 <!-- True Anomaly: Flight Software Engineer II @ Denver, CO; Long Beach, CA; Washington, DC -->
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5252995007 <!-- True Anomaly: Flight Software Engineer III @ Denver, CO; Long Beach, CA; Washington, DC -->
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221572007 <!-- True Anomaly: Flight Software Engineer I (Temp-to-hire) @ Denver, CO; Long Beach, CA -->
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5283892007 <!-- True Anomaly: Platform Engineer, IT @ Denver, CO; Long Beach, CA -->
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5253013007 <!-- True Anomaly: Principal Flight Software Engineer @ Denver, CO; Long Beach, CA; Washington, DC -->
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5279880007 <!-- True Anomaly: Principal Software Engineer, Spacecraft Simulation  @ Denver, CO; Long Beach, CA; Washington, DC -->
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5252998007 <!-- True Anomaly: Senior Flight Software Engineer @ Denver, CO; Long Beach, CA; Washington, DC -->
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5138859007 <!-- True Anomaly: Senior Machine Learning Engineer @ Denver, CO; Long Beach, CA; Washington, DC -->
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5257765007 <!-- True Anomaly: Senior Software Engineer, Digital Engineering  @ Denver, CO; Long Beach, CA -->
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5090419007 <!-- True Anomaly: Senior Software Engineer, Elixir  @ Denver, CO; Long Beach, CA; Washington, DC -->
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5092038007 <!-- True Anomaly: Senior Software Engineer, Full Stack @ Denver, CO; Long Beach, CA; Washington, DC -->
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5252976007 <!-- True Anomaly: Senior Software Engineer, Spacecraft Simulation @ Denver, CO; Long Beach, CA; Washington, DC -->
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5092069007 <!-- True Anomaly: Software Engineer I, Full Stack (New Grad) @ Denver, CO; Long Beach, CA -->
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5271710007 <!-- True Anomaly: Software Engineer (II-III), Full Stack @ Denver, CO; Long Beach, CA; Washington, DC -->
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5252967007 <!-- True Anomaly: Software Engineer II, Spacecraft Simulation  @ Denver, CO; Long Beach, CA; Washington, DC -->
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5221555007 <!-- True Anomaly: Software Engineer I, Spacecraft Simulation (New Grad) @ Denver, CO; Long Beach, CA -->
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5259797007 <!-- True Anomaly: Software Engineer, Missile Defense Simulation (II - Principal) @ Denver, CO; Long Beach, CA; Washington, DC -->
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5253004007 <!-- True Anomaly: Staff Flight Software Engineer @ Denver, CO; Long Beach, CA; Washington, DC -->
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5166545007 <!-- True Anomaly: Staff Platform Engineer, AI @ Denver, CO; Long Beach, CA -->
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5182480007 <!-- True Anomaly: Staff Platform Engineer, Infrastructure @ Denver, CO; Long Beach, CA -->
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5230702007 <!-- True Anomaly: Staff Platform Engineer, Security @ Denver, CO; Long Beach, CA -->
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5257771007 <!-- True Anomaly: Staff Software Engineer, Digital Engineering  @ Denver, CO; Long Beach, CA -->
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5091384007 <!-- True Anomaly: Staff Software Engineer, Elixir  @ Denver, CO; Long Beach, CA; Washington, DC -->
+- [ ] https://job-boards.greenhouse.io/trueanomalyinc/jobs/5091489007 <!-- True Anomaly: Staff Software Engineer, Full Stack @ Denver, CO; Long Beach, CA; Washington, DC -->
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6210353004 <!-- Vercel: Product Manager, Software Factory @ Hybrid - San Francisco -->
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6111332004 <!-- Vercel: Security Software Engineer, Detection & Response @ Hybrid - San Francisco, New York City, London -->
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6093255004 <!-- Vercel: Security Software Engineer, IAM @ Hybrid - San Francisco, New York City -->
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6242246004 <!-- Vercel: Software Engineer, Agent Auth @ Hybrid - San Francisco -->
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6195153004 <!-- Vercel: Software Engineer, Backend @ Hybrid - San Francisco, New York City -->
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6240736004 <!-- Vercel: Software Engineer, Compute @ Hybrid - San Francisco -->
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6242244004 <!-- Vercel: Software Engineer, Connect  @ Hybrid - San Francisco -->
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6137958004 <!-- Vercel: Software Engineer - Next.js @ Hybrid - San Francisco, New York City -->
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/6150691004 <!-- Vercel: Software Engineer, Runtimes  @ Hybrid - San Francisco -->
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/6128122004 <!-- Arize AI: Applied AI Engineer @ Remote (San Francisco) -->
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4746908005 <!-- Glean: AI Engineer - Data and Evals @ San Francisco Bay Area -->
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4746915005 <!-- Glean: AI Engineer - Quality and Post-Training @ San Francisco Bay Area -->
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4628714005 <!-- Glean: Senior Technical Program Manager, Infrastructure @ Mountain View, CA; San Francisco, CA -->
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4746685005 <!-- Glean: Software Engineer, Native Mobile @ San Francisco Bay Area -->
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4743056005 <!-- Glean: Solutions Engineering Manager, Central @ Remote - US -->
+- [ ] https://job-boards.eu.greenhouse.io/stabilityai/jobs/5018185101 <!-- Stability AI: Staff Software Engineer, Data  @ Remote -->
+- [ ] https://job-boards.eu.greenhouse.io/amplemarket/jobs/4488062101 <!-- Amplemarket: Frontend Software Engineer @ Remote, EMEA/LATAM -->
+- [ ] https://job-boards.eu.greenhouse.io/amplemarket/jobs/4066973101 <!-- Amplemarket: Fullstack Software Engineer @ Remote, EMEA/LATAM -->
+- [ ] https://job-boards.eu.greenhouse.io/amplemarket/jobs/4108094101 <!-- Amplemarket: Spontaneous Application - Data Engineer @ Remote, EMEA/LATAM -->
+- [ ] https://job-boards.eu.greenhouse.io/amplemarket/jobs/4066888101 <!-- Amplemarket: Spontaneous Application - Infrastructure Engineer @ Remote, EMEA/LATAM -->
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7818324003 <!-- Fivetran: Manager, Software Engineering @ Remote, India, APAC -->
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7771684003 <!-- Fivetran: Principal Software Engineer, Data Lakes @ Remote, Germany, EMEA -->
+- [ ] https://www.fivetran.com/careers/job?gh_jid=8013525003 <!-- Fivetran: Senior Engineering Manager, dbt Engine @ Denver, Colorado, United States, AMER -->
+- [ ] https://www.fivetran.com/careers/job?gh_jid=8007245003 <!-- Fivetran: Staff Product Manager, Databases @ Remote, Any, United States, AMER -->
+- [ ] https://www.fivetran.com/careers/job?gh_jid=8034257003 <!-- Fivetran: Staff Software Engineer @ Remote, New York, United States, AMER -->
+- [ ] https://www.fivetran.com/careers/job?gh_jid=7864598003 <!-- Fivetran: Staff Software Engineer, Metadata @ Denver, Colorado, United States, AMER -->
+- [ ] https://www.samsara.com/company/careers/roles/8024110?gh_jid=8024110 <!-- Samsara: AI Engineer, Customer Success @ Remote - Austin; Remote - CA; Remote - Chicago; Remote - Dallas; Remote - Houston; Remote - Seattle -->
+- [ ] https://www.samsara.com/company/careers/roles/8250423?gh_jid=8250423 <!-- Samsara: Data Engineer @ Remote - Canada -->
+- [ ] https://www.samsara.com/company/careers/roles/8261007?gh_jid=8261007 <!-- Samsara: Director, GTM AI Engineering @ Remote - US -->
+- [ ] https://www.samsara.com/company/careers/roles/8180693?gh_jid=8180693 <!-- Samsara: Manager II, Software Engineering @ San Francisco - SF9 -->
+- [ ] https://www.samsara.com/company/careers/roles/8376044?gh_jid=8376044 <!-- Samsara: Manager II, Software Engineering @ Remote - Canada -->
+- [ ] https://www.samsara.com/company/careers/roles/8221852?gh_jid=8221852 <!-- Samsara: Manager II, Software Engineering, Infrastructure @ Remote - Canada -->
+- [ ] https://www.samsara.com/company/careers/roles/8148638?gh_jid=8148638 <!-- Samsara: Manager II, Software Engineering, Infrastructure @ Remote - US -->
+- [ ] https://www.samsara.com/company/careers/roles/7858719?gh_jid=7858719 <!-- Samsara: People Analytics AI Engineer @ Remote - DC; Remote - NYC; Remote - Seattle; Remote - SF Bay Area -->
+- [ ] https://www.samsara.com/company/careers/roles/8039914?gh_jid=8039914 <!-- Samsara: Senior Data Engineer II @ Remote - CA; Remote - Chicago; Remote - Houston -->
+- [ ] https://www.samsara.com/company/careers/roles/8375354?gh_jid=8375354 <!-- Samsara: Senior Manager, Engineering Program Management @ San Francisco - SF9 -->
+- [ ] https://www.samsara.com/company/careers/roles/8374911?gh_jid=8374911 <!-- Samsara: Senior Manager, Software Engineering - AI Developer Productivity (Dev Agents and SRE AI) @ Remote - US -->
+- [ ] https://www.samsara.com/company/careers/roles/8387002?gh_jid=8387002 <!-- Samsara: Senior Manager, Software Engineering - AI Developer Productivity (Dev Agents and SRE AI) @ Remote - Canada -->
+- [ ] https://www.samsara.com/company/careers/roles/8052685?gh_jid=8052685 <!-- Samsara: Senior Software Engineer, Agentic Customer Platform (Poland, Remote, B2B) @ Remote - Poland -->
+- [ ] https://www.samsara.com/company/careers/roles/8364980?gh_jid=8364980 <!-- Samsara: Senior Software Engineer I @ Remote - Toronto -->
+- [ ] https://www.samsara.com/company/careers/roles/8354253?gh_jid=8354253 <!-- Samsara: Senior Software Engineer II @ Remote - US -->
+- [ ] https://www.samsara.com/company/careers/roles/8186910?gh_jid=8186910 <!-- Samsara: Senior Software Engineer II @ Remote - US -->
+- [ ] https://www.samsara.com/company/careers/roles/8231949?gh_jid=8231949 <!-- Samsara: Senior Software Engineer II @ Remote - Canada -->
+- [ ] https://www.samsara.com/company/careers/roles/8237134?gh_jid=8237134 <!-- Samsara: Senior Software Engineer II, DevEx @ Remote - US -->
+- [ ] https://www.samsara.com/company/careers/roles/7892022?gh_jid=7892022 <!-- Samsara: Senior Software Engineer I/II - Infrastructure @ Remote - US -->
+- [ ] https://www.samsara.com/company/careers/roles/7997916?gh_jid=7997916 <!-- Samsara: Senior Software Engineer I/II - Infrastructure @ Remote - Canada -->
+- [ ] https://www.samsara.com/company/careers/roles/8055217?gh_jid=8055217 <!-- Samsara: Senior Software Engineer II - Platform @ Remote - US -->
+- [ ] https://www.samsara.com/company/careers/roles/7992889?gh_jid=7992889 <!-- Samsara: Software Engineer - Data Platform @ Remote - Canada -->
+- [ ] https://www.samsara.com/company/careers/roles/7922530?gh_jid=7922530 <!-- Samsara: Software Engineer - Data Platform @ Remote - US -->
+- [ ] https://www.samsara.com/company/careers/roles/8412814?gh_jid=8412814 <!-- Samsara: Software Engineer II @ Remote - Canada -->
+- [ ] https://www.samsara.com/company/careers/roles/8223645?gh_jid=8223645 <!-- Samsara: Software Engineer II @ Remote - US -->
+- [ ] https://www.samsara.com/company/careers/roles/7985175?gh_jid=7985175 <!-- Samsara: Sr. Software Engineer I @ Remote - US -->
+- [ ] https://www.samsara.com/company/careers/roles/8412863?gh_jid=8412863 <!-- Samsara: Sr. Software Engineer I @ Remote - Canada -->
+- [ ] https://www.samsara.com/company/careers/roles/8223641?gh_jid=8223641 <!-- Samsara: Sr Software Engineer I/II, Operational AI @ Remote - US -->
+- [ ] https://www.samsara.com/company/careers/roles/8387609?gh_jid=8387609 <!-- Samsara: Sr Software Engineer I/II, Operational AI @ Remote - Canada -->
+- [ ] https://www.samsara.com/company/careers/roles/8210697?gh_jid=8210697 <!-- Samsara: Sr. Software Engineer II / Tech lead, Agentic Platform (Poland, Remote, B2B) @ Remote - Poland -->
+- [ ] https://www.samsara.com/company/careers/roles/7520397?gh_jid=7520397 <!-- Samsara: Staff Software Engineer @ Remote - US -->
+- [ ] https://www.samsara.com/company/careers/roles/8064742?gh_jid=8064742 <!-- Samsara: Staff Software Engineer @ Remote - US -->
+- [ ] https://www.samsara.com/company/careers/roles/8115078?gh_jid=8115078 <!-- Samsara: Staff Software Engineer @ Remote - Canada -->
+- [ ] https://www.samsara.com/company/careers/roles/8042387?gh_jid=8042387 <!-- Samsara: Staff Software Engineer, Cloud Platform  @ Remote - London; Remote - UK -->
+- [ ] https://www.samsara.com/company/careers/roles/8109358?gh_jid=8109358 <!-- Samsara: Staff Software Engineer, DevEx @ Remote - Canada -->
+- [ ] https://www.samsara.com/company/careers/roles/7752678?gh_jid=7752678 <!-- Samsara: Staff Software Engineer, DevEx @ Remote - US -->
+- [ ] https://www.samsara.com/company/careers/roles/8237131?gh_jid=8237131 <!-- Samsara: Staff Software Engineer, DevEx (CI/CD) @ Remote - US -->
+- [ ] https://www.samsara.com/company/careers/roles/8267637?gh_jid=8267637 <!-- Samsara: Staff Software Engineer, Maps Services @ Remote - US -->
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4725945006 <!-- Chainguard: Senior Software Engineer, Containers @ Canada - Remote; Germany - Remote; United Kingdom - Remote; United States - Remote -->
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4727461006 <!-- Chainguard: Staff Software Engineer, Chainguard Harness @ United States - Remote -->
+- [ ] https://www.zipline.com/open-roles/8196248003?gh_jid=8196248003 <!-- Zipline: AI Tooling Software Engineer - Data Platform, Autonomy @ South San Francisco, California, USA -->
+- [ ] https://www.zipline.com/open-roles/7815718003?gh_jid=7815718003 <!-- Zipline: Director of Software Engineering, Marketplace @ South San Francisco, California, USA -->
+- [ ] https://www.zipline.com/open-roles/8034183003?gh_jid=8034183003 <!-- Zipline: Mechanical Engineering Manager @ South San Francisco, California, USA -->
+- [ ] https://www.zipline.com/open-roles/7802184003?gh_jid=7802184003 <!-- Zipline: Mechanical Engineering Manager, Dropbox @ South San Francisco, California, USA -->
+- [ ] https://www.zipline.com/open-roles/7989516003?gh_jid=7989516003 <!-- Zipline: ML Infrastructure Engineer @ South San Francisco, California, USA -->
+- [ ] https://www.zipline.com/open-roles/7810385003?gh_jid=7810385003 <!-- Zipline: Powertrain Test Engineering Manager @ South San Francisco, California, USA -->
+- [ ] https://www.zipline.com/open-roles/7810390003?gh_jid=7810390003 <!-- Zipline: Senior Data Engineer - Data Platform @ South San Francisco, California, USA -->
+- [ ] https://www.zipline.com/open-roles/8204030003?gh_jid=8204030003 <!-- Zipline: Senior Full Stack Software Engineer, Data @ South San Francisco, California, USA -->
+- [ ] https://www.zipline.com/open-roles/7802156003?gh_jid=7802156003 <!-- Zipline: Senior Integration and Test Software Engineer - Long Range Platform @ South San Francisco, California, USA -->
+- [ ] https://www.zipline.com/open-roles/7993020003?gh_jid=7993020003 <!-- Zipline: Senior Software Engineer, ASW Launch Ops @ Remote in USA; South San Francisco, California, USA -->
+- [ ] https://www.zipline.com/open-roles/7812135003?gh_jid=7812135003 <!-- Zipline: Senior Software Engineer, Autonomy Simulation & Validation @ Ann Arbor, Michigan, USA; South San Francisco, California, USA -->
+- [ ] https://www.zipline.com/open-roles/7800774003?gh_jid=7800774003 <!-- Zipline: Senior Software Engineer, Enterprise Systems @ South San Francisco, California, USA -->
+- [ ] https://www.zipline.com/open-roles/7676378003?gh_jid=7676378003 <!-- Zipline: Senior Software Engineer, Maintenance Systems @ Dallas-Fort Worth, Texas, USA; South San Francisco, California, USA -->
+- [ ] https://www.zipline.com/open-roles/7816737003?gh_jid=7816737003 <!-- Zipline: Senior Software Engineer - Maps Platform @ Ann Arbor, Michigan, USA; South San Francisco, California, USA -->
+- [ ] https://www.zipline.com/open-roles/7812206003?gh_jid=7812206003 <!-- Zipline: Senior Software Engineer - Routing Engine @ Ann Arbor, Michigan, USA; South San Francisco, California, USA -->
+- [ ] https://www.zipline.com/open-roles/8111582003?gh_jid=8111582003 <!-- Zipline: Senior/Staff Cloud Infrastructure Engineer @ South San Francisco, California, USA -->
+- [ ] https://www.zipline.com/open-roles/7802983003?gh_jid=7802983003 <!-- Zipline: Simulation Software Engineer @ Ann Arbor, Michigan, USA; South San Francisco, California, USA -->
+- [ ] https://www.zipline.com/open-roles/7978812003?gh_jid=7978812003 <!-- Zipline: Software Engineer, Airspace Platform @ South San Francisco, California, USA -->
+- [ ] https://www.zipline.com/open-roles/7803261003?gh_jid=7803261003 <!-- Zipline: Software Engineer - Hardware Test @ South San Francisco, California, USA -->
+- [ ] https://www.zipline.com/open-roles/8040735003?gh_jid=8040735003 <!-- Zipline: Software Engineer, Production Test @ South San Francisco, California, USA -->
+- [ ] https://www.zipline.com/open-roles/7809118003?gh_jid=7809118003 <!-- Zipline: Software Engineer, Test Infrastructure @ South San Francisco, California, USA -->
+- [ ] https://www.zipline.com/open-roles/7933236003?gh_jid=7933236003 <!-- Zipline: Sr. Manager, Software Engineering – Marketplace @ South San Francisco, California, USA -->
+- [ ] https://www.zipline.com/open-roles/7812167003?gh_jid=7812167003 <!-- Zipline: Staff Platform Software Engineer, AI Enablement @ South San Francisco, California, USA -->
+- [ ] https://www.zipline.com/open-roles/8017330003?gh_jid=8017330003 <!-- Zipline: Staff Software Engineer – Integrations Platform @ South San Francisco, California, USA -->
+- [ ] https://www.zipline.com/open-roles/8213448003?gh_jid=8213448003 <!-- Zipline: Staff Software Engineer - Maps & Routing @ South San Francisco, California, USA -->
+- [ ] https://www.zipline.com/open-roles/7808704003?gh_jid=7808704003 <!-- Zipline: Staff Software Engineer – Marketplace @ South San Francisco, California, USA -->
+- [ ] https://www.zipline.com/open-roles/7822379003?gh_jid=7822379003 <!-- Zipline: Staff Software Engineer – Marketplace Growth @ South San Francisco, California, USA -->
+- [ ] https://www.zipline.com/open-roles/8040822003?gh_jid=8040822003 <!-- Zipline: Staff Software Engineer - Routing Engine @ Ann Arbor, Michigan, USA; South San Francisco, California, USA -->
+- [ ] https://www.zipline.com/open-roles/8207431003?gh_jid=8207431003 <!-- Zipline: Technical Program Manager, Engineering, Long Range Platform  @ South San Francisco, California, USA -->
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/8291896 <!-- Planet Labs: Senior Flight Software Engineer @ San Francisco, CA -->
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/8396492 <!-- Planet Labs: Senior Software Engineer, Platform @ Canada, Remote -->
+- [ ] https://job-boards.greenhouse.io/planetlabs/jobs/8302899 <!-- Planet Labs: Site Reliability Engineer @ San Francisco, CA -->
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4602177005 <!-- Scale AI: Frontier Agent Engineering Manager, Enterprise @ San Francisco, CA -->
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4714509005 <!-- Scale AI: Senior Software Engineer, Agent Oversight @ San Francisco, CA; New York, NY -->
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4730836005 <!-- Scale AI: Software Engineer - New Grad @ San Francisco, CA -->
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4736426005 <!-- Scale AI: Software Engineer, Public Sector - New Grad @ San Francisco, CA -->
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4654382005 <!-- Scale AI: Staff Machine Learning Engineer, Public Sector @ Denver, CO; Washington, DC -->
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4750028005 <!-- Scale AI: Staff Software Engineer, AI Developer Tooling @ San Francisco, CA; New York, NY -->
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4649903005 <!-- Scale AI: Staff Software Engineer, Data Platform @ San Francisco, CA; New York, NY -->
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4569678005 <!-- Scale AI: Staff Software Engineer, Enterprise GenAI @ San Francisco, CA; New York, NY -->
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4713608005 <!-- Scale AI: Staff Software Engineer, Full Stack - Gen AI  @ New York, NY; San Francisco, CA; Seattle, WA; New York, NY -->
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4674913005 <!-- Scale AI: Staff Software Engineer, Public Sector @ San Francisco, CA; St. Louis, MO; New York, NY; Washington, DC -->
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4729820005 <!-- Scale AI: Staff Software Engineer, RL Environments   @ San Francisco, CA; New York, NY -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8656900002 <!-- Databricks: Senior Applied ML Engineer - ML4Sys  @ San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7987658002 <!-- Databricks: Senior Engineering Manager for Workspace Platform @ San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8190108002 <!-- Databricks: Senior Engineering Manager - Notebook Dataplane @ San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7734812002 <!-- Databricks: Senior Manager, Infrastructure Data Science @ San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=4799387002 <!-- Databricks: Senior Software Engineer - Backend @ San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8829053002 <!-- Databricks: Senior Software Engineer, Digital Employee Experience @ San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=4513122002 <!-- Databricks: Senior Software Engineer - Distributed Data Systems @ San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=5445641002 <!-- Databricks: Senior Software Engineer - Fullstack @ Mountain View, California; San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7898766002 <!-- Databricks: Senior Software Engineer - Fullstack @ Mountain View, California; San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=6544403002 <!-- Databricks: Senior Software Engineer - Fullstack @ Seattle, Washington -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=6318503002 <!-- Databricks: Senior Software Engineer - Infrastructure and Tools @ San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8909305002 <!-- Databricks: Senior Staff Software Engineer, AI Runtime @ Mountain View, California; San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7807722002 <!-- Databricks: Senior Staff Software Engineer - App and Partner Ecosystem @ Seattle, Washington -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7274557002 <!-- Databricks: Senior Staff Software Engineer - IAM @ Seattle, Washington -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8493002002 <!-- Databricks: Senior Staff Software Engineer - Lakeflow Pipelines Datasets @ Mountain View, California; San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8467083002 <!-- Databricks: Sr. Engineering Manager - Pipelines Engine @ Mountain View, California; San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8862144002 <!-- Databricks: Sr. Manager, Engineering - AI/BI @ Mountain View, California; San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8136071002 <!-- Databricks: Sr. Product Manager, Databricks AI @ San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8136204002 <!-- Databricks: Sr. Product Manager, Databricks AI @ Seattle, Washington -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7680573002 <!-- Databricks: Sr. Product Manager, Databricks Free Edition @ San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8235785002 <!-- Databricks: Sr. Product Manager, Databricks Free Edition @ Seattle, Washington -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8326570002 <!-- Databricks: Sr. Product Manager, Databricks Repos @ Seattle, Washington -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8326513002 <!-- Databricks: Sr. Product Manager, Databricks Repos @ San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=6322654002 <!-- Databricks: Sr. Product Manager, Data Engineering @ San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7863522002 <!-- Databricks: Sr. Product Manager, Data Governance @ Seattle, Washington -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7863365002 <!-- Databricks: Sr. Product Manager, Data Governance @ San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8416951002 <!-- Databricks: Sr Software Engineer- Customer Experience Intelligence (CXI) @ Mountain View, California; San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8617901002 <!-- Databricks: Sr Software Engineer- CXI @ Mountain View, California; San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8493170002 <!-- Databricks: Sr Software Engineer, Infrastructure @ San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8815669002 <!-- Databricks: Sr. Software Engineer - Ingestion Core team @ San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8612865002 <!-- Databricks: Sr. Staff Security Software Engineer - Agentic Security Engineering @ Remote - California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8575251002 <!-- Databricks: Sr. Staff Software Engineer — Observability, Insights & Governance @ Bellevue, Washington; Seattle, Washington -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8575248002 <!-- Databricks: Sr. Staff Software Engineer — Observability, Insights & Governance @ Mountain View, California; San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8367021002 <!-- Databricks: Staff Backend Software Engineer- (AI Platform) @ San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8401114002 <!-- Databricks: Staff Machine Learning Engineer  @ San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8552484002 <!-- Databricks: Staff Software Engineer - AI Research Infrastructure @ New York City, New York; San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8582271002 <!-- Databricks: Staff Software Engineer, AI Runtime @ Mountain View, California; San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=5408888002 <!-- Databricks: Staff Software Engineer - Backend @ San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=6779232002 <!-- Databricks: Staff Software Engineer - Backend @ Seattle, Washington -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8032546002 <!-- Databricks: Staff Software Engineer - Customer Engagement & Docs Platform @ San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8416959002 <!-- Databricks: Staff Software Engineer – Customer Experience Intelligence  @ Mountain View, California; San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8584144002 <!-- Databricks: Staff Software Engineer- CXI @ Mountain View, California; San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=5646855002 <!-- Databricks: Staff Software Engineer - Distributed Data Systems @ San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8649279002 <!-- Databricks: Staff Software Engineer- Foundation Model Inference @ San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8202698002 <!-- Databricks: Staff Software Engineer - GenAI inference @ San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8692516002 <!-- Databricks: Staff Software Engineer – Genie One Mobile & Desktop @ Mountain View, California; San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8798198002 <!-- Databricks: Staff Software Engineer, Lakeflow Pipelines DR @ Mountain View, California; San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8663972002 <!-- Databricks: Staff Software Engineer - Streaming @ Bellevue, Washington; Seattle, Washington -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7979523002 <!-- Databricks: Staff Software Engineer - User Activation @ San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8482037002 <!-- Databricks: Systems PhD - Software Engineer  @ Mountain View, California; San Francisco, California -->
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8482086002 <!-- Databricks: Systems PhD - Software Engineer  @ Bellevue, Washington; Seattle, Washington -->
