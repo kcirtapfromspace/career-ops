@@ -22693,7 +22693,6 @@ https://boards.greenhouse.io/andurilindustries/jobs/5210477007?gh_jid=5210477007
 https://boards.greenhouse.io/andurilindustries/jobs/5213232007?gh_jid=5213232007	Anduril	Senior GNC Software Engineer	Waltham, Massachusetts, United States	2026-08-18	greenhouse_api
 https://boards.greenhouse.io/andurilindustries/jobs/5214396007?gh_jid=5214396007	Anduril	Senior Realtime Software Engineer	Boulder, Colorado, United States	2026-08-18	greenhouse_api
 https://boards.greenhouse.io/andurilindustries/jobs/4620033007?gh_jid=4620033007	Anduril	Senior Software Engineer, Guidance, Navigation, & Controls - Tactical Reconnaissance and Strike Division	Atlanta, Georgia, United States	2026-08-18	greenhouse_api
-https://boards.greenhouse.io/andurilindustries/jobs/5215086007?gh_jid=5215086007	Anduril	Senior Software Engineer, Maritime Enabling Technology	Quincy, Massachusetts, United States	2026-08-18	greenhouse_api
 https://boards.greenhouse.io/andurilindustries/jobs/5213223007?gh_jid=5213223007	Anduril	Senior Software Engineer, Robotics Tracking and Fusion	Waltham, Massachusetts, United States	2026-08-18	greenhouse_api
 https://boards.greenhouse.io/andurilindustries/jobs/5213225007?gh_jid=5213225007	Anduril	Senior Software Engineer, Robotics Tracking and Fusion	Fort Collins, Colorado, United States	2026-08-18	greenhouse_api
 https://boards.greenhouse.io/andurilindustries/jobs/5213224007?gh_jid=5213224007	Anduril	Senior Software Engineer, Robotics Tracking and Fusion	Washington, District of Columbia, United States	2026-08-18	greenhouse_api
@@ -23988,7 +23987,6 @@ https://job-boards.greenhouse.io/reddit/jobs/6369927	2026-08-23	scout-2026-08-23
 2026-08-23	5165949007	https://boards.greenhouse.io/andurilindustries/jobs/5165949007?gh_jid=5165949007	Anduril	Senior Software Engineer - Manufacturing Automation 	Costa Mesa, California, United States
 2026-08-23	5161509007	https://boards.greenhouse.io/andurilindustries/jobs/5161509007?gh_jid=5161509007	Anduril	Senior Software Engineer, Manufacturing Test	Atlanta, Georgia, United States
 2026-08-23	4780617007	https://boards.greenhouse.io/andurilindustries/jobs/4780617007?gh_jid=4780617007	Anduril	Senior Software Engineer, Maritime App 	Costa Mesa, California, United States; Seattle, Washington, United States
-2026-08-23	5215086007	https://boards.greenhouse.io/andurilindustries/jobs/5215086007?gh_jid=5215086007	Anduril	Senior Software Engineer, Maritime Enabling Technology	Quincy, Massachusetts, United States
 2026-08-23	5205934007	https://boards.greenhouse.io/andurilindustries/jobs/5205934007?gh_jid=5205934007	Anduril	Senior Software Engineer - Maritime Integrated Solutions	Costa Mesa, California, United States
 2026-08-23	5152584007	https://boards.greenhouse.io/andurilindustries/jobs/5152584007?gh_jid=5152584007	Anduril	Senior Software Engineer, Nix	Remote
 2026-08-23	5199072007	https://boards.greenhouse.io/andurilindustries/jobs/5199072007?gh_jid=5199072007	Anduril	Senior Software Engineer, Quality Integration 	Boston, Massachusetts, United States
@@ -53171,7 +53169,6 @@ https://databricks.com/company/careers/open-positions/job?gh_jid=8950673002	8950
 2026-11-21	True Anomaly	(confirmed-no-new above HWM 5300915007)	—	https://job-boards.greenhouse.io/trueanomalyinc	greenhouse_api	confirmed-seen
 2026-11-21	Temporal	(confirmed-no-new, full board current as of Nov 20)	—	https://temporal.io/careers	direct	confirmed-seen
 2026-11-21	Aurora Innovation	(board 404 / empty)	—	https://aurora.tech/careers	websearch	dead-board
-2026-11-21	True Anomaly	https://job-boards.greenhouse.io/trueanomalyinc/jobs/5281610007	FPGA Engineering Manager	Denver, CO; Long Beach, CA	greenhouse_api	scout-quickcheck-2026-11-21	filtered_title_hardware
 
 2026-11-21	https://job-boards.greenhouse.io/anthropic/jobs/5486907008	Anthropic	Community Engagement Manager, Data Centres (Canada)	Alberta, CAN | Remote-Friendly, Canada	quick-check
 2026-11-21	https://job-boards.greenhouse.io/anthropic/jobs/5490122008	Anthropic	Engineering Manager, Privacy Infrastructure	San Francisco, CA | New York City, NY	quick-check
@@ -53345,3 +53342,13 @@ https://job-boards.greenhouse.io/life360/jobs/8950301002	2026-11-26	greenhouse_a
 https://job-boards.greenhouse.io/mntn/jobs/8174543	2026-11-26	greenhouse_api	Engineering Manager, Data Platform	MNTN	closed-404
 https://job-boards.greenhouse.io/omadahealth/jobs/8052436	2026-11-26	greenhouse_api	Senior Engineering Manager, Data Engineering	Omada Health	closed-404
 https://job-boards.greenhouse.io/vercel/jobs/6264524004	2026-11-26	greenhouse_api	Software Engineer, Vercel Agent	Vercel	skipped_location-nyc-hybrid
+2026-11-26	https://job-boards.greenhouse.io/anthropic/jobs/5494120008	Engineering Manager, Cybersecurity Products	Anthropic	San Francisco, CA | New York City, NY	quickcheck
+2026-11-26	https://job-boards.greenhouse.io/anthropic/jobs/5369102008	Engineering Manager, Labs	Anthropic	San Francisco, CA | New York City, NY	quickcheck
+2026-11-26	https://job-boards.greenhouse.io/anthropic/jobs/5487188008	Software Engineer, Model-to-Product Behavior Engineering	Anthropic	San Francisco, CA	quickcheck
+2026-11-26	https://boards.greenhouse.io/andurilindustries/jobs/5123976007?gh_jid=5123976007	Senior AI Infrastructure Engineer	Anduril	Boston, Massachusetts, United States; Costa Mesa, California, United States; Seattle, Washington, United States; Washington, District of Columbia, United States	quickcheck
+2026-11-26	https://boards.greenhouse.io/andurilindustries/jobs/5308703007?gh_jid=5308703007	Staff Software Engineer	Anduril	Broomfield, Colorado, United States; Fort Collins, Colorado, United States	quickcheck
+2026-11-26	https://job-boards.greenhouse.io/trueanomalyinc/jobs/5309645007	Engineering Manager, Application Security	True Anomaly	Denver, CO; Long Beach, CA	quickcheck
+2026-11-26	https://careers.hellofresh.com/global/en/job/8395235?gh_jid=8395235	Senior Software Engineer [OPERATIONS TECHNOLOGY]	HelloFresh	Boulder, Colorado, United States; Chicago, Illinois, United States	quickcheck
+2026-11-26	https://databricks.com/company/careers/open-positions/job?gh_jid=8961261002	Sr. Engineering Manager - Notebook Foundations	Databricks	Mountain View, California	quickcheck
+2026-11-26	https://nuro.ai/careersitem?gh_jid=7078804	Senior/Staff Software Engineer, Ride-Hailing Product	Nuro	Mountain View, California (HQ)	quickcheck
+2026-11-26	https://www.zipline.com/open-roles/8213448003?gh_jid=8213448003	Staff Software Engineer - Maps & Routing	Zipline	South San Francisco, California, USA	quickcheck
