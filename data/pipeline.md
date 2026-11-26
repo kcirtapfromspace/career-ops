@@ -15076,3 +15076,8 @@ https://job-boards.greenhouse.io/life360/jobs/8895033002
 ## 2026-11-25 (quick-check)
 - [ ] https://boards.greenhouse.io/andurilindustries/jobs/5308703007?gh_jid=5308703007 <!-- Anduril: Staff Software Engineer (Broomfield, CO; Fort Collins, CO) | quick-check 2026-11-25 -->
 - [ ] https://careers.hellofresh.com/global/en/job/8395235?gh_jid=8395235 <!-- HelloFresh: Senior Software Engineer [OPERATIONS TECHNOLOGY] (Boulder, CO; Chicago, IL) | quick-check 2026-11-25 -->
+
+## 2026-11-26
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/6267134004 | Grafana Labs | Engineering Manager, Grafana Infrastructure | Remote US | ★ 4.5/5 — Foundations EM owning K8s clusters, cloud infra (GCP/AWS/Azure), identity, delivery, observability. Patrick's exact background (VA Watchtower, Argo Workflows). $189K–$227K, 100% remote. Top priority.
+- [ ] https://job-boards.greenhouse.io/life360/jobs/8936492002 | Life360 | Staff AI Platform Engineer | Remote US | ★ 4.1/5 — Builds LLM gateway, MCP gateway, agent orchestration, eval infra, observability for 107M MAU platform. IC Staff role. $149K–$271.5K.
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/6256088004 | Grafana Labs | Engineering Manager, Grafana Productivity | Remote US | ★ 4.0/5 — Foundations EM for SDLC tooling, app security, observability. Same comp $189K–$227K. Lower priority than EM Infrastructure.
