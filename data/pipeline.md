@@ -9427,3 +9427,10 @@ https://job-boards.greenhouse.io/life360/jobs/8895033002
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=7979523002 <!-- Databricks: Staff Software Engineer - User Activation @ San Francisco, California -->
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8482037002 <!-- Databricks: Systems PhD - Software Engineer  @ Mountain View, California; San Francisco, California -->
 - [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8482086002 <!-- Databricks: Systems PhD - Software Engineer  @ Bellevue, Washington; Seattle, Washington -->
+- [ ] https://job-boards.greenhouse.io/andurilindustries/jobs/5309020007 <!-- Anduril: Flight Software Engineer @ Atlanta, Georgia, United States -->
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4757997005 <!-- Glean: Technical Program Manager, LLM Infrastructure @ Mountain View, CA -->
+- [ ] https://job-boards.greenhouse.io/fivetran/jobs/7818376003 <!-- Fivetran: Senior Engineering Manager, dbt Engine @ Oakland, California, United States -->
+- [ ] https://job-boards.greenhouse.io/fivetran/jobs/8013525003 <!-- Fivetran: Senior Engineering Manager, dbt Engine @ Denver, Colorado, United States -->
+- [ ] https://job-boards.greenhouse.io/fivetran/jobs/8007245003 <!-- Fivetran: Staff Product Manager, Databases @ Remote, United States -->
+- [ ] https://job-boards.greenhouse.io/fivetran/jobs/8034257003 <!-- Fivetran: Staff Software Engineer @ Remote, New York, United States -->
+- [ ] https://job-boards.greenhouse.io/nuro/jobs/6810051 <!-- Nuro: Software Engineer, Performance @ Mountain View, California -->
