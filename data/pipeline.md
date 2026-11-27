@@ -1,4 +1,5 @@
 # Pipeline — Pending Offers
+<!-- Scout: 2026-11-27 automated — 2 new matches (25+ companies: Greenhouse API + OpenAI/Netflix/Temporal WebSearch). OpenAI: SWE Security Observability (Remote 3.0/5) + Learning Systems DE NYC (3.3/5 - remote TBD). Market very quiet — 11th consecutive day. Dead boards: Dagster (empty/Prefect merger), Confluent Ashby (404). Backlog: Databricks FDE CO (4.5/5) + Temporal 3x Staff SWE + Anthropic Principal Compute still unactioned. See reports/scout-2026-11-27.md. -->
 <!-- Scout: 2026-11-24 automated — 11 new matches (25+ companies: Greenhouse API + Temporal direct + WebSearch). Temporal: 8 new roles (3x Staff SWE, 1x Senior Staff, 4x Senior SWE — all US Remote). Anthropic: Principal Engineer Capacity/Compute Seattle variant (sibling of SF 5490974008 already in pipeline). Dead boards: Dagster (empty), Zipline API (404), Temporal Greenhouse (404). Backlog: Databricks FDE CO (4.5/5) + prior Temporal Staff SWE still unactioned. See reports/scout-2026-11-24.md. -->
 <!-- Scout: 2026-11-22 quickcheck — 0 new pipeline items. 35 companies via Greenhouse API only. 7,836 total jobs fetched. All matches already in history. NOTE: Fixed dedup bug (TSV multi-column URL parsing) — prior column-0-only scanning caused 47 false-positive "new" matches that were actually already seen. Dedup now reads all TSV columns. Market quiet 8th consecutive day. Dead boards: Dagster (empty). GetYourGuide (0 jobs returned). Backlog: Databricks FDE CO (4.5/5) + 3x Temporal Staff SWE + True Anomaly Senior MLE Denver need review. -->
 <!-- Scout: 2026-11-22 quickcheck — 2 new pipeline items. 19 companies scanned (Greenhouse API + Ashby + WebSearch). Anthropic Principal Engineer Capacity/Compute (5490974008, SF hybrid 4.0/5) + OpenAI Principal SWE B2B Engineering (Ashby aeff784b, Remote 3.8/5). Dead boards: Dagster/Prefect (empty/merged), Modal (empty). W&B Lever role 404. Glean 4x new Solutions Engr pre-sales filtered. See reports/scout-quickcheck-2026-11-22.md. -->
@@ -33,6 +34,15 @@
 <!-- Scout: 2026-10-28 quickcheck — 1 new match (42 companies: Greenhouse API only). Anthropic Staff+ SWE Deployment (Remote-Friendly/SF/Seattle). API errors: Temporal, RunPod, Black Forest Labs, Wayve, Aurora, Clickhouse (404). -->
 <!-- Scout: 2026-11-25 automated — 2 new matches (35+ companies: Greenhouse API + OpenAI WebSearch + Temporal confirmed no-new). OpenAI EM Core Experimentation Seattle ($510K-$536K, 4.0/5 — Statsig platform team) + Anthropic EM Cybersecurity Products SF/NYC (3.5/5). Market quiet 9th consecutive day. Dead boards: Dagster (empty/Prefect merger confirmed), Confluent Ashby (404). All prior pipeline items confirmed still open. See reports/scout-2026-11-25.md. -->
 
+
+## 2026-11-27 — Scout Scan (2 new matches)
+
+### Other Matches (3.0–3.9)
+
+- [ ] 2026-11-27 | **OpenAI** | Software Engineer, Security Observability | Remote US / SF / NYC / Seattle | Score: 3.0 | https://openai.com/careers/software-engineer-security-observability/ <!-- Observability background fits (VA.gov Watchtower), but SWE not Staff level. Verify level before investing time. -->
+- [ ] 2026-11-27 | **OpenAI** | Learning Systems Data Engineer | New York City, NY (remote TBD) | Score: 3.3 | https://openai.com/careers/learning-systems-data-engineer-new-york-city/ <!-- Data pipeline for training/RLHF data. Good CV fit. Verify remote eligibility. -->
+
+---
 
 ## 2026-11-25 — Scout Scan (2 new matches)
 
